@@ -1,0 +1,24 @@
+# Minimal, conservative dependencies for headless scraping and marker-extraction
+# (Pinning not added yet; keep flexible for local experiments)
+
+# PDF/XML retrieval
+paperscraper>=0.4
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# Markdown conversion (Marker CLI assumed installed separately if not available as a lib)
+# If Marker provides a Python API in your environment, add it here; otherwise call the CLI.
+
+# Parsing/analysis
+pandas>=2.0
+numpy>=1.24
+
+# Optional: CLI helpers
+click>=8.1
+
+# Dev/test
+pytest>=7.4
+
+# Optional: Crossref search
+crossrefapi>=1.6
