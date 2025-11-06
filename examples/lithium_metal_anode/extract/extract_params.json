@@ -1,0 +1,35 @@
+{
+  "markdown_dir": "../convert/crossref_md",
+  "results_dir": "extract/crossref_md_output",
+  "api_keys_file": "api_keys.txt",
+
+  "schema": {
+    "type": "python",
+    "module_path": "schemas/battery_schema.py",
+    "root_model": "Battery",
+    "root_container": "List"
+  },
+
+  "llm": {
+    "provider": "openai",
+    "model": "gpt-4.1-mini",
+    "temperature": 1.0,
+    "max_retries": 2,
+    "timeout_s": 60
+  },
+
+  "prompt": {
+    "file": "prompts/battery_prompts.yaml",
+    "mode": "fewshot",
+    "system_key": "system",
+    "user_key": "fewshot"
+  },
+
+  "run": {
+    "glob": "**/*.md",
+    "max_files": null,
+    "sleep_s": 0.0,
+    "on_parse_error": "save_raw",
+    "output_format": "txt"
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "battery_type": "lithium_metal",
+    "cell_components": {
+      "anode_material": "Li metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "Li3PS4",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "solid",
+      "separator": null,
+      "separator_type": null,
+      "cathode_material": "Li metal"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "Li/Li3PS4/Li cell",
+            "measurements": [
+              {
+                "measurement_type": "computational",
+                "performance_metrics": null,
+                "details": "First principles computer modeling studies of interfaces between Li3PS4 electrolyte and Li metal anode, showing structural and chemical alterations and modeling of a thin film buffer layer of Li2S."
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "Reported experiment showed that Li/Li3PS4/Li electrochemical cell can be cycled many times, implying interface stability."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": null,
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": null,
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]

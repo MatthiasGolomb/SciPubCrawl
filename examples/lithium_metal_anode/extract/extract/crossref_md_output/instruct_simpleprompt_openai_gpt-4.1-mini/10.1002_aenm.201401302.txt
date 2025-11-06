@@ -1,0 +1,365 @@
+[
+  {
+    "battery_type": "lithium_air",
+    "cell_components": {
+      "anode_material": "lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "NASICON-type glass-ceramic LTAP",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "solid",
+      "separator": "polymeric separator soaked with liquid organic electrolyte",
+      "separator_type": "polymer",
+      "cathode_material": "bifunctional air electrode with Pt/C catalyst and IrO2"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "hybrid Li-air battery with acidic catholyte",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": {
+                    "value": 10.0,
+                    "units": "cycles"
+                  },
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": {
+                    "value": 0.1,
+                    "units": "V"
+                  },
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "cycling performance of 1.2 mg cm^-2 Pt/C + 1.2 mg cm^-2 IrO2 air electrodes at 1 mA cm^-2 showing steady charging plateau"
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "current density",
+                "value": 1.0,
+                "units": "mA cm^-2"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "\u00b0C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  },
+  {
+    "battery_type": "lithium_air",
+    "cell_components": {
+      "anode_material": "lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "NASICON-type glass-ceramic LTAP",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "solid",
+      "separator": "polymeric separator soaked with liquid organic electrolyte",
+      "separator_type": "polymer",
+      "cathode_material": "bifunctional air electrode with Pt/IrO2/CNT"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "hybrid Li-air battery 5 wt.% Pt/C on CNT and IrO2 on CNT",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": {
+                    "value": 20.0,
+                    "units": "cycles"
+                  },
+                  "capacity_retention": null,
+                  "specific_capacity": {
+                    "value": 300.0,
+                    "units": "mAh g^-1"
+                  },
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": {
+                    "value": 0.72,
+                    "units": "V"
+                  },
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Capacity of 300 mAh g^-1 for 20 cycles, round-trip overpotential increase from 72 to 81% at the 10th cycle"
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "current density",
+                "value": 0.2,
+                "units": "mA cm^-2"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "\u00b0C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  },
+  {
+    "battery_type": "lithium_air",
+    "cell_components": {
+      "anode_material": "lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "NASICON-type glass-ceramic LTAP",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "solid",
+      "separator": "polymeric separator soaked with liquid organic electrolyte",
+      "separator_type": "polymer",
+      "cathode_material": "decoupled bifunctional air electrodes: NiCo2O4 nanoflakes on nickel foam (OER) and Pt/C (ORR)"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "hybrid Li-air battery with decoupled bifunctional air electrodes",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": {
+                    "value": 10.0,
+                    "units": "cycles"
+                  },
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Best cycling performance of decoupled bifunctional air electrodes at 2.0 mA cm^-2"
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "current density",
+                "value": 2.0,
+                "units": "mA cm^-2"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "\u00b0C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  },
+  {
+    "battery_type": "lithium_air",
+    "cell_components": {
+      "anode_material": "lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "NASICON-type glass-ceramic LTAP",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "solid",
+      "separator": "polymeric separator soaked with liquid organic electrolyte",
+      "separator_type": "polymer",
+      "cathode_material": "oxygen- and nitrogen-doped carbon nanoweb (ON-CNW) as ORR catalyst and NiCo2O4 nanoflakes on nickel foam as OER electrode"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "hybrid Li-air battery with ON-CNW ORR catalyst and NiCo2O4 OER electrode",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "higher discharge voltage and better voltage retention upon cycling compared to N-CNW"
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "current density",
+                "value": 0.5,
+                "units": "mA cm^-2"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "\u00b0C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  },
+  {
+    "battery_type": "lithium_air",
+    "cell_components": {
+      "anode_material": "lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "NASICON-type glass-ceramic LTAP",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "solid",
+      "separator": "polymeric separator soaked with liquid organic electrolyte",
+      "separator_type": "polymer",
+      "cathode_material": "hybrid Li-air cell with mesoporous nitrogen-doped carbon (N-MC) ORR catalyst and NiCo2O4 nanoflakes (NCONF@Ni) OER electrode"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "advanced hybrid Li-air cell with mesoporous nanocatalysts",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": {
+                    "value": 100.0,
+                    "units": "cycles"
+                  },
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": {
+                    "value": 0.08,
+                    "units": "V"
+                  },
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "discharge and charge overpotential stayed almost constant during 100 cycles with decoupled air electrodes NCONF@Ni + N-MC"
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "current density",
+                "value": 0.5,
+                "units": "mA cm^-2"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "\u00b0C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]

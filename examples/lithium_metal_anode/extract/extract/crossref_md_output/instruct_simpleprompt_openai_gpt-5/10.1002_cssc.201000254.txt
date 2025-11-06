@@ -1,0 +1,73 @@
+[
+  {
+    "battery_type": "lithium_metal",
+    "cell_components": {
+      "anode_material": "Lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "Lithium bis(trifluoromethanesulfonyl)imide (LiTFSI)",
+            "concentration": {
+              "value": 0.2,
+              "units": "mol/kg",
+              "concentration_type": "molal"
+            }
+          },
+          {
+            "name": "N-n-butyl-N-ethylpyrrolidinium bis(trifluoromethanesulfonyl)imide (Py24TFSI)",
+            "concentration": null
+          },
+          {
+            "name": "Ethylene carbonate (EC)",
+            "concentration": null
+          },
+          {
+            "name": "Propylene carbonate (PC)",
+            "concentration": null
+          },
+          {
+            "name": "Dimethyl carbonate (DMC)",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "quasi-solid",
+      "separator": "PVdF-HFP gel polymer membrane (M3: PVdF-HFP/LiTFSI\u2013Py24TFSI/EC\u2013PC\u2013DMC = 22:50:28 wt%; EC:PC:DMC = 1:1:2)",
+      "separator_type": "polymer",
+      "cathode_material": "LiFePO4"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "Li/M3/LiFePO4 polymer battery",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "Galvanostatic charge/discharge at C/10 at room temperature using the M3 membrane. Reproducible voltage profiles with delivered specific capacity approaching 170 mAh g^-1 relative to LiFePO4 active mass."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "C-rate",
+                "value": 0.1,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": "room temperature",
+            "value": null,
+            "units": null
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]

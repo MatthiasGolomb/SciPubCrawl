@@ -1,0 +1,252 @@
+[
+  {
+    "battery_type": "lithium_air",
+    "cell_components": {
+      "anode_material": "lithium",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "polyethylene oxide with Li(CF3SO2)2N (LiTFSA) polymer electrolyte",
+            "concentration": null
+          },
+          {
+            "name": "Li 1+x+y Al x (Ti,Ge) 2\u2212x Si y P 3\u2212y O 12 ceramic electrolyte",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "quasi-solid",
+      "separator": null,
+      "separator_type": null,
+      "cathode_material": "air electrode composed of carbon nanotubes and Li 1+x+y Al x (Ti,Ge) 2\u2212x Si y P 3\u2212y O 12 ceramic electrolyte"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "solid-state Li/PE/CE/CNT cell with a weight ratio x=5",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": {
+                    "value": null,
+                    "units": null
+                  },
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": {
+                    "value": 3.0,
+                    "units": "cycles"
+                  },
+                  "capacity_retention": {
+                    "value": 300.0,
+                    "units": "mAh g^-1"
+                  },
+                  "specific_capacity": {
+                    "value": 400.0,
+                    "units": "mAh g^-1"
+                  },
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": {
+                    "value": 10.0,
+                    "units": "mA g^-1"
+                  },
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": {
+                    "value": 2.9,
+                    "units": "V"
+                  },
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Charge-discharge cycles between 2.0 and 5.0 V (vs. Li) at 10 mA g^-1, initial discharge capacity about 420 mAh g^-1, reversible capacity about 400 mAh g^-1, capacity >300 mAh g^-1 in subsequent cycles, low coulombic efficiency in 3rd cycle."
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": {
+                    "value": 20.0,
+                    "units": "mA g^-1"
+                  },
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Discharge voltage slightly dropped when current density increased from 10 to 20 mA g^-1"
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": {
+                    "value": 50.0,
+                    "units": "mA g^-1"
+                  },
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Voltage rapidly dropped from 2.5 to 1.5 V during discharge at 50 mA g^-1; after discharging at 50 mA g^-1, cell can be discharged at 10 mA g^-1 with potential of 2.8 V"
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": {
+                    "value": 13000.0,
+                    "units": "Ohm"
+                  },
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Impedance spectra after discharging to 200 mAh g^-1, fitted by equivalent circuit; total resistance about 13000 Ohm"
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": {
+                    "value": 24000.0,
+                    "units": "Ohm"
+                  },
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Impedance of symmetric Li/PE/CE/PE/Li cell was 24000 Ohm"
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": {
+                    "value": 20000.0,
+                    "units": "Ohm"
+                  },
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Impedance of symmetric Li/PE/Li cell was 20000 Ohm"
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "current density",
+                "value": 10.0,
+                "units": "mA g^-1"
+              },
+              "conditions_are_dynamic": false
+            }
+          },
+          {
+            "name": "solid-state Li/PE/CE/CNT cells with varying CNT content",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "First charge-discharge curves for weight ratio x= 5, 10, 20, 50 in air electrode; discharge capacity increased from x=5 to 10, then decreased from x=10 to 50; charge capacity decreased with increasing x; discharge voltage decreased with increasing x; best performance at x=5."
+              }
+            ],
+            "cell_conditions": null
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": null,
+            "units": "\u00b0C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]

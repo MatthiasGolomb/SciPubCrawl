@@ -1,0 +1,230 @@
+[
+  {
+    "battery_type": "lithium_metal",
+    "cell_components": {
+      "anode_material": "lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "poly(vinylidenefluoride-co-hexafluoropropylene) (PVdF-HFP)",
+            "concentration": null
+          },
+          {
+            "name": "lithium N,N-bis(trifluoromethanesulfonyl)imide (LiTFSI) in N-n-butyl-N-ethylpyrrolidinium N,N-bis(trifluoromethanesulfonyl)imide (Py24TFSI)",
+            "concentration": {
+              "value": 0.2,
+              "units": "mol/kg",
+              "concentration_type": "molal"
+            }
+          },
+          {
+            "name": "organic solvents ethylene carbonate (EC), propylene carbonate (PC), dimethyl carbonate (DMC)",
+            "concentration": {
+              "value": 28.0,
+              "units": "wt%",
+              "concentration_type": "weight_percent"
+            }
+          }
+        ]
+      },
+      "electrolyte_type": "quasi-solid",
+      "separator": "poly(vinylidenefluoride-co-hexafluoropropylene) membrane (M3)",
+      "separator_type": "polymer",
+      "cathode_material": "lithium iron phosphate (LiFePO4)"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "Li/M3/LiFePO4 polymer battery",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": {
+                    "value": 170.0,
+                    "units": "mAh/g"
+                  },
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": {
+                    "value": 0.0217,
+                    "units": "A/cm2/g"
+                  },
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Charge-discharge cycling at C/10 rate; reproducible voltage profiles with specific capacity near theoretical 170 mAh/g at room temperature."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "galvanostatic",
+                "value": 0.1,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      },
+      {
+        "cells": [
+          {
+            "name": "Symmetrical Li/M3/Li cells",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": {
+                    "value": 1000.0,
+                    "units": "Ohm"
+                  },
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Stable Li/membrane interfacial resistance around 1000 Ohm over time measured by impedance spectroscopy."
+              }
+            ],
+            "cell_conditions": null
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      },
+      {
+        "cells": [
+          {
+            "name": "Membrane M3 ionic conductivity measurement",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": {
+                    "value": 0.005,
+                    "units": "S/cm"
+                  },
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Room-temperature ionic conductivity measured after one week storage."
+              }
+            ],
+            "cell_conditions": null
+          },
+          {
+            "name": "Membrane M3 ionic conductivity measurement at 100\u00b0C",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": {
+                    "value": 0.01,
+                    "units": "S/cm"
+                  },
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Ionic conductivity measured by impedance spectroscopy at 100\u00b0C."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": null,
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 25.0,
+            "units": "C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "battery_type": "lithium_metal",
+    "cell_components": {
+      "anode_material": "lithium metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "LiPF6",
+            "concentration": {
+              "value": 1.0,
+              "units": "M",
+              "concentration_type": "molar"
+            }
+          },
+          {
+            "name": "ethylene carbonate (EC)",
+            "concentration": null
+          },
+          {
+            "name": "dimethyl carbonate (DMC)",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "liquid",
+      "separator": "polydopamine-modified polypropylene separator",
+      "separator_type": "polymer",
+      "cathode_material": "LiFePO4"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "Half cell with polydopamine-modified PP separator",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": {
+                    "value": 95.93,
+                    "units": "%"
+                  },
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": {
+                    "value": 0.186,
+                    "units": "mA/cm2"
+                  },
+                  "ionic_conductivity": {
+                    "value": 3.08,
+                    "units": "mS/cm"
+                  },
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Ionic conductivity measured with electrolyte-soaked separator between SS electrodes by AC impedance. Charge rate 0.1C (0.186 mA/cm2) with discharge rates of 0.2C, 0.5C, 1.0C, 3.0C and voltage window 2.2-3.8 V CC-CV."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "C-rate",
+                "value": 0.1,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          },
+          {
+            "name": "Half cell with unmodified PP separator",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": {
+                    "value": 92.72,
+                    "units": "%"
+                  },
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": null,
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": {
+                    "value": 0.186,
+                    "units": "mA/cm2"
+                  },
+                  "ionic_conductivity": {
+                    "value": 1.26,
+                    "units": "mS/cm"
+                  },
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "Ionic conductivity measured with electrolyte-soaked separator between SS electrodes by AC impedance. Charge rate 0.1C (0.186 mA/cm2) with discharge rates of 0.2C, 0.5C, 1.0C, 3.0C and voltage window 2.2-3.8 V CC-CV."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "C-rate",
+                "value": 0.1,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": "room temperature",
+            "value": 25.0,
+            "units": "C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]

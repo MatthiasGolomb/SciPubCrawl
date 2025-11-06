@@ -1,0 +1,81 @@
+[
+  {
+    "battery_type": "lithium_metal",
+    "cell_components": {
+      "anode_material": "lithium-metal",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "LiCF3SO3",
+            "concentration": {
+              "value": 1.0,
+              "units": "mol/L",
+              "concentration_type": "molar"
+            }
+          },
+          {
+            "name": "1NM3 (tri(ethylene glycol)-substituted trimethylsilane)",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "liquid",
+      "separator": "glass-fiber separator impregnated with electrolyte",
+      "separator_type": "other",
+      "cathode_material": "Super P Li carbon with MnO2 nanorods and Kynar 2801 binder (50:50 weight ratio on aluminum grid)"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "Swagelok-type Li-O2 cell with 1NM3-LiCF3SO3 electrolyte",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "Voltage range 2.2-4.0 V, discharge and charge for 5 h each, capacity 500 mAh/g (normalized by weight of carbon and catalyst). Initial cell lasted about 13 cycles with low charge overpotentials then started fading. Replacing Li anode after failure allowed another 5 cycles at similar discharge/charge potential before failing."
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "SEM showed pristine Li metal with smooth surface; after 5 cycles, Li metal surface was destroyed with thick, fluffy deposited layer."
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "In situ XRD showed formation of LiOH and Li2CO3 on the anode during cycling, with decrease in Li metal peaks (110, 200)."
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "Ex situ XRD after 2 and 5 cycles confirmed LiOH formation on lithium anode surface and severe lithium consumption."
+              },
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": null,
+                "details": "FTIR spectra of the lithium anode after 5 cycles showed presence of -OH groups (LiOH) and carbonyl groups (aldehydes or carbonates), indicating electrolyte decomposition."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "constant current",
+                "value": 100.0,
+                "units": "mA/g"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": null,
+          "pressure": {
+            "control_type": null,
+            "value": 1.0,
+            "units": "bar"
+          },
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]

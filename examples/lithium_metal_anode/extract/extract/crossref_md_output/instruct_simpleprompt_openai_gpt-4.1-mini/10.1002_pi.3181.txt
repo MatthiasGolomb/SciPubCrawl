@@ -1,0 +1,224 @@
+[
+  {
+    "battery_type": "lithium_metal",
+    "cell_components": {
+      "anode_material": "lithium foil",
+      "electrolyte": {
+        "components": [
+          {
+            "name": "polymerized ionic liquid PIL 1gd-MA-TFSI",
+            "concentration": null
+          },
+          {
+            "name": "guanidinium ionic liquid 1g13TFSI",
+            "concentration": null
+          },
+          {
+            "name": "LiTFSI",
+            "concentration": null
+          },
+          {
+            "name": "nano-size SiO2",
+            "concentration": null
+          }
+        ]
+      },
+      "electrolyte_type": "quasi-solid",
+      "separator": null,
+      "separator_type": null,
+      "cathode_material": "LiFePO4"
+    },
+    "outcomes": [
+      {
+        "cells": [
+          {
+            "name": "Li/(PIL-1g13TFSI-LiTFSI-SiO2)/LiFePO4",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": {
+                    "value": 99.0,
+                    "units": "%"
+                  },
+                  "cycle_lifetime": null,
+                  "cycle_count": {
+                    "value": 70.0,
+                    "units": null
+                  },
+                  "capacity_retention": {
+                    "value": 135.0,
+                    "units": "mAh g-1"
+                  },
+                  "specific_capacity": {
+                    "value": 158.0,
+                    "units": "mAh g-1"
+                  },
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": "After initial increase, max capacity about 158 mAh g-1 at 0.1 C, capacity fading approx. 0.27 mAh g-1 per cycle for 70 cycles, final capacity 135 mAh g-1, average coulombic efficiency over 99%."
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "C-rate",
+                "value": 0.1,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          },
+          {
+            "name": "Li/(PIL-1g13TFSI-LiTFSI-SiO2)/LiFePO4",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": {
+                    "value": 130.0,
+                    "units": "mAh g-1"
+                  },
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": null
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "C-rate",
+                "value": 0.2,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          },
+          {
+            "name": "Li/(PIL-1g13TFSI-LiTFSI-SiO2)/LiFePO4",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": {
+                    "value": 96.0,
+                    "units": "mAh g-1"
+                  },
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": null
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "C-rate",
+                "value": 0.3,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          },
+          {
+            "name": "Li/(PIL-1g13TFSI-LiTFSI-SiO2)/LiFePO4",
+            "measurements": [
+              {
+                "measurement_type": "experimental",
+                "performance_metrics": {
+                  "coulombic_efficiency": null,
+                  "average_coulombic_efficiency": null,
+                  "cycle_lifetime": null,
+                  "cycle_count": null,
+                  "capacity_retention": null,
+                  "specific_capacity": {
+                    "value": 70.0,
+                    "units": "mAh g-1"
+                  },
+                  "areal_capacity": null,
+                  "gravimetric_energy_density": null,
+                  "volumetric_energy_density": null,
+                  "current_density": null,
+                  "ionic_conductivity": null,
+                  "electronic_conductivity": null,
+                  "transference_number": null,
+                  "electrochemical_stability_window": null,
+                  "overpotential": null,
+                  "voltage_range": null,
+                  "average_working_voltage": null,
+                  "impedance": null,
+                  "viscosity": null,
+                  "diffusion_coefficient": null
+                },
+                "details": null
+              }
+            ],
+            "cell_conditions": {
+              "cycling_rate": {
+                "control_type": "C-rate",
+                "value": 0.5,
+                "units": "C"
+              },
+              "conditions_are_dynamic": false
+            }
+          }
+        ],
+        "global_conditions": {
+          "temperature": {
+            "control_type": null,
+            "value": 80.0,
+            "units": "\u00b0C"
+          },
+          "pressure": null,
+          "conditions_are_dynamic": false
+        }
+      }
+    ]
+  }
+]
