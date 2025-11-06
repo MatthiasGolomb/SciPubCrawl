@@ -87,6 +87,9 @@ flowchart LR
   - `OPENAI_API_KEY` (LLM extraction via litellm)
 - Crossref requests include a polite User-Agent (Etiquette). Provide `--mailto` and app info where relevant.
 
+> Security note
+> Do not commit secrets to git. Use environment variables or a local file (e.g., `api_keys.txt`) that is ignored by git. This repository includes a `.gitignore` entry to exclude `api_keys.txt` and `.env*` files.
+
 ## Quickstart (full pipeline with examples)
 1) Search (Crossref, yearly dump → filter)
 <details><summary>Commands</summary>

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Environments / local config
+.env
+.env.*
+*.env
+*.env.*
+
+# API keys and secrets (keep out of git)
+api_keys.txt
+**/api_keys.txt
+
+# Outputs and scratch
+*.log
+.DS_Store
