@@ -8,7 +8,6 @@ SciPubCrawl is a script-first pipeline to search literature, download full texts
 
 • Primary path: 🔎 Search → ⬇️ Scrape → 📝 Convert (Marker) → 🧠 Extract (LLM)
 
-<sup>Heuristic extractor retained only for internal tests.</sup>
 
 ## Pipeline at a glance
 
