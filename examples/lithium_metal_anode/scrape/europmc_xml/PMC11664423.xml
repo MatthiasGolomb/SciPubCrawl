@@ -1,0 +1,1036 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11664423</article-id><article-id pub-id-type="pmid">39720146</article-id>
+<article-id pub-id-type="publisher-id">d4sc07374f</article-id><article-id pub-id-type="doi">10.1039/d4sc07374f</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Controllable reconstruction of lignified biomass with molecular scissors to form carbon frameworks for highly stable Li metal batteries<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available. See DOI: <uri xlink:href="https://doi.org/10.1039/d4sc07374f">https://doi.org/10.1039/d4sc07374f</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lu</surname><given-names>Qi</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="fn2" ref-type="author-notes">&#x02021;</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0005-5500-5604</contrib-id><name><surname>Yang</surname><given-names>Chenyu</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="fn2" ref-type="author-notes">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Yang</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="fn2" ref-type="author-notes">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Jiang</surname><given-names>Zhan</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Ke</surname><given-names>Da</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Meng</surname><given-names>Runze</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1254-9514</contrib-id><name><surname>Hu</surname><given-names>Sijiang</given-names></name><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="resid" authenticated="false">M-5518-2017</contrib-id><name><surname>Chen</surname><given-names>Yuanzhen</given-names></name><xref rid="affc" ref-type="aff">c</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6188-6886</contrib-id><name><surname>Zhang</surname><given-names>Chaofeng</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1495-270X</contrib-id><contrib-id contrib-id-type="resid" authenticated="false">J-1655-2016</contrib-id><name><surname>Yang</surname><given-names>Jianping</given-names></name><xref rid="affd" ref-type="aff">d</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7364-0434</contrib-id><contrib-id contrib-id-type="resid" authenticated="false">A-8704-2015</contrib-id><name><surname>Zhou</surname><given-names>Tengfei</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>Institutes of Physical Science and Information Technology, Key Laboratory of Structure and Functional Regulation of Hybrid Material (Ministry of Education), Anhui University</institution>
+<city>Hefei 230601</city>
+<country>China</country>
+<email>tengfeiz@ahu.edu.cn</email>
+</aff><aff id="affb">
+<label>b</label>
+<institution>Guangxi Key Laboratory of Low Carbon Energy Material, Guangxi Normal University</institution>
+<city>Guilin</city>
+<postal-code>541004</postal-code>
+<country>China</country>
+</aff><aff id="affc">
+<label>c</label>
+<institution>The State Key Laboratory for Mechanical Behavior of Materials, School of Materials Science and Engineering, Xi'an Jiaotong University</institution>
+<city>Xi'an 710049</city>
+<country>P. R. China</country>
+</aff><aff id="affd">
+<label>d</label>
+<institution>State Key Laboratory for Modification of Chemical Fibers and Polymer Materials, College of Materials Science and Engineering, Donghua University</institution>
+<city>Shanghai 201620</city>
+<country>China</country>
+</aff></contrib-group><author-notes><fn id="fn2"><label>&#x02021;</label><p>Q. L., C. Y. and Y. X. contributed equally to this work.</p></fn></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2024-12-16"><day>16</day><month>12</month><year>2024</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-01-22"><day>22</day><month>1</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>16</day><month>12</month><year>2024</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>4</issue><fpage>1791</fpage><lpage>1801</lpage><history><date date-type="received" iso-8601-date="2024-10-31"><day>31</day><month>10</month><year>2024</year></date><date date-type="accepted" iso-8601-date="2024-12-16"><day>16</day><month>12</month><year>2024</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2024-12-16">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>Lithium metal batteries (LMBs) promise high-energy-density storage but face safety issues due to dendrite-induced lithium deposition, irreversible electrolyte consumption, and large volume changes, which hinder their practical applications. To address these issues, tuning lithium deposition by structuring a host for the lithium metal anode has been recognized as an efficient method. Herein, we report a supercritical water molecular scissor-controlled strategy to form a carbon framework derived from biomass wood. Proximate-supercritical water treatment is used to selectively cleave the &#x003b2;-O-4 bonds in lignin, with the extent of degradation controlled by adjusting the treatment environment's acidity. The enhanced thermal power of supercritical water molecules significantly accelerates the etching rate of lignin, increasing the porosity and permeability of the transformed carbon framework. Experimental results and multi-physics simulations show that the interconnected carbon-based pores and inner skeletal multilevel hierarchical structure facilitate rapid electron and ion transfer during battery operation and enhance electrolyte infiltration. Impressively, the as-obtained lithium metal anode exhibits long-term cycling stability for over 2000 hours at 0.5 mA cm<sup>&#x02212;2</sup> with low voltage overpotential. The water-treated <italic toggle="yes">Pinus</italic> (WTP)-Li//LiCoO<sub>2</sub> full cells maintain a high capacity retention rate of 93.3% and a specific capacity of 142 mA h g<sup>&#x02212;1</sup> at 0.5C for 100 cycles.</p></abstract><abstract abstract-type="toc"><p>Lithium metal batteries (LMBs) promise high energy density but suffer from dendrite formation. We developed a supercritical water treatment to create a porous carbon framework from biomass wood, achieving high capacity retention.<graphic xlink:href="d4sc07374f-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>52172173</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Natural Science Foundation of Anhui Province</institution><institution-id institution-id-type="doi">10.13039/501100003995</institution-id></institution-wrap>
+</funding-source><award-id>2208085Y05</award-id></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Lithium metal batteries (LMBs) have garnered significant attention due to their extremely high theoretical specific capacity of 3860 mA h g<sup>&#x02212;1</sup> and relatively low redox potential of &#x02212;3.04 V (<italic toggle="yes">versus</italic> the standard hydrogen electrode),<sup><xref rid="cit1" ref-type="bibr">1&#x02013;5</xref></sup> indicating greater potential for application in high energy density batteries. However, the use of lithium metal anodes presents several challenges.<sup><xref rid="cit6" ref-type="bibr">6</xref></sup> First, it experiences significant volume changes during charge and discharge cycles. The uneven surface of lithium metal leads to non-uniform charge distribution, causing lithium ions to preferentially deposit in regions with higher charge density, which induces the growth of lithium dendrites.<sup><xref rid="cit7" ref-type="bibr">7,8</xref></sup> These continuously growing dendrites can pierce the separator, causing short circuits. Additionally, the highly reactive nature of lithium metal readily leads to side reactions with the electrolyte, forming a solid electrolyte interphase (SEI) that undergoes repeated breaking and regeneration, resulting in capacity loss and increased impedance. Moreover, the high specific surface area of lithium dendrites can lead to parts detaching, which then get wrapped in the insulating SEI, forming dead lithium. This dead lithium reduces the battery's capacity and affects its cycle life.<sup><xref rid="cit9" ref-type="bibr">9,10</xref></sup> Consequently, the direct use of lithium metal anodes may result in low cycle performance and thermal runaway risks, significantly hindering the commercialization of LMBs.<sup><xref rid="cit11" ref-type="bibr">11</xref></sup></p><p>In order to solve the multiple existing problems mentioned above, numerous studies have been conducted by researchers.<sup><xref rid="cit12" ref-type="bibr">12&#x02013;14</xref></sup> Introducing Li metal into a host is a promising strategy for stabilizing Li metal anodes.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup> Cui <italic toggle="yes">et al.</italic> introduced the concept of a scaffold/host strategy to mitigate volume changes, and reported a layered Li-reduced graphene oxide composite anode by the melting-diffusion method.<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> Lu <italic toggle="yes">et al.</italic> developed a facile strategy to simultaneously KOH-etch and nitrogen-dope commercial carbon cloth into a 3D multifunctional host anode for LMBs.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> Eom <italic toggle="yes">et al.</italic> focused on the lithiophobic behaviors of metals caused by crystallographic discrepancies and the feasibility of using Ti metals as shields to block the electrodeposition of Li on the top surface of the 3D-host. While the structural design methods of lithium metal hosts have somewhat improved the cycling performance of lithium batteries, they still cannot entirely prevent the formation of dead lithium and anode volume expansion.<sup><xref rid="cit18" ref-type="bibr">18&#x02013;20</xref></sup> The coulombic efficiency remains suboptimal, and the high cost and complex preparation of the scaffolds continue to impede their practical application.</p><p>Carbon frameworks derived from biomass wood stand out due to their low cost, wide availability, renewability, and environmental friendliness. These frameworks retain the inherent chamber structure of the original cytoderm, which, when used as a substrate for lithium metal battery anodes, directs the uniform deposition of lithium metal in designated spaces and accommodates its expansion and contraction during charge&#x02013;discharge cycles.<sup><xref rid="cit21" ref-type="bibr">21,22</xref></sup> Additionally, the interconnected carbon-based pores facilitate rapid electron and ion transfer during battery operation and enhance electrolyte infiltration. For instance, Wu's group prepared self-supporting hyphae carbon nanobelts as hosts by carbonizing hyphae balls of Rhizopus.<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> However, directly carbonized biomass anodes lack refined surface structures, limiting their lithium affinity, electrolyte wettability, and long-term structural stability, thereby constraining their application in high-performance lithium metal batteries.<sup><xref rid="cit24" ref-type="bibr">24&#x02013;26</xref></sup> Therefore, there is an urgent need to use pretreatment methods to modify the surface structure, porosity, and permeability of these anodes.</p><p>To explore the effect of applying biomass carbon with different microstructures on LMB cycling performance, this study utilized <italic toggle="yes">Pinus sylvestris</italic> as the biomass wood. The primary components of pine wood cell walls are hemicellulose (20&#x02013;30 wt%), cellulose (40&#x02013;50 wt%), and lignin (10&#x02013;35 wt%).<sup><xref rid="cit27" ref-type="bibr">27</xref></sup> Hemicellulose and cellulose are polymers of C5 and C6 sugars with specific ether bonds, whereas lignin is a more complex, three-dimensional, amorphous polymer composed of various phenolic monomers connected by ether and carbon&#x02013;carbon bonds.<sup><xref rid="cit28" ref-type="bibr">28&#x02013;30</xref></sup> Moreover, lignin, being the backbone of wood, can be selectively degraded by breaking part of its valence bond structure to achieve the desired carbon framework that can be carbonized after modification.<sup><xref rid="cit31" ref-type="bibr">31,32</xref></sup> In this study, supercritical water treatment is used to selectively cleave the &#x003b2;-O-4 bonds in lignin, effectively degrading and transforming the biomass wood. The depth and extent of degradation can be precisely controlled by adjusting the acidity. After carbonization, the undegraded lignin matrix exhibits a three-dimensional fine structure with a rigid, multi-level surface architecture.<sup><xref rid="cit33" ref-type="bibr">33</xref></sup> This microstructure facilitates the uniform deposition of molten lithium metal and enhances the absorption and infiltration of the electrolyte, providing sufficient space to accommodate volume changes during electrochemical processes. When applied to LMBs, water-treated <italic toggle="yes">Pinus</italic> (WTP)-Li symmetric cells can cycle stably for over 2000 hours at a high current density with low overpotential. Additionally, when paired with lithium cobalt oxide (LiCoO<sub>2</sub>) as the cathode in full cells, performance is significantly improved. This study offers new options for three-dimensional LMB host materials and proposes innovative approaches for their practical application.</p></sec><sec><title>Results and discussion</title><p>
+<xref rid="sch1" ref-type="fig">Scheme 1</xref> illustrates the formation process of carbon frameworks derived from biomass wood. Lignin, a major component, forms the core of the cell walls of plants alongside cellulose, while hemicellulose binds these polymers together. Proximate-supercritical water treatment of biomass wood in different acidic environments breaks down bonds in lignin, cellulose, and hemicellulose, which are then carbonized to form biomass carbon.<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> These carbon frameworks retain the three-dimensional, uniform porous structure of pine while exhibiting a certain rigidity. To further verify the cleavage of lignin and other substances, gas chromatography-mass spectrometry (GC-MS) analysis was conducted on the liquids after hydrothermal reactions of proximate-supercritical WTP, base-treated <italic toggle="yes">Pinus</italic> (BTP), and acid-treated <italic toggle="yes">Pinus</italic> (ATP). The data in <xref rid="sch1" ref-type="fig">Scheme 1</xref> indicate that the cleavage of lignin in WTP produces a substantial amount of guaiacol monomers, along with small amounts of acids and phenols. BTP contains a minor amount of guaiacol monomers and acids, mostly aldehydes and ketones. In ATP, only trace amounts of aldehydes and ketones are present, further confirming the bond cleavage positions shown in <xref rid="sch1" ref-type="fig">Scheme 1</xref>. During proximate-supercritical water treatment, under supercritical conditions, water is likely to exist in monomeric or dimeric states owing to a substantial decrease in hydrogen-bond content. This reduction in both the hydrogen bond count and the dielectric constant allows supercritical water to function as a low-polarity solvent, capable of achieving complete miscibility with small-molecule organics and gases. Consequently, a homogeneous reaction environment is established.<sup><xref rid="cit35" ref-type="bibr">35,36</xref></sup> The homologous OH<sup>&#x02212;</sup> ions in water molecules selectively break the &#x003b2;-O-4 bonds in lignin without cleaving the C&#x02013;C bonds, forming guaiacol monomers. H<sup>+</sup> ions generate single phenolic substances such as aromatic hydrocarbons and phenols, and they hydrolyze cellulose and hemicellulose into acids, resulting in a three-dimensional carbon skeleton with a multi-layer foam carbon structure. However, during alkaline treatment, the yield of guaiacol monomers is less than 10%, due to the attack of OH<sup>&#x02212;</sup> ions on a significant number of lignin monomers, leading to the formation of derivatives such as aromatics and ketones. Conversely, in acidic treatment, minimal disruption of the bonds within lignin and other substances occurs, thereby preserving the three-dimensional structure of the wood (<xref rid="sch1" ref-type="fig">Scheme 1</xref>).</p><fig position="float" id="sch1" fig-type="scheme"><label>Scheme 1</label><caption><title>The formation process of carbon frameworks derived from biomass wood and the bond cleavage of lignin in wood. (a and b) Schematic illustration of the fabrication and the structures of ATP, WTP and BTP. (c) Cleavage location of lignin bonds in ATP, WTP and BTP. (d) GC-MS analysis of the solution after the hydrothermal reaction of ATP, WTP and BTP (pie chart illustrates the content of the pyrolysis product).</title></caption><graphic xlink:href="d4sc07374f-s1" position="float"/></fig><p>After the preparation of the hierarchical structure of the carbon frameworks, we compared it with copper foam, nickel foam, carbon paper, and carbon cloth as lithium host materials. Scanning electron microscopy (SEM) depicted different lithium 3D carrier materials, all exhibiting 3D disordered structural topography, while biomass carbon was uniformly porous (Fig. S1<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The cross-sectional SEM image (Fig. S1e<xref rid="fn1" ref-type="fn">&#x02020;</xref>) reveals numerous micro-sized pores of varying diameters that act as crucial channels for lithium electrodeposition and stripping. Meanwhile, the longitudinal SEM image (Fig. S1f<xref rid="fn1" ref-type="fn">&#x02020;</xref>) demonstrates that the wood possesses vertically aligned, low-curvature channels that expedite electrolyte transmission and promote swift migration of lithium ions, thus significantly improving the battery's cycling stability. By adjusting the treatment environment's acidity, we achieved a wide range of surface microstructure morphologies. We investigated the effects of different surface microstructures of biomass carbon as a host of lithium in LMBs. The carbonized biomass after proximate-supercritical water treatment exhibits a multi-level structure, with a dense inner carbon skeleton and a foam-like porous outer layer (<xref rid="fig1" ref-type="fig">Fig. 1a and b</xref>).<sup><xref rid="cit37" ref-type="bibr">37</xref></sup><xref rid="fig1" ref-type="fig">Fig. 1c</xref> shows a high-resolution transmission electron microscopy (HRTEM) image of a WTP sample. The carbon skeleton structure of BTP is extensively destroyed and penetrated by alkalis, forming micro-surfaces with a large number of irregular pores (<xref rid="fig1" ref-type="fig">Fig. 1d</xref>). In contrast, the biomass carbon treated with acid and directly carbonized without any treatment demonstrates both intact inner and outer carbon skeleton structures (<xref rid="fig1" ref-type="fig">Fig. 1e and f</xref>).</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>Characterization of the graphitization and morphology of carbon materials. SEM images of (a and b) WTP, (d) BTP, (e) ATP and (f) UTP. (c) HRTEM image of WTP. (g) XRD patterns, (h) Raman spectra and (i) N<sub>2</sub> adsorption/desorption curves of WTP, ATP, BTP and UTP.</title></caption><graphic xlink:href="d4sc07374f-f1" position="float"/></fig><p>X-ray diffraction (XRD) was used to further characterize the carbon crystal structure and graphitization. The presence of two distinct characteristic peaks (002) and (101) in <xref rid="fig1" ref-type="fig">Fig. 1g</xref> corresponds to the amorphous structure and the degree of graphitization of the carbonized wood, respectively. The graphitization degree of various biomass carbons was compared by calculating their corresponding <italic toggle="yes">R</italic>-values.<sup><xref rid="cit38" ref-type="bibr">38,39</xref></sup> The <italic toggle="yes">R</italic>-value of the WTP sample was 1.967, which was higher than the <italic toggle="yes">R</italic>-values of the BTP (1.769), the ATP (1.725), and the untreated <italic toggle="yes">Pinus</italic> (UTP) sample (1.732). This suggests that the WTP sample exhibits a superior degree of crystallinity and higher electrical conductivity, thereby facilitating electron transfer and Li<sup>+</sup> transport.<sup><xref rid="cit40" ref-type="bibr">40</xref></sup> Furthermore, the various biomass carbons were characterized using Raman spectroscopy. The D band, located at 1350 cm<sup>&#x02212;1</sup>, corresponds to the defects and amorphous carbon structure of the carbon material. The G band is situated at 1580 cm<sup>&#x02212;1</sup>, corresponding to the in-plane vibrations caused by graphite (<xref rid="fig1" ref-type="fig">Fig. 1h</xref>).<sup><xref rid="cit41" ref-type="bibr">41</xref></sup> The Raman spectrum's G/D intensity ratio (<italic toggle="yes">I</italic><sub>G</sub>/<italic toggle="yes">I</italic><sub>D</sub>) indicates the degree of graphitization, with a higher ratio indicating better crystallinity and superior electrical conductivity.<sup><xref rid="cit42" ref-type="bibr">42</xref></sup> This indicates that WTP has a higher degree of graphitization, followed by BTP, while the degree of graphitization of ATP is comparatively poorer than that of UTP.<sup><xref rid="cit43" ref-type="bibr">43</xref></sup> N<sub>2</sub> adsorption&#x02013;desorption experiments can demonstrate the specific surface area and pore size distribution of different biomass carbons. The adsorption and desorption curves of biomass carbon for nitrogen belong to the typical type I adsorption. There is a rapid increase in adsorption at lower relative pressures, and the adsorption appears to be saturated at a certain relative pressure.<sup><xref rid="cit44" ref-type="bibr">44</xref></sup> This reflects the presence of a pronounced microporous structure (<xref rid="fig1" ref-type="fig">Fig. 1i</xref>). WTP has the largest specific surface area of 598.480 m<sup>2</sup> g<sup>&#x02212;1</sup> and a smaller average pore size of 3.825 nm. This provides an advantage over the other samples as it can provide a large number of active sites and buffer locations for lithium metal plating and stripping, thus improving the cycling stability of the battery (Fig. S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>In view of the deposition behavior of lithium metal on various three-dimensional materials, we used SEM to study the morphological deposition of lithium metal at a current density of 1.0 mA cm<sup>&#x02212;2</sup> under different plating times. First, we compared the lithium deposition behavior on copper foam, nickel foam, carbon paper, and carbon cloth (Fig. S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Lithium metal deposits unevenly on the surfaces of these three-dimensional hosts. As the lithium plating time increases, a substantial amount of inactive lithium and even dead lithium accumulates on the host surfaces, leading to the formation of numerous lithium dendrites. In comparison to three-dimensional hosts like copper foam, metallic lithium deposits more uniformly on biomass carbon.<sup><xref rid="cit45" ref-type="bibr">45</xref></sup> The numerous pores in biomass carbon provide a significant number of deposition channels for metallic lithium. Particularly in WTP, lithium metal tends to nucleate and grow primarily on the outer layer of carbon foam before gradually extending into the vertical channels and ultimately filling the entire channel (<xref rid="fig2" ref-type="fig">Fig. 2d</xref>). COMSOL Multiphysics simulations were performed on the lithium deposition behavior in WTP and UTP. As shown in the simulation results, the unique multi-level carbon structure of WTP is able to guide lithium deposition on the pore surface, indicating that lithium dendrite growth and electrode volume changes are successfully regulated by the 3D carbon skeleton structure. However, a large amount of lithium in UTP gradually accumulates at the bottleneck over time, eventually leading to dendrite formation (<xref rid="fig2" ref-type="fig">Fig. 2f</xref>). Meanwhile, during lithium deposition, a considerable amount of metallic lithium tends to nucleate and accumulate on the surface of biomass carbon in both ATP and UTP (<xref rid="fig2" ref-type="fig">Fig. 2b and c</xref>), which can lead to channel blockage and wastage of space volume. Upon comparison, it has been found that proximate-supercritical water treatment plays a significant role in the processing of biomass carbon, particularly in guiding the nucleation and deposition process of lithium metal. This multi-level structure exhibits improved lithium ion transport kinetics.<sup><xref rid="cit46" ref-type="bibr">46,47</xref></sup> After 20 cycles, we disassembled and removed the lithium composite carbon sheets and reacted them with water and ethanol. The results showed that the original structure and morphology of WTP-Li was unchanged after reacting with both water and ethanol, whereas BTP-Li, ATP-Li, and UTP-Li were completely shattered after the reaction (<xref rid="fig2" ref-type="fig">Fig. 2g</xref>). The rigid inner surface carbon skeleton of proximate-supercritical water-treated WTP samples ensures complete preservation of the naturally occurring pore structure of the carbon material. Simultaneously, the high toughness foam-like outer surface carbon can significantly accommodate volume strain. This multi-level structure promotes the formation of a stable SEI during lithium metal plating/stripping processes, thereby maintaining the structural integrity of WTP.<sup><xref rid="cit48" ref-type="bibr">48</xref></sup> At a current density of 1 mA cm<sup>&#x02212;2</sup> and a capacity of 1 mA h cm<sup>&#x02212;2</sup>, the nucleation behavior of lithium during the first cycle of deposition shows a gradually increasing curve, eventually reaching a plateau. This plateau represents the polarization voltage (<xref rid="fig2" ref-type="fig">Fig. 2e</xref>).<sup><xref rid="cit49" ref-type="bibr">49,50</xref></sup> The nucleation overpotential of the WTP electrode is the lowest at &#x02212;28 mV, while the BTP electrode, ATP electrode, UTP electrode, and bare Li electrode have poor lithium affinity, resulting in their nucleation overpotentials being &#x02212;75 mV, &#x02212;139 mV, &#x02212;161 mV, and &#x02212;186 mV, respectively. The WTP electrode exhibits a lower nucleation overpotential, further demonstrating the effective reduction of impedance in battery cycling by the multi-level structured carbon for water treatment. This also demonstrates superior ion/electron transport capabilities.<sup><xref rid="cit51" ref-type="bibr">51</xref></sup></p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>Lithium deposition and structural stability of different carbon materials. The SEM images of (a) BTP, (b) ATP, (c) UTP and (d) WTP after plating 1.0 h, 3.0 h, 6.0 h, 12.0 h and 24.0 h lithium at 1.0 mA cm<sup>&#x02212;2</sup>, respectively (scale bar is 20 &#x003bc;m). (e) Voltage&#x02013;capacity curve of lithium deposition nucleation. (f) Simulation results of lithium deposition behavior in the WTP cathode. Here, the arrows represent the electrolyte current density vector. (g) Reaction diagram of WTP-Li, BTP-Li, ATP-Li, and UTP-Li with deionized water and anhydrous ethanol.</title></caption><graphic xlink:href="d4sc07374f-f2" position="float"/></fig><p>Molten lithium impregnation experiments were conducted on directly carbonized UTP and WTP to study the wettability of biomass carbon and molten lithium, influenced by different surface microstructures. The results demonstrate that molten metallic lithium can completely and uniformly penetrate WTP samples within 12 seconds, in contrast to the slower diffusion and uneven distribution observed in UTP samples (<xref rid="fig3" ref-type="fig">Fig. 3a and c</xref>). Additionally, the integration of biomass carbon with lithium metal significantly enhances ductility, thereby facilitating the assembly of subsequent battery components. Meanwhile, the wetting behavior of molten lithium metal was simulated (<xref rid="fig3" ref-type="fig">Fig. 3b and d</xref>). This demonstrates the good lithium affinity and strong capillary action of WTP biomass carbon. To investigate the electrochemical reaction kinetics of metallic lithium under WTP modification, electrochemical impedance spectroscopy (EIS) tests were performed on symmetric cells composed of WTP-Li/WTP-Li, BTP-Li/BTP-Li, ATP-Li/ATP-Li, UTP-Li/UTP-Li, and Li/Li. The symmetric cells were cycled at a current density of 1 mA cm<sup>&#x02212;2</sup> for one hour per charge/discharge cycle. Prior to cycling, the <italic toggle="yes">R</italic><sub>ct</sub> value of the WTP-Li electrode was 17.82 &#x003a9;, which is lower than that of the BTP-Li, ATP-Li, UTP-Li, and bare Li electrodes (Fig. S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>). After 50 cycles, the <italic toggle="yes">R</italic><sub>ct</sub> value of the WTP-Li electrode decreased to 11.63 &#x003a9;, remaining lower than that of the other four electrodes (<xref rid="fig3" ref-type="fig">Fig. 3e</xref>). The impedance spectrum from EIS indicates a lower impedance during the reaction process of the WTP-Li electrode, confirming that the multi-level structured carbon formed by water treatment effectively reduces interfacial resistance, thereby facilitating faster charge transfer kinetics and Li<sup>+</sup> transport capability. Additionally, the Warburg factor (<italic toggle="yes">&#x003c3;</italic>) related to Li<sup>+</sup> diffusion in the low-frequency region was calculated by determining the slope of <italic toggle="yes">Z</italic>&#x02032; <italic toggle="yes">versus &#x003c9;</italic><sup>&#x02212;1/2</sup> (<italic toggle="yes">Z</italic>&#x02032; &#x0221d; <italic toggle="yes">&#x003c3;&#x003c9;</italic><sup>&#x02212;1/2</sup>). The diffusion coefficient of lithium ions (<italic toggle="yes">D</italic> value) was determined using the empirical equation <italic toggle="yes">D</italic> = 0.5 (<italic toggle="yes">R</italic><sup>2</sup><italic toggle="yes">T</italic><sup>2</sup>/<italic toggle="yes">A</italic><sup>2</sup><italic toggle="yes">n</italic><sup>4</sup><italic toggle="yes">F</italic><sup>4</sup><italic toggle="yes">C</italic><sup>2</sup><italic toggle="yes">&#x003c3;</italic><sup>2</sup>).<sup><xref rid="cit52" ref-type="bibr">52</xref></sup> After 50 cycles, the Li<sup>+</sup> diffusion coefficient of the WTP-Li electrode was 2.08 &#x000d7; 10<sup>&#x02212;13</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>, which is higher than that of the BTP-Li (6.09 &#x000d7; 10<sup>&#x02212;14</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>), ATP-Li (5.68 &#x000d7; 10<sup>&#x02212;15</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>), UTP-Li (3.62 &#x000d7; 10<sup>&#x02212;15</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>), and bare Li electrodes (3.48 &#x000d7; 10<sup>&#x02212;15</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>) (Fig. S5<xref rid="fn1" ref-type="fn">&#x02020;</xref>). This result further demonstrates faster ion/electron transfer kinetics in WTP electrodes. Tafel curve tests were also conducted on symmetric cells of WTP-Li/WTP-Li, BTP-Li/BTP-Li, ATP-Li/ATP-Li, UTP-Li/UTP-Li, and Li/Li (Fig. S6<xref rid="fn1" ref-type="fn">&#x02020;</xref>) to calculate the exchange current density of each electrode.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>Reaction kinetics of lithium in different carbon materials. Infiltration of (a) WTP and (c) UTP with molten lithium. Molten lithium infiltration simulations corresponding to (b) WTP and (d) UTP. (e) After 50 cycles, EIS of the WTP-Li electrode, BTP-Li electrode, ATP-Li electrode, UTP-Li electrode and bare lithium electrode. (f) Exchange current density and lithium ion diffusion coefficient statistical histogram. (g) XPS spectra of WTP-Li, BTP-Li, ATP-Li and UTP-Li electrode F 1s.</title></caption><graphic xlink:href="d4sc07374f-f3" position="float"/></fig><p>To further understand the reaction kinetics of lithium metal under WTP electrodes and the degree of electrode polarization corrosion, we summarize the exchange current density and Li<sup>+</sup> diffusion coefficient in four carbon framework electrodes and Li/Li symmetrical batteries.<sup><xref rid="cit53" ref-type="bibr">53</xref></sup> The exchange current density (<italic toggle="yes">j</italic> value) of the WTP-Li electrode is 9.98 mA cm<sup>&#x02212;2</sup>, which is higher than that of BTP-Li (1.25 mA cm<sup>&#x02212;2</sup>), ATP-Li (0.62 mA cm<sup>&#x02212;2</sup>), UTP-Li (0.53 mA cm<sup>&#x02212;2</sup>), and bare lithium (0.06 mA cm<sup>&#x02212;2</sup>) (<xref rid="fig3" ref-type="fig">Fig. 3f</xref>). The higher exchange current density indicates superior charge transfer kinetics and Li<sup>+</sup> transport capability, which is consistent with the EIS analysis results. LiF is an important component of the SEI membrane. Studies have shown that the protective effect of lithium fluoride on the cathode is due to its rapid lithium ion conduction mechanism. Furthermore, lithium fluoride has high surface energy and a low Li<sup>+</sup> diffusion barrier, which promotes uniform deposition of Li<sup>+</sup>.<sup><xref rid="cit54" ref-type="bibr">54</xref></sup> X-ray photoelectron spectroscopy (XPS) was used to analyze the composition of LiF in the SEI on the surface of electrodes after 2 and 20 cycles in a half-cell. The percentage of LiF in the WTP electrode is higher after 2 cycles (36.1%) and 20 cycles (49.5%) compared to other electrodes (<xref rid="fig3" ref-type="fig">Fig. 3g</xref>). These results indicate that, compared with ATP, BTP, and UTP, the WTP multi-level carbon foam skeleton can generate more active lithium than dead lithium during battery cycling, exhibiting better lithium-ion transport kinetics and charge transfer capabilities. At a current density of 1 mA cm<sup>&#x02212;2</sup>, the coulombic efficiency (CE) of BTP and ATP began to decay after 100 cycles and dropped to 60% after 200 cycles. The CE of the UTP electrode oscillated at around 70% during cycling. In contrast, the WTP electrode maintained a CE of 99% even after 200 cycles (<xref rid="fig4" ref-type="fig">Fig. 4a</xref>), indicating excellent CE primarily due to its unique multilevel carbon structure, which enhances lithium deposition/stripping behavior.<sup><xref rid="cit55" ref-type="bibr">55</xref></sup> We assembled symmetric cells and found that the WTP-Li electrode had the lowest overpotential of around 56 mV after 2000 hours of cycling (<xref rid="fig4" ref-type="fig">Fig. 4b</xref>). This superior cycling stability is attributed to the multilevel carbon structure of the WTP-Li electrode.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>Electrochemical properties of various lithium metal anodes. (a) Coulombic efficiencies (CEs) of different biologically derived, carbon-based lithium electrodes at a current density of 1.0 mA cm<sup>&#x02212;2</sup>. (b) Voltage-time profiles of lithium stripping/plating cycles for WTP-Li, BTP-Li, ATP-Li, UTP-Li, and Li foil electrodes in symmetric cells at a current density of 0.5 mA cm<sup>&#x02212;2</sup> and a capacity of 0.5 mA h cm<sup>&#x02212;2</sup>. (c) Voltage-time profiles of lithium stripping/plating cycles for various lithium three-dimensional composite electrodes in symmetric cells at a current density of 0.5 mA cm<sup>&#x02212;2</sup> and a capacity of 0.5 mA h cm<sup>&#x02212;2</sup>. (d) Rate performance of WTP-Li symmetric cells at current densities ranging from 0.25 to 5.0 mA cm<sup>&#x02212;2</sup>, with a stripping/plating capacity of 1.0 mA h cm<sup>&#x02212;2</sup>. (e) Initial charge and discharge curves for WTP-Li, UTP-Li, and bare lithium full batteries assembled with different biologically derived, carbon-based lithium electrodes. (f) Cycling performance of full cells. (g) Cycling performance of symmetric cells with various lithium three-dimensional composite electrodes. (h) Rate performance of full cells. (i) Cycling performance at 0.5C (where 1C = 140 mA h g<sup>&#x02212;1</sup>).</title></caption><graphic xlink:href="d4sc07374f-f4" position="float"/></fig><p>After 300 hours of cycling, the overpotential of copper foam, nickel foam, and bare lithium electrodes exceeded 500 mV at a current density of 0.5 mA cm<sup>&#x02212;2</sup>. Similarly, the carbon paper and carbon cloth electrodes exhibited overpotentials far exceeding 500 mV after 900 hours of cycling. In contrast, the hierarchical carbon framework lithium electrode maintained an overpotential of approximately 80 mV even after 1000 hours of cycling, and only the carbon framework electrode maintained a CE above 90% after 200 cycles (<xref rid="fig4" ref-type="fig">Fig. 4c and g</xref>). This demonstrates the superior cycling stability of carbon framework lithium electrodes compared to other composite electrodes.<sup><xref rid="cit56" ref-type="bibr">56</xref></sup> We also evaluated the rate performance of the WTP-Li electrode in symmetric cells. With a cycling capacity of 1 mA h cm<sup>&#x02212;2</sup>, the polarization voltage of the WTP-Li electrode remained approximately 240 mV as the current density increased from 0.25 to 5.0 mA cm<sup>&#x02212;2</sup>. When the current density was subsequently reduced, the polarization voltage stabilized at around 60 mV (<xref rid="fig4" ref-type="fig">Fig. 4d</xref>). This performance can be attributed to the abundant porous 3D channels of WTP, which mitigate lithium deposition-induced volume strain, and the foamy outer carbon structure that guides uniform lithium deposition.<sup><xref rid="cit57" ref-type="bibr">57</xref></sup><xref rid="fig4" ref-type="fig">Fig. 4e</xref> compares the initial cycle charge/discharge curves of WTP-Li, UTP-Li, and bare lithium full cells, revealing a higher initial charge/discharge capacity for the WTP-Li full cell. After 100 cycles, the WTP-Li//LiCoO<sub>2</sub> cell demonstrated the highest capacity retention rate of 93.3% (<xref rid="fig4" ref-type="fig">Fig. 4f</xref>).</p><p>Rate performance tests on full cells further showed that the WTP-Li full cell maintained a high and stable specific capacity (<xref rid="fig4" ref-type="fig">Fig. 4h</xref>). The high capacity retention rate and excellent overall cell kinetics of the WTP electrode make it suitable for practical battery applications.<sup><xref rid="cit58" ref-type="bibr">58&#x02013;61</xref></sup> At 0.5C, the WTP-Li//LiCoO<sub>2</sub> cell achieved a discharge capacity of 108.07 mA h g<sup>&#x02212;1</sup> after 1000 cycles, with coulombic efficiencies exceeding 73.54% (<xref rid="fig4" ref-type="fig">Fig. 4i</xref>). These results, from both symmetric and full cell perspectives, demonstrate that WTP as a 3D host exhibits outstanding electrochemical performance, characterized by a stable SEI, rapid ion/electron transport capability, and uniform dendrite-free lithium deposition. To demonstrate the superiority of the hierarchical carbon framework structure of WTP in terms of lithiphilicity, we created 2D and 3D models of WTP and UTP to model the Li deposition behavior using the COMSOL Multiphysics simulations. The simulation results reveal a more uniform distribution of electrolyte current density within the WTP electrode (<xref rid="fig5" ref-type="fig">Fig. 5a and b</xref>). Additionally, high lithium ion concentration points are evenly dispersed at the bottom of the WTP channel and at the layer's edge, resulting in the deposition of lithium on the surface of the carbon skeleton (<xref rid="fig5" ref-type="fig">Fig. 5c and d</xref>). At the same time, the dissolution&#x02013;deposition reaction rate of lithium on the WTP electrode is significantly faster than that of UTP (<xref rid="fig5" ref-type="fig">Fig. 5e and f</xref>), which indicates that dead lithium is easy to be generated on UTP. During the charge/discharge cycles, the severe accumulation of dead lithium can result in decreased CE and poor cycling stability.</p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>2D and 3D COMSOL Multiphysics simulations of WTP and UTP electrodes. (a and b) Simulation results of the electrolyte current density of the WTP anode and UTP anode. (c and d) Simulation results of lithium surface concentrations. (e and f) Simulation results of the reaction rate of lithium deposition.</title></caption><graphic xlink:href="d4sc07374f-f5" position="float"/></fig></sec><sec><title>Conclusions</title><p>The &#x003b2;-O-4 bond in lignin was selectively controlled and cleaved using a proximate-supercritical water treatment method, resulting in a WTP sample with a dense inner carbon skeleton and an external porous foam structure after carbonization. The WTP samples not only preserve the three-dimensional skeletal structure of the wood but also possess natural porosity and defects that enable uniform lithium deposition on their surface and retention of more active lithium. Specifically, experimental results and multi-physics simulations indicated that WTP samples with multi-level surface structures can significantly reduce the local current density at the anode, thereby delaying the initial nucleation of lithium dendrites. This technique restricts lithium expansion within the pores and mitigates the volume increase caused by metallic lithium during charge&#x02013;discharge cycles. Consequently, at a current density of 0.5 mA cm<sup>&#x02212;2</sup> and a cycling capacity of 0.5 mA h cm<sup>&#x02212;2</sup>, the symmetrical battery can cycle stably for over 2000 hours while maintaining a low overpotential. Additionally, when paired with a LiCoO<sub>2</sub> cathode, the full cell exhibits a high capacity retention rate of 93.3% after stable cycling for 100 cycles at a current density of 0.5C, maintaining a specific capacity of 142 mA h g<sup>&#x02212;1</sup> Moreover, the biomass carbon with a surface microstructure obtained has potential for application in high-energy-density all-solid-state lithium batteries and lithium&#x02013;carbon dioxide, lithium&#x02013;oxygen, and lithium&#x02013;sulfur batteries, providing significant references for the application of biomass.</p></sec><sec sec-type="data-availability"><title>Data availability</title><p>The data supporting this article have been included as part of the ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p></sec><sec><title>Author contributions</title><p>Q. L., C. Y. and Y. X. contributed equally to this work. Q. L. performed writing of the original draft and formal analysis; C. Y. supported review, editing and investigation; Y. X. performed data formal analysis and investigation; Z. J. and D. K. contributed to creating the images; R. M. supported data curation; S. H., Y. C., C. Z., J. Y. and T. Z. conceived the project, and provided guidance and supervision throughout the work.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D4SC07374F-s001" position="float" content-type="local-data"><label>SC-016-D4SC07374F-s001</label><media xlink:href="SC-016-D4SC07374F-s001.pdf" id="d67e853" position="anchor"/></supplementary-material><supplementary-material id="SC-016-D4SC07374F-s002" position="float" content-type="local-data"><label>SC-016-D4SC07374F-s002</label><media xlink:href="SC-016-D4SC07374F-s002.txt" id="d67e856" position="anchor"/></supplementary-material><supplementary-material id="SC-016-D4SC07374F-s003" position="float" content-type="local-data"><label>SC-016-D4SC07374F-s003</label><media xlink:href="SC-016-D4SC07374F-s003.pdf" id="d67e859" position="anchor"/></supplementary-material></sec></body><back><ack><p>This work was supported by the Anhui Provincial Natural Science Foundation for Outstanding Young Scholar (2208085Y05), the Anhui Provincial Scientific Reuter Foundation for Returned Scholars (2022LCX030), the National Natural Science Foundation of China (52172173), the Excellent Research and Innovation Team Project of Anhui Province (2022AH010001) and Guangxi Key Laboratory of Low Carbon Energy Material (2021GXKLLCEM04).</p></ack><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amine</surname><given-names>K.</given-names></name>
+</person-group><source>Nat. Nanotechnol.</source><year>2019</year><volume>14</volume><fpage>200</fpage><pub-id pub-id-type="doi">10.1038/s41565-019-0371-8</pub-id><pub-id pub-id-type="pmid">30778215</pub-id>
+</element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dufek</surname><given-names>E. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Khalifah</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liaw</surname><given-names>B. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Manthiram</surname><given-names>A.</given-names></name>
+</person-group><source>Nat. Energy</source><year>2019</year><volume>4</volume><fpage>180</fpage><pub-id pub-id-type="doi">10.1038/s41560-019-0338-x</pub-id></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bi</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dunn</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glossmann</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Osaka</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sugiura</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>B.</given-names></name>
+</person-group><source>Nat. Energy</source><year>2020</year><volume>5</volume><fpage>561</fpage><pub-id pub-id-type="doi">10.1038/s41560-020-0648-z</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kong</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>Q. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Garratt</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schuelke</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>H.</given-names></name>
+</person-group><source>InfoMat</source><year>2021</year><volume>3</volume><fpage>1333</fpage><pub-id pub-id-type="doi">10.1002/inf2.12189</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><source>Chem. Commun.</source><year>2024</year><volume>60</volume><fpage>10245</fpage><lpage>10264</lpage><pub-id pub-id-type="doi">10.1039/D4CC03177F</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Weng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Noked</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><source>ACS Energy Lett.</source><year>2022</year><volume>7</volume><fpage>1338</fpage><pub-id pub-id-type="doi">10.1021/acsenergylett.2c00232</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Passerini</surname><given-names>S.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2024</year><volume>14</volume><fpage>2304229</fpage><pub-id pub-id-type="doi">10.1002/aenm.202304229</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202403399</fpage><pub-id pub-id-type="doi">10.1002/anie.202403399</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>Z.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>136</volume><fpage>e202400876</fpage><pub-id pub-id-type="doi">10.1002/ange.202400876</pub-id></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ruan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2024</year><volume>15</volume><fpage>3262</fpage><lpage>3272</lpage><pub-id pub-id-type="doi">10.1039/D3SC06079A</pub-id><pub-id pub-id-type="pmid">38425519</pub-id>
+</element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2022</year><volume>34</volume><fpage>2107899</fpage><pub-id pub-id-type="doi">10.1002/adma.202107899</pub-id></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Niu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yue</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lei</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xin</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Y.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202318663</fpage><pub-id pub-id-type="doi">10.1002/anie.202318663</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nie</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>W.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2021</year><volume>33</volume><fpage>2002325</fpage><pub-id pub-id-type="doi">10.1002/adma.202002325</pub-id></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ou</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><source>Energy Storage Mater.</source><year>2022</year><volume>50</volume><fpage>810</fpage><pub-id pub-id-type="doi">10.1016/j.ensm.2022.06.011</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yun</surname><given-names>Y. S.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2020</year><volume>32</volume><fpage>2002193</fpage><pub-id pub-id-type="doi">10.1002/adma.202002193</pub-id><?supplied-pmid 32970326?><pub-id pub-id-type="pmid">32970326</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>H.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>Y.</given-names></name>
+</person-group><source>Nat. Nanotechnol.</source><year>2016</year><volume>11</volume><fpage>626</fpage><pub-id pub-id-type="doi">10.1038/nnano.2016.32</pub-id><?supplied-pmid 26999479?><pub-id pub-id-type="pmid">26999479</pub-id>
+</element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ka</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>W.</given-names></name>
+</person-group><source>J. Mater. Chem. A</source><year>2023</year><volume>11</volume><fpage>4205</fpage><pub-id pub-id-type="doi">10.1039/D2TA09182H</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pei</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>Y.</given-names></name>
+</person-group><source>Nat. Chem.</source><year>2019</year><volume>11</volume><fpage>382</fpage><pub-id pub-id-type="doi">10.1038/s41557-018-0203-8</pub-id><?supplied-pmid 30664717?><pub-id pub-id-type="pmid">30664717</pub-id>
+</element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kolesnikov</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kolek</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dohmann</surname><given-names>J. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Horsthemke</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>B&#x000f6;rner</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bieker</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winter</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stan</surname><given-names>M. C.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2020</year><volume>10</volume><fpage>2070065</fpage><pub-id pub-id-type="doi">10.1002/aenm.202070065</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>J.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2019</year><volume>29</volume><fpage>1905940</fpage><pub-id pub-id-type="doi">10.1002/adfm.201905940</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zeng</surname><given-names>L.</given-names></name>
+</person-group><source>Adv. Sci.</source><year>2022</year><volume>9</volume><fpage>2203321</fpage><pub-id pub-id-type="doi">10.1002/advs.202203321</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ouyang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>H.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2014</year><volume>5</volume><fpage>3519</fpage><pub-id pub-id-type="doi">10.1038/ncomms4519</pub-id><pub-id pub-id-type="pmid">24663074</pub-id>
+</element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>L.</given-names></name>
+</person-group><source>Energy Environ. Mater.</source><year>2024</year><volume>7</volume><fpage>e12623</fpage><pub-id pub-id-type="doi">10.1002/eem2.12623</pub-id></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kuang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Burgert</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Keplinger</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Berglund</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Eichhorn</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>L.</given-names></name>
+</person-group><source>Nat. Rev. Mater.</source><year>2020</year><volume>5</volume><fpage>642</fpage><pub-id pub-id-type="doi">10.1038/s41578-020-0195-z</pub-id></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>X.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2024</year><fpage>2416671</fpage><pub-id pub-id-type="doi">10.1002/adfm.202416671</pub-id></element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hitz</surname><given-names>E. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><source>Proc. Natl. Acad. Sci. U. S. A.</source><year>2017</year><volume>114</volume><fpage>3584</fpage><pub-id pub-id-type="doi">10.1073/pnas.1618871114</pub-id><pub-id pub-id-type="pmid">28320936</pub-id>
+</element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><source>eScience</source><year>2023</year><volume>3</volume><fpage>100088</fpage><pub-id pub-id-type="doi">10.1016/j.esci.2022.100088</pub-id></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2023</year><volume>123</volume><fpage>4510</fpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.2c00664</pub-id><?supplied-pmid 37022360?><pub-id pub-id-type="pmid">37022360</pub-id>
+</element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Khalifeh</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><source>Catal. Today</source><year>2023</year><volume>408</volume><fpage>168</fpage><pub-id pub-id-type="doi">10.1016/j.cattod.2022.06.005</pub-id></element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Khakalo</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miettinen</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Turpeinen</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mi</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Khakalo</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rojas</surname><given-names>O. J.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>7875</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-43594-4</pub-id><?supplied-pmid 38052773?><pub-id pub-id-type="pmid">38052773</pub-id>
+</element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zha</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Koskela</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Berglund</surname><given-names>L. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Q.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>2827</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-38481-x</pub-id><?supplied-pmid 37198187?><pub-id pub-id-type="pmid">37198187</pub-id>
+</element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lan</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Panzarasa</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ricco</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rammer</surname><given-names>D. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>M.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2022</year><volume>123</volume><fpage>1843</fpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.2c00450</pub-id><?supplied-pmid 36260771?><pub-id pub-id-type="pmid">36260771</pub-id>
+</element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kuang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><source>Proc. Natl. Acad. Sci. U. S. A.</source><year>2024</year><volume>121</volume><fpage>e2318853121</fpage><pub-id pub-id-type="doi">10.1073/pnas.2318853121</pub-id><pub-id pub-id-type="pmid">38630722</pub-id>
+</element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>L.</given-names></name>
+</person-group><source>J. Nat. Sci. Sustainable Technol.</source><year>2021</year><volume>4</volume><fpage>627</fpage></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2024</year><volume>36</volume><fpage>2401867</fpage><pub-id pub-id-type="doi">10.1002/adma.202401867</pub-id></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brozena</surname><given-names>A. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Driemeier</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rojas</surname><given-names>O. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Isogai</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>W&#x000e5;gberg</surname><given-names>L.</given-names></name>
+</person-group><source>Nature</source><year>2021</year><volume>590</volume><fpage>47</fpage><pub-id pub-id-type="doi">10.1038/s41586-020-03167-7</pub-id><?supplied-pmid 33536649?><pub-id pub-id-type="pmid">33536649</pub-id>
+</element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>He</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>B.</given-names></name>
+</person-group><source>Adv. Sci.</source><year>2023</year><volume>10</volume><fpage>2205557</fpage><pub-id pub-id-type="doi">10.1002/advs.202205557</pub-id></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ciesielski</surname><given-names>P. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Henriksson</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Himmel</surname><given-names>M. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>L.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2016</year><volume>116</volume><fpage>9305</fpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.6b00225</pub-id><?supplied-pmid 27459699?><pub-id pub-id-type="pmid">27459699</pub-id>
+</element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dahn</surname><given-names>J.</given-names></name>
+</person-group><source>Carbon</source><year>1996</year><volume>34</volume><fpage>193</fpage><pub-id pub-id-type="doi">10.1016/0008-6223(96)00177-7</pub-id></element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xin</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2023</year><volume>13</volume><fpage>2300452</fpage><pub-id pub-id-type="doi">10.1002/aenm.202300452</pub-id></element-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>H.</given-names></name>
+</person-group><source>ACS Nano</source><year>2022</year><volume>16</volume><fpage>14402</fpage><pub-id pub-id-type="doi">10.1021/acsnano.2c04748</pub-id><pub-id pub-id-type="pmid">36053270</pub-id>
+</element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Weng</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>W.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2020</year><volume>10</volume><fpage>2002241</fpage><pub-id pub-id-type="doi">10.1002/aenm.202002241</pub-id></element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jing</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Z.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2022</year><volume>12</volume><fpage>2103981</fpage><pub-id pub-id-type="doi">10.1002/aenm.202103981</pub-id></element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liao</surname><given-names>S.</given-names></name>
+</person-group><source>ACS Appl. Mater.</source><year>2019</year><volume>11</volume><fpage>18361</fpage><pub-id pub-id-type="doi">10.1021/acsami.9b01694</pub-id></element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Baek</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jeong</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>K. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Choi</surname><given-names>J. W.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>1296</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-36934-x</pub-id><?supplied-pmid 36894583?><pub-id pub-id-type="pmid">36894583</pub-id>
+</element-citation></ref><ref id="cit46"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hong</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lai</surname><given-names>Y.</given-names></name>
+</person-group><source>Energy Storage Mater.</source><year>2022</year><volume>45</volume><fpage>1220</fpage><pub-id pub-id-type="doi">10.1016/j.ensm.2021.11.022</pub-id></element-citation></ref><ref id="cit47"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Acebedo</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morant-Mi&#x000f1;ana</surname><given-names>M. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gonzalo</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>de Larramendi</surname><given-names>I. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Villaverde</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rikarte</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fallarino</surname><given-names>L.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2023</year><volume>13</volume><fpage>2203744</fpage><pub-id pub-id-type="doi">10.1002/aenm.202203744</pub-id></element-citation></ref><ref id="cit48"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>D.</given-names></name>
+</person-group><source>ACS Nano</source><year>2022</year><volume>16</volume><fpage>7689</fpage><pub-id pub-id-type="doi">10.1021/acsnano.1c11393</pub-id><?supplied-pmid 35445596?><pub-id pub-id-type="pmid">35445596</pub-id>
+</element-citation></ref><ref id="cit49"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hua</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ke</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2023</year><volume>14</volume><fpage>10147</fpage><lpage>10154</lpage><pub-id pub-id-type="doi">10.1039/D3SC03884J</pub-id><?supplied-pmid 37772126?><pub-id pub-id-type="pmid">37772126</pub-id>
+</element-citation></ref><ref id="cit50"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuwono</surname><given-names>J. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mao</surname><given-names>J.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2024</year><volume>14</volume><fpage>2304407</fpage><pub-id pub-id-type="doi">10.1002/aenm.202304407</pub-id></element-citation></ref><ref id="cit51"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xin</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Y.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2024</year><volume>34</volume><fpage>2310309</fpage><pub-id pub-id-type="doi">10.1002/adfm.202310309</pub-id></element-citation></ref><ref id="cit52"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>W.</given-names></name>
+</person-group><source>Rare Met.</source><year>2022</year><volume>41</volume><fpage>3391</fpage><lpage>3400</lpage><pub-id pub-id-type="doi">10.1007/s12598-022-02044-8</pub-id></element-citation></ref><ref id="cit53"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiao</surname><given-names>L.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2021</year><volume>31</volume><fpage>2106923</fpage><pub-id pub-id-type="doi">10.1002/adfm.202106923</pub-id></element-citation></ref><ref id="cit54"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Martin</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>J.</given-names></name>
+</person-group><source>J. Electrochem. Soc.</source><year>2021</year><volume>168</volume><fpage>060513</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/ac0647</pub-id></element-citation></ref><ref id="cit55"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Matz</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>M.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2021</year><volume>11</volume><fpage>2100046</fpage><pub-id pub-id-type="doi">10.1002/aenm.202100046</pub-id></element-citation></ref><ref id="cit56"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>S.</given-names></name>
+</person-group><source>Rare Met</source><year>2024</year><volume>43</volume><fpage>1589</fpage><lpage>1598</lpage><pub-id pub-id-type="doi">10.1007/s12598-023-02523-6</pub-id></element-citation></ref><ref id="cit57"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fraggedakis</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Das</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yeh</surname><given-names>C.-N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chueh</surname><given-names>W. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bazant</surname><given-names>M. Z.</given-names></name>
+</person-group><source>Joule</source><year>2021</year><volume>5</volume><fpage>393</fpage><pub-id pub-id-type="doi">10.1016/j.joule.2020.12.020</pub-id></element-citation></ref><ref id="cit58"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>Y.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2023</year><volume>35</volume><fpage>2207310</fpage><pub-id pub-id-type="doi">10.1002/adma.202207310</pub-id></element-citation></ref><ref id="cit59"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tie</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>Z.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2021</year><volume>31</volume><fpage>2102735</fpage><pub-id pub-id-type="doi">10.1002/adfm.202102735</pub-id></element-citation></ref><ref id="cit60"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Braun</surname><given-names>P. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2019</year><volume>10</volume><fpage>1896</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-09932-1</pub-id><pub-id pub-id-type="pmid">31015466</pub-id>
+</element-citation></ref><ref id="cit61"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>X.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2023</year><volume>35</volume><fpage>2211047</fpage><pub-id pub-id-type="doi">10.1002/adma.202211047</pub-id></element-citation></ref></ref-list></back></article>

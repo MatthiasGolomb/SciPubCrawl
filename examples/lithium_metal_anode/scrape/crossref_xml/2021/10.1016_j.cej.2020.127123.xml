@@ -1,0 +1,1945 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1385894720332502</prism:url><dc:identifier>doi:10.1016/j.cej.2020.127123</dc:identifier><eid>1-s2.0-S1385894720332502</eid><prism:doi>10.1016/j.cej.2020.127123</prism:doi><pii>S1385-8947(20)33250-2</pii><dc:title>Defect-rich carbon nitride as electrolyte additive for in-situ electrode interface modification in lithium metal battery </dc:title><prism:publicationName>Chemical Engineering Journal</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13858947</prism:issn><prism:volume>407</prism:volume><prism:startingPage>127123</prism:startingPage><prism:pageRange>127123</prism:pageRange><articleNumber>127123</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-03-01</prism:coverDate><prism:coverDisplayDate>1 March 2021</prism:coverDisplayDate><prism:copyright>© 2020 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Bai, Maohui</dc:creator><dc:creator>Hong, Bo</dc:creator><dc:creator>Zhang, Kun</dc:creator><dc:creator>Yuan, Kai</dc:creator><dc:creator>Xie, Keyu</dc:creator><dc:creator>Wei, Weifeng</dc:creator><dc:creator>Lai, Yanqing</dc:creator><dc:description>
+                  Lithium (Li) metal anode is experiencing the revival of the times due to the constant pursuit of high energy density secondary batteries. However, the problem of Li dendrite caused by irregular Li deposition seriously hinders the development of Li metal batteries. The failure mechanisms of Li-Sulfur (Li-S) pouch cells are revealed by the electrochemical diagram. And the most immediate reason is that the growth of Li dendrites continuously consumes the active lithium and electrolyte, which leads to the pulverization of Li, and further battery failure. Herein, the nitrogen-defective graphite-like carbon nitride (NG-C3N4, or NGCN) is employed as electrolyte additive to achieve homogeneous deposition of Li metal and suppress the generation of Li dendrites. In particular, this uniform and adjustable Li deposition can optimize the electrochemical performance of symmetrical Li-NGCN||Li-NGCN cells, even at the areal capacity of 10 mAh cm−2. Furthermore, the NGCN can achieve the co-deposition with Li-ions during the charge–discharge process to construct the in-situ NGCN coating on the surface of both cathode and anode. Therefore, the Li-NGCN-S/PC pouch cell acquires superb long-term cycling performance with a high discharge capacity of 822.1 mAh g−1 and the capacity retention rate is 67.4% after 100 cycles.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Carbon nitride</dcterms:subject><dcterms:subject>Lithium metal anode</dcterms:subject><dcterms:subject>Nitrogen-defective</dcterms:subject><dcterms:subject>Li-S pouch cells</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1385894720332502" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1385894720332502" rel="scidir"/></coredata><objects><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="685" size="100967">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="360" size="63963">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="608" size="152202">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="388" size="68291">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="462" height="200" size="45190">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="538" size="174611">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="175" height="163" size="11157">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="107" size="9447">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="198" height="164" size="20530">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="116" size="10838">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="95" size="17739">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="161" size="29884">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1949" height="1819" size="294223">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1949" height="956" size="198350">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1949" height="1614" size="492850">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1949" height="1030" size="208756">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1229" height="531" size="128589">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1949" height="1429" size="600387">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="2787540">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1220590">https://api.elsevier.com/content/object/eid/1-s2.0-S1385894720332502-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85092369889</scopus-id><scopus-eid>2-s2.0-85092369889</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85092369889" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271942</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291800</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chemical Engineering Journal</xocs:srctitle>
+      <xocs:normalized-srctitle>CHEMICALENGINEERINGJOURNAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200924">2020-09-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200924">2020-09-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20201231">2020-12-31</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20201231">2020-12-31</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-04-25T18:58:32</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1385894720332502</xocs:eid>
+      <xocs:pii-formatted>S1385-8947(20)33250-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1385894720332502</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cej.2020.127123</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1385894720X00222</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240101">2024-01-01T14:56:01.92578Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210301</xocs:date-search-begin>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1600966225">2020-09-24T16:50:25.627995Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1385-8947</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13858947</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>407</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>407</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 407</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>125</xocs:sort-order>
+      <xocs:first-fp>127123</xocs:first-fp>
+      <xocs:article-number>127123</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>127123</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20210301</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 March 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-03-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Novel Materials for Energy and Advanced Applications</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>DEFECTRICHCARBONNITRIDEELECTROLYTEADDITIVEFORINSITUELECTRODEINTERFACEMODIFICATIONINLITHIUMMETALBATTERY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BAI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>194</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10403</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10473</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015"/>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>TIKEKAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>HARRY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>73</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>COURTEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10206</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10218</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>857</xocs:ref-first-fp>
+            <xocs:ref-last-lp>863</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9094</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9102</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7209</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055"/>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1660</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1667</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>ZOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25154</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085"/>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4181</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4189</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>125254</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5301</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>MUKHERJEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3710</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>449</xocs:ref-first-fp>
+            <xocs:ref-last-lp>458</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>BAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>HO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5497</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5505</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BAIX2021X127123</xocs:refkey3>
+         <xocs:refkey4ai>BAIX2021X127123XM</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-12-31T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-12-31T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-12T03:26:14.319Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1385-8947(20)33250-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1385894720332502</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1385894720332502</xocs:eid>
+         <xocs:doi>10.1016/j.cej.2020.127123</xocs:doi>
+         <xocs:cid>271942</xocs:cid>
+         <xocs:timestamp>2024-01-01T14:56:01.92578Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-03-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/MAIN/application/pdf/4a084dfa8dc8933532f46446f728e13c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>9864055</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1385894720332502-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/PREVIEW/image/png/3696cf51d38bd4b04872c33d64faafcf/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55751</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr5/DOWNSAMPLED/image/jpeg/ce6b3fe7be2c5267bf42d38e19ec52a4/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>100967</xocs:filesize>
+               <xocs:pixel-height>685</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr4/DOWNSAMPLED/image/jpeg/b9c056d4e23a86f3c0eab51d5d2e847d/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63963</xocs:filesize>
+               <xocs:pixel-height>360</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr3/DOWNSAMPLED/image/jpeg/863167f26b0b99294c80bd0541497692/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>152202</xocs:filesize>
+               <xocs:pixel-height>608</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr2/DOWNSAMPLED/image/jpeg/617ebdceb5c09a38ea976246987ab2d2/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68291</xocs:filesize>
+               <xocs:pixel-height>388</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/ga1/DOWNSAMPLED/image/jpeg/e0caba57241df7ceba2953be4b9cf0cc/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45190</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>462</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr1/DOWNSAMPLED/image/jpeg/8662a580dbb64c9dee752f52dcaec5d8/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>174611</xocs:filesize>
+               <xocs:pixel-height>538</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr5/THUMBNAIL/image/gif/5dc2d14688c9e9954c01df4824aaf6ee/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11157</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>175</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr4/THUMBNAIL/image/gif/fd73714261056dbf65645265cc8a0e8b/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9447</xocs:filesize>
+               <xocs:pixel-height>107</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr3/THUMBNAIL/image/gif/7596cbcc9a94a3180095d6b7f02bbd27/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20530</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>198</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr2/THUMBNAIL/image/gif/b7b40bc8a5db1ac0dcf0583632c0560d/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10838</xocs:filesize>
+               <xocs:pixel-height>116</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/ga1/THUMBNAIL/image/gif/3c542bbc49075b68a4d1301840072412/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17739</xocs:filesize>
+               <xocs:pixel-height>95</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr1/THUMBNAIL/image/gif/ba9e887275cd1a3848bf67c51ac53986/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>29884</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr5/HIGHRES/image/jpeg/3ef7dbc6371a795e2a49d879ae92bee7/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>294223</xocs:filesize>
+               <xocs:pixel-height>1819</xocs:pixel-height>
+               <xocs:pixel-width>1949</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr4/HIGHRES/image/jpeg/b612474bbbbd83998852f30d0a6fbb70/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>198350</xocs:filesize>
+               <xocs:pixel-height>956</xocs:pixel-height>
+               <xocs:pixel-width>1949</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr3/HIGHRES/image/jpeg/6ccf8ae68f8d0fcd6ec65e953a450d04/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>492850</xocs:filesize>
+               <xocs:pixel-height>1614</xocs:pixel-height>
+               <xocs:pixel-width>1949</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr2/HIGHRES/image/jpeg/dc1bee7fbb2941b208ef764c7c28ba91/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>208756</xocs:filesize>
+               <xocs:pixel-height>1030</xocs:pixel-height>
+               <xocs:pixel-width>1949</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/ga1/HIGHRES/image/jpeg/9aaa27f4ddff0ce861956091b3835818/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>128589</xocs:filesize>
+               <xocs:pixel-height>531</xocs:pixel-height>
+               <xocs:pixel-width>1229</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/gr1/HIGHRES/image/jpeg/9e251a34994bbf6bedea76bf7a75f124/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>600387</xocs:filesize>
+               <xocs:pixel-height>1429</xocs:pixel-height>
+               <xocs:pixel-width>1949</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1385894720332502/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/99c653e86b36244b8fe7f80f2bf4e2b6/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>2787540</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1385894720332502-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10DFR1QB5M4/MAIN/application/pdf/fdeb7b9aba525cfedd3ba35fd844706d/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>1220590</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>CEJ</jid>
+            <aid>127123</aid>
+            <ce:article-number>127123</ce:article-number>
+            <ce:pii>S1385-8947(20)33250-2</ce:pii>
+            <ce:doi>10.1016/j.cej.2020.127123</ce:doi>
+            <ce:copyright type="full-transfer" year="2020">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0020" view="all">a, Optical image of 2Ah Li-S pouch cell after disassembling. b, Optical image of S cathode in 2Ah Li-S pouch cell after disassembling. c, Optical image of Li metal anode in 2Ah Li-S pouch cell after disassembling d-f, SEM of S cathode in 2Ah Li-S pouch cell before cycling. g-i, SEM of S cathode in 2Ah Li-S pouch cell after cycles. j-l, SEM of Li metal anode in 2Ah Li-S pouch cell after cycles. m-q, EDS of Li metal anode in 2Ah Li-S pouch cell after cycles.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894720332502/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0025" view="all">a, Schematic of nitrogen-defective graphite-like carbon nitride. b, Schematic of preparation of NGCN-THF dispersion. c, Schematic diagram of NGCN in Li metal battery. d, Schematic diagram of Li-NGCN after cycles. e, XRD spectra of the original g-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and NGCN. f, Raman spectra of the original g-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and NGCN. g, SEM image of Li-NGCN after cycles.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894720332502/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0030" view="all">a-c, Top-view SEM of Li||Li at the areal capacities of 1 mAh cm<ce:sup loc="post">−2</ce:sup>, 5 mAh cm<ce:sup loc="post">−2</ce:sup> and 10 mAh cm<ce:sup loc="post">−2</ce:sup>, respectively. d-f, Top-view SEM of Li-NGCN||Li-NGCN at the areal capacities of 1 mAh cm<ce:sup loc="post">−2</ce:sup>, 5 mAh cm<ce:sup loc="post">−2</ce:sup> and 10 mAh cm<ce:sup loc="post">−2</ce:sup>, respectively. g, Schematic of NGCN structure, and schematic diagram of Li-ions deposition on NGCN layer.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894720332502/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0035" view="all">a, Cycling performance of Li||Li and Li-NGCN||Li-NGCN symmetric cells at the current density of 1 mA cm<ce:sup loc="post">−2</ce:sup> and areal capacity of 1 mAh cm<ce:sup loc="post">−2</ce:sup>. b, Cycling performance of Li||Li and Li-NGCN||Li-NGCN symmetric cells at the current density of 1 mA cm<ce:sup loc="post">−2</ce:sup> and areal capacity of 5 mAh cm<ce:sup loc="post">−2</ce:sup>. c, Cycling performance of Li||Li and Li-NGCN||Li-NGCN symmetric cells at the current density of 1 mA cm<ce:sup loc="post">−2</ce:sup> and areal capacity of 10 mAh cm<ce:sup loc="post">−2</ce:sup>. d, XPS spectra of Li-NGCN and Bare-Li anodes after cycles. e, N 1 s of XPS spectra of Li-NGCN anode after cycles. f, C 1 s of XPS spectra of Li-NGCN anode after cycles. The pristine electrolyte is 1 mol L<ce:sup loc="post">-1</ce:sup> LiPF<ce:inf loc="post">6</ce:inf> in EC, EMC and DMC (1:1:1 v/v/v).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894720332502/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0040" view="all">a, Cycling performance of Li-S/PC and Li-NGCN-S/PC batteries. b, Optical image of the 2Ah Li-NGCN-S/PC pouch cell. c, Cycling performance of Li-S/PC and Li-NGCN-S/PC pouch cells. d, Rate performance of Li-S/PC and Li-NGCN-S/PC pouch cells. e, SEM of Li metal anode in Li-NGCN-S/PC pouch cells after cycles.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894720332502/gr5" id="lk00025"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Defect-rich carbon nitride as electrolyte additive for in-situ electrode interface modification in lithium metal battery</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1385894720332502-0cafb62b17d2d9e9abcbb08a4a5ee24e">
+                  <ce:given-name>Maohui</ce:given-name>
+                  <ce:surname>Bai</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af010" id="c0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S1385894720332502-729659e01f171dd16dd9edb879c673b4">
+                  <ce:given-name>Bo</ce:given-name>
+                  <ce:surname>Hong</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c6055">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au015" author-id="S1385894720332502-b7bdcd6b3c8482444a91534d0679b145">
+                  <ce:given-name>Kun</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0020">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S1385894720332502-5d7645f1d8a1674222651d1e03cb5878">
+                  <ce:given-name>Kai</ce:given-name>
+                  <ce:surname>Yuan</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0025">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au025" author-id="S1385894720332502-2e0ef5bdcd876c8793b993cd5383e184">
+                  <ce:given-name>Keyu</ce:given-name>
+                  <ce:surname>Xie</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au030" author-id="S1385894720332502-060f085a66221cf972442f18cfa6f8ab">
+                  <ce:given-name>Weifeng</ce:given-name>
+                  <ce:surname>Wei</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au035" author-id="S1385894720332502-085e240bc4a3fe3f89457497463e9c01">
+                  <ce:given-name>Yanqing</ce:given-name>
+                  <ce:surname>Lai</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0040">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1385894720332502-818372face606c069b9d6f597ae7f206">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>State Key Laboratory of Powder Metallurgy, Powder Metallurgy Research Institute, Central South University, Changsha 410083, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Powder Metallurgy</sa:organization>
+                     <sa:organization>Powder Metallurgy Research Institute</sa:organization>
+                     <sa:organization>Central South University</sa:organization>
+                     <sa:city>Changsha</sa:city>
+                     <sa:postal-code>410083</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">State Key Laboratory of Powder Metallurgy, Powder Metallurgy Research Institute, Central South University, Changsha 410083, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1385894720332502-b2f2cfe03e3f40af4dbe2f175078ef6f">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>School of Metallurgy and Environment, Central South University, Changsha 410083, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Metallurgy and Environment</sa:organization>
+                     <sa:organization>Central South University</sa:organization>
+                     <sa:city>Changsha</sa:city>
+                     <sa:postal-code>410083</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">School of Metallurgy and Environment, Central South University, Changsha 410083, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S1385894720332502-91ca2393273aff3594dd7a39cbc5d1b8">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>State Key Laboratory of Solidification Processing, Center for Nano Energy Materials, School of Materials Science and Engineering, Northwestern Polytechnical University and Shaanxi Joint Laboratory of Graphene (NPU), Xi’an 710072, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Solidification Processing</sa:organization>
+                     <sa:organization>Center for Nano Energy Materials</sa:organization>
+                     <sa:organization>School of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Northwestern Polytechnical University and Shaanxi Joint Laboratory of Graphene (NPU)</sa:organization>
+                     <sa:city>Xi’an</sa:city>
+                     <sa:postal-code>710072</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx015">State Key Laboratory of Solidification Processing, Center for Nano Energy Materials, School of Materials Science and Engineering, Northwestern Polytechnical University and Shaanxi Joint Laboratory of Graphene (NPU), Xi’an 710072, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="22" month="7" year="2020"/>
+            <ce:date-revised day="17" month="9" year="2020"/>
+            <ce:date-accepted day="19" month="9" year="2020"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">
+                     <ce:display>
+                        <ce:figure id="f0030">
+                           <ce:link locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1385894720332502/ga1" id="lk00030"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab015" view="all"><ce:abstract-sec id="as015" view="all">
+                  <ce:simple-para id="sp0015" view="all">Lithium (Li) metal anode is experiencing the revival of the times due to the constant pursuit of high energy density secondary batteries. However, the problem of Li dendrite caused by irregular Li deposition seriously hinders the development of Li metal batteries. The failure mechanisms of Li-Sulfur (Li-S) pouch cells are revealed by the electrochemical diagram. And the most immediate reason is that the growth of Li dendrites continuously consumes the active lithium and electrolyte, which leads to the pulverization of Li, and further battery failure. Herein, the nitrogen-defective graphite-like carbon nitride (NG-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, or NGCN) is employed as electrolyte additive to achieve homogeneous deposition of Li metal and suppress the generation of Li dendrites. In particular, this uniform and adjustable Li deposition can optimize the electrochemical performance of symmetrical Li-NGCN||Li-NGCN cells, even at the areal capacity of 10 mAh cm<ce:sup loc="post">−2</ce:sup>. Furthermore, the NGCN can achieve the co-deposition with Li-ions during the charge–discharge process to construct the in-situ NGCN coating on the surface of both cathode and anode. Therefore, the Li-NGCN-S/PC pouch cell acquires superb long-term cycling performance with a high discharge capacity of 822.1 mAh g<ce:sup loc="post">−1</ce:sup> and the capacity retention rate is 67.4% after 100 cycles.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st020">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Carbon nitride</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Lithium metal anode</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Nitrogen-defective</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Li-S pouch cells</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Battery, as a high-energy density, clean and safe electrochemical energy storage system, is of great concern for applications in various fields such as renewable energy systems, portable electronics and electric vehicles <ce:cross-refs refid="b0005 b0010 b0015 b0020 b0025" id="r0005">[1–5]</ce:cross-refs>. The key to improving the energy density of batteries is the continuous improvement of electrode materials <ce:cross-refs refid="b0030 b0035" id="r0010">[6,7]</ce:cross-refs>. Li metal with the highest theoretical specific capacity and the lowest reduction potential has been regarded as one of the most promising anode materials for the Li metal batteries (e.g., Li-air and Li-S batteries) <ce:cross-refs refid="b0040 b0045 b0050" id="r0015">[8–10]</ce:cross-refs>. However, Li metal anode has its fatal disadvantages-the growth of Li dendrites during the electrochemical cycles. The dendrite problems will not only affect the cycling stability, but also lead to short circuits and even explosion of the battery. Until the dendrite problems are solved, Li metal batteries cannot be able to realize practical applications <ce:cross-refs refid="b0055 b0060 b0065" id="r0020">[11–13]</ce:cross-refs>. As we know, the direct cause of the formation of Li dendrites is the non-uniformity of Li-ions in the deposition process. Thus, various studies, such as constructing the artificial solid electrolyte interphase film or physical protective coating, using reformative separators, adjusting the composition or concentration of the liquid electrolytes and employing electrolyte additives, have been attempted to optimize the deposition behavior of Li to restrict the growth of Li dendrites <ce:cross-refs refid="b0070 b0075 b0080 b0085 b0090 b0095 b0100 b0105" id="r0025">[14–21]</ce:cross-refs>. Nevertheless, most of these strategies cannot achieve dendrite inhibition, once at a large areal capacity of 10 mAh cm<ce:sup loc="post">−2</ce:sup> or more. According to relevant studies, the key to the rate performance of Li metal batteries is not the “ion diffusion” process we usually think of, but more dependent on electronic conductivity. However, the methods mentioned above have little or even adverse effects on the improvement of interface resistance and electrical conductivity. Aiming at this issue, researchers adopt modified carbon-based materials as the treating materials, such as mesoporous carbon, carbon nanotubes, graphene, etc. Moreover, carbon-based materials, which have great advantages of appealingly high surface areas, relative stability, excellent mechanical strength in the Li metal battery systems <ce:cross-refs refid="b0110 b0115 b0120 b0125" id="r0030">[22–25]</ce:cross-refs>. Nonetheless, carbon-based materials are generally insoluble in organic electrolyte, so the in-situ interfacial modification of Li metal cannot be realized, which cannot evenly and thoroughly reduce the interface resistance and increase the electrical conductivity. Furthermore, Li-sulfur pouch cell is one of the most important battery models for realizing the commercialization of Li metal batteries. However, the characterization and mechanism of the failure of Li-S pouch cell have not been clearly demonstrated and the direct modification for pouch cell has been rarely studied.</ce:para>
+                  <ce:para id="p0035" view="all">Based on the above research considerations, we assemble a 2Ah Li-S pouch cell to study the failure mechanism and electrochemical performance of S cathode and Li metal anode. The conclusion is that the continuous generation of Li dendrites in the electrochemical process results in the consumption of active lithium and electrolyte, and eventually leads to battery failure. To deal with this issue, the nitrogen-defective graphite-like carbon nitride (NGCN) dissolved in tetrahydrofuran (THF) is used as an electrolyte additive to achieve in-situ surface modification for Li metal batteries. For designing in-situ interfacial film on both cathode and anode, it is important to achieve uniform dispersion of material in electrolyte, which not only keeps up the normal function of electrolyte, but also promotes the uniform deposition of Li-ions. By adding the NGCN into the electrolyte, this can bring several significant benefits. First, the NGCN in the electrolyte can preferentially adsorb Li-ions to achieve the co-deposition of NGCN and Li<ce:sup loc="post">+</ce:sup> during the initial electrochemical cycle, which results in uniform Li deposition and NGCN layer on the surface of Li metal anode. Second, the NGCN as a stable in-situ coating can change the deposition behavior of Li-ions, which makes the deposition morphology of Li-ions into a round cake shape and optimizes the electrochemical performance of the battery even at the areal capacity of 10 mAh cm<ce:sup loc="post">−2</ce:sup>. Third, when the NGCN matching with Li-S/porous carbon (S/PC) battery, the cycle performance of Li-NGCN-S/PC battery is greatly improved with the capacity retention rate of 81.6% after 500 cycles, which the NGCN plays a role in capturing polysulfide on the S cathode and stabling the surface of Li metal anode, respectively. More specifically, when the NGCN is applied in Li-NGCN-S/PC pouch cell, the cell exhibits excellent cycling performance and good rate capability, and the battery failure has been greatly delayed.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st030">Results and discussion</ce:section-title>
+                  <ce:para id="p0040" view="all">The 2Ah Li-S pouch cells which the S/PC with the sulfur loading of 5.0 mg cm<ce:sup loc="post">−2</ce:sup> is used as the cathode, bare Li foil is used as the anode and 1.0 mol l<ce:sup loc="post">−1</ce:sup> LiTFSI in DOL/DME (1:1 v/v) without NGCN additive is employed as the electrolyte are assembled in a drying room. The Li-S pouch cell can only maintain 50 cycles at the current density of 0.05C at room temperature, and the discharge process suddenly stops, the capacity dives, and the charging cannot be restored. Afterwards, the cell is disassembled and shown in <ce:cross-ref refid="f0005" id="c0045">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>a. <ce:cross-ref refid="f0005" id="c0050">Fig. 1</ce:cross-ref>b displays the S cathode after cycles and the S cathode is in good condition without dropping material. After the electrolyte is dry, the yellow substance appears on the surface of S electrode, indicating that a large amount of lithium polysulfide is dissolved in the electrolyte (<ce:cross-ref refid="s0025" id="c0055">Fig. S1</ce:cross-ref>). By comparing the SEM of S cathodes before and after the cycle, there are abundant holes on the surface of the S cathode, and no phenomenon of S deposition on the surface and blockage the poles are found (<ce:cross-ref refid="f0005" id="c0060">Fig. 1</ce:cross-ref>d-f and <ce:cross-ref refid="f0005" id="c0065">Fig. 1</ce:cross-ref>g-i). <ce:cross-ref refid="f0005" id="c0070">Fig. 1</ce:cross-ref>c exhibits the Li metal anode after cycles and the surface of the electrode is floured seriously and there is almost no electrolyte infiltration. In addition, the dendrites on the surface are extremely severe, and there are corrosion layers on the dendrite surfaces (<ce:cross-ref refid="f0005" id="c0075">Fig. 1</ce:cross-ref>j). Simultaneously, the Li metal anode exhibits a three-tiered structure as shown in the cross-section SEM, which are the basal layer, porous corrosion layer and dendrite deposits layer, and the thickness of dendrite layer reaches 100 ∼ 200 µm (<ce:cross-ref refid="f0005" id="c0080">Fig. 1</ce:cross-ref>k,l). Form the results of EDS test, the dendrite surface is covered with a film layer containing oxygen, carbon, sulfur and fluorine, in which C and O are from electrolyte decomposition, S is from polysulfide shuttle, and F is from lithium salt (<ce:cross-ref refid="f0005" id="c0085">Fig. 1</ce:cross-ref>m-q). The content of C and O is much higher than that of S, indicating that S is not heavily deposited in the Li metal anode and a large number of electrolyte decomposition products cover the surface of Li dendrites. Therefore, it can be concluded that the dendrite growth consumes the electrolyte, and the volume expansion caused by the dendrite growth also makes the anode and electrolyte get out of contact, and there is no Li source in the discharge process, and the battery suddenly fails.</ce:para>
+                  <ce:para id="p0045" view="all">According to the above analysis of Li-S/PC pouch cell, the main failure reason of pouch cell is the growth of Li dendrite on the Li metal anode. Therefore, NGCN-containing electrolyte is employed to optimize the interface of both the cathode and anode of for the batteries to improve the electrochemical performance. NGCN is acquired by the magnesium thermal denitrification technology. <ce:cross-ref refid="f0010" id="c0090">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>a shows the molecular structure of NGCN, and <ce:cross-ref refid="f0005" id="c0095">Fig. 1</ce:cross-ref>e displays the XRD spectra of the original g-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and NGCN. As shown in XRD pattern of g-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, there are two diffraction peaks at 13.21° (1<ce:hsp sp="0.12"/>0<ce:hsp sp="0.12"/>0) and 27.33° (0<ce:hsp sp="0.12"/>0<ce:hsp sp="0.12"/>2), respectively <ce:cross-ref refid="b0130" id="c0100">[26]</ce:cross-ref>. However, the NGCN displays a low degree of graphitization after the transformation of g-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> into NGCN materials, for a wide peak appears at around 23°. Furthermore, the (0<ce:hsp sp="0.12"/>0<ce:hsp sp="0.12"/>2) reflection at around 25.84°, which indicates a few-layer graphene structure comparing to that of g-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>. In addition, there are two Raman peaks are D band at 1349.8 cm<ce:sup loc="post">−1</ce:sup> and G band at1571.2 cm<ce:sup loc="post">−1</ce:sup> on NGCN, but no clear signals detected on g-C<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, which confirms the presence of structural defects in NGCN (<ce:cross-ref refid="f0010" id="c0105">Fig. 2</ce:cross-ref>f). Afterwards, to achieve the in-situ surface modification of Li metal anode, the uniform dispersion of this solid NGCN into liquid organic electrolyte is a crucial step. To solve this problem, THF is employed as a dispersing solvent to realize uniform dispersion of NGCN, and the schematic diagram is shown in <ce:cross-ref refid="f0010" id="c0110">Fig. 2</ce:cross-ref>b. The reason why THF is chosen as the dispersing solvent is that THF not only has good dispersibility to NGCN, but also is one of the commonly used organic solvents of electrolyte, which will not have negative impact on electrolyte. The process for fabricating the liquid electrolyte with NGCN is displayed in Fig 0.2. And then, the NGCN-THF dispersion is added into the organic electrolyte in a certain proportion to achieve the successful addition of NGCN. To investigate the function of NGCN in batteries, we employ the Li||Li symmetrical cell with the NGCN-containing liquid common electrolyte (1 mol L<ce:sup loc="post">-1</ce:sup> LiPF<ce:inf loc="post">6</ce:inf> in EC, EMC, and DMC (1:1:1 v/v/v)). Because the NGCN has marginal pyridine and pyrrole nitrogen, they have great adsorption ability to Li-ions. As a result, NGCN and Li-ions can achieve composite co-deposition on the surface of Li metal anode in the initial electrochemical process of the Li||Li symmetrical cell, which is shown in <ce:cross-ref refid="f0010" id="c0115">Fig. 2</ce:cross-ref>c. Therefore, we believe that NGCN can finish the uniform deposition on the surface of the Li metal anode (Li-NGCN), while ensuring that the initial deposition of Li-ions is in the shape of a round cake (diameter: 1.8 μm) without dendritic production at the Li deposition of 0.5 mAh cm<ce:sup loc="post">−2</ce:sup>, which the schematic diagram of Li-NGCN is shown in <ce:cross-ref refid="f0010" id="c0120">Fig. 2</ce:cross-ref>d and SEM of Li-NGCN is shown in <ce:cross-ref refid="f0010" id="c0125">Fig. 2</ce:cross-ref>g. As a result, after the Li stripping, the Li metal anode acquires an in-situ NGCN artificial SEI film which guiding the deposition of Li-ions.</ce:para>
+                  <ce:para id="p0050" view="all">In order to explore the influence mechanism of NGCN for Li deposition, Li||Li symmetrical cells with or without NGCN additives are employed to make a thorough inquiry for the deposition behavior of lithium at different amounts of Li deposition. <ce:cross-ref refid="f0015" id="c0130">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>a-c shows the SEM images of Bare-Li after 100 cycles at 1 mA cm<ce:sup loc="post">−2</ce:sup> current density with a constant areal capacity of 1, 5, and 10 mAh cm<ce:sup loc="post">−2</ce:sup>, respectively. The surfaces of bare Li are covered with slender dendrites, and as the amount of deposition increases, the dendrites are denser, coarser and more numerous. Therefore, as the amount of lithium deposition increases, the growth of lithium dendrites becomes more and more uncontrollable and crazy. However, the corresponding surfaces of Li-NGCN are covered by smooth, pie-shaped deposits of Li, and the size of the round cake increases with the amount of Li deposition, which is 3.3 μm, 5.0 μm and 7.1 μm, respectively, as shown in <ce:cross-ref refid="f0015" id="c0135">Fig. 3</ce:cross-ref>d-f. It can be seen that compared with the initial deposition amount of 0.5 mAh cm<ce:sup loc="post">−2</ce:sup>, the size of the Li round cakes still maintains a smooth surface, but with the continuous increase of deposition amount, the edges of the various round cakes are constantly attached and gradually cover the entire surface of the Li metal anode. In addition, we compare the cross-section SEM images of Li-NGCN at the Li deposition of 0.5 mAh cm<ce:sup loc="post">−2</ce:sup> and 10 mAh cm<ce:sup loc="post">−2</ce:sup> in <ce:cross-ref refid="s0025" id="c0140">Fig. S2</ce:cross-ref>, and the thickness of Li round cake are basically the same (∼1 μm), which further confirm that the deposition behavior of Li is an extension of the edge rather than a bulk accumulation. These phenomena illustrate the favorable effect of NGCN on the marginal deposition of Li-ions. <ce:cross-ref refid="f0015" id="c0145">Fig. 3</ce:cross-ref>g shows the structure diagram of NGCN and the schematic diagram of NGCN electronegative structure adsorption of Li-ions <ce:cross-ref refid="b0135" id="c0150">[27]</ce:cross-ref>. The edge of NGCN has pyridine and pyrrole nitrogen, which is electronegative and conducive to the edge adsorption of Li-ions. Under the action of the applied electric field, the co-deposition of Li-ions and NGCN makes the surface of Li anode appear smooth deposition morphology. Its topological defects and rolled edge structure are more likely to cause the edge deposition of Li-ions, which grow towards the edge and finally present a round pie shape. In addition, nitrogen defects in NGCN and suspension bonds around n-dopants can enhance the fluidity of Li-ions at the interface, and reduce the local current density on the surface of Li anode, which ensure no generation of Li dendrites.</ce:para>
+                  <ce:para id="p0055" view="all">The above results indicate that the addition of NGCN in the electrolyte can effectively change the pattern of Li deposition, realizing the uniform deposition of Li-ions, and achieving the purpose of inhibiting the growth of Li dendrites. <ce:cross-ref refid="f0020" id="c0155">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/>a-c show the Li plating/stripping voltage–time (v-t) curves for the Li-NGCN||Li-NGCN and Li||Li symmetric cells at the current density of 1 mA cm<ce:sup loc="post">−2</ce:sup> with constant areal capacities of 1, 5, 10 mAh cm<ce:sup loc="post">−2</ce:sup>. It can be clearly seen that all of the Li-NGCN||Li-NGCN symmetric cells have better cycling stability than Li||Li symmetric cells. The variation of voltage–time curve in symmetry test is related to electrode stability and surface state. If the electrode remains stable in electrochemical process, the voltage value is also stable. For the Li||Li symmetrical cell, whether in the constant areal capacities of 1, 5, and 10 mAh cm<ce:sup loc="post">−2</ce:sup>, the voltage fluctuates significantly in the first few hours. In the subsequent cycle, Li dendrites on the surface of Li anode are continuously generated, and natural SEI film cannot withstand the destruction of Li dendrites, resulting in the exposure of fresh Li to the electrolyte and continuous reaction with the electrolyte. Therefore, the overpotentials of Li||Li symmetric cells are sometimes too low and sometimes too high, and the voltage curves become extremely unstable. Eventually, the electrolytes are exhausted, and the voltages suddenly rise to more than 400 mV, and the cells are broken. The overpotentials of Li-NGCN||Li-NGCN symmetric cells are about 30 mV, 50 mV, 100 mV, respectively, in the initial cycle, and then gradually decrease to 15 mV, 30 mV, 80 mV and remain stable, indicating that Li-NGCN||Li-NGCN cells have good electrode stability. Corresponding to the above SEM diagram, NGCN electrolyte additive cannot only uniform the deposition of Li-ions, but also inhibit the generation of Li dendrites and stabilize the electrode interface to ensure excellent cycling performance of batteries.</ce:para>
+                  <ce:para id="p0060" view="all">To investigate the existing form of NGCN in the Li metal battery with NGCN additive, the X-ray photoelectron spectroscopy (XPS) measurements are employed. <ce:cross-ref refid="f0020" id="c0160">Fig. 4</ce:cross-ref>d shows the survey spectrum of Li-NGCN and bare-Li metal anodes after cycles, and the N 1 s appears in the XPS spectrum, indicating that the Li-NGCN surface is coated with NGCN. The N 1 s spectrum of Li-NGCN can be resolve to three peaks of different binding energies, corresponding to pyridinic N atoms for the triazine rings, pyrrolic nitrogen and graphitic N atoms, respectively (<ce:cross-ref refid="f0020" id="c0165">Fig. 4</ce:cross-ref>e). The peak of oxidized N disappears relative to bare-Li (<ce:cross-ref refid="s0025" id="c0170">Fig. S3</ce:cross-ref>), and the peak of pyrrolic N appears at the same time. For the Li-NGCN, XPS fitting shows less graphite N than pyridine/pyridine substances, indicating that Li-NGCN can exhibit better electrochemical properties for Li metal anode. The C 1 s peak of Li-NGCN can be divided into several peaks, corresponding to the C–C/C = C, C-N, C-(N)<ce:inf loc="post">3</ce:inf>, O-C = O, and carbonate bonds, respectively, which further proving the existence of NGCN on the surface of lithium metal anode (<ce:cross-ref refid="f0020" id="c0175">Fig. 4</ce:cross-ref>f). In addition, the surface composition of Li-NGCN after cycles is detected by FTIR, and the results further confirms the existence of NGCN on the surface of Li metal anode, as shown in <ce:cross-ref refid="s0025" id="c0180">Fig. S4</ce:cross-ref>. The peak of the functional group C-N corresponds to the characteristic peak within the range of 1250–1350 cm<ce:sup loc="post">−1</ce:sup> wave length, and the peak of C = O bond corresponds to the vibration peak within the range of 1600–1750 cm<ce:sup loc="post">−1</ce:sup> wave length. After NGCN is added to the electrolyte, due to the adsorption effect of pyridine and pyrrole nitrogen on Li-ions at its edge. The NGCN can uniformly deposit on the surface of Li metal anode along with Li-ions in the discharge process. And then, in the charging process, Li-ions can come out evenly, while NGCN still remains on the surface of Li metal, providing a receiving layer for deposition of Li-ions, and waiting for the next deposition of Li-ions. These results are basically consistent with the XPS and FTIR test results, which verify the formation of NGCN accepter layer for Li-ions on the surface of Li metal anode.</ce:para>
+                  <ce:para id="p0065" view="all">To demonstrate the superiority of the NGCN electrolyte additive, we employ the S/PC as the cathode, bare Li as the anode, and 1.0 mol l<ce:sup loc="post">−1</ce:sup> LiTFSI in DOL/DME (1:1 v/v) with NGCN additive as the electrolyte to investigate the performance of Li-NGCN-S/PC battery. <ce:cross-ref refid="f0025" id="c0185">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/>a shows the cycling performance of Li-S/PC and Li-NGCN-S/PC batteries. For the Li-S/PC battery, the first discharge specific capacity is 1017.8 mAh g<ce:sup loc="post">−1</ce:sup>, but, the discharge specific capacity is only 334.5 mAh g<ce:sup loc="post">−1</ce:sup> after 500 cycles, and the capacity retention rate is only 32.9%. The direct reason for this result is that the shuttle effect of polysulfide in the process of charging and discharging, leading to constant loss of sulfur. Furthermore, the formation of Li dendrites caused by uneven Li deposition further leads to the poor electrochemical performance of the Li-S/PC battery. However, the Li-NGCN-S/PC battery under the favorable influence of NGCN, the cycling performance has been greatly improved. The first discharge specific capacity is 1021.2 mAh g<ce:sup loc="post">−1</ce:sup>, and then the discharge specific capacity is still 833.2 mAh g<ce:sup loc="post">−1</ce:sup> after 500 cycles, and the capacity retention rate is 81.6%. Furthermore, the Li-NGCN-S/PC battery also displays a better rate performance than Li-S/PC battery, and the Li-NGCN-S/PC battery has a smaller interface impedance and a smaller charge-transfer resistance than the Li-S/PC battery (<ce:cross-ref refid="s0025" id="c0190">Fig. S5</ce:cross-ref>). It is worth mentioning that the addition of NGCN may play a good role in the protection of both the cathode and anode for the battery. On the one hand, NGCN can adsorb Li-ions to achieve the co-deposition on the surface of S/PC cathode during the discharge process, which results in uniform NGCN protective coating. And the NGCN can capture polysulfide to a large extent, preventing the loss of polysulfide and improving the utilization rate of S, which significantly improves the cycling performance of the battery. <ce:cross-ref refid="s0025" id="c0195">Fig. S6</ce:cross-ref>a shows the XPS spectrum of the S/PC cathode after cycles. It can be seen that in addition to the characteristic peaks of S and O elements, there are also characteristic peaks of C and N elements, indicating that NGCN exists on the surface of the S/PC cathode. <ce:cross-ref refid="s0025" id="c0200">Fig. S6</ce:cross-ref>b shows the S spectrum of S/PC cathode after cycles, and the peaks corresponding to 168.4 eV and 169.6 eV are polysulfide, which can verify the adsorption of polysulfide by NGCN; On the other hand, as discussed above for Li-NGCN||Li-NGCN symmetric cell, the addition of NGCN can largely change the way of Li-ions deposition, inhibiting the formation of lithium dendrite. At the same time, the NGCN protective layer can prevent erosion of the polysulfide and improve the utilization rate of Li metal.</ce:para>
+                  <ce:para id="p0070" view="all">In order to further verify the NGCN adsorption of polysulfide, we design a visualization experiment, which the polysulfide solution is added in the left side, the PP membrane with or without NGCN coating in the middle position and the original electrolyte is added in the right side. It can be intuitively seen that the PP diaphragm without NGCN cannot prevent the shuttle effect of polysulfide, and the color of the electrolyte on the other side becomes dark yellow of polysulfide (<ce:cross-ref refid="s0025" id="c0205">Fig. S7</ce:cross-ref>a). In contrast, it is found that PP diaphragm coated with NGCN could effectively prevent the shuttle of polysulfide, and the color of the electrolyte on the other side still remains nearly colorless (<ce:cross-ref refid="s0025" id="c0210">Fig. S7</ce:cross-ref>b). The results prove that NGCN can adsorb the polysulfide and inhibit the shuttle effect in Li-S battery.</ce:para>
+                  <ce:para id="p0075" view="all">To further verify the application effect of NGNC-containing electrolyte in pouch cells, we assemble 2Ah Li-NGCN-S/PC pouch cells with S/PC as the cathode (5.0 mg cm<ce:sup loc="post">−2</ce:sup> as the load), Li metal as the anode, and NGNC-containing electrolyte as the electrolyte. Li-S/PC pouch cells with the original electrolyte are used for comparison. The optical image of Li-NGCN-S/PC pouch cell is shown in <ce:cross-ref refid="f0025" id="c0215">Fig. 5</ce:cross-ref>b. <ce:cross-ref refid="f0025" id="c0220">Fig. 5</ce:cross-ref>c shows the cycling performance of Li-NGCN-S/PC and Li-S/PC pouch cells. Li-NGCN-S/PC pouch cell maintains good cycling performance within 100 cycles, which the capacity retention rate is 67.4%, and the coulomb efficiency is close to 98.8%. However, after 50 cycles, the discharge specific capacity of Li-S/PC pouch cell starts to decline rapidly, and the coulomb efficiency is also unstable. <ce:cross-ref refid="f0025" id="c0225">Fig. 5</ce:cross-ref>d shows the rate performance of Li-NGCN-S/PC and Li-S/PC pouch cells. At the low current density of 0.2 and 0.5C, the discharge specific capacities of the two cells are significantly different. When the current density increases, the discharge specific capacity of Li-S/PC pouch cell has a relatively obvious downward trend, especially in 5C current density can only maintain about 365.1 mAh g<ce:sup loc="post">−1</ce:sup>, while Li-NGCN-S/PC cell can still maintain 590.6 mAh g<ce:sup loc="post">−1</ce:sup>. When the current density returns to 0.2C, Li-NGCN-S/PC cell can basically restore the initial discharge specific capacity. <ce:cross-ref refid="f0025" id="c0230">Fig. 5</ce:cross-ref>e shows the SEM of Li metal anode for the Li-NGCN-S/PC cell after cycles, and the deposition morphology of Li is very regular and no dendrite is produced. The dendrite problem in Li-S pouch cell has been solved by adding the NGCN in electrolyte.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st035">Conclusions</ce:section-title>
+                  <ce:para id="p0080" view="all">In summary, we successfully demonstrate an in-situ NGCN coating layer for electrode surface engineering via adding the NGCN in original electrolyte. A material is used to simultaneously realize the in-situ surface modification of the cathode and anode, so as to effectively improve the electrochemical performance of the battery. As an electrolyte additive, whether it is in ether electrolyte or carbonate electrolyte, NGCN can optimize the deposition of Li, and suppress the formation of Li dendrites. As a result, the cycling performance of the Li-NGCN||Li-NGCN symmetrical cell has been significantly improved, and the cell can be stably cycled for more than 2000 h at the areal capacity of 10 mAh cm<ce:sup loc="post">−2</ce:sup>. In addition, the initial specific discharge capacity of the corresponding Li-NGCN-S/PC battery is 1021.2 mAh g<ce:sup loc="post">−1</ce:sup>, and the capacity retention rate is 81.6% after 500 cycles. More specifically, when NGCN is employed as an electrolyte additive to Li-NGCN-S/PC pouch cell, which obtains good cycling performance and rate performance and the capacity retention rate is 67.4% after 100 cycles. The in-situ universal strategy exhibits here may guide us in developing functional materials for electrode surface engineering and opening up an exciting route for long-life, cost-effective and safe rechargeable batteries.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st040">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="p0085" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st045">Acknowledgements</ce:section-title>
+               <ce:para id="p0090" view="all">This work is supported by the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100001809" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gp005">51874361</ce:grant-number>), the National Natural Science Foundation for young scientists of China (<ce:grant-number refid="gp005">51904343</ce:grant-number>), the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/501100002858" xlink:type="simple" id="gp010" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">China Postdoctoral Science Foundation</ce:grant-sponsor> (2020 <ce:grant-number refid="gp010">M672514</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0020">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st050">Supplementary data</ce:section-title>
+                  <ce:para id="p0095" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.cej.2020.127123" xlink:type="simple" id="ir005">https://doi.org/10.1016/j.cej.2020.127123</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0025">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st055">Supplementary data</ce:section-title>
+                  <ce:para id="p0100" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S1385894720332502/mmc1" id="lk00035"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st060">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>194</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">Lin. D, Liu. Y, Cui. Y, Nat. Nanotech. 12(3) (2017) 194-206.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>15</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10403</sb:first-page>
+                              <sb:last-page>10473</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">Cheng. X, Zhang. R, Zhao. C, Zhang. Q, Chem. Rev. 117(15) 2017 10403-10473.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="h0015">
+                        <ce:textref>Cheng. X, Zhang. R, Zhao. C, Wei. F, Zhang. J, Zhang. Q, Adv. Sci. 3(3) (2016) 1500213-1500213.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Tikekar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Choudhury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Archer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Energy.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">Tikekar. M. D, Choudhury. S, Tu. Z, Archer. L. A, Nat. Energy. 1(9) (2016).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Harry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Hallinan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Macdowell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Balsara</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>73</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">Harry. K. J, Hallinan. D. T, Parkinson. D. Y, Macdowell. A. A, Balsara, N. P, Nat. Mater. 13(1) (2014) 69-73.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">Guo. Y, Li. H, Zhai. T, Adv. Mater. 29(29) (2017).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Courtel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Duncan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Abulebdeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>27</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10206</sb:first-page>
+                              <sb:last-page>10218</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">Courtel. F. M, Duncan. H, Abulebdeh. Y, Davidson. I, J. Mater. Chem. A 21(27) (2011) 10206-10218.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>857</sb:first-page>
+                              <sb:last-page>863</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">Lee. D. J, Lee. H, Kim. Y, Park. J, Kim. H, Adv. Mater. 28(5) (2016) 857-863.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Xin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Ruoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>41</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9094</sb:first-page>
+                              <sb:last-page>9102</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">Jin. S, Xin S, Wang. L, Du. Z, Cao. L, Chen. J, Ruoff. R. S, Adv. Mater. 28(41) (2016) 9094-9102.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7207</sb:first-page>
+                              <sb:last-page>7209</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">Cheng. X, Zhang. Q, J. Mater. Chem. A 3(14) (2015) 7207-7209.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="h0055">
+                        <ce:textref>Zhao. J, Zhou. G, Yan. K, Xie. J, Li Y, Liao. L, Cui. Y, Nat. Nanotech. 12(10) (2017) 993-999.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1660</sb:first-page>
+                              <sb:last-page>1667</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Chen. N, Dai. Y, Xing. Y, Wang. L, Guo. C, Chen. R, Wu. F, Energy Environ. Sci. 10(7) (2017) 1660-1667.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Xin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Ye. H, Xin. S, Yin. Y, Guo. Y, Adv. Energy Mater. 7(23) (2017).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Chiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">Zou. P, Wang. Y, Chiang. S. W, Wang. X, Kang. F, Yang. C, Nat. Commun. 9(1) (2018).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Lu.J.</ce:given-name>
+                                 <ce:surname>Adv</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">Zhao. H, Lei. D, He. Y, Yuan Y, Yun. Q, Ni. B, Lu. J, Adv. Energy Mater. 8(19) (2018).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Xi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>28</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25147</sb:first-page>
+                              <sb:last-page>25154</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">Zhang. K, Chen. Z, Ning. R, Xi. S, Tang. W, Du. Y, Xie. K, ACS Appl. Mater. Interfaces. 11(28) (2019) 25147-25154.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref id="h0085">
+                        <ce:textref>Zhu. Y, He. X, Mo. Y, Adv. Sci. 4(8) (2017) 1600517-1600517.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Archer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4181</sb:first-page>
+                              <sb:last-page>4189</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">Ma. L, Kim. M. S, Archer. L. A, Chem. Mater. 29(10) (2017) 4181-4189.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Linag</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Energy J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>396</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>125254</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">Zhou. Z, Feng. Y, Wang. J, Linag. B, Li. Y, Song. Z, Song. J, Chem. Energy J. 396 (2020) 125254.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Xu.</ce:given-name>
+                                 <ce:surname>Rui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Energy Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">Liang. Y, Xiao. Y, Yan. C, Xu. Rui, Ding. J, Liang. J, Peng. H, Yuan. H, Huang. J, J. Energy Chem. 48 (2020) 203.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5301</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">Zhang. X, Chen. X, Cheng. X, Li. B, Shen. X, Yan. C, Huang. J, Zhang. Q, Angew Chem. Int. Ed. 57 (2018) 5301.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mukherjee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Datta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Eklavya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Junwen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Osman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Vivek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nikhil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3710</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">Mukherjee. R, Thomas. A, Datta. D, Eklavya. S, Junwen. L, Osman. E, Vivek. B. S, Nikhil. K, Nat. Commun. 5 (2014) 3710.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rare Metals.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>449</sb:first-page>
+                              <sb:last-page>458</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">Li. T, Liu. H, Shi. P, Zhang. Q, Rare Metals. 37 (2018) 449-458.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kashani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">Huang. G, Han. J, Zhang. F, Wang. Z, Kashani. H, Watanabe. K, Chen. M, Adv. Mater. 31(2) (2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">Bai. M, Xie. K, Yuan. K, Zhang. K, Li. N, Shen. C, Lai. Y. Q, Wei. B, Adv. Mater. 30(29) (2018).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Ho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5497</sb:first-page>
+                              <sb:last-page>5505</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">Ho. W, Zhang. Z, Lin. W, Huang. S, Zhang. X, Wang. X, Huang. Y, ACS Appl. Mater. Interfaces. 7(9) (2015) 5497-5505.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">Lu. Z, Liang. Q, Wang. B, Tao. Y, Zhao. Y, Lv. W, Yang. Q, Adv. Energy Mater. 9(7) (2019).</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

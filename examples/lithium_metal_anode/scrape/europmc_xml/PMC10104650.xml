@@ -1,0 +1,2085 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs5235" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">10104650</article-id><article-id pub-id-type="pmid">36793257</article-id><article-id pub-id-type="doi">10.1002/advs.202207056</article-id><article-id pub-id-type="publisher-id">ADVS5235</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Constructing a Superlithiophilic 3D Burr&#x02010;Microsphere Interface on Garnet for High&#x02010;Rate and Ultra&#x02010;Stable Solid&#x02010;State Li Batteries</article-title></title-group><contrib-group><contrib id="advs5235-cr-0001" contrib-type="author"><name><surname>Chen</surname><given-names>Butian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9268-7916</contrib-id><xref rid="advs5235-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs5235-cr-0002" contrib-type="author"><name><surname>Zhang</surname><given-names>Jicheng</given-names></name><xref rid="advs5235-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs5235-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Tianran</given-names></name><xref rid="advs5235-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs5235-cr-0004" contrib-type="author"><name><surname>Wang</surname><given-names>Ruoyu</given-names></name><xref rid="advs5235-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs5235-cr-0005" contrib-type="author"><name><surname>Zheng</surname><given-names>Jian</given-names></name><xref rid="advs5235-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs5235-cr-0006" contrib-type="author"><name><surname>Zhai</surname><given-names>Yanwu</given-names></name><xref rid="advs5235-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs5235-cr-0007" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Xiangfeng</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9633-7721</contrib-id><xref rid="advs5235-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5235-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>liuxf@ucas.ac.cn</email></address></contrib></contrib-group><aff id="advs5235-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Center of Materials Science and Optoelectronics Engineering</named-content>
+<named-content content-type="organisation-division">College of Materials Science and Optoelectronic Technology</named-content>
+<institution>University of Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<postal-code>100049</postal-code>
+<country country="CN">P. R. China</country>
+</aff><aff id="advs5235-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">CAS Center for Excellence in Topological Quantum Computation</named-content>
+<institution>University of Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<postal-code>100190</postal-code>
+<country country="CN">P. R. China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>liuxf@ucas.ac.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>2</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2023</year></pub-date><volume>10</volume><issue seq="530">11</issue><issue-id pub-id-type="doi">10.1002/advs.v10.11</issue-id><elocation-id>2207056</elocation-id><history>
+<date date-type="rev-recd"><day>16</day><month>1</month><year>2023</year></date>
+<date date-type="received"><day>30</day><month>11</month><year>2022</year></date>
+</history><permissions><!--&#x000a9; 2023 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-10-2207056.pdf"/><abstract><title>Abstract</title><p>Garnet&#x02010;type solid&#x02010;state electrolyte (SSE) Li<sub>6.5</sub>La<sub>3</sub>Zr<sub>1.5</sub>Ta<sub>0.5</sub>O<sub>12</sub> attracts great interest due to its high ion conductivity and wide electrochemical window. But the huge interfacial resistance, Li dendrite growth, and low critical current density (CCD) block the practical applications. Herein, a superlithiophilic 3D burr&#x02010;microsphere (BM) interface layer composed of ionic conductor LiF&#x02010;LaF<sub>3</sub> is constructed in situ to achieve a high&#x02010;rate and ultra&#x02010;stable solid&#x02010;state lithium metal battery. The 3D&#x02010;BM interface layer with a large specific surface area shows a superlithiophilicity and its contact angle with molten Li is only 7&#x000b0; enabling the facile infiltration of molten Li. The assembled symmetrical cell reaches one of the highest CCD (2.7&#x000a0;mA cm<sup>&#x02212;2</sup>) at room temperature, an ultra&#x02010;low interface impedance of 3 &#x003a9; cm<sup>2</sup>, and a super&#x02010;long cycling stability of 12&#x000a0;000&#x000a0;h at 0.1&#x02013;1.5&#x000a0;mA cm<sup>&#x02212;2</sup> without Li dendrite growth. The solid&#x02010;state full cells with 3D&#x02010;BM interface show outstanding cycling stability (LiFePO<sub>4</sub>: 85.4%@900 cycles@1 C; LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub>:89%@200 cycles@0.5 C) and a high rate capacity (LiFePO<sub>4</sub>:135.5mAh g<sup>&#x02212;1</sup> at 2 C). Moreover, the designed 3D&#x02010;BM interface is quite stable after 90 days of storage in the air. This study offers a facile strategy to address the critical interface issues and accelerate the practical application of garnet&#x02010;type SSE in high performance solid&#x02010;state lithium metal batteries.</p></abstract><abstract id="advs5235-abs-0001" abstract-type="graphical"><p>A superlithiophilic 3D burr&#x02010;microsphere interface on garnet for high&#x02010;rate and ultra&#x02010;stable solid&#x02010;state Li batteries is constructed. The symmetric battery shows a high critical current density of 2.7&#x000a0;mA cm<sup>&#x02212;2</sup>, an ultra&#x02010;low interface impedance of only 3 &#x003a9; cm<sup>2</sup>, and a super&#x02010;long cycling stability of over 12&#x000a0;000&#x000a0;h. The full cells show an outstanding cycling stability and high rate capacity.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-10-2207056-g004.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs5235-kwd-0001">3D burr&#x02010;microsphere</kwd><kwd id="advs5235-kwd-0002">garnet</kwd><kwd id="advs5235-kwd-0003">interface modification</kwd><kwd id="advs5235-kwd-0004">solid&#x02010;state batteries</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>11975238</award-id><award-id>22005302</award-id><award-id>11575192</award-id></award-group><award-group id="funding-0002"><funding-source>International Partnership Program</funding-source><award-id>211211KYSB20170060</award-id><award-id>211211KYSB20180020</award-id></award-group><award-group id="funding-0003"><funding-source>Scientific Instrument Developing Project</funding-source><award-id>ZDKYYQ20180001</award-id></award-group><award-group id="funding-0004"><funding-source>Strategic Priority Research Program</funding-source><award-id>XDB28000000</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Chinese Academy of Sciences
+</institution><institution-id institution-id-type="doi">10.13039/501100002367</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>Natural Science Foundation of Beijing
+</institution><institution-id institution-id-type="doi">10.13039/501100004826</institution-id></institution-wrap></funding-source><award-id>2182082</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Fundamental Research Funds for the Central Universities
+</institution><institution-id institution-id-type="doi">10.13039/501100012226</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0008"><funding-source><institution-wrap><institution>China Postdoctoral Science Foundation
+</institution><institution-id institution-id-type="doi">10.13039/501100002858</institution-id></institution-wrap></funding-source><award-id>2020M680648</award-id></award-group></funding-group><counts><fig-count count="10"/><table-count count="0"/><page-count count="13"/><word-count count="8518"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 14, 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:14.04.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs5235-cit-0064">
+<string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <article-title>Constructing a Superlithiophilic 3D Burr&#x02010;Microsphere Interface on Garnet for High&#x02010;Rate and Ultra&#x02010;Stable Solid&#x02010;State Li Batteries</article-title>. <source>Adv. Sci.</source>
+<year>2023</year>, <volume>10</volume>, <elocation-id>2207056</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202207056</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs5235-sec-0010"><label>1</label><title>Introduction</title><p>With the rapid development and application of electric vehicles, the demand for batteries with high energy density and high safety becomes more and more urgent.<sup>[</sup>
+<xref rid="advs5235-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs5235-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs5235-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs5235-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> Nevertheless, the traditional liquid electrolyte&#x02010;based lithium&#x02010;ion battery cannot meet the requirements of future electric vehicles.<sup>[</sup>
+<xref rid="advs5235-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs5235-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="advs5235-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs5235-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Solid&#x02010;state batteries (SSBs) using solid&#x02010;state electrolytes (SSEs) have attracted great attention because of their high energy density and high safety.<sup>[</sup>
+<xref rid="advs5235-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> SSE is the core component of a solid&#x02010;state battery. Among the different types of solid electrolytes (sulfides,<sup>[</sup>
+<xref rid="advs5235-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs5235-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs5235-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> polymer/inorganic composites,<sup>[</sup>
+<xref rid="advs5235-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs5235-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs5235-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs5235-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> oxides,<sup>[</sup>
+<xref rid="advs5235-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="advs5235-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs5235-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> and halides<sup>[</sup>
+<xref rid="advs5235-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="advs5235-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs5235-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup>), oxide solid electrolytes especially garnet&#x02010;type Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO, when Ta is doped, it is LLZTO&#x02014;Li<sub>6.5</sub>La<sub>3</sub>Zr<sub>1.5</sub>Ta<sub>0.5</sub>O<sub>12</sub>) has attracted much interest owing to the high ionic conductivity, high electrochemical window, and high thermal stability.<sup>[</sup>
+<xref rid="advs5235-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs5235-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> But the solid&#x02013;solid interface incompatibility, the huge interfacial resistance, and Li dendrite growth on Li|LLZTO interfaces critically blocked the practical applications. Some groups reported that the Li<sub>2</sub>CO<sub>3</sub> formed on the surface of LLZTO resulted in poor interface incompatibility and huge interfacial resistance.<sup>[</sup>
+<xref rid="advs5235-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs5235-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="advs5235-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs5235-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs5235-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs5235-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="advs5235-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="advs5235-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> Some strategies have been extensively explored to remove Li<sub>2</sub>CO<sub>3</sub> and improve interface incompatibility.<sup>[</sup>
+<xref rid="advs5235-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="advs5235-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="advs5235-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> For example, Zhang et&#x000a0;al. transformed Li<sub>2</sub>CO<sub>3</sub> on the surface of LLZTO powder into LiCoO<sub>2</sub> (LCO) by a Li donor reaction,<sup>[</sup>
+<xref rid="advs5235-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> which facilitates Li<sup>+</sup> transport on the interface. But the Li dendrite growth of LLZO&#x02010;based solid&#x02010;state batteries during a long&#x02010;term cycle is still a safety issue.<sup>[</sup>
+<xref rid="advs5235-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="advs5235-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="advs5235-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> The reason for the Li dendrite growth is not quite clear but the incomplete contact between the electrode and electrolyte, and the resultant uneven current distribution are considered to be largely responsible for the dendrite growth.<sup>[</sup>
+<xref rid="advs5235-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> Krauskopf et&#x000a0;al. reported that the high nucleation and inhomogeneous Li deposition led to dendrite growth and short circuits.<sup>[</sup>
+<xref rid="advs5235-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> Li et&#x000a0;al.<sup>[</sup>
+<xref rid="advs5235-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> consider that the overpotential distribution on the Li|LLZTO interface is responsible for the inhomogeneous Li deposition and Li dendrites.</p><p>Various strategies have been applied to improve the interface compatibility between Li metal and LLZO. For example, SnN<italic toggle="yes">
+<sub>x</sub>
+</italic>,<sup>[</sup>
+<xref rid="advs5235-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> Al<sub>2</sub>O<sub>3</sub>,<sup>[</sup>
+<xref rid="advs5235-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>]</sup> Ge,<sup>[</sup>
+<xref rid="advs5235-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> Sb,<sup>[</sup>
+<xref rid="advs5235-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> Cu<sub>3</sub>N,<sup>[</sup>
+<xref rid="advs5235-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> graphite,<sup>[</sup>
+<xref rid="advs5235-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> Ga,<sup>[</sup>
+<xref rid="advs5235-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+<sup>]</sup> Li<sub>2</sub>PO<sub>2</sub>F<sub>2</sub>,<sup>[</sup>
+<xref rid="advs5235-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup> NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub>,<sup>[</sup>
+<xref rid="advs5235-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup> and Li<sub>3</sub>PO<sub>4</sub>
+<sup>[</sup>
+<xref rid="advs5235-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+<sup>]</sup> have been used to reduce the interface resistance between LLZO and Li metal anode. In addition, the surface energy of Li metal can be changed by alloying to get a better wettability to LLZO. For instance, Li&#x02014;Na,<sup>[</sup>
+<xref rid="advs5235-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+<sup>]</sup> Li&#x02014;C,<sup>[</sup>
+<xref rid="advs5235-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> Li&#x02014;C<sub>3</sub>N<sub>4</sub>,<sup>[</sup>
+<xref rid="advs5235-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>
+<sup>]</sup> Li&#x02010;BN,<sup>[</sup>
+<xref rid="advs5235-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+<sup>]</sup> and Li&#x02014;Si<sub>3</sub>N<sub>4</sub>
+<sup>[</sup>
+<xref rid="advs5235-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>
+<sup>]</sup> have improved the wettability of Li metal. But the critical current density (CCD) of the solid&#x02010;state batteries in most of the studies is usually less than 1.0&#x000a0;mA cm<sup>&#x02212;2</sup>, which limits the high&#x02010;rate performance of SSBs.<sup>[</sup>
+<xref rid="advs5235-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>
+<sup>]</sup> Just recently, Yang et&#x000a0;al. reduced the interface resistance to 5.1 &#x003a9; cm<sup>2</sup> through Li<sub>2</sub>PO<sub>2</sub>F<sub>2</sub> treatment and the CCD was increased to 1.2&#x000a0;mA cm<sup>&#x02212;2</sup>. The lithium symmetric battery was stably cycled for 1500&#x000a0;h at a current density of 0.6&#x000a0;mA cm<sup>&#x02212;2</sup>.<sup>[</sup>
+<xref rid="advs5235-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup> Almost at the same time, Guo et&#x000a0;al. modified the interface via NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub> to reduce the interface resistance to 13 &#x003a9; cm<sup>2</sup> and a CCD of 1.2&#x000a0;mA cm<sup>&#x02212;2</sup> was also achieved. The lithium symmetric battery could stably run 1000&#x000a0;h at 0.1&#x000a0;mA cm<sup>&#x02212;2</sup>.<sup>[</sup>
+<xref rid="advs5235-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup> How to further enhance the CCD and the high&#x02010;rate capability of SSBs as well as improve the long&#x02010;term cycling stability is still a big challenge for garnet&#x02010;type SSEs. In addition, the storage instability of garnet&#x02010;type SSEs in the air is also a critical issue in practical applications.</p><p>Herein, we design a superlithiophilic 3D burr&#x02010;microsphere (3D&#x02010;BM) interface layer composed of ionic conductor LiF&#x02014;LaF<sub>3</sub> on the Li|LLZTO interface via a facile HF treatment (defined as BM&#x02010;LLZTO) (<bold>Scheme</bold>&#x000a0;<xref rid="advs5235-fig-0009" ref-type="fig">
+<bold>1</bold>
+</xref>), which simultaneously addresses the critical issues of low CCD, inferior rate performance and insufficient long&#x02010;term cycling instability. The storage stability is also significantly improved after the construction of 3D&#x02010;BM. The formed 3D&#x02010;BM structure has a very large specific surface area, which is quite favorable for the infiltration of molten Li, and its contact angle with molten Li is only 7&#x000b0;, showing a superlithiophilicity. Furthermore, part of the ionic conductor LaF<sub>3</sub> in the 3D&#x02010;BM interface layer reacts with molten Li to form electron conductor metal La and Li&#x02014;La alloy (When BM&#x02010;LLZTO reacts with molten Li, it is marked as Li&#x02010;BM&#x02010;LLZTO), and transformed into a mixed ion&#x02010;electronic conductor (MIEC). This lowers the nucleation/diffusion energy barrier, uniforms the electric field distribution, and decreases the local current density. The assembled symmetrical cell reaches a record CCD of 2.7&#x000a0;mA cm<sup>&#x02212;2</sup>, an ultra&#x02010;low interface impedance (only 3 &#x003a9; cm<sup>2</sup>), and super&#x02010;long cycling stability (over 12&#x000a0;000&#x000a0;h at 0.1&#x02013;1.5&#x000a0;mA cm<sup>&#x02212;2</sup>) without Li dendrite growth at room temperature. To the best of our knowledge, 12&#x000a0;000&#x000a0;h is the reported longest cycle time for SSBs at room temperature. The discharge capacity of LiFePO<sub>4</sub>&#x02010;based solid&#x02010;state full battery at 0.1 C and 2 C is 159.5 and 135.5 mAh g<sup>&#x02212;1</sup>, respectively. The capacity retention rate after 900 cycles at 1 C is 85.4% and the Coulombic efficiency is as high as 99.9%. Similarly, the discharge capacity of LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub>&#x02010;based solid&#x02010;state full battery at 0.1 C and 2 C is 203.5 and 114.8 mAh g<sup>&#x02212;1</sup>, respectively, and the capacity retention and Coulombic efficiency of 200 cycles at 0.5 C are 89% and 98.6% respectively. Moreover, the designed interface structure is quite stable in air and no Li<sub>2</sub>CO<sub>3</sub> is regenerated on the surface of LLZTO after 90 days of storage. This work offers a facile and effective way to simultaneously solve the Li|LLZTO interface issues for high&#x02010;performance solid&#x02010;state Li metal batteries, which greatly promotes the practical application of solid&#x02010;state batteries.</p><fig position="float" fig-type="Scheme" id="advs5235-fig-0009"><label>Scheme 1</label><caption><p>The schematic of the constructing process of and protected Li|LLZTO interface for Li metal solid batteries.</p></caption><graphic xlink:href="ADVS-10-2207056-g003" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="advs5235-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs5235-sec-0030"><label>2.1</label><title>Characterization of LLZTO Pellets</title><p>The LLZTO pellets are prepared by the traditional high&#x02010;temperature solid&#x02010;phase method and sintered in the air without pressure. The phase structure obtained is verified by X&#x02010;ray diffraction (XRD), so the diffraction peak matches PDF#45&#x02010;0109 (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>1, Supporting Information), and no other impurity peaks appear. Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>2, Supporting Information, is a scanning electron microscope (SEM) image of a section of LLZTO, it can be seen from Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>2, Supporting Information, that the average crystal grain size of LLZTO is about 3&#x000a0;&#x000b5;m, and the crystal grains are in very close contact, and no obvious pores are observed, which proves that the prepared LLZTO ceramic pellets are very dense (over 98% measured by the Archimedes method). The electrical conductivity at room temperature is 8.4 &#x000d7; 10<sup>&#x02212;4</sup> S cm<sup>&#x02212;1</sup> by electrochemical impedance spectroscopy (EIS) (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>3, Supporting Information). The EIS is tested at 25&#x02013;100&#x000a0;&#x000b0;C, and the corresponding activation energy, <italic toggle="yes">E</italic>
+<sub>a</sub> is calculated to be 0.37&#x000a0;eV (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>4, Supporting Information). To explore the consistency and repeatability of LLZTO ceramic pellets in the sintering process, 40 ceramic pellets were sintered at one time and their conductivity was tested. As shown in Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>5, Supporting Information, the conductivity of 40 ceramic pellets ranged from 7.5 to 8.9 &#x000d7; 10<sup>&#x02212;4</sup> S cm<sup>&#x02212;1</sup>, and the mode was 8.4 &#x000d7; 10<sup>&#x02212;4</sup> S cm<sup>&#x02212;1</sup>. The above results show that the prepared LLZTO ceramic pellets are relatively successful, with high consistency and repeatability, which are very important for subsequent experiments.</p></sec><sec id="advs5235-sec-0040"><label>2.2</label><title>The Mechanism of 3D&#x02010;BM (BM&#x02010;LLZTO) Structure to Stabilize Li|LLZT Interface</title><p>In general, the contact between solid Li and LLZTO is difficult to achieve, hence the Li<bold>|</bold>LLZT interface was constructed by the molten Li method.<sup>[</sup>
+<xref rid="advs5235-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+<sup>]</sup> The wettability of LLZTO and BM&#x02010;LLZTO to molten Li was tested at 240 &#x000b0;C, respectively. Due to the very poor wettability, the molten Li shrinks into a small ball on the LLZTO surface (<bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>), and its contact angle is about 120&#x000b0; (Figure&#x000a0;<xref rid="advs5235-fig-0001" ref-type="fig">1b</xref>), which means the lithiophobic property of the LLZTO surface. Meanwhile, very large voids can be observed at the Li<bold>|</bold>LLZT interface (Figure&#x000a0;<xref rid="advs5235-fig-0001" ref-type="fig">1c</xref>), which further verifies the lithiophobicity of the LLZTO surface. On the contrary, BM&#x02010;LLZTO obtained by HF treatment at different time showed good lipophilicity, and the minimum contact angle measured after 15&#x000a0;min treatment was only 7&#x000b0;, showing very good wettability and superlipophilicity (Figure&#x000a0;<xref rid="advs5235-fig-0001" ref-type="fig">1d,e</xref> and Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>6, Supporting Information). The reasons for the good wettability will be discussed later. It can be seen from the SEM image of the interface that BM&#x02010;LLZTO is in close contact with lithium metal without any voids (Figure&#x000a0;<xref rid="advs5235-fig-0001" ref-type="fig">1f</xref>). Meanwhile, after 15&#x000a0;min of HF treatment, the Li<sup>+</sup> conductivity decreased, but still reached a high Li<sup>+</sup> conductivity of 4.7 &#x000d7; 10<sup>&#x02212;4</sup> S cm<sup>&#x02212;1</sup> (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>7, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs5235-fig-0001"><label>Figure 1</label><caption><p>a&#x02013;c) Optical spectrum, contact angle measurement, and SEM image of LLZTO and molten lithium infiltration. d&#x02013;f) Optical spectrum, contact angle measurement, and SEM image of BM&#x02010;LLZTO and molten Li infiltration.</p></caption><graphic xlink:href="ADVS-10-2207056-g008" position="anchor" id="jats-graphic-5"/></fig><p>SEM is further applied to observe the cross&#x02010;sectional morphology of LLZTO and BM&#x02010;LLZTO. In the LLZTO section, it can be seen that the internal ceramic grains are arranged very tightly, and there are no obvious voids, showing a very high density, which is consistent with the result shown in Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>2, Supporting Information. However, a thick layer of Li<sub>2</sub>CO<sub>3</sub> is formed on the surface of LLZTO due to being placed in the air for 48 h (<bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>). For a better comparison, LLZTO was placed in the air for 48 h and then treated with a 40% HF solution to obtain BM&#x02010;LLZTO. Through the energy dispersive spectrometer (EDS) test on the section of BM&#x02010;LLZTO, the F element in BM&#x02010;LLZTO is mainly distributed on the surface, indicating that a thick fluoride layer is formed on the surface of BM&#x02010;LLZTO, and the thickness is about 2&#x000a0;&#x000b5;m (Figure&#x000a0;<xref rid="advs5235-fig-0002" ref-type="fig">2b,c</xref>). The La and O elements that represent LLZTO mainly exist inside BM&#x02010;LLZTO, and no strong signals of La and O elements are detected on the surface. The reason is that the fluoride layer on the surface blocks its signals (Figure&#x000a0;<xref rid="advs5235-fig-0002" ref-type="fig">2d</xref>). To further characterize the structural characteristics of LLZTO and BM&#x02010;LLZTO, XRD was used to test the surface of LLZTO and BM&#x02010;LLZTO. As shown in Figure&#x000a0;<xref rid="advs5235-fig-0002" ref-type="fig">2e</xref>, the main phases of LLZTO and BM&#x02010;LLZTO are cubic garnet phases (PDF#45&#x02010;0109), but a clear Li<sub>2</sub>CO<sub>3</sub> diffraction peak (PDF#87&#x02010;0728) at 21.3&#x000b0; appears in the sample of LLZTO. In BM&#x02010;LLZTO, the diffraction peak of Li<sub>2</sub>CO<sub>3</sub> is not observed, all the diffraction peaks belong to LLZTO, and there is no miscellaneous peak. It can also be confirmed by the Raman spectra of LLZTO and BM&#x02010;LLZTO (Figure&#x000a0;<xref rid="advs5235-fig-0002" ref-type="fig">2f</xref>). The peaks at 243, 375, 645, and 728 cm<sup>&#x02212;1</sup> were characteristic peaks of the cubic garnet phase, and the first two peaks were related to the Li&#x02014;O bonding in the garnet structure.<sup>[</sup>
+<xref rid="advs5235-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+<sup>]</sup> The peak of LLZTO at 1087 cm<sup>&#x02212;1</sup> comes from Li<sub>2</sub>CO<sub>3</sub> produced on its surface. It is proved that LLZTO can generate a large amount of Li<sub>2</sub>CO<sub>3</sub> on the surface when placed in air for 48 h, and the results are consistent with those shown in Figure&#x000a0;<xref rid="advs5235-fig-0002" ref-type="fig">2a</xref>. On the contrary, no peak of Li<sub>2</sub>CO<sub>3</sub> was observed on the BM&#x02010;LLZTO surface because Li<sub>2</sub>CO<sub>3</sub> on the BM&#x02010;LLZTO surface was completely removed.</p><fig position="float" fig-type="Figure" id="advs5235-fig-0002"><label>Figure 2</label><caption><p>a&#x02013;c) SEM of LLZTO (a) and BM&#x02010;LLZTO (b,c) cross&#x02010;sections. d) SEM&#x02010;EDX of BM&#x02010;LLZO pellet cross&#x02010;sections. e) XRD patterns of LLZTO and BM&#x02010;LLZTO after being placed in the air for 48 h. f) Raman spectra of LLZTO and BM&#x02010;LLZTO after being placed in the air for 48 h.</p></caption><graphic xlink:href="ADVS-10-2207056-g002" position="anchor" id="jats-graphic-7"/></fig><p>To explore whether BM&#x02010;LLZTO can inhibit the formation of Li<sub>2</sub>CO<sub>3</sub>, fresh LLZTO and BM&#x02010;LLZTO were placed in the air for 90 days, and XRD and Raman characterization were carried out before and after placement. As Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>8, Supporting Information, shows, after being placed for 90 days, LLZTO showed strong Li<sub>2</sub>CO<sub>3</sub> diffraction peaks at 21.3&#x000b0;, 23.5&#x000b0;, and 37&#x000b0;, while the diffraction peaks of BM&#x02010;LLZTO were the same as 90 days ago, and there was no Li<sub>2</sub>CO<sub>3</sub> impurity peak. The same result is also shown in the Raman spectrum, no Li<sub>2</sub>CO<sub>3</sub> peak was observed after BM&#x02010;LLZTO was placed in the air for 90 days, while obvious Li<sub>2</sub>CO<sub>3</sub> peaks appeared at 158 and 1087 cm<sup>&#x02212;1</sup> after LLZTO was placed for 90 days (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>9, Supporting Information). The above results indicate that BM&#x02010;LLZTO can be stored in air for a long time without generating Li<sub>2</sub>CO<sub>3</sub>, which greatly improves the storage stability of LLZTO in the air, and effectively solves the storage problem of LLZTO solid electrolytes in practical applications.</p><p>To explore the formation mechanism of BM&#x02010;LLZTO and the reason why the contact between BM&#x02010;LLZTO and Li metal produces a good interface, BM&#x02010;LLZTO reacts with molten Li at 240 &#x000b0;C to obtain Li&#x02010;BM&#x02010;LLZTO. To better study the effect of HF solution on LLZTO, the fresh LLZTO pellets are divided into three parts: the upper part is Li&#x02010;BM&#x02010;LLZTO, the lower&#x02010;left part is LLZO, and the lower right part is BM&#x02010;LLZTO (<bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>). On the surface of Li&#x02010;BM&#x02010;LLZTO, metallic Li will diffuse along the surface of BM&#x02010;LLZTO, and spread to the entire surface with the extension of heating time, and the surface will change from light yellow to navy blue (Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3a</xref>). The reason why the surface of Li&#x02010;BM&#x02010;LLZTO appears navy blue may be due to the formation of metallic La on the surface, and it is speculated that the reaction process is as follows:
+<disp-formula id="advs5235-disp-0001">
+<label>(1)</label>
+<mml:math id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>Li</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>CO</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mrow><mml:mo linebreak="badbreak">+</mml:mo><mml:mn>2</mml:mn><mml:mi>HF</mml:mi></mml:mrow><mml:mo>&#x02192;</mml:mo><mml:mrow><mml:mn>2</mml:mn><mml:mi>LiF</mml:mi><mml:mo linebreak="badbreak">+</mml:mo></mml:mrow><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mi mathvariant="normal">O</mml:mi><mml:mo linebreak="badbreak">+</mml:mo><mml:mi mathvariant="normal">C</mml:mi></mml:mrow><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="advs5235-disp-0002">
+<label>(2)</label>
+<mml:math id="jats-math-2" display="block"><mml:mrow><mml:mtable displaystyle="true"><mml:mtr><mml:mtd/><mml:mtd/><mml:mtd columnalign="left"><mml:mrow><mml:msub><mml:mi>Li</mml:mi><mml:mrow><mml:mn>6</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mi>La</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mi>Zr</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mi>Ta</mml:mi><mml:mrow><mml:mn>0</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>12</mml:mn></mml:msub><mml:mrow><mml:mo linebreak="badbreak">+</mml:mo><mml:mn>2</mml:mn></mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mi>y</mml:mi></mml:mrow></mml:mfenced><mml:mi>HF</mml:mi><mml:munderover><mml:mo>&#x02192;</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>6</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>5</mml:mn><mml:mo>,</mml:mo></mml:mrow><mml:mspace width="0.28em"/><mml:mi>y</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>3</mml:mn></mml:mrow><mml:mrow><mml:mi>x</mml:mi><mml:mo>&#x02265;</mml:mo><mml:mi>y</mml:mi></mml:mrow></mml:munderover></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd/><mml:mtd/><mml:mtd columnalign="left"><mml:mrow><mml:msub><mml:mi>Li</mml:mi><mml:mrow><mml:mn>6</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>5</mml:mn><mml:mo>&#x02212;</mml:mo></mml:mrow><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>La</mml:mi><mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mo>&#x02212;</mml:mo></mml:mrow><mml:mi>y</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>Zr</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mi>Ta</mml:mi><mml:mrow><mml:mn>0</mml:mn><mml:mrow><mml:mo>.</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mrow><mml:mn>12</mml:mn><mml:mo>&#x02212;</mml:mo></mml:mrow><mml:mi>x</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mi>y</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">F</mml:mi><mml:mrow><mml:mi>x</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mi>y</mml:mi></mml:mrow></mml:msub><mml:mo linebreak="badbreak">+</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mi>LiF</mml:mi><mml:mo linebreak="badbreak">+</mml:mo></mml:mrow><mml:mi>y</mml:mi><mml:msub><mml:mi>LaF</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mo linebreak="goodbreak">+</mml:mo><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mi>y</mml:mi></mml:mrow></mml:mfenced><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="advs5235-disp-0003">
+<label>(3)</label>
+<mml:math id="jats-math-3" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>LaF</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mrow><mml:mo linebreak="badbreak">+</mml:mo><mml:mn>3</mml:mn><mml:mi>Li</mml:mi></mml:mrow><mml:mo>&#x02192;</mml:mo><mml:mrow><mml:mn>3</mml:mn><mml:mi>LiF</mml:mi><mml:mo linebreak="badbreak">+</mml:mo><mml:mi>La</mml:mi></mml:mrow></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><fig position="float" fig-type="Figure" id="advs5235-fig-0003"><label>Figure 3</label><caption><p>a) Fresh LLZTO pellet is divided into three parts optical image. Surface SEM images of b) LLZTO, c) BM&#x02010;LLZTO, and d) Li&#x02010;BM&#x02010;LLZTO. e&#x02013;g) XPS map of the surface of LLZTO, BM&#x02010;LLZTO, and Li&#x02010;BM&#x02010;LLZTO.</p></caption><graphic xlink:href="ADVS-10-2207056-g001" position="anchor" id="jats-graphic-9"/></fig><p>To prove the feasibility of the above three chemical equations, we calculated the Gibbs free energy of the chemical reaction equation. The standard Gibbs free energy of chemical reaction Equation&#x000a0;(<xref rid="advs5235-disp-0001" ref-type="disp-formula">1</xref>) is &#x02212;127.414 KJ mol<sup>&#x02212;1</sup> (Table <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>1, Supporting Information), which means that the reaction is a spontaneous process. For Equation&#x000a0;(<xref rid="advs5235-disp-0003" ref-type="disp-formula">3</xref>), when the temperature is in the range of 298.15&#x02013;600 K, the calculated &#x00394;<italic toggle="yes">r G</italic>
+<sub>m</sub> &#x0003c; 0 (Table <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>1, Supporting Information), proves that the reactions are spontaneous in this range. The spontaneous diffusion mechanism can ensure the uniform distribution of Li<sup>+</sup> at the interface, to make the current distribution uniform during the cycle, which has a positive effect on the inhibition of lithium dendrites. The Gibbs free energy of chemical reaction Equation&#x000a0;(<xref rid="advs5235-disp-0002" ref-type="disp-formula">2</xref>) is calculated by density functional theory (DFT). The results show that the Gibbs free energy distributions are &#x02212;20.02 KJ mol<sup>&#x02212;1</sup> (Table <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>2, Supporting Information) and &#x02212;45.94 KJ mol<sup>&#x02212;1</sup> (Table <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S</xref>3, Supporting Information) when (<italic toggle="yes">x</italic> = 3.25, <italic toggle="yes">y</italic> = 1.5) and (<italic toggle="yes">x</italic> = 6.5, <italic toggle="yes">y</italic> = 3), which proves that under restricted conditions, no matter what the values of <italic toggle="yes">x</italic> and <italic toggle="yes">y</italic> are, the reaction can proceed spontaneously on thermodynamics.</p><p>On the other hand, A large number of 3D&#x02010;BM structures can be seen on the surface of BM&#x02010;LLZTO (Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3c</xref> and Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S10a&#x02013;c</xref>, Supporting Information). The reason for its formation is that after removing the Li<sub>2</sub>CO<sub>3</sub> on the surface, the high&#x02010;concentration HF solution continues to corrode the LLZTO pellets along the grain boundaries and remove impurities from grain boundaries,<sup>[</sup>
+<xref rid="advs5235-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> forming a 3D&#x02010;BM structure on the surface. The EDS characterization (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S10d</xref>, Supporting Information) results show that the 3D&#x02010;BM is composed of fluoride, and its structure is consistent with the cross&#x02010;sectional characterization (Figure&#x000a0;<xref rid="advs5235-fig-0002" ref-type="fig">2d</xref>). On the surface of Li&#x02010;BM&#x02010;LLZTO, a large number of small spherical particles are formed (Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3d</xref>). These small balls are composed of LiF and metal La formed by the reaction of the metal Li and LaF<sub>3</sub>. To further determine the specific components of the reaction process, X&#x02010;ray photoelectron spectroscopy (XPS) was used for characterization. As shown in Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3e</xref>, in the C 1s spectra, two peaks at binding energies of 284.8 and 290&#x000a0;eV were detected for the LLZTO pellet, which can be assigned to adventitious carbon and Li<sub>2</sub>CO<sub>3</sub>, respectively. There is no Li<sub>2</sub>CO<sub>3</sub> peak on the BM&#x02010;LLZTO surface, which means that Li<sub>2</sub>CO<sub>3</sub> on the surface has been completely removed. On the surface of Li&#x02010;BM&#x02010;LLZTO, a Li<sub>2</sub>CO<sub>3</sub> peak was observed again, the reason is that the XPS sample was prepared in air and there is incompletely reacted metal Li on the surface of Li&#x02010;BM&#x02010;LLZTO, which reacts with CO<sub>2</sub> in the air to form Li<sub>2</sub>CO<sub>3</sub> again. In the Li 1s spectra (Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3f</xref>), the lower binding energy of 54.5&#x000a0;eV can be assigned to the Li&#x02014;O bond in LLZTO, and the binding energy of 55.7&#x000a0;eV belongs to LiF. In addition to the binding energy of 55.0&#x000a0;eV in the Li 1s spectra, the binding energy of Li&#x02010;BM&#x02010;LLZTO at 55.0&#x000a0;eV belongs to Li<sub>2</sub>CO<sub>3</sub>, which corresponds to the binding energy of 290&#x000a0;eV in the C 1s spectrum. Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3g</xref> is the F 1s spectrum, the binding energy at 685.0&#x000a0;eV comes from LiF, while in BM&#x02010;LLZTO, except LiF, the binding energy at 684.2&#x000a0;eV comes from LaF<sub>3</sub>.<sup>[</sup>
+<xref rid="advs5235-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+<sup>]</sup> In La 3d spectrum (Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3h</xref>), the La<sup>3+</sup> 3d<sub>3/2</sub> and 3d<sub>5/2</sub> region in LLZTO have four subpeaks at 833.3, 837.2, 850.1, and 854.0&#x000a0;eV because of the spin&#x02010;orbit multiplet splitting.<sup>[</sup>
+<xref rid="advs5235-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+<sup>]</sup> The La 3d spectrum in BM&#x02010;LLZTO is the same as that in LaF<sub>3</sub> powder, which means that La 3d on the surface of BM&#x02010;LLZTO comes from LaF<sub>3</sub>, and the result is consistent with the binding energy at 684.2&#x000a0;eV in the F 1s spectrum (Figure&#x000a0;<xref rid="advs5235-fig-0003" ref-type="fig">3g</xref>). The La 3d spectrum of Li&#x02010;BM&#x02010;LLZTO has only the absorption peak of La<sub>2</sub>O<sub>3</sub>, and the absorption peak of metal La is not observed. The reason is that the chemical property of metal La is very active, and it will be oxidized quickly when exposed to air, to react to produce La<sub>2</sub>O<sub>3</sub>, Therefore, only the La 3d absorption peak of La<sub>2</sub>O<sub>3</sub> can be detected in the La 3d spectrum of Li&#x02010;BM&#x02010;LLZTO. In addition, the Zr 3d and Ta 4f spectra of the BM&#x02010;LLZTO surface were analyzed (Figures <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S11</xref> and <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S12</xref>, Supporting Information), and we found absorption peaks of ZrF<sub>4</sub> and TaF<sub>5</sub> on the BM&#x02010;LLZTO surface, indicating that HF indeed react with LLZTO to generate ZrF<sub>4</sub> and TaF<sub>5</sub>. At the same time, after the BM&#x02010;LLZTO surface is etched by Ar<sup>+</sup> for 15&#x000a0;nm, the absorption peak of Zr 3d is almost undetectable, while the absorption peak of TaF<sub>5</sub> is very weak and almost nonexistent, indicating that the thickness of ZrF<sub>4</sub> and TaF<sub>5</sub> in BM&#x02010;LLZTO is about 15&#x000a0;nm, which is very small compared with the thickness of LaF<sub>3</sub> and LiF (about 2&#x000a0;&#x000b5;m). This indicates that the reaction of HF with LLZTO indeed produces metal fluoride of Zr and Ta, but compared with LiF and LaF<sub>3</sub>, the amount of ZrF<sub>4</sub> and TaF<sub>5</sub> is very small. Therefore, LiF and LaF<sub>3</sub> still play a major role at the interface between lithium metal and BM&#x02010;LLZTO.</p><p>
+<bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref> presents the time&#x02010;of&#x02010;flight secondary&#x02010;ion mass spectroscopy (TOF&#x02010;SIMS) depth profiling of LiF and LaF<sub>3</sub> on the surface of BM&#x02010;LLZTO, which reveals the evolution of several fragments as the sputtering proceeds in a negative mode. LiF<sub>2</sub>
+<sup>&#x02212;</sup> and LaF<sub>4</sub>
+<sup>&#x02212;</sup> represent LiF and LaF<sub>3</sub>, respectively. TaO<sub>2</sub>
+<sup>&#x02212;</sup>, ZrO<sub>2</sub>
+<sup>&#x02212;</sup>, and LaO<sup>&#x02212;</sup> signals come from LLZTO ceramic pellets. As shown in Figure&#x000a0;<xref rid="advs5235-fig-0004" ref-type="fig">4a</xref>, the LiF<sub>2</sub>
+<sup>&#x02212;</sup> and LaF<sub>4</sub>
+<sup>&#x02212;</sup> signals began to be strong, and then gradually declined with the sputtering time. The existence of LiF and LaF<sub>3</sub> on the BM&#x02010;LLZTO surface is proved, which is consistent with the results of XPS. On the contrary, the TaO<sub>2</sub>
+<sup>&#x02212;</sup>, ZrO<sub>2</sub>
+<sup>&#x02212;</sup>, and LaO<sup>&#x02212;</sup> fragments signal is very weak when it appears, increases almost in parallel with the sputtering time, and finally tends to be stable, which means that the BM&#x02010;LLZTO surface is covered with a layer of material with homogeneous element distribution. Figure&#x000a0;<xref rid="advs5235-fig-0004" ref-type="fig">4b</xref> shows the TOF&#x02010;SIMS mapping of TaO<sub>2</sub>
+<sup>&#x02212;</sup>, ZrO<sub>2</sub>
+<sup>&#x02212;</sup>, LiF<sub>2</sub>
+<sup>&#x02212;</sup>, and LaF<sub>4</sub>
+<sup>&#x02212;</sup> signals after sputtering and corresponding 3D visual views. It can be seen from mapping, that after sputtering for 500 s, a strong LiF<sub>2</sub>
+<sup>&#x02212;</sup> and LaF<sub>4</sub>
+<sup>&#x02212;</sup> signal can still be detected, which means that sputtering for 500 s is not enough to remove LiF and LaF<sub>3</sub> from the surface. From the 3D view, the surface of BM&#x02010;LLZTO is mainly composed of LiF and LaF<sub>3</sub>, LiF is located at the top layer, and the interior is composed of LiF and LaF<sub>3</sub>.</p><fig position="float" fig-type="Figure" id="advs5235-fig-0004"><label>Figure 4</label><caption><p>a) TOF&#x02010;SIMS depth profiles for the BM&#x02010;LLZTO pellet. b) TOF&#x02010;SIMS chemical mappings after sputtering and 3D view of element distribution.</p></caption><graphic xlink:href="ADVS-10-2207056-g006" position="anchor" id="jats-graphic-11"/></fig><p>Because TOF&#x02010;SIMS has the advantages of high sensitivity and high resolution, we still use TOF&#x02010;SIMS to further explore the diffusion mechanism of Li on the Li&#x02010;BM&#x02010;LLZTO surface. It is worth noting that Li<sup>&#x02212;</sup> signal comes from LiF, metal Li, Li<sub>2</sub>CO<sub>3</sub>, and LLZTO at the bottom. LiCO<sub>3</sub>
+<sup>&#x02212;</sup> signal comes from Li<sub>2</sub>CO<sub>3</sub>. Since there is a very thick molten Li layer on the surface of Li&#x02010;BM&#x02010;LLZTO, to obtain the surface structure information, the surface was thinned before characterization. Despite the thinning treatment, a very strong Li&#x02010;signal can still be detected on the Li&#x02010;BM&#x02010;LLZTO surface (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S13</xref>, Supporting Information), This is due to the presence of a large amount of metal Li on its surface. In addition, the signal of LiCO<sub>3</sub>
+<sup>&#x02212;</sup> can also be detected on the surface, which is due to the brief exposure of the Li&#x02010;BM&#x02010;LLZTO pellets to air, which causes the metal Li on the surface to react with CO<sub>2</sub> to generate Li<sub>2</sub>CO<sub>3</sub>. This signal drops rapidly after 30 s of sputtering, indicating that the Li<sub>2</sub>CO<sub>3</sub> is very thin, and this result is also reflected in the 2D mapping and 3D view (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S14</xref>, Supporting Information). It can be seen from the LiF<sub>2</sub>
+<sup>&#x02212;</sup> signal curve in <bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref> that, at the beginning of detection, the LiF<sub>2</sub>
+<sup>&#x02212;</sup> signal began to be weak because of the shielding of metal Li and Li<sub>2</sub>CO<sub>3</sub> on the surface. The LiF<sub>2</sub>
+<sup>&#x02212;</sup> signal increases gradually in 0&#x02013;800 s and decreases gradually in 800&#x02013;2400 s. Combined with the 2D mapping and 3D view of LiF<sub>2</sub>
+<sup>&#x02212;</sup> (Figure&#x000a0;<xref rid="advs5235-fig-0005" ref-type="fig">5b,c</xref> and Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S15</xref>, Supporting Information), only a very small amount of LiF remains after sputtering for 2400 s. Due to the occlusion by metal Li, Li<sub>2</sub>CO<sub>3</sub>, and LiF, the signal of TaO<sub>2</sub>
+<sup>&#x02212;</sup> was only detected at 1200 s, and gradually increased from 1200 to 2400 s (Figure&#x000a0;<xref rid="advs5235-fig-0005" ref-type="fig">5a</xref>). It can be seen from 2D mapping and 3D view (Figure&#x000a0;<xref rid="advs5235-fig-0005" ref-type="fig">5b,c</xref> and Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S15</xref>, Supporting Information) that LLZTO already exists at 2400 s. For LaF<sub>3</sub>, there is almost no LaF<sub>3</sub>
+<sup>&#x02212;</sup> signal within 0&#x02013;300 s (Figure&#x000a0;<xref rid="advs5235-fig-0005" ref-type="fig">5a</xref>). The reason is that the surface LaF<sub>3</sub> reacts with molten lithium and converts it into LiF and metal La (reaction Equation&#x000a0;(<xref rid="advs5235-disp-0003" ref-type="disp-formula">3</xref>)). After that, the LaF<sub>3</sub>
+<sup>&#x02212;</sup> signal appeared but was weak within 300&#x02013;1200 s, and almost disappeared after 1200 s. Combined with the 2D mapping and 3D view of the LaF<sub>3</sub>
+<sup>&#x02212;</sup> signal (Figure&#x000a0;<xref rid="advs5235-fig-0005" ref-type="fig">5b,c</xref> and Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S15</xref>, Supporting Information), LaF<sub>3</sub> only exists in a small amount in the middle layer. The reason is the insufficient reaction between LaF<sub>3</sub> and molten Li. It is worth noting that the existence of the LiLaFO<sub>2</sub>
+<sup>&#x02212;</sup> signal proves the existence of Li<sub>6.5&#x02212;</sub>
+<italic toggle="yes">
+<sub>x</sub>
+</italic>La<sub>3&#x02212;</sub>
+<italic toggle="yes">
+<sub>y</sub>
+</italic>Zr<sub>1.5</sub>Ta<sub>0.5</sub>O<sub>12&#x02212;</sub>
+<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sub>&#x02212;</sub>
+<italic toggle="yes">
+<sub>y</sub>
+</italic>F<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sub>&#x02212;</sub>
+<italic toggle="yes">
+<sub>y</sub>
+</italic> products and explains the rationality of the chemical reaction Equation&#x000a0;(<xref rid="advs5235-disp-0002" ref-type="disp-formula">2</xref>). It can be seen from Figure&#x000a0;<xref rid="advs5235-fig-0005" ref-type="fig">5b,c</xref> and Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S15</xref>, Supporting Information, that the Li<sub>6.5&#x02212;</sub>
+<italic toggle="yes">
+<sub>x</sub>
+</italic>La<sub>3&#x02212;</sub>
+<italic toggle="yes">
+<sub>y</sub>
+</italic>Zr<sub>1.5</sub>Ta<sub>0.5</sub>O<sub>12&#x02212;</sub>
+<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sub>&#x02212;</sub>
+<italic toggle="yes">
+<sub>y</sub>
+</italic>F<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sub>&#x02212;</sub>
+<italic toggle="yes">
+<sub>y</sub>
+</italic> thin layer is located at the bottom and mixed with LLZTO. Based on the above analysis, it is not difficult to understand the reasons why molten lithium has a very good wettability for BM&#x02010;LLZTO. First, the main components of the 3D&#x02010;BM structure are LaF<sub>3</sub> and LiF. LaF<sub>3</sub> reacts with molten lithium to generate metal La, which in turn reacts with molten lithium to generate Li&#x02014;La alloy. The introduction of the La atom weakens the force of neighboring lithium atoms, reduces the surface tension of liquid lithium, and improves the wettability of liquid lithium.<sup>[</sup>
+<xref rid="advs5235-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup> Second, LiF is a very good lithiophilic material. The surface of BM&#x02010;LLZTO contains a large amount of LiF, which greatly improves the wettability of lithium metal. Finally, the surface of 3D&#x02010;BMs has a large number of micro/nano channels, which can generate a large amount of capillary force to improve the wettability of liquid lithium.<sup>[</sup>
+<xref rid="advs5235-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs5235-fig-0005"><label>Figure 5</label><caption><p>a) TOF&#x02010;SIMS depth profiles for the Li&#x02010;BM&#x02010;LLZTO pellet. b) TOF&#x02010;SIMS chemical mappings different sputtering depth. c) 3D view of element distribution.</p></caption><graphic xlink:href="ADVS-10-2207056-g009" position="anchor" id="jats-graphic-13"/></fig><p>The interface chemistry of Li&#x02010;LLZTO was then researched by DFT calculations. As shown in <bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0006" ref-type="fig">
+<bold>6</bold>a&#x02013;d</xref>, the interfacial formation energy of Li|LLZTO, La|LLZTO, LiF|LLZTO, and LaF<sub>3</sub>|LLZTO is &#x02212;4.59, &#x02212;7.15, &#x02212;6.75, and &#x02212;3.40 J m<sup>&#x02212;2</sup>, respectively, which illustrate the intrinsic capabilities of these materials to wet LLZTO. This result is also confirmed in our experiment (Figure&#x000a0;<xref rid="advs5235-fig-0001" ref-type="fig">1e</xref>). Furthermore, the interfacial formation energies of La|LLZTO and LiF|LLZTO were more negative than those of Li|LLZTO, and LaF<sub>3</sub>|LLZTO is slightly higher than Li|LLZTO, which shows that the production of these film layers is conducive to enhancing the chemical contact between Li and LLZTO. On the contrary, the interface formation energy of Li|Li<sub>2</sub>CO<sub>3</sub> is positive (Figure&#x000a0;<xref rid="advs5235-fig-0006" ref-type="fig">6e,f</xref>), which means that Li cannot wet Li<sub>2</sub>CO<sub>3</sub>, and this result was observed in our experiment (Figure&#x000a0;<xref rid="advs5235-fig-0001" ref-type="fig">1c</xref>). Furthermore, due to the extremely high reactivity, the bare LLZTO surface will form a lithiophobic layer dominated by Li<sub>2</sub>CO<sub>3</sub> with low lithium&#x02010;ion conductivity in the air.<sup>[</sup>
+<xref rid="advs5235-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> The DFT calculation results show that Li<sub>2</sub>CO<sub>3</sub>|LLZTO (Figure&#x000a0;<xref rid="advs5235-fig-0006" ref-type="fig">6g</xref>) has a very high diffusion barrier of 1.89&#x000a0;eV, which may lead to the trend of lithium accumulation in the region with relatively high current density, and then bring about the growth of lithium dendrites. By contrast, the migration energy barriers of Li<sup>+</sup> at La|LLZTO (Figure&#x000a0;<xref rid="advs5235-fig-0006" ref-type="fig">6g</xref>), LiF|LLZTO (Figure&#x000a0;<xref rid="advs5235-fig-0006" ref-type="fig">6h</xref>), and LaF<sub>3</sub>|LLZTO (Figure&#x000a0;<xref rid="advs5235-fig-0006" ref-type="fig">6i</xref>) are 0.72, 1.11, and 1.31&#x000a0;eV respectively, and all the migration energy barriers are lower than those at Li<sub>2</sub>CO<sub>3</sub>|LLZTO. The low migration energy barriers facilitate Li<sup>+</sup> transfer across the interface and the uniform distribution of Li<sup>+</sup>, thereupon then effectively inhibiting the growth of Li dendrites.</p><fig position="float" fig-type="Figure" id="advs5235-fig-0006"><label>Figure 6</label><caption><p>The DFT calculations of interfacial formation energies of a) Li (001)|LLZTO (001), b) La (001)|LLZTO (001), c) LiF (001)|LLZTO (001), d) LaF<sub>3</sub> (001)|LLZTO (001), and e) Li (001)|Li<sub>2</sub>CO<sub>3</sub> (001). f) Interface formation energy comparison diagram. Li migration path in g) La (001)|LLZTO (001), h) LiF (001)|LLZTO (001), i) LaF<sub>3</sub> (001)|LLZTO (001), and j) Li<sub>2</sub>CO<sub>3</sub> (001)|LLZTO (001). k) Energy profiles of the Li transfer pathways. The Li migration path is denoted as yellow balls.</p></caption><graphic xlink:href="ADVS-10-2207056-g010" position="anchor" id="jats-graphic-15"/></fig><p>Li|LLZTO interfacial performance is usually evaluated by Li symmetric cell testing (<bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0007" ref-type="fig">
+<bold>7</bold>a</xref>). Figure&#x000a0;<xref rid="advs5235-fig-0007" ref-type="fig">7b</xref> shows the EIS curves at room temperature (RT), and among them, The EIS curve of Li|LLZTO|Li presents a semicircle. The starting point is the resistance of the LLZTO ceramic pellets. Considering that a symmetric cell has two charge transfer interfaces, half of the semicircle value represents the interface resistance of one interface. Therefore, the interface resistance of Li|LLZTO|Li is 198956 &#x003a9; cm<sup>2</sup>. Surprisingly, the interface resistance of Li|BM&#x02010;LLZTO|Li is only 3 &#x003a9; cm<sup>2</sup>, and the total resistance is only 78 &#x003a9; cm<sup>2</sup>. This shows that the interface resistance between Li|LLLZTO is reduced by about five orders of magnitude after 40% HF solution treatments. In addition, temperature also has an important influence on the interface resistance, at 25&#x02013;100&#x000a0;&#x000b0;C, the interfacial resistance of Li|LLZTO, and Li|BM&#x02010;LLZTO conforms to Arrhenius behavior (Figure&#x000a0;<xref rid="advs5235-fig-0007" ref-type="fig">7c</xref>). The activation energy of the Li|LLZTO interface is 0.67&#x000a0;eV, while that of Li|BM&#x02010;LLZTO is only 0.34&#x000a0;eV. The very low activation energy implies a high Li<sup>+</sup> transport rate and a low Li<sup>+</sup> migration barrier at the Li|BM&#x02010;LLZTO interface, which is conducive to the rapid passage of ions through the interface layer and therefore improves the rate performance. The maximum withstands current density of a Li battery without battery failure in a solid&#x02010;state Li metal battery is generally defined as the CCD. Therefore, the CCD is an important parameter for the application of solid&#x02010;state Li metal batteries, which helps to determine the rate&#x02010;determining steps of the lithium kinetics of solid&#x02010;state batteries.<sup>[</sup>
+<xref rid="advs5235-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>
+<sup>]</sup> The step&#x02010;type constant current charging and discharging method is the most common method for testing CCD. In this work, the current density of CCD is tested from 0.1&#x000a0;mA cm<sup>&#x02212;2</sup> until the symmetrical battery is short&#x02010;circuited. At room temperature, Li|LLZTO|Li has a large fluctuation in voltage at a current density of 0.1&#x000a0;mA cm<sup>&#x02212;2</sup>, indicating that its CCD is around 0.1&#x000a0;mA cm<sup>&#x02212;2</sup> (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S16</xref>, Supporting Information). In contrast, the voltage curve of Li|BM&#x02010;LLZTO|Li is very stable, and its CCD is as high as 2.7&#x000a0;mA cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="advs5235-fig-0007" ref-type="fig">7d</xref>). As far as we know, the CCD of 2.7&#x000a0;mA cm<sup>&#x02212;2</sup> is one of the highest values in the garnet solid electrolyte (Table <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information). The reasons for the great improvement of CCD are as follows. First, a high concentration of HF solution will react with Li<sub>2</sub>CO<sub>3</sub> and LLZTO to generate LiF&#x02014;LaF<sub>3</sub> with an ionic conductor&#x02010;type 3D&#x02010;BM structure on the surface. Second, Due to the presence of F vacancies in LiF, when reacted with Li metal, F vacancies can increase the carrier concentration and mobility, resulting in high Li<sup>+</sup> conductivity in LiF.<sup>[</sup>
+<xref rid="advs5235-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>
+<sup>]</sup> Meanwhile, LaF<sub>3</sub> has high lithium&#x02010;ion conductivity, which can reach 10<sup>&#x02212;5</sup> S cm<sup>&#x02212;1</sup>.<sup>[</sup>
+<xref rid="advs5235-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>
+<sup>]</sup> The high ionic conductivity of LiF and LaF<sub>3</sub> can effectively enhance the mobility of Li<sup>+</sup> at the Li|LLZTO interface. Third, the 3D&#x02010;BM structure has a very large specific surface area, and the wettability and diffusivity of molten Li can be improved by capillary force, which can effectively reduce the local current and the volume change of the Li anode.<sup>[</sup>
+<xref rid="advs5235-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>
+<sup>]</sup> Fourth, LaF<sub>3</sub> reacts with molten Li to form metallic La and LiF. Metallic La and molten Li form an electronic conductor Li&#x02014;La alloy. Li&#x02014;La alloy can guide lithium nucleation and growth, and greatly improve the CCD of the battery. In addition, the production of Li&#x02014;La alloy will transform the ionic conductor of the 3D&#x02010;BM structure into the mixed ionic electronic conductor of the 3D&#x02010;BM structure (3D&#x02010;MIEC). The large surface area of 3D&#x02010;MIEC facilitates the kinetic transport of Li<sup>+</sup> and electrons, and provides sufficient space for the deposition of Li atoms, reducing the generation of interfacial stress.<sup>[</sup>
+<xref rid="advs5235-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>
+<sup>]</sup> Finally, the low surface energy and diffusion energy are favorable for the uniform deposition of Li<sup>+</sup> and the uniform distribution of the electric field, which inhibits the growth of Li dendrites. The galvanostatic cycling experiment is used to detect the stability of the Li|LLZTO interface and the ability to inhibit Li dendrites. The Li|LLZTO|Li symmetrical battery has a very large voltage at room temperature and 0.1&#x000a0;mA cm<sup>&#x02212;2</sup> current density, and it is short&#x02010;circuited after only one cycle (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S16</xref>, Supporting Information). This is because Li<sub>2</sub>CO<sub>3</sub> formed on the LLZTO surface has a very poor wettability with Li metal, resulting in uneven Li<sup>+</sup> deposition. In contrast, Li|BM&#x02010;LLZTO|Li shows very excellent interface performance. The polarization voltages at 0.1, 0.2, 0.5, 0.6, 0.7, 0.8, 1.0, 1.2, 1.3 and 1.5&#x000a0;mA cm<sup>&#x02212;2</sup> are 7.9, 16.7, 40.3, 45.2, 51.7, 59.2, 76.8, 95.7107.8, and 128.4&#x000a0;mV, respectively (Figure 7f&#x02013;h and Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S17</xref>, Supporting Information), and the polarization voltage under different current densities remains stable and cycling over 12&#x000a0;000&#x000a0;h (Figure&#x000a0;<xref rid="advs5235-fig-0007" ref-type="fig">7e</xref>). At the same time, the impedance calculated by Ohm's law under different current densities is close to the actual measured impedance value of 78 &#x003a9; cm<sup>2</sup> (Figure&#x000a0;<xref rid="advs5235-fig-0007" ref-type="fig">7b</xref>), indicating that the battery is working well and there is no short circuit. To better reflect the inhibition performance of BM&#x02010;LLZTO on Li dendrites for a long time, after a long cycle at a current density of 1.5&#x000a0;mA cm<sup>&#x02212;2</sup>, the current density is adjusted to 1.0 and 0.8&#x000a0;mA cm<sup>&#x02212;2</sup> for a long cycle again, and the polarization voltages are 91 and 68&#x000a0;mV respectively, only slightly higher than the previous polarization voltage at 1.0 and 0.8&#x000a0;mA cm<sup>&#x02212;2</sup>. At the same time, Li|BM&#x02010;LLZTO|Li can still be stably cycled for 30&#x000a0;h at a high capacity of 5 mAh cm<sup>&#x02212;2</sup> (Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S18</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs5235-fig-0007"><label>Figure 7</label><caption><p>a) Schematic diagram of Li symmetric cell. b) LLZTO and BM&#x02010;LLZTO Li symmetrical cells EIS spectra. c) The activation energy (<italic toggle="yes">E</italic>
+<sub>a</sub>). d) CCD of the Li|BM&#x02010;LLZTO|Li cells. e) Galvanostatic cycling performance of the Li|BM&#x02010;LLZTO|Li cell under 0.1&#x02013;1.5&#x000a0;mA cm<sup>&#x02212;2</sup> at RT. f&#x02013;h) Enlarged view of the galvanostatic curve under the current density of 1.5, 1.0, and 0.8&#x000a0;mA cm<sup>&#x02212;2</sup>.</p></caption><graphic xlink:href="ADVS-10-2207056-g005" position="anchor" id="jats-graphic-17"/></fig><p>To illustrate the feasibility of BM&#x02010;LLZTO in an all&#x02010;solid&#x02010;state battery, lithium metal was used as the negative electrode and LFP as the positive electrode to assemble the full battery. To solve the problem of poor wettability between the LFP cathode material and the LLZTO solid electrolyte, 10&#x000a0;&#x000b5;L liquid electrolyte was dropped between the LFP cathode material and the LLZTO solid electrolyte to improve the interface problem between LFP|LLZTO. As shown in <bold>Figure</bold>&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">
+<bold>8</bold>a</xref>, the initial discharge capacity of LFP|BM&#x02010;LLZTO|Li at 0.1 C is 159.5 mAh g<sup>&#x02212;1</sup>. The discharge specific capacity under 0.2 C, 0.5 C, 1 C, and 2 C are 158.0, 153.1, 145.4, and 135.5 mAh g<sup>&#x02212;1</sup> (Figure&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">8a,b</xref>), respectively. After high&#x02010;rate cycling, the battery's capacity under 0.1 C can be restored to 158.9 mAh g<sup>&#x02212;1</sup>, realizing a capacity recovery rate of up to 99.7%. Cycle performance is battery life, and the importance of cycle performance is needless to say. At room temperature, LFP|BM&#x02010;LLZTO|Li can cycle stably for 900 cycles at a 1 C rate, and the capacity retention rate reaches 85.4% (Figure&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">8c,d</xref>), showing extremely excellent cycle performance. Remarkably, the Coulombic efficiency of the solid&#x02010;state battery is up to 99.9% (Figure&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">8d</xref>), which is due to the distinguished interface performance of BM&#x02010;LLZTO. The high Coulombic efficiency also indicates that there is neither lithium dendrite formation nor interface side reaction during the cycle of the battery. As far as we know, the battery performance of LFP|BM&#x02010;LLZTO|Li is also the best (Table <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information). The battery's high capacity retention, long cycle performance, and excellent rate performance benefit from good interface wetting, high lithium&#x02010;ion migration, and a dendrite&#x02010;free interface. Moreover, BM&#x02010;LLZTO solid electrolyte pellets are also combined with NCM811 cathode material to assemble the NCM811|BM&#x02010;LLZTO|Li battery. As shown in Figure&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">8e</xref>, the initial capacity of the battery at 0.1 C is 203.5 mAh g<sup>&#x02212;1</sup>, after high&#x02010;rate cycles of 0.2 C, 0.5 C, 1 C, and 2 C, the specific capacities are 193, 175.6, 151.5, and 114.8 mAh g<sup>&#x02212;1</sup>, respectively (Figure&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">8f</xref>), the battery shows very excellent rate performance. When the battery's rate returns to 0.1 C, its specific capacity is 208 mAh g<sup>&#x02212;1</sup>. The specific capacity does not decay, showing extremely excellent recovery performance. As Figure&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">8g</xref> illustrates, at room temperature, NCM811|BM&#x02010;LLZTO|Li can cycle stably for 200 cycles at 0.5 C rate, and the capacity retention and Coulombic efficiency are up to 89% and 98.6% (Figure&#x000a0;<xref rid="advs5235-fig-0008" ref-type="fig">8g,h</xref>), respectively. This indicates that the cell of NCM811|BM&#x02010;LLZTO|Li has an outstanding cycle performance, which provides great feasibility for its practical application. In Figure <xref rid="advs5235-supitem-0001" ref-type="supplementary-material">S19</xref>, Supporting Information, NCM811|BM&#x02010;LLZTO|Li and LFP|BM&#x02010;LLZTO|Li battery can light LED bulb, and BM&#x02010;LLZTO has a great application prospect in a solid&#x02010;state battery.</p><fig position="float" fig-type="Figure" id="advs5235-fig-0008"><label>Figure 8</label><caption><p>a,b) Rate performance of the LFP|BM&#x02010;LLZTO|Li. c,d) Cycle performance of the LFP|BM&#x02010;LLZTO|Li cell under 1 C at room temperature. e,f) Rate performance of the NCM811|BM&#x02010;LLZTO|Li. g,h) Cycle performance of the NCM811|BM&#x02010;LLZTO|Li cell under 0.5 C at room temperature.</p></caption><graphic xlink:href="ADVS-10-2207056-g007" position="anchor" id="jats-graphic-19"/></fig></sec></sec><sec id="advs5235-sec-0050"><label>3</label><title>Conclusion</title><p>In a summary, a superlithiophilic 3D&#x02010;BM interface layer composed of ionic conductor LiF&#x02014;LaF<sub>3</sub> was constructed on the Li|LLZTO interface to achieve a high&#x02010;rate and ultra&#x02010;stable solid&#x02010;state lithium metal battery. The Li|BM&#x02010;LLZTO|Li cell shows a very low interfacial resistance (3 &#x003a9; cm<sup>2</sup>), a high CCD of 2.7&#x000a0;mA cm<sup>&#x02212;2</sup>, and a stable operation for more than 12&#x000a0;000&#x000a0;h in Li plating/stripping cycles. At room temperature, the LFP|BM&#x02010;LLZTO|Li full battery has a capacity retention of 85.4% after 900 cycles and a high rate capacity of 135.5mAh g<sup>&#x02212;1</sup> at 2 C. In addition, the NCM811|BM&#x02010;LLZTO|Li battery shows capacity retention of up to 89% after 200 cycles at 0.5 C. The roles of the 3D&#x02010;BM interface layer were also clarified by a combination of experimental techniques and calculations. In addition, it is worth noting that BM&#x02010;LLZTO also shows an excellent storage performance, and no Li<sub>2</sub>CO<sub>3</sub> is regenerated after 90 days of storage in air. This work provides a facile strategy to effectively solve the interface issues on Li|LLZTO, and also shows the feasibility of the development of solid&#x02010;state batteries with high safety, high cycle stability, and high rate performance.</p></sec><sec id="advs5235-sec-0060"><label>4</label><title>Experimental Section</title><sec id="advs5235-sec-0090"><title>LLZTO Synthesis</title><p>Synthesis of Li<sub>6.5</sub>La<sub>3</sub>Zr<sub>1.5</sub>Ta0.5O<sub>12</sub> (LLZTO) solid electrolyte by high&#x02010;temperature solid&#x02010;phase method. LiOH (99%, with 10% excess to compensate for the sintering loss), ZrO<sub>2</sub> (99%), La<sub>2</sub>O<sub>3</sub> (99%), Ta<sub>2</sub>O<sub>5</sub> (99%) with stoichiometry ratio was used as raw materials. Raw materials were thoroughly mixed at 400&#x000a0;rpm for 10&#x000a0;h in a planetary ball mill with zirconium oxide balls and isopropanol (IPA) as the grinding media. The mixture was dried at 80 &#x000b0;C for 12&#x000a0;h and subsequently calcined at 950 &#x000b0;C for 6&#x000a0;h in a magnesium oxide crucible. After calcined, LLZTO powder is milled (400&#x000a0;rpm, 10&#x000a0;h) and dried (80 &#x000b0;C, 12&#x000a0;h) again. The LLZTO powder is pressed into pellets with a diameter of 13&#x000a0;mm. The pellets are placed in a magnesium oxide crucible and a small amount of mother powder is buried, sintered at 1320 &#x000b0;C for 20 min to obtain LLZTO solid electrolyte pellets. Sanding and polishing the LLZTO solid electrolyte pellets on 400 mesh sandpaper to a thickness of 0.8&#x0223c;1&#x000a0;mm. The polished LLZTO pellets are placed in a glove box filled with argon for use.</p></sec><sec id="advs5235-sec-0100"><title>BM&#x02010;LLZTO Synthesis</title><p>40% HF solution was dropped onto the LLZTO surface for a different time, and then immediately transferred it to 80 &#x000b0;C for drying. It was taken out and the same was done on the other side. The BM&#x02010;LLZTO solid electrolyte pellets treated with 40% HF solution were transferred to a glove box filled with argon for use.</p></sec><sec id="advs5235-sec-0110"><title>Symmterical Cell Assembly: Li|BM&#x02010;LLZTO|Li cell</title><p>The lithium metal was placed in a stainless steel crucible and it was heated at 240 &#x000b0;C for 30 min to completely melt the lithium metal. The BM&#x02010;LLZTO sheet was placed in a stainless steel crucible, so that the molten lithium was completely coated on both sides of the BM&#x02010;LLZTO sheet, followed by sealing in CR2025 coin cells by applying a pressure of 500&#x000a0;psi.</p></sec><sec id="advs5235-sec-0120"><title>Symmterical Cell Assembly: Li|LLZTO|Li cell</title><p>Since molten lithium cannot be pasted on the surface of LLZTO, lithium foil was used for symmetrical battery assembly. The as&#x02010;prepared Li|LLZTO|Li was placed in CR2025 coin cells by applying a pressure of 500&#x000a0;psi, after that, the assembled symmetrical battery was placed in an oven at 140&#x000a0;&#x000b0;C for 48&#x000a0;h and then tested.</p></sec><sec id="advs5235-sec-0130"><title>Full Cell Assembly</title><p>The different steps in full cell assembly were given in the following sections.</p></sec><sec id="advs5235-sec-0140"><title>Preparation of Binder Slurry</title><p>PVDF and NMP were weighed at a mass ratio of 3%, and then were stirred at room temperature for 12 h to obtain a uniform and clear slurry for use.</p></sec><sec id="advs5235-sec-0150"><title>LFP/NCM811 Cathode Preparation</title><p>The active material LiFePO<sub>4</sub>/NCM811 was mixed with Super P, KS&#x02010;6, and PVDF (80:5:5:10 by weight), and was mixed in a homogenizer at 2200&#x000a0;r min<sup>&#x02212;1</sup> for 10 min. The resulting slurry was coated on aluminum foil and then dried at 90 &#x000b0;C for 20 min. After that, it was cut into discs with a diameter of 10&#x000a0;mm and vacuum&#x02010;dried at 110 &#x000b0;C for 12 h. The loading capacity of the active material is 3&#x02013;4&#x000a0;mg cm<sup>&#x02212;1</sup>.</p></sec><sec id="advs5235-sec-0160"><title>Synthesis of Positive Electrode Wetting Agent</title><p>To have better interface performance between LLZTO and positive electrode material, a very small amount of positive electrode wetting agent was added between LLZTO and the positive electrode. The positive electrode wetting agent in this work was 1.0&#x000a0;mol L<sup>&#x02212;1</sup> LiPF6 in the ethylene carbonate and diethyl carbonate (1:1 v/v).</p></sec><sec id="advs5235-sec-0170"><title>LFP|BM&#x02010;LLZTO|Li Cell</title><p>LFP was the cathode electrode and molten lithium was the anode electrode. 10&#x000a0;&#x000b5;L of liquid electrolyte was added between LFP and BM&#x02010;LLZTO to wet the interface. The LFP|BM&#x02010;LLZTO|Li full battery was assembled in an argon glove box.</p></sec><sec id="advs5235-sec-0180"><title>NCM811|BM&#x02010;LLZTO|Li Cell</title><p>NCM811 was the cathode electrode and molten lithium was the anode electrode. 10&#x000a0;&#x000b5;L of liquid electrolyte was added between NCM811 and SUD&#x02010;LLZTO&#x02010;BM to wet the interface. The NCM811|BM&#x02010;LLZTO|Li full battery was assembled in an argon glove box.</p></sec><sec id="advs5235-sec-0190"><title>Statistical Analysis</title><p>First&#x02010;principle calculations were performed by the DFT using the Vienna ab initio Simulation Package. The generalized gradient approximation with the Perdew&#x02013;Burke&#x02013;Ernzerhof functional<sup>[</sup>
+<xref rid="advs5235-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs5235-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs5235-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>was used to describe the electronic exchange and correlation effects. Uniform G&#x02010;centered k&#x02010;points meshes with a resolution of 2<italic toggle="yes">&#x003c0;</italic> &#x000d7; 0.04 &#x000c5;<sup>&#x02212;1</sup> and Methfessel&#x02013;Paxton electronic smearing were adopted for the integration in the Brillouin zone for geometric optimization. The simulation was run with a cutoff energy of 500&#x000a0;eV throughout the computations. These settings ensure convergence of the total energies to within 0.1 meV per atom. Structure relaxation proceeded until all forces on atoms were less than 1 meV &#x000c5;<sup>&#x02212;1</sup> and the total stress tensor was within 0.01&#x000a0;GPa of the target value.</p></sec></sec><sec sec-type="COI-statement" id="advs5235-sec-0210"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs5235-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-10-2207056-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs5235-sec-0200"><title>Acknowledgements</title><p>This work was supported by the National Natural Science Foundation of China (Grant Nos.11975238, 22005302, and 11575192,), the International Partnership Program (Grant Nos. 211211KYSB20170060 and 211211KYSB20180020), the Scientific Instrument Developing Project (Grant No. ZDKYYQ20180001), the Strategic Priority Research Program (Grant No. XDB28000000) of the Chinese Academy of Sciences, and the Natural Science Foundation of Beijing (Grant No. 2182082). This work was also supported by the Fundamental Research Funds for the Central Universities and the China Postdoctoral Science Foundation (2020M680648).</p></ack><sec sec-type="data-availability" id="advs5235-sec-0230"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs5235-bibl-0001"><ref id="advs5235-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs5235-cit-0001">
+<string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nature</source>
+<year>2001</year>, <volume>414</volume>, <fpage>359</fpage>.<pub-id pub-id-type="pmid">11713543</pub-id></mixed-citation></ref><ref id="advs5235-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs5235-cit-0002">
+<string-name>
+<given-names>W.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Huo</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>1447</fpage>.<pub-id pub-id-type="pmid">30926799</pub-id></mixed-citation></ref><ref id="advs5235-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs5235-cit-0003">
+<string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2015</year>, <volume>1</volume>, <fpage>158</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs5235-cit-0004">
+<string-name>
+<given-names>X.</given-names>
+<surname>Judez</surname>
+</string-name>, <string-name>
+<given-names>G. G.</given-names>
+<surname>Eshetu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Rodriguez&#x02010;Martinez</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <source>Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>2208</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs5235-cit-0005">
+<string-name>
+<given-names>E.</given-names>
+<surname>Quartarone</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Mustarelli</surname>
+</string-name>, <source>Crit. Rev.</source>
+<year>2011</year>, <volume>40</volume>, <fpage>2525</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs5235-cit-0006">
+<string-name>
+<given-names>V.</given-names>
+<surname>Etacheri</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Marom</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Elazari</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Salitra</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2011</year>, <volume>4</volume>, <fpage>3243</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs5235-cit-0007">
+<string-name>
+<given-names>F.</given-names>
+<surname>Duffner</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Kronemeyer</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tubke</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Leker</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Schmuch</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2001</year>, <volume>6</volume>, <fpage>123</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs5235-cit-0008">
+<string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hou</surname>
+</string-name>, <source>ChemElectroChem</source>
+<year>2017</year>, <volume>4</volume>, <fpage>81</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs5235-cit-0009">
+<string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;S.</given-names>
+<surname>Hui</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;N.</given-names>
+<surname>Hui</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Mater. Horiz.</source>
+<year>2020</year>, <volume>7</volume>, <fpage>1246</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs5235-cit-0010">
+<string-name>
+<given-names>J.</given-names>
+<surname>Lau</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>DeBlock</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Butts</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ashby</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dunn</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>1800933</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs5235-cit-0011">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <elocation-id>23685</elocation-id>.<pub-id pub-id-type="pmid">26440586</pub-id></mixed-citation></ref><ref id="advs5235-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs5235-cit-0012">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>3253</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs5235-cit-0013">
+<string-name>
+<given-names>L.&#x02010;Z.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;W.</given-names>
+<surname>Nan</surname>
+</string-name>, <source>Nat. Rev. Mater.</source>
+<year>2021</year>, <volume>6</volume>, <fpage>1003</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs5235-cit-0014">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Banis</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2020</year>, <volume>78</volume>, <elocation-id>105107</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs5235-cit-0015">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Nano Res.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>4139</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs5235-cit-0016">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>128</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs5235-cit-0017">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2018</year>, <volume>389</volume>, <fpage>120</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs5235-cit-0018">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Connell</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tepavcevic</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zapol</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Garcia&#x02010;Mendez</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Ingram</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Curtiss</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Freeland</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Fong</surname>
+</string-name>, <string-name>
+<given-names>N. M.</given-names>
+<surname>Markovic</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1803440</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs5235-cit-0019">
+<string-name>
+<given-names>S.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Thokchom</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2018</year>, <volume>270</volume>, <fpage>501</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs5235-cit-0020">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Sci. Adv.</source>
+<year>2021</year>, <volume>7</volume>, <elocation-id>eabh1896</elocation-id>.<pub-id pub-id-type="pmid">34516879</pub-id></mixed-citation></ref><ref id="advs5235-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs5235-cit-0021">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume>, <fpage>7012</fpage>.<pub-id pub-id-type="pmid">32212650</pub-id></mixed-citation></ref><ref id="advs5235-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs5235-cit-0022">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source>Nat. Rev. Mater.</source>
+<year>2022</year>, <volume>7</volume>, <fpage>389</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs5235-cit-0023">
+<string-name>
+<given-names>R.</given-names>
+<surname>Murugan</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Thangadurai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Weppner</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2007</year>, <volume>46</volume>, <fpage>7778</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs5235-cit-0024">
+<string-name>
+<given-names>L.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Crumlin</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;M.</given-names>
+<surname>Lux</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Zorba</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Russo</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kostecki</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Cabana</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Richardson</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Doeff</surname>
+</string-name>, <source>Phys. Chem. Chem. Phys.</source>
+<year>2014</year>, <volume>16</volume>, <elocation-id>18294</elocation-id>.<pub-id pub-id-type="pmid">25057850</pub-id></mixed-citation></ref><ref id="advs5235-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs5235-cit-0025">
+<string-name>
+<given-names>E.</given-names>
+<surname>Kazyak</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sharafi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Siegel</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Dasgupta</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <source>Chem. Mater</source>
+<year>2017</year>, <volume>29</volume>, <fpage>7961</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs5235-cit-0026">
+<string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Thangadurai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;W.</given-names>
+<surname>Nan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2019</year>, <volume>5</volume>, <fpage>262</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs5235-cit-0027">
+<string-name>
+<given-names>S.</given-names>
+<surname>Abouali</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;H.</given-names>
+<surname>Yim</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Merati</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Abu&#x02010;Lebdeh</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Thangadurai</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2021</year>, <volume>6</volume>, <fpage>1920</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs5235-cit-0028">
+<string-name>
+<given-names>K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kammampata</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>McOwen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Samson</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hitz</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Nolan</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wachsman</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Thangadurai</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>4257</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs5235-cit-0029">
+<string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2019</year>, <volume>61</volume>, <fpage>119</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs5235-cit-0030">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Commun. Dep. Anat., Univ. Lund, Swed.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>5519</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs5235-cit-0031">
+<string-name>
+<given-names>H.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>132</volume>, <elocation-id>12167</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs5235-cit-0032">
+<string-name>
+<given-names>J.&#x02010;E.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Case</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Rangasamy</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wolfenstine</surname>
+</string-name>, <source>J. Mater. Sci.</source>
+<year>2012</year>, <volume>47</volume>, <fpage>7978</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs5235-cit-0033">
+<string-name>
+<given-names>F.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Westover</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chi</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Leonard</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Dudney</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>187</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs5235-cit-0034">
+<string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Thomas&#x02010;Alyea</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Badding</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Im</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>1903993</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs5235-cit-0035">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lotsch</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Nazar</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;W.</given-names>
+<surname>Nan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2018</year>, <volume>11</volume>, <fpage>1945</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs5235-cit-0036">
+<string-name>
+<given-names>C.&#x02010;L.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Roddatis</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Chandran</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Uhlenbruck</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bram</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Heitjans</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Guillon</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <elocation-id>10617</elocation-id>.<pub-id pub-id-type="pmid">27029789</pub-id></mixed-citation></ref><ref id="advs5235-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs5235-cit-0037">
+<string-name>
+<given-names>T.</given-names>
+<surname>Krauskopf</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dippel</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Peppler</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Mogwitz</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>2030</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs5235-cit-0038">
+<string-name>
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2020</year>, <volume>120</volume>, <fpage>6820</fpage>.<pub-id pub-id-type="pmid">31763824</pub-id></mixed-citation></ref><ref id="advs5235-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs5235-cit-0039">
+<string-name>
+<given-names>K.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>11784</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs5235-cit-0040">
+<string-name>
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hitz</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pearse</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Rubloff</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Thangadurai</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wachsman</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2017</year>, <volume>16</volume>, <fpage>572</fpage>.<pub-id pub-id-type="pmid">27992420</pub-id></mixed-citation></ref><ref id="advs5235-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs5235-cit-0041">
+<string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Pastel</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wachsman</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <elocation-id>1606042</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs5235-cit-0042">
+<string-name>
+<given-names>R.</given-names>
+<surname>Dubey</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sastre</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Cancellieri</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Okur</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Forster</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Pompizii</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Priebe</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Romanyuk</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jeurgens</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kovalenkp</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kravchyk</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>1</volume>, <elocation-id>2102086</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs5235-cit-0043">
+<string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mucke</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Kaghazchi</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2019</year>, <volume>13</volume>, <fpage>127</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs5235-cit-0044">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;W.</given-names>
+<surname>Nan</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2018</year>, <volume>3</volume>, <fpage>1212</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs5235-cit-0045">
+<string-name>
+<given-names>J.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Commun. Dep. Anat., Univ. Lund, Swed.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>3716</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs5235-cit-0046">
+<string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yong</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2023</year>, <volume>33</volume>, <elocation-id>2009120</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs5235-cit-0047">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2022</year>, <volume>32</volume>, <elocation-id>202208751</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs5235-cit-0048">
+<string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>2000030</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs5235-cit-0049">
+<string-name>
+<given-names>X.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>2000575</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs5235-cit-0050">
+<string-name>
+<given-names>J.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Nolan</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2018</year>, <volume>31</volume>, <elocation-id>1807243</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs5235-cit-0051">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>3699</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs5235-cit-0052">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2019</year>, <volume>13</volume>, <elocation-id>14549</elocation-id>.<pub-id pub-id-type="pmid">31789499</pub-id></mixed-citation></ref><ref id="advs5235-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs5235-cit-0053">
+<string-name>
+<given-names>M.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Ran</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shao</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2101556</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs5235-cit-0054">
+<string-name>
+<given-names>S.</given-names>
+<surname>Fujiki</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yashiro</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Omoda</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Suko</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Shiratsuchi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sugimoto</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ryu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ku</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Watanabe</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Aihara</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Im</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Han</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2020</year>, <volume>5</volume>, <fpage>299</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs5235-cit-0055">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2018</year>, <volume>6</volume>, <elocation-id>18853</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs5235-cit-0056">
+<string-name>
+<given-names>A.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>J. Phys.: Condens. Matter</source>
+<year>2022</year>, <volume>169</volume>, <elocation-id>110871</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs5235-cit-0057">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Dolocan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Park</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>6448</fpage>.<pub-id pub-id-type="pmid">29688712</pub-id></mixed-citation></ref><ref id="advs5235-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs5235-cit-0058">
+<string-name>
+<given-names>Z.&#x02010;J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;P.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2020</year>, <volume>7</volume>, <elocation-id>2002212</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="advs5235-cit-0059">
+<string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2020</year>, <volume>5</volume>, <fpage>2156</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="advs5235-cit-0060">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2009925</elocation-id>.</mixed-citation></ref><ref id="advs5235-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="advs5235-cit-0061">
+<string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ramirez</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Geise</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;G.</given-names>
+<surname>Steinruck</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Shahbazian&#x02010;Yassar</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fisher</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Toney</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hersam</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Elam</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <elocation-id>26972</elocation-id>.<pub-id pub-id-type="pmid">29986134</pub-id></mixed-citation></ref><ref id="advs5235-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="advs5235-cit-0062">
+<string-name>
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Hui</surname>
+</string-name>, <source>Trans. Nonferrous Met. Soc. China</source>
+<year>2006</year>, <volume>16</volume>, <fpage>828</fpage>.</mixed-citation></ref><ref id="advs5235-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="advs5235-cit-0063">
+<string-name>
+<given-names>S.&#x02010;Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Energy Mater. Adv.</source>
+<year>2021</year>, <volume>21</volume>, <elocation-id>1519569</elocation-id>.</mixed-citation></ref></ref-list></back></article>

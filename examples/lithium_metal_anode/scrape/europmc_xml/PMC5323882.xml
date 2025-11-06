@@ -1,0 +1,757 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5323882</article-id><article-id pub-id-type="doi">10.1002/advs.201600400</article-id><article-id pub-id-type="publisher-id">ADVS259</article-id><article-categories><subj-group subj-group-type="overline"><subject>Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Communications</subject></subj-group></article-categories><title-group><article-title>Passivation of Lithium Metal Anode via Hybrid Ionic Liquid Electrolyte toward Stable Li Plating/Stripping</article-title></title-group><contrib-group><contrib id="advs259-cr-0001" contrib-type="author"><name><surname>Li</surname><given-names>Nian&#x02010;Wu</given-names></name><xref ref-type="aff" rid="advs259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs259-cr-0002" contrib-type="author"><name><surname>Yin</surname><given-names>Ya&#x02010;Xia</given-names></name><xref ref-type="aff" rid="advs259-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs259-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs259-cr-0003" contrib-type="author"><name><surname>Li</surname><given-names>Jin&#x02010;Yi</given-names></name><xref ref-type="aff" rid="advs259-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs259-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs259-cr-0004" contrib-type="author"><name><surname>Zhang</surname><given-names>Chang&#x02010;Huan</given-names></name><xref ref-type="aff" rid="advs259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs259-cr-0005" contrib-type="author" corresp="yes"><name><surname>Guo</surname><given-names>Yu&#x02010;Guo</given-names></name><address><email>ygguo@iccas.ac.cn</email></address><xref ref-type="aff" rid="advs259-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs259-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="advs259-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">CAS Key Laboratory of Molecular Nanostructure and Nanotechnology</named-content><named-content content-type="organisation-division">Institute of Chemistry</named-content><institution>Chinese Academy of Sciences (CAS)</institution><named-content content-type="city">Beijing</named-content><named-content content-type="post-code">100190</named-content><country country="CN">P. R. China</country></aff><aff id="advs259-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">School of Chemistry and Chemical Engineering</named-content><institution>University of Chinese Academy of Sciences</institution><named-content content-type="city">Beijing</named-content><named-content content-type="post-code">100049</named-content><country country="CN">P. R. China</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>ygguo@iccas.ac.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2017</year></pub-date><volume>4</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/advs.v4.2</issue-id><elocation-id>1600400</elocation-id><history><date date-type="received"><day>10</day><month>10</month><year>2016</year></date><date date-type="rev-recd"><day>14</day><month>10</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-4-na.pdf"/><abstract abstract-type="toc" id="advs259-abs-0001"><p>
+<bold>Hybrid electrolyte of ionic liquid and ethers</bold> is used to passivate the surface of Li metal surface via modification of the as&#x02010;formed solid electrolyte interphase with <italic>N</italic>&#x02010;propyl&#x02010;<italic>N</italic>&#x02010;methylpyrrolidinium bis(trifluoromethanesulfonyl)amide (Py<sub>13</sub>TFSI), thereby reducing the side reactions between the Li metal and electrolyte, leading to remarkably suppressed Li dendrite growth and mitigating Li metal corrosion.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ADVS-4-na-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs259-kwd-0001">electrochemistry</kwd><kwd id="advs259-kwd-0002">hybrid electrolyte</kwd><kwd id="advs259-kwd-0003">ionic liquid</kwd><kwd id="advs259-kwd-0004">lithium metal</kwd><kwd id="advs259-kwd-0005">lithium metal batteries</kwd></kwd-group><funding-group><award-group><funding-source>Ministry of Science and Technology of the People's Republic of China</funding-source><award-id>2016YFA0202500</award-id></award-group></funding-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>51225204</award-id><award-id>U1301244</award-id><award-id>21127901</award-id></award-group></funding-group><funding-group><award-group><funding-source>Strategic Priority Research Program&#x0201d; of the Chinese Academy of Sciences</funding-source><award-id>XDA09010300</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="6"/><word-count count="3384"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs259</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.7 mode:remove_FC converted:24.02.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs201600400-cit-0037">
+<string-name>
+<given-names>N.&#x02010;W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <elocation-id>1600400</elocation-id>.</mixed-citation>
+</p></notes></front><body><p>High energy electrochemical storage systems are urgently needed to satisfy the continuously surging demand in consumer electronics, electric vehicles, and grid storage. Unfortunately, the energy density of existing battery systems remains insufficient for many of the aforementioned applications.<xref rid="advs259-bib-0001" ref-type="ref">1</xref> Li metal is a promising anode material for energy storage systems because Li metal has an extremely high theoretical specific capacity (3860 mA h g<sup>&#x02212;1</sup>) and the lowest negative electrochemical potential (&#x02212;3.04 V vs the standard hydrogen electrode) among all elements.<xref rid="advs259-bib-0002" ref-type="ref">2</xref> However, the commercial of rechargeable Li metal batteries has been hindered by the low Coulombic efficiency of Li deposition/dissolution, uncontrolled Li dendrite growth, and accumulation of &#x0201c;dead Li&#x0201d; or corrosion of Li metal anode.<xref rid="advs259-bib-0003" ref-type="ref">3</xref> Li metal reacts spontaneously with most organic electrolyte solvents and Li salts to instantly form a solid electrolyte interphase (SEI) layer on the Li metal surface because Li is thermodynamically unstable in organic electrolytes.<xref rid="advs259-bib-0004" ref-type="ref">4</xref> The SEI layer is ionically conductive but electronically insulating and thus can prevent further reaction between Li metal and electrolyte. However, the brittle SEI layer cannot withstand the mechanical deformation resulted from the Li plating/stripping processes. Thus, the SEI layer continuously break and repair during cycling, and the Li dendrite are grown at the site where the current density is locally enhanced.[[qv: 4b]] Due to the growth of the Li dendrite, the surface area of the Li surface increase markedly, thereby increasing the side reaction between Li metal and electrolyte and decreasing the Coulombic efficiency of Li plating/stripping processes. Eventually, some of the Li dendrite may become electrically isolated or &#x0201c;dead Li&#x0201d; because of the uneven plating/stripping of the Li dendrites. The repeated breakage and repair of the SEI layer consumes both Li metal and electrolyte, leading to the drying up of electrolyte and the severe corrosion of Li metal anode, which is the key factor of the battery degradation and failure.<xref rid="advs259-bib-0003" ref-type="ref">3</xref>
+</p><p>There are numerous reports which attempt to solve these problems. Various strategies have been designed to prevent dendrite penetration and reduce dendrite structure, including the use of nanostructured anodes,<xref rid="advs259-bib-0005" ref-type="ref">5</xref> modified separators,<xref rid="advs259-bib-0006" ref-type="ref">6</xref> and physical protective layers.<xref rid="advs259-bib-0007" ref-type="ref">7</xref> However, these strategies cannot change the breakage/repair mechanism of SEI layer, and significantly improve the Coulombic efficiency of Li plating/stripping. In addition, optimization of electrolyte using additives,<xref rid="advs259-bib-0008" ref-type="ref">8</xref> high concentrated electrolytes,<xref rid="advs259-bib-0009" ref-type="ref">9</xref> and ionic liquid electrolytes<xref rid="advs259-bib-0010" ref-type="ref">10</xref> can enhance the stability of SEI layers, and can improve the Coulombic efficiency of Li plating/stripping. However, the electrolyte additives are consumed during the SEI formation and thus affect the electrochemical performance. Both the high concentrated electrolytes and ionic liquid electrolytes have high viscosity and low conductivity, which are adverse to the practical Li metal battery performance. Most recently, passivation of Li metal anode is considered as a promising way to enhance the SEI layers and reduce the dendrite growth.<xref rid="advs259-bib-0011" ref-type="ref">11</xref> However, the degeneration of passivation film is irreversible because the passivation film cannot regenerate in the electrolyte during cycling.</p><p>Herein, we demonstrate a promising Li metal passivation strategy by using hybrid <italic>N</italic>&#x02010;propyl&#x02010;<italic>N</italic>&#x02010;methylpyrrolidinium bis(trifluoromethanesulfonyl)amide (Py<sub>13</sub>TFSI) and ether electrolyte. The reversibility of Li plating/stripping can be remarkably increased by the synergy between Py<sub>13</sub>TFSI ionic liquid and Li salt concentration. The hybrid electrolyte can enhance the stability of SEI layer by the in situ passivation process. The Li dendrite growth and the corrosion of Li metal anode can be efficiently restrained during cycling of Li metal batteries (<bold>Figure</bold>
+<xref rid="advs259-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>).</p><fig fig-type="Figure" xml:lang="en" id="advs259-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic diagrams of Li metal structures in different electrolytes in the Li metal batteries. a) Ether based electrolyte and b) optimized hybrid electrolyte.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-4-na-g001"/></fig><p>The Li|Cu cells were used to evaluate the Coulombic efficiency and cycling stability of different electrolytes. With the increase of the concentration of Li salt from 1 to 2 <sc>m</sc>, both Py<sub>13</sub>TFSI ionic liquid and Li salt concentration in the electrolyte are helpful to the improvement of the Coulombic efficiency of Li plating/stripping (<bold>Figure</bold>
+<xref rid="advs259-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref> and Figure S1 (Supporting Information)). However, the Coulombic efficiency of Li plating/stripping is not obviously increased with the increase of Li salt concentration from 2 to 4 <sc>m</sc> (Figure S1, Supporting Information). Thus, the synergy between Py<sub>13</sub>TFSI ionic liquid and Li salt concentration plays an important role in improving the Coulombic efficiency of Li plating/stripping. Remarkably, the voltage of Li plating/stripping curves increases with increasing Li salt concentration from 2 to 4 <sc>m</sc>. With the increase of Li salt concentration (2&#x02013;4 <sc>m</sc>), the viscosity of the Py<sub>13</sub>TFSI based electrolytes increases significantly (Figure S2, Supporting Information), and the ionic conductivity obviously decreases (Figure S3, Supporting Information), respectively. The high viscosity and low conductivity are adverse to the reversibility of Li plating/stripping.<xref rid="advs259-bib-0012" ref-type="ref">12</xref> Thus, the 2 <sc>m</sc> Li salt concentration in the hybrid electrolyte is the optimal choose for Li metal batteries. The Li|Cu cell using the optimized hybrid electrolyte shows high cycling stability, and the Coulombic efficiency of Li plating/stripping is 99.1% after 360 cycles (Figure <xref rid="advs259-fig-0002" ref-type="fig">2</xref>c), which is close to or better than the previously reports.[[qv: 5a,8c]] Furthermore, the Li|Cu cell using the optimized hybrid electrolyte also shows high Coulombic efficiency of Li plating/stripping at high practical areal capacities of 3.0 mA h cm<sup>&#x02212;2</sup> with current density of 1 mA cm<sup>&#x02212;2</sup> (Figure S4, Supporting Information).</p><fig fig-type="Figure" xml:lang="en" id="advs259-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a) The Coulombic efficiency of Li plating/stripping using various electrolytes and b) corresponding voltage profiles in Li|Cu cells. c) The Coulombic efficiency of Li plating/stripping using hybrid electrolytes during long cycling in Li|Cu cells.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-4-na-g002"/></fig><p>To further investigate the morphology of Li metal anode in the practical Li metal batteries using different electrolytes, commercial LiFePO<sub>4</sub> cathodes were used as the counter electrodes. After ten cycles in Li|LiFePO<sub>4</sub> batteries, Li metal anode using dimethoxyethane (DME) and dioxolane (DOL) based electrolyte exhibits a moss&#x02010;like dendrite structure (<bold>Figure</bold>
+<xref rid="advs259-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>a). In comparison, the Li metal anode using optimized hybrid electrolyte displays a smooth surface without dendrite structure (Figure <xref rid="advs259-fig-0003" ref-type="fig">3</xref>b). The smooth surface of Li metal anode can reduce the side reactions between the deposition Li and electrolyte, thereby leading to higher reversibility of Li plating/stripping. Seen from the energy&#x02010;dispersive X&#x02010;ray spectroscopy mapping images (Figure S5, Supporting Information), the C, O, N, S, and F are uniformly distributed on the surface of the Li metal anode. In addition, the Li|LiFePO<sub>4</sub> batteries with various current density were used to evaluate the performance of the optimized hybrid electrolyte in restraining the Li dendrite growth (Figure <xref rid="advs259-fig-0003" ref-type="fig">3</xref>c&#x02013;j). The Li metal anode exhibits smooth surface, even in the current density of 0.5 mA cm<sup>&#x02212;2</sup>. Although the Li metal anode exhibits porous structure at the current density of 1 mA cm<sup>&#x02212;2</sup>, the dendrite structure can be effectively reduced.</p><fig fig-type="Figure" xml:lang="en" id="advs259-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Scanning electron microscope (SEM) images of Li metal anode. The morphology of Li metal anode in the Li|LiFePO<sub>4</sub> batteries after ten cycles using a) 2 <sc>m</sc> LiTFSI/DOL&#x02010;DME electrolyte and b) 2 <sc>m</sc> LiTFSI/Py<sub>13</sub>TFSI&#x02010;DOL&#x02010;DME electrolyte, and c) 2 <sc>m</sc> LiTFSI/Py<sub>13</sub>TFSI&#x02010;DOL&#x02010;DME electrolyte at current density of c,d) 0.1 mA cm<sup>&#x02212;2</sup>, e,f) 0.2 mA cm<sup>&#x02212;2</sup>, g,h) 0.5 mA cm<sup>&#x02212;2</sup>, and i,j) 1 mA cm<sup>&#x02212;2</sup>, respectively.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-4-na-g003"/></fig><p>The X&#x02010;ray photoelectron spectroscopy (XPS) was employed to analyze the element and valence of the SEI layer during cycling in the Li|LiFePO<sub>4</sub> batteries (<bold>Figure</bold>
+<xref rid="advs259-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>a&#x02013;h and Table S1 (Supporting Information)). As shown in the C 1s spectra, the decomposition products of solvents including CO<sub>3</sub>
+<sup>2&#x02212;</sup>, COOR, COR, and C&#x02014;C are founded on the surface of the Li metal after cycling, which agree with the previous reports.<xref rid="advs259-bib-0013" ref-type="ref">13</xref> The DOL decomposition product (COOR) increases after ten cycles in the ether based electrolyte. The major difference lies in the spectra of N 1s and F 1s. In the spectra of N 1s, the peak around 399.7 eV is assigned to the imide groups in the LiTFSI salt or Py<sub>13</sub>TFSI.[[qv: 13a]] Two extra peaks around 397.2 and 402.6 eV are attributed to the N<sup>&#x02212;</sup> in Li<sub>3</sub>N, and the N<sup>+</sup> in Py<sub>13</sub>
+<sup>+</sup>, respectively.<xref rid="advs259-bib-0014" ref-type="ref">14</xref> There is no obvious change in the concentrations of the Py<sub>13</sub>
+<sup>+</sup> and TFSI<sup>&#x02212;</sup> on the surface of the Li metal anode after ten cycles in the optimized hybrid electrolyte. While, the concentration of Li<sub>3</sub>N increase obviously after ten cycles. Thus, in the optimized hybrid electrolyte system, the SEI layers on Li metal surface are modified by the Py<sub>13</sub>TFSI ionic liquid, thereby forming a passivation interphase. The passivation interphase is stable during cycling and the side reactions between electrolyte and Li metal is reduced. This electrolyte system also promotes the generation of Li<sub>3</sub>N during cycling, which is advantageous for preventing the Li dendrite growth.<xref rid="advs259-bib-0015" ref-type="ref">15</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs259-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>XPS results of Li metal anode using different electrolytes. The atomic composition of Li metal and corresponding XPS spectra using a,c,e,g) 2 <sc>m</sc> LiTFSI/DOL&#x02010;DME electrolyte and b,d,f,h) 2 <sc>m</sc> LiTFSI/Py<sub>13</sub>TFSI&#x02010;DOL&#x02010;DME electrolyte, respectively.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-4-na-g004"/></fig><p>In the spectra of F 1s, the concentration of LiF on the surface of Li metal anode increases markedly, and the &#x02014;CF<sub>3</sub> functional group decreases sharply after ten cycles in the Li|LiFePO<sub>4</sub> battery using ether based electrolyte. In contrast, the concentration of LiF increases slightly, and the &#x02014;CF<sub>3</sub> functional group decreases slightly after ten cycles in the Li|LiFePO<sub>4</sub> battery using optimized hybrid electrolyte. Recently, Archer and co&#x02010;workers[[qv: 8a]] reported that addition of LiF to the conventional electrolyte could effectively restrain the growth of Li dendrites. In our experiment, LiF is only the decomposition product of LiTFSI on the surface of the Li metal, and the concentration of the LiF is limited in the SEI layers. Therefore, it could not play an important role in controlling the Li dendrites growth. Seen from the S 2p spectra (Figure S6, Supporting Information), the Li<italic><sub>x</sub></italic>SO<italic><sub>y</sub></italic> species increase after ten cycles in the Li metal battery using ether based electrolytes. In comparison, there is no obvious change in the concentration of the Li<italic><sub>x</sub></italic>SO<italic><sub>y</sub></italic> species on the surface of Li metal anode in the optimized hybrid electrolyte. Thus, the optimized hybrid electrolyte system has inhibiting effect on the decomposition of the LiTFSI and generation of LiF and Li<italic><sub>x</sub></italic>SO<italic><sub>y</sub></italic>.</p><p>Interfacial stability and charge transfer behavior were investigated by symmetrical cell testing (<bold>Figure</bold>
+<xref rid="advs259-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>a). The results show that the voltage hysteresis keeps increasing with cycling in the ether based electrolyte because of Li dendrite growth and gradually accumulated SEI layer, which agree with the previous reports.[[qv: 5b]] While, the cell displays a much lower voltage fluctuation in the optimized hybrid electrolyte, indicating a uniform Li deposition with a stable and thin SEI layer, causing excellent charge transfer kinetics. Additionally, the results of the electrochemical impedance spectroscopy also show that the cell using optimized hybrid electrolyte exhibits higher interfacial stability (Figure S7, Supporting Information).</p><fig fig-type="Figure" xml:lang="en" id="advs259-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Cycling performance of Li|Li symmetric cell and Li|LiFePO<sub>4</sub> battery. a) The comparison of voltage profiles of Li plating/stripping in Li|Li symmetric cells. b) Cycling performance and c) corresponding discharge/charge curves of Li|LiFePO<sub>4</sub> batteries using different electrolytes. d) The top&#x02010;view SEM image and e) side&#x02010;view SEM image of Li metal anode after 100 cycles in Li|LiFePO<sub>4</sub> battery using ether based electrolyte. f) The top&#x02010;view SEM image and g) side&#x02010;view SEM image of Li metal anode after 100 cycles in Li|LiFePO<sub>4</sub> battery using optimized hybrid electrolyte.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-4-na-g005"/></fig><p>The performance of the Li|LiFePO<sub>4</sub> batteries using different electrolytes is shown in the Figure <xref rid="advs259-fig-0005" ref-type="fig">5</xref>. The capacity increase is attributed to the activation process of LiFePO<sub>4</sub> materials.[[qv: 11a,16]] The better cycling stability of the cell using the optimized hybrid electrolyte is attributed to its stable interface in the Li|LiFePO<sub>4</sub> battery system. In comparison with the carbonate electrolyte in the previous reports, the ether based electrolyte in this paper can reduce the corrosion of Li metal anode slightly because of the high Li salt concentration and their lower reactivity with Li metal.[[qv: 9a,11a]] However, after 100 cycles, the Li metal anode using ether based electrolyte also exhibits dendrite structure and severe corrosion of Li metal anode (Figure <xref rid="advs259-fig-0005" ref-type="fig">5</xref>d,e). While, the Li metal anode using optimized hybrid electrolyte exhibits smooth surface, and the corrosion of Li metal anode is restrained (Figure <xref rid="advs259-fig-0005" ref-type="fig">5</xref>f,g).</p><p>According to the analysis of the results, the main composition of SEI layers in the Li|LiFePO<sub>4</sub> batteries using ether based electrolyte is Li<sub>2</sub>CO<sub>3</sub>, Li<italic><sub>x</sub></italic>SO<italic><sub>y</sub></italic>, LiCOOR, COR, C&#x02014;C, and LiF. Some of the side reaction products increased markedly with continuous cycling of Li metal batteries. This phenomenon is attributed to the continuous breakage/repair mechanism of SEI layers and the continuous Li dendrite growth.[[qv: 4b,15a]] The continuous Li dendrite growth leads to a porous structure with high surface area, thereby accelerating the irreversibly reaction between Li metal and electrolyte.[[qv: 2c]] Eventually, some of the Li dendrite may become electrically isolated or &#x0201c;dead Li&#x0201d; (Figure <xref rid="advs259-fig-0001" ref-type="fig">1</xref>) because of the uneven plating/stripping of the Li dendrites.[[qv: 13a]] Thus, the corrosion of Li metal anode is very serious, and amount of &#x0201c;dead Li&#x0201d; can be seen from the cross&#x02010;section image of the Li metal anode (Figure <xref rid="advs259-fig-0005" ref-type="fig">5</xref>d,e). While, in the optimized hybrid electrolyte system, the SEI layers on the Li metal surface is modified by Py<sub>13</sub>TFSI ionic liquid, thereby forming a passivation interphase. The side reaction products do not obviously increase during the cycling. Thus, the passivation interphase can efficiently reduce the side reactions between Li metal and electrolyte, and restrain the uneven plating/stripping of the Li metal. Therefore, the Li metal anode shows a compact and smooth surface after 100 cycles in the Li metal batteries, and the Li dendrite growth and the corrosion of Li metal anode have been restrained (Figure <xref rid="advs259-fig-0005" ref-type="fig">5</xref>f,g). Additionally, the optimized hybrid electrolyte can significantly improve Coulombic efficiency of Li plating/stripping because of the synergy between Py<sub>13</sub>TFSI ionic liquid and Li salt concentration.</p><p>In conclusion, we demonstrated that the Li dendrite growth and the corrosion of Li metal anode issues in the Li metal batteries can be effectively restrained by the surface passivation in the optimized hybrid ionic liquid electrolyte. The synergy between Py<sub>13</sub>TFSI ionic liquid and Li salt concentration can remarkably improve the reversibility of Li plating/stripping. The stability of SEI layers on Li metal can be remarkably enhanced by Py<sub>13</sub>TFSI ionic liquid modifying in the passivation process. Our work illustrates a passivation strategy for solving the Li dendrite growth and corrosion of Li metal anode issues in advanced energy storage systems.</p><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-4-na-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs259-sec-0020"><title>Acknowledgements</title><p>This work was supported by the Ministry of Science and Technology of the People's Republic of China (Grant No. 2016YFA0202500), the National Natural Science Foundation of China (Grant Nos. 51225204, U1301244, and 21127901), and the &#x0201c;Strategic Priority Research Program&#x0201d; of the Chinese Academy of Sciences (Grant No. XDA09010300).</p></ack><ref-list id="advs259-bibl-0001"><ref id="advs259-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs259-cit-0001">a) <string-name>
+<given-names>N.</given-names>
+<surname>Mahmood</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hou</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2014</year>, <volume>1</volume>, <fpage>1400012</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0002">b) <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojo</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2016</year>, DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/advs.201600168">10.1002/advs.201600168</ext-link>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0003">c) <string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, <volume>3</volume>, <fpage>1500213</fpage>.</mixed-citation></ref><ref id="advs259-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs259-cit-0004">a) <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>L. H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Manno</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L. B.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>6149</fpage>;<pub-id pub-id-type="pmid">26237519</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0005">b) <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>13186</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0006">c) <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Nasybutin</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>513</fpage>.</mixed-citation></ref><ref id="advs259-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs259-cit-0007">
+<string-name>
+<given-names>D. P.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Lozano</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Bennett</surname>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Graff</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Polzin</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>N. T.</given-names>
+<surname>Saenz</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1400993</fpage>.</mixed-citation></ref><ref id="advs259-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs259-cit-0008">a) <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2000</year>, <volume>89</volume>, <fpage>206</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0009">b) <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Zinigrad</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Teller</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2002</year>, <volume>148</volume>, <fpage>405</fpage>.</mixed-citation></ref><ref id="advs259-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs259-cit-0010">a) <string-name>
+<given-names>G. Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>S. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>H. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>H. B.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>H. T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2014</year>, <volume>9</volume>, <fpage>618</fpage>;<pub-id pub-id-type="pmid">25064396</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0011">b) <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>P.&#x02010;C.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>2910</fpage>;<pub-id pub-id-type="pmid">25822282</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0012">c) <string-name>
+<given-names>C.&#x02010;P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;F.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.&#x02010;W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>8058</fpage>;<pub-id pub-id-type="pmid">26299379</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0013">d) <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2155</fpage>.<pub-id pub-id-type="pmid">26754639</pub-id></mixed-citation></ref><ref id="advs259-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs259-cit-0014">a) <string-name>
+<given-names>M. H.</given-names>
+<surname>Ryou</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. N.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>645</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0015">b) <string-name>
+<given-names>S. O.</given-names>
+<surname>Tung</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>R. L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N. A.</given-names>
+<surname>Kotov</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6152</fpage>.<pub-id pub-id-type="pmid">25626170</pub-id></mixed-citation></ref><ref id="advs259-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs259-cit-0016">
+<string-name>
+<given-names>G. A.</given-names>
+<surname>Umeda</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Menke</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Richard</surname>
+</string-name>, <string-name>
+<given-names>K. L.</given-names>
+<surname>Stamm</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wudl</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dunn</surname>
+</string-name>, <source>J. Mater. Chem.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>1593</fpage>.</mixed-citation></ref><ref id="advs259-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs259-cit-0017">a) <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z. Y.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>961</fpage>;<pub-id pub-id-type="pmid">25108613</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0018">b) <string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Graff</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>Z. M.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X. J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P. V.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>4450</fpage>;<pub-id pub-id-type="pmid">23448508</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0019">c) <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>7436</fpage>.<pub-id pub-id-type="pmid">26081242</pub-id></mixed-citation></ref><ref id="advs259-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs259-cit-0020">a) <string-name>
+<given-names>J. F.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6362</fpage>;<pub-id pub-id-type="pmid">25698340</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0021">b) <string-name>
+<given-names>L. M.</given-names>
+<surname>Suo</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>1481</fpage>.<pub-id pub-id-type="pmid">23403582</pub-id></mixed-citation></ref><ref id="advs259-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs259-cit-0022">a) <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Korf</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kambe</surname>
+</string-name>, <string-name>
+<given-names>Z. Y.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>488</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0023">b) <string-name>
+<given-names>P. C.</given-names>
+<surname>Howlett</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Brack</surname>
+</string-name>, <string-name>
+<given-names>A. F.</given-names>
+<surname>Hollenkamp</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Forsyth</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>MacFarlane</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2006</year>, <volume>153</volume>, <fpage>A595</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0024">c) <string-name>
+<given-names>P. C.</given-names>
+<surname>Howlett</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>MacFarlane</surname>
+</string-name>, <string-name>
+<given-names>A. F.</given-names>
+<surname>Hollenkamp</surname>
+</string-name>, <source>Electrochem. Solid&#x02010;State Lett.</source>
+<year>2004</year>, <volume>7</volume>, <fpage>A97</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0025">d) <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Endres</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>MacFarlane</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ohno</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Scrosati</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2009</year>, <volume>8</volume>, <fpage>621</fpage>;<pub-id pub-id-type="pmid">19629083</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0026">e) <string-name>
+<given-names>Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>Sci. China: Chem.</source>
+<year>2014</year>, <volume>57</volume>, <fpage>1564</fpage>.</mixed-citation></ref><ref id="advs259-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs259-cit-0027">a) <string-name>
+<given-names>N.&#x02010;W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>1853</fpage>;<pub-id pub-id-type="pmid">26698171</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0028">b) <string-name>
+<given-names>Q.&#x02010;C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;W.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;X.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>5241</fpage>.<pub-id pub-id-type="pmid">26265402</pub-id></mixed-citation></ref><ref id="advs259-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs259-cit-0029">
+<string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>4303</fpage>.<pub-id pub-id-type="pmid">15669157</pub-id></mixed-citation></ref><ref id="advs259-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs259-cit-0030">a) <string-name>
+<given-names>M. R.</given-names>
+<surname>Busche</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Drossel</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Falk</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Reich</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sommer</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Adelhelm</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Nat. Chem.</source>
+<year>2016</year>, <volume>8</volume>, <fpage>426</fpage>;<pub-id pub-id-type="pmid">27102676</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0031">b) <string-name>
+<given-names>S. Z.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Diao</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Hong</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>246</volume>, <fpage>840</fpage>.</mixed-citation></ref><ref id="advs259-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs259-cit-0032">a) <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11503</fpage>;<pub-id pub-id-type="pmid">25351820</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0033">b) <string-name>
+<given-names>J. M.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>H. H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Meduri</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>8464</fpage>.</mixed-citation></ref><ref id="advs259-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs259-cit-0034">a) <string-name>
+<given-names>G. Q.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Z. Y.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>M. F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Q. S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Chem. Commun.</source>
+<year>2014</year>, <volume>50</volume>, <fpage>14209</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs259-cit-0035">b) <string-name>
+<given-names>M. F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z. Y.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L. Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>8091</fpage>.</mixed-citation></ref><ref id="advs259-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs259-cit-0036">
+<string-name>
+<given-names>X. L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2013</year>, <volume>3</volume>, <fpage>1155</fpage>.</mixed-citation></ref></ref-list></back></article>

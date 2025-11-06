@@ -1,0 +1,2091 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0266353823004219</prism:url><dc:identifier>doi:10.1016/j.compscitech.2023.110327</dc:identifier><eid>1-s2.0-S0266353823004219</eid><prism:doi>10.1016/j.compscitech.2023.110327</prism:doi><pii>S0266-3538(23)00421-9</pii><dc:title>An ultra-thin composite electrolyte with vertical aligned Li ion transport pathways for all-solid-state lithium metal battery </dc:title><prism:publicationName>Composites Science and Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02663538</prism:issn><prism:volume>245</prism:volume><prism:startingPage>110327</prism:startingPage><prism:pageRange>110327</prism:pageRange><articleNumber>110327</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-01-05</prism:coverDate><prism:coverDisplayDate>5 January 2024</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Chen, Xiaobin</dc:creator><dc:creator>Liao, Wenchao</dc:creator><dc:creator>Chen, Dazhu</dc:creator><dc:creator>Huang, Yanfei</dc:creator><dc:creator>Liu, Chen</dc:creator><dc:description>
+                  All-solid-state lithium metal batteries employing composite electrolytes can fundamentally settle the safety issues of commercial liquid electrolytes. However, the thick thickness and low ionic conductivity as well as unregulated ion transport of current composite electrolytes pose great obstacles in further promoting their applicability and compatibility with Li metal anode. Herein, an ultra-thin composite electrolyte with vertical aligned Li ion transport pathways is rationally designed via filling polyethylene glycol-perfluoropolyether polymer electrolyte into the nanochannels of an alumina template via vacuum infusion and in-situ polymerization. The strong Lewis acid-base effect that existed between ions and composite electrolytes can construct numerous fast channels for Li+ transport. A restrained vertical direction of ion immigration can facilitate the uniform deposition of Li+ on metallic Li anode. The shortened Li ion conductive distance and superior electrolyte/electrode interfaces contribute to the improved electrochemical performance of the assembled solid-state batteries. An ionic conductivity of 1.21 × 10−4 S cm−1 and a transference number of 0.37 at room temperature are achieved for the designed composite electrolytes, which is superior to those of the conventional composite electrolytes reinforced with Al2O3 or garnet nanoparticles. The corresponding Li symmetrical cell can stably work for over 1200 h without short-circuit and the LiFePO4 || Li full cell exhibits a high initial discharge capacity of 164.8 mAh g−1 with capacity retention of 93.7 % after 100 cycles with a coulombic efficiency close to 100 %. This work offers an effective tactic to develop ultra-thin composite electrolytes for high-performance all-solid-state lithium metal batteries.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Polymer-matrix composites</dcterms:subject><dcterms:subject>Electro-chemical behavior</dcterms:subject><dcterms:subject>Vertical channel</dcterms:subject><dcterms:subject>Ultra-thin</dcterms:subject><dcterms:subject>Composite polymer electrolytes</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0266353823004219" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0266353823004219" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="429" size="194567">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="800" height="595" size="222714">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="478" height="200" size="117008">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="477" size="178268">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="776" size="227204">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="808" size="208781">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="136" size="88115">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="83368">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="92" size="83279">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="81050">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="146" height="164" size="82142">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="140" height="164" size="86658">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3059" height="1899" size="1147136">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3543" height="2633" size="1073104">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2117" height="886" size="429380">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="2113" size="769299">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="3437" size="1103898">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3059" height="3579" size="1212048">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="1318062">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="16320">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-si1.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1821083">https://api.elsevier.com/content/object/eid/1-s2.0-S0266353823004219-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85175560518</scopus-id><scopus-eid>2-s2.0-85175560518</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85175560518" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271518</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Composites Science and Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>COMPOSITESSCIENCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20231030">2023-10-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20231030">2023-10-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20231103">2023-11-03</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20231103">2023-11-03</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-12-03T05:10:08</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0266353823004219</xocs:eid>
+      <xocs:pii-formatted>S0266-3538(23)00421-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0266353823004219</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.compscitech.2023.110327</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0266353823X0013X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20231203">2023-12-03T05:24:10.558261Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240105</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1698639329">2023-10-30T04:15:29.358297Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes grantnumber grantsponsor orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0266-3538</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02663538</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>245</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>245</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 245</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>110327</xocs:first-fp>
+      <xocs:article-number>110327</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>110327</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20240105</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>5 January 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-01-05</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ULTRATHINCOMPOSITEELECTROLYTEVERTICALALIGNEDLIIONTRANSPORTPATHWAYSFORALLSOLIDSTATELITHIUMMETALBATTERY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>DUNN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>928</xocs:ref-first-fp>
+            <xocs:ref-last-lp>935</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>194</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>XIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>753</xocs:ref-first-fp>
+            <xocs:ref-last-lp>785</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>1903088</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>643</xocs:ref-first-fp>
+            <xocs:ref-last-lp>671</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3328</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>108102</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>28</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>1008837</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>2003887</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>ZHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>DAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>354</xocs:ref-first-fp>
+            <xocs:ref-last-lp>361</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>RUIZCLAVIJO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2265</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>WONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3327</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3331</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>PRIOLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1893</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1907</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14244</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14252</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1910</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1921</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>VILLALUENGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>52</xocs:ref-first-fp>
+            <xocs:ref-last-lp>57</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3209</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>CHUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>644</xocs:ref-first-fp>
+            <xocs:ref-last-lp>648</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2563</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2573</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHENX2024X110327</xocs:refkey3>
+         <xocs:refkey4ai>CHENX2024X110327XX</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2025-11-03T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-11-03T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2023-11-08T09:36:00.345Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Key Project of Shenzhen Basic Research</xocs:funding-agency-matched-string>
+            <xocs:funding-id>JCYJ2022081800003006</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Shenzhen University</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>SZU</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Shenzhen University</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100009019</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Science and Technology Innovation Commission of Shenzhen</xocs:funding-agency-matched-string>
+            <xocs:funding-id>JCYJ20220531101013028</xocs:funding-id>
+            <xocs:funding-agency>Science, Technology and Innovation Commission of Shenzhen Municipality</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100010877</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Basic and Applied Basic Research Project of Guangdong Province</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2022A1515011438</xocs:funding-id>
+            <xocs:funding-id>2023A1515011055</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>This work was financially supported by Basic and Applied Basic Research Project of Guangdong Province ( 2022A1515011438 , 2023A1515011055 ), Basic Research Project of the Science and Technology Innovation Commission of Shenzhen ( JCYJ20220531101013028 ), Key Project of Shenzhen Basic Research ( JCYJ2022081800003006 ). The authors appreciate Instrumental Analysis Center of Shenzhen University (Lihu Campus) for providing equipment for material characterization. </xocs:funding-text>
+         <xocs:funding-text>This work was financially supported by Basic and Applied Basic Research Project of Guangdong Province (2022A1515011438, 2023A1515011055), Basic Research Project of the Science and Technology Innovation Commission of Shenzhen (JCYJ20220531101013028), Key Project of Shenzhen Basic Research (JCYJ2022081800003006). The authors appreciate Instrumental Analysis Center of Shenzhen University (Lihu Campus) for providing equipment for material characterization.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0266-3538(23)00421-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0266353823004219</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0266353823004219</xocs:eid>
+         <xocs:doi>10.1016/j.compscitech.2023.110327</xocs:doi>
+         <xocs:cid>271518</xocs:cid>
+         <xocs:timestamp>2023-12-03T05:24:10.558261Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-01-05</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/MAIN/application/pdf/720c1024730305190f3aa2227c81bc6f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>7871621</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0266353823004219-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/PREVIEW/image/png/f3705ab0149da5ba6b0a538252af9360/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57340</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr1/DOWNSAMPLED/image/jpeg/a956f4322e2ace3cbf00b4429916c200/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>194567</xocs:filesize>
+               <xocs:pixel-height>429</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr2/DOWNSAMPLED/image/jpeg/c57c6c859c314ea9c8f34bdcccb5074f/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>222714</xocs:filesize>
+               <xocs:pixel-height>595</xocs:pixel-height>
+               <xocs:pixel-width>800</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/ga1/DOWNSAMPLED/image/jpeg/b8db68beaf906e6a5313534b3326f0f1/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>117008</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>478</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr3/DOWNSAMPLED/image/jpeg/b116e270adafc0254f01a5b6a1d3e83c/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>178268</xocs:filesize>
+               <xocs:pixel-height>477</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr4/DOWNSAMPLED/image/jpeg/d64cbac71256df3a2f7e572cd8dfd26f/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>227204</xocs:filesize>
+               <xocs:pixel-height>776</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr5/DOWNSAMPLED/image/jpeg/bb56f4e8877f9d121d16f489589e6dd7/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>208781</xocs:filesize>
+               <xocs:pixel-height>808</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr1/THUMBNAIL/image/gif/721a486fc754c5f0b2a58305c1aae0c6/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>88115</xocs:filesize>
+               <xocs:pixel-height>136</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr2/THUMBNAIL/image/gif/dea30f2c586ed4d9fb700acbabb4474f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>83368</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/ga1/THUMBNAIL/image/gif/2f203a46296aa83cb6b37a298f3201ed/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>83279</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr3/THUMBNAIL/image/gif/27a8c132fcd34a60d682f617b90163c9/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>81050</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr4/THUMBNAIL/image/gif/d38774838d0adcf53c766a14e52135f0/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>82142</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>146</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/gr5/THUMBNAIL/image/gif/b517dd35cba46f915e883d4af450e55f/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>86658</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>140</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/HIGHRES/image/jpeg/279c9348ba069801a2acb95f6dac4196/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1147136</xocs:filesize>
+               <xocs:pixel-height>1899</xocs:pixel-height>
+               <xocs:pixel-width>3059</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/HIGHRES/image/jpeg/07c650be0be9a840f1f2886243dc1240/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1073104</xocs:filesize>
+               <xocs:pixel-height>2633</xocs:pixel-height>
+               <xocs:pixel-width>3543</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/HIGHRES/image/jpeg/3987fd85adff4aff02a3dd854dd2572a/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>429380</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>2117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/HIGHRES/image/jpeg/ae247d3f7f816d12ed33a6bcd96d1d4a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>769299</xocs:filesize>
+               <xocs:pixel-height>2113</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/HIGHRES/image/jpeg/41ed4281bbb2a42b2c00ce37df4d5a66/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1103898</xocs:filesize>
+               <xocs:pixel-height>3437</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/HIGHRES/image/jpeg/d4b8f2c752eb97d7de345681a0e59cdb/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1212048</xocs:filesize>
+               <xocs:pixel-height>3579</xocs:pixel-height>
+               <xocs:pixel-width>3059</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/f2b5a3e7bbb067212256a135374134a3/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>1318062</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0266353823004219/image/svg+xml/61d1626232d04c4f9d43c9d9876d1ef6/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>16320</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0266353823004219-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10PFN85NNQX/MAIN/application/pdf/5a7d4b7a669a688b2c1b63f5d8fd131d/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>1821083</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>CSTE</jid>
+            <aid>110327</aid>
+            <ce:article-number>110327</ce:article-number>
+            <ce:pii>S0266-3538(23)00421-9</ce:pii>
+            <ce:doi>10.1016/j.compscitech.2023.110327</ce:doi>
+            <ce:copyright type="full-transfer" year="2023">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Synthesis and structural characterization of the PPAA-CPE. (a) Schematic illustration of the synthesis route of PPAA-CPE. (b) Optical photographs of PPAA-CPE before and after UV curing. (c) FTIR spectra of PEG-DMA, PFPE-DMA and PEG-PFPE. (d) Top-view and (e) cross-section SEM image of AAO template. (f) Top-view SEM image of PPAA-CPE, and (g) cross-section SEM image with (h–j) corresponding EDS mapping of PPAA-CPE.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0266353823004219/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">(a) DSC and (b) TG curves of various electrolytes used in this work. (c) Impedance plots, and (d) Arrhenius plots of the PEG-PFPE and its corresponding composite electrolyte©(e) Comparison of the ionic conductivities of the as-obtained electrolytes at room temperature. (f) LSV curves of the PEG-PFPE electrolyte and PPAA-CPE. (g–i) Li<ce:sup loc="post">+</ce:sup> transference numbers of PEG, PEG-PFPE electrolyte and PPAA-CPE.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0266353823004219/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Electrochemical performance of different electrolytes using LiFePO<ce:inf loc="post">4</ce:inf> || Li battery. (a) Rate performance of PPAA-CPE at 60 °C. (b) Galvanostatic charge-discharge curves of PPAA-CPE with different rates at 60 °C. (c) Cycling performances of the designed electrolytes at 0.2 C. (d) Cycling performance of PPAA-CPE at 2 C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0266353823004219/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Comparison of cycling performances and enlarged curve details of symmetrical Li cells assembled with (a) PEG-PFPE electrolyte, (b) PPLL electrolyte, (c) PPAL electrolyte, and (d) PPAA electrolyte at a current density of 0.1 mA cm<ce:sup loc="post">−2</ce:sup> with an area capacity of 0.1 mAh cm<ce:sup loc="post">−2</ce:sup> at 60 °C. SEM images of Li metal surface after Li plating/stripping of (e) PEG-PFPE electrolyte, (f) PPLL electrolyte, (g) PPAL electrolyte, and (h) PPAA electrolyte.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0266353823004219/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(a) Dimensional thermal stability of commercial PP separator and PPAA-CPE at setting temperatures of 25 °C–200 °C. (b) Combustion tests of PEG-PFPE and PPAA-CPE membranes. (c) Practical application tests of LiFePO<ce:inf loc="post">4</ce:inf> || PPAA || Li cell.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0266353823004219/gr5"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">An ultra-thin composite electrolyte with vertical aligned Li ion transport pathways for all-solid-state lithium metal battery</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0266353823004219-84e7815d394f9aa6956c38a2ba7d6f75">
+                  <ce:given-name>Xiaobin</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="fn1" id="crosref0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0266353823004219-3126bdeb80409ade2315e50636885887">
+                  <ce:given-name>Wenchao</ce:given-name>
+                  <ce:surname>Liao</ce:surname>
+                  <ce:cross-ref refid="fn1" id="crosref0015">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0266353823004219-e13004c59e615d03f546747e0400bebe">
+                  <ce:given-name>Dazhu</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+               </ce:author>
+               <ce:author id="au4" author-id="S0266353823004219-010ae98f17c54293be303d070892cfb8">
+                  <ce:given-name>Yanfei</ce:given-name>
+                  <ce:surname>Huang</ce:surname>
+                  <ce:cross-ref id="crosref0020" refid="PC_coriPz6kFD0P1">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au5" orcid="0000-0001-6702-8129" author-id="S0266353823004219-6819970a66146cadd222d011b76eac28">
+                  <ce:given-name>Chen</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref refid="cor2" id="crosref0025">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0266353823004219-8751011d6101fe95a37897b2011be130">
+                  <ce:textfn>Guangdong Research Center for Interfacial Engineering of Functional Materials, Shenzhen Key Laboratory of Polymer Science and Technology, College of Materials Science and Engineering, Shenzhen University, Shenzhen, 518060, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Guangdong Research Center for Interfacial Engineering of Functional Materials</sa:organization>
+                     <sa:organization>Shenzhen Key Laboratory of Polymer Science and Technology</sa:organization>
+                     <sa:organization>College of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Shenzhen University</sa:organization>
+                     <sa:city>Shenzhen</sa:city>
+                     <sa:postal-code>518060</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Guangdong Research Center for Interfacial Engineering of Functional Materials, Shenzhen Key Laboratory of Polymer Science and Technology, College of Materials Science and Engineering, Shenzhen University, Shenzhen 518060, PR China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="PC_coriPz6kFD0P1">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">These authors contributed equally to this work.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="2" month="8" year="2023"/>
+            <ce:date-revised day="24" month="9" year="2023"/>
+            <ce:date-accepted day="28" month="10" year="2023"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">All-solid-state lithium metal batteries employing composite electrolytes can fundamentally settle the safety issues of commercial liquid electrolytes. However, the thick thickness and low ionic conductivity as well as unregulated ion transport of current composite electrolytes pose great obstacles in further promoting their applicability and compatibility with Li metal anode. Herein, an ultra-thin composite electrolyte with vertical aligned Li ion transport pathways is rationally designed via filling polyethylene glycol-perfluoropolyether polymer electrolyte into the nanochannels of an alumina template via vacuum infusion and in-situ polymerization. The strong Lewis acid-base effect that existed between ions and composite electrolytes can construct numerous fast channels for Li<ce:sup loc="post">+</ce:sup> transport. A restrained vertical direction of ion immigration can facilitate the uniform deposition of Li<ce:sup loc="post">+</ce:sup> on metallic Li anode. The shortened Li ion conductive distance and superior electrolyte/electrode interfaces contribute to the improved electrochemical performance of the assembled solid-state batteries. An ionic conductivity of 1.21 × 10<ce:sup loc="post">−4</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> and a transference number of 0.37 at room temperature are achieved for the designed composite electrolytes, which is superior to those of the conventional composite electrolytes reinforced with Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> or garnet nanoparticles. The corresponding Li symmetrical cell can stably work for over 1200 h without short-circuit and the LiFePO<ce:inf loc="post">4</ce:inf> || Li full cell exhibits a high initial discharge capacity of 164.8 mAh g<ce:sup loc="post">−1</ce:sup> with capacity retention of 93.7 % after 100 cycles with a coulombic efficiency close to 100 %. This work offers an effective tactic to develop ultra-thin composite electrolytes for high-performance all-solid-state lithium metal batteries.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">
+                     <ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text role="short" id="alttext0010">Image 1</ce:alt-text>
+                           <ce:link locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0266353823004219/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Polymer-matrix composites</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Electro-chemical behavior</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Vertical channel</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Ultra-thin</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Composite polymer electrolytes</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da0010" view="all">
+               <ce:section-title id="sectitle0025">Data availability</ce:section-title>
+               <ce:para id="p0010" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0015" view="all">Owing to the depletion of fossil energy and worsening environmental issues, safe and eco-friendly electrical storage systems are greatly required [<ce:cross-ref refid="bib1" id="crosref0030">1</ce:cross-ref>]. Thereinto, lithium-ion batteries (LIBs) have been widely applied in the areas of portable devices and electric vehicles. Unfortunately, the conventional LIBs almost reach their ceiling of energy density (250 Wh kg<ce:sup loc="post">−1</ce:sup>), which no longer meets the demand of higher energy density for the rapid development of next-generation storage devices, especially electric vehicles (≥300 Wh kg<ce:sup loc="post">−1</ce:sup>). Thus, exploiting advanced or altering the current existing battery materials (including electrodes and electrolytes) to enhance the overall cell energy density has become an urgent target. To settle this issue, employing Li metal anode with ultra-high theoretical specific capacity (3860 mAh g<ce:sup loc="post">−1</ce:sup>) and the lowest electrode potential (−3.04 V versus the standard hydrogen electrode) has proved to be a promising strategy for realizing the high-energy-density lithium batteries [<ce:cross-ref refid="bib2" id="crosref0035">2</ce:cross-ref>]. Nevertheless, Li metal anode can cause rapid capacity fading and safety hazards due to the adverse chemical reactions between active Li metal and liquid electrolyte [<ce:cross-ref refid="bib3" id="crosref0040">3</ce:cross-ref>]. A replacement of liquid electrolytes with nonflammable and stable solid electrolytes (SEs) can be adopted to conquer this problem since the SEs possess higher thermal and electrochemical stability, as well as good mechanical strength [<ce:cross-ref refid="bib4" id="crosref0045">4</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0020" view="all">Although solid electrolytes promise the safety of all-solid-state Li metal batteries (ASSLMBs) to a large extent, SEs usually need to maintain large thicknesses (around 100 μm or even 500 μm) to ensure the required mechanical strength [<ce:cross-ref refid="bib5" id="crosref0050">5</ce:cross-ref>], which is thicker than that of commercial separator, thereby reducing the potential of achieving high gravimetric/volumetric energy density of SSLMBs. Moreover, the thick electrolyte would also adversely influence its internal resistance and ion conduction ability. Thus, exploring ultrathin electrolytes is imperative in developing high-energy density SSLMBs to avoid the aforementioned issues. Presently, the <ce:italic>in-situ</ce:italic> synthesis of polymer is the most common strategy to fabricate ultrathin electrolytes, however, the inferior mechanical property of the obtained polymer electrolyte would result in poor cell performance [<ce:cross-ref refid="bib6" id="crosref0055">6</ce:cross-ref>]. In contrast, the incorporation of inorganic components in the polymer is a good practice that enhances ionic conductivity without sacrificing the flexibility of the polymer electrolyte [<ce:cross-ref refid="bib7" id="crosref0060">7</ce:cross-ref>]. To date, polymer-based composite electrolytes (CPEs) composed of various ceramic fillers (e.g. SiO<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Li<ce:inf loc="post">7</ce:inf>La<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">12</ce:inf>, Li<ce:inf loc="post">6.4</ce:inf>La<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1.4</ce:inf>Ta<ce:inf loc="post">0.6</ce:inf>O<ce:inf loc="post">12</ce:inf>) and polymer matrixes have been studied extensively [<ce:cross-ref refid="bib8" id="crosref0065">8</ce:cross-ref>,<ce:cross-ref refid="bib9" id="crosref0070">9</ce:cross-ref>]. However, the ionic conductivities of most CPEs can only be enhanced to ∼10<ce:sup loc="post">−5</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> at room temperature due to the limited reduced crystallinity of polymer matrix and Lewis acid-base effect between Li-ion and ceramic fillers.</ce:para>
+                  <ce:para id="p0025" view="all">Different from the incorporation of fillers, three-dimensional (3D) ceramic skeletons for CPEs can avoid agglomeration and construct a more continuous and compact structure, which can be favorable to the thermal stability, electrochemical stability, and ionic conductivity of CPEs. Yan et al. [<ce:cross-ref refid="bib10" id="crosref0075">10</ce:cross-ref>] fabricated a self-supporting 3D porous LATP skeleton filled with polyethylene glycol methyl ether acrylate. However, even if the common 3D structure can generally endow electrolytes with high ionic conductivity, the unordered space in the 3D structure may facilitate uneven Li deposition. To solve this problem, 3D skeletons with vertical structures have been attempted. The vertical configuration can induce the Li<ce:sup loc="post">+</ce:sup> to conduct in a specific direction, which contributes to uniform ion deposition and effectively shortens the transmission distance of Li<ce:sup loc="post">+</ce:sup> between cathode and anode, therefore effectively inhibiting the dendrite growth and significantly boosting the ionic conductivity. Zha et al. [<ce:cross-ref refid="bib11" id="crosref0080">11</ce:cross-ref>] fabricated a LAGP skeleton with a vertical structure using the ice-template method, which was then filled with succinonitrile (SN)/LiTFSI to obtain a CPE. However, the passivation reaction between SN and Li metal anode may lead to an unstable electrolyte/electrode interface. Although other methods like the wood template and electric field-oriented method are also adopted to construct vertical structures for ionic conduction, the fabrication processes are complicated to operate yet still cannot obtain dense skeletons [<ce:cross-ref refid="bib12" id="crosref0085">12</ce:cross-ref>,<ce:cross-ref refid="bib13" id="crosref0090">13</ce:cross-ref>]. Thus, constructing an internal flawless vertical configuration for CPEs with ultrathin thickness in a facile way, would potentially lead to high ion transport ability, high energy density, and safe solid-state lithium batteries.</ce:para>
+                  <ce:para id="p0030" view="all">In this work, an ultrathin composite electrolyte (PPAA-CPE) with vertical channels and continuous ceramic/polymer interfaces is developed by filling polyethylene glycol-perfluoropolyether (PEG-PFPE) polymer electrolyte into the nanochannels of an alumina (AAO) template via vacuum infusion and in-situ polymerization. The commercial AAO templates with stable and dense vertical skeleton as well as tunable thickness are conducive to construct ultrathin CPEs [<ce:cross-ref refid="bib14" id="crosref0095">14</ce:cross-ref>]. In our designed structure, a strong Lewis acid-base effect that existed between ions and composite electrolytes can construct numerous fast channels for Li<ce:sup loc="post">+</ce:sup> transport. Moreover, ion-insulated AAO as a vertical inorganic template cannot inherently conduct Li<ce:sup loc="post">+</ce:sup>, which can ensure a specific vertical direction for fast Li<ce:sup loc="post">+</ce:sup> conduction and specific areas for uniform Li<ce:sup loc="post">+</ce:sup> deposition, so that the conductive distance between electrodes is greatly shortened, and a more stable electrolyte/Li metal anode interface is formed to suppress the dendrite growth. As a result, PPAA-CPE shows a superior ionic conductivity of 1.21 × 10<ce:sup loc="post">−4</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> at room temperature, which is 24 times higher than PEG-PFPE electrolyte and about 10 times higher than CPEs using LLZTO and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> nanoparticles as inorganic fillers. Besides, the Li symmetrical cell using PPAA-CPE exhibits outstanding stability, running stably for up to 1200 h. Meanwhile, the LiFePO<ce:inf loc="post">4</ce:inf> || Li full cell based on PPAA-CPE shows a high discharge capacity of 164.8 mAh g<ce:sup loc="post">−1</ce:sup> with capacity retention of 93.7 % after 100 cycles at 0.2 C and 60 °C. In addition to prominent electrochemical performance, AAO inorganic template also endows PPAA-CPE with outstanding thermal stability and safety performance. These above results significantly demonstrate the superior comprehensive performance of an advanced ultrathin CPE with vertical structure, including outstanding ionic conductivity and cycling stability, which exhibits the potential to be a promising electrolyte for developing high-performance safe ASSLMBs.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="results" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">Results and discussion</ce:section-title>
+                  <ce:para id="p0035" view="all">We first designed a PEG-PFPE polymer electrolyte by crosslinking PEG-DMA with PFPE-DMA to ameliorate the Li-ion transference number of conventional PEG, since perfluoropolyether (PFPE) has been proven to be a single ion conducting polymer electrolyte [<ce:cross-ref refid="bib15" id="crosref0100">15</ce:cross-ref>]. The successful synthesis of PFPE-DMA using PFPE-OH and methacryloyloxyethyl isocyanate (IEM) was proved by <ce:sup loc="post">19</ce:sup>F NMR and FTIR spectra analysis. As shown in <ce:cross-ref refid="appsec1" id="crosref0105">Fig. S1a</ce:cross-ref>, the <ce:sup loc="post">19</ce:sup>F NMR signals were detected from the as-prepared PFPE-DMA sample: the distinct peaks at −52 ppm/-55 ppm, −77.5 ppm/-79.5 ppm, and −88 ppm/-91 ppm can be indexed to –CF<ce:inf loc="post">2</ce:inf>O-, –CF<ce:inf loc="post">2</ce:inf>-CH<ce:inf loc="post">2</ce:inf>O- and –CF<ce:inf loc="post">2</ce:inf>-CF<ce:inf loc="post">2</ce:inf>-O- respectively, which is consistent with the spectrum of PFPE-DMA reference [<ce:cross-ref refid="bib16" id="crosref0110">16</ce:cross-ref>]. Furthermore, the FTIR spectra of PFPE-OH and PFPE-DMA are also presented in <ce:cross-ref refid="appsec1" id="crosref0115">Fig. S1b</ce:cross-ref>. Before the reaction, PFPE-OH has no peaks appear at 1750 cm<ce:sup loc="post">−1</ce:sup>, while the PFPE-DMA synthesized by the reaction of PFPE-OH and IEM shows an obvious characteristic peak at 1750 cm<ce:sup loc="post">−1</ce:sup> corresponding to the C<ce:glyph name="dbnd"/>C bond of methacrylate groups from DMA, which further demonstrates that DMA groups are successfully bonded to PFPE-OH. In addition, an occurrence of cross-linking reactions in the PFPE-DMA solution was further proved by the curing of the solution under UV light with the catalysis of 0.1 wt% 1-hydroxycyclohexyl phenyl ketone (HCPK). The as-prepared PFPE-DMA solution was used to constitute cross-linking network with PEG-DMA for the <ce:italic>in-situ</ce:italic> polymerization of PEG-PFPE in the AAO template and the polymerization routine is shown in <ce:cross-ref refid="appsec1" id="crosref0120">Fig. S2</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0040" view="all">
+                     <ce:cross-ref refid="fig1" id="crosref0125">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>a illustrates the synthesis procedure of PPAA-CPE. The composition ratios are recorded in <ce:cross-ref refid="appsec1" id="crosref0130">Table S1</ce:cross-ref> and <ce:cross-ref refid="appsec1" id="crosref0135">Table S2</ce:cross-ref>. Firstly, the catalyst, LiTFSI, PEG-DMA, and PFPE-DMA solution were mixed and stirred to prepare the PEG-PFPE-LiTFSI precursor solution. It should be noted that different percentages of PFPE-DMA in the precursor can significantly affect the impedance of PEG-PFPE electrolytes. As shown in <ce:cross-ref refid="appsec1" id="crosref0140">Fig. S3</ce:cross-ref>, with the increasing content of PFPE-DMA, the bulk impedances (R<ce:inf loc="post">b</ce:inf>) of PEG-PFPE electrolytes enhance from 211 Ω to 4402 Ω at room temperature, leading to the descending ionic conductivities, which mainly on account of the relatively weak ion transport ability of PFPE. Thus, the volume ratio of 10: 1 (PEG-DMA to PFPE-DMA) with the smallest impedance is selected as the optimal formula for further use. Moreover, as shown in <ce:cross-ref refid="appsec1" id="crosref0145">Figs. S4a and b</ce:cross-ref>, different molar ratios of LiTFSI to PEG-DMA also affect the ion conduction ability of PEG-PFPE electrolytes, and 18: 1 for EO: Li<ce:sup loc="post">+</ce:sup> exhibits the highest ionic conductivity among all the samples. Then the PPAA-CPE was synthesized through the dropwise addition of PEG-PFPE precursor solution in a dried AAO template and subsequent UV curing. As displayed in <ce:cross-ref refid="fig1" id="crosref0150">Fig. 1</ce:cross-ref>b, milky PEG-PFPE solution was formed by evenly stirring the mixture composed of PEG-DMA and PFPE-DMA with a certain ratio and 0.1 wt% HCPK catalyst. After UV curing for 1 min, the PEG-PFPE solution turned from a fluid into a solid and stuck to the bottom of the glass bottle. To confirm the successful cross-linking of PEG-DMA and PFPE-DMA, FTIR spectra are collected as shown in <ce:cross-ref refid="fig1" id="crosref0155">Fig. 1</ce:cross-ref>c. It is clear that the peaks of PEG-DMA and PFPE-DMA at 1712.3 cm<ce:sup loc="post">−1</ce:sup> corresponding to C<ce:glyph name="dbnd"/>C stretching vibration disappear after UV curing, demonstrating the successful formation of cross-linked PEG-PFPE through the proposed synthesis procedure [<ce:cross-ref refid="bib17" id="crosref0160">17</ce:cross-ref>]. The microstructure and morphology of the AAO template and as-prepared PPAA-CPE were characterized by scanning electron microscopy (SEM). According to <ce:cross-ref refid="fig1" id="crosref0165">Fig. 1</ce:cross-ref>d and e, the as-received AAO template shows a kind of honeycomb structure composed of many nanopores with a diameter of 200 nm and possesses a thickness of around 60 μm. The porous structure can function like an inorganic skeleton to hold the PEG-PFPE polymer electrolyte for the fabrication of inorganic-organic ultrathin CPE with better comprehensive performance. The nanopores of the AAO template were covered fully by the polymer electrolyte, with no obvious pores left as shown in <ce:cross-ref refid="fig1" id="crosref0170">Fig. 1</ce:cross-ref>f, and the cross-section SEM image of PPAA-CPE in <ce:cross-ref refid="fig1" id="crosref0175">Fig. 1</ce:cross-ref>g also indicates the full filling of PEG-PFPE in the nanochannels. The overall thickness of the CPE is ∼60 μm. The corresponding EDS elemental mapping images show the presence of elements C, O, and F distributed uniformly in <ce:cross-ref refid="fig1" id="crosref0180">Fig. 1</ce:cross-ref>h–j, reaffirming that porous channels of the AAO template were completely filled with PEG-PFPE polymer electrolyte.</ce:para>
+                  <ce:para id="p0045" view="all">The crystallinity of polymer matrix is related to the polymer segmental mobility and ion transport ability, which can be calculated from the DSC analysis (<ce:cross-ref refid="fig2" id="crosref0185">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>a) [<ce:cross-ref refid="bib18" id="crosref0190">18</ce:cross-ref>]. As shown in <ce:cross-ref refid="appsec1" id="crosref0195">Table S3</ce:cross-ref>, PPLL-CPE and PPAL-CPE display decreased crystallinities compared with the PEG-PFPE electrolyte in an obvious way thanks to the inorganic nanoparticle additives (10 wt% LLZTO/10 wt% Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>), which can effectively enlarge the amorphous area of CPEs and thus improve the ionic conductivities. But most importantly, PPAA-CPE shows the lowest crystallinity of 8.9 % among all the electrolytes, probably resulting from the hydrogen bonding interaction between the PEG-PFPE electrolyte with the AAO template in the curing process. To further investigate the thermal stability of the designed electrolytes, TGA tests were performed as shown in <ce:cross-ref refid="fig2" id="crosref0200">Fig. 2</ce:cross-ref>b. After incorporating PFPE-DMA, the cross-linked PEG-PFPE possesses a higher initial thermal decomposition temperature (T<ce:inf loc="post">5%</ce:inf>) of 303 °C which is obviously higher than that of PEG-DMA (283 °C) because of the cross-linked network structure formed by PEG-DMA and PFPE-DMA. The higher T<ce:inf loc="post">5%</ce:inf> demonstrates better thermal stability of PEG-PFPE compared with PEG-DMA.</ce:para>
+                  <ce:para id="p0050" view="all">An ideal solid-state electrolyte for high-performance SSBs should possess satisfactory ionic conductivity to ensure fast and uniform ion transport. The ionic conductivities of PEG-PFPE, PPAL, PPLL, and PPAA electrolytes were measured by electrochemical impedance spectroscopy (EIS). In <ce:cross-ref refid="fig2" id="crosref0205">Fig. 2</ce:cross-ref>c, PEG-PFPE shows the highest R<ce:inf loc="post">b</ce:inf> of as high as 4424 Ω, which resulted from the high crystallinity (<ce:cross-ref refid="appsec1" id="crosref0210">Table S3</ce:cross-ref>). With the incorporation of LLZTO and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> inorganic nanoparticles, the value of R<ce:inf loc="post">b</ce:inf> significantly decreased to 1173 Ω and 1003 Ω for PPLL and PPAL, respectively. But most notably, the value of R<ce:inf loc="post">b</ce:inf> for ultrathin PPAA-CPE with an inorganic vertical channel skeleton is only 70 Ω at room temperature. Furthermore, PPAA-CPE also shows ultralow impedances at other temperatures besides room temperature as shown in <ce:cross-ref refid="appsec1" id="crosref0215">Fig. S5</ce:cross-ref>. The impedance evidently decreased with the increase in temperature because of the improved ionic transport kinetic. The Arrhenius plots of different electrolytes are further exhibited in <ce:cross-ref refid="fig2" id="crosref0220">Fig. 2</ce:cross-ref>d. Owing to the lower crystallinity and a large amount of ion conductive pathways provided by inorganic components, the activation energy (E<ce:inf loc="post">a</ce:inf>) for each CPE is distinctly lower than that of PEG-PFPE polymer electrolyte at 25 °C ∼ 80 °C. Most importantly, PPAA-CPE possesses the lowest E<ce:inf loc="post">a</ce:inf>, suggesting that the AAO template provides numerous fast vertical conductive channels by which the performance of ionic conduction within PPAA-CPE can be further greatly enhanced and therefore contributes to high ionic conductivity. The ionic conductivities of different electrolytes are intuitively shown in <ce:cross-ref refid="fig2" id="crosref0225">Fig. 2</ce:cross-ref>e. PEG-PFPE electrolyte has a relatively low ionic conductivity of 5.0 × 10<ce:sup loc="post">−6</ce:sup> S cm<ce:sup loc="post">−1</ce:sup>. After distributing LLZTO and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> nanoparticles in the PEG-PFPE polymer matrix, the room-temperature ionic conductivity increases to 1.0 × 10<ce:sup loc="post">−5</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> and 1.4 × 10<ce:sup loc="post">−5</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> respectively. Apart from traditional inorganic-organic composite reinforcement, extra fast vertical conductive channels brought by the AAO template greatly boost the ionic conductivity to 1.2 × 10<ce:sup loc="post">−4</ce:sup> S cm<ce:sup loc="post">−1</ce:sup>, which is superior among all the electrolyte samples.</ce:para>
+                  <ce:para id="p0055" view="all">The electrochemical stabilities of PPAA-CPE and PEG-PFPE electrolytes were measured by linear sweep voltammetry (LSV) using Li || SS cells at room temperature (<ce:cross-ref refid="fig2" id="crosref0230">Fig. 2</ce:cross-ref>f). PEG-PFPE electrolyte shows a potential window of 5.0 V which is already better than most of the common polymer electrolytes because of the incorporation of high oxidation resistance of PFPE [<ce:cross-ref refid="bib19" id="crosref0235">19</ce:cross-ref>]. Even better, PPAA-CPE obtains superior electrochemical stability of approximately 5.5 V due to the addition of an inorganic AAO template, implying that the CPE can potentially match with the high-voltage cathodes for high-energy-density LMBs. The high Li<ce:sup loc="post">+</ce:sup> transference number (<mml:math altimg="si1.svg">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi>t</mml:mi>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mi>L</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>+</mml:mo>
+                              </mml:msup>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>) could effectively alleviate the concentration polarization within batteries and promote uniform deposition of Li<ce:sup loc="post">+</ce:sup> that contributes to the suppression of lithium dendrites [<ce:cross-ref refid="bib20" id="crosref0240">20</ce:cross-ref>]. As shown in <ce:cross-ref refid="fig2" id="crosref0245">Fig. 2</ce:cross-ref>g, a low <mml:math altimg="si1.svg">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi>t</mml:mi>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mi>L</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>+</mml:mo>
+                              </mml:msup>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math> 0f 0.17 is obtained in the conventional PEG electrolyte because apart from Li<ce:sup loc="post">+</ce:sup> transport, anions (TFSI<ce:sup loc="post">−</ce:sup>) from lithium salt also tend to migrate by themselves in the PEG electrolyte. In contrast, PFPE is conducive to anion immobilization for more efficient Li<ce:sup loc="post">+</ce:sup> transport [<ce:cross-ref refid="bib19" id="crosref0250">19</ce:cross-ref>]. Consequently, the <mml:math altimg="si1.svg">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi>t</mml:mi>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mi>L</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>+</mml:mo>
+                              </mml:msup>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math> of the PEG-PFPE electrolyte is increased to 0.35, which is about twice as much as the PEG electrolyte. After incorporating the AAO template, the transference number can be further enhanced to 0.37, probably owing to the Lewis acid-base interaction between the hydrogen bonds of alumina oxide and lithium ions [<ce:cross-ref refid="bib21" id="crosref0255">21</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0060" view="all">The improved ionic conductivity and Li transference number of the designed composite electrolyte can be theoretically interpreted from the following explanation: Firstly to PEG-PFPE, Li<ce:sup loc="post">+</ce:sup> in PEG-PFPE electrolyte mainly transport between PEG chains by the combined action of ether oxygen bonds and EO segmental motion, but the segmental mobility in PEG-PFPE electrolyte is greatly restricted due to its highly cross-linked at room temperature after UV curing and thus leads to a low room-temperature ionic conductivity. In contrast, with the addition of LLZTO and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> nanoparticles, the crystallinity of the polymer matrix can be decreased and yield more free volume for the segmental motion of polymer chains. Except for polymer segments, the Li<ce:sup loc="post">+</ce:sup> in PPLL can also move along the interface between LLZTO particles and polymer chains [<ce:cross-ref refid="bib22" id="crosref0260">22</ce:cross-ref>]. Therefore, the ionic conductivities of PPLL and PPAL CPEs can be improved to a certain extent (1.0 × 10<ce:sup loc="post">−5</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> for PPLL and 1.4 × 10<ce:sup loc="post">−5</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> for PPAL). Different from direct addition of normal inorganic particles, to further achieve better ionic conduction performance, PPAA-CPE is designed to shorten the ion conduction pathways in the vertical direction through an ionic inert AAO template, and consequently obtains a superior ion conduction performance [<ce:cross-ref refid="bib20" id="crosref0265">20</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0065" view="all">All the aforementioned results reveal that PPAA-CPE possesses applicability in all-solid-state lithium metal batteries. The cells were assembled with the composite electrolytes using LiFePO<ce:inf loc="post">4</ce:inf> as the cathode and Li metal as the anode. The rate performance in <ce:cross-ref refid="fig3" id="crosref0270">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>a reveals that the cell using PPAA-CPE as an electrolyte delivers satisfactory average discharge capacities of 157.6 mAh g<ce:sup loc="post">−1</ce:sup>, 139.5 mAh g<ce:sup loc="post">−1</ce:sup>, 109.2 mAh g<ce:sup loc="post">−1</ce:sup>, and 80.7 mAh g<ce:sup loc="post">−1</ce:sup> at 0.2 C, 0.5 C, 1.0 C, and 2.0 C, respectively. When the current density is reverted to 0.2 C, a high average specific capacity of 153.1 mAh g<ce:sup loc="post">−1</ce:sup> is exhibited for PPAA-CPE, demonstrating good cycling stability and reversibility. On the contrary, as a result of the huge difference between PPAA-CPE and the other three kinds of electrolytes for ion conduction performance, PEG-PFPE, PPLL, and PPAL CPEs display worse rate performance than that of PPAA-CPE, especially under high current density (<ce:cross-ref refid="appsec1" id="crosref0275">Fig. S6a</ce:cross-ref>). At a high rate of 2 C, PPAA-CPE still obtains an average specific discharge capacity of 80.7 mAh g<ce:sup loc="post">−1</ce:sup>, while PEG-PFPE, PPLL, and PPAL electrolytes show much lower specific capacities of 0.6 mAh g<ce:sup loc="post">−1</ce:sup>, 14.0 mAh g<ce:sup loc="post">−1</ce:sup> and 19.5 mAh g<ce:sup loc="post">−1</ce:sup>, respectively.</ce:para>
+                  <ce:para id="p0070" view="all">Additionally, to further evaluate the electrochemical performance, the corresponding charge-discharge curves of LiFePO<ce:inf loc="post">4</ce:inf> || Li batteries based on the electrolytes mentioned above are exhibited in <ce:cross-ref refid="fig3" id="crosref0280">Fig. 3</ce:cross-ref>b and <ce:cross-ref refid="appsec1" id="crosref0285">Figs. S6b–d</ce:cross-ref>, respectively. The prepared cell using PPAA-CPE as an electrolyte exhibits a smooth charge and discharge voltage profiles at various current densities, while the other three kinds of electrolytes all display abnormal charge-discharge curves with severe polarization under higher current densities, indicating the good interfacial compatibility between PPAA-CPE and electrodes. The inferior performance of PEG-PFPE polymer electrolyte is probably caused by its poor ionic conductivity and electrochemical stability. For PPLL and PPAL polymer-based CPEs, the inevitable agglomeration of ceramic particles could hinder the ion transport within the electrolytes and adversely affect the physical contact with electrodes. The long cycling performance is tightly relevant to the ion conduction and electrolyte/electrode interfacial stability in a battery. Consequently, as shown in <ce:cross-ref refid="fig3" id="crosref0290">Fig. 3</ce:cross-ref>c, the LiFePO<ce:inf loc="post">4</ce:inf> || Li cell with PPAA-CPE delivers the highest discharge capacity of 164.8 mAh g<ce:sup loc="post">−1</ce:sup> which is close to the theoretical capacity of LiFePO<ce:inf loc="post">4</ce:inf> (170 mAh g<ce:sup loc="post">−1</ce:sup>), suggesting that PPAA-CPE is endowed with high capacity by its superior ionic conductivity. Meanwhile, the best capacity retention of 93.7 % is obtained after 100 cycles under 0.2 C at 60 °C and the coulombic efficiency of the LiFePO<ce:inf loc="post">4</ce:inf> || PPAA || Li maintains almost 100 % during the whole cycling. The results above adequately demonstrate that PPAA-CPE is equipped with prominent properties of ionic conduction and interfacial stability. However, the highest discharge capacities of PEG-PFPE, PPLL, and PPAL are 122.3 mAh g<ce:sup loc="post">−1</ce:sup>, 129.7 mAh g<ce:sup loc="post">−1</ce:sup>, and 132.5 mAh g<ce:sup loc="post">−1</ce:sup>, respectively, which are much lower than that of PPAA-CPE. Their fast fading of discharge capacities is probably due to the low ion transport ability of CPEs and the uneven deposition of Li<ce:sup loc="post">+</ce:sup> on the surface of the Li metal anode, thereby leading to the striking augment on interfacial impedance, which in turn gives rise to the continuous increasing polarization and attenuated capacity. Fortunately, benefiting from the uniform ion deposition promoted by the induced Li<ce:sup loc="post">+</ce:sup> conduction in the vertical direction, PPAA-CPE owns a stable interface between the electrolyte and Li metal anode, which ensures the long-term cycling stability of the prepared battery even under high current density. As shown in <ce:cross-ref refid="fig3" id="crosref0295">Fig. 3</ce:cross-ref>d, at a high rate of 2 C, an outstanding capacity retention of 74.2 % was obtained by LiFePO<ce:inf loc="post">4</ce:inf> || PPAA || Li cell after being cycled 200 times.</ce:para>
+                  <ce:para id="p0075" view="all">To characterize the stability of electrolytes against Li metal anode, Li symmetric cells using different electrolytes were assembled and tested under a current density of 0.1 mA cm<ce:sup loc="post">−2</ce:sup> at 60 °C. As shown in <ce:cross-ref refid="fig4" id="crosref0300">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>a, with a slowly increasing polarized voltage at the early stage, the polarization of Li || PEG-PFPE || Li cell starts to rapidly intensify after being cycled for 60 h, and eventually running less than 200 h. This result demonstrates that a worsening interface between PEG-PFPE electrolyte and Li metal was aroused during the Li stripping/plating processes, which is probably caused by the detrimental side reaction on the interface. Furthermore, the rapid cell fail phenomenon is also observed for Li symmetrical cells using || PPLL and PPAL in <ce:cross-ref refid="fig4" id="crosref0305">Fig. 4</ce:cross-ref>b and c, suggesting that the inorganic nanoparticles incorporated electrolytes cannot effectively regulate the Li<ce:sup loc="post">+</ce:sup> deposition behavior on Li metal anode though they can improve the ionic conductivity to a certain extent. In sharp contrast, <ce:cross-ref refid="fig4" id="crosref0310">Fig. 4</ce:cross-ref>d shows that Li symmetrical cell using PPAA-CPE can run stably for up to 1200 h, revealing the superior interfacial stability between PPAA-CPE and Li metal anode. Moreover, to further investigate the Li stripping/plating behaviors, SEM was conducted to observe the surface morphology of disassembled Li metal electrodes after being cycled with different electrolytes. As shown in <ce:cross-ref refid="fig4" id="crosref0315">Fig. 4</ce:cross-ref>e–g, plenty of dead lithium and mossy lithium dendrites accumulated on the surface of Li metal, accompanied by many obvious cracks, showing rough and uneven surfaces for PEG-PFPE, PPLL, and PPAL electrolytes. On the contrary, the surface of Li metal in Li || PPAA || Li cell displays an extremely dense and smooth surface without any obvious lithium dendrites and fragments of dead lithium, further confirming that the introduction of AAO template with vertical channels in PPAA-CPE can bring a great improvement on the stability of the interface between the electrolyte and Li metal anode. Specifically, given that the PEG-PFPE polymer electrolyte and AAO template both cannot react with Li metal anode to generate interface-stable SEI, which means the formation of stable PPAA/Li metal interface is unrelated to SEI, the practical reason for superior interfacial stability is that the ion-conductive PEG-PFPE polymer electrolyte is separated by the vertical nanochannels, ion transport pathways are limited and Li ions are induced to deposition in specific areas through vertical channels, therefore stabilizing the interface between the electrolyte and Li metal anode.</ce:para>
+                  <ce:para id="p0080" view="all">Thermal safety performance is of great importance to the practical application of rechargeable lithium batteries, the dimensional thermal stability and combustion tests were conducted to examine the thermal stability and flammability of as-obtained electrolyte membranes. As displayed in <ce:cross-ref refid="fig5" id="crosref0320">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>a, a slight dimensional shrinkage for the commercial PP separator emerges at 80 °C and a serious curl occurs under 120 °C, which can cause a short-circuit of the battery. When the temperature keeps going up to 160 °C and 200 °C, the PP separator starts to melt, indicating the poor dimensional stability of PP separator at high temperatures. However, for the PPAA-CPE membrane, the outstanding thermal stability is demonstrated by its almost constant shape under the temperature ranging from 25 °C to 200 °C. To further investigate their thermal safety performance, the electrolyte membranes with the same specification were both directly ignited by alcohol flame. A violent burning of the PEG-PFPE electrolyte membrane can be clearly seen in <ce:cross-ref refid="fig5" id="crosref0325">Fig. 5</ce:cross-ref>b, which was almost burned out within 5 s, indicating its high flammability. By contrast, the PPAA-CPE membrane under direct flame cannot be burned out over 11 s, suggesting its excellent thermal safety. Moreover, <ce:cross-ref refid="fig5" id="crosref0330">Fig. 5</ce:cross-ref>c shows that the lighted LED lamp and well-working electronic chronometer strongly demonstrate that the assembled solid-state lithium metal battery using PPAA-CPE possesses great potential in practical application.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="conclusion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0040">Conclusions</ce:section-title>
+                  <ce:para id="p0085" view="all">In this work, an ultrathin composite electrolyte (PPAA-CPE) with vertical Li<ce:sup loc="post">+</ce:sup> conduction pathways is rationally designed using an AAO template filled with PEG-PFPE polymer electrolyte to simultaneously improve the ionic conductivity, Li-ion transference number, and electrolyte/Li metal anode interface stability. The rapid Li<ce:sup loc="post">+</ce:sup> conductive nanochannels and Lewis acid-base effect brought by the AAO template greatly enhance the ionic conductivity to 1.2 × 10<ce:sup loc="post">−4</ce:sup> S cm<ce:sup loc="post">−1</ce:sup>, which is 24 times higher than that of the PEG-PFPE electrolyte. Meanwhile, the vertical channels also exert directional restriction on Li<ce:sup loc="post">+</ce:sup> transport, promoting uniform Li ion deposition on the Li metal surface during cycling. As a result, Li symmetrical cell based on PPAA-CPE can run stably for 1200 h without obvious dendrite growth. The improved interface stability and Li-ion conduction ability contribute to a high initial discharge capacity of 164.8 mAh g<ce:sup loc="post">−1</ce:sup> with superior capacity retention of 93.7 % after 100 cycles at 0.2 C for LiFePO<ce:inf loc="post">4</ce:inf> || PPAA || Li cell, while the discharge capacity of PEG-PFPE, and other CPEs reinforced by LLZTO and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> nanoparticles, drops rapidly due to the interfacial deterioration. Furthermore, the excellent thermal safety of PPAA-CPE is fully confirmed under high-temperature storing and flame tests. The prominent performance of PPAA-CPE indicates that the proposed strategy is promising for high-performance safe ASSLMBs.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:section-title id="sectitle0045">Author statement</ce:section-title>
+                  <ce:para id="p0090" view="all">Xiaobin Chen: Investigation, Writing-Original Draft; Wenchao Liao: Methodology, Validation, Investigation; Dazhu Chen: Resources, Supervision; Yanfei Huang: Writing - Review &amp; Editing, Supervision; Chen Liu: Conceptualization, Methodology, Writing - Original Draft, Writing - Review &amp; Editing, Supervision, Funding acquisition.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0050">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0095" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0055">Acknowledgements</ce:section-title>
+               <ce:para id="p0100" view="all">This work was financially supported by <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Basic and Applied Basic Research Project of Guangdong Province</ce:grant-sponsor> (<ce:grant-number refid="gs1">2022A1515011438</ce:grant-number>, <ce:grant-number refid="gs1">2023A1515011055</ce:grant-number>), <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Basic Research Project of the Science and Technology Innovation Commission of Shenzhen</ce:grant-sponsor> (<ce:grant-number refid="gs2">JCYJ20220531101013028</ce:grant-number>), <ce:grant-sponsor id="gs3" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Key Project of Shenzhen Basic Research</ce:grant-sponsor> (<ce:grant-number refid="gs3">JCYJ2022081800003006</ce:grant-number>). The authors appreciate Instrumental Analysis Center of Shenzhen University (Lihu Campus) for providing equipment for material characterization.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0060">Supplementary data</ce:section-title>
+                  <ce:para id="p0105" view="all">The following is the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Multimedia component 1</ce:label>
+                           <ce:alt-text role="short" id="alttext0015">Multimedia component 1</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0266353823004219/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0065">Supplementary data</ce:section-title>
+                  <ce:para id="p0110" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.compscitech.2023.110327" id="intref0010" xlink:type="simple">https://doi.org/10.1016/j.compscitech.2023.110327</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0070">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Dunn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kamath</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-M.</ce:given-name>
+                                 <ce:surname>Tarascon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical energy storage for the grid: a battery of choices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>334</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>928</sb:first-page>
+                              <sb:last-page>935</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1126/science.1212741</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0015">B. Dunn, H. Kamath, J.-M. Tarascon, Electrical energy storage for the grid: a battery of choices, Science. 334 (2011) 928-935. https://doi.org/10.1126/science.1212741.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reviving the lithium metal anode for high-energy batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>194</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/nnano.2017.16</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">D. Lin, Y. Liu, Y. Cui, Reviving the lithium metal anode for high-energy batteries, Nat. Nanotechnol. 12 (2017) 194-206. https://doi.org/10.1038/nnano.2017.16.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Practical challenges and future perspectives of all-solid-state lithium-metal batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>753</sb:first-page>
+                              <sb:last-page>785</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.chempr.2018.11.013</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">S. Xia, X. Wu, Z. Zhang, Y. Cui, W. Liu, Practical challenges and future perspectives of all-solid-state lithium-metal batteries, Chem. 5 (2019) 753-785. https://doi.org/10.1016/j.chempr.2018.11.013.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress and Perspective of ceramic/polymer composite solid electrolytes for lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1903088</sb:article-number>
+                           <ce:doi>10.1002/advs.201903088</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">S. Li, S. Zhang, L. Shen, Q. Liu, J. Ma, W. Lv, Y. He, Q. Yang, Progress and Perspective of ceramic/polymer composite solid electrolytes for lithium batteries, Adv. Sci. 7 (2020) 1903088. https://doi.org/10.1002/advs.201903088.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Adair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent advances and perspectives on thin electrolytes for high-energy-density solid-state lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>643</sb:first-page>
+                              <sb:last-page>671</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/d0ee02714f</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">X. Yang, K.R. Adair, X. Gao, X. Sun, Recent advances and perspectives on thin electrolytes for high-energy-density solid-state lithium batteries, Energy Environ. Sci. 14 (2020) 643-671. https://doi.org/10.1039/d0ee02714f.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.R.</ce:given-name>
+                                 <ce:surname>Zuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lipoic acid-assisted in situ integration of ultrathin solid-state electrolytes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3321</sb:first-page>
+                              <sb:last-page>3328</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsaem.2c03922</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">J.H. Deng, X.R. Zuo, H. Zhang, F. Fei, X. Zhou, L.Q. Mai, L. Xu, Lipoic acid-assisted in situ integration of ultrathin solid-state electrolytes, ACS Appl. Energy Mater. 6 (2023) 3321-3328. https://doi.org/10.1021/acsaem.2c03922.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Ning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Flexible electrochemical energy storage: the role of composite materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>108102</sb:article-number>
+                           <ce:doi>10.1016/j.compscitech.2020.108102</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">L.Y. Lin, H.M. Ning, S.F. Song, C.H. Xu, N. Hu, Flexible electrochemical energy storage: The role of composite materials, Compos Sci Technol 192 (2020) 108102. http://doi.org/10.1016/j.compscitech.2020.108102.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.Q.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polyethylene oxide/garnet-type Li<ce:inf loc="post">6.4</ce:inf>La<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1.4</ce:inf>Nb<ce:inf loc="post">0.6</ce:inf>O<ce:inf loc="post">12</ce:inf> composite electrolytes with improved electrochemical performance for solid state lithium rechargeable batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>28</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.compscitech.2019.02.030</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">K.Q. He, C.L. Chen, R. Fan, C. Liu, C.Z. Liao, Y. Xu, J.N. Tang, R.K.Y. Li, Polyethylene oxide/garnet-type Li6.4La3Zr1.4Nb0.6O12 composite electrolytes with improved electrochemical performance for solid state lithium rechargeable batteries, Compos Sci Technol 175 (2019) 28-34. http://doi.org/10.1016/j.compscitech.2019.02.030.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.S.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Q.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dual-salt effect on polyethylene oxide/Li<ce:inf loc="post">6.4</ce:inf>La<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1.4</ce:inf>Ta<ce:inf loc="post">0.6</ce:inf>O<ce:inf loc="post">12</ce:inf> composite electrolyte for solid-state lithium metal batteries with superior electrochemical performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>210</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1008837</sb:article-number>
+                           <ce:doi>10.1016/j.compscitech.2021.108837</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">F.Y. Zhu, S.H.S. Cheng, Y. Xu, W.C. Liao, K.Q. He, D.Z. Chen, C.Z. Liao, X. Cheng, J.N. Tang, R.K.Y. Li, C. Liu, Dual-salt effect on polyethylene oxide/ Li6.4La3Zr1.4Ta0.6O12 composite electrolyte for solid-state lithium metal batteries with superior electrochemical performance, Compos Sci Technol 210 (2021) 1008837. http://doi.org/10.1016/j.compscitech.2021.108837.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Ju</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ polymerization permeated three-dimensional Li<ce:sup loc="post">+</ce:sup>-percolated porous oxide ceramic framework boosting all solid-state lithium metal battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>2003887</sb:article-number>
+                           <ce:doi>10.1002/advs.202003887</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Y.Y. Yan, J.W. Ju, S.M. Dong, Y.T. Wang, L. Huang, L.F. Cui, F. Jiang, Q.L. Wang, Y.F. Zhang, G.L. Cui, In situ polymerization permeated three-dimensional Li+-percolated porous oxide ceramic framework boosting all solid-state lithium metal battery, Adv. Sci. 8 (2021) 2003887. http://doi.org/10.1002/advs.202003887.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.P.</ce:given-name>
+                                 <ce:surname>Zha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Ruan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ fabricated ceramic/polymer hybrid electrolyte with vertically aligned structure for solid-state lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Storage Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ensm.2020.12.028</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">W.P. Zha, W.W. Li, Y.D. Ruan, J.C. Wang, Z.Y. Wen, In situ fabricated ceramic/polymer hybrid electrolyte with vertically aligned structure for solid-state lithium batteries, Energy Stor. Mater. 36 (2021) 171-178. http://doi.org/10.1016/j.ensm.2020.12.028.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pastel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Wachsman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Flexible solid-state electrolyte with aligned nano-structures derived from wood</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>354</sb:first-page>
+                              <sb:last-page>361</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsmaterialslett.9b00189</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">J.Q. Dai, K. Fu, Y.H. Gong, J.W. Song, C.J. Chen, Y.G. Yao, G. Pastel, L. Zhang, E. Wachsman, L.B. Hu, Flexible solid-state electrolyte with aligned nano-structures derived from wood, ACS Mater. Lett. 1 (2019) 354-361. http://doi.org/10.1021/acsmaterialslett.9b00189.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Zhai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Y.</ce:given-name>
+                                 <ce:surname>Qie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Borovilas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Q.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.B.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>cX.D.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.K.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dontigny</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zaghib</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rechargeable solid-state lithium metal batteries with vertically aligned ceramic nanoparticle/polymer composite electrolyte</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.nanoen.2019.03.051</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">X. Wang, H.W. Zhai, B.Y. Qie, Q. Cheng, A.J. Li, J. Borovilas, B.Q. Xu, C.M. Shi, T.W. Jin, X.B. Liao, Y.B. Li, cX.D. He, S.Y. Du, Y.K. Fu, M. Dontigny, K. Zaghib, Y. Yang, Rechargeable solid-state lithium metal batteries with vertically aligned ceramic nanoparticle/polymer composite electrolyte, Nano Energy 60 (2019) 205-212. http://doi.org/10.1016/j.nanoen.2019.03.051.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ruiz-Clavijo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Caballero-Calero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Martin-Gonzalez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Revisiting anodic alumina templates: from fabrication to applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2227</sb:first-page>
+                              <sb:last-page>2265</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/d0nr07582e</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">A. Ruiz-Clavijo, O. Caballero-Calero, M. Martin-Gonzalez, Revisiting anodic alumina templates: From fabrication to applications, Nanoscale 13 (2021) 2227-2265. http://doi.org/10.1039/d0nr07582e.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.C.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Thelen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Devaux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Pandya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.S.</ce:given-name>
+                                 <ce:surname>Battaglia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Balsara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>DeSimone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nonflammable perfluoropolyether-based electrolytes for lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. U.S.A.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3327</sb:first-page>
+                              <sb:last-page>3331</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1073/pnas.1314615111</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">D.H.C. Wong, J.L. Thelen, Y.B. Fu, D. Devaux, A.A. Pandya, V.S. Battaglia, N.P. Balsara, J.M. DeSimone, Nonflammable perfluoropolyether-based electrolytes for lithium batteries, Proc. Natl. Acad. Sci. U.S.A. 111 (2014) 3327-3331. http://doi.org/10.1073/pnas.1314615111.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Priola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bongiovanni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Malucelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pollicino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Tonelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Simeone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Uv-curable systems containing perfluoropolyether structures: synthesis and characterisation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromol. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>198</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1893</sb:first-page>
+                              <sb:last-page>1907</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/macp.1997.021980618</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">A. Priola, R. Bongiovanni, G. Malucelli, A. Pollicino, C. Tonelli, G. Simeone, Uv-curable systems containing perfluoropolyether structures: Synthesis and characterisation, Macromol Chem Phys 198 (1997) 1893-1907. http://doi.org/10.1002/macp.1997.021980618.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.K.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Betts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pandya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Hillmyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>DeSimone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optically transparent, amphiphilic networks based on blends of perfluoropolyetherrs and poly(ethylene glycol)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>130</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14244</sb:first-page>
+                              <sb:last-page>14252</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/ja803991n</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Z.K. Hu, L. Chen, D.E. Betts, A. Pandya, M.A. Hillmyer, J.M. DeSimone, Optically transparent, amphiphilic networks based on blends of perfluoropolyetherrs and poly(ethylene glycol), J. Am. Chem. Soc. 130 (2008) 14244-14252. http://doi.org/10.1021/ja803991n.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Weng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.H.</ce:given-name>
+                                 <ce:surname>Mahmoud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.Y.</ce:given-name>
+                                 <ce:surname>Elnaggar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.H.</ce:given-name>
+                                 <ce:surname>El Azab</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.X.</ce:given-name>
+                                 <ce:surname>Sheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>El-Bahy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of novel biomass hybrid aerogel supported composite phase change materials with improved light-thermal conversion and thermal energy storage capacity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Compos. Hybrid Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1910</sb:first-page>
+                              <sb:last-page>1921</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s42114-022-00519-x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">D. Wei, M.M. Weng, M.H.H. Mahmoud, A.Y. Elnaggar, I.H. El Azab, X.X. Sheng, M.N. Huang, Z.M. El-Bahy, J.T. Huang, Development of novel biomass hybrid aerogel supported composite phase change materials with improved light-thermal conversion and thermal energy storage capacity, Adv. Compos. Hybrid Mater. 5 (2022) 1910-1921. http://doi.org/10.1007/s42114-022-00519-x.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Villaluenga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Wujcik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Devaux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.C.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>DeS-imone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Balsara</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compliant glass-polymer hybrid single ion-conducting electrolytes for lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. U.S.A.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>52</sb:first-page>
+                              <sb:last-page>57</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1073/pnas.1520394112</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">I. Villaluenga, K.H. Wujcik, W. Tong, D. Devaux, D.H.C. Wong, J.M. DeS-imone, N.P. Balsara, Compliant glass-polymer hybrid single ion-conducting electrolytes for lithium batteries, Proc. Natl. Acad. Sci. U.S.A. 113 (2016) 52-57. http://doi.org/10.1073/pnas.1520394112.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Xi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Abdelkader</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.V.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Expanding the active charge carriers of polymer electrolytes in lithium-based batteries using an anion-hosting cathode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3209</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/s41467-022-30788-5</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Z.J. Sun, K. Xi, J. Chen, A. Abdelkader, M.Y. Li, Y.Y. Qin, Y. Lin, Q. Jiang, Y.Q. Su, R.V. Kumar, S.J. Ding, Expanding the active charge carriers of polymer electrolytes in lithium-based batteries using an anion-hosting cathode, Nat. Commun. 13 (2022) 3209. http://doi.org/10.1038/s41467-022-30788-5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Persi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Croce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Greenbaum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Plichta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of ion transport in polymer electrolytes by addition of nanoscale inorganic oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97–8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>644</sb:first-page>
+                              <sb:last-page>648</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/S0378-7753(01)00748-0</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">S.H. Chung, Y. Wang, L. Persi, F. Croce, S.G. Greenbaum, B. Scrosati, E. Plichta, Enhancement of ion transport in polymer electrolytes by addition of nanoscale inorganic oxides, J. Power Sources 97-8 (2001) 644-648. http://doi.org/10.1016/S0378-7753(01)00748-0.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.Y.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Fici</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Laine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kieffer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lithium ion conduc-ting poly(ethylene oxide)-based solid electrolytes containing active or passive ceramic nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>121</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2563</sb:first-page>
+                              <sb:last-page>2573</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acs.jpcc.6b11136</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">W.M. Wang, E.Y. Yi, A.J. Fici, R.M. Laine, J. Kieffer, Lithium ion conduc-ting poly(ethylene oxide)-based solid electrolytes containing active or passive ceramic nanoparticles, J. Phys. Chem. C 121 (2017) 2563-2573. http://doi.org/10.1021/acs.jpcc.6b11136.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

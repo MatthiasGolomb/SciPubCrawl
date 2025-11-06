@@ -1,0 +1,660 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Nano</journal-id><journal-id journal-id-type="iso-abbrev">ACS Nano</journal-id><journal-id journal-id-type="publisher-id">nn</journal-id><journal-id journal-id-type="coden">ancac3</journal-id><journal-title-group><journal-title>ACS Nano</journal-title></journal-title-group><issn pub-type="ppub">1936-0851</issn><issn pub-type="epub">1936-086X</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11191740</article-id><article-id pub-id-type="pmid">38833631</article-id>
+<article-id pub-id-type="doi">10.1021/acsnano.4c05002</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Quasi-Solid-State
+Electrolyte Induced by Metallic
+MoS<sub>2</sub> for Lithium&#x02013;Sulfur Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8154-1287</contrib-id><name><surname>Li</surname><given-names>Zhuangnan</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0002-0442-0080</contrib-id><name><surname>Yang</surname><given-names>Ziwei Jeffrey</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Moloney</surname><given-names>James</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1423-5244</contrib-id><name><surname>Yu</surname><given-names>Craig P.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8183-4044</contrib-id><name><surname>Chhowalla</surname><given-names>Manish</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Materials Science and Metallurgy, <institution>University
+of Cambridge</institution>, Cambridge CB3 0FS, <country>U.K.</country></aff><aff id="aff2"><label>&#x02021;</label>Yusuf
+Hamied Department of Chemistry, <institution>University
+of Cambridge</institution>, Cambridge CB2 1EW, <country>U.K.</country></aff><aff id="aff3"><label>&#x000a7;</label>Cavendish
+Laboratory, <institution>University of Cambridge</institution>, Cambridge CB3 0HE, <country>U.K.</country></aff><aff id="aff4"><label>&#x02225;</label><institution>The
+Faraday Institution</institution>, Quad One, Harwell Campus, Didcot OX11 0RA, <country>U.K.</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>mc209@cam.ac.uk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>06</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>18</day><month>06</month><year>2024</year></pub-date><volume>18</volume><issue>24</issue><fpage>16041</fpage><lpage>16050</lpage><history><date date-type="received"><day>16</day><month>04</month><year>2024</year></date><date date-type="accepted"><day>23</day><month>05</month><year>2024</year></date><date date-type="rev-recd"><day>16</day><month>05</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_0007" id="ab-tgr1"/></p><p>Lithium&#x02013;sulfur
+(Li&#x02013;S) batteries are a promising high-energy-density
+technology for next-generation energy storage but suffer from an inadequate
+lifespan. The poor cycle life of Li&#x02013;S batteries stems from
+their commonly adopted catholyte-mediated operating mechanism, where
+the shuttling of dissolved polysulfides results in active material
+loss on the sulfur cathode and surface corrosion on the lithium anode.
+Here, we report <italic>in situ</italic> formation of a quasi-solid-state
+electrolyte (QSSE) on the metallic 1T phase molybdenum disulfide (MoS<sub>2</sub>) host that extends the lifetime of Li&#x02013;S batteries.
+We find that the metallic 1T phase MoS<sub>2</sub> host is able to
+initiate the ring-opening polymerization of 1,3-dioxolane (DOL), forming
+an integrated QSSE inside batteries. Nuclear magnetic resonance analysis
+reveals that the QSSE consists of &#x0223c;13% liquid DOL in a solid
+polymer matrix. The QSSE efficiently mediates sulfur redox reactions
+through dissolution&#x02013;conversion chemistry while simultaneously
+suppressing polysulfide shuttling. Therefore, while ensuring high
+sulfur utilization, it avoids degradation of both electrodes, as well
+as the concomitant electrolyte consumption, leading to enhanced cycling
+stability. Under a practical lean electrolyte condition (electrolyte-to-sulfur
+ratio = 2 &#x003bc;L mg<sup>&#x02013;1</sup>), Li&#x02013;S pouch cell
+batteries with the QSSE demonstrate a capacity retention of 80.7%
+after 200 cycles, much superior to conventional liquid electrolyte
+cells that fail within 70 cycles. The QSSE also enables Li&#x02013;S
+pouch cell batteries to operate across a wider temperature range (5
+to 45 &#x000b0;C), together with improved safety under mechanical damage.</p></abstract><kwd-group><kwd>2D MoS<sub>2</sub></kwd><kwd>Metallic 1T phase</kwd><kwd>Quasi-solid-state
+electrolyte</kwd><kwd>Li&#x02212;S battery</kwd><kwd>Cycle life</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Henry Royce Institute</institution><institution-id institution-id-type="doi">10.13039/100016128</institution-id></institution-wrap></funding-source><award-id>EP/R00661X/1</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>King''s College Cambridge, University of Cambridge</institution><institution-id institution-id-type="doi">10.13039/501100000648</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Engineering and Physical Sciences Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000266</institution-id></institution-wrap></funding-source><award-id>EP/T001038/1</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Engineering and Physical Sciences Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000266</institution-id></institution-wrap></funding-source><award-id>EP/L016087/1</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Faraday Institution</institution><institution-id institution-id-type="doi">10.13039/100017146</institution-id></institution-wrap></funding-source><award-id>FIRG014</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Faraday Institution</institution><institution-id institution-id-type="doi">10.13039/100017146</institution-id></institution-wrap></funding-source><award-id>FIRG012</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Faraday Institution</institution><institution-id institution-id-type="doi">10.13039/100017146</institution-id></institution-wrap></funding-source><award-id>EP/S003053/1</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>nn4c05002</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>nn4c05002</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">Lithium&#x02013;sulfur (Li&#x02013;S)
+batteries could be an alternative to lithium-ion energy storage systems
+due to their high theoretical energy density (&#x0223c;2600 Wh kg<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Unlike intercalation-type lithium-ion
+batteries, Li&#x02013;S batteries operate via the chemical reaction
+between a sulfur cathode and a lithium metal anode.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> The 16-electron transfer process in Li&#x02013;S
+batteries usually involves multiple steps. That is, the sulfur cathode
+dissolves into the ether-based electrolyte to form soluble lithium
+polysulfides, which undergo liquid phase conversion and precipitate
+into solid lithium sulfide.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Such dissolution&#x02013;precipitation
+chemistry promotes reaction kinetics but causes the shuttling effect.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> Polysulfide shuttling triggers a series of unfavorable effects in
+Li&#x02013;S batteries.<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup> For example, it leads to the loss of active material from the sulfur
+cathode. The reactive polysulfide species can also corrode the lithium
+metal anode while concomitantly depleting the electrolyte to repair
+the solid electrolyte interphase (SEI).<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> These undesirable processes from the shuttling effect
+result in premature battery failure, particularly in realistic Li&#x02013;S
+pouch cell batteries where limited excessive anodes (low negative-to-positive,
+N/P, ratio) and electrolyte (low electrolyte-to-sulfur, E/S, ratio)
+are used.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> As a consequence, Li&#x02013;S
+pouch cell batteries in the literature rarely run beyond 100 cycles
+under practical working conditions.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>Strategies have been developed to suppress polysulfide shuttling
+to improve cycling stability of Li&#x02013;S batteries.<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> Porous carbons are widely used as sulfur hosts because they provide
+physical confinement of dissolved polysulfides within the cathode.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> However, high-porosity carbons require excessive electrolyte, which
+adds weight but does not contribute to capacity, thus reducing the
+energy density.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> The incorporation of polar sites is commonly
+used to enhance the chemical adsorption of polysulfides on the cathode.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> Catalytically active redox mediators are also used to promote electrocatalysis
+at the cathode&#x02013;electrolyte interface.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> While progress has been made on the cathode side, the instability
+of the anode limits the lifespan of Li&#x02013;S batteries.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> In addition to corrosion due to polysulfide shuttling, other challenges
+related to lithium metal anodes persist. These include dendrite formation,
+dead lithium, unstable SEI, and structural pulverization.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> Solid-state electrolytes (SSEs) can address the challenges of a
+pure lithium anode.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref21">21</xref></sup> However, SSEs generally possess low ionic conductivity
+and large interfacial resistance compared to liquid electrolytes (LEs).<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> More importantly for Li&#x02013;S batteries,
+the compatibility of SSEs with sulfur cathodes is poor, which reduces
+sulfur utilization.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> This is because the
+insulating nature of both sulfur and lithium sulfide results in a
+high solid to solid conversion kinetic barrier.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> For this reason, Li&#x02013;S chemistry relies
+on the catholyte-mediated reaction mechanisms.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Therefore,
+while an enhancement in cycle life might be feasible, high energy
+density Li&#x02013;S batteries with SSEs are challenging.</p><p>In
+this work, we report the realization of considerably stable
+Li&#x02013;S batteries using a quasi-solid-state electrolyte (QSSE)
+induced by a metallic 1T phase molybdenum disulfide (1T MoS<sub>2</sub>) host. The QSSE is formed <italic>in situ</italic> and thereby well
+integrated into the battery, addressing the interfacial resistance
+problem resulting from poor contact. In contrast to SSEs, such a QSSE
+contains a small fraction of liquid solvents, which ensures adequate
+Li<sup>+</sup> ion transport. More importantly, the liquid regions
+enable the dissolution-based polysulfide reaction pathways, rendering
+faster redox kinetics relative to the solid&#x02013;solid conversion
+route. Furthermore, while achieving facile charge transfer in solution,
+the high viscosity of the QSSE suppresses polysulfide shuttling and
+thus mitigates corrosion of lithium metal anodes. Li&#x02013;S pouch
+cells using a QSSE deliver comparable specific capacity to those with
+conventional electrolytes, but exhibit over 3-fold longer cycle life,
+retaining &#x0003e;80% of the initial capacity after 200 cycles. The QSSE-based
+Li&#x02013;S batteries also show stable operation over an extended
+temperature range and superior safety under mechanical damage, making
+them potentially feasible for practical applications.</p><sec id="sec2"><title>Results and Discussion</title><p>Synthesis of the QSSE is underpinned by the ring-opening polymerization
+of 1,3-dioxolane (DOL). This reaction has been studied for over 60
+years and is typically initiated by a Lewis acid.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> However, the initiators usually remain as impurities in the electrolyte
+or require further purification steps during battery manufacturing.
+Unlike conventional routes, we use the sulfur host material&#x02014;1T
+MoS<sub>2</sub>&#x02014;to initiate the polymerization of liquid DOL
+precursor inside the assembled cells. This <italic>in situ</italic> induced polymerization is facile, high in purity, and produces an
+excellent interface between the electrode and electrolyte (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">Figures S1 and S2</ext-link>), leading to low interfacial
+resistance.</p><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a illustrates
+a cationic ring-opening polymerization reaction initiated by MoS<sub>2</sub>-based cathodes. Specifically, the Lewis acidic Mo site in
+MoS<sub>2</sub> interacts with the bis(trifluoromethanesulfonyl)imide
+(TFSI<sup>&#x02013;</sup>) anion in the electrolyte, creating an electron-deficient
+N center. Subsequently, the electron of the adjacent S atom is transferred
+to the electropositive N site due to the relatively high electronegativity
+of the N atom. This in turn generates a sulfonyl leaving group and
+a residual electron-deficient S center. The electropositive S site
+is then attacked by the lone-pair electron of the O atom in DOL, forming
+an oxonium ion that initiates the ring-opening polymerization of DOL
+monomers. As the polymer chains grow, the electrolyte transforms from
+its original liquid state to an immovable solid. It is noteworthy
+that the ring-opening reaction is primarily associated with ring strain
+and therefore will be greatly affected by the composition of the electrolyte.
+For example, the ring-opening polymerization of DOL is inhibited in
+electrolyte-containing lithium nitrate (LiNO<sub>3</sub>) due to the
+strong coordination between DOL and LiNO<sub>3</sub> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">Figure S3</ext-link>).<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> In addition,
+we attribute the activation of polymerization to the Lewis acidic
+site produced by the interaction between MoS<sub>2</sub> and TFSI<sup>&#x02013;</sup>, rather than to the Mo atom in MoS<sub>2</sub>. This
+is because, although MoS<sub>2</sub> is capable of inducing the ring-opening
+polymerization, the presence of TFSI<sup>&#x02013;</sup> anions in
+the electrolyte renders higher Lewis acidity and consequently accelerates
+such a reaction (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">Figure S3</ext-link>). A similar
+mechanism has been proposed previously, in which the reduction in
+electrochemical performance was ascribed to a gel layer covering the
+surface of MoS<sub>2</sub>.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Here we show
+that the gelation process can be controlled by tuning the intrinsic
+properties of MoS<sub>2</sub>, leading to a well-integrated QSSE that
+substantially enhances the cycling stability of Li&#x02013;S batteries.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Preparation
+of the QSSE. (a) Reaction mechanism illustrating the
+ring-opening polymerization initiated by MoS<sub>2</sub>-based cathodes.
+It can be seen that the interaction between the TFSI<sup>&#x02013;</sup> anion and MoS<sub>2</sub> generates an electron-deficient center,
+which is attacked by the lone-pair electron in DOL, triggering the
+ring-opening reaction. (b) Raman spectra of 1T MoS<sub>2</sub> and
+2H MoS<sub>2</sub>. The <italic>A</italic><sub>1<italic>g</italic></sub> and <italic>E</italic><sub>2<italic>g</italic></sub><sup>1</sup> peaks are the feature of the semiconducting 2H phase, while the <italic>J</italic>-series peaks indicate the presence of the metallic 1T
+phase. (c) High-resolution XPS spectra of N 1<italic>s</italic>, revealing
+a weaker interaction (peak at &#x0223c;395.5 eV) between 1T MoS<sub>2</sub> and TFSI<sup>&#x02013;</sup> anions compared to 2H MoS<sub>2</sub>. (d) Photographs of the original LE, and QSSE induced by
+metallic 1T MoS<sub>2</sub>, showing the initially fluid LE transforms
+into the immovable and transparent QSSE upon polymerization.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_0001" id="gr1" position="float"/></fig><p>MoS<sub>2</sub> is layered and exists in the semiconducting
+2H
+phase (2H MoS<sub>2</sub>).<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> As described in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, 2H MoS<sub>2</sub> with strong Lewis acidity can readily initiate the ring-opening
+polymerization in typical Li&#x02013;S LEs that contain DOL and TFSI<sup>&#x02013;</sup>, yielding a polymer-based SSE. Chemical treatment
+of semiconducting 2H MoS<sub>2</sub> by organolithium enables its
+transformation into the metallic 1T phase (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b and <xref rid="sec4" ref-type="other">Experimental Methods</xref>), during which an electron is donated to the MoS<sub>2</sub> structure
+from the organic group.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> The extra electron
+partially neutralizes the Lewis acidity of 1T MoS<sub>2</sub>, and
+thus weakens its interaction with TFSI<sup>&#x02013;</sup> anions compared
+to 2H MoS<sub>2</sub> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). Consequently, the polymerization process initiated by
+1T MoS<sub>2</sub> terminates at a lower reaction degree than that
+with 2H MoS<sub>2</sub>, producing a transparent QSSE (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d), a polymer framework incorporating
+a portion of unpolymerized liquid. The fraction of the unreacted liquid
+can be estimated with nuclear magnetic resonance (NMR). Specifically,
+in <sup>1</sup>H NMR spectra (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a), the LE shows chemical shifts at 3.87 and 4.90 ppm,
+representing the H atoms on the DOL monomer ring. After the ring-opening
+reaction, new peaks corresponding to the H sites on the polymer chain
+appear at 3.73 and 4.76 ppm for both the QSSE and SSE. It can be seen
+that partial liquid DOL remains in the QSSE, while it is negligible
+in the SSE. Integrating the peak area reveals that the unpolymerized
+original DOL fraction in QSSE is &#x0223c;13%. These structural changes
+have been further confirmed by Raman spectroscopy (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b) and Fourier-transform infrared
+spectroscopy (FTIR) (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), where both the QSSE and SSE exhibit C&#x02013;O chain stretching
+in lieu of the C&#x02013;O&#x02013;C ring vibration observed in LE.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Structural
+characterization of different electrolytes. (a) <sup>1</sup>H NMR
+spectra with the relative hydrogens labeled on the molecular
+structures and chemical shifts, indicating that the QSSE incorporates
+a portion of the unpolymerized liquid into its polymer framework.
+(b, c) Raman (b) and FTIR (c) spectra with characteristics of liquid
+monomer, solid polymer, and electrolyte salt shaded in blue, yellow,
+and gray colors, accordingly. It can be seen that the QSSE exhibits
+solid-like properties. (d) Number-average molecular weight of different
+electrolytes and their corresponding degree of polymerization, showing
+that the QSSE possesses a 10-fold lower polymerization degree compared
+with the SSE. (e) Weight as a function of time for different electrolytes
+leaving in an uncapped vial (inset), suggesting superior resistance
+of the QSSE against volatilization loss.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_0002" id="gr2" position="float"/></fig><p>In addition to the unpolymerized liquid fraction, the solid products
+in the QSSE possess a lower degree of polymerization compared to those
+in the SSE. More specifically, polymers after purification were investigated
+by gel permeation chromatography (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d). The number-average molecular weight (<italic>M</italic><sub>n</sub>) of the QSSE was determined to be &#x0223c;3300
+g mol<sup>&#x02013;1</sup>, which is more than an order of magnitude
+smaller than that of the SSE (&#x0223c;53700 g mol<sup>&#x02013;1</sup>), suggesting over 10-fold lower polymerization degree (<italic>M</italic><sub>n</sub>/<italic>M</italic><sub>0</sub>, <italic>M</italic><sub>0</sub> is the weight of a monomer unit). Furthermore, by formation
+of the polymer framework, the QSSE greatly enhances its resistance
+against volatilization. That is, unlike the LE, which has a weight
+loss of &#x0223c;45% within 24 h under ambient conditions (25 &#x000b0;C,
+atmospheric pressure), the QSSE retains around 89% of its initial
+weight (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e).</p><p>The electrochemical properties of the QSSE were investigated by
+understanding its role in Li&#x02013;S chemistry on the cathode (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>) and anode (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). To evaluate the
+effect on sulfur-based cathodes, we assembled a series of coin cells
+with different electrolytes (<xref rid="sec4" ref-type="other">Experimental Methods</xref>). In these cells, QSSEs and SSEs were formed <italic>in situ</italic> by employing 1T MoS<sub>2</sub> and 2H MoS<sub>2</sub> initiators
+as the sulfur host material, respectively. For LE, to maintain its
+liquid state, LiNO<sub>3</sub> was introduced as an additive to inhibit
+ring-opening polymerization. In addition, we kept both the electrolyte
+(E/S ratio = 15 &#x003bc;L mg<sup>&#x02013;1</sup>) and the anode (400
+&#x003bc;m thickness) in excess for testing the limits of the cathode
+performance.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>The role of the QSSE on sulfur-based cathodes. (a) Galvanostatic
+charge&#x02013;discharge curves of Li&#x02013;S coin cells with different
+electrolytes at a current density of 0.1 C. (b) Cyclic voltammetry
+curves of Li&#x02013;S coin cells with different electrolytes at a
+scan rate of 0.1 mV s<sup>&#x02013;1</sup>. It can be seen in both
+GCD and CV curves that the QSSE enables the sulfur-based cathode to
+operate with the catholyte-mediated mechanism. (c) Permeation behavior
+of Li<sub>2</sub>S<sub>6</sub> in LE and QSSE for 10 h, showing restricted
+migration of polysulfides in the QSSE. (d) Open-circuit voltage of
+assembled Li&#x02013;S coin cells with different electrolytes, indicating
+low self-discharge and a long shelf life of QSSE-based cells. (e)
+Cycling stability of Li&#x02013;S coin cells with different electrolytes.
+All cells were paused at 2.1 V of their 11th discharge process and
+rested for 10 days before resuming.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_0003" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>The role
+of the QSSE on lithium metal anodes. (a) Coulombic efficiency
+of the Li stripping and plating process in asymmetric Li||Cu cells
+with different electrolytes. (b) Photographs of the lithium metal
+anodes after adding Li<sub>2</sub>S<sub>6</sub> to the cells with
+different electrolytes, indicating greatly mitigated anode corrosion
+by the QSSE and SSE. (c) Long-term cycling performance of symmetric
+Li cells with different electrolytes. (d) Nyquist plots of symmetric
+Li cells with different electrolytes after 200 cycles, showing the
+smallest resistance of QSSE-based cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_0004" id="gr4" position="float"/></fig><p>Galvanostatic charge&#x02013;discharge (GCD) curves of the Li&#x02013;S
+cells with the QSSE exhibit two discharge plateaus at 2.4 and 2.1
+V (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a), similar
+to those with the LE, suggesting a typical catholyte-mediated mechanism.
+Considering that the dissolution of polysulfides in the electrolyte
+is primarily ascribed to the 1,2-dimethoxyethane (DME) solvent,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> the presence of two characteristic plateaus
+indicates that the cathode surface is still accessible to DME in the
+QSSE. In comparison, plateaus are less obvious in GCD curves of cells
+with the SSE, revealing that DME cannot access the cathode in the
+SSE, and thus the cells have to undergo a solid&#x02013;solid sulfur
+conversion reaction. We attribute this difference to the retention
+of unpolymerized DOL in the QSSE, which is known to be highly compatible
+with DME.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> As a consequence, sulfur cathodes
+in the QSSE through a dissolution-based stepwise reaction pathway
+deliver a specific capacity of 1146 mAh g<sup>&#x02013;1</sup> at 0.1C,
+much higher than the cathodes in the SSE (723 mAh g<sup>&#x02013;1</sup>) and even comparable to those in the LE (1180 mAh g<sup>&#x02013;1</sup>). Cyclic voltammetry (CV) results of the QSSE-based cells also exhibit
+two representative cathodic peaks and one anodic peak (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b), consistent with the GCD
+profiles. Moreover, sulfur redox kinetics studied by Li<sub>2</sub>S deposition and Li<sub>2</sub>S<sub>6</sub> conversion further confirm
+that the QSSE enables similar electrochemical behavior to that of
+the LE (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">Figure S4</ext-link>).</p><p>Dissolution of
+polysulfides is responsible for the high specific
+capacity of cathodes, but it is generally the root of the shuttling
+effect that results in poor cycling stability.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> In our QSSE, while allowing the catholyte-mediated Li&#x02013;S chemistry,
+the polymer framework prevents polysulfides from penetrating through
+the electrolyte, and thereby adequately suppresses their shuttling
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c). In addition,
+the confinement of polysulfides to the cathode side ensures the low
+self-discharge rate and long shelf life of QSSE-based Li&#x02013;S
+batteries. It can be seen in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d that the open-circuit voltage (OCV) of freshly assembled
+cells with LE drops by 0.08 V (from 2.43 V to 2.35 V) after resting
+for 30 days and further decreases to below 2.3 V over 100 days. In
+this regard, QSSE-based cells show an OCV drop of only 0.01 V (from
+2.41 V to 2.4 V) after 30 days and remains above 2.38 V after 180
+days. The self-discharge current in the QSSE is also consistently
+lower across all the OCVs compared to the LE (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">Figure S5</ext-link>). Such a reduction in self-discharge behavior and
+extension of shelf life with QSSE are crucial for practical application
+of Li&#x02013;S batteries. This is because Li&#x02013;S batteries generally
+possess poor static electrochemical stability, suffering from severe
+self-discharge with a capacity decay of over 50% in a month,<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> which has hindered their real-world feasibility.
+To further evaluate self-discharge, more realistic measurements were
+carried out by pausing discharged cells at 2.1 V, where the polysulfides
+are most concentrated. After 10 days, the resumed Li&#x02013;S cells
+with the QSSE demonstrate a capacity loss of 4% (comparable to commercial
+Li-ion batteries: &#x0003c;3% per month) in subsequent cycles, much smaller
+than the &#x0223c;17% loss with the LE.</p><p>To investigate the role
+of the QSSE on the anode side, we assembled
+asymmetric Li||Cu cells and measured their galvanostatic polarization
+behavior at 1 mA cm<sup>&#x02013;2</sup>. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a shows that the Coulombic efficiency of
+cells with LE fades rapidly after 50 cycles of Li stripping and plating.
+We ascribe this to the instability of the SEI formed from the LE,
+which fractures in each cycle and is repaired by continuously consuming
+the electrolyte. In contrast, cells with the QSSE and SSE are stable
+for more than 100 cycles. A comparably low and fluctuating Coulombic
+efficiency is observed in the SSE due to its relatively poor ionic
+conductivity. Moreover, the SEI formed in polymer-based electrolytes
+(QSSE and SSE) also provides better protection to the lithium metal
+anode from parasitic reactions&#x02014;for example, the shuttling effect&#x02014;than
+that in the conventional LE. This enhanced protection is demonstrated
+by the lower degree of anode corrosion when Li<sub>2</sub>S<sub>6</sub> was added to the cells (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b). The long-term reversibility of Li stripping and
+plating in different electrolytes was further evaluated in symmetric
+Li cells. As seen in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c, the polarization in the SSE is consistently higher than
+that in the LE and QSSE during the initial 150 cycles. This is associated
+with the lower ionic conductivity, in agreement with results from
+asymmetric Li||Cu cells. It is noteworthy that the polarization in
+the LE and QSSE are similar initially, but a gradual increase in overpotential
+is observed in LE-based cells with cycling. The higher overpotential
+means that a larger driving force is required to strip and plate Li
+in each cycle, which is unfavorable for Li deposition. Such a process
+is generally believed to result in uncontrolled lithium growth, accumulation
+of dead lithium, and ultimately internal short circuits.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> In comparison, cells using the
+QSSE operate stably for more than 400 h, together with the smallest
+resistance after cycling (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d), suggesting better compatibility of the QSSE with
+the lithium metal anodes.</p><p>The above results provide structural
+information about the QSSE
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>), along with
+its role on the cathode (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>) and anode (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>) in Li&#x02013;S chemistry. Building on these findings,
+we fabricated pouch cell level Li&#x02013;S batteries with the <italic>in situ</italic> formed QSSE (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Fabrication of QSSE-based Li&#x02013;S pouch cells. (a,
+b) Galvanostatic
+charge&#x02013;discharge curves of Li&#x02013;S pouch cells with the
+LE (a) and QSSE (b) at a current density of 0.05 C under various temperatures.
+It can be seen that QSSE-based cells operate stably at these temperatures.
+(c) Specific capacities of Li&#x02013;S pouch cells with the LE (under
+25 &#x000b0;C) and QSSE (under 25 and 45 &#x000b0;C) at different current
+densities. (d) Cycling stability of Li&#x02013;S pouch cells with the
+LE (under 25 &#x000b0;C) and QSSE (under 25 and 45 &#x000b0;C) at a current
+density of 0.1 C, exhibiting &#x0003e;80% capacity retention of QSSE-based
+cells over 200 cycles. The inset photograph shows light-emitting diodes
+powered by a QSSE-based Li&#x02013;S pouch cell under mechanical damage.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_0005" id="gr5" position="float"/></fig><p>As a high-energy-density energy storage technology,
+Li&#x02013;S
+batteries have been broadly considered as a suitable power supply
+for applications such as drones and low-orbit satellites.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> To this end, a wide operating temperature range is desirable for
+Li&#x02013;S batteries. However, this is intrinsically challenging
+with conventional LEs due to the severe shuttling effect at high temperatures
+and sluggish reaction kinetics at low temperatures.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> We therefore sought to extend the working
+temperature range of Li&#x02013;S batteries using the QSSE. It can
+be seen in the GCD curves that both Li&#x02013;S pouch cell batteries
+with the LE and QSSE exhibit a specific capacity of &#x0223c;1050 mAh
+g<sup>&#x02013;1</sup> at room temperature (25 &#x000b0;C) (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a and b). At 45 &#x000b0;C, although
+LE-based pouch cells show enhanced reaction kinetics (smaller polarization
+voltage gap between charge and discharge curves), their specific capacity
+(716 mAh g<sup>&#x02013;1</sup>) drops significantly. These results
+indicate the exacerbated shuttling of polysulfides in the LE at high
+temperature, as also indicated by the poorly maintained second discharge
+plateau (<xref rid="fig5" ref-type="fig">Figures <xref rid="fig5" ref-type="fig">5</xref></xref>a
+and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">S6</ext-link>). In contrast, QSSE-based pouch
+cells deliver a higher specific capacity of 1213 mAh g<sup>&#x02013;1</sup> as a result of enhanced kinetics at a high temperature (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b). Furthermore,
+at 5 &#x000b0;C, where LE-based cells can barely operate, the Li&#x02013;S
+pouch cell batteries using the QSSE retain a considerable specific
+capacity of 753 mAh g<sup>&#x02013;1</sup>, suggesting good low-temperature
+adaptability. The QSSE-based pouch cells also demonstrate superior
+rate capability, achieving 55% capacity retention at 0.5 C, which
+is &#x0223c;20% higher than that of cells with the LE (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c).</p><p>To date, the cycle
+life of Li&#x02013;S batteries is far from being
+suitable for practical applications. Most pouch cells with LEs reported
+in the literature usually fail within 100 cycles.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> The failure
+mechanisms have been traced to a combination of cathode polysulfide
+shuttling, electrolyte depletion, and anode corrosion.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> More specifically, in LE-based Li&#x02013;S batteries with high energy
+density (for example, &#x0003e;350 Wh kg<sup>&#x02013;1</sup> at the pouch
+cell level), the depletion of electrolyte is the limiting factor for
+cycling stability.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> Our previous study demonstrated
+that by supplying adequate electrolyte (E/S ratio = 2.4 &#x003bc;L mg<sup>&#x02013;1</sup>) in Li&#x02013;S pouch cells with metallic MoS<sub>2</sub> cathodes, it is possible to retain &#x0223c;85% of capacity
+after 200 cycles.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> However, in pursuit
+of higher energy density by further reducing electrolyte volume (E/S
+ratio = 2 &#x003bc;L mg<sup>&#x02013;1</sup>), cycling stability of the
+cells with the LE drops dramatically, failing after &#x0003c;70 cycles
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d). In this
+respect, QSSE-based Li&#x02013;S pouch cell batteries operate beyond
+200 cycles while still retaining 80.7% of their original capacity
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d), which
+is over 3-fold the lifetime of conventional LE-based cells under identical
+conditions. Such a cycle life at low E/S ratios is also among the
+highest reported thus far for Li&#x02013;S batteries with different
+electrolytes (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>).<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref38">38</xref>&#x02212;<xref ref-type="bibr" rid="ref47">47</xref></sup> Postcycling analysis of these QSSE-based cells reveals that anode
+degradation is the primary mechanism responsible for performance decay
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">Figure S7</ext-link>). In addition, the safety of
+batteries is important. As seen in the inset of <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d, our Li&#x02013;S pouch cell batteries using
+the QSSE are capable of safe operation even under mechanical damage.
+The above improvements in working temperature range, cycle life, and
+safety demonstrate the promise of implementing QSSEs in next-generation
+Li&#x02013;S batteries.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Cycle life and E/S ratio comparison of QSSE-based Li&#x02013;S
+batteries
+with reported pouch cells using different electrolytes.<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref38">38</xref>&#x02212;<xref ref-type="bibr" rid="ref47">47</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_0006" id="gr6" position="float"/></fig></sec><sec id="sec3"><title>Conclusions</title><p>In summary, we report
+the use of QSSE induced by metallic 1T MoS<sub>2</sub> hosts to extend
+the cycle life of Li&#x02013;S batteries.
+The QSSE is formed <italic>in situ</italic> within the assembled cells
+and thus produces good interfaces on both electrodes. In addition,
+the moderate Lewis acidity of 1T MoS<sub>2</sub> enables the resultant
+QSSE to incorporate a portion of the unpolymerized liquid into its
+polymer framework. Therefore, while suppressing the shuttling of polysulfides,
+the QSSE allows the Li&#x02013;S cells to proceed with the catholyte-mediated
+reaction route, which largely promotes the sulfur redox chemistry.
+On the other hand, this QSSE integrated into cells in lieu of conventional
+LEs mitigates anode corrosion and electrolyte depletion problems common
+to all Li&#x02013;S batteries. These attributes collectively improve
+the cycling stability of Li&#x02013;S batteries without sacrificing
+performance. The fabricated pouch cell level Li&#x02013;S batteries
+using QSSE can retain their initial capacity in excess of 80% after
+200 cycles, more than a 3-fold increase in cycle life compared to
+state-of-the-art cells. Furthermore, our QSSE-based pouch cells show
+wide temperature adaptability and good safety, demonstrating potential
+for applications.</p></sec><sec id="sec4"><title>Experimental Methods</title><sec id="sec4.1"><title>Preparation
+of MoS<sub>2</sub>-Based Sulfur Hosts and Their
+Sulfur Composites for Cathodes</title><p>2H MoS<sub>2</sub> powder
+(Alfa Aesar) was used as purchased without further modification. 1T
+MoS<sub>2</sub> was synthesized by chemical exfoliation of bulk 2H
+MoS<sub>2</sub> with organolithium as reported previously.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> Briefly, bulk 2H MoS<sub>2</sub> powder (0.3 g) was first immersed in hexane (15 mL; Sigma-Aldrich),
+followed by adding <italic>n</italic>-butyllithium solution (1.6 M
+in hexane, 3 mL; Sigma-Aldrich) and refluxing for 2 days under argon
+protection. The product was then washed with hexane (50 mL) 3 times
+and dispersed in deionized water (1 mg mL<sup>&#x02013;1</sup>) with
+the aid of ultrasonication (20 min). After centrifugation to remove
+the unreacted parts and residues, the resultant powder was freeze-dried
+to yield 1T MoS<sub>2</sub>.</p><p>Sulfur composites were prepared
+by mixing MoS<sub>2</sub> host material (40 mg) and sulfur powder
+(100 mg; Alfa Aesar) through a ball milling process. The mixture was
+next ground with poly(vinylidene fluoride) binder (MTI Corporation)
+at a mass ratio of 9:1 in <italic>N</italic>-methyl-2-pyrrolidone
+(Sigma-Aldrich) to form a homogeneous slurry. Note that for the slurry
+of 2H MoS<sub>2</sub>, an additional 10 wt % Super P carbon (MTI Corporation)
+was added to ensure sufficient conductivity (that is, sulfur composite,
+carbon, binder at a 8:1:1 mass ratio). The slurry was then coated
+onto Al foils (MTI Corporation) using a doctor blade and dried at
+60 &#x000b0;C for 24 h. The areal sulfur loadings were 2.5 and 7.5 mg
+cm<sup>&#x02013;2</sup> for coin cells and pouch cells, respectively.</p></sec><sec id="sec4.2"><title>Preparation of Electrolytes and Polysulfide Solutions</title><p>All
+electrolytes and polysulfide solutions were prepared in an argon-filled
+glovebox. A LiTFSI slat (1.0 M; Sigma-Aldrich) was first dissolved
+in mixed DOL and DME (1:1 by volume; Sigma-Aldrich) solvents to produce
+a liquid precursor. The LE was prepared by dissolving LiNO<sub>3</sub> (0.2 M; Sigma-Aldrich) in the precursor. The QSSE and SSE were formed <italic>in situ</italic> by dropping the liquid precursor onto 1T MoS<sub>2</sub>- and 2H MoS<sub>2</sub>-based cathodes, respectively, during
+cell assembly. Note that the QSSE and SSE without integration into
+cells can also be obtained by adding corresponding MoS<sub>2</sub> powders (0.5 mg) to the liquid precursor (2 mL). Polysulfide solutions
+were prepared by mixing sulfur and lithium sulfide (Alfa Aesar) powders
+in stoichiometric proportion in the precursor, followed by stirring
+overnight at 50 &#x000b0;C.</p></sec><sec id="sec4.3"><title>Materials Characterization</title><p>Morphological
+and structural
+information on materials were detected by scanning electron microscopy
+(FEI Magellan 400), X-ray photoelectron spectroscopy (ThermoFisher
+Scientific using an Al K&#x003b1; source), NMR spectroscopy (Bruker
+400 MHz Avance III HD using chloroform-<italic>d</italic> as a deuterated
+solvent), Raman spectroscopy (Renishaw InVia using a 514 nm laser
+beam), FTIR spectroscopy (Bruker Tensor 27 using an ATR mode), and
+gel permeation chromatography (Agilent 1260 Infinity II using tetrahydrofuran
+as the mobile phase).</p></sec><sec id="sec4.4"><title>Electrochemical Characterization</title><p>Electrochemical performance
+of electrolytes was characterized in coin cells (CR2032) and pouch
+cells (6 cm &#x000d7; 4.5 cm in dimension). All of the coin cells were
+fabricated in an argon-filled glovebox. Li&#x02013;S coin cells were
+assembled with the sulfur-based cathode, the lithium foil anode, Celgard
+separator, and the electrolyte (E/S ratio = 15 &#x003bc;L mg<sup>&#x02013;1</sup>). Asymmetric Li||Cu and symmetric Li coin cells were assembled with
+similar components but with changing the electrodes to lithium foil
+versus Cu foil and two pieces of lithium foil, respectively. Symmetric
+Li<sub>2</sub>S<sub>6</sub> coin cells were also assembled with similar
+components but with changing the electrodes and electrolyte to two
+identical hydraulically pelletized MoS<sub>2</sub> (25 MPa) and 0.2
+M Li<sub>2</sub>S<sub>6</sub> solutions (50 &#x003bc;L), respectively.
+Pouch cells were fabricated in a dry room (relative humidity &#x0003c;0.1%)
+with the sulfur-based cathode (Al current collector), the lithium
+foil anode (Cu current collector), Celgard separator, and the electrolyte
+(E/S ratio = 2 &#x003bc;L mg<sup>&#x02013;1</sup>). The Al and Ni tabs
+were welded together with the cathodes and anodes, respectively. The
+entire cell core was encapsulated in the Al-laminated films.</p><p>GCD tests were carried out on a battery cycler (LANHE CT3002A) in
+the voltage range of 1.7 to 2.8 V at various C rates (1 C = 1672 mAh
+g<sup>&#x02013;1</sup>). An oven and a fridge were coupled to the battery
+cycler to control the temperature during GCD measurements. CV tests
+were conducted with an electrochemical workstation (BioLogic VSP-300)
+from 1.5 to 3.0 V at various scan rates. Li<sub>2</sub>S deposition
+tests were performed by galvanostatically discharging fresh coin cells
+to 2.06 V at a current density of 0.05 C, followed by potentiostatically
+discharging at 2.05 V until the current was below 10<sup>&#x02013;2</sup> mA. Li<sub>2</sub>S<sub>6</sub> conversion tests were studied in
+symmetric Li<sub>2</sub>S<sub>6</sub> cells by CV scans from &#x02212;0.5
+to 0.5 V at a rate of 50 mV s<sup>&#x02013;1</sup>. OCV of freshly
+assembled cells before measurements was recorded for 180 days to monitor
+the self-discharge behavior. Self-discharge current at various OCVs
+was examined after the cells reached voltage equilibrium during the
+relaxation period, using the previously reported method.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> The cycling stability was evaluated by performing
+continuous GCD cycles. The Li stripping and plating tests were investigated
+in both asymmetric Li||Cu (stripping cutoff voltage = 1 V) and symmetric
+Li cells at various current densities. Electrochemical impedance spectroscopy
+was measured at open circuit under a sinusoidal signal over the frequency
+range from 100 kHz to 100 mHz with an amplitude of 10 mV.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsnano.4c05002?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsnano.4c05002</ext-link>.<list id="silist" list-type="simple"><list-item><p>Additional data of schematic
+of Li&#x02013;S batteries
+with different electrolytes, SEM images of cathodes, photographs of
+the QSSE formation process with different precursors, electrochemical
+kinetics study of different electrolytes, self-discharge current of
+cells with different electrolytes at various temperatures, and battery
+degradation mechanism study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c05002/suppl_file/nn4c05002_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c05002_si_001.pdf"><caption><p>nn4c05002_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-2"><title>Author Contributions</title><p>The manuscript
+was written through contributions of all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="COI-statement" id="notes-3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work
+was supported by the Henry Royce Institute for Advanced
+Materials through the Equipment Access Scheme enabling access to the
+Royce Battery Suite and XPS at Cambridge; Cambridge Royce facilities
+grant (EP/P024947/1); Sir Henry Royce Institute recurrent grant (EP/R00661X/1);
+the Engineering and Physical Sciences Research Council (EP/T001038/1,
+EP/L016087/1); and the Faraday Institution LiSTAR program and characterization
+project (EP/S003053/1, FIRG014, and FIRG012). Z.L. acknowledges the
+financial support and Research Fellowship from the Herchel Smith Fund
+and King&#x02019;s College, Cambridge.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Chen</surname><given-names>Z. X.</given-names></name>; <name><surname>Zhao</surname><given-names>M.</given-names></name>; <name><surname>Hou</surname><given-names>L. P.</given-names></name>; <name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>
+<article-title>Toward
+Practical High-Energy-Density Lithium&#x02013;Sulfur
+Pouch Cells: A Review</article-title>. <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>123</fpage>&#x02013;<lpage>134</lpage>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Duffner</surname><given-names>F.</given-names></name>; <name><surname>Kronemeyer</surname><given-names>N.</given-names></name>; <name><surname>T&#x000fc;bke</surname><given-names>J.</given-names></name>; <name><surname>Leker</surname><given-names>J.</given-names></name>; <name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Schmuch</surname><given-names>R.</given-names></name>
+<article-title>Post-Lithium-Ion
+Battery Cell Production and Its Compatibility
+with Lithium-Ion Cell Production Infrastructure</article-title>. <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>123</fpage>&#x02013;<lpage>134</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-020-00748-8</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Fu</surname><given-names>Y.</given-names></name>; <name><surname>Chung</surname><given-names>S. H.</given-names></name>; <name><surname>Zu</surname><given-names>C.</given-names></name>; <name><surname>Su</surname><given-names>Y. S.</given-names></name>
+<article-title>Rechargeable Lithium-Sulfur
+Batteries</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11751</fpage>&#x02013;<lpage>11787</lpage>. <pub-id pub-id-type="doi">10.1021/cr500062v</pub-id>.<pub-id pub-id-type="pmid">25026475</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Li</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>
+<article-title>Revisiting the Role of Polysulfides
+in Lithium&#x02013;Sulfur Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1705590</elocation-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Mikhaylik</surname><given-names>Y. V.</given-names></name>; <name><surname>Akridge</surname><given-names>J. R.</given-names></name>
+<article-title>Polysulfide Shuttle
+Study in the Li/S Battery System</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2004</year>, <volume>151</volume>, <fpage>A1969</fpage>&#x02013;<lpage>A1976</lpage>. <pub-id pub-id-type="doi">10.1149/1.1806394</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Bhargav</surname><given-names>A.</given-names></name>; <name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Gupta</surname><given-names>A.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Lithium-Sulfur Batteries: Attaining
+the Critical Metrics</article-title>. <source>Joule</source>
+<year>2020</year>, <volume>4</volume>, <fpage>285</fpage>&#x02013;<lpage>291</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2020.01.001</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Zhao</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>A Perspective
+toward Practical Lithium-Sulfur Batteries</article-title>. <source>ACS
+Cent. Sci.</source>
+<year>2020</year>, <volume>6</volume>, <fpage>1095</fpage>&#x02013;<lpage>1104</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.0c00449</pub-id>.<pub-id pub-id-type="pmid">32724844</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Li</surname><given-names>P.</given-names></name>; <name><surname>Zhu</surname><given-names>L.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>S. T.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>The Gap between
+Long Lifespan Li-S Coin and Pouch Cells: The Importance of Lithium
+Metal Anode Protection</article-title>. <source>Energy Storage Mater.</source>
+<year>2017</year>, <volume>6</volume>, <fpage>18</fpage>&#x02013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2016.09.003</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Shi</surname><given-names>L.</given-names></name>; <name><surname>Bak</surname><given-names>S. M.</given-names></name>; <name><surname>Shadike</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Niu</surname><given-names>C.</given-names></name>; <name><surname>Northrup</surname><given-names>P.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Baranovskiy</surname><given-names>A. Y.</given-names></name>; <name><surname>Anderson</surname><given-names>C. S.</given-names></name>; <name><surname>Qin</surname><given-names>J.</given-names></name>; <name><surname>Feng</surname><given-names>S.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Yang</surname><given-names>X. Q.</given-names></name>; <name><surname>Gao</surname><given-names>F.</given-names></name>; <name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>
+<article-title>Reaction Heterogeneity in Practical
+High-Energy Lithium-Sulfur Pouch
+Cells</article-title>. <source>Energy Environ. Sci.</source>
+<year>2020</year>, <volume>13</volume>, <fpage>3620</fpage>&#x02013;<lpage>3632</lpage>. <pub-id pub-id-type="doi">10.1039/D0EE02088E</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Pang</surname><given-names>Q.</given-names></name>; <name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>Kwok</surname><given-names>C. Y.</given-names></name>; <name><surname>Nazar</surname><given-names>L. F.</given-names></name>
+<article-title>Advances in Lithium-Sulfur
+Batteries Based on Multifunctional Cathodes and Electrolytes</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16132</elocation-id><pub-id pub-id-type="doi">10.1038/nenergy.2016.132</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>Hart</surname><given-names>C.</given-names></name>; <name><surname>Pang</surname><given-names>Q.</given-names></name>; <name><surname>Garsuch</surname><given-names>A.</given-names></name>; <name><surname>Weiss</surname><given-names>T.</given-names></name>; <name><surname>Nazar</surname><given-names>L. F.</given-names></name>
+<article-title>A Highly Efficient Polysulfide Mediator
+for Lithium-Sulfur
+Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>5682</fpage><pub-id pub-id-type="doi">10.1038/ncomms6682</pub-id>.<pub-id pub-id-type="pmid">25562485</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Tian</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>D.</given-names></name>; <name><surname>Gu</surname><given-names>M.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Gao</surname><given-names>F.</given-names></name>; <name><surname>Engelhard</surname><given-names>M. H.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>
+<article-title>Lewis Acid-Base Interactions
+between Polysulfides and Metal Organic Framework in Lithium Sulfur
+Batteries</article-title>. <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>2345</fpage>&#x02013;<lpage>2352</lpage>. <pub-id pub-id-type="doi">10.1021/nl404721h</pub-id>.<pub-id pub-id-type="pmid">24702610</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Ji</surname><given-names>X.</given-names></name>; <name><surname>Lee</surname><given-names>K. T.</given-names></name>; <name><surname>Nazar</surname><given-names>L. F.</given-names></name>
+<article-title>A Highly
+Ordered Nanostructured Carbon-Sulphur
+Cathode for Lithium-Sulphur Batteries</article-title>. <source>Nat.
+Mater.</source>
+<year>2009</year>, <volume>8</volume>, <fpage>500</fpage>&#x02013;<lpage>506</lpage>. <pub-id pub-id-type="doi">10.1038/nmat2460</pub-id>.<pub-id pub-id-type="pmid">19448613</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Liang</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>Z. H.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Cheng</surname><given-names>H. M.</given-names></name>
+<article-title>Carbon Materials
+for Li-S Batteries: Functional Evolution and Performance Improvement</article-title>. <source>Energy Storage Mater.</source>
+<year>2016</year>, <volume>2</volume>, <fpage>76</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2015.09.007</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Sami</surname><given-names>I.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Kumar</surname><given-names>R. V.</given-names></name>; <name><surname>Chhowalla</surname><given-names>M.</given-names></name>
+<article-title>Lithiated Metallic Molybdenum Disulfide Nanosheets
+for High-Performance Lithium&#x02013;Sulfur Batteries</article-title>. <source>Nat. Energy</source>
+<year>2023</year>, <volume>8</volume>, <fpage>84</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-022-01175-7</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Peng</surname><given-names>L.</given-names></name>; <name><surname>Wei</surname><given-names>Z.</given-names></name>; <name><surname>Wan</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Zhu</surname><given-names>D.</given-names></name>; <name><surname>Baumann</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Allen</surname><given-names>C. S.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Kirkland</surname><given-names>A. I.</given-names></name>; <name><surname>Shakir</surname><given-names>I.</given-names></name>; <name><surname>Almutairi</surname><given-names>Z.</given-names></name>; <name><surname>Tolbert</surname><given-names>S.</given-names></name>; <name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Sautet</surname><given-names>P.</given-names></name>; <name><surname>Duan</surname><given-names>X.</given-names></name>
+<article-title>A Fundamental Look at Electrocatalytic
+Sulfur Reduction Reaction</article-title>. <source>Nat. Catal.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>762</fpage>&#x02013;<lpage>770</lpage>. <pub-id pub-id-type="doi">10.1038/s41929-020-0498-x</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Cao</surname><given-names>R.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Lv</surname><given-names>D.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>
+<article-title>Anodes for Rechargeable
+Lithium-Sulfur Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1402273</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201402273</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Reviving the
+Lithium Metal Anode for High-Energy Batteries</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>194</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2017.16</pub-id>.<pub-id pub-id-type="pmid">28265117</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>
+<article-title>Lithium Battery Chemistries Enabled by Solid-State
+Electrolytes</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>16103</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2016.103</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>
+<article-title>Towards High-Performance
+Solid-State Li-S Batteries:
+From Fundamental Understanding to Engineering Design</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2020</year>, <volume>49</volume>, <fpage>2140</fpage>&#x02013;<lpage>2195</lpage>. <pub-id pub-id-type="doi">10.1039/C9CS00635D</pub-id>.<pub-id pub-id-type="pmid">32118221</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Zhong</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Bak</surname><given-names>S. M.</given-names></name>; <name><surname>Hwang</surname><given-names>S.</given-names></name>; <name><surname>Du</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>
+<article-title>Identification and Catalysis of the Potential-Limiting Step in Lithium-Sulfur
+Batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2023</year>, <volume>145</volume>, <fpage>7390</fpage>&#x02013;<lpage>7396</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.2c13776</pub-id>.<pub-id pub-id-type="pmid">36952313</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Okada</surname><given-names>M.</given-names></name>; <name><surname>Yamashita</surname><given-names>Y.</given-names></name>; <name><surname>Ishii</surname><given-names>Y.</given-names></name>
+<article-title>Polymerization of 1,3-Dioxolane</article-title>. <source>Macromol.
+Chem. Phys.</source>
+<year>1964</year>, <volume>80</volume>, <fpage>196</fpage>&#x02013;<lpage>207</lpage>. <pub-id pub-id-type="doi">10.1002/macp.1964.020800117</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Abel</surname><given-names>B. A.</given-names></name>; <name><surname>Snyder</surname><given-names>R. L.</given-names></name>; <name><surname>Coates</surname><given-names>G. W.</given-names></name>
+<article-title>Chemically Recyclable Thermoplastics
+from Reversible-Deactivation Polymerization of Cyclic Acetals</article-title>. <source>Science</source>
+<year>2021</year>, <volume>373</volume>, <fpage>783</fpage>&#x02013;<lpage>789</lpage>. <pub-id pub-id-type="doi">10.1126/science.abh0626</pub-id>.<pub-id pub-id-type="pmid">34385394</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Aurbach</surname><given-names>D.</given-names></name>; <name><surname>Pollak</surname><given-names>E.</given-names></name>; <name><surname>Elazari</surname><given-names>R.</given-names></name>; <name><surname>Salitra</surname><given-names>G.</given-names></name>; <name><surname>Kelley</surname><given-names>C. S.</given-names></name>; <name><surname>Affinito</surname><given-names>J.</given-names></name>
+<article-title>On the Surface Chemical Aspects of Very High Energy
+Density, Rechargeable Li&#x02013;Sulfur Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2009</year>, <volume>156</volume>, <fpage>A694</fpage>&#x02013;<lpage>A702</lpage>. <pub-id pub-id-type="doi">10.1149/1.3148721</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Zhang</surname><given-names>S. S.</given-names></name>
+<article-title>Role of
+LiNO 3 in Rechargeable Lithium/Sulfur Battery</article-title>. <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>70</volume>, <fpage>344</fpage>&#x02013;<lpage>348</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2012.03.081</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Li</surname><given-names>X. Y.</given-names></name>; <name><surname>Feng</surname><given-names>S.</given-names></name>; <name><surname>Zhao</surname><given-names>C. X.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Chen</surname><given-names>Z. X.</given-names></name>; <name><surname>Sun</surname><given-names>S. Y.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Regulating
+Lithium Salt to Inhibit
+Surface Gelation on an Electrocatalyst for High-Energy-Density Lithium-Sulfur
+Batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2022</year>, <volume>144</volume>, <fpage>14638</fpage>&#x02013;<lpage>14646</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.2c04176</pub-id>.<pub-id pub-id-type="pmid">35791913</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Voiry</surname><given-names>D.</given-names></name>; <name><surname>Mohite</surname><given-names>A.</given-names></name>; <name><surname>Chhowalla</surname><given-names>M.</given-names></name>
+<article-title>Phase Engineering
+of Transition Metal
+Dichalcogenides</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>2702</fpage>&#x02013;<lpage>2712</lpage>. <pub-id pub-id-type="doi">10.1039/C5CS00151J</pub-id>.<pub-id pub-id-type="pmid">25891172</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Eda</surname><given-names>G.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>H.</given-names></name>; <name><surname>Voiry</surname><given-names>D.</given-names></name>; <name><surname>Fujita</surname><given-names>T.</given-names></name>; <name><surname>Chen</surname><given-names>M.</given-names></name>; <name><surname>Chhowalla</surname><given-names>M.</given-names></name>
+<article-title>Photoluminescence
+from Chemically Exfoliated MoS2</article-title>. <source>Nano Lett.</source>
+<year>2011</year>, <volume>11</volume>, <fpage>5111</fpage>&#x02013;<lpage>5116</lpage>. <pub-id pub-id-type="doi">10.1021/nl201874w</pub-id>.<pub-id pub-id-type="pmid">22035145</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Tobishima</surname><given-names>S. I.</given-names></name>; <name><surname>Yamamoto</surname><given-names>H.</given-names></name>; <name><surname>Matsuda</surname><given-names>M.</given-names></name>
+<article-title>Study on the
+Reduction Species of
+Sulfur by Alkali Metals in Nonaqueous Solvents</article-title>. <source>Electrochim. Acta</source>
+<year>1997</year>, <volume>42</volume>, <fpage>1019</fpage>&#x02013;<lpage>1029</lpage>. <pub-id pub-id-type="doi">10.1016/S0013-4686(96)00281-2</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Mikhaylik</surname><given-names>Y. V.</given-names></name>; <name><surname>Akridge</surname><given-names>J. R.</given-names></name>
+<article-title>Low Temperature Performance of Li/S
+Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2003</year>, <volume>150</volume>, <fpage>A306</fpage>&#x02013;<lpage>A311</lpage>. <pub-id pub-id-type="doi">10.1149/1.1545452</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Chung</surname><given-names>S. H.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Lithium-Sulfur
+Batteries with the Lowest Self- Discharge
+and the Longest Shelf Life</article-title>. <source>ACS Energy Lett.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>1056</fpage>&#x02013;<lpage>1061</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.7b00245</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Wood</surname><given-names>K. N.</given-names></name>; <name><surname>Kazyak</surname><given-names>E.</given-names></name>; <name><surname>Chadwick</surname><given-names>A. F.</given-names></name>; <name><surname>Chen</surname><given-names>K. H.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Thornton</surname><given-names>K.</given-names></name>; <name><surname>Dasgupta</surname><given-names>N. P.</given-names></name>
+<article-title>Dendrites
+and Pits: Untangling the
+Complex Behavior of Lithium Metal Anodes through Operando Video Microscopy</article-title>. <source>ACS Cent. Sci.</source>
+<year>2016</year>, <volume>2</volume>, <fpage>790</fpage>&#x02013;<lpage>801</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.6b00260</pub-id>.<pub-id pub-id-type="pmid">27924307</pub-id>
+</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>Promise and Reality of Post-Lithium-Ion
+Batteries with
+High Energy Densities</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16013</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2016.13</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Liu</surname><given-names>X. F.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Chen</surname><given-names>C. M.</given-names></name>; <name><surname>Zhao</surname><given-names>M. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>S. M.</given-names></name>; <name><surname>Zhu</surname><given-names>W.</given-names></name>; <name><surname>Qian</surname><given-names>W. Z.</given-names></name>; <name><surname>Wei</surname><given-names>F.</given-names></name>
+<article-title>Entrapment
+of Sulfur in Hierarchical Porous Graphene for Lithium-Sulfur Batteries
+with High Rate Performance from &#x02212;40 to 60&#x000b0;C</article-title>. <source>Nano Energy</source>
+<year>2013</year>, <volume>2</volume>, <fpage>314</fpage>&#x02013;<lpage>321</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2012.10.003</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Zhou</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>
+<article-title>Wide Working
+Temperature Range Rechargeable
+Lithium&#x02013;Sulfur Batteries: A Critical Review</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2107136</elocation-id><pub-id pub-id-type="doi">10.1002/adfm.202107136</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Jin</surname><given-names>Q.</given-names></name>; <name><surname>Qi</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>F.</given-names></name>; <name><surname>Jiang</surname><given-names>R.</given-names></name>; <name><surname>Xie</surname><given-names>Y.</given-names></name>; <name><surname>Qie</surname><given-names>L.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>
+<article-title>The Failure Mechanism of Lithium-Sulfur Batteries under Lean-Ether-Electrolyte
+Conditions</article-title>. <source>Energy Storage Mater.</source>
+<year>2021</year>, <volume>38</volume>, <fpage>255</fpage>&#x02013;<lpage>261</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2021.03.014</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Chen</surname><given-names>Z. X.</given-names></name>; <name><surname>Hou</surname><given-names>L. P.</given-names></name>; <name><surname>Bi</surname><given-names>C. X.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>
+<article-title>Failure
+Analysis of High-Energy-Density
+Lithium&#x02013;sulfur Pouch Cells</article-title>. <source>Energy Storage
+Mater.</source>
+<year>2022</year>, <volume>53</volume>, <fpage>315</fpage>&#x02013;<lpage>321</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2022.07.035</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>; <name><surname>Jin</surname><given-names>Z.</given-names></name>; <name><surname>Law</surname><given-names>H. M.</given-names></name>; <name><surname>Wang</surname><given-names>A.</given-names></name>; <name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>Ciucci</surname><given-names>F.</given-names></name>
+<article-title>Towards Durable Practical
+Lithium-Metal Batteries: Advancing the Feasibility of Poly-DOL-Based
+Quasi-Solid-State Electrolytes via a Novel Nitrate-Based Additive</article-title>. <source>Energy Environ. Sci.</source>
+<year>2023</year>, <volume>16</volume>, <fpage>4084</fpage>&#x02013;<lpage>4092</lpage>. <pub-id pub-id-type="doi">10.1039/D3EE02020G</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>S.</given-names></name>; <name><surname>Xiao</surname><given-names>M.</given-names></name>; <name><surname>Han</surname><given-names>D.</given-names></name>; <name><surname>Qin</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Meng</surname><given-names>Y.</given-names></name>
+<article-title>Catalytic Disproportionation for
+Suppressing Polysulfide Shuttle in Li&#x02013;S Pouch Cells: Beyond
+Adsorption Interactions</article-title>. <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2201912</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.202201912</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Weller</surname><given-names>C.</given-names></name>; <name><surname>Thieme</surname><given-names>S.</given-names></name>; <name><surname>H&#x000e4;rtel</surname><given-names>P.</given-names></name>; <name><surname>Althues</surname><given-names>H.</given-names></name>; <name><surname>Kaskel</surname><given-names>S.</given-names></name>
+<article-title>Intrinsic
+Shuttle Suppression in Lithium-Sulfur Batteries for Pouch Cell Application</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume>, <fpage>A3766</fpage>&#x02013;<lpage>A3771</lpage>. <pub-id pub-id-type="doi">10.1149/2.0981714jes</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Hou</surname><given-names>L. P.</given-names></name>; <name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Yao</surname><given-names>N.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Shi</surname><given-names>P.</given-names></name>; <name><surname>Jin</surname><given-names>C. B.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>An Encapsulating Lithium-Polysulfide
+Electrolyte for Practical Lithium&#x02013;Sulfur Batteries</article-title>. <source>Chem.</source>
+<year>2022</year>, <volume>8</volume>, <fpage>1083</fpage>&#x02013;<lpage>1098</lpage>. <pub-id pub-id-type="doi">10.1016/j.chempr.2021.12.023</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Peng</surname><given-names>Y. Q.</given-names></name>; <name><surname>Zhao</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>Z. X.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>C. X.</given-names></name>; <name><surname>Ma</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Chen</surname><given-names>C. M.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Full-Range Redox Mediation on Sulfur
+Redox Kinetics for High-Performance Lithium-Sulfur Batteries</article-title>. <source>Batter. Supercaps</source>
+<year>2022</year>, <volume>5</volume>, <elocation-id>e202100359</elocation-id><pub-id pub-id-type="doi">10.1002/batt.202100359</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Zhang</surname><given-names>G.</given-names></name>; <name><surname>Peng</surname><given-names>H.</given-names></name>; <name><surname>Zhao</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>P.</given-names></name>; <name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>The Radical Pathway Based on a Lithium-Metal-Compatible
+High-Dielectric Electrolyte for Lithium&#x02013;Sulfur Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2018</year>, <volume>130</volume>, <fpage>16974</fpage>&#x02013;<lpage>16978</lpage>. <pub-id pub-id-type="doi">10.1002/ange.201810132</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Qu</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>
+<article-title>LiNO<sub>3</sub>-Free Electrolyte for Li-S Battery: A Solvent of
+Choice with Low Ksp of Polysulfide and Low Dendrite of Lithium</article-title>. <source>Nano Energy</source>
+<year>2017</year>, <volume>39</volume>, <fpage>262</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2017.07.002</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Zhao</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>H.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>
+<article-title>Redox Comediation with Organopolysulfides
+in Working
+Lithium-Sulfur Batteries</article-title>. <source>Chem.</source>
+<year>2020</year>, <volume>6</volume>, <fpage>3297</fpage>&#x02013;<lpage>3311</lpage>. <pub-id pub-id-type="doi">10.1016/j.chempr.2020.09.015</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Zhao</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>X. Y.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>
+<article-title>An Organodiselenide
+Comediator to Facilitate Sulfur Redox Kinetics in Lithium&#x02013;Sulfur
+Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2021</year>, <volume>33</volume>, <elocation-id>2007298</elocation-id><pub-id pub-id-type="doi">10.1002/adma.202007298</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Jin</surname><given-names>Q.</given-names></name>; <name><surname>Nan</surname><given-names>Y. L.</given-names></name>; <name><surname>Hou</surname><given-names>L. P.</given-names></name>; <name><surname>Li</surname><given-names>B. Q.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Jin</surname><given-names>Z. H.</given-names></name>; <name><surname>Zhang</surname><given-names>X. T.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Electrolyte
+Structure of Lithium Polysulfides with Anti-Reductive Solvent Shells
+for Practical Lithium&#x02013;Sulfur Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>15503</fpage>&#x02013;<lpage>15509</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202103470</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Yang</surname><given-names>Z. J.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Lampronti</surname><given-names>G. I.</given-names></name>; <name><surname>Lee</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Day</surname><given-names>J.</given-names></name>; <name><surname>Chhowalla</surname><given-names>M.</given-names></name>
+<article-title>Environmental and Thermal Stability of Chemically Exfoliated
+Li<sub>x</sub>MoS<sub>2</sub> for Lithium&#x02013;Sulfur Batteries</article-title>. <source>Chem. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <fpage>4829</fpage>&#x02013;<lpage>4837</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.4c00674</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Knap</surname><given-names>V.</given-names></name>; <name><surname>Stroe</surname><given-names>D.-I.</given-names></name>; <name><surname>Purkayastha</surname><given-names>R.</given-names></name>; <name><surname>Walus</surname><given-names>S.</given-names></name>; <name><surname>Auger</surname><given-names>D. J.</given-names></name>; <name><surname>Fotouhi</surname><given-names>A.</given-names></name>; <name><surname>Propp</surname><given-names>K.</given-names></name>
+<article-title>Reference
+Performance Test Methodology
+for Degradation Assessment of Lithium-Sulfur Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2018</year>, <volume>165</volume>, <fpage>A1601</fpage>&#x02013;<lpage>A1609</lpage>. <pub-id pub-id-type="doi">10.1149/2.0121809jes</pub-id>.</mixed-citation></ref></ref-list></back></article>

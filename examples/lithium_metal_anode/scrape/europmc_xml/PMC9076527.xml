@@ -1,0 +1,683 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">RSC Adv</journal-id><journal-id journal-id-type="iso-abbrev">RSC Adv</journal-id><journal-id journal-id-type="publisher-id">RA</journal-id><journal-id journal-id-type="coden">RSCACL</journal-id><journal-title-group><journal-title>RSC Advances</journal-title></journal-title-group><issn pub-type="epub">2046-2069</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">9076527</article-id><article-id pub-id-type="publisher-id">c9ra08677c</article-id><article-id pub-id-type="doi">10.1039/c9ra08677c</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Nonflammable quasi-solid-state electrolyte for stable lithium-metal batteries<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available: Cross-section SEM image of the quasi-solid-state cell, LSV curves of QCE-P after the first sweeping, HAADF-STEM image and EDS mapping of the cycled NMC811 particle, cycling performance LCoO<sub>2</sub> and NMC811 cells in the non-flammable liquid electrolyte, and abuse tests of the QCE film and the NMC811 pouch cell. See DOI: <uri>10.1039/c9ra08677c</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Sun</surname><given-names>Qiushi</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Xiao</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9376-5883</contrib-id><name><surname>Xie</surname><given-names>Jian</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="affb" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Xiongwen</given-names></name><xref rid="affc" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Tu</surname><given-names>Jian</given-names></name><xref rid="affc" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Peng</given-names></name><xref rid="affd" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3723-2468</contrib-id><name><surname>Zhao</surname><given-names>Xinbing</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="affb" ref-type="aff"/></contrib><aff id="affa">
+<institution>State Key Laboratory of Silicon Materials, School of Materials Science and Engineering, Zhejiang University</institution>
+<city>Hangzhou 310027</city>
+<country>P. R. China</country>
+<email>xiejian1977@zju.edu.cn</email>
+<email>zhaoxb@zju.edu.cn</email>
+<fax>+86-571-87951451</fax>
+<phone>+86-571-87952181</phone>
+</aff><aff id="affb">
+<institution>Key Laboratory of Advanced Materials and Applications for Batteries of Zhejiang Province</institution>
+<city>Hangzhou 310027</city>
+<country>P. R. China</country>
+</aff><aff id="affc">
+<institution>LI-FUN Technology Corporation Limited</institution>
+<city>Zhuzhou 412000</city>
+<country>P. R. China</country>
+</aff><aff id="affd">
+<institution>Hangzhou Skyrich Power Co., LTD</institution>
+<city>Hangzhou 310022</city>
+<country>P. R. China</country>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2019-12-19"><day>19</day><month>12</month><year>2019</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2019-12-18"><day>18</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>19</day><month>12</month><year>2019</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>9</volume><issue>72</issue><fpage>42183</fpage><lpage>42193</lpage><history><date date-type="received" iso-8601-date="2019-10-23"><day>23</day><month>10</month><year>2019</year></date><date date-type="accepted" iso-8601-date="2019-12-13"><day>13</day><month>12</month><year>2019</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2019-12-19">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref></license></permissions><abstract><p>Rechargeable lithium batteries with high-voltage/capacity cathodes are regarded as promising high-energy-density energy-storage systems. Nevertheless, these systems are restricted by some critical challenges, such as flammable electrolyte, lithium dendrite formation and rapid capacity fade at high voltage and elevated temperature. In this work, we report a quasi-solid-state composite electrolyte (QCE) prepared by <italic toggle="yes">in situ</italic> polymerization reactions. The electrolyte consists of polymer matrix, inorganic filler, nonflammable plasticizers and Li salt, and shows a good thermal stability, a moderate ionic conductivity of 2.8 &#x000d7; 10<sup>&#x02212;4</sup> S cm<sup>&#x02212;1</sup> at 25 &#x000b0;C, and a wide electrochemical window up to 6.7 V. The batteries with the QCE show good electrochemical performance when coupled with lithium metal anode and LiCoO<sub>2</sub> or LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> cathodes. Pouch-type batteries with the QCE also exhibit stable cycling, and can tolerate abuse testes such as folding, cutting and nail penetration. The <italic toggle="yes">in situ</italic> formed fluorides and phosphides from the plasticizers stabilize the interfaces between the QCE and electrodes, which enables stable cycling of Li metal batteries.</p></abstract><abstract abstract-type="toc"><p>A nonflammable quasi-solid-state composite electrolyte was prepared by <italic toggle="yes">in situ</italic> polymerization for safe, stable Li metal batteries.<graphic xlink:href="c9ra08677c-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>51572238</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Natural Science Foundation of Zhejiang Province</institution><institution-id institution-id-type="doi">10.13039/501100004731</institution-id></institution-wrap>
+</funding-source><award-id>LY19E020013</award-id></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><label>1.</label><title>Introduction</title><p>As the requirement of energy density in electric vehicles is increasing rapidly,<sup><xref rid="cit1" ref-type="bibr">1,2</xref></sup> traditional lithium-ion batteries (LIBs) are not considered as suitable candidates, because their energy density reaches its theoretical limit (&#x0223c;300 W h kg<sup>&#x02212;1</sup>) with the intercalation chemistry.<sup><xref rid="cit3" ref-type="bibr">3&#x02013;5</xref></sup> Instead, lithium metal batteries (LMBs) have attracted more interest recently among battery systems. Lithium metal anodes possess a high specific capacity of 3860 mA h g<sup>&#x02212;1</sup> and ultralow redox potential (&#x02212;3.04 V <italic toggle="yes">versus</italic> standard hydrogen electrode, SHE).<sup><xref rid="cit6" ref-type="bibr">6,7</xref></sup> LMBs may deliver an energy density as high as 500 W h kg<sup>&#x02212;1</sup>,<sup><xref rid="cit8" ref-type="bibr">8&#x02013;11</xref></sup> when they are coupled with cathodes such as LiCoO<sub>2</sub> (LCO) or LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811) charged to a high voltage.</p><p>However, there are numerous barriers to overcome in LMBs, from electrode, electrolyte to their interfaces, hindering their practical applications.<sup><xref rid="cit12" ref-type="bibr">12</xref></sup> Lithium metal anode tends to form unstable solid electrolyte interface (SEI) layer with typical carbonate electrolytes, which leads to lithium dendrite and dead lithium, resulting in capacity fade and safety problems (<italic toggle="yes">i.e.</italic>, combustion, leakage and explosion).<sup><xref rid="cit13" ref-type="bibr">13&#x02013;18</xref></sup> Also, cathodes charged to high potential can oxidize carbonate electrolytes, and introduce many harmful byproducts at the interface.<sup><xref rid="cit19" ref-type="bibr">19,20</xref></sup></p><p>To replace organic electrolytes, solid-state electrolytes (SSEs) have been introduced and investigated considerably to tackle these problems.<sup><xref rid="cit21" ref-type="bibr">21,22</xref></sup> The excellent mechanical and nonflammable properties of SSEs can efficiently block the growth of lithium dendrite and alleviate safety issues of LMBs.<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> One of the promising SSEs is solid polymer electrolyte (SPE), whose flexibility endows devices with great processability, but the relatively low ionic conductivity and the tendency to decompose at high potential hinder its practical applications.<sup><xref rid="cit24" ref-type="bibr">24</xref></sup> For example, poly(ethylene oxide) (PEO), as a widely used polymer, has an ionic conductivity of only 10<sup>&#x02212;6</sup> S cm<sup>&#x02212;1</sup> at ambient temperature and a narrow electrochemical window of below 4.0 V (<italic toggle="yes">vs.</italic> Li<sup>+</sup>/Li).<sup><xref rid="cit25" ref-type="bibr">25</xref></sup> Recently, numerous efforts have also been devoted to develop solid inorganic electrolytes (SIEs). NASICON-type Li<sub>1.3</sub>Al<sub>0.3</sub>Ti<sub>1.7</sub>(PO<sub>4</sub>)<sub>3</sub> (LATP), garnet-type Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) and sulfide Li<sub>3</sub>PS<sub>7</sub> (LPS) are the typical inorganic electrolytes.<sup><xref rid="cit26" ref-type="bibr">26</xref></sup> SIEs usually exhibit a high ionic conductivity between 10<sup>&#x02212;4</sup>&#x02013;10<sup>&#x02212;3</sup> S cm<sup>&#x02212;1</sup>, and the ionic conductivity of some sulfides can even be comparable to those of traditional liquid electrolytes.<sup><xref rid="cit27" ref-type="bibr">27&#x02013;29</xref></sup> However, these electrolytes are usually unstable at storage, <italic toggle="yes">e.g.</italic>, Li<sub>2</sub>CO<sub>3</sub> forms on the surface of LLZO and H<sub>2</sub>S is produced when LPS is exposed to air. Ti<sup>4+</sup> in LATP can be reduced by metallic lithium.<sup><xref rid="cit30" ref-type="bibr">30</xref></sup> In addition, rigid and stiff SIEs can hardly have an intimate contact with electrodes and adapt to volume changes of electrodes upon cycling, leading to huge interface impedance in batteries.<sup><xref rid="cit24" ref-type="bibr">24</xref></sup></p><p>Therefore, solid composite electrolytes (SCEs) may be the best way out of the dilemma, as they compromise features of two SSEs, namely SPE and SIE. By adding Ga/Ta-doped LLZO nanoscale fillers, poly(vinylidene fluoride) (PVDF)-based electrolytes show superior ionic conductivity and thermal stability, probably due to the interaction between ceramics and dehydrofluorinated PVDF.<sup><xref rid="cit31" ref-type="bibr">31</xref></sup> Compared to homogenous structure, sandwich-type SCE can suppress dendrite as well as form a good interface contact with the electrodes, <italic toggle="yes">via</italic> regulating the ratio of PEO and Ta-doping LLZO.<sup><xref rid="cit32" ref-type="bibr">32</xref></sup> Furthermore, gelling SCEs by plasticizers, namely forming quasi-solid composite electrolytes (QCEs), together with <italic toggle="yes">in situ</italic> polymerization,<sup><xref rid="cit33" ref-type="bibr">33,34</xref></sup> has proved to be a feasible way to improve rate and cycle performance of the batteries.</p><p>In this work, we design a novel QCE by <italic toggle="yes">in situ</italic> polymerization, which is composed of poly(ethoxylatedtrimethylolpropanetriacrylate) (PETPTA), nonflammable plasticizers, nanoscale Li<sub>1.3</sub>Al<sub>0.3</sub>Ti<sub>1.7</sub>(PO<sub>4</sub>)<sub>3</sub> (LATP) filler and LiPF<sub>6</sub>. Plasticizers include fluoroethylene carbonate (FEC), triethyl phosphate (TEP) and 1,1,2,2-tetrafluoroethyl-2,2,2-trilouroethyl ether (HFE). PETPTA is rich in methacryloyl groups, which contains electron pairs, making chains transferring Li<sup>+</sup> quickly. It also delivers super thermal and electrochemical stability.<sup><xref rid="cit35" ref-type="bibr">35,36</xref></sup> LATP of 50 nm size acts as the inorganic fillers, and the amount of LATP was determined by the molar ratio of &#x02013;CH<sub>2</sub>CH<sub>2</sub>O&#x02013; (EO)/Li<sup>+</sup> (EO/Li<sup>+</sup> = 18).<sup><xref rid="cit37" ref-type="bibr">37</xref></sup> Moreover, fluoride plasticizers contribute to <italic toggle="yes">in situ</italic> formation of robust and homogenous SEI layer on anode, while TEP is decomposed to form interfacial layer that protects the cathode.<sup><xref rid="cit38" ref-type="bibr">38,39</xref></sup> All of these build stable and favorable interfaces, leading to stable cycling of the LMBs at high temperature (60 &#x000b0;C). In addition, pouch batteries with the QCE and LCO (or NMC811) also exhibit relatively stable cycling and can work under abuse conditions such as folding, cutting and nail penetration, revealing good safety of the batteries with QCE.</p></sec><sec><label>2.</label><title>Experimental section</title><sec><title>Preparation of LATP nanoparticles</title><p>Nano-sized LATP particles were prepared by a facile sol&#x02013;gel method.<sup><xref rid="cit40" ref-type="bibr">40</xref></sup> Stoichiometric amounts of Ti(OC<sub>4</sub>H<sub>9</sub>)<sub>4</sub>, LiNO<sub>3</sub>&#x000b7;H<sub>2</sub>O, Al(NO<sub>3</sub>)<sub>3</sub>&#x000b7;9H<sub>2</sub>O and (NH<sub>4</sub>)<sub>2</sub>HPO<sub>4</sub> were used as starting materials. Ti(OC<sub>4</sub>H<sub>9</sub>)<sub>4</sub> was added into deionized water first. Oxalic acid was then dropped into the titanium hydroxide precipitate under modest stirring. Additional oxalic acid was added into the solution until the pH reaches 2. Afterwards, LiNO<sub>3</sub> and Al(NO<sub>3</sub>)<sub>3</sub> were added into the above acidic solution under vigorous stirring. When (NH<sub>4</sub>)<sub>2</sub>HPO<sub>4</sub> was added subsequently, a sol was immediately formed. The sol was dried by heating at 80 &#x000b0;C in electric oven for about 24 h to get the precursor. The LATP powder was obtained by firing the precursor at 600 &#x000b0;C for 12 h in an alumina crucible. Sand milling of the powder was performed for 2 h in alcohol using ZrO<sub>2</sub> balls to decrease the size of LATP to approximately 50 nm.</p></sec><sec><title>Preparation of QCE</title><p>The QCE was prepared by <italic toggle="yes">in situ</italic> thermal polymerization method. First, 1.5 wt% LATP, 16.3 wt% PETPTA monomer and 0.5 wt% 2,2&#x02032;-azobis(2-methylpropionitrile) (AIBN) initiator were dissolved in the liquid plasticizers with 1 M LiPF<sub>6</sub> (81.6 wt%), and stirred violently to form a homogenous precursor. The precursor using FEC/TEP/HFE (3&#x02009;:&#x02009;7&#x02009;:&#x02009;10 in volume) plasticizers is named QCE-P and the one using ethylene carbonate (EC)/dimethyl carbonate (DMC)/ethyl methyl carbonate (EMC) (1&#x02009;:&#x02009;1&#x02009;:&#x02009;1 in volume) is named QCE-base. After that, the precursor solution was dropped into the assembled coin cells. The assembled cells were stayed for 0.5 h to ensure well wetting of electrodes by the precursor solution followed by heating at 60 &#x000b0;C for 0.5 h for polymerization. The QCE-P precursor was also injected into dry LCO/graphite (designed 200 mA h to 4.3 V) and NMC811/Li (designed 900 mA h to 4.4 V) pouch cells. The thickness of lithium foil of the NMC811/Li pouch cells is 100 &#x003bc;m. The ratios of active material in the LCO and NMC811 cathodes are 98.5 wt% and 94 wt%, respectively. The LCO and NMC811 materials are purchased from Hunan Shanshan Energy Technology Corporation Limited. The amount of precursor was around 2.4 mL A h<sup>&#x02212;1</sup>.</p></sec><sec><title>Materials characterization</title><p>X-ray photoelectron spectra (XPS) were measured on a KRATOS AXIS ULTRA-DLD spectrometer with monochromatic Al K<sub>&#x003b1;</sub> radiation (<italic toggle="yes">h&#x003bd;</italic> = 1486.6 eV). The morphology of the QCE and Li foil after cycling was observed by field-emission scanning electron microscopy (SEM) on a Hitachi (Japan) S-4800 microscope. The microstructure of the cycled sample was characterized by transmission electron microscopy (TEM) and high-angle annular dark-field (HAADF)-scanning transmission electron microscopy (STEM) on a Tecnai G2 F20 S-TWIN microscope.</p></sec><sec><title>Electrochemical measurements</title><p>For evaluation of the electrochemical performance of LMBs with QCE, LCO (or NMC811)/QCE/Li CR-2032 coin cells were assembled. For the coin cells, the electrode slurry was fabricated by mixing 80 wt% LCO (or NMC811), 10 wt% PVDF binder and 10 wt% super P in <italic toggle="yes">N</italic>-methyl pyrrolidone (NMP) with vigorous stirring. The slurry was cast onto aluminum foil and dried at 80 &#x000b0;C for 24 h in a vacuum oven. All cycling tests were conducted at 60 &#x000b0;C, and the voltage ranges of LCO and NMC811 cells are 2.5&#x02013;4.2 V and 2.5&#x02013;4.3 V, respectively, with a constant current&#x02013;constant voltage (CC&#x02013;CV) charge&#x02013;discharge mode. For the constant-voltage mode, the charge was ceased as the current density decreased to 5% of the initial value. For the LCO and NMC811 pouch cells, the voltage range is 2.5&#x02013;4.2 V and 3.0&#x02013;4.3 V, respectively.</p><p>Ionic conductivity of QCE was measured by electrochemical impedance spectroscopy (EIS) with an AC amplitude of 5 mV over the frequency range of 10<sup>&#x02212;1</sup>&#x02013;10<sup>5</sup> Hz at a temperature range from 30 to 80 &#x000b0;C. The QCE membrane was sandwiched between two stainless steel (SS) plates during the tests. The electrochemical stabilities of QCE were evaluated with linear sweep voltammetry (LSV) at a scanning rate of 5 mV s<sup>&#x02212;1</sup> from 3.0 to 7.5 V with SS as working electrode and Li foil as reference and counter electrode. Cyclic voltammetry (CV) scanning of the LCO coin cell was carried out at a scanning rate of 0.1 mV s<sup>&#x02212;1</sup>. EIS of the LCO coins cell at discharged state was also measured with an AC amplitude of 5 mV in the frequency range of 10<sup>&#x02212;2</sup>&#x02013;10<sup>6</sup> Hz. The EIS, LSV and CV tests were all performed using a VersaSTAT3 electrochemistry workstation (Princeton Applied Research) at 60 &#x000b0;C.</p></sec></sec><sec><label>3.</label><title>Results and discussion</title><p>The QCE membrane was prepared by an <italic toggle="yes">in situ</italic> polymerization method, which is described in detail in Experimental section. Besides the <italic toggle="yes">in situ</italic> polymerization in the cells, the composite electrolyte membranes were also fabricated by casting the precursor solution onto the glass plate followed by thermal polymerization for structural characterization and measurements on some properties. As shown in <xref rid="fig1" ref-type="fig">Fig. 1a and b</xref>, the QCE-P membrane has a smooth surface and exhibits a flexible property. With the addition of LATP ceramics, the membrane shows a translucent appearance, and the thickness is about 200 &#x003bc;m. The microstructure was also observed by SEM, as presented in <xref rid="fig1" ref-type="fig">Fig. 1c and d</xref>. The QCE-P membrane is composed of nanoscaled particles with a porous structure, which provides enough room to absorb the plasticizers. After <italic toggle="yes">in situ</italic> polymerization, QCE has a close contact with both cathode and Li anode (Fig. S1, ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>(a and b) Optical images of flat and curved QCE-P membrane, and (c and d) SEM images of the QCE-P membrane.</title></caption><graphic xlink:href="c9ra08677c-f1" position="float"/></fig><p>Thermal stability is a crucial factor for practical applications of SSEs. To evaluate the thermal stability, the QCE-P membrane and commercial Celgard C480 separator were heated in a blast oven in air at 150 &#x000b0;C for 2 h. <xref rid="fig2" ref-type="fig">Fig. 2a and b</xref> compare the appearance changes of the two membranes before and after thermal treatment. The QCE-P membrane shows a minor change after heating in air, while the Celgard C480 separator shows an obvious shrinkage when heated under the same condition. It suggests that the QCE-P membrane is mechanically more robust than the commercial separator at elevated temperature, so as to avoid short-circuit and the accompanied safety issues.<sup><xref rid="cit41" ref-type="bibr">41</xref></sup> At a high temperature, flammability becomes a fatal defect of carbonate electrolytes to cause accidents. In this regard, F-containing FEC and HFE and P-containing TEP in QCE-P can act as effective fire extinguishers.<sup><xref rid="cit42" ref-type="bibr">42</xref></sup> As shown in <xref rid="fig2" ref-type="fig">Fig. 2c and d</xref>, when membranes are put above the flame, the QCE-P membrane does not support combustion at all (&#x0003e;10 s), which is distinguished from the QCE-base membrane that burns fiercely in 2 s. ESI Videos 1 and 2<xref rid="fn1" ref-type="fn">&#x02020;</xref> also vividly proves the extinguishing capability of QCE-P. As a result, the QCE-P membrane can act as a thermally stable and nonflammable electrolyte for quasi-solid-state batteries.</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>Photographs of QCE-P membrane and Celgard C480 separator at (a) room temperature and (b) 150 &#x000b0;C for 2 h in air, and flame tests of (c) QCE-base membrane and (d) QCE-P membrane.</title></caption><graphic xlink:href="c9ra08677c-f2" position="float"/></fig><p>
+<xref rid="fig3" ref-type="fig">Fig. 3a</xref> shows the impedance spectrum for SS/QCE/SS cell, which is fitted by a equivalent circuit (inset in <xref rid="fig3" ref-type="fig">Fig. 3a</xref>) composed of bulk electrolyte resistance (<italic toggle="yes">R</italic><sub>e</sub>), geometric capacitance (<italic toggle="yes">Q</italic><sub>1</sub>) and electrode/electrolyte interfacial resistance (<italic toggle="yes">Q</italic><sub>2</sub>).<sup><xref rid="cit25" ref-type="bibr">25</xref></sup> The ionic conductivity of QCE-P is 2.8 &#x000d7; 10<sup>&#x02212;4</sup> S cm<sup>&#x02212;1</sup> at room temperature and 7.8 &#x000d7; 10<sup>&#x02212;4</sup> S cm<sup>&#x02212;1</sup> at 60 &#x000b0;C, which are comparable with those for quasi-solid-state electrolyte.<sup><xref rid="cit5" ref-type="bibr">5</xref></sup> The temperature dependence of ionic conductivity from 30 to 80 &#x000b0;C is illustrated in <xref rid="fig3" ref-type="fig">Fig. 3b</xref>. The obtained results agree well with the typical Arrhenius equation.<sup><xref rid="cit43" ref-type="bibr">43</xref></sup><disp-formula id="eqn1"><label>1</label><graphic xlink:href="c9ra08677c-t1.jpg" id="ugt1" position="float"/></disp-formula>where <italic toggle="yes">&#x003c3;</italic> is the ionic conductivity, <italic toggle="yes">A</italic> is a pre-exponential factor, <italic toggle="yes">R</italic> is the gas constant, and <italic toggle="yes">E</italic><sub>a</sub> stands for the activation energy of lithium conduction. Calculated by <xref rid="eqn1" ref-type="disp-formula">eqn (1)</xref>, QCE-P has a low <italic toggle="yes">E</italic><sub>a</sub> (0.23 eV), indicative of a relatively low energy barrier for lithium ion transfer. The relatively high ionic conductivity and low activation energy can be ascribed to the addition of plasticizers and ion-conductive LATP, which may reduce the crystallinity of polymer segments.<sup><xref rid="cit30" ref-type="bibr">30</xref></sup> The electrochemical window of the QCE membrane was investigated using a Li/QCE/SS cell. <xref rid="fig3" ref-type="fig">Fig. 3c</xref> compares the LSV curves of QCE-base and QCE-P in the first sweeping. Although the TEP component has an oxidation current peak at around 4.7 V, the oxidation potential of the bulk electrolyte is around 6.8 V, much higher than that of the QCE-base electrolyte (5.5 V). This result is consistent with density functional theory (DFT) calculation, that is, TEP has higher highest occupied molecular orbital (HOMO) energy, which is oxidized prior to FEC.<sup><xref rid="cit44" ref-type="bibr">44,45</xref></sup> Subsequent LSV tests in Fig. S2 (ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>) demonstrate that after the formation of cathode electrolyte interface (CEI) from TEP decomposition, further reactions between the cathode and electrolyte around 4.0 V are prohibited.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>(a) EIS of QCE-P at room temperature and 60 &#x000b0;C, (b) temperature dependent ionic conductivity of QCE-P, and (c) comparison of LSV curves of QCE-base and QCE-P in the first sweeping.</title></caption><graphic xlink:href="c9ra08677c-f3" position="float"/></fig><p>To further investigate the interfacial impedance between QCE-P and electrodes, EIS test of the Li/QCE-P/LCO cell was carried out. <xref rid="fig4" ref-type="fig">Fig. 4a</xref> displays the Nyquist plot and the corresponding equivalent circuit. There are two semicircles in the spectrum, which is due to the surface film resistance (<italic toggle="yes">R</italic><sub>f</sub>) and charge transfer resistance (<italic toggle="yes">R</italic><sub>ct</sub>). The intersection of the first semicircle at the real axis stands for bulk electrolyte resistance (<italic toggle="yes">R</italic><sub>e</sub>).<sup><xref rid="cit31" ref-type="bibr">31</xref></sup> As can be seen from <xref rid="fig4" ref-type="fig">Fig. 4a</xref>, QCE-P has a comparatively low interfacial resistance of 16 &#x003a9;, indicating that SEI and CEI layers from electrolyte decomposition are thin enough to provide fast Li-ion diffusion channels. In addition, the result shows that the cell also has a low <italic toggle="yes">R</italic><sub>ct</sub> of 65 &#x003a9;. A CV test was also conducted between 3.0&#x02013;4.2 V to study the reaction mechanism of LCO-based quasi-solid-state cell (<xref rid="fig4" ref-type="fig">Fig. 4b</xref>), where the anodic and cathodic peaks correspond to charge/discharge plateaus. The stronger oxidation and reduction currents in the first circle are related to degradation of part of the TEP and FEC, respectively.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>(a) EIS and (b) CV plots for LCO-based quasi-solid-sate cells using QCE-P.</title></caption><graphic xlink:href="c9ra08677c-f4" position="float"/></fig><p>Electrochemical performance of lithium cells with the QCE-P electrolyte was evaluated by using LCO and NMC811 cathodes tested at 60 &#x000b0;C. <xref rid="fig5" ref-type="fig">Fig. 5a</xref> shows the charge/discharge profiles of LCO cell from 0.1C to 10C (1C is defined as 137 mA g<sup>&#x02212;1</sup>). The polarization voltages between charge and discharge process increase and voltage plateaus become blurred as the current density increases, because the interfacial electrochemical polarization and concentration polarization in cathode increase steadily.<sup><xref rid="cit46" ref-type="bibr">46</xref></sup> The maximum discharge capacity of LCO with QCE-P at 0.1C is 136.3 mA h g<sup>&#x02212;1</sup>, which is close to the theoretical capacity of LCO charged to 4.2 V (&#x0223c;140 mA h g<sup>&#x02212;1</sup>). The discharge capacities of LCO with QCE-P at 0.5C, 1C and 2C are 128.9 and 121.7 and 110.5 mA h g<sup>&#x02212;1</sup>, respectively, higher than that with QCE-base. As seen in <xref rid="fig5" ref-type="fig">Fig. 5b</xref>, the merit of using QCE-P becomes more obvious as the current density increases to 5C and 10C, where the cell still has a relatively high specific capacity of 87.6 and 60.3 mA h g<sup>&#x02212;1</sup>, respectively. The gradual increase in capacity with cycling at 0.1C, 0.5C and 1C can be ascribed to the increased activation of the interface between the electrolyte and electrodes. When the current density returns to 1C, the discharge capacity increases to 120.8 mA h g<sup>&#x02212;1</sup>, indicating excellent reversibility of the cell. The cycling stability of the cell was evaluated at 1C after activation at 0.1C for 10 cycles and 0.5C for 5 cycles. As shown in <xref rid="fig5" ref-type="fig">Fig. 5c</xref>, the QCE-P cell also exhibits improved cycle performance compared with the QCE-base cell. After 180 cycles at 1C, the cell with QCE-P has a 78.7% retention, while the retention of the cell with QCE-base is only 59.2%. This behavior indicates that QCE-P electrolyte and its interfaces with the electrodes are stable during repeated cycling.</p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>(a) Voltage profiles of LCO cell with QCE-P, comparison of (b) rate capability and (c) cycling performance (1C) of LCO cells with QCE-P and QCE-base, (d) voltage profiles of NMC811 cell with QCE-P, and comparison of (e) rate capability and (f) cycling performance (1C) of NMC811 cells with QCE-P and QCE-base.</title></caption><graphic xlink:href="c9ra08677c-f5" position="float"/></fig><p>The electrochemical performance of the cells with more aggressive NMC811 cathode was also investigated. A high discharge capacity of 177.2 mA h g<sup>&#x02212;1</sup> is obtained at 0.1C (1C is defined as 180 mA g<sup>&#x02212;1</sup>) for the NMC cell with QCE-P as seen in <xref rid="fig5" ref-type="fig">Fig. 5d</xref>. The capacity is on the decrease with increasing the current density. However, a discharge capacity of 79.2 mA h g<sup>&#x02212;1</sup> is still obtained at 10C. In contrast, the NMC811 cell with QCE-base has a discharge capacity of only 35.8 mA h g<sup>&#x02212;1</sup> at 10C (<xref rid="fig5" ref-type="fig">Fig. 5e</xref>). The enhanced rate capability can be ascribed to increased Li-ion conductivity in the QCE-P bulk and the interface between QCE-P and the electrodes. As shown in <xref rid="fig5" ref-type="fig">Fig. 5f</xref>, although the cycling stability of NMC811 cathode is relatively poor owing to severe transition metal dissolution, easier electrolyte degradation and lattice structure damage problems,<sup><xref rid="cit47" ref-type="bibr">47</xref></sup> the QCE-P cell still shows a relatively high capacity retention of 73% after 100 cycles, while the cell with QCE-base has a retention of only 60.9%.</p><p>To better understand the reason why cells using different electrolytes show huge difference in cell performance, the Li anodes were observed by SEM after 100 cycles from the NMC811 cells. <xref rid="fig6" ref-type="fig">Fig. 6a</xref> shows that lithium dendrites grow vertically into column-like microstructure when Li was repeated cycled in QCE-base. The conventional carbonate electrolyte is not compatible with Li anode, where a large proportion of electrolyte irreversibly reacts with Li to produce a thick SEI layer which insulates dead Li from electronic contact with the rest of the Li. However, in the case of QCE-P, an efficient SEI layer forms from the decomposition of the F- and P-containing plasticizers in QCE-P. The SEI layer inhibits the further reactions between Li and the electrolyte and the growth of lithium dendrites. A smooth Li surface is thus obtained as seen in <xref rid="fig6" ref-type="fig">Fig. 6b</xref>. As a result, the cell with QCE-P shows stable cycling with a stable SEI layer on Li.</p><fig position="float" id="fig6"><label>Fig. 6</label><caption><title>SEM images of the top of Li anode after 100 cycles from NMC811 cells with (a) QCE-base and (b) QCE-P electrolyte.</title></caption><graphic xlink:href="c9ra08677c-f6" position="float"/></fig><p>
+<xref rid="fig7" ref-type="fig">Fig. 7a and b</xref> compare digital images of electrolytes after cycling in the NMC811 cells. Obvious side products can be seen on the surface of QCE-base (the brown area in <xref rid="fig7" ref-type="fig">Fig. 7a</xref>) with the side reactions between the electrolyte and the electrodes. By contrast, QCE-P should hardly react with the electrodes after the formation of efficient the SEI and CEI layers, leaving a clean surface of the electrolyte (<xref rid="fig7" ref-type="fig">Fig. 7b</xref>). To understand the effect of F-containing FEC and HFE and P-containing TEP on the chemical compositions of the SEI and CEI, XPS characterizations were conducted on the cycled NMC811 cathodes. <xref rid="fig7" ref-type="fig">Fig. 7c and d</xref> compare the P 2p and F 1s XPS of the cathodes cycled in different electrolytes. For the cathode with QCE-P, the peak at 133.6 eV corresponds to the formation of Li<sub>3</sub>PO<sub>4</sub> from the decomposition of TEP. For the cathode with QCE-base, the peak at 135 eV is ascribed to the formation of Li<sub><italic toggle="yes">x</italic></sub>PO<sub><italic toggle="yes">y</italic></sub>F<sub><italic toggle="yes">z</italic></sub> from the decomposition of LiPF<sub>6</sub>. As the main decomposition product from TEP, Li<sub>3</sub>PO<sub>4</sub> has been used to coat cathode materials or fill in gel electrolytes due to its wide electrochemical window.<sup><xref rid="cit48" ref-type="bibr">48</xref></sup> Thus, the relatively Li<sub>3</sub>PO<sub>4</sub>-rich CEI can prevent further decomposition of the electrolyte on the cathode. This stabilization effect of cathode surface is also supported by the F 1s spectrum. The surface of the cycled NMC811 cathode contains much less LiPF<sub>6</sub> decomposition species like Li<sub><italic toggle="yes">x</italic></sub>PO<sub><italic toggle="yes">y</italic></sub>F<sub><italic toggle="yes">z</italic></sub> and LiF. Owing to less content of electronically insulating LiF, the QCE-P cell has a lower charge transfer impedance after cycling and exhibits better rate performance than the QCE-base cell. In addition, as shown in Fig. S3 (ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>), the formation of a P and F-containing CEI layer is evident by the HAADF-STEM observation and EDS mapping on the cycled NMC811 particles.</p><fig position="float" id="fig7"><label>Fig. 7</label><caption><title>Optic photographs of the surface of (a) QCE-base and (b) QCE-P after cycling in the NMC811 cells, XPS of (c and d) NMC811 cathodes and (e and f) Li anodes cycled in different electrolytes.</title></caption><graphic xlink:href="c9ra08677c-f7" position="float"/></fig><p>The chemical components of the SEI are mainly attributed to degradation of FEC, as it has a lower lowest unoccupied molecular orbital (LUMO) energy.<sup><xref rid="cit44" ref-type="bibr">44,45</xref></sup><xref rid="fig7" ref-type="fig">Fig. 7e and f</xref> illustrate the Li 1s and F 1s spectra of the Li anodes cycled in QCE-base and QCE-P. Unlike the cathode side, species such as LiF and C&#x02013;F from FEC reduction dominate the SEI. F-rich SEI is good electronic insulator and blocks the electron tunnel, making itself a pure ionic conductor to prevent continuous electrolyte consumption.<sup><xref rid="cit49" ref-type="bibr">49,50</xref></sup> In addition, LiF presents high interfacial energy to Li metal, which facilitates Li-ion migration along the interface and enables the deposition of metallic Li in the parallel direction.<sup><xref rid="cit51" ref-type="bibr">51</xref></sup> As a consequence, these substances act as efficient protective layer for Li anode, enabling a smooth Li surface and thereby slower capacity loss during cycling.</p><p>For NMC811 cathodes, surface phase transformation to rock-salt structure is another important mechanism for electrochemical failure. To investigate the degree of lattice reconfiguration, the NMC811 cell was charged to 4.3 V after 100 cycles, and then it was disassembled to check the change of valence state of Ni on the cathode surface using XPS (<xref rid="fig8" ref-type="fig">Fig. 8</xref>). The Ni 2p spectra show that there is more Ni<sup>4+</sup> and less Ni<sup>2+</sup> and Ni<sup>3+</sup> on the NMC 811 cathode cycled in QCE-P than that in QCE-base. The presence of Ni<sup>2+</sup> indicates the irreversible formation of the NiO-like rock-salt phase on the NMC811 cathode surface.<sup><xref rid="cit52" ref-type="bibr">52</xref></sup> This suggests that the CEI on NMC 811 can refrain lattice reconfiguration.</p><fig position="float" id="fig8"><label>Fig. 8</label><caption><title>Comparison of XPS of NMC811 cathodes charged to 4.3 V after 100 cycles in (a) QCE-base and (b) QCE-P.</title></caption><graphic xlink:href="c9ra08677c-f8" position="float"/></fig><p>Except for the use of F-rich and P-rich plasticizers, polymer matrix and LATP particles in QCE also play a vital role in cycling stability of cells. As shown in Fig. S4 (ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>), the electrochemical properties of the LCO and NMC811 cells using liquid plasticizers-based electrolyte (1 M LiPF<sub>6</sub> inFEC/HFE/TEP, 1&#x02009;:&#x02009;1&#x02009;:&#x02009;1 in volume) were also evaluated to verify the effect of polymer matrix and filler. Note that the liquid cells show poorer cycling stability with 89% retention for LCO and 78% retention for NMC811 after 50 cycles, comparing with the values for the QCE cells (95% for LCO and 83% for NMC811) after the same cycles. Thus, it can be concluded that the polymer and LATP further improve the cycling stability of the cells by alleviating the decomposition of the plasticizers, especially at relatively high temperature.</p><p>Cycling performance and abuse tests of the pouch-type LCO and NMC811 cells were also conducted. <xref rid="fig9" ref-type="fig">Fig. 9a and b</xref> give the voltage profiles and cycling performance of the LCO/graphite pouch cell. After 50 cycles at 0.5C, the cell can keep 81% of its initial capacity. As shown in <xref rid="fig9" ref-type="fig">Fig. 9c and d</xref>, the NMC811 cell can exhibit a moderate cycling stability at 0.5C (75% retention after 50 cycles) even using more aggressive LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> cathode and relatively thin Li foil anode (100 &#x003bc;m). As seen in <xref rid="fig9" ref-type="fig">Fig. 9e&#x02013;h</xref> and ESI Videos 3&#x02013;5,<xref rid="fn1" ref-type="fn">&#x02020;</xref> blue LED lights can be still lighted after abuse tests of folding, cutting and nail penetration, which indicates good safety of the cells with the QCE-P composed of LATP/polymer composite and nonflammable plasticizers.</p><fig position="float" id="fig9"><label>Fig. 9</label><caption><title>(a) Voltage profiles and (b) cycling performance of LCO/graphite pouch cell with QCE-P at 0.5C, (c) voltage profiles and (d) cycling performance of NMC811/Li pouch cell with QCE-P at 0.5C, and abuse tests of the NMC811/Li pouch cell under different conditions: (e) pristine, (f) folding, (g) cutting and (h) nail penetration.</title></caption><graphic xlink:href="c9ra08677c-f9" position="float"/></fig></sec><sec><label>4.</label><title>Conclusions</title><p>In summary, we developed a novel QCE, which is composed of PETPTA polymer matrix, LATP inorganic fillers, LiPF<sub>6</sub> salt and FEC/TEP/HFE plasticizers. This QCE shows good flexibility, moderate room-temperature ionic conductivity and nonflammability. Lithium metal cells assembled with QCE deliver high capacity and show stable cycling at 60 &#x000b0;C. The LCO cell with QCE can keep 78.7% of its initial capacity after 180 cycles and the NMC811 cell holds 73% capacity after 100 cycles at 1C rate. The LiF and C&#x02013;F species <italic toggle="yes">in situ</italic> formed from the decomposition of FEC protect Li anode, while Li<sub>3</sub>PO<sub>4</sub> derived from TEP stabilizes the electrolyte/cathode interface, bringing in long cycle life of lithium metal cells. Also, LCO/graphite and NMC811/Li pouch cells show respective 81% and 75% capacity retention at 0.5C after 50 cycles at 60 &#x000b0;C, and show a good safety bearing abuse tests of folding, cutting and nail penetration. This work will shed light on the design of safe, stable solid electrolytes for high-performance Li metal batteries.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="RA-009-C9RA08677C-s001" position="float" content-type="local-data"><label>RA-009-C9RA08677C-s001</label><media xlink:href="RA-009-C9RA08677C-s001.pdf" id="d64e928" position="anchor"/></supplementary-material><supplementary-material id="RA-009-C9RA08677C-s002" position="float" content-type="local-data"><label>RA-009-C9RA08677C-s002</label><media xlink:href="RA-009-C9RA08677C-s002.mp4" id="d64e931" position="anchor" mimetype="video" mime-subtype="mp4"/></supplementary-material><supplementary-material id="RA-009-C9RA08677C-s003" position="float" content-type="local-data"><label>RA-009-C9RA08677C-s003</label><media xlink:href="RA-009-C9RA08677C-s003.mp4" id="d64e934" position="anchor" mimetype="video" mime-subtype="mp4"/></supplementary-material><supplementary-material id="RA-009-C9RA08677C-s004" position="float" content-type="local-data"><label>RA-009-C9RA08677C-s004</label><media xlink:href="RA-009-C9RA08677C-s004.mp4" id="d64e937" position="anchor" mimetype="video" mime-subtype="mp4"/></supplementary-material><supplementary-material id="RA-009-C9RA08677C-s005" position="float" content-type="local-data"><label>RA-009-C9RA08677C-s005</label><media xlink:href="RA-009-C9RA08677C-s005.mp4" id="d64e940" position="anchor" mimetype="video" mime-subtype="mp4"/></supplementary-material><supplementary-material id="RA-009-C9RA08677C-s006" position="float" content-type="local-data"><label>RA-009-C9RA08677C-s006</label><media xlink:href="RA-009-C9RA08677C-s006.mp4" id="d64e943" position="anchor" mimetype="video" mime-subtype="mp4"/></supplementary-material></sec></body><back><ack><p>This work was supported by the National Natural Science Foundation of China (No. 51572238), and Zhejiang Provincial Natural Science Foundation of China under Grant no. LY19E020013.</p></ack><ref-list><title>References</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>K. S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2013</year><volume>135</volume><fpage>1167</fpage><lpage>1176</lpage><pub-id pub-id-type="doi">10.1021/ja3091438</pub-id><?supplied-pmid 23294028?><pub-id pub-id-type="pmid">23294028</pub-id></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>G. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>H. M.</given-names></name>
+</person-group><source>Energy Environ. Sci.</source><year>2014</year><volume>7</volume><fpage>1307</fpage><lpage>1338</lpage><pub-id pub-id-type="doi">10.1039/C3EE43182G</pub-id></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Choi</surname><given-names>J. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aurbach</surname><given-names>D.</given-names></name>
+</person-group><source>Nat. Rev. Mater.</source><year>2016</year><volume>1</volume><fpage>16013</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2016.13</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>D. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>Y.</given-names></name>
+</person-group><source>Nat. Nanotechnol.</source><year>2017</year><volume>12</volume><fpage>194</fpage><lpage>206</lpage><pub-id pub-id-type="doi">10.1038/nnano.2017.16</pub-id><?supplied-pmid 28265117?><pub-id pub-id-type="pmid">28265117</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>X. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>C. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2017</year><volume>117</volume><fpage>10403</fpage><lpage>10473</lpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.7b00115</pub-id><?supplied-pmid 28753298?><pub-id pub-id-type="pmid">28753298</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Engelhard</surname><given-names>M. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>D. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiao</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2018</year><volume>10</volume><fpage>2469</fpage><lpage>2479</lpage><pub-id pub-id-type="doi">10.1021/acsami.7b15117</pub-id><?supplied-pmid 29281242?><pub-id pub-id-type="pmid">29281242</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nasybulin</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. G.</given-names></name>
+</person-group><source>Energy Environ. Sci.</source><year>2014</year><volume>7</volume><fpage>513</fpage><lpage>537</lpage><pub-id pub-id-type="doi">10.1039/C3EE40795K</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Erickson</surname><given-names>E. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schipper</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Penki</surname><given-names>T. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shin</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Erk</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chesneau</surname><given-names>F. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Markovsky</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aurbach</surname><given-names>D.</given-names></name>
+</person-group><source>J. Electrochem. Soc.</source><year>2017</year><volume>164</volume><fpage>A6341</fpage><lpage>A6348</lpage><pub-id pub-id-type="doi">10.1149/2.0461701jes</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Manthiram</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Knight</surname><given-names>J. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Myung</surname><given-names>S. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oh</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Y. K.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2016</year><volume>6</volume><fpage>1501010</fpage><pub-id pub-id-type="doi">10.1002/aenm.201501010</pub-id></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rodrigues</surname><given-names>M. T. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Babu</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gullapalli</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kalaga</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sayed</surname><given-names>F. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kato</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Joyner</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ajayan</surname><given-names>P. M.</given-names></name>
+</person-group><source>Nat. Energy</source><year>2017</year><volume>2</volume><fpage>17108</fpage><pub-id pub-id-type="doi">10.1038/nenergy.2017.108</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Radin</surname><given-names>M. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hy</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sina</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fang</surname><given-names>C. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vinckeviciute</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Whittingham</surname><given-names>M. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>Y. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Van der Ven</surname><given-names>A.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2017</year><volume>7</volume><fpage>1602888</fpage><pub-id pub-id-type="doi">10.1002/aenm.201602888</pub-id></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>Y.</given-names></name>
+</person-group><source>Chem. Mater.</source><year>2010</year><volume>22</volume><fpage>587</fpage><lpage>603</lpage><pub-id pub-id-type="doi">10.1021/cm901452z</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>J. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pastel</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>L. B.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2018</year><volume>30</volume><fpage>1802068</fpage><pub-id pub-id-type="doi">10.1002/adma.201802068</pub-id><?supplied-pmid 30302834?><pub-id pub-id-type="pmid">30302834</pub-id></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2014</year><volume>114</volume><fpage>11503</fpage><lpage>11618</lpage><pub-id pub-id-type="doi">10.1021/cr500003w</pub-id><?supplied-pmid 25351820?><pub-id pub-id-type="pmid">25351820</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Choudhury</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mangal</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Agrawal</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Archer</surname><given-names>L. A.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2015</year><volume>6</volume><fpage>10101</fpage><pub-id pub-id-type="doi">10.1038/ncomms10101</pub-id><?supplied-pmid 26634644?><pub-id pub-id-type="pmid">26634644</pub-id></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jeong</surname><given-names>S. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Seo</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>D. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>H. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>Y. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Abe</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+</person-group><source>Electrochem. Commun.</source><year>2008</year><volume>10</volume><fpage>635</fpage><lpage>638</lpage><pub-id pub-id-type="doi">10.1016/j.elecom.2008.02.006</pub-id></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tao</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bi</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>J.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2017</year><volume>9</volume><fpage>7003</fpage><lpage>7008</lpage><pub-id pub-id-type="doi">10.1021/acsami.6b13859</pub-id><?supplied-pmid 28191849?><pub-id pub-id-type="pmid">28191849</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gauthier</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Carney</surname><given-names>T. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Grimaud</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Giordano</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pour</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>H. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fenning</surname><given-names>D. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lux</surname><given-names>S. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Paschos</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bauer</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Maglia</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lupart</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lamp</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shao Horn</surname><given-names>Y.</given-names></name>
+</person-group><source>J. Phys. Chem. Lett.</source><year>2015</year><volume>6</volume><fpage>4653</fpage><lpage>4672</lpage><pub-id pub-id-type="doi">10.1021/acs.jpclett.5b01727</pub-id><?supplied-pmid 26510477?><pub-id pub-id-type="pmid">26510477</pub-id></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>C. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ryu</surname><given-names>H. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>G. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>K. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Y. K.</given-names></name>
+</person-group><source>J. Mater. Chem. A</source><year>2018</year><volume>6</volume><fpage>4126</fpage><lpage>4132</lpage><pub-id pub-id-type="doi">10.1039/C7TA11346C</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>E. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>D. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>S. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Q. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>L. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>Z. B.</given-names></name>
+</person-group><source>Inorg. Chem.</source><year>2017</year><volume>56</volume><fpage>8355</fpage><lpage>8362</lpage><pub-id pub-id-type="doi">10.1021/acs.inorgchem.7b01035</pub-id><?supplied-pmid 28649830?><pub-id pub-id-type="pmid">28649830</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chai</surname><given-names>J. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>G. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L. Q.</given-names></name>
+</person-group><source>Adv. Sci.</source><year>2016</year><volume>4</volume><fpage>1600377</fpage><pub-id pub-id-type="doi">10.1002/advs.201600377</pub-id><?supplied-pmid 28251055?><pub-id pub-id-type="pmid">28251055</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hitz</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>L. B.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2017</year><volume>29</volume><fpage>1701169</fpage><pub-id pub-id-type="doi">10.1002/adma.201701169</pub-id><?supplied-pmid 28741318?><pub-id pub-id-type="pmid">28741318</pub-id></element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>W. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nie</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>C. W.</given-names></name>
+</person-group><source>Nano Energy</source><year>2018</year><volume>45</volume><fpage>413</fpage><lpage>419</lpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2018.01.028</pub-id></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Varzi</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Raccichini</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Passerini</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Scrosati</surname><given-names>B.</given-names></name>
+</person-group><source>J. Mater. Chem. A</source><year>2016</year><volume>4</volume><fpage>17251</fpage><lpage>17259</lpage><pub-id pub-id-type="doi">10.1039/C6TA07384K</pub-id></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>X. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X. X.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2016</year><volume>301</volume><fpage>47</fpage><lpage>53</lpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.09.111</pub-id></element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X. F.</given-names></name>
+</person-group><source>Small Methods</source><year>2019</year><volume>3</volume><fpage>1800551</fpage><pub-id pub-id-type="doi">10.1002/smtd.201800551</pub-id></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kamaya</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Homma</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yamakawa</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hirayama</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kanno</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yonemura</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kamiyama</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kato</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hama</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kawamoto</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mitsui</surname><given-names>A.</given-names></name>
+</person-group><source>Nat. Mater.</source><year>2011</year><volume>10</volume><fpage>682</fpage><lpage>686</lpage><pub-id pub-id-type="doi">10.1038/nmat3066</pub-id><?supplied-pmid 21804556?><pub-id pub-id-type="pmid">21804556</pub-id></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kato</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hori</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Saito</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Suzuki</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hirayama</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mitsui</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yonemura</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Iba</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kanno</surname><given-names>R.</given-names></name>
+</person-group><source>Nat. Energy</source><year>2016</year><volume>1</volume><fpage>16030</fpage><pub-id pub-id-type="doi">10.1038/nenergy.2016.30</pub-id></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>C. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>Y. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wilkinson</surname><given-names>D. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. J.</given-names></name>
+</person-group><source>Nano Energy</source><year>2017</year><volume>33</volume><fpage>363</fpage><lpage>386</lpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2017.01.028</pub-id></element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>L. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X. F.</given-names></name>
+</person-group><source>Energy Storage Materials</source><year>2019</year><volume>19</volume><fpage>379</fpage><lpage>400</lpage><pub-id pub-id-type="doi">10.1016/j.ensm.2018.10.012</pub-id></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ruan</surname><given-names>Y. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>Z. Y.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2019</year><volume>9</volume><fpage>1900611</fpage><pub-id pub-id-type="doi">10.1002/aenm.201900611</pub-id></element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huo</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>X. L.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2019</year><volume>9</volume><fpage>1804004</fpage><pub-id pub-id-type="doi">10.1002/aenm.201804004</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>W. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>L. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>Y.</given-names></name>
+</person-group><source>J. Membr. Sci.</source><year>2015</year><volume>492</volume><fpage>490</fpage><lpage>496</lpage><pub-id pub-id-type="doi">10.1016/j.memsci.2015.06.041</pub-id></element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>H. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>L. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Q.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2014</year><volume>249</volume><fpage>392</fpage><lpage>396</lpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.10.112</pub-id></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zeng</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Y. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wan</surname><given-names>L. J.</given-names></name>
+</person-group><source>Energy Storage Materials</source><year>2018</year><volume>10</volume><fpage>85</fpage><lpage>91</lpage><pub-id pub-id-type="doi">10.1016/j.ensm.2017.06.017</pub-id></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>Y. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>R. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><source>Energy Environ.
+Sci.</source><year>2017</year><volume>10</volume><fpage>1660</fpage><lpage>1667</lpage><pub-id pub-id-type="doi">10.1039/C7EE00988G</pub-id></element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chu</surname><given-names>P. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Di</surname><given-names>Z. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><source>Nano Energy</source><year>2016</year><volume>28</volume><fpage>447</fpage><lpage>454</lpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2016.09.002</pub-id></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>D. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>H.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2019</year><volume>423</volume><fpage>137</fpage><lpage>143</lpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2019.03.047</pub-id></element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>D. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>K. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Engelhard</surname><given-names>M. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. G.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2018</year><volume>30</volume><fpage>1706102</fpage><pub-id pub-id-type="doi">10.1002/adma.201706102</pub-id><?supplied-pmid 29575163?><pub-id pub-id-type="pmid">29575163</pub-id></element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Takase</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kubo</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aono</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shimizu</surname><given-names>Y.</given-names></name>
+</person-group><source>J. Sol-Gel Sci. Technol.</source><year>2016</year><volume>79</volume><fpage>564</fpage><lpage>572</lpage><pub-id pub-id-type="doi">10.1007/s10971-016-4043-y</pub-id></element-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C. J.</given-names></name>
+</person-group><source>ACS Appl. Energy Mater.</source><year>2019</year><volume>2</volume><fpage>5292</fpage><lpage>5299</lpage><pub-id pub-id-type="doi">10.1021/acsaem.9b01032</pub-id></element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Borodin</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liou</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amine</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. S.</given-names></name>
+</person-group><source>Nat. Nanotechnol.</source><year>2018</year><volume>13</volume><fpage>715</fpage><lpage>722</lpage><pub-id pub-id-type="doi">10.1038/s41565-018-0183-2</pub-id><?supplied-pmid 30013215?><pub-id pub-id-type="pmid">30013215</pub-id></element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zeng</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yue</surname><given-names>J. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>T. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Y. G.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2019</year><volume>9</volume><fpage>1803854</fpage><pub-id pub-id-type="doi">10.1002/aenm.201803854</pub-id></element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>Y. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yoo</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yim</surname><given-names>T.</given-names></name>
+</person-group><source>RSC Adv.</source><year>2017</year><volume>7</volume><fpage>20049</fpage><lpage>20056</lpage><pub-id pub-id-type="doi">10.1039/C6RA28268G</pub-id></element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>E. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. S.</given-names></name>
+</person-group><source>Chem</source><year>2019</year><volume>5</volume><fpage>896</fpage><lpage>912</lpage></element-citation></ref><ref id="cit46"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>A. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Y. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>H. J.</given-names></name>
+</person-group><source>Electrochim. Acta</source><year>2018</year><volume>278</volume><fpage>1</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1016/j.electacta.2018.05.012</pub-id></element-citation></ref><ref id="cit47"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nordlund</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Markus</surname><given-names>I. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Weng</surname><given-names>T. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xin</surname><given-names>H. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Doeff</surname><given-names>M. M.</given-names></name>
+</person-group><source>Energy Environ. Sci.</source><year>2014</year><volume>7</volume><fpage>3077</fpage><lpage>3085</lpage><pub-id pub-id-type="doi">10.1039/C4EE01400F</pub-id></element-citation></ref><ref id="cit48"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Baek</surname><given-names>S. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Honma</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rangappa</surname><given-names>D.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2017</year><volume>343</volume><fpage>22</fpage><lpage>29</lpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.01.030</pub-id></element-citation></ref><ref id="cit49"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Verbrugge</surname><given-names>M. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sheldon</surname><given-names>B. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>Y. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qi</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>X. C.</given-names></name>
+</person-group><source>Nano Lett.</source><year>2016</year><volume>16</volume><fpage>2011</fpage><lpage>2016</lpage><pub-id pub-id-type="doi">10.1021/acs.nanolett.5b05283</pub-id><?supplied-pmid 26889564?><pub-id pub-id-type="pmid">26889564</pub-id></element-citation></ref><ref id="cit50"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leung</surname><given-names>K.</given-names></name>
+</person-group><source>J. Phys. Chem. C</source><year>2013</year><volume>117</volume><fpage>1539</fpage><lpage>1547</lpage><pub-id pub-id-type="doi">10.1021/jp308929a</pub-id></element-citation></ref><ref id="cit51"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>K. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C. L.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2018</year><volume>10</volume><fpage>34322</fpage><lpage>34331</lpage><pub-id pub-id-type="doi">10.1021/acsami.8b12579</pub-id><?supplied-pmid 30207450?><pub-id pub-id-type="pmid">30207450</pub-id></element-citation></ref><ref id="cit52"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hwang</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>G. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Y. K.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2019</year><volume>29</volume><fpage>1902496</fpage><pub-id pub-id-type="doi">10.1002/adfm.201902496</pub-id></element-citation></ref></ref-list></back></article>

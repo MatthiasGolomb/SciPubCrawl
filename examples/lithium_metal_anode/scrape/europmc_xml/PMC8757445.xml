@@ -1,0 +1,608 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8757445</article-id><article-id pub-id-type="doi">10.1021/acsomega.1c05576</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Double-Layer Solid Composite Electrolytes Enabling
+Improved Room-Temperature Cycling Performance for High-Voltage Lithium
+Metal Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Zou</surname><given-names>Lei</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Shi</surname><given-names>Kun</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Xu</surname><given-names>Zhengjie</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Yang</surname><given-names>Zeheng</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6979-8901</contrib-id><name><surname>Zhang</surname><given-names>Weixin</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>School
+of Chemistry and Chemical Engineering, <institution>Hefei
+University of Technology</institution>, Hefei, Anhui 230009, <country>China</country></aff><aff id="aff2"><label>&#x02021;</label><institution>Institute
+of Energy, Hefei Comprehensive National Science Center</institution>, Hefei, Anhui 230031, <country>China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>shikun@hfut.edu.cn</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>wxzhang@hfut.edu.cn</email>.</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><day>11</day><month>01</month><year>2022</year></pub-date><volume>7</volume><issue>1</issue><fpage>994</fpage><lpage>1002</lpage><history><date date-type="received"><day>06</day><month>10</month><year>2021</year></date><date date-type="accepted"><day>30</day><month>11</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_0007" id="ab-tgr1"/></p><p>The development of
+solid-state electrolytes (SSEs) for high energy
+density lithium metal batteries (LMBs) usually needs to take into
+account of the interfacial compatibility against lithium metal and
+the electrolyte stability suitable for a high-potential cathode. In
+this study, through a facile two-step coating process, novel double-layer
+solid composite electrolytes (SCEs) with Janus characteristics are
+customized for the high-voltage LMBs with improved room-temperature
+cycling performance. Among which, high-voltage resistant poly(vinylidene
+fluoride) (PVDF) is adopted here for the construction of an electrolyte
+layer facing the cathode, while the other layer against the lithium
+anode is composed of the polymer matrix of poly(ethylene oxide) (PEO)
+blended with PVDF to obtain a lithium metal-friendly interface. With
+the further incorporation of Laponite clay, the PVDF/(PEO+PVDF)-L
+SCEs not only exhibit improved mechanical properties, but also achieve
+a highly increased ionic conductivity (5.2 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>) and lithium ion migration number (0.471)
+at room temperature. The assembled NCM523|PVDF/(PEO+PVDF)-L
+SCEs|Li cells thus are able to deliver the initial discharge capacity
+of 153.9 mAh g<sup>&#x02013;1</sup> with 80.8% capacity retention after
+200 cycles at 0.3 C. Such easily manufactured double-layer SCEs capable
+of operating steadily at room temperature provide a competitive electrolyte
+option for high-voltage solid-state LMBs.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>21908037</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministry of Education of the People''s Republic of China</institution><institution-id institution-id-type="doi">10.13039/501100002338</institution-id></institution-wrap></funding-source><award-id>JZ2021HGTB0119</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>91834301</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao1c05576</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao1c05576</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Relying on the extremely
+high theoretical specific capacity (3860
+mAh g<sup>&#x02013;1</sup>) and ultralow potential (&#x02212;3.04 V
+vs standard hydrogen electrode) of lithium metal anodes, lithium metal
+batteries (LMBs) have been expected to be one of the most promising
+energy storage devices with high energy density.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> On the one hand, however, an unstable
+solid electrolyte interface (SEI) often forms in conventional LMBs
+owing to the heterogeneous lithium deposition and natural reaction
+between liquid electrolyte and lithium metal,<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> which
+seriously hinders the exertion of battery capacity or even causes
+a battery short circuit due to the accompanying uncontrolled lithium
+dendrite growth.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> On the other hand, to maximize
+the energy density of batteries, lithium metal anodes need to be matched
+with high-voltage cathodes, and it thus puts forward urgent demands
+for more stable electrolytes enabling sustained high voltage. To solve
+these issues, various strategies have been explored, such as constructing
+artificial SEI layers,<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> adding electrolyte fillers,<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> replacing the
+liquid electrolyte with solid-state electrolytes (SSEs),<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> and so on.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> Among them, introducing SSEs
+into LMBs has received the most attention due to their high safety
+and effective lithium dendrite inhibition.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Accordingly, developing the SSEs with excellent interfacial compatibility
+to lithium metal anodes as well as high-voltage stability to cathodes
+for high-performance LMBs becomes particularly critical and is of
+great significance.</p><p>Generally, SSEs include solid inorganic
+electrolytes (SIEs), solid
+polymer electrolytes (SPEs), and solid composite electrolytes (SCEs).<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> SIEs have attracted attention mainly because
+of their high ionic conductivity and large moduli for lithium dendrite
+inhibition, but their inherent mechanical brittleness and high interface
+impedance leads to severely limited utilization.<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> Compared with
+SIEs, SPEs are known for the easier processing, higher mechanical
+flexibility, and better interfacial compatibility, while they always
+show a low ionic conductivity at 25 &#x000b0;C (&#x0003c;10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>), which is hard to meet the normal operation
+of room-temperature batteries.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> As a solution to the issues, SCEs constructed through compounding
+inorganic fillers with SPEs are considered to be the most promising
+candidate for safe electrolytes on account of the combined advanced
+features of SIEs and SPEs, such as acceptable ionic conductivity,
+good interface contact with electrodes, improved mechanical strength
+to realize lithium dendrite inhibition, and so on.<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref29">29</xref></sup> Unfortunately, a monocomponent
+polymer matrix for SCEs is still powerless to satisfy the increasingly
+diversified demands.</p><p>For instance, as one of the most extensively
+researched polymer
+electrolyte substrates, poly(ethylene oxide) (PEO) possesses excellent
+stability to the lithium metal anodes with low potential as well as
+fine interface contact with the electrodes owing to the soft texture,<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> but it shows poor mechanical property when mixed with high-content
+lithium salt, and more seriously, it suffers gradual oxidation or
+decomposition once matched with high-voltage cathodes (&#x0003e;3.9 V).<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> By contrast, poly(vinylidene fluoride) (PVDF) that is also employed
+as a common polymer electrolyte material can exhibit a wide electrochemical
+window enabling constant high voltage due to the existence of strongly
+electron withdrawing groups (&#x02212;C&#x02013;F),<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> while its interface to lithium metal anodes always appears
+unstable, resulting in poor cycling performance.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> The promising efforts to overcome such incompatibility between a
+wide electrochemical window and good interface stability focuses on
+constructing multilayer SCEs with Janus characteristics.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup></p><p>Herein, novel double-layer SCEs consisting
+of an antioxidative
+PVDF-based layer facing the cathode and a lithium metal-friendly (PEO+PVDF)-based
+layer against the anode, are proposed for room-temperature high-voltage
+LMBs. Specially, the bipolymer feature of the (PEO+PVDF)-based layer
+therein not only endows the electrolytes with excellent lithium affinity
+but also avoids the PEO-introduced mechanical softness with the help
+of the mechanical support of PVDF polymers. Moreover, laponite clay
+as an inorganic nanofiller is creatively incorporated into the whole
+SCE membranes to further improve the mechanical properties for lithium
+dendrite inhibition as well as realize higher ionic conductivity and
+larger lithium ion migration number (<italic>t</italic><sub>Li</sub><sup>+</sup>). As a result, the SCEs with Janus characteristics (denoted
+as PVDF/(PEO+PVDF)-L) exhibit the advantages of both a wide electrochemical
+window and excellent interfacial compatibility to lithium metal; meanwhile,
+the solid-state LMBs assembled with PVDF/(PEO+PVDF)-L SCEs, high-voltage
+NCM523 cathodes, and lithium anodes are able to deliver a high specific
+capacitance and improved cycling and rate performance at room temperature.</p></sec><sec id="sec2"><title>Result
+and Discussion</title><sec id="sec2.1"><title>Micromorphology of PVDF/(PEO+PVDF)-L SCEs</title><p>The PVDF/(PEO+PVDF)-L
+SCEs are prepared through a layer-by-layer coating method to ensure
+that the internal layers are closely connected (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S1</ext-link>). As presented in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a, the as-prepared PVDF/(PEO+PVDF)-L SCE
+membrane appears transparent indicating the uniform dispersion of
+laponite clay nanosheets inside. In addition, a high degree of bending
+deformation reflects its excellent mechanical flexibility (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b). The PVDF/(PEO+PVDF)-L
+SCE membrane exhibits the total thickness of about 100 &#x003bc;m, which
+is composed of equal thickness PVDF-L and (PEO+PVDF)-L layers closely
+bonded to each other (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). The membrane surface on the PVDF-L side shows a typical
+rough morphology with visible voids and cracks (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d),<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> whereas
+that of the (PEO+PVDF)-L layer displays a relatively smoother flat
+due to the incorporation of the PEO component (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>e), which can be conducive to improve the
+contact between the electrolyte membrane and electrode for low interface
+impedance.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> In addition, the EDS mapping
+images confirm that all the components are highly homogeneous, in
+which &#x0201c;F&#x0201d; represents PVDF, &#x0201c;Cl&#x0201d; indicates
+LiClO<sub>4</sub>, while &#x0201c;Si&#x0201d; and &#x0201c;Na&#x0201d;
+belong to the limited laponite clay (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>f).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a, b) Optical photographs and (c) cross-sectional
+FESEM image
+of the PVDF/(PEO+PVDF)-L SCEs. (d,e) Surface FESEM images of (d) PVDF-L
+and (e) (PEO+PVDF)-L flats. (f) EDS mapping of PVDF/(PEO+PVDF)-L for
+the elements of F, Cl, Si, and Na.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_0001" id="gr1" position="float"/></fig></sec><sec id="sec2.2"><title>Composition Analyses and Physical Properties of PVDF/(PEO+PVDF)-L
+SCEs</title><p>XRD patterns of the as-prepared electrolyte membranes
+are employed to investigate the composition information (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a). The high-intensity
+characteristic peaks at 2&#x003b8; = 18.5&#x000b0; and 20.1&#x000b0; corresponding
+to PVDF and that at 2&#x003b8; = 19.2&#x000b0; and 23.6&#x000b0; belonging
+to PEO both indicate the high degree of crystallization at ambient
+temperature.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> However, only a weakened
+peak at about 2&#x003b8; = 20.3&#x000b0; can be found for all the electrolyte
+membranes, which may be due to the substantial reduction on polymer
+crystallinity caused by the addition of lithium salt.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> Among them, with the help of laponite clay, the PVDF/(PEO+PVDF)-L
+SCEs exhibit the lowest crystallinity with the characteristic peak
+as the weakest and widest one.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Moreover,
+none of the diffraction peaks representing laponite clay appear in
+the XRD curve of PVDF/(PEO+PVDF)-L SCEs, suggesting the uniform dispersion
+of clay nanosheets inside the polymer matrix.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) XRD patterns, (b)
+DSC profiles, (c) TGA curves, and (d) FTIR
+spectra of the as-prepared PVDF/(PEO+PVDF)-L SCEs and control groups.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_0002" id="gr2" position="float"/></fig><p>Meanwhile, the crystallinity information on PVDF/(PEO+PVDF)-L
+SCEs
+can be accurately reflected by the DSC curves. As presented in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b, the (PEO+PVDF)
+SPEs show a much lower melting temperature of 112.5 &#x000b0;C than that
+of PVDF SPEs (150.5 &#x000b0;C), owing to the natural lower crystallinity
+of PEO compared to PVDF polymer.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> As expected,
+the double-layer PVDF/(PEO+PVDF) SPEs thus possess the combined crystallinity
+characteristics with the two melting points of 114.8 and 150.7 &#x000b0;C
+corresponding the (PEO+PVDF) and PVDF components, respectively. Consistent
+with the XRD results, with the addition of laponite clay, the PVDF/(PEO+PVDF)-L
+SCEs exhibit the overall decreased melting temperature of 106.6 and
+145.2 &#x000b0;C, suggesting the reduced crystallinity and enlarged amorphous
+area introduced by the disruption on the arrangement of polymer chains,<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> which will be beneficial for the rapid migration of Li<sup>+</sup> in the polymer matrix resulting in a higher ionic conductivity.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup></p><p>The thermal stability of PVDF/(PEO+PVDF)-L SCEs is evaluated
+through
+TGA tests (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c). Consistent with that in the literature,<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> the PVDF/(PEO+PVDF)-L SCEs as well as the control groups show a
+slow and synchronous weight variation in the initial stage and sudden
+mass loss about at 300 &#x000b0;C, which are mainly attributed to the
+volatilization of remained DMF plasticizer inside the electrolyte
+membranes and the accelerated decomposition of polymer matrix caused
+by the addition of lithium salt, respectively.<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> Nevertheless, the thermal decomposition temperature at 300 &#x000b0;C
+is still enough for the PVDF/(PEO+PVDF)-L SCEs operated in room-temperature
+LMBs. Furthermore, EA and FT-IR measurements are carried out to separately
+investigate the content and existing form of the residual DMF solvent.
+The EA result shows that the calculated mass percentage of remaining
+DMF is about 20 wt % in all the electrolyte membranes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Table S1</ext-link>). More importantly, this low content
+of DMF is confirmed to exist as [Li(DMF)<sub><italic>x</italic></sub>]<sup>+</sup> complexes in the polymer networks but not free molecules,
+since only the absorption band at 658 cm<sup>&#x02013;1</sup> that
+corresponds the bound DMF appears in the FT-IR spectra (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d),<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> which can strongly illustrates the solid-state characteristics of
+the PVDF/(PEO+PVDF)-L SCEs.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup></p></sec><sec id="sec2.3"><title>Electrochemical
+Properties of PVDF/(PEO+PVDF)-L SCEs</title><p>In order to evaluate
+the effect of the introduction of laponite clay
+on the Li<sup>+</sup> transfer in PVDF/(PEO+PVDF)-L SCEs, the ionic
+conductivities of the electrolyte membranes at various temperature
+are investigated in the temperature range of 25&#x02013;85 &#x000b0;C
+(<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">S2</ext-link>). The filler-free PVDF, (PEO+PVDF), and PVDF/(PEO+PVDF)
+SPEs which contain equal-content DMF plasticizer for accelerated Li<sup>+</sup> migration,<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> all exhibit an acceptable ionic
+conductivity of about 2.6 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at room temperature (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S2a&#x02013;c</ext-link>). While, with the incorporation of laponite clay, the PVDF/(PEO+PVDF)-L
+SCEs can achieve a much improved ionic conductivity of 5.2 &#x000d7;
+10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S2d</ext-link>), due to the weaker crystallinity and richer amorphous
+area as confirmed in the XRD and DSC results.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> Meanwhile, activation energy (<italic>E</italic><sub>a</sub>) of
+Li<sup>+</sup> migration inside these electrolyte membranes is calculated
+by the Arrhenius equation &#x003c3;(<italic>T</italic>) = <italic>A</italic> exp(&#x02212;<italic>E</italic><sub>a</sub>/<italic>RT</italic>).
+As shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b, the PVDF/(PEO+PVDF)-L SCEs deliver an <italic>E</italic><sub>a</sub> value of 0.270 eV, which is significantly lower than that of PVDF
+(0.282 eV), (PEO+PVDF) (0.280 eV), and PVDF/(PEO+PVDF) (0.283 eV)
+SPEs, revealing the easiest ion transfer in the laponite clay-doped
+polymer networks.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> Moreover, the variation of ionic
+conductivity depending on the laponite clay content is additionally
+explored as presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S3</ext-link>. As
+expected, the ionic conductivity first increases as the laponite clay
+content is raised, whereas it decreases because of the nanosheet agglomeration
+when the mass percentage exceeds 6 wt %.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> Therefore, the selected amount of 6 wt % here for the laponite clay
+addition may be quite appropriate to realize an optimal electrochemical
+performance of PVDF/(PEO+PVDF)-L SCEs.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Ionic conductivities,
+(b) Arrhenius plots, and (c) LSV curves
+of PVDF/(PEO+PVDF)-L SCEs and the control groups. (d) DC polarization
+curve for the Li|PVDF/(PEO+PVDF)-L|Li cell under 10 mV. (inset) EIS
+before and after the polarization.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_0003" id="gr3" position="float"/></fig><p>The electrochemical stability window of SSEs is commonly employed
+as a crucial indicator to reveal the ability of electrolyte materials
+to resist decomposition under high voltage.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> It can be found from the LSV curves that the current of (PEO+PVDF)
+SPEs rises sharply at the voltage of 3.9 V (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c), representing the initial decomposition
+occurring on the easily oxidized PEO component.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> Meanwhile, PVDF SPEs exhibit a higher electrochemical stability,
+and only a slight current fluctuation appears above 4.4 V, due to
+the existence of strongly electron withdrawing groups (&#x02212;C&#x02013;F)
+in polymer units enabling high voltage maintenance.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Therefore, with the PVDF or PVDF-L layer against the cathode
+to avoid PEO direct exposure under high potential, the double-layer
+PVDF/(PEO+PVDF) SPEs and PVDF/(PEO+PVDF)-L SCEs both inherit the LSV
+curve of PVDF SPEs well, displaying a wide electrochemical stability
+window. This result also suggests that the introduction of laponite
+clay has no significant effect on the electrochemical stability window
+of the electrolyte membranes under high voltage.</p><p>Furthermore,
+the calculated values of <italic>t</italic><sub>Li</sub><sup>+</sup> according to the EIS combined with DC polarization results
+shows that the PVDF/(PEO+PVDF)-L SCEs can achieve a <italic>t</italic><sub>Li</sub><sup>+</sup> value as high as 0.471 (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d), which is significantly
+greater than that of 0.201, 0.227, and 0.195 corresponding to PVDF
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S4a</ext-link>), (PEO+PVDF), and PVDF/(PEO+PVDF)
+SPEs respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S4b,c</ext-link>). Such
+improvement of <italic>t</italic><sub>Li</sub><sup>+</sup> for PVDF/(PEO+PVDF)-L
+SCEs is mainly ascribed to the increased dissociation of lithium salts
+as well as the hindered transport of ClO<sub>4</sub><sup>&#x02013;</sup> inside the laponite clay-filled polymer networks,<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> and it enables the reduction of the concentration
+polarization to inhibit the nucleation of lithium dendrites during
+the charge&#x02013;discharge process.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>The
+interface stability of these electrolyte membranes against
+the lithium anode during the lithium stripping/plating process is
+investigated through a galvanostatic polarization measurement on lithium
+symmetric cells at the current density of 0.1 mA cm<sup>&#x02013;2</sup> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). Consistent
+with the literature,<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> the PVDF SPEs always show a fairly
+poor electrochemical stability toward lithium metal, with a sharp
+voltage increase of the Li|PVDF|Li cell after only cycling for 65
+h (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a). With
+the introduction of PEO, the blending (PEO+PVDF) SPEs can exhibit
+a reinforced contact between the electrolyte and lithium anode for
+decreased interface resistance,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> which
+thus delivers a lower initial overpotential and a slightly improved
+stripping/plating cycling (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b). However, a short circuit still occurs on the Li|(PEO+PVDF)|Li
+cell after operation for 115 h, due to the weak mechanical property
+caused by the soft PEO inside. By comparison, the double-layer PVDF/(PEO+PVDF)
+SPEs inherit both good mechanical properties and high compatibility
+with lithium metal and are able to cycle stably for 240 h (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c). Moreover, owing
+to the advantage of improved <italic>t</italic><sub>Li</sub><sup>+</sup> and enhanced mechanical strength derived from the incorporation
+of laponite clay (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S5</ext-link>), the PVDF/(PEO+PVDF)-L
+SCEs exhibit an excellent electrochemical stability against lithium
+metal with dramatically enhanced cycling life of more than 470 h (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a&#x02013;d) Galvanostatic
+cycling performance for the lithium
+symmetric cells with a constant current density of 0.1 mA cm<sup>&#x02013;2</sup> at 25 &#x000b0;C and (e&#x02013;h) corresponding surface morphology
+of the lithium anodes after 50 h cycling. (i) XPS spectra of the lithium
+anode surface for the Li|PVDF/(PEO+PVDF)-L|Li cell.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_0004" id="gr4" position="float"/></fig><p>Such a differential lithium plating/stripping process is
+further
+illustrated according to the surface morphology of the lithium anode.
+It is found that the lithium metal has a smooth and dense surface
+before cycling (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S6</ext-link>). As for the
+lithium symmetric cells cycled for 50 h, the lithium anode against
+the PVDF SPEs is covered with abundant lithium dendrites (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>e), and visible lithium
+dendrites are also observed on the lithium metal surfaces corresponding
+to (PEO+PVDF) SPEs and PVDF/(PEO+PVDF) SPEs despite the introduction
+of PEO (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>f,g),
+which are considered to be the main reasons for the suddenly sharp
+rise of cell voltage and even short circuit.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> In marked contrast to that, the Li|PVDF/(PEO+PVDF)-L|Li cell delivers
+an uncontaminated lithium anode demonstrating the effective restriction
+on lithium dendrite formation (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>h), which thus allows a longer period of the stripping/plating
+cycling as mentioned above. Moreover, XPS analysis of the reaction
+products on the lithium metal surface shows that abundant Li<sub>2</sub>CO<sub>3</sub> (531.5 eV in the O 1s spectra and 289.8 eV in the
+C 1s spectra),<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> LiOH (531.5 eV in the O 1s spectra),<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> and LiF (684.8 eV in the F 1s spectra)<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> can be formed during the lithium plating/stripping
+process (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>i),
+which are usually considered to reduce the side reactions between
+electrolyte and lithium metal for improved electrochemical cycling
+stability.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup></p></sec><sec id="sec2.4"><title>Mechanism of the Performance
+Advantages of PVDF/(PEO+PVDF)-L
+SCEs</title><p>According to above analyses, the advantages of the proposed
+Janus composite structure of PVDF/(PEO+PVDF)-L SCEs are systematically
+illustrated in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>. When applied to the high-voltage solid-state LMBs, the monolayer
+PVDF SPEs with a wide electrochemical window are able to withstand
+the high cathode potential but suffer from a severe lithium dendrite
+formation caused by the not so good interface contact (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a); while for the monolayer
+(PVDF+PEO) SPEs, gradual oxidation and even decomposition usually
+occur during the charge&#x02013;discharge process (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S7</ext-link>), though the dendrite problem can be moderately
+improved by the introduced lithium-friendly PEO component (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b). Constructing
+a double-layer SPEs membrane with the PVDF layer facing the cathode
+and the (PEO+PVDF) layer against the lithium anode may endows the
+electrolyte with both enhanced electrochemical stability under high
+potential and increased interfacial compatibility to lithium metal,
+but it is still not enough to achieve a long-term cycling life because
+the lithium dendrites cannot be completely suppressed (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c). With the further incorporation
+of laponite clay nanosheets, the finally obtained PVDF/(PEO+PVDF)-L
+SCEs not only inherit all the performance advantages of above electrolytes,
+but also enable the formation of homogeneous SEI film to realize lithium-free
+anodes on account of the enhanced mechanical property and increased <italic>t</italic><sub>Li</sub><sup>+</sup> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d), which is considered essential to realize
+the excellent cycling performance of high-voltage solid-state LMBs.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Schematic
+diagrams for the advantageous performance of PVDF/(PEO+PVDF)-L
+SCEs relative to the control groups.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_0005" id="gr5" position="float"/></fig></sec><sec id="sec2.5"><title>Electrochemical Performance of NCM523|PVDF/(PEO+PVDF)-L|Li Cell</title><p>Finally, the practical application of PVDF/(PEO+PVDF)-L SCEs in
+high-voltage solid-state LMBs is evaluated at room temperature using
+the full CR2032 cells with NCM523 and lithium metal as the cathode
+and anode, respectively (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>). And as expected, as a result of the mentioned shortcomings
+of the monolayer electrolyte structure, NCM523|PVDF|Li and NCM523|(PEO+PVDF)|Li
+cells both show a poor cycling performance with the rapid capacity
+decay below 100 charge&#x02013;discharge cycles at the current density
+of 0.3 C (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S8a,b</ext-link>). The cell with
+double-layer PVDF/(PEO+PVDF) SPEs exhibits a visibly improved cycling
+life, but its capacity retention rate at the 200th cycle is only about
+56.3% (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S8c</ext-link>). By comparison, NCM523|PVDF/(PEO+PVDF)-L|Li
+cell can achieve a highly satisfactory electrochemical performance,
+with the specific discharge capacity of 153.9 mAh g<sup>&#x02013;1</sup> at initial and that of 124.3 mAh g<sup>&#x02013;1</sup> after 200
+cycles (the capacity retention rate is up to 80.8%) (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b). Meanwhile, as the current
+density increases from 0.1 to 5 C, the NCM523|PVDF/(PEO+PVDF)-L|Li
+cell delivers the always highest specific discharge capacity of 161.1,
+153.8, 148.9, 142.4, 115.6, and 80.2 mAh g<sup>&#x02013;1</sup> corresponding
+to 0.1, 0.3, 0.5, 1, 2, and 5 C, respectively (<xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref>c and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">S9</ext-link>), which
+will even rise back to 158.7 mAh g<sup>&#x02013;1</sup> once the current
+density returns to 0.1 C, rendering the more excellent rate capability
+over the others. Besides, the well-matched CV curves from the first
+to the 30th cycle also demonstrate an outstanding electrochemical
+stability of PVDF/(PEO+PVDF)-L SCEs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S10</ext-link>).<sup><xref ref-type="bibr" rid="ref47">47</xref></sup></p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Electrochemical performances of the solid-state
+LMBs at room temperature.
+(a) Cycling performance under 0.3 C, (b) corresponding charge&#x02013;discharge
+curves of the NCM523|PVDF/(PEO+PVDF)-L|Li cell, and (c) rate capability.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_0006" id="gr6" position="float"/></fig></sec></sec><sec id="sec3"><title>Conclusion</title><p>In summary, the double-layer
+PVDF/(PEO+PVDF)-L SCEs membranes are
+successfully fabricated by a facile two-step coating process and applied
+in room-temperature high-voltage LMBs. Among this Janus architecture,
+the antioxidative PVDF-L layer ensures a good potential tolerance
+for high-voltage cathode adaptation, whereas the (PEO+PVDF)-L layer
+in contact with the anode is responsible for providing lithium metal
+affinity. Especially, the introduction of laponite clay inside not
+only helps to achieve a high ionic conductivity of 5.2 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at room temperature but
+also improves the mechanical properties and meanwhile increases the <italic>t</italic><sub>Li</sub><sup>+</sup> up to 0.471 for better lithium
+dendrite suppression. Consequently, the PVDF/(PEO+PVDF)-L SCEs can
+exhibit a significantly enhanced electrochemical stability against
+lithium metal with the cycling life over 470 h and deliver the initial
+discharge capacity as high as 153.9 mAh g<sup>&#x02013;1</sup> with
+the capacity retention up to 80.8% after 200 cycles, when matched
+with a high-voltage NCM523 electrode and operated at 0.3 C under 25
+&#x000b0;C. Such high-performance double-layer SCEs fabricated from the
+commonly available raw materials are promising for the manufacturing
+application of solid-state high-voltage LMBs.</p></sec><sec id="sec4"><title>Experimental Section</title><sec id="sec4.1"><title>Materials</title><p>Poly(ethylene oxide) (PEO, average <italic>M</italic><sub>w</sub> = 600000) and lithium perchlorate (LiClO<sub>4</sub>, 99.99%) were
+purchased from Aladdin. Poly(vinylidene fluoride)
+(PVDF, average <italic>M</italic><sub>w</sub> = 1&#x0202f;000&#x0202f;000)
+was bought from Shenzhen Kejingstar Technology Ltd. <italic>N</italic>,<italic>N</italic>-Dimethylformamide (DMF, Sinopharm) was
+used for the preparation of electrolyte slurry. Laponite clay (XLG:
+Mg<sub>5.34</sub>Li<sub>0.66</sub>Si<sub>8</sub>O<sub>20</sub>(OH)Na<sub>0.66</sub>, BYK) was employed as the inorganic nanofiller. Commercial
+LiNi<sub>0.5</sub>Co<sub>0.2</sub>Mn<sub>0.3</sub>O<sub>2</sub> (NCM523)
+purchased from Tianjin B&#x00026;M Science and Technology Joint-Stock
+Co., Ltd., was used as the high-voltage cathode material. <italic>N</italic>-methylpyrrolidone (NMP) and acetylene black (Sinopharm)
+were used for the preparation of cathode slurry. Al foils and lithium
+sheets were both bought from China Energy Lithium Co., Ltd.</p></sec><sec id="sec4.2"><title>Preparation
+of Double-Layer PVDF/(PEO+PVDF)-L SCEs</title><p>The double-layer PVDF/(PEO+PVDF)-L
+SCEs were typically prepared by
+a layer-by-layer coating technology (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S1</ext-link>). First, laponite clay powder (6 wt % relative to the polymer matrix,
+0.054 g) was dispersed in DMF (8.2 mL) by ultrasonic treatment for
+15 min to form a uniform dispersion. PVDF (0.9 g) and LiClO<sub>4</sub> (0.3 g) was then added into the mixture with stirring at 45 &#x000b0;C
+for 4 h to obtain the PVDF-L slurry. Meanwhile, the (PVDF+PEO)-L slurry
+was prepared through the same procedure but replacing the PVDF component
+with the combination of PVDF (0.45 g) and PEO (0.45 g). After that,
+the as-obtained PVDF-L slurry was coated on a clean glass plate by
+a film applicator (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S1a, b</ext-link>) and dried
+at 60 &#x000b0;C for 30 min to form single-layer PVDF-L membranes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S1c</ext-link>), whose thickness was controlled to
+about 50 &#x003bc;m. And, a second coating using the (PVDF+PEO)-L slurry
+was subsequently applied directly on the above predried PVDF-L membranes
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S 1d,e</ext-link>). Finally, the double-layer
+PVDF/(PEO+PVDF)-L SCEs of about 100 &#x003bc;m total thickness could
+be obtained by another drying treatment under vacuum at 60 &#x000b0;C
+for 24 h (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">Figure S 1f</ext-link>).</p></sec><sec id="sec4.3"><title>Preparation
+of PVDF SPEs, (PEO+PVDF) SPEs, and Double-Layer
+PVDF/(PEO+PVDF) SPEs</title><p>For comparison, PVDF and (PEO+PVDF)
+SPEs were fabricated by a single-layer coating process with the drying
+treatment under vacuum at 60 &#x000b0;C for 24 h, and the double-layer
+PVDF/(PEO+PVDF) SPEs were prepared in the same way as PVDF/(PEO+PVDF)-L
+SCEs, but without the addition of laponite clay.</p></sec><sec id="sec4.4"><title>Material Characterizations</title><p>The microstructures of the
+as-prepared electrolyte membranes were observed by a field emission
+scanning electron microscopy (FESEM, Hitachi SU8020). The attached
+energy dispersive spectrometer (EDS, Horiba Scientific) was used for
+the element distribution characterization. X-ray diffraction (XRD,
+Rigaku D/MAX2500VL/PC) with a Cu&#x02013;K&#x003b1; radiation (&#x003bb;
+= 1.5405 &#x000c5;) was employed to analyze the crystal structure at
+40 kV and 80 mA in the 2&#x003b8; range of 10&#x02013;80&#x000b0;. Differential
+scanning calorimetry (DSC) measurements were carried out on a DSC
+instrument (Netzsch, DSC214) with the heating rate of 5 &#x000b0;C min<sup>&#x02013;1</sup> from 30 to 300 &#x000b0;C under an N<sub>2</sub> atmosphere
+to explore the phase transition behavior. The thermal stability was
+evaluated by a thermogravimetric analysis instrument (TGA, Netzsch,
+STA449F5) from 30 to 600 &#x000b0;C with the heating rate of 10 &#x000b0;C
+min<sup>&#x02013;1</sup> under an N<sub>2</sub> atmosphere. The content
+of the remaining DMF in electrolyte membranes was determined accurately
+by elemental analysis (EA). The mechanical properties were investigated
+by an electronic tensile tester (Instron 5965) with the stretching
+rate of 100 mm min<sup>&#x02013;1</sup>. The chemical composition was
+characterized by Fourier-transform infrared spectrometry (FT-IR, Thermo
+Nicolet, iS10) from 400 to 4000 cm<sup>&#x02013;1</sup>. X-ray photoelectron
+spectroscopy (XPS, Thermo, ESCALAB 250Xi) was employed for the composition
+analysis of the lithium anode interface.</p></sec><sec id="sec4.5"><title>Electrochemical Measurements</title><p>The ionic conductivities
+of electrolyte membranes were investigated by AC impedance spectroscopy
+measurements performed on the assembled stainless steel (SS)|SSEs|SS
+cells, using a CHI660e electrochemical workstation (Shanghai Chenhua
+Instrument, China). The conductivity value could be calculated by
+the following equation:<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_m001" position="anchor"/></disp-formula>in which <italic>R</italic>, <italic>l</italic>, and <italic>S</italic> separately represented the bulk resistance,
+thickness, and area of the electrolyte membranes. Linear sweep voltammetry
+(LSV) measurements on SS|SSEs|Li cells were performed to evaluate
+the electrochemical stability window within the voltage range of 2&#x02013;6
+V at a scan rate of 5 mV s<sup>&#x02013;1</sup>. <italic>t</italic><sub>Li</sub><sup>+</sup> was obtained by the combined electrochemical
+impedance spectroscopy (EIS) and direct current (DC) polarization
+method, which could be calculated according to the equation:<disp-formula id="ueq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_m002" position="anchor"/></disp-formula>where <italic>&#x00394;V</italic> was the applied
+DC voltage, <italic>I</italic><sub>0</sub> and <italic>R</italic><sub>0</sub> indicated the initial current and interfacial resistance
+respectively, <italic>I</italic><sub>S</sub> and <italic>R</italic><sub>S</sub> separately represented the steady-state current and
+interfacial resistance. To investigate the lithium stripping/plating
+behavior, the galvanostatic polarization tests on symmetric Li|SSEs|Li
+cells were carried out at a current density of 0.1 mA cm<sup>&#x02013;2</sup> at 25 &#x000b0;C.</p><p>For the preparation of NCM523 electrodes, commercial
+NCM523, PVDF, and acetylene black were mixed at a mass ratio of 8:1:1
+in appropriate amount of NMP with magnetic stirring for 12 h, and
+the resultant slurry was then coated on Al foil and finally dried
+at 70 &#x000b0;C for 8 h in air to obtain the cathode foil. The full
+cells (CR2032) were assembled with an NCM523 cathode (12 mm), SSEs
+(16 mm), and lithium anode (15.6 mm) in an Ar-filled glovebox (O<sub>2</sub> &#x0003c; 0.5 ppm, H<sub>2</sub>O &#x0003c; 0.5 ppm) and tested on
+a multichannel battery tester (Neware Battery Testing System, Shenzhen
+Neware Electronic, China) over the voltage range of 2.8&#x02013;4.3
+V under 0.3 C at 25 &#x000b0;C.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The
+Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.1c05576?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.1c05576</ext-link>.<list id="silist" list-type="simple"><list-item><p>Schematic diagram for
+the fabrication of double-layer
+PVDF/(PEO+PVDF)-L SCEs membranes. EIS performed on the assembled symmetric
+SS|SSEs|SS cells. Ionic conductivity of the PVDF/(PEO+PVDF)-L SCEs
+depending on the content of laponite clay added. DC polarization curves
+for the Li symmetrical cells of control groups. Stress&#x02013;strain
+curves of the as-prepared electrolyte membranes. Surface morphology
+of fresh lithium anode. CV curves of NCM523|(PEO+PVDF)|Li cells at
+2 mV s<sup>&#x02013;1</sup>. The charge&#x02013;discharge curves of
+the control cells at 0.3 C under 25 &#x000b0;C. The charge&#x02013;discharge
+curves of the NCM523|PVDF/(PEO+PVDF)-L|Li cell at different current
+densities under 25 &#x000b0;C. CV curves of NCM523|PVDF/(PEO+PVDF)-L|Li
+cells at 2 mV s<sup>&#x02013;1</sup>. EA results of the as-prepared
+electrolyte membranes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.1c05576/suppl_file/ao1c05576_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c05576_si_001.pdf"><caption><p>ao1c05576_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors gratefully acknowledge the support from
+the National Natural Science Foundation of China (NSFC Grants 21908037,
+91834301) and the Fundamental Research Funds for the Central Universities
+(JZ2021HGTB0119).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Ye</surname><given-names>L. H.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>
+<article-title>A dynamic
+stability design strategy for lithium metal solid state
+batteries</article-title>. <source>Nature</source>
+<year>2021</year>, <volume>593</volume>, <fpage>218</fpage>&#x02013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-021-03486-3</pub-id>.<pub-id pub-id-type="pmid">33981053</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Albertus</surname><given-names>P.</given-names></name>; <name><surname>Babinec</surname><given-names>S.</given-names></name>; <name><surname>Litzelman</surname><given-names>S.</given-names></name>; <name><surname>Newman</surname><given-names>A.</given-names></name>
+<article-title>Status and challenges
+in enabling the lithium metal electrode for high-energy and low-cost
+rechargeable batteries</article-title>. <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>16</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-017-0047-2</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Kim</surname><given-names>K. J.</given-names></name>; <name><surname>Balaish</surname><given-names>M.</given-names></name>; <name><surname>Wadaguchi</surname><given-names>M.</given-names></name>; <name><surname>Kong</surname><given-names>L. P.</given-names></name>; <name><surname>Rupp</surname><given-names>J. L. M.</given-names></name>
+<article-title>Solid-state
+Li-metal batteries: Challenges and horizons of oxide and sulfide solid
+electrolytes and their interfaces</article-title>. <source>Adv. Energy
+Mater.</source>
+<year>2021</year>, <volume>11</volume>, <fpage>2002689</fpage><pub-id pub-id-type="doi">10.1002/aenm.202002689</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Zuo</surname><given-names>T. T.</given-names></name>; <name><surname>Shi</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>X. W.</given-names></name>; <name><surname>Wang</surname><given-names>P. F.</given-names></name>; <name><surname>Wang</surname><given-names>S. H.</given-names></name>; <name><surname>Yin</surname><given-names>Y. X.</given-names></name>; <name><surname>Wang</surname><given-names>W. P.</given-names></name>; <name><surname>Ma</surname><given-names>Q.</given-names></name>; <name><surname>Zeng</surname><given-names>X. X.</given-names></name>; <name><surname>Ye</surname><given-names>H.</given-names></name>; <name><surname>Wen</surname><given-names>R.</given-names></name>; <name><surname>Guo</surname><given-names>Y. G.</given-names></name>
+<article-title>Constructing
+a stable lithium metal-gel electrolyte
+interface for quasi-solid-state lithium batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>30065</fpage>&#x02013;<lpage>30070</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b12986</pub-id>.<pub-id pub-id-type="pmid">30141899</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Um</surname><given-names>J. H.</given-names></name>; <name><surname>Yu</surname><given-names>S. H.</given-names></name>
+<article-title>Unraveling the mechanisms
+of lithium metal plating/stripping via
+in situ/operando analytical techniques</article-title>. <source>Adv.
+Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <fpage>2003004</fpage><pub-id pub-id-type="doi">10.1002/aenm.202003004</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wu</surname><given-names>H. P.</given-names></name>; <name><surname>Jia</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>C. M.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>
+<article-title>Recent progress in
+understanding solid electrolyte interphase on lithium metal anodes</article-title>. <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <fpage>2003092</fpage><pub-id pub-id-type="doi">10.1002/aenm.202003092</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Zhang</surname><given-names>X. Y.</given-names></name>; <name><surname>Wang</surname><given-names>A. X.</given-names></name>; <name><surname>Liu</surname><given-names>X. J.</given-names></name>; <name><surname>Luo</surname><given-names>J. Y.</given-names></name>
+<article-title>Dendrites in lithium
+metal anodes: Suppression, regulation, and elimination</article-title>. <source>Acc. Chem. Res.</source>
+<year>2019</year>, <volume>52</volume>, <fpage>3223</fpage>&#x02013;<lpage>3232</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.9b00437</pub-id>.<pub-id pub-id-type="pmid">31657541</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Zhou</surname><given-names>C. J.</given-names></name>; <name><surname>Dong</surname><given-names>X. R.</given-names></name>; <name><surname>Yan</surname><given-names>M.</given-names></name>; <name><surname>Liang</surname><given-names>J. Y.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>X. W.</given-names></name>; <name><surname>Guo</surname><given-names>Y. G.</given-names></name>; <name><surname>Zeng</surname><given-names>X. X.</given-names></name>
+<article-title>Revealing the superiority
+of fast ion conductor in composite electrolyte for dendrite-free lithium-metal
+batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <fpage>22978</fpage>&#x02013;<lpage>22986</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c04115</pub-id>.<pub-id pub-id-type="pmid">33945250</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Zhou</surname><given-names>Z. Y.</given-names></name>; <name><surname>Yan</surname><given-names>X.</given-names></name>; <name><surname>Hou</surname><given-names>F.</given-names></name>; <name><surname>Wen</surname><given-names>L.</given-names></name>; <name><surname>Luo</surname><given-names>W. B.</given-names></name>; <name><surname>Liang</surname><given-names>J.</given-names></name>; <name><surname>Dou</surname><given-names>S. X.</given-names></name>
+<article-title>Engineering
+of lithium-metal
+anodes towards a safe and stable battery</article-title>. <source>Energy
+Storage Mater.</source>
+<year>2018</year>, <volume>14</volume>, <fpage>22</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2018.02.014</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Tu</surname><given-names>Z. Y.</given-names></name>; <name><surname>Choudhury</surname><given-names>S.</given-names></name>; <name><surname>Zachman</surname><given-names>M. J.</given-names></name>; <name><surname>Wei</surname><given-names>S. Y.</given-names></name>; <name><surname>Zhang</surname><given-names>K. H.</given-names></name>; <name><surname>Kourkoutis</surname><given-names>L. F.</given-names></name>; <name><surname>Archer</surname><given-names>L. A.</given-names></name>
+<article-title>Designing artificial
+solid-electrolyte
+interphases for single-ion and high-efficiency transport in batteries</article-title>. <source>Joule</source>
+<year>2017</year>, <volume>1</volume>, <fpage>394</fpage>&#x02013;<lpage>406</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2017.06.002</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Peng</surname><given-names>Z.</given-names></name>; <name><surname>Zhao</surname><given-names>N.</given-names></name>; <name><surname>Zhang</surname><given-names>Z. G.</given-names></name>; <name><surname>Wan</surname><given-names>H.</given-names></name>; <name><surname>Lin</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>; <name><surname>Shen</surname><given-names>C.</given-names></name>; <name><surname>He</surname><given-names>H. Y.</given-names></name>; <name><surname>Guo</surname><given-names>X. X.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Wang</surname><given-names>D. Y.</given-names></name>
+<article-title>Stabilizing Li/electrolyte interface with a transplantable
+protective layer based on nanoscale LiF domains</article-title>. <source>Nano Energy</source>
+<year>2017</year>, <volume>39</volume>, <fpage>662</fpage>&#x02013;<lpage>672</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2017.07.052</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Zheng</surname><given-names>J. M.</given-names></name>; <name><surname>Engelhard</surname><given-names>M. H.</given-names></name>; <name><surname>Mei</surname><given-names>D. H.</given-names></name>; <name><surname>Jiao</surname><given-names>S. H.</given-names></name>; <name><surname>Polzin</surname><given-names>B. J.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>
+<article-title>Electrolyte additive enabled fast
+charging and stable cycling lithium metal batteries</article-title>. <source>Nat. Energy</source>
+<year>2017</year>, <volume>2</volume>, <fpage>17012</fpage><pub-id pub-id-type="doi">10.1038/nenergy.2017.12</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Zhao</surname><given-names>M. Q.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Pentecost</surname><given-names>A.</given-names></name>; <name><surname>Maleski</surname><given-names>K.</given-names></name>; <name><surname>Mathis</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Jiang</surname><given-names>J. J.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>Nanodiamonds suppress
+the growth
+of lithium dendrites</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>336</fpage>&#x02013;<lpage>344</lpage>. <pub-id pub-id-type="doi">10.1038/s41467-017-00519-2</pub-id>.<pub-id pub-id-type="pmid">28839134</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Fluoroethylene
+carbonate additives to render uniform Li deposits in lithium metal
+batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2017</year>, <volume>27</volume>, <fpage>1605989</fpage><pub-id pub-id-type="doi">10.1002/adfm.201605989</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Shi</surname><given-names>K.</given-names></name>; <name><surname>Xu</surname><given-names>Z. J.</given-names></name>; <name><surname>Huang</surname><given-names>M. Q.</given-names></name>; <name><surname>Zou</surname><given-names>L.</given-names></name>; <name><surname>Zheng</surname><given-names>D. W.</given-names></name>; <name><surname>Yang</surname><given-names>Z. H.</given-names></name>; <name><surname>Zhang</surname><given-names>W. X.</given-names></name>
+<article-title>Solid-state polymer
+electrolytes
+with polypropylene separator-reinforced sandwich structure for room-temperature
+lithium ion batteries</article-title>. <source>J. Membr. Sci.</source>
+<year>2021</year>, <volume>638</volume>, <fpage>119713</fpage><pub-id pub-id-type="doi">10.1016/j.memsci.2021.119713</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Yu</surname><given-names>X. W.</given-names></name>; <name><surname>Wang</surname><given-names>S. F.</given-names></name>
+<article-title>Lithium
+battery chemistries enabled
+by solid-state electrolytes</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>16103</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2016.103</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Zhang</surname><given-names>R. H.</given-names></name>; <name><surname>Sun</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>M. C.</given-names></name>; <name><surname>Zhao</surname><given-names>T. S.</given-names></name>
+<article-title>Polyoxyethylene
+(PEO)|PEO-perovskite|PEO composite electrolyte for all-solid-state
+lithium metal batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>46930</fpage>&#x02013;<lpage>46937</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b16936</pub-id>.<pub-id pub-id-type="pmid">31765131</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Xue</surname><given-names>P.</given-names></name>; <name><surname>Liu</surname><given-names>S. R.</given-names></name>; <name><surname>Shi</surname><given-names>X. L.</given-names></name>; <name><surname>Sun</surname><given-names>C.</given-names></name>; <name><surname>Lai</surname><given-names>C.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Sui</surname><given-names>D.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Liang</surname><given-names>J. J.</given-names></name>
+<article-title>A hierarchical
+silver-nanowire-graphene host enabling ultrahigh rates and superior
+long-term cycling of lithium-metal composite anodes</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>1804165</fpage><pub-id pub-id-type="doi">10.1002/adma.201804165</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Shi</surname><given-names>Y. J.</given-names></name>; <name><surname>Wang</surname><given-names>Z. B.</given-names></name>; <name><surname>Gao</surname><given-names>H.</given-names></name>; <name><surname>Niu</surname><given-names>J. Z.</given-names></name>; <name><surname>Ma</surname><given-names>W. S.</given-names></name>; <name><surname>Qin</surname><given-names>J. Y.</given-names></name>; <name><surname>Peng</surname><given-names>Z. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Z. H.</given-names></name>
+<article-title>A self-supported,
+three-dimensional porous copper film as a current collector for advanced
+lithium metal batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>1092</fpage>&#x02013;<lpage>1098</lpage>. <pub-id pub-id-type="doi">10.1039/C8TA09384A</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Ji</surname><given-names>X.</given-names></name>; <name><surname>Hou</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>P. F.</given-names></name>; <name><surname>He</surname><given-names>X. Z.</given-names></name>; <name><surname>Piao</surname><given-names>N.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Fan</surname><given-names>X. L.</given-names></name>; <name><surname>Wang</surname><given-names>C. S.</given-names></name>
+<article-title>Solid-state electrolyte design for
+lithium dendrite suppression</article-title>. <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <fpage>2002741</fpage><pub-id pub-id-type="doi">10.1002/adma.202002741</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Wen</surname><given-names>K. H.</given-names></name>; <name><surname>Tan</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>T. H.</given-names></name>; <name><surname>Chen</surname><given-names>S. M.</given-names></name>; <name><surname>Zhang</surname><given-names>S. J.</given-names></name>
+<article-title>Fast Li-ion transport
+and uniform Li-ion flux enabled by a double-layered polymer electrolyte
+for high performance Li metal battery</article-title>. <source>Energy
+Storage Mater.</source>
+<year>2020</year>, <volume>32</volume>, <fpage>55</fpage>&#x02013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2020.07.037</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Famprikis</surname><given-names>T.</given-names></name>; <name><surname>Canepa</surname><given-names>P.</given-names></name>; <name><surname>Dawson</surname><given-names>J. A.</given-names></name>; <name><surname>Islam</surname><given-names>M. S.</given-names></name>; <name><surname>Masquelier</surname><given-names>C.</given-names></name>
+<article-title>Fundamentals
+of inorganic solid-state electrolytes for batteries</article-title>. <source>Nat. Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>1278</fpage>&#x02013;<lpage>1291</lpage>. <pub-id pub-id-type="doi">10.1038/s41563-019-0431-3</pub-id>.<pub-id pub-id-type="pmid">31427742</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Zhang</surname><given-names>S. Z.</given-names></name>; <name><surname>Liang</surname><given-names>T. B.</given-names></name>; <name><surname>Wang</surname><given-names>D. H.</given-names></name>; <name><surname>Xu</surname><given-names>Y. J.</given-names></name>; <name><surname>Cui</surname><given-names>Y. L.</given-names></name>; <name><surname>Li</surname><given-names>J. R.</given-names></name>; <name><surname>Wang</surname><given-names>X. L.</given-names></name>; <name><surname>Xia</surname><given-names>X. H.</given-names></name>; <name><surname>Gu</surname><given-names>C. D.</given-names></name>; <name><surname>Tu</surname><given-names>J. P.</given-names></name>
+<article-title>A stretchable and safe polymer electrolyte
+with a protecting-layer
+strategy for solid-state lithium metal batteries</article-title>. <source>Adv. Sci.</source>
+<year>2021</year>, <volume>8</volume>, <fpage>2003241</fpage><pub-id pub-id-type="doi">10.1002/advs.202003241</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Zhou</surname><given-names>Q.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Dong</surname><given-names>S. M.</given-names></name>; <name><surname>Li</surname><given-names>X. F.</given-names></name>; <name><surname>Cui</surname><given-names>G. L.</given-names></name>
+<article-title>Intermolecular chemistry
+in solid polymer electrolytes for high-energy-density lithium batteries</article-title>. <source>Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>1902029</fpage><pub-id pub-id-type="doi">10.1002/adma.201902029</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>C. S.</given-names></name>; <name><surname>Chen</surname><given-names>Z. W.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>
+<article-title>New concepts
+in electrolytes</article-title>. <source>Chem. Rev.</source>
+<year>2020</year>, <volume>120</volume>, <fpage>6783</fpage>&#x02013;<lpage>6819</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.9b00531</pub-id>.<pub-id pub-id-type="pmid">32022546</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Xu</surname><given-names>B. Y.</given-names></name>; <name><surname>Li</surname><given-names>X. Y.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>Y. T.</given-names></name>; <name><surname>Grundish</surname><given-names>N. S.</given-names></name>; <name><surname>Chien</surname><given-names>P. H.</given-names></name>; <name><surname>Dong</surname><given-names>K.</given-names></name>; <name><surname>Manke</surname><given-names>I.</given-names></name>; <name><surname>Fang</surname><given-names>R. Y.</given-names></name>; <name><surname>Wu</surname><given-names>N.</given-names></name>; <name><surname>Xu</surname><given-names>H. H.</given-names></name>; <name><surname>Dolocan</surname><given-names>A.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Interfacial
+chemistry enables stable cycling of all-solid-state Li metal batteries
+at high current densities</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2021</year>, <volume>143</volume>, <fpage>6542</fpage>&#x02013;<lpage>6550</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.1c00752</pub-id>.<pub-id pub-id-type="pmid">33904722</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Yao</surname><given-names>P. C.</given-names></name>; <name><surname>Zhu</surname><given-names>B.</given-names></name>; <name><surname>Zhai</surname><given-names>H. W.</given-names></name>; <name><surname>Liao</surname><given-names>X. B.</given-names></name>; <name><surname>Zhu</surname><given-names>Y. X.</given-names></name>; <name><surname>Xu</surname><given-names>W. H.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Jayyosi</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Myers</surname><given-names>K. M.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>
+<article-title>PVDF/palygorskite nanowire
+composite electrolyte for 4 V rechargeable lithium batteries with
+high energy density</article-title>. <source>Nano Lett.</source>
+<year>2018</year>, <volume>18</volume>, <fpage>6113</fpage>&#x02013;<lpage>6120</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.8b01421</pub-id>.<pub-id pub-id-type="pmid">30169958</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Liang</surname><given-names>J. Y.</given-names></name>; <name><surname>Zeng</surname><given-names>X. X.</given-names></name>; <name><surname>Zhang</surname><given-names>X. D.</given-names></name>; <name><surname>Zuo</surname><given-names>T. T.</given-names></name>; <name><surname>Yan</surname><given-names>M.</given-names></name>; <name><surname>Yin</surname><given-names>Y. X.</given-names></name>; <name><surname>Shi</surname><given-names>J. L.</given-names></name>; <name><surname>Wu</surname><given-names>X. W.</given-names></name>; <name><surname>Guo</surname><given-names>Y. G.</given-names></name>; <name><surname>Wan</surname><given-names>L. J.</given-names></name>
+<article-title>Engineering janus
+interfaces of ceramic electrolyte
+via distinct functional polymers for stable high-voltage Li-metal
+batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2019</year>, <volume>141</volume>, <fpage>9165</fpage>&#x02013;<lpage>9169</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.9b03517</pub-id>.<pub-id pub-id-type="pmid">31141357</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>Y. T.</given-names></name>; <name><surname>Li</surname><given-names>S. P.</given-names></name>; <name><surname>Fan</surname><given-names>L. Z.</given-names></name>; <name><surname>Nan</surname><given-names>C. W.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>PEO/garnet
+composite electrolytes for solid-state lithium
+batteries: From &#x0201c;ceramic-in-polymer&#x0201d; to &#x0201c;polymer-in-ceramic</article-title>. <source>Nano Energy</source>
+<year>2018</year>, <volume>46</volume>, <fpage>176</fpage>&#x02013;<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2017.12.037</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Zhou</surname><given-names>W. D.</given-names></name>; <name><surname>Wang</surname><given-names>Z. W.</given-names></name>; <name><surname>Pu</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Y. T.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>X. F.</given-names></name>; <name><surname>Chen</surname><given-names>J. F.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Double-layer
+polymer electrolyte for high-voltage all-solid-state rechargeable
+batteries</article-title>. <source>Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>1805574</fpage><pub-id pub-id-type="doi">10.1002/adma.201805574</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Mohamed</surname><given-names>N. S.</given-names></name>; <name><surname>Arof</surname><given-names>A. K.</given-names></name>
+<article-title>Investigation of electrical and electrochemical properties
+of PVDF-based polymer electrolytes</article-title>. <source>J. Power
+Sources</source>
+<year>2004</year>, <volume>132</volume>, <fpage>229</fpage>&#x02013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2003.12.031</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Yu</surname><given-names>X. R.</given-names></name>; <name><surname>Wang</surname><given-names>L. L.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>X. W.</given-names></name>; <name><surname>Zhou</surname><given-names>X. H.</given-names></name>; <name><surname>Cui</surname><given-names>G. L.</given-names></name>
+<article-title>Selectively wetted
+rigid-flexible coupling polymer
+electrolyte enabling superior stability and compatibility of high-voltage
+lithium metal batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>1903939</fpage><pub-id pub-id-type="doi">10.1002/aenm.201903939</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Sun</surname><given-names>J. Q.</given-names></name>; <name><surname>Yao</surname><given-names>X. M.</given-names></name>; <name><surname>Li</surname><given-names>Y. G.</given-names></name>; <name><surname>Zhang</surname><given-names>Q. H.</given-names></name>; <name><surname>Hou</surname><given-names>C. Y.</given-names></name>; <name><surname>Shi</surname><given-names>Q. W.</given-names></name>; <name><surname>Wang</surname><given-names>H. Z.</given-names></name>
+<article-title>Facilitating
+interfacial stability
+via bilayer heterostructure solid electrolyte toward high-energy,
+safe and adaptable lithium batteries</article-title>. <source>Adv. Energy
+Mater.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>2000709</fpage><pub-id pub-id-type="doi">10.1002/aenm.202000709</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Liu</surname><given-names>W. Y.</given-names></name>; <name><surname>Yi</surname><given-names>C. J.</given-names></name>; <name><surname>Li</surname><given-names>L. P.</given-names></name>; <name><surname>Liu</surname><given-names>S. L.</given-names></name>; <name><surname>Gui</surname><given-names>Q. Y.</given-names></name>; <name><surname>Ba</surname><given-names>D. L.</given-names></name>; <name><surname>Li</surname><given-names>Y. Y.</given-names></name>; <name><surname>Peng</surname><given-names>D. L.</given-names></name>; <name><surname>Liu</surname><given-names>J. P.</given-names></name>
+<article-title>Designing
+polymer-in-salt electrolyte and fully infiltrated 3D electrode for
+integrated solid-state lithium batteries</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>12931</fpage>&#x02013;<lpage>12940</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202101537</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Xie</surname><given-names>Z. K.</given-names></name>; <name><surname>Wu</surname><given-names>Z. J.</given-names></name>; <name><surname>An</surname><given-names>X. W.</given-names></name>; <name><surname>Yue</surname><given-names>X. Y.</given-names></name>; <name><surname>Xiaokaiti</surname><given-names>P.</given-names></name>; <name><surname>Yoshida</surname><given-names>A.</given-names></name>; <name><surname>Abudula</surname><given-names>A.</given-names></name>; <name><surname>Guan</surname><given-names>G. Q.</given-names></name>
+<article-title>A sandwich-type
+composite polymer electrolyte for all-solid-state lithium metal batteries
+with high areal capacity and cycling stability</article-title>. <source>J. Membr. Sci.</source>
+<year>2020</year>, <volume>596</volume>, <fpage>117739</fpage><pub-id pub-id-type="doi">10.1016/j.memsci.2019.117739</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Lin</surname><given-names>C.</given-names></name>; <name><surname>Yan</surname><given-names>X. H.</given-names></name>; <name><surname>Wu</surname><given-names>A. M.</given-names></name>; <name><surname>Shen</surname><given-names>S. Y.</given-names></name>; <name><surname>Wei</surname><given-names>G. H.</given-names></name>; <name><surname>Zhang</surname><given-names>J. L.</given-names></name>
+<article-title>Mechanical property-reinforced PEO/PVDF/LiClO<sub>4</sub>/SN blend all solid polymer electrolyte for lithium ion batteries</article-title>. <source>J. Electroanal. Chem.</source>
+<year>2020</year>, <volume>869</volume>, <fpage>114156</fpage><pub-id pub-id-type="doi">10.1016/j.jelechem.2020.114156</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Song</surname><given-names>X. F.</given-names></name>; <name><surname>Zhang</surname><given-names>Y. N.</given-names></name>; <name><surname>Ye</surname><given-names>Y. W.</given-names></name>; <name><surname>Liu</surname><given-names>Z. F.</given-names></name>; <name><surname>Cheng</surname><given-names>F.</given-names></name>; <name><surname>Li</surname><given-names>H. R.</given-names></name>
+<article-title>A durable gel polymer electrolyte with excellent cycling and rate
+performance for enhanced lithium storage</article-title>. <source>ACS
+Appl. Energy Mater.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>4906</fpage>&#x02013;<lpage>4913</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c00485</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Huo</surname><given-names>H. Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>X. F.</given-names></name>; <name><surname>Guo</surname><given-names>X. X.</given-names></name>; <name><surname>Sun</surname><given-names>X. L.</given-names></name>
+<article-title>Rational design of hierarchical &#x0201c;ceramic-in-polymer&#x0201d;
+and &#x0201c;polymer-in-ceramic&#x0201d; electrolytes for dendrite-free
+solid-state batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>1804004</fpage><pub-id pub-id-type="doi">10.1002/aenm.201804004</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Niu</surname><given-names>X. F.</given-names></name>; <name><surname>Xin</surname><given-names>C. Z.</given-names></name>; <name><surname>Xue</surname><given-names>C. J.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>L. L.</given-names></name>; <name><surname>Nan</surname><given-names>C. W.</given-names></name>
+<article-title>High cycling
+stability for solid-state Li metal batteries via regulating solvation
+effect in poly(vinylidene fluoride)-based electrolytes</article-title>. <source>Batteries Supercaps</source>
+<year>2020</year>, <volume>3</volume>, <fpage>876</fpage>&#x02013;<lpage>883</lpage>. <pub-id pub-id-type="doi">10.1002/batt.202000081</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Fujii</surname><given-names>K.</given-names></name>; <name><surname>Wakamatsu</surname><given-names>H.</given-names></name>; <name><surname>Todorov</surname><given-names>Y.</given-names></name>; <name><surname>Yoshimoto</surname><given-names>N.</given-names></name>; <name><surname>Morita</surname><given-names>M.</given-names></name>
+<article-title>Structural and electrochemical properties of Li ion
+solvation complexes in the salt-concentrated electrolytes using an
+aprotic donor solvent, N,N-dimethylformamide</article-title>. <source>J. Phys. Chem. C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>17196</fpage>&#x02013;<lpage>17204</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.6b04542</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Xue</surname><given-names>C. J.</given-names></name>; <name><surname>Xin</surname><given-names>C. Z.</given-names></name>; <name><surname>Lin</surname><given-names>Y. H.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>L. L.</given-names></name>; <name><surname>Nan</surname><given-names>C. W.</given-names></name>
+<article-title>Response
+to comment
+on &#x0201c;Self-suppression of lithium dendrite in all-solid-state
+lithium metal batteries with poly(vinylidene difluoride)-based solid
+electrolytes</article-title>. <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <fpage>2000026</fpage><pub-id pub-id-type="doi">10.1002/adma.202000026</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>W. X.</given-names></name>; <name><surname>Fan</surname><given-names>L. Z.</given-names></name>; <name><surname>Nan</surname><given-names>C. W.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Intercalated
+electrolyte with high transference number for dendrite-free solid-state
+lithium batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <fpage>1901047</fpage><pub-id pub-id-type="doi">10.1002/adfm.201901047</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Wan</surname><given-names>J. Y.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Kong</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Shi</surname><given-names>F. F.</given-names></name>; <name><surname>Pei</surname><given-names>A.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>X. K.</given-names></name>; <name><surname>Zong</surname><given-names>L. Q.</given-names></name>; <name><surname>Wang</surname><given-names>J. Y.</given-names></name>; <name><surname>Chen</surname><given-names>L. Q.</given-names></name>; <name><surname>Qin</surname><given-names>J.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Ultrathin,
+flexible, solid polymer composite electrolyte enabled
+with aligned nanoporous host for lithium batteries</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2019</year>, <volume>14</volume>, <fpage>705</fpage>&#x02013;<lpage>712</lpage>. <pub-id pub-id-type="doi">10.1038/s41565-019-0465-3</pub-id>.<pub-id pub-id-type="pmid">31133663</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Zhang</surname><given-names>S. M.</given-names></name>; <name><surname>Yang</surname><given-names>G. J.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>X. Y.</given-names></name>; <name><surname>Wang</surname><given-names>X. F.</given-names></name>; <name><surname>Wang</surname><given-names>Z. X.</given-names></name>; <name><surname>Chen</surname><given-names>L. Q.</given-names></name>
+<article-title>Understanding the
+dropping of lithium
+plating potential in carbonate electrolyte</article-title>. <source>Nano Energy</source>
+<year>2020</year>, <volume>70</volume>, <fpage>104486</fpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2020.104486</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Lu</surname><given-names>H. L.</given-names></name>; <name><surname>Xu</surname><given-names>N.</given-names></name>; <name><surname>Ni</surname><given-names>X. Y.</given-names></name>; <name><surname>Zhou</surname><given-names>J. Q.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Z. K.</given-names></name>; <name><surname>Qian</surname><given-names>T.</given-names></name>; <name><surname>Yan</surname><given-names>C. L.</given-names></name>
+<article-title>Functional-selected LiF-intercalated-graphene
+enabling ultra-stable lithium sulfur battery</article-title>. <source>J. Energy Chem.</source>
+<year>2021</year>, <volume>58</volume>, <fpage>78</fpage>&#x02013;<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2020.08.062</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Yu</surname><given-names>J.</given-names></name>; <name><surname>Lyu</surname><given-names>Y. Q.</given-names></name>; <name><surname>Liu</surname><given-names>J. P.</given-names></name>; <name><surname>Effat</surname><given-names>M. B.</given-names></name>; <name><surname>Kwok</surname><given-names>S. C. T.</given-names></name>; <name><surname>Wu</surname><given-names>J. X.</given-names></name>; <name><surname>Ciucci</surname><given-names>F.</given-names></name>
+<article-title>Enabling non-flammable Li-metal batteries
+via electrolyte functionalization and interface engineering</article-title>. <source>J. Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>17995</fpage>&#x02013;<lpage>18002</lpage>. <pub-id pub-id-type="doi">10.1039/C9TA03784E</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Jin</surname><given-names>Y. M.</given-names></name>; <name><surname>Liu</surname><given-names>C. J.</given-names></name>; <name><surname>Zong</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Fu</surname><given-names>M. Y.</given-names></name>; <name><surname>Tan</surname><given-names>S. P.</given-names></name>; <name><surname>Xiong</surname><given-names>Y. P.</given-names></name>; <name><surname>Wei</surname><given-names>J. H.</given-names></name>
+<article-title>Interface engineering
+of Li<sub>1.3</sub>Al<sub>0.3</sub>Ti<sub>1.7</sub>(PO<sub>4</sub>)<sub>3</sub> ceramic electrolyte via multifunctional interfacial
+layer for all-solid-state lithium batteries</article-title>. <source>J. Power Sources</source>
+<year>2020</year>, <volume>460</volume>, <fpage>228125</fpage>&#x02013;<lpage>228133</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2020.228125</pub-id>.</mixed-citation></ref></ref-list></back></article>

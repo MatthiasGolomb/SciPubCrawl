@@ -1,0 +1,2779 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs3207" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8811808</article-id><article-id pub-id-type="pmid">34894094</article-id><article-id pub-id-type="doi">10.1002/advs.202103760</article-id><article-id pub-id-type="publisher-id">ADVS3207</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Coupling Water&#x02010;Proof Li Anodes with LiOH&#x02010;Based Cathodes Enables Highly Rechargeable Lithium&#x02013;Air Batteries Operating in Ambient Air</article-title></title-group><contrib-group><contrib id="advs3207-cr-0001" contrib-type="author"><name><surname>Lei</surname><given-names>Jiang</given-names></name><xref rid="advs3207-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3207-cr-0002" contrib-type="author"><name><surname>Gao</surname><given-names>Zongyan</given-names></name><xref rid="advs3207-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3207-cr-0003" contrib-type="author"><name><surname>Tang</surname><given-names>Linbin</given-names></name><xref rid="advs3207-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3207-cr-0004" contrib-type="author" corresp="yes"><name><surname>Zhong</surname><given-names>Li</given-names></name><xref rid="advs3207-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>lizhong@seu.edu.cn</email></address></contrib><contrib id="advs3207-cr-0005" contrib-type="author"><name><surname>Li</surname><given-names>Junjian</given-names></name><xref rid="advs3207-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3207-cr-0006" contrib-type="author"><name><surname>Zhang</surname><given-names>Yue</given-names></name><xref rid="advs3207-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3207-cr-0007" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Tao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6515-0427</contrib-id><xref rid="advs3207-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>tliu@tongji.edu.cn</email></address></contrib></contrib-group><aff id="advs3207-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Shanghai Key Laboratory of Chemical Assessment and Sustainability</named-content>
+<named-content content-type="organisation-division">School of Chemical Science and Engineering</named-content>
+<institution>Tongji University</institution>
+<named-content content-type="street">No. 1239, Siping Road</named-content>
+<city>Shanghai</city>
+<postal-code>200092</postal-code>
+<country country="CN">P. R. China</country>
+</aff><aff id="advs3207-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">SEU&#x02010;FEI Nano&#x02010;Pico Center</named-content>
+<named-content content-type="organisation-division">Key Laboratory of MEMS of Ministry of Education</named-content>
+<institution>Southeast University</institution>
+<city>Nanjing</city>
+<postal-code>210096</postal-code>
+<country country="CN">P. R. China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>lizhong@seu.edu.cn</email>, <email>tliu@tongji.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2022</year></pub-date><volume>9</volume><issue seq="330">4</issue><issue-id pub-id-type="doi">10.1002/advs.v9.4</issue-id><elocation-id>2103760</elocation-id><history>
+<date date-type="rev-recd"><day>28</day><month>9</month><year>2021</year></date>
+<date date-type="received"><day>31</day><month>8</month><year>2021</year></date>
+</history><permissions><!--&#x000a9; 2022 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-9-2103760.pdf"/><abstract><title>Abstract</title><p>Realizing an energy&#x02010;dense, highly rechargeable nonaqueous lithium&#x02013;oxygen battery in ambient air remains a big challenge because the active materials of the typical high&#x02010;capacity cathode (Li<sub>2</sub>O<sub>2</sub>) and anode (Li metal) are unstable in air. Herein, a novel lithium&#x02013;oxygen full cell coupling a lithium anode protected by a composite layer of polyethylene oxide (PEO)/lithium aluminum titanium phosphate (LATP)/wax to a LiOH&#x02010;based cathode is constructed. The protected lithium is stable in air and water, and permits reversible, dendrite&#x02010;free lithium stripping/plating in a wet nonaqueous electrolyte under ambient air. The LiOH&#x02010;based full cell reaction is immune to moisture (up to 99% humidity) in air and exhibits a much better resistance to CO<sub>2</sub> contamination than Li<sub>2</sub>O<sub>2</sub>, resulting in a more consistent electrochemistry in the long term. The current approach of coupling a protected lithium anode with a LiOH&#x02010;based cathode holds promise for developing a long&#x02010;life, high&#x02010;energy lithium&#x02013;air battery capable of operating in the ambient atmosphere.</p></abstract><abstract id="advs3207-abs-0001" abstract-type="graphical"><p>A highly rechargeable lithium&#x02010;air battery operating directly in ambient environment is successfully demonstrated by coupling a LiOH&#x02010;based cathode and an air&#x02010;stable lithium anode with a composite protective layer. Key advantages of the system include: 1) outstanding electrochemical stability; 2) Li dendrite&#x02010;free; 3) superior resistance to humidity (99%) and CO2; 4) being applicable to highly wet electrolytes (up to 50vol%).
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-9-2103760-g002.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs3207-kwd-0001">lithium&#x02013;air batteries</kwd><kwd id="advs3207-kwd-0002">lithium anode protection</kwd><kwd id="advs3207-kwd-0003">lithium hydroxide</kwd><kwd id="advs3207-kwd-0004">H<sub>2</sub>O/CO<sub>2</sub> resistance</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>21802102</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Recruitment Program of Global Experts
+</institution><institution-id institution-id-type="doi">10.13039/501100010871</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Science and Technology Commission of Shanghai Municipality
+</institution><institution-id institution-id-type="doi">10.13039/501100003399</institution-id></institution-wrap></funding-source><award-id>19DZ2271500</award-id></award-group><award-group id="funding-0004"><funding-source>National Key R&#x00026;D Program of China</funding-source><award-id>2020YFB2007400</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>National Basic Research Program of China (973 Program)
+</institution><institution-id institution-id-type="doi">10.13039/501100012166</institution-id></institution-wrap></funding-source><award-id>2020YFB2007400</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="13"/><word-count count="9017"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2, 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.1 mode:remove_FC converted:03.02.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs3207-cit-0092">
+<string-name>
+<given-names>J.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <article-title>Coupling Water&#x02010;Proof Li Anodes with LiOH&#x02010;Based Cathodes Enables Highly Rechargeable Lithium&#x02013;Air Batteries Operating in Ambient Air</article-title>. <source>Adv. Sci.</source>
+<year>2022</year>, <volume>9</volume>, <elocation-id>2103760</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202103760</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs3207-sec-0010"><label>1</label><title>Introduction</title><p>Fully realizing the high energy density of nonaqueous lithium&#x02013;air batteries relies on the use of a Li metal anode paired with a lithium oxide cathode, e.g., Li<sub>2</sub>O<sub>2</sub> (2.96&#x000a0;V, 3.5&#x000a0;kWh kg<sup>&#x02212;1</sup>) or Li<sub>2</sub>O (2.91&#x000a0;V, 5.2&#x000a0;kWh kg<sup>&#x02212;1</sup>) in a cell operating in ambient air.<sup>[</sup>
+<xref rid="advs3207-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs3207-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs3207-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs3207-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> But none of these electrode materials are air stable. Li<sub>2</sub>O<sub>2</sub> and Li<sub>2</sub>O would spontaneously react with H<sub>2</sub>O and CO<sub>2</sub> to form LiOH and eventually Li<sub>2</sub>CO<sub>3</sub>,<sup>[</sup>
+<xref rid="advs3207-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs3207-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs3207-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="advs3207-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs3207-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs3207-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="advs3207-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> the latter inducing high overpotentials on recharging<sup>[</sup>
+<xref rid="advs3207-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs3207-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs3207-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> and causing further parasitic reactions to carbon cathodes<sup>[</sup>
+<xref rid="advs3207-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs3207-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs3207-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> and electrolytes<sup>[</sup>
+<xref rid="advs3207-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs3207-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs3207-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> (<bold>Figure</bold>&#x000a0;<xref rid="advs3207-fig-0001" ref-type="fig">
+<bold>1</bold>e</xref>). Li metal suffers from reactivity to an even wider range of air components (N<sub>2</sub>, O<sub>2</sub>, CO<sub>2</sub>, H<sub>2</sub>O),<sup>[</sup>
+<xref rid="advs3207-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> especially moisture,<sup>[</sup>
+<xref rid="advs3207-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> alongside the conventional problems pertaining to an unstable solid&#x02010;electrolyte interphase (SEI) and Li dendrite formation (Figure&#x000a0;<xref rid="advs3207-fig-0001" ref-type="fig">1a&#x02013;c</xref>).<sup>[</sup>
+<xref rid="advs3207-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="advs3207-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="advs3207-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs3207-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> These issues pose major challenges to the realization of a high&#x02010;energy lithium&#x02013;air battery in practice.</p><fig position="float" fig-type="Figure" id="advs3207-fig-0001"><label>Figure 1</label><caption><p>A scheme illustrating the challenges associated with a nonaqueous lithium&#x02013;air battery using a bare Li anode and a Li<sub>2</sub>O<sub>2</sub>&#x02010;based cathode, and strategies implemented in this work to address these issues. a, b) Conventional issues of dendrite formation and unstable SEI for Li metal anodes. c) Many constitutes of air could corrode Li metal in an open lithium&#x02013;air battery. d) Schematics of the Li anode protection strategy developed in the current work that effectively suppresses unwanted parasitic reactions in an open lithium&#x02013;air environment. A comparison of the potential characteristic processes involved in Li<sub>2</sub>O<sub>2</sub>&#x02010;based e) and LiOH&#x02010;based f) lithium&#x02013;air batteries.</p></caption><graphic xlink:href="ADVS-9-2103760-g001" position="anchor" id="jats-graphic-3"/></fig><p>To achieve stable electrochemical Li stripping/plating, many previous studies have employed solid&#x02010;state Li<sup>+</sup> conductive ceramics in a dual compartmental design for lithium&#x02013;air batteries.<sup>[</sup>
+<xref rid="advs3207-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs3207-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="advs3207-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs3207-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs3207-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> These nonporous discs of solid Li<sup>+</sup> conductors can be water&#x02010; and air&#x02010;proof,<sup>[</sup>
+<xref rid="advs3207-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="advs3207-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="advs3207-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="advs3207-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="advs3207-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> but they tend to degrade when in direct contact with Li metal<sup>[</sup>
+<xref rid="advs3207-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="advs3207-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> and are very susceptible to crack formation, where Li dendrites and air could readily penetrate through.<sup>[</sup>
+<xref rid="advs3207-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="advs3207-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> Some studies involve uses of organic&#x02010;inorganic composite films,<sup>[</sup>
+<xref rid="advs3207-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs3207-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="advs3207-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> which tend to be more flexible and uniform on Li and have been shown to greatly improve the electrochemical stability of Li anodes. Nevertheless, in some of these cases Li dendrites still form, and are prone to penetrating through the softer organic component of the protective film.<sup>[</sup>
+<xref rid="advs3207-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> Other relevant lithium&#x02013;air battery studies using protected lithium anodes have either examined the cell performance under a pure O<sub>2</sub> atmosphere, and with little/no water in lithium&#x02010;compatible electrolytes.<sup>[</sup>
+<xref rid="advs3207-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="advs3207-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="advs3207-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="advs3207-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="advs3207-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="advs3207-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="advs3207-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="advs3207-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup> It remains challenging to achieve reversible, dendrite&#x02010;free Li stripping/plating using a wet nonaqueous electrolyte in an open (humidified) lithium&#x02013;air battery.</p><p>At the cathode, LiOH being an alternative active material, is theoretically immune to moisture and more resistant to CO<sub>2</sub> contamination compared to Li<sub>2</sub>O<sub>2</sub> and Li<sub>2</sub>O (Figure&#x000a0;<xref rid="advs3207-fig-0001" ref-type="fig">1f</xref>).<sup>[</sup>
+<xref rid="advs3207-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> Recently, LiOH formation and decomposition (3.32&#x000a0;V, 3.7&#x000a0;kWh kg<sup>&#x02212;1</sup>) have been demonstrated as reversible four&#x02010;electron oxygen reduction (ORR) and evolution reactions (OER), i.e.
+<disp-formula id="advs3207-disp-0001">
+<label>(1)</label>
+<mml:math id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:mn>4</mml:mn><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:mn>4</mml:mn><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mo>&#x02212;</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mo>&#x02192;</mml:mo><mml:mn>4</mml:mn><mml:mi>LiOH</mml:mi></mml:mrow></mml:mrow></mml:math>
+</disp-formula>in a variety of catalytic systems in the presence of water; these include systems involving the uses of LiI mediator,<sup>[</sup>
+<xref rid="advs3207-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="advs3207-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+<sup>]</sup> Cu<sup>I</sup>&#x02010;complex enzyme,<sup>[</sup>
+<xref rid="advs3207-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> sodium trifluoromethanesulfonate<sup>[</sup>
+<xref rid="advs3207-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>
+<sup>]</sup> as additives in nonaqueous electrolytes or the use of solid catalysts (Co<sub>3</sub>O<sub>4</sub>, Mn&#x02010;MOF&#x02010;74, activated graphene).<sup>[</sup>
+<xref rid="advs3207-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="advs3207-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>, <xref rid="advs3207-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>
+<sup>]</sup> However, no study so far has evaluated the electrochemical stability of a LiOH&#x02010;based cell reaction in ambient air, and investigated whether or how H<sub>2</sub>O and CO<sub>2</sub> in air would alter the nature of the reaction product.</p><p>Herein, we use Ru&#x02010;catalyzed LiOH formation/decomposition reaction as a model system to assess the suitability of using LiOH as the cathode active material in an open lithium&#x02013;air battery. This Ru&#x02010;based system is simple, avoiding potential complicating cell reactions involving O<sub>2</sub>, H<sub>2</sub>O, CO<sub>2</sub> with mediator or enzyme additives and shuttling of these redox species;<sup>[</sup>
+<xref rid="advs3207-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>, <xref rid="advs3207-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>, <xref rid="advs3207-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+<sup>]</sup> it also exhibits a consistent LiOH&#x02010;based electrochemistry throughout the whole capacity with low overpotentials and relatively good rechargeability.<sup>[</sup>
+<xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup> As such, it allows a true assessment of air effects on the stability of this cathode electrochemistry in both short and long terms. In addition, we have designed a hierarchical multifunctional layer on the Li anode to enable stable operation of a full battery in ambient air (Figure&#x000a0;<xref rid="advs3207-fig-0001" ref-type="fig">1d</xref>). Our work demonstrates that the protected lithium anode is chemically stable in air and in pure water; the resulting full lithium&#x02013;air cell using the protected Li anodes and LiOH&#x02010;based cathodes shows an excellent electrochemical stability, operating even in an electrolyte with a substantial amount of water, successfully addressing many of the aforementioned issues that plagued lithium&#x02013;air battery development.</p><p>A variety of analysis techniques, including <italic toggle="yes">operando</italic> electrochemical mass spectrometry (OEMS), chemical titration, X&#x02010;ray diffraction (XRD), solid state nuclear magnetic resonance (ssNMR), Fourier transformed infrared spectroscopy (FTIR), X&#x02010;ray photon&#x02010;electron spectroscopy (XPS), and so on (see Methods, Figures <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S1</xref>&#x02013;<xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information) have been employed to demonstrate and rationalize the superior electrochemical stability. We anticipate that when a fully reversible chemistry based on LiOH formation/decomposition is utilized at the cathode, the cell cycling life could be improved even further. In the ensuing sections, the effect of air on the cathode electrochemistry is first discussed, followed by the demonstration of the Li protection strategy that enables full&#x02010;cell operation.</p></sec><sec id="advs3207-sec-0020"><label>2</label><title>Results and Discussion</title><p>
+<bold>Figure</bold>&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref> compares the effects of operating atmospheres (i.e., pure O<sub>2</sub>, dry air, ambient air) on the electrochemistry of two cell systems: one uses Super P (SP) carbon as the cathode and anhydrous Lithium bis(trifluoromethanesulfonyl)imide in dimethyl sulfoxide (LiTFSI/DMSO) as the electrolyte, and the other uses a ruthenium decorated SP (Ru/SP) cathode (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information) and a wet LiTFSI/DMSO electrolyte with 5 vol% added water. These two systems are expected to form a Li<sub>2</sub>O<sub>2</sub>&#x02010; and LiOH&#x02010;dominant electrochemistry, respectively.<sup>[</sup>
+<xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="advs3207-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="advs3207-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>
+<sup>]</sup> Air&#x02010;stable lithium iron phosphate was used as the counter/reference electrode to help focus on investigating the half&#x02010;cell reaction at the air cathode.</p><fig position="float" fig-type="Figure" id="advs3207-fig-0002"><label>Figure 2</label><caption><p>Electrochemical performance of Li&#x02010;O<sub>2</sub>/air cells using different cathodes and electrolytes. Voltage profiles of cells using SP cathodes and 1 <sc>m</sc> LiTFSI/DMSO in pure O<sub>2</sub> (a) and in dry air (c); cell voltage profiles using Ru/SP cathodes and 1 <sc>m</sc> LiTFSI/DMSO with 5 vol% H<sub>2</sub>O in pure O<sub>2</sub> (b) and in dry air (d). Cells in a&#x02010;d) are cycled at 0.425&#x000a0;mA cm<sup>&#x02212;2</sup>. Electrochemical profiles of cells e) using Ru/SP and 1 <sc>m</sc> LiTFSI/DMSO with 5 vol% in ambient air, and long&#x02010;term cyclability of these cells f) with different depths of discharge at 0.5, 1.5 and 3 mAh cm<sup>&#x02212;2</sup> (or 3000 mAh g<sub>c</sub>
+<sup>&#x02212;1</sup>, as the SP cathode size and loading are typically around 0.5 cm<sup>2</sup> and 1&#x000a0;mg cm<sup>&#x02212;2</sup>). The specific capacities could be a few times higher if carbon nanotubes are used to replace SP carbon in cathodes.<sup>[</sup>
+<xref rid="advs3207-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>, <xref rid="advs3207-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>
+<sup>]</sup>
+</p></caption><graphic xlink:href="ADVS-9-2103760-g004" position="anchor" id="jats-graphic-5"/></fig><p>In pure O<sub>2</sub> (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2a</xref>), the cell showed discharge and charge plateaus at &#x02248;2.6 and &#x02248;4.2&#x000a0;V, respectively, which are consistent with the processes of Li<sub>2</sub>O<sub>2</sub> formation and decomposition reported in literature.<sup>[</sup>
+<xref rid="advs3207-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="advs3207-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="advs3207-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>
+<sup>]</sup> After only a few cycles, the discharge overpotential started to increase and meanwhile a new charge plateau at &#x02248;4.4&#x000a0;V emerged; the rises in overpotentials rapidly led to premature discharge and charge processes at the cutoff voltages and failure of the cell. Using a Ru/SP cathode, on the other hand, the cell revealed (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2b</xref>) an overlapping electrochemical profile with high Coulombic efficiencies (&#x0003e;99%) over extended cycles. Flat discharge and charge voltages at &#x02248;2.8 and &#x02248;3.2&#x000a0;V were observed, which has been ascribed to LiOH formation and decomposition, respectively.<sup>[</sup>
+<xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup>
+</p><p>Switching to a dry air (21.2% O<sub>2</sub>, 0.038% CO<sub>2</sub>, 78.76% N<sub>2</sub>) atmosphere caused a few notable changes to the electrochemistry of cells using SP cathodes (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2c</xref>): a new discharge plateau at &#x02248;2.8&#x000a0;V appeared and elongated with cycle number; the charging voltage continually rose and the plateau at 4.4&#x000a0;V rapidly became the dominant feature in the charge profile, approaching the cutoff voltage set at 4.65&#x000a0;V.<sup>[</sup>
+<xref rid="advs3207-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs3207-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>, <xref rid="advs3207-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>
+<sup>]</sup> In Ru/SP cells, however, the electrochemical profile was largely unchanged (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2d</xref>), the voltage gaps and consistency between cycles remaining the same. But a small new charge plateau did develop at &#x02248;3.65&#x000a0;V, its length staying almost constant with cycling. Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2e</xref> shows the electrochemistry of a Ru/SP cell that was fully discharged and charged in ambient air, with an average capacity of 3.7 mAh cm<sup>&#x02212;2</sup> in the first 25 cycles. Its electrochemical profile bears an even higher resemblance to the one in pure O<sub>2</sub>, with the 3.65&#x000a0;V plateau barely discernable. Long&#x02010;term rechargeability in ambient air with each cycle curtailed to different capacities is illustrated in Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2f</xref>. Areal capacities are being quoted due to its more practical relevance. Typically, a cell can cycle in ambient air at 1.5 mAh cm<sup>&#x02212;2</sup> (1500 mAh g<sub>c</sub>
+<sup>&#x02212;1</sup>) per cycle for around 100 times, before the capacity starts to fade. The above data demonstrate that the Ru/SP&#x02010;catalyzed reaction at the cathode possesses a higher electrochemical stability and better rechargeability in air than the typical Li<sub>2</sub>O<sub>2</sub>&#x02010;based cell reaction.</p><p>It is worth mentioning that we have also investigated the electrochemistry of cells using Ru/SP cathodes and <italic toggle="yes">anhydrous</italic> electrolytes in a strictly sealed chamber; the cells showed an electrochemical profile (see detailed discussion in Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S6</xref>, Supporting Information) gradually converting to that in wet electrolytes (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2d</xref>). Quantitative analysis indicates that the reaction changed from close to two electrons per reduced O<sub>2</sub> (i.e., consistent with Li<sub>2</sub>O<sub>2</sub>) to approximately four electrons per O<sub>2</sub> (i.e., LiOH); this mixed and evolving electrochemistry using a Ru/SP cathode hinders a clear&#x02010;cut comparison of air resistance between the Li<sub>2</sub>O<sub>2</sub>&#x02010; and LiOH&#x02010;based systems, and thus a SP cathode, instead, has been used for comparison.</p><p>To provide detailed insights into the reactions occurring at the various voltage plateaus (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2</xref>), qualitative and quantitative experiments have been performed over extended cycles, including OEMS, chemical titration, XRD, ssNMR, FTIR and scanning electron microscopy (SEM). OEMS measurements of the first cycle (<bold>Figure</bold>&#x000a0;<xref rid="advs3207-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>) revealed that in cells using SP cathodes and anhydrous DMSO electrolytes, the discharge process showed 2.18 electrons per reduced O<sub>2</sub>, consistent with dominant Li<sub>2</sub>O<sub>2</sub> formation.<sup>[</sup>
+<xref rid="advs3207-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="advs3207-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="advs3207-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>
+<sup>]</sup> Chemical titration of the discharged electrodes in dry air (<bold>Figure</bold>&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>) confirmed that the discharge products are indeed mainly composed of Li<sub>2</sub>O<sub>2</sub> (75%), together with LiOH (10%) and Li<sub>2</sub>CO<sub>3</sub> (15%) due to side reactions, the quantities of these by&#x02010;products being 2% and 6% higher than those obtained in pure O<sub>2</sub> (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>). On charging, around 65.4% of O<sub>2</sub> was recovered and significant amount of CO<sub>2</sub> evolved, initiating at &#x02248;4.45&#x000a0;V; the latter process has been mainly attributed to Li<sub>2</sub>CO<sub>3</sub> decomposition<sup>[</sup>
+<xref rid="advs3207-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs3207-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs3207-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs3207-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>, <xref rid="advs3207-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+<sup>]</sup> and associated side reactions, e.g., those involving singlet oxygen.<sup>[</sup>
+<xref rid="advs3207-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs3207-fig-0003"><label>Figure 3</label><caption><p>Gases consumption and evolution during cell cycling in air using operando electrochemical mass spectrometry (OEMS). Discharge and charge profiles and the corresponding O<sub>2</sub> (<italic toggle="yes">m/z</italic> = 32), CO<sub>2</sub> (<italic toggle="yes">m/z</italic> = 44) signals of cells using different cathodes and electrolytes under dry air: a) SP cathode with 1 <sc>m</sc> LiTFSI/DMSO and b) Ru/SP cathode with 1 <sc>m</sc> LiTFSI/DMSO with 5 vol% H<sub>2</sub>O. The blue dashed line denotes the onset of CO<sub>2</sub> release in the two systems. Levels for a) two electrons per reduced O<sub>2</sub> and b) four electrons per reduced O<sub>2</sub> are marked using black dashed lines. c) Comparison of CO<sub>2</sub> (<italic toggle="yes">m/z</italic> = 44) evolved during electrochemical decomposition of Li<sub>2</sub>O<sub>2</sub>&#x02010; (SP, anhydrous 1 <sc>m</sc> LiTFSI/DMSO) and LiOH&#x02010;based (Ru/SP, 1 <sc>m</sc> LiTFSI/DMSO with 5 vol% H<sub>2</sub>O) battery systems.</p></caption><graphic xlink:href="ADVS-9-2103760-g003" position="anchor" id="jats-graphic-7"/></fig><fig position="float" fig-type="Figure" id="advs3207-fig-0004"><label>Figure 4</label><caption><p>Characterization and quantification of discharge products in Li&#x02010;O<sub>2</sub>/air cells over extended cycles. a) Quantification of discharge products in Li&#x02010;O<sub>2</sub>/air cell using acid&#x02010;base, TiOSO<sub>4</sub>&#x02010;based UV&#x02013;vis spectroscopic and mass spectrometric titrations (see Figures <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S2&#x02013;S</xref>4, Supporting Information) to quantitatively evaluate Li<sub>2</sub>O<sub>2</sub> (red bars), LiOH (blue bars), and Li<sub>2</sub>CO<sub>3</sub> (violet bars) within the cathodes, respectively. The original processed data of quantified discharge products are presented in Table <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S1</xref> (Supporting Information). b) Moles of CO<sub>2</sub> release during charge in the first six cycles in Li<sub>2</sub>O<sub>2</sub>&#x02010;(SP, anhydrous 1 <sc>m</sc> LiTFSI/DMSO) and LiOH&#x02010;based (Ru/SP, 1 <sc>m</sc> LiTFSI/DMSO with 5 vol% H<sub>2</sub>O) Li&#x02013;air cells; the areas of CO<sub>2</sub> evolution peaks have been integrated and plotted with a trend line. c) XRD patterns and d) SEM images of Ru/SP electrodes at different states of charge.</p></caption><graphic xlink:href="ADVS-9-2103760-g006" position="anchor" id="jats-graphic-9"/></fig><p>For cells with Ru/SP cathodes and wet electrolytes, OEMS showed a discharge process of 3.97 electrons per reduced O<sub>2</sub> in dry air (Figure&#x000a0;<xref rid="advs3207-fig-0003" ref-type="fig">3b</xref>), highly consistent with previously reported values in pure O<sub>2</sub>.<sup>[</sup>
+<xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup> Titrations of discharge products obtained in both dry air and ambient air (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>) confirmed that the discharge product was overwhelmingly LiOH (98%), very close to that obtained in pure O<sub>2</sub> (100% LiOH), and that around 2% of the products was Li<sub>2</sub>CO<sub>3</sub>, 7.5 times lower than the Li<sub>2</sub>CO<sub>3</sub> amount detected in the Li<sub>2</sub>O<sub>2</sub> case. No Li<sub>2</sub>O<sub>2</sub> was identified to the detection limit of the titration method. The presence of Li<sub>2</sub>CO<sub>3</sub> (characteristic absorption bands at 857 and 1400 cm<sup>&#x02212;1</sup>) was also confirmed by FTIR measurements on discharged samples in air (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S7</xref>b, Supporting Information).These results suggest that 1) electrochemical LiOH formation in pure O<sub>2</sub> hardly involves any side reactions, with no trace of Li<sub>2</sub>CO<sub>3</sub> detected in titration; 2) the influence of dry air and ambient air on LiOH&#x02010;based electrochemistry are basically the same during discharge, both leading to a small increase in Li<sub>2</sub>CO<sub>3</sub> formation, and moisture in air does not alter the reaction product at cathodes; 3) the effect of air is more adverse on the process of Li<sub>2</sub>O<sub>2</sub> formation than LiOH formation, with the former showing a rise in Li<sub>2</sub>CO<sub>3</sub> quantity 3 times that of the LiOH case. Upon charging the Ru/SP cells, no oxygen was released (Figure&#x000a0;<xref rid="advs3207-fig-0003" ref-type="fig">3b</xref>) as observed in previous reports, which has been attributed to the oxygen being trapped as DMSO<sub>2</sub> in the electrolyte (more discussion later).<sup>[</sup>
+<xref rid="advs3207-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="advs3207-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>
+<sup>]</sup> Some CO<sub>2</sub> evolution has been recorded, corresponding to the 3.65&#x000a0;V plateau, which is in an agreement with previous assignment of this plateau to Li<sub>2</sub>CO<sub>3</sub> decomposition.<sup>[</sup>
+<xref rid="advs3207-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="advs3207-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="advs3207-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>
+<sup>]</sup> The amount of released CO<sub>2</sub> in the LiOH case was much less than that in the Li<sub>2</sub>O<sub>2</sub> case (Figure&#x000a0;<xref rid="advs3207-fig-0003" ref-type="fig">3a,b</xref>), consistent with the titration results (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>). Notably, in a pure O<sub>2</sub> atmosphere LiOH decomposition did not incur CO<sub>2</sub> evolution on charging to 4&#x000a0;V (Figure&#x000a0;<xref rid="advs3207-fig-0003" ref-type="fig">3c</xref>), whereas the decomposition of Li<sub>2</sub>O<sub>2</sub> on charging caused considerable CO<sub>2</sub> evolution even in pure O<sub>2</sub>; the latter has been linked to charge&#x02010;induced side reactions corroding electrolytes and carbon cathodes.<sup>[</sup>
+<xref rid="advs3207-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs3207-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs3207-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="advs3207-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>, <xref rid="advs3207-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>, <xref rid="advs3207-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>
+<sup>]</sup> This difference implies a better electrochemical stability of LiOH with the carbon cathode and electrolyte.</p><p>To further elucidate the long&#x02010;term effect of air on the cell electrochemistry, titration, XRD, ssNMR and OEMS measurements have been conducted over several cycles. For cells using SP cathodes and anhydrous electrolytes that were initially a Li<sub>2</sub>O<sub>2</sub>&#x02010;dominated electrochemistry in dry air, the discharge products at the fourth and seventh discharge (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>) showed a substantial increase in the proportions of Li<sub>2</sub>CO<sub>3</sub> and LiOH, compared to those in the first discharge. Of note, Li<sub>2</sub>O<sub>2</sub> in the 7<sup>th</sup> discharge accounts for only 45% in the products, no longer being the dominant electrochemistry; Li<sub>2</sub>CO<sub>3</sub> formation (41%) becomes the other major process. On the other hand, for cells using Ru/SP cathodes and wet electrolytes, the prevailing electrochemistry during discharge at the fourth (90%) and seventh cycle (&#x02248;88%) is still LiOH formation in both dry and ambient air (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>). The trend of CO<sub>2</sub> evolution over 6 charge cycles has been analyzed by OEMS (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4b</xref>). For cells using SP cathodes, rising CO<sub>2</sub> evolution signals with cycle number were recorded, whereas cells using Ru/SP cathodes and wet electrolytes revealed relatively stable CO<sub>2</sub> signals with cycling; these observations are largely consistent with the titration results (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>) and the trends observed in corresponding charging plateaus (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2c,d</xref>), indicating that Li<sub>2</sub>CO<sub>3</sub> formation during discharge and CO<sub>2</sub> evolution on charging are closely correlated.</p><p>XRD, ssNMR, and SEM characterizations also support that the electrochemistry of Ru/SP cells is predominated by LiOH formation and decomposition over extended cycles in ambient air. Over 30 cycles, the only observable Brag reflections (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4c</xref>) at the end of each discharge cycle were all associated with LiOH and they completely vanished after the corresponding recharge. The fact that no Brag reflections of Li<sub>2</sub>CO<sub>3</sub> were detected in the current study may be linked to its low quantities or amorphous structure. <sup>7</sup>Li ssNMR measurements on discharged/charged samples over 10 cycles revealed appearance/disappearance of a single resonance situating at 1.1&#x000a0;ppm that is characteristic of LiOH (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S7</xref>a, Supporting Information). Similarly, SEM images (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4d</xref>) illustrate that LiOH formation (flower&#x02010;like morphology<sup>[</sup>
+<xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="advs3207-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>
+<sup>]</sup>) and removal were the main processes over 12 discharge&#x02013;charge cycles, further supporting good rechargeability.</p><p>Thus far, it has become clear the prominent air constitute that impacts on the cathode electrochemistry is CO<sub>2</sub>, which tends to cause more Li<sub>2</sub>CO<sub>3</sub> formation during discharge and more CO<sub>2</sub> evolution on recharging. The Ru/SP&#x02010;catalyzed LiOH electrochemistry is more resistant to this CO<sub>2</sub>&#x02010;induced conversion of discharge product and is immune to moisture in air, exhibiting a better electrochemical stability than Li<sub>2</sub>O<sub>2</sub>. Next, we begin to uncover the origins of Li<sub>2</sub>CO<sub>3</sub> formation and discuss the key factors modulating the CO<sub>2</sub> effect on the LiOH&#x02010;based electrochemistry.</p><p>The first potential route to be considered is direct electrochemical reduction of CO<sub>2</sub> to form Li<sub>2</sub>CO<sub>3</sub> via reaction 2, 
+<disp-formula id="advs3207-disp-0002">
+<label>(2)</label>
+<mml:math id="jats-math-2" display="block"><mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msub><mml:mi>CO</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>4</mml:mn><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mo>&#x02212;</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:mn>4</mml:mn><mml:msup><mml:mi>Li</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:mo>&#x02192;</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mi>Li</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>CO</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mrow></mml:math>
+</disp-formula>which has been established in Li&#x02010;O<sub>2</sub>/CO<sub>2</sub> batteries employing much higher CO<sub>2</sub> concentrations (&#x0003e;10%) in the atmosphere.<sup>[</sup>
+<xref rid="advs3207-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>, <xref rid="advs3207-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref>
+<sup>]</sup> In the current study, the concentration of CO<sub>2</sub> for cell reactions used was only 0.038%, the same as in ambient air. Typically, no appreciable drop in the CO<sub>2</sub> OEMS baseline has been observed during the 1<sup>st</sup> cell discharge, which however was not the case in subsequent discharges. <bold>Figure</bold>&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref> compares the difference in the decaying signals of CO<sub>2</sub> in cases with and without a resting period between the prior charge and the following discharge. During a cell charge followed by a resting period (Figure&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">5a</xref>), the CO<sub>2</sub> signal rose toward the end of charge and decayed exponentially once the cell started to rest. In the SP cells, the case without resting experienced an even sharper drop in CO<sub>2</sub> signal rather than an exponential decay, the difference (the shaded area) indicating 0.62&#x000a0;&#x000b5;mol more CO<sub>2</sub> being consumed, whereas in the Ru/SP cells, this quantity of electrochemical reduced CO<sub>2</sub> following a charge was three times smaller (Figure&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">5a</xref>). In parallel to the process of CO<sub>2</sub> reduction, the corresponding O<sub>2</sub> consumption also showed a different behavior: a small step in O<sub>2</sub> consumption tended to emerge at a level representing four electrons per reduced O<sub>2</sub> (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S8</xref>, Supporting Information), which was in response to the distinct discharge plateau at &#x02248;2.8&#x000a0;V, in agreement with the reaction stoichiometry of Equation&#x000a0;(<xref rid="advs3207-disp-0002" ref-type="disp-formula">2</xref>). These observations strongly suggest that electrochemical reduction of CO<sub>2</sub> is a prominent source for the generated Li<sub>2</sub>CO<sub>3</sub> during discharge. Of note, the decomposition of Li<sub>2</sub>CO<sub>3</sub> evolved little O<sub>2</sub> (Figure&#x000a0;<xref rid="advs3207-fig-0003" ref-type="fig">3</xref> and Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S8</xref>, Supporting Information), being highly deviated from the reverse of Equation&#x000a0;(<xref rid="advs3207-disp-0002" ref-type="disp-formula">2</xref>) (that is, irreversible), as also captured in previous studies.<sup>[</sup>
+<xref rid="advs3207-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>, <xref rid="advs3207-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="advs3207-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="advs3207-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs3207-fig-0005"><label>Figure 5</label><caption><p>Sources of Li<sub>2</sub>CO<sub>3</sub> and key factors modulating the cell electrochemistry. a) OEMS showing direct electrochemical reduction of CO<sub>2</sub> during the subsequent discharge in both Li<sub>2</sub>O<sub>2</sub>&#x02010;based (left, SP) and LiOH&#x02010;based (right, Ru/SP) Li&#x02010;dry air batteries. The amount of CO<sub>2</sub> electrochemically reduced is shaded by orange color, which is the difference between the CO<sub>2</sub> peak discharging immediately after the previous charge (dark blue) and that with 1 h resting after charging (light blue). b) Impact of rest time after a discharge on chemical transformation of discharge products and subsequent CO<sub>2</sub> evolution on charging: i) CO<sub>2</sub> released on charging Li<sub>2</sub>O<sub>2</sub>&#x02010;based and LiOH&#x02010;based batteries with varying rest times after a same discharge capacity; ii) Online C<sup>16</sup>O<sub>2</sub> (<italic toggle="yes">m/z</italic> = 44), C<sup>16</sup>O<sup>18</sup>O (<italic toggle="yes">m/z</italic> = 46), C<sup>18</sup>O<sub>2</sub> (<italic toggle="yes">m/z</italic> = 48) signals, recorded during electrochemical decomposition of <sup>18</sup>O&#x02010;enriched Li<sup>18</sup>OH. c) A scheme highlighting the sources of Li<sub>2</sub>CO<sub>3</sub> and the differences between the two systems that could determine the electrochemical stability in air.</p></caption><graphic xlink:href="ADVS-9-2103760-g008" position="anchor" id="jats-graphic-11"/></fig><p>Unlike the flow&#x02010;mode in OEMS measurements, a typical lithium&#x02013;air cell operates in the absence of dynamic gas flow, so that CO<sub>2</sub> released during charges dissipates much slower, creating a CO<sub>2</sub>&#x02010;enriched environment especially at the electrolyte&#x02010;electrode interface. It is clear that in the SP cells, these previously released CO<sub>2</sub> during charge could be reduced and fixed as Li<sub>2</sub>CO<sub>3</sub> again (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S8</xref>a, Supporting Information), which was in turn decomposed in the next charge, causing additional CO<sub>2</sub> evolution. This cumulative effect on Li<sub>2</sub>CO<sub>3</sub> formation and decomposition likely led to elongation of the Li<sub>2</sub>CO<sub>3</sub> formation plateau at 2.81&#x000a0;V (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2c</xref>) and the rising and longer Li<sub>2</sub>CO<sub>3</sub> decomposition voltages on recharging (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2c</xref> and Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S6</xref>a, Supporting Information). Eventually, a Li<sub>2</sub>O<sub>2</sub>&#x02010;dominated electrochemistry has been converted to a Li<sub>2</sub>CO<sub>3</sub>&#x02010;dominated process. No such cumulative effect of Li<sub>2</sub>CO<sub>3</sub>, however, was reflected in the Ru/SP&#x02010;catalyzed LiOH electrochemistry, the electrochemical profile (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2d</xref>), the proportion of the Li<sub>2</sub>CO<sub>3</sub> decomposition plateau (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2d</xref>), the titrated quantities of Li<sub>2</sub>CO<sub>3</sub> in discharge products (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>) and the moles of CO<sub>2</sub> released in each charge (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4b</xref>) all being relatively stable over extended cycles.</p><p>Another potential route to Li<sub>2</sub>CO<sub>3</sub> formation is via chemical conversion. The exposure time, i.e., resting period between discharge and the following charge, of reaction products to a dry air flow has been varied between 0 and 6 h (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S9</xref>, Supporting Information). The resulting CO<sub>2</sub> evolution peaks during the following charge have been integrated and plotted in Figure&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">5b</xref>, which showed that the rise in CO<sub>2</sub> evolution grew faster in the Li<sub>2</sub>O<sub>2</sub> case than in the LiOH case, eventually being &#x02248;2.5 times higher at 6 h resting; this observation implies that LiOH is more chemical resistance to CO<sub>2</sub> contamination than Li<sub>2</sub>O<sub>2</sub>, consistent with the thermodynamic consideration (Figure&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">5c</xref>).<sup>[</sup>
+<xref rid="advs3207-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> To further verify that chemical conversion of LiOH by CO<sub>2</sub> to form Li<sub>2</sub>CO<sub>3</sub> is a valid route to the released CO<sub>2</sub> on recharging, Li<sup>18</sup>OH was first generated during discharge using <sup>18</sup>O&#x02010;enriched H<sub>2</sub>
+<sup>18</sup>O and then charged in dry air; the <italic toggle="yes">m/z</italic> signals of C<sup>16</sup>O<sub>2</sub>, C<sup>16</sup>O<sup>18</sup>O, C<sup>18</sup>O<sub>2</sub> in the resulting OEMS data all show a peak. Given that half of the oxygen in LiOH originates from H<sub>2</sub>
+<sup>18</sup>O<sup>[</sup>
+<xref rid="advs3207-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup> and that electrochemical LiOH formation in O<sub>2</sub> does not involve side reactions generating Li<sub>2</sub>CO<sub>3</sub> (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>), nor does CO<sub>2</sub> evolution occurs during electrochemical LiOH decomposition (Figure&#x000a0;<xref rid="advs3207-fig-0003" ref-type="fig">3c</xref>), it is hence sensible that the above isotopic scrambling of CO<sub>2</sub> necessitates incorporation of <sup>18</sup>O in Li<sub>2</sub>CO<sub>3</sub> via reacting CO<sub>2</sub> with Li<sup>18</sup>OH.</p><p>For a capacity of 0.5 mAh per cycle in a total duration of 4 h (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4b</xref>), the average CO<sub>2</sub> evolution due to Li<sub>2</sub>CO<sub>3</sub> decomposition in each charge was &#x02248;0.67&#x000a0;&#x000b5;mol over 6 cycles, only 32.8% of which (0.22&#x000a0;&#x000b5;mol) was electrochemically reduced again (Figure&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">5a</xref>), the rest of Li<sub>2</sub>CO<sub>3</sub> being expected to come from other sources. Of note, for a period of 4 h exposure to air, the rise in Li<sub>2</sub>CO<sub>3</sub> in the Ru/SP cells due to chemical conversion approximated to 0.41&#x000a0;&#x000b5;mol (orange arrows, Figure&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">5b(i)</xref>), which could roughly be responsible for the rest of CO<sub>2</sub> released. Therefore, the chemical conversion of LiOH to Li<sub>2</sub>CO<sub>3</sub> by CO<sub>2</sub> in air appears to account for a larger fraction of the Li<sub>2</sub>CO<sub>3</sub> formed in each cycle, although electrochemical reduction of CO<sub>2</sub> cannot be completely ruled out for the rest of the discharge capacity when the CO<sub>2</sub> concentration in the electrolyte is equilibrated with the atmosphere.<sup>[</sup>
+<xref rid="advs3207-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="advs3207-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref>
+<sup>]</sup>
+</p><p>Li<sub>2</sub>CO<sub>3</sub> formation/decomposition increases charge overpotentials and corrodes the cathode and electrolyte, it is therefore worth discovering effective methodologies to minimize its fraction in the electrochemistry. Three factors (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S10</xref>, Supporting Information) have been identified affecting the plateau (3.65&#x000a0;V) proportional to Li<sub>2</sub>CO<sub>3</sub> formation/decomposition, i.e., water concentration in electrolytes, cycling rates, and the discharge depth. Higher water concentrations (up to 5&#x000a0;vol.%), faster cycling rates, and deeper discharge capacities tended to lead to smaller fractions of Li<sub>2</sub>CO<sub>3</sub>.</p><p>As illustrated in Figures <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S6</xref> and <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S10a</xref> (Supporting Information), at smaller water concentrations the cell exhibited a mixed electrochemistry of Li<sub>2</sub>O<sub>2</sub> and LiOH, the former being more vulnerable to CO<sub>2</sub> contamination, thus forming more Li<sub>2</sub>CO<sub>3</sub>. As the water concentration was increased (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S10</xref>a, Supporting Information), the cell reaction resembled more of LiOH formation, and hence becoming more resistant to CO<sub>2</sub> in air; this may be one aspect to account for the observed water effect modulating the cell electrochemistry. As for faster cycling rates, it in effect shortened the exposure time of discharge product in air for chemical conversion (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S10</xref>b, Supporting Information). Finally, deeper discharge capacities involved formation of larger LiOH particles, which tended to have a smaller specific surface area per capacity for chemical reactions with CO<sub>2</sub>; this may account for the smaller proportion of 3.65&#x000a0;V plateau in the whole charge capacity (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S10</xref>c, Supporting Information).</p><p>Taken together, the Ru/SP&#x02010;catalyzed LiOH electrochemistry has clearly demonstrated a superior stability over the Li<sub>2</sub>O<sub>2</sub>&#x02010;electrochemistry, as reflected in the overlapping voltage profiles over extended cycles (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2</xref>), in the similar quantities of Li<sub>2</sub>CO<sub>3</sub> titrated at different discharges (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4a</xref>), and in the stable CO<sub>2</sub> evolution peaks over many charge cycles (Figure&#x000a0;<xref rid="advs3207-fig-0004" ref-type="fig">4b</xref>). This superiority in electrochemical stability is proposed to be rooted in the intrinsically more stoichiometric electrochemistry of LiOH compared to Li<sub>2</sub>O<sub>2</sub>: lack of Li<sub>2</sub>CO<sub>3</sub> generation during electrochemical LiOH formation, the process of LiOH decomposition incurring no CO<sub>2</sub> evolution, a relatively stable LiOH&#x02010;carbon interface, and a better chemical resistance to CO<sub>2</sub>, which, however, are all known issues plaguing the Li<sub>2</sub>O<sub>2</sub> electrochemistry, as schematically depicted in Figure&#x000a0;<xref rid="advs3207-fig-0005" ref-type="fig">5c</xref>.<sup>[</sup>
+<xref rid="advs3207-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs3207-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs3207-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs3207-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>, <xref rid="advs3207-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+<sup>]</sup>
+</p><p>In the following part, we turn to discussing lithium anode protection and its application in a full lithium&#x02013;air battery (<bold>Figure</bold>&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>). Preparing an air&#x02010;stable lithium metal anode is essential to simplification and cost reduction of the manufacturing process for practical lithium anodes,<sup>[</sup>
+<xref rid="advs3207-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="advs3207-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="advs3207-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="advs3207-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>, <xref rid="advs3207-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>, <xref rid="advs3207-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref>, <xref rid="advs3207-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>, <xref rid="advs3207-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref>
+<sup>]</sup> and is a prerequisite to realization of a long&#x02010;life open lithium&#x02013;air battery.<sup>[</sup>
+<xref rid="advs3207-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs3207-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> When exposed in air, a piece of bare lithium metal immediately reacted with the constitutes of air (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6b</xref>), its appearance turning from metalescent to black within a minute, then to a grey color and eventually to completely white in a couple of days. XRD measurements showed that LiOH was the dominant reaction product formed on the Li disc (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S11</xref>, Supporting Information), implying that moisture in air is the major threat to a bare Li anode.<sup>[</sup>
+<xref rid="advs3207-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs3207-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref>
+<sup>]</sup> Furthermore, the electrolyte used in the current study was LiTFSI/DMSO with a substantial water content (5 vol%), where it is known that DMSO is unable to form a stable SEI on lithium<sup>[</sup>
+<xref rid="advs3207-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="advs3207-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref>, <xref rid="advs3207-bib-0081" ref-type="bibr">
+<sup>81</sup>
+</xref>
+<sup>]</sup> and water reacts violently with lithium releasing heat and H<sub>2</sub> gas (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6c</xref>), both representing additional challenges to achieve an electrochemical stability for Li anodes. Similar to many previous studies,<sup>[</sup>
+<xref rid="advs3207-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs3207-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="advs3207-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs3207-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> we initially addressed the issues by implementing a dual compartmental design in a full cell by the use of a piece of Ohara glass disc (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S12</xref>a, Supporting Information), which separated the water&#x02010;containing catholyte from an anhydrous ether&#x02010;based anolyte. In dry air, this full cell design exhibited electrochemical performance (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S12</xref>b, Supporting Information) similar to that of a half cell (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2</xref>), and OEMS confirmed the discharge reaction of the full cell had close to four electrons per reduced O<sub>2</sub> (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S12</xref>c, Supporting Information), consistent with LiOH formation. Nonetheless, the lithium anode could not survive in real air conditions using this dual compartmental design. The cell failed after two days of cycling test, because of lithium corrosion by moisture leaking through the gaps at the peripheral regions of this cell. Therefore, a layer that could more uniformly and sufficiently protect Li anodes is required.</p><fig position="float" fig-type="Figure" id="advs3207-fig-0006"><label>Figure 6</label><caption><p>Scheme illustrating the design strategy of a nonporous protective layer on Li metal and demonstration of its excellent stability in air, water, and in an open lithium air battery. a) Cartoon illustrating the design of a multifunctional composite layer on Li anodes and components in a typical cell based on a Swagelok design. b) Optical images showing i&#x02013;iv) bare Li, v&#x02013;viii) PEO&#x02010;coated Lim and ix&#x02013;xii) composite&#x02010;protected Li exposed directly in atmosphere for 2 min, 2 h, 1 d, and 3 d. c) Optical snap shots showing reactivities of i,ii) bare Li, iii,iv) PEO&#x02010;coated Li, and v,vi) composite&#x02013;protected Li with wet 1 <sc>m</sc> LiTFSI/DMSO electrolytes (5% H<sub>2</sub>O) and pure water. d) SEM images of pristine Li anodes i,iii,iv) protected by the composite layer, ii, v, vi) protected Li anodes after being subjected to around 100 electrochemical cycles.</p></caption><graphic xlink:href="ADVS-9-2103760-g005" position="anchor" id="jats-graphic-13"/></fig><p>To ensure a stable electrochemical performance of a lithium anode that is coupled to a LiOH&#x02010;based cathode in air, the protective layer on lithium needs to have at least the following properties: 1) repelling N<sub>2</sub>, H<sub>2</sub>O, CO<sub>2</sub>, O<sub>2</sub> from air so that Li anodes can be air&#x02010;stable in the long term; 2) proof to liquid electrolyte so that the protected Li anodes can be compatible with a wide range of nonaqueous electrolytes, even those with high water contents; 3) supporting a high Li<sup>+</sup> conductivity; 4) possessing a stable interface between lithium metal and the protective layer; 5) having a sufficient mechanical strength so that Li dendrite formation is suppressed. Given the above consideration, we have constructed a nonporous composite protective layer (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6a</xref>), which is composed of a thin PEO film (&#x02248;10&#x000a0;&#x000b5;m) coated directly on Li metal and then on top of the PEO film, a composite layer (&#x02248;100&#x000a0;&#x000b5;m) of sintered LATP layer infiltrated with wax, as shown in Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6d(i,iv)</xref>. The bare LATP surfaces facing electrolytes and the wax within the gaps of LATP grains can be observed in Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6d(iii,iv)</xref>.</p><p>The designing principles are explained below. The soft and flexible PEO layer could provide a chemically stable interface with Li metal<sup>[</sup>
+<xref rid="advs3207-bib-0082" ref-type="bibr">
+<sup>82</sup>
+</xref>
+<sup>]</sup> and a gapless contact with the LATP layer for Li<sup>+</sup> conduction.<sup>[</sup>
+<xref rid="advs3207-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="advs3207-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref>, <xref rid="advs3207-bib-0084" ref-type="bibr">
+<sup>84</sup>
+</xref>, <xref rid="advs3207-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref>
+<sup>]</sup> The nonporous, mechanically strong LATP&#x02010;wax composite layer is designed to protect the rest of the Li anode from air and reactive species in electrolytes, as well as help suppress Li dendrite growth. Ideally, the thickness of the all&#x02010;solid&#x02010;state composite layer should be made thinner (&#x0003c;50&#x000a0;&#x000b5;m)<sup>[</sup>
+<xref rid="advs3207-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref>
+<sup>]</sup> in order reduce resistance for charge transfer and improve the rate capacity of the lithium anode. Conventional polymers containing polar segments such as PEO, PAA (Polyacrylic acid), cannot replace the role of wax, because these polymers are microporous and permeable to water vapor and electrolyte solvents. During cell operation, components of air and liquid electrolytes are not allowed to get across this protective layer (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6a</xref>), but Li<sup>+</sup> could diffuse through the sintered grains of LATP and then the PEO film. It is feasible that driven by the potential difference in the cell, directional diffusion lithium ions occur in LATP layer toward the lithium anode, creating Li<sup>+</sup> vacancies at the LATP&#x02010;liquid electrolyte interface. Desolvation of Li<sup>+</sup> may happen preferentially at these vacancy sites and then insert into the Li<sup>+</sup> diffusion channels in LATP.<sup>[</sup>
+<xref rid="advs3207-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref>, <xref rid="advs3207-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref>, <xref rid="advs3207-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref>, <xref rid="advs3207-bib-0081" ref-type="bibr">
+<sup>81</sup>
+</xref>, <xref rid="advs3207-bib-0082" ref-type="bibr">
+<sup>82</sup>
+</xref>, <xref rid="advs3207-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref>, <xref rid="advs3207-bib-0084" ref-type="bibr">
+<sup>84</sup>
+</xref>, <xref rid="advs3207-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref>, <xref rid="advs3207-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref>, <xref rid="advs3207-bib-0087" ref-type="bibr">
+<sup>87</sup>
+</xref>, <xref rid="advs3207-bib-0088" ref-type="bibr">
+<sup>88</sup>
+</xref>
+<sup>]</sup> EIS measurements on the protective composite layer with/without wax showed that wax did not induced additional resistance to Li<sup>+</sup> transport through the protective layer (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S13</xref>, Supporting Information).</p><p>To examine its chemical resistance to air and water, protected Li anodes by the composite layer have been exposed in air and to water (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6b,c</xref>). No observable changes occurred after 3 days to the Li anode in air, nor was gas bubbling seen when it was in direct contact with the wet electrolyte or water (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6b,c</xref> and Movie <xref rid="advs3207-supitem-0002" ref-type="supplementary-material">S1</xref>, Supporting Information); these observations strongly support that the protected Li anode is air&#x02010;stable and liquid&#x02010;proof. When lithium metal was only covered by a PEO layer, rapid corrosion by air and water was observed (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6b,c</xref> and Movie <xref rid="advs3207-supitem-0002" ref-type="supplementary-material">S1</xref>, Supporting Information), suggesting that PEO being a microporous film is unable to effectively filter aggressive gas molecules,<sup>[</sup>
+<xref rid="advs3207-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs3207-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>
+<sup>],</sup> e.g., H<sub>2</sub>O and CO<sub>2</sub>. Of note, wax is also essential to achieving adequate protection. When in a liquid form at 65&#x002da;C, wax effectively wet and filled up the microcracks of the LATP layer. Without wax filling up the gaps, reactive molecules and electrolytes readily leaked through and caused corrosion (Movie <xref rid="advs3207-supitem-0002" ref-type="supplementary-material">S1</xref>, Supporting Information).</p><p>To further evaluate the electrochemical stability of the protected lithium anodes, galvanostatic cycling has been tested on Li/Li symmetric cells using the DMSO electrolyte, which is known to be incompatible with bare lithium anodes.<sup>[</sup>
+<xref rid="advs3207-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="advs3207-bib-0089" ref-type="bibr">
+<sup>89</sup>
+</xref>, <xref rid="advs3207-bib-0090" ref-type="bibr">
+<sup>90</sup>
+</xref>
+<sup>]</sup> The electrochemical profile of protected lithium anodes was clearly more stable than that of bare lithium, with little increases in polarization over 600 h (<bold>Figure</bold>&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">
+<bold>7</bold>a</xref>). Electrochemical impedance spectra showed that the charge transfer resistance of bare lithium anodes had increased by &#x02248;8 times (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7b</xref>) after 300 h cycling, whereas that of the protected lithium anodes remained roughly the same after an equivalent testing (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7c</xref>).</p><fig position="float" fig-type="Figure" id="advs3207-fig-0007"><label>Figure 7</label><caption><p>Electrochemical performance of full lithium&#x02013;air batteries using protected lithium anodes. a) Electrochemical profiles of Li/Li symmetric cells using protected lithium and bare lithium, at 0.015&#x000a0;mA and 0.15&#x000a0;mA, respectively. b) EIS spectra acquired at room temperature on cells in (a) after 300 h cycling. d,e) Electrochemical performance of lithium&#x02013;air full cells in ambient air using 1 <sc>m</sc> LiTFSI/DMSO with 5 vol% H<sub>2</sub>O. f) Cycling stability of lithium&#x02013;air full cells in (d) and (e). g) Optical image of i) cycled bare Li and ii) protected Li anodes extracted from full cells in (d) and (e). h) SEM images of the i,iii) cycled bare lithium anode from g&#x02010;i) and ii,iv) a Ru/SP cathode at the end of cycle life (at conditions as in (e)). i) Ti 2p XPS spectra acquired on the surfaces of a protected lithium anode (bottom) after cycling and a pristine LATP plate (top). j) EIS of a lithium&#x02013;air full cell (using a protected Li anode) at different stages of its cycle life.</p></caption><graphic xlink:href="ADVS-9-2103760-g007" position="anchor" id="jats-graphic-15"/></fig><p>Moreover, full lithium&#x02013;air cells using the protected lithium were cycled in ambient air (55% humidity), and compared to results obtained using bare lithium as anodes. Without Li protection, the full cell using wet electrolytes (5% and 0.5% H<sub>2</sub>O) in air started to show severe capacity fade and larger polarization after just 5 cycles (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7d,f</xref>). The charging profiles gradually reverted to that of cells using an anhydrous electrolyte, which is probably due to consumption of water by the lithium anode (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6b,c</xref>). The appearance of the lithium anode became black (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7g(i)</xref>) and highly corroded (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7h(i,iii)</xref>) after 10 cycles. On the contrary, the cells using the composite&#x02010;protected lithium anodes exhibited an excellent electrochemical stability (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7e,f</xref>) over extended cycles in the wet electrolytes (5% H<sub>2</sub>O), with one discharge and two charge plateaus at 2.7, 3.2 and 3.65&#x000a0;V, respectively; the electrochemical profiles were similar to those observed in half cells where lithium iron phosphate was used as the counter electrode (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2d</xref>). We have even cycled the full lithium&#x02013;air battery in air at maximum 99% humidity, and the electrochemistry of these cells showed no difference from the same cells operating in air with a lower humidity (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S14</xref>, Supporting Information).</p><p>XPS measurements (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7i</xref>) on a PEO&#x02010;LATP&#x02010;wax protective layer from a full cell subjected to 100 cycles in air showed no obvious change in the Ti<sup>4+</sup> oxidation state (Ti 2p<sub>3/2</sub> and Ti 2p<sub>1/2</sub>) of LATP surfaces, suggesting that LATP was not reduced by lithium dendrite. The appearance of protected Li anodes after cycling remained white (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7g(ii)</xref>), unlike the color for corroded LATP layer by lithium (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S15</xref>, Supporting Information), and no lithium dendrite either growing on top of the protective layer or penetrating along the grains of the LATP composite layer had been found by SEM (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6d(v,vi)</xref> and Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S16</xref>, Supporting Information). Underneath the PEO layer (Figure&#x000a0;<xref rid="advs3207-fig-0006" ref-type="fig">6d(ii)</xref>), mossy structures (compact porous microstructures) of lithium have been observed, which again confirms that Li<sup>+</sup> transported across the protective layer and deposited at the lithium&#x02010;PEO interface. The absence of dendrite penetrating across the protective layer is also supported by a constant fraction of the 3.65&#x000a0;V plateau over many cycles, which indicates that the content of water in the electrolyte was not consumed by lithium during electrochemical plating and stripping. The suppression of dendrite growth is tentatively ascribed to the high mechanical strength of the LATP&#x02010;wax composite layer that is pressed onto the PEO&#x02010;coated lithium anode.<sup>[</sup>
+<xref rid="advs3207-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="advs3207-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>, <xref rid="advs3207-bib-0091" ref-type="bibr">
+<sup>91</sup>
+</xref>
+<sup>]</sup> In the absence of the LATP component, however, lithium anodes protected only by a PEO&#x02010;wax layer showed considerable lithium dendrites penetrating through the protective layer (likely through the soft PEO component)<sup>[</sup>
+<xref rid="advs3207-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> and growing on top of the surface (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S17</xref>, Supporting Information); this dendrite growth in turn consumed water in the electrolyte and converted the cell reaction toward a Li<sub>2</sub>O<sub>2</sub>&#x02010;dominated electrochemistry, as supported OEMS (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S18</xref>, Supporting Information).</p><p>Typically, a full lithium&#x02013;air battery could cycle in air for &#x02248;100 cycles at a capacity of 1.5 mAh cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7f</xref>) before capacity fades, similar to that of half cells (Figure&#x000a0;<xref rid="advs3207-fig-0002" ref-type="fig">2f</xref>). The sum of ohmic and charge transfer resistances of a failed cell was observed to increase to over 2000 ohms (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7j</xref>), compared to a value of &#x02248;600 ohms prior to long&#x02010;term cycling, and the glass fiber separator of the cell had become completely dried. <sup>1</sup>H and <sup>13</sup>C solution NMR measurements (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S19</xref>, Supporting Information) of the cycled separator showed that considerable DMSO<sub>2</sub> had been generated after cycling (more discussion on cell failure in Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S19</xref>a,b, Supporting Information),<sup>[</sup>
+<xref rid="advs3207-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup> whereas C 1s and Ru 3p XPS spectra of the cycled electrode (Figure <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S19</xref>c,d, Supporting Information) remained largely the same as those for pristine Ru/SP electrodes, consistent with the absence of solid by&#x02010;products extensively covering the cycled cathode (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7f(ii,iv)</xref>). Taken together, these results imply that that the cell failure is likely connected to depletion of the electrolyte, i.e., DMSO being oxidized to DMSO<sub>2</sub>, rather than failure of the protected Li anode or the Ru/SP cathode. After the glass fiber separator was replaced by a new one filled with a fresh electrolyte, the impedance of that cell dropped to &#x02248;600 ohms (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7j</xref>) and it can cycle at 1.5 mAh cm<sup>&#x02212;2</sup> again for &#x02248;100 cycles (Figure&#x000a0;<xref rid="advs3207-fig-0007" ref-type="fig">7f</xref>), further demonstrating that the protected Li anode was not the bottle&#x02010;neck to cycle life and it possesses a high electrochemical stability. It is anticipated that when a fully reversible LiOH&#x02010;based electrochemistry is applied at the cathode, the rechargeability of the full cell in air can be further improved. Tables <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S3</xref> and <xref rid="advs3207-supitem-0001" ref-type="supplementary-material">S4</xref> (Supporting Information) have been compiled to make a clear comparison of the operational conditions and the performance of batteries in this work with relevant studies in literature. As can be seen, no prior study has achieved such an excellent performance under the harsh conditions demonstrated in the current work. In terms of capacity and cycle life of full lithium&#x02013;air batteries, our results are also competitive to many of the best work reported.</p><p>In conclusion, we have shown that the most prominent constitute in air that affects the O<sub>2</sub> electrochemistry is CO<sub>2</sub>, which accelerates the transformation of an initial Li<sub>2</sub>O<sub>2</sub>&#x02010;based electrochemistry to a Li<sub>2</sub>CO<sub>3</sub>&#x02010;dominated process during battery cycling. On the contrary, the Ru&#x02010;catalyzed LiOH electrochemistry shows much better resistance to CO<sub>2</sub> contamination in air, the nature of the cell reaction being consistent over extended cycles. Compared to the sensitivity of Li<sub>2</sub>O<sub>2</sub> to air, we ascribe this superior stability of the LiOH electrochemistry to the higher chemical resistance of LiOH, a stoichiometric process of LiOH formation, less reactive product&#x02010;cathode interfaces, and lower charge voltages. We have also constructed an all&#x02010;solid&#x02010;state protective layer consisting of PEO, LATP and wax, which has rendered lithium metal chemically stable in air and pure water for a long term, fulfilling an essential prerequisite to the realization of a highly rechargeable and energy&#x02010;dense lithium&#x02013;air battery. As a proof of concept, our results demonstrate that this strategy of lithium protection enables reversible, dendrite&#x02010;free lithium plating/stripping under a combination of aggressive operating conditions, including in ambient air, at up to 99% humidity, and even in lithium&#x02010;incompatible electrolytes (DMSO) with substantial amount of water. The current approach of coupling a protected lithium anode with a LiOH&#x02010;based cathode holds promise for developing a long&#x02010;life, high&#x02010;energy lithium&#x02013;air battery in the ambient atmosphere.</p></sec><sec sec-type="COI-statement" id="advs3207-sec-0040"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs3207-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-9-2103760-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="advs3207-supitem-0002" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-9-2103760-s002.mp4" mimetype="video" mime-subtype="mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs3207-sec-0030"><title>Acknowledgements</title><p>J.L. and Z.G. contributed equally to this work. T.L. thanks the National Natural Science Foundation of China (Grant No. 21802102), Recruitment Program of Global Experts, and Science and Technology Commission of Shanghai Municipality (19DZ2271500); L.Z. acknowledges support from the National Key R&#x00026;D Program of China under Grant No. 2020YFB2007400. T.L. and L.Z. are indebted to the Fundamental Research Funds for the Central Universities. J.C. Chen and Y.J. Wen are thanked for assistance with solid&#x02010;state NMR experiments.</p></ack><sec sec-type="data-availability" id="advs3207-sec-0060"><title>Data Availability Statement</title><p>Research data are not shared.</p></sec><ref-list id="advs3207-bibl-0001"><ref id="advs3207-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs3207-cit-0001">
+<string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Hardwick</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2012</year>, <volume>11</volume>, <fpage>19</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs3207-cit-0002">
+<string-name>
+<given-names>W. J.</given-names>
+<surname>Kwak</surname>
+</string-name>, <string-name>
+<surname>Rosy</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>L. R.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Frimer</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Noked</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2020</year>, <volume>120</volume>, <fpage>6626</fpage>.<pub-id pub-id-type="pmid">32134255</pub-id></mixed-citation></ref><ref id="advs3207-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs3207-cit-0003">
+<string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Vivek</surname>
+</string-name>, <string-name>
+<given-names>E. W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Garcia&#x02010;Araez</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2020</year>, <volume>120</volume>, <fpage>6558</fpage>.<pub-id pub-id-type="pmid">32090540</pub-id></mixed-citation></ref><ref id="advs3207-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs3207-cit-0004">
+<string-name>
+<given-names>K. G.</given-names>
+<surname>Gallagher</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Goebel</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Greszler</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mathias</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Oelerich</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Eroglu</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>1555</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs3207-cit-0005">
+<string-name>
+<given-names>N. B.</given-names>
+<surname>Aetukuri</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Garcia</surname>
+</string-name>, <string-name>
+<given-names>L. E.</given-names>
+<surname>Krupp</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Viswanathan</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Luntz</surname>
+</string-name>, <source>Nat. Chem.</source>
+<year>2015</year>, <volume>7</volume>, <fpage>50</fpage>.<pub-id pub-id-type="pmid">25515890</pub-id></mixed-citation></ref><ref id="advs3207-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs3207-cit-0006">
+<string-name>
+<given-names>S.</given-names>
+<surname>Meini</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Piana</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Tsiouvaras</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Garsuch</surname>
+</string-name>, <string-name>
+<given-names>H. A.</given-names>
+<surname>Gasteiger</surname>
+</string-name>, <source>Electrochem. Solid State Lett.</source>
+<year>2012</year>, <volume>15</volume>, <fpage>A45</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs3207-cit-0007">
+<string-name>
+<given-names>Z. Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>264</volume>, <fpage>1</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs3207-cit-0008">
+<string-name>
+<given-names>S. R.</given-names>
+<surname>Gowda</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Brunet</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Wallraff</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>276</fpage>.<pub-id pub-id-type="pmid">26283434</pub-id></mixed-citation></ref><ref id="advs3207-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs3207-cit-0009">
+<string-name>
+<given-names>H. K.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>K. Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gwon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Goddard</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>9733</fpage>.<pub-id pub-id-type="pmid">23758262</pub-id></mixed-citation></ref><ref id="advs3207-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs3207-cit-0010">
+<string-name>
+<given-names>W.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Grimaud</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lepoivre</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>214</fpage>.<pub-id pub-id-type="pmid">27960058</pub-id></mixed-citation></ref><ref id="advs3207-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs3207-cit-0011">
+<string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Speidel</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Scheffler</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Viswanathan</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Hummelshoj</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Norskov</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Luntz</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<year>2012</year>, <volume>3</volume>, <fpage>997</fpage>.<pub-id pub-id-type="pmid">26286562</pub-id></mixed-citation></ref><ref id="advs3207-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs3207-cit-0012">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>3874</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs3207-cit-0013">
+<string-name>
+<given-names>B. M.</given-names>
+<surname>Gallant</surname>
+</string-name>, <string-name>
+<given-names>R. R.</given-names>
+<surname>Mitchell</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Kwabi</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zuin</surname>
+</string-name>, <string-name>
+<given-names>C. V.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao&#x02010;Horn</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <elocation-id>20800</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs3207-cit-0014">
+<string-name>
+<given-names>M.</given-names>
+<surname>Leskes</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>G. R.</given-names>
+<surname>Goward</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <elocation-id>26929</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs3207-cit-0015">
+<string-name>
+<given-names>M. M. O.</given-names>
+<surname>Thotiyl</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>Z. Q.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>494</fpage>.<pub-id pub-id-type="pmid">23190204</pub-id></mixed-citation></ref><ref id="advs3207-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs3207-cit-0016">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>S. C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X. Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2018</year>, <volume>11</volume>, <fpage>1211</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs3207-cit-0017">
+<string-name>
+<given-names>N.</given-names>
+<surname>Mahne</surname>
+</string-name>, <string-name>
+<given-names>S. E.</given-names>
+<surname>Renfrew</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>5529</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs3207-cit-0018">
+<string-name>
+<given-names>M. H.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Trottier</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gagnon</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hovington</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Clement</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Vijh</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Guerfi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Black</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Nazar</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zaghib</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>268</volume>, <fpage>565</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs3207-cit-0019">
+<string-name>
+<given-names>D. C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>194</fpage>.<pub-id pub-id-type="pmid">28265117</pub-id></mixed-citation></ref><ref id="advs3207-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs3207-cit-0020">
+<string-name>
+<given-names>C. C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>J. X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J. Z.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Alvarado</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Schroeder</surname>
+</string-name>, <string-name>
+<given-names>Y. Y. C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ceja</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X. F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <source>Nature</source>
+<year>2019</year>, <volume>572</volume>, <fpage>511</fpage>.<pub-id pub-id-type="pmid">31435056</pub-id></mixed-citation></ref><ref id="advs3207-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs3207-cit-0021">
+<string-name>
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <source>Trends Chem.</source>
+<year>2019</year>, <volume>1</volume>, <fpage>152</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs3207-cit-0022">
+<string-name>
+<given-names>P.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F. R.</given-names>
+<surname>Brushett</surname>
+</string-name>, <string-name>
+<given-names>M. Z.</given-names>
+<surname>Bazant</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>3221</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs3207-cit-0023">
+<string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>1817</fpage>.<pub-id pub-id-type="pmid">23652005</pub-id></mixed-citation></ref><ref id="advs3207-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs3207-cit-0024">
+<string-name>
+<given-names>L. J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>5121</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs3207-cit-0025">
+<string-name>
+<given-names>Y. G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2010</year>, <volume>195</volume>, <fpage>358</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs3207-cit-0026">
+<string-name>
+<given-names>W. J.</given-names>
+<surname>Kwak</surname>
+</string-name>, <string-name>
+<given-names>H. G.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <elocation-id>1701232</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs3207-cit-0027">
+<string-name>
+<given-names>Y. G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Rong</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;J.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Karton</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Adams</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <elocation-id>14308</elocation-id>.<pub-id pub-id-type="pmid">28165008</pub-id></mixed-citation></ref><ref id="advs3207-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs3207-cit-0028">
+<string-name>
+<given-names>K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Lacey</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wachsman</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Sci. Adv.</source>
+<year>2017</year>, <volume>3</volume>, <elocation-id>e1601659</elocation-id>.<pub-id pub-id-type="pmid">28435874</pub-id></mixed-citation></ref><ref id="advs3207-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs3207-cit-0029">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>S. C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>1869</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs3207-cit-0030">
+<string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Jonsson</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Castillo&#x02010;Martinez</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Temprano</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Carretero&#x02010;Gonzalez</surname>
+</string-name>, <string-name>
+<given-names>R. N.</given-names>
+<surname>Kerber</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>ACS Catal.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>66</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs3207-cit-0031">
+<string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Imanishi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hasegawa</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hirano</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Takeda</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Yamamoto</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sammes</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2008</year>, <volume>155</volume>, <fpage>A965</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs3207-cit-0032">
+<string-name>
+<given-names>S.</given-names>
+<surname>Hasegawa</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Imanishi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hirano</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Takeda</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Yamamoto</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2009</year>, <volume>189</volume>, <fpage>371</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs3207-cit-0033">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Zangiabadi</surname>
+</string-name>, <string-name>
+<given-names>T.&#x02010;D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dontigny</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zaghib</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chuan</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>1510</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs3207-cit-0034">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ju</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>2003887</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs3207-cit-0035">
+<string-name>
+<given-names>Z. Y.</given-names>
+<surname>Ning</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Jolly</surname>
+</string-name>, <string-name>
+<given-names>G. C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>De Meyere</surname>
+</string-name>, <string-name>
+<given-names>S. D. D.</given-names>
+<surname>Pu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kasemchainan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ihli</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D. L. R.</given-names>
+<surname>Melvin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bonnin</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Magdysyuk</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Adamson</surname>
+</string-name>, <string-name>
+<given-names>G. O.</given-names>
+<surname>Hartley</surname>
+</string-name>, <string-name>
+<given-names>C. W.</given-names>
+<surname>Monroe</surname>
+</string-name>, <string-name>
+<given-names>T. J.</given-names>
+<surname>Marrow</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2021</year>, <volume>20</volume>, <fpage>1121</fpage>.<pub-id pub-id-type="pmid">33888903</pub-id></mixed-citation></ref><ref id="advs3207-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs3207-cit-0036">
+<string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;W.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;H.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1703791</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs3207-cit-0037">
+<string-name>
+<given-names>W.&#x02010;J.</given-names>
+<surname>Kwak</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Trung Thien</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. R.</given-names>
+<surname>Byon</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>3857</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs3207-cit-0038">
+<string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Dufek</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Whittingham</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>1094</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs3207-cit-0039">
+<string-name>
+<given-names>B. Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>N. S.</given-names>
+<surname>Grundish</surname>
+</string-name>, <string-name>
+<given-names>P. H.</given-names>
+<surname>Chien</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Manke</surname>
+</string-name>, <string-name>
+<given-names>R. Y.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>H. H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Dolocan</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2021</year>, <volume>143</volume>, <fpage>6542</fpage>.<pub-id pub-id-type="pmid">33904722</pub-id></mixed-citation></ref><ref id="advs3207-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs3207-cit-0040">
+<string-name>
+<given-names>K.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1705711</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs3207-cit-0041">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ishida</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <elocation-id>1601759</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs3207-cit-0042">
+<string-name>
+<given-names>M.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <elocation-id>1905949</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs3207-cit-0043">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1803270</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs3207-cit-0044">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lian</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>2100488</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs3207-cit-0045">
+<string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;l.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;z.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;t.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;b.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <elocation-id>18240</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs3207-cit-0046">
+<string-name>
+<given-names>W.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lian</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>28</volume>, <fpage>350</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs3207-cit-0047">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;W.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;H.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>382</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs3207-cit-0048">
+<string-name>
+<given-names>I.</given-names>
+<surname>Temprano</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Petrucco</surname>
+</string-name>, <string-name>
+<given-names>J. H. J.</given-names>
+<surname>Ellison</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Jonsson</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>Joule</source>
+<year>2020</year>, <volume>4</volume>, <fpage>2501</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs3207-cit-0049">
+<string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Jonsson</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Castillo&#x02010;Martinez</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Temprano</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Carretero&#x02010;Gonzalez</surname>
+</string-name>, <string-name>
+<given-names>R. N.</given-names>
+<surname>Kerber</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>ACS Catal.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>66</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs3207-cit-0050">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>1088</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs3207-cit-0051">
+<string-name>
+<given-names>X.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Key</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Shahbazian&#x02010;Yassar</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Curtiss</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>22978</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs3207-cit-0052">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;I.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Gray</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;H.</given-names>
+<surname>Cha</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ha</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;K.</given-names>
+<surname>Song</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>17</volume>, <fpage>167</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs3207-cit-0053">
+<string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dey</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Temprano</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2020</year>, <volume>5</volume>, <fpage>3681</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs3207-cit-0054">
+<string-name>
+<given-names>X.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2019</year>, <volume>64</volume>, <elocation-id>103945</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs3207-cit-0055">
+<string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Frith</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>R. N.</given-names>
+<surname>Kerber</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Dubouis</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P. C. M. M.</given-names>
+<surname>Magusin</surname>
+</string-name>, <string-name>
+<given-names>M. T. L.</given-names>
+<surname>Casford</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Garcia&#x02010;Araez</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>1428</fpage>.<pub-id pub-id-type="pmid">29345915</pub-id></mixed-citation></ref><ref id="advs3207-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs3207-cit-0056">
+<string-name>
+<given-names>C. M.</given-names>
+<surname>Burke</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Black</surname>
+</string-name>, <string-name>
+<given-names>I. R.</given-names>
+<surname>Kochetkov</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Giordani</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Addison</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2016</year>, <volume>1</volume>, <fpage>747</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs3207-cit-0057">
+<string-name>
+<given-names>W.&#x02010;J.</given-names>
+<surname>Kwak</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hirshberg</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Sharon</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Afri</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;B.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Garsuch</surname>
+</string-name>, <string-name>
+<given-names>F. F.</given-names>
+<surname>Chesneau</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Frimer</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>8855</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs3207-cit-0058">
+<string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Frith</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Garcia&#x02010;Araez</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2017</year>, <volume>56</volume>, <elocation-id>16057</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="advs3207-cit-0059">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Science</source>
+<year>2012</year>, <volume>337</volume>, <fpage>563</fpage>.<pub-id pub-id-type="pmid">22821984</pub-id></mixed-citation></ref><ref id="advs3207-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="advs3207-cit-0060">
+<string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Valery</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Luntz</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Gowda</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Wallraff</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Garcia</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Mori</surname>
+</string-name>, <string-name>
+<given-names>L. E.</given-names>
+<surname>Krupp</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>2989</fpage>.<pub-id pub-id-type="pmid">26706312</pub-id></mixed-citation></ref><ref id="advs3207-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="advs3207-cit-0061">
+<string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Scheffler</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Speidel</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Girishkumar</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Luntz</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <elocation-id>23897</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="advs3207-cit-0062">
+<string-name>
+<given-names>C.</given-names>
+<surname>Xiwen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Malin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Jiancheng</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Pu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lina</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xiaoxue</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shuang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jijing</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jihong</surname>
+</string-name>, <source>Nature</source>
+<year>2021</year>, <volume>592</volume>, <fpage>551</fpage>.<pub-id pub-id-type="pmid">33883734</pub-id></mixed-citation></ref><ref id="advs3207-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="advs3207-cit-0063">
+<string-name>
+<given-names>B.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ju</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Munroe</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2016</year>, <volume>28</volume>, <fpage>486</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="advs3207-cit-0064">
+<string-name>
+<given-names>S.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2016</year>, <volume>191</volume>, <fpage>473</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="advs3207-cit-0065">
+<string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;C.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2020</year>, <volume>5</volume>, <fpage>3804</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="advs3207-cit-0066">
+<string-name>
+<given-names>B. M.</given-names>
+<surname>Gallant</surname>
+</string-name>, <string-name>
+<given-names>R. R.</given-names>
+<surname>Mitchell</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Kwabi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zuin</surname>
+</string-name>, <string-name>
+<given-names>C. V.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao&#x02010;Horn</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <elocation-id>20800</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="advs3207-cit-0067">
+<string-name>
+<given-names>M. M. O.</given-names>
+<surname>Thotiyl</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>494</fpage>.<pub-id pub-id-type="pmid">23190204</pub-id></mixed-citation></ref><ref id="advs3207-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="advs3207-cit-0068">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2018</year>, <volume>11</volume>, <fpage>1211</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="advs3207-cit-0069">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>972</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="advs3207-cit-0070">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Joule</source>
+<year>2017</year>, <volume>1</volume>, <fpage>359</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="advs3207-cit-0071">
+<string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Leskes</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Bayley</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <source>Science</source>
+<year>2015</year>, <volume>350</volume>, <fpage>530</fpage>.<pub-id pub-id-type="pmid">26516278</pub-id></mixed-citation></ref><ref id="advs3207-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="advs3207-cit-0072">
+<string-name>
+<given-names>W.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Grimaud</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lepoivre</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>214</fpage>.<pub-id pub-id-type="pmid">27960058</pub-id></mixed-citation></ref><ref id="advs3207-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="advs3207-cit-0073">
+<string-name>
+<given-names>L.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>10498</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="advs3207-cit-0074">
+<string-name>
+<given-names>J. W.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>L. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L. X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>2334</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="advs3207-cit-0075">
+<string-name>
+<given-names>Y. B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>Z. J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y. Q.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Hao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>Y. B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>F. Y.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>Q. H.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Sci. Bull.</source>
+<year>2019</year>, <volume>64</volume>, <fpage>910</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="advs3207-cit-0076">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <source>Nature</source>
+<year>2001</year>, <volume>414</volume>, <fpage>359</fpage>.<pub-id pub-id-type="pmid">11713543</pub-id></mixed-citation></ref><ref id="advs3207-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="advs3207-cit-0077">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>900</fpage>.<pub-id pub-id-type="pmid">30796214</pub-id></mixed-citation></ref><ref id="advs3207-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="advs3207-cit-0078">
+<string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2017</year>, <volume>117</volume>, <elocation-id>10403</elocation-id>.<pub-id pub-id-type="pmid">28753298</pub-id></mixed-citation></ref><ref id="advs3207-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="advs3207-cit-0079">
+<string-name>
+<given-names>H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;R.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>T.&#x02010;T.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>N.&#x02010;W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;J.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>F.&#x02010;F.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>1094</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="advs3207-cit-0080">
+<string-name>
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;N.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;H.</given-names>
+<surname>Ryou</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;K.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>123</volume>, <fpage>419</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="advs3207-cit-0081">
+<string-name>
+<given-names>M. M. O.</given-names>
+<surname>Thotiyl</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2013</year>, <volume>12</volume>, <fpage>1050</fpage>.<pub-id pub-id-type="pmid">23995325</pub-id></mixed-citation></ref><ref id="advs3207-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="advs3207-cit-0082">
+<string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.&#x02010;T.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2019</year>, <volume>141</volume>, <fpage>9165</fpage>.<pub-id pub-id-type="pmid">31141357</pub-id></mixed-citation></ref><ref id="advs3207-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="advs3207-cit-0083">
+<string-name>
+<given-names>W.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>19</volume>, <fpage>379</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="advs3207-cit-0084">
+<string-name>
+<given-names>G. Y.</given-names>
+<surname>Adachi</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Imanaka</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Aono</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>1996</year>, <volume>8</volume>, <fpage>127</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="advs3207-cit-0085">
+<string-name>
+<given-names>S.</given-names>
+<surname>Duluard</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Paillassa</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lenormand</surname>
+</string-name>, <string-name>
+<given-names>P. L.</given-names>
+<surname>Taberna</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Simon</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Rozier</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ansart</surname>
+</string-name>, <source>J. Am. Ceram. Soc.</source>
+<year>2017</year>, <volume>100</volume>, <fpage>141</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="advs3207-cit-0086">
+<string-name>
+<given-names>S.</given-names>
+<surname>Randau</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>K&#x000f6;tz</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Braun</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Ivers&#x02010;Tiff&#x000e9;e</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Adermann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kulisch</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>F. H.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2020</year>, <volume>5</volume>, <fpage>259</fpage>.</mixed-citation></ref><ref id="advs3207-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="advs3207-cit-0087">
+<string-name>
+<given-names>S.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>L. G.</given-names>
+<surname>Hector</surname>, <suffix>Jr.</suffix>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Harris</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <elocation-id>15476</elocation-id>.<pub-id pub-id-type="pmid">22909233</pub-id></mixed-citation></ref><ref id="advs3207-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="advs3207-cit-0088">
+<string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>von Cresce</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Langmuir</source>
+<year>2010</year>, <volume>26</volume>, <elocation-id>11538</elocation-id>.<pub-id pub-id-type="pmid">20446717</pub-id></mixed-citation></ref><ref id="advs3207-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="advs3207-cit-0089">
+<string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>P. F.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>S. T.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <elocation-id>1602605</elocation-id>.</mixed-citation></ref><ref id="advs3207-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="advs3207-cit-0090">
+<string-name>
+<given-names>L.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Ashok</surname>
+</string-name>, <string-name>
+<given-names>B. B.</given-names>
+<surname>Praveen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Dholakia</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Nat. Chem.</source>
+<year>2014</year>, <volume>6</volume>, <fpage>1091</fpage>.<pub-id pub-id-type="pmid">25411888</pub-id></mixed-citation></ref><ref id="advs3207-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="advs3207-cit-0091">
+<string-name>
+<given-names>H.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>P.&#x02010;F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>82</fpage>.<pub-id pub-id-type="pmid">29232123</pub-id></mixed-citation></ref></ref-list></back></article>

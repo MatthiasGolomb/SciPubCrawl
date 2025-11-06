@@ -1,0 +1,1414 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="adma202411601" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Mater</journal-id><journal-id journal-id-type="iso-abbrev">Adv Mater</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-4095</journal-id><journal-id journal-id-type="publisher-id">ADMA</journal-id><journal-title-group><journal-title>Advanced Materials (Deerfield Beach, Fla.)</journal-title></journal-title-group><issn pub-type="ppub">0935-9648</issn><issn pub-type="epub">1521-4095</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11795707</article-id><article-id pub-id-type="pmid">39679840</article-id>
+<article-id pub-id-type="doi">10.1002/adma.202411601</article-id><article-id pub-id-type="publisher-id">ADMA202411601</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Low&#x02010;Temperature Lithium Metal Batteries Achieved by Synergistically Enhanced Screening Li<sup>+</sup> Desolvation Kinetics</article-title></title-group><contrib-group><contrib id="adma202411601-cr-0001" contrib-type="author"><name><surname>Zhu</surname><given-names>Fengyi</given-names></name><xref rid="adma202411601-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="adma202411601-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="adma202411601-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="adma202411601-cr-0002" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Jian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7945-0826</contrib-id><xref rid="adma202411601-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="adma202411601-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="adma202411601-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>jian.wang@kit.edu</email><email>wangjian2014@sinano.ac.cn</email></address></contrib><contrib id="adma202411601-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Yongzheng</given-names></name><xref rid="adma202411601-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="adma202411601-cr-0004" contrib-type="author"><name><surname>Tu</surname><given-names>Haifeng</given-names></name><xref rid="adma202411601-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="adma202411601-cr-0005" contrib-type="author"><name><surname>Xia</surname><given-names>Xueqing</given-names></name><xref rid="adma202411601-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="adma202411601-cr-0006" contrib-type="author"><name><surname>Zhang</surname><given-names>Jing</given-names></name><xref rid="adma202411601-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="adma202411601-cr-0007" contrib-type="author"><name><surname>He</surname><given-names>Haiyan</given-names></name><xref rid="adma202411601-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="adma202411601-cr-0008" contrib-type="author"><name><surname>Lin</surname><given-names>Hongzhen</given-names></name><xref rid="adma202411601-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="adma202411601-cr-0009" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Meinan</given-names></name><xref rid="adma202411601-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="adma202411601-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="adma202411601-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="adma202411601-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><address><email>mnliu2013@sinano.ac.cn</email></address></contrib></contrib-group><aff id="adma202411601-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">State Key Laboratory of Featured Metal Materials and Life&#x02010;cycle Safety for Composite Structures</named-content>
+<named-content content-type="organisation-division">Guangxi Key Laboratory of Processing for Non&#x02010;Ferrous Metals and Featured Materials</named-content>
+<named-content content-type="organisation-division">School of Resources</named-content>
+<named-content content-type="organisation-division">Environment and Materials</named-content>
+<institution>Guangxi University</institution>
+<city>Nanning</city>
+<postal-code>530004</postal-code>
+<country country="CN">China</country>
+</aff><aff id="adma202411601-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">i&#x02010;lab</named-content>
+<named-content content-type="organisation-division">&#x00026; CAS Key Laboratory of Nanophotonic Materials and Devices</named-content>
+<named-content content-type="organisation-division">Suzhou Institute of Nano&#x02010;Tech and Nano&#x02010;Bionics</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Suzhou</city>
+<postal-code>215123</postal-code>
+<country country="CN">China</country>
+</aff><aff id="adma202411601-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">College of Mechanics and Materials</named-content>
+<institution>Hohai University</institution>
+<city>Nanjing</city>
+<postal-code>210098</postal-code>
+<country country="CN">China</country>
+</aff><aff id="adma202411601-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Helmholtz Institute Ulm (HIU)</institution>
+<postal-code>89081</postal-code>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="adma202411601-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Karlsruhe Institute of Technology (KIT)</institution>
+<postal-code>D&#x02010;76021</postal-code>
+<city>Karlsruhe</city>
+<country country="DE">Germany</country>
+</aff><aff id="adma202411601-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">State Key Laboratory of Chemical Engineering</named-content>
+<institution>East China University of Science and Technology</institution>
+<city>Shanghai</city>
+<postal-code>200237</postal-code>
+<country country="CN">China</country>
+</aff><aff id="adma202411601-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">School of Materials Science and Engineering</named-content>
+<institution>Xi'an University of Technology</institution>
+<city>Xi'an</city>
+<postal-code>710048</postal-code>
+<country country="CN">China</country>
+</aff><aff id="adma202411601-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Division of Nanomaterials and Jiangxi Key Lab of Carbonene Materials</named-content>
+<institution>Jiangxi Institute of Nanotechnology</institution>
+<city>Nanchang</city>
+<postal-code>330200</postal-code>
+<country country="CN">China</country>
+</aff><aff id="adma202411601-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Guangdong Institute of Semiconductor Micro&#x02010;nano Manufacturing Technology</institution>
+<city>Foshan</city>
+<postal-code>528225</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>jian.wang@kit.edu</email>; <email>wangjian2014@sinano.ac.cn</email>; <email>mnliu2013@sinano.ac.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>12</month><year>2024</year></pub-date><pub-date pub-type="ppub"><day>05</day><month>2</month><year>2025</year></pub-date><volume>37</volume><issue seq="680">5</issue><issue-id pub-id-type="doi">10.1002/adma.v37.5</issue-id><elocation-id>2411601</elocation-id><history>
+<date date-type="rev-recd"><day>29</day><month>11</month><year>2024</year></date>
+<date date-type="received"><day>06</day><month>8</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). Advanced Materials published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADMA-37-2411601.pdf"/><abstract><title>Abstract</title><p>Lithium metal anode is desired by high capacity and low potential toward higher energy density than commercial graphite anode. However, the low&#x02010;temperature Li metal batteries suffer from dendrite formation and dead Li resulting from uneven Li behaviors of flux with huge desolvation/diffusion barriers, thus leading to short&#x000a0;lifespan and safety concern. Herein, differing from electrolyte engineering, a strategy of delocalizing electrons with generating rich active sites to regulate Li<sup>+</sup> desolvation/diffusion behaviors are demonstrated via decorating polar chemical groups on porous metal&#x02013;organic frameworks (MOFs). As comprehensively indicated by theoretical simulations, electrochemical analysis, in situ spectroscopies, electron microscope, and time&#x02010;of&#x02010;flight secondary&#x02010;ion mass spectrometry, the sieving kinetics of desolvation is not merely relied on pore size morphology but also significantly affected by the &#x02500;NH<sub>2</sub> polar chemical groups,&#x000a0;reducing energy barriers for realizing non&#x02010;dendritic and smooth Li metal plating. Consequently, the optimal cells stabilize for&#x000a0;long lifespan of 2000 h and higher average Coulombic efficiency, much better than the&#x02010;state&#x02010;of&#x02010;art reports. Under a lower negative/positive ratio of 3.3, the full cells with NH<sub>2</sub>&#x02010;MIL&#x02010;125 deliver a high capacity&#x02010;retention of 97.0% at 0.33 C even under &#x02212;20&#x000a0;&#x000b0;C, showing the great potential of this kind of polar groups on boosting Li<sup>+</sup> desolvation kinetics at room&#x02010; and low&#x02010;temperatures.</p></abstract><abstract id="adma202411601-abs-0001" abstract-type="graphical"><p>On the basis of pore sieving effect toward Li<sup>+</sup> desolvation, the intentionally&#x02010;introduced polar electron&#x02010;donated chemical groups on metal&#x02013;organic frameworks is developed to further boost Li<sup>+</sup> desolvation and Li<sup>0</sup> diffusion kinetics under low temperature, achieving uniform lithium distribution without dendrite formation. As a result, the high capacity&#x02010;retention ratio of 97% is stabilized under negative/positive ratio of 3.3 and lower temperature surroundings.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADMA-37-2411601-g004.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="adma202411601-kwd-0001">Li ion desolvation</kwd><kwd id="adma202411601-kwd-0002">lithium metal battery</kwd><kwd id="adma202411601-kwd-0003">low temperature surrounding</kwd><kwd id="adma202411601-kwd-0004">metal&#x02013;organic frameworks</kwd><kwd id="adma202411601-kwd-0005">sieving effect</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>22379160</award-id><award-id>22075313</award-id><award-id>22279161</award-id><award-id>22309144</award-id></award-group><award-group id="funding-0002"><funding-source>National Key R&#x00026;D Program</funding-source><award-id>2021YFA1201503</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Basic and Applied Basic Research Foundation of Guangdong Province
+</institution><institution-id institution-id-type="doi">10.13039/501100021171</institution-id></institution-wrap></funding-source><award-id>2022A1515140165</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Natural Science Foundation of Jiangsu Province
+</institution><institution-id institution-id-type="doi">10.13039/501100004608</institution-id></institution-wrap></funding-source><award-id>BK. 20210130</award-id></award-group><award-group id="funding-0005"><funding-source>Jiangxi Double Thousand Talent Program</funding-source><award-id>JXSQ2019101072</award-id></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>Key Laboratory of Engineering Dielectrics and Its Application (Harbin University of Science and Technology), Ministry of Education
+</institution><institution-id institution-id-type="doi">10.13039/501100015341</institution-id></institution-wrap></funding-source><award-id>KFM202507</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Alexander von Humboldt&#x02010;Stiftung
+</institution><institution-id institution-id-type="doi">10.13039/100005156</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="10"/><word-count count="6401"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 5, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.3 mode:remove_FC converted:05.02.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="adma202411601-cit-0037">
+<string-name>
+<given-names>F.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <article-title>Low&#x02010;Temperature Lithium Metal Batteries Achieved by Synergistically Enhanced Screening Li<sup>+</sup> Desolvation Kinetics</article-title>. <source>Adv. Mater.</source>
+<year>2025</year>, <volume>37</volume>, <elocation-id>2411601</elocation-id>. <pub-id pub-id-type="doi">10.1002/adma.202411601</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="adma202411601-sec-0010"><label>1</label><title>Introduction</title><p>The daily&#x02010;increasing demands on sustainable high&#x02010;energy&#x02010;density lithium&#x02010;ion batteries (LIBs) have aroused great interests since rapid developments of electric vehicles and green electric grids.<sup>[</sup>
+<xref rid="adma202411601-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> Compared to commercial graphite anode in LIBs, metallic Li anode with higher theoretical specific capacity (3860 vs 372 mAh g<sup>&#x02212;1</sup>) and the lowest electrochemical redox potential (&#x02212;3.04 V vs SHE) is considered to be the most promising candidate for future Li metal batteries (LMBs).<sup>[</sup>
+<xref rid="adma202411601-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup> However, the Li metal anode also suffers from uncontrollable Li plating behaviors with dendrite formation and the crack of solid electrolyte interphase (SEI).<sup>[</sup>
+<xref rid="adma202411601-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> Generally, Li deposition morphology basically depends on the kinetics of Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup> dissociation and Li<sup>+</sup>/Li<sup>0</sup> transport/diffusion processes from bulk electrolyte to anode surface.<sup>[</sup>
+<xref rid="adma202411601-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> Reducing the environmental temperature down to low temperature above or around the freezing point, the electrolyte remains liquid and the corresponding solvation shell of Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup> is inevitably getting larger and larger, and the diffusion kinetics becomes much harder, thus the Li<sup>+</sup> diffusion in the electrolyte phase is only slightly retarded by the decreased temperature.<sup>[</sup>
+<xref rid="adma202411601-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> Meanwhile, the uneven spatial distribution of dendrite growth and the formation of dead Li resulted from the sluggish Li<sup>+</sup>/Li<sup>0</sup> kinetics under low temperatures are used to inducing internal short&#x02010;circuits (<bold>Figure</bold>&#x000a0;<xref rid="adma202411601-fig-0001" ref-type="fig">
+<bold>1</bold>A</xref>), shortening cycling lifespan and degrading capacities of LMBs.</p><fig position="float" fig-type="Figure" id="adma202411601-fig-0001"><label>Figure 1</label><caption><p>The schematic illustration of plated Li behaviors on A) Cu foil and B) dense MOF layer decorated Cu foil surface. C) Different crystal structures of ZIF&#x02010;67, ZIF&#x02010;8, MIL&#x02010;125, and NH<sub>2</sub>&#x02010;MIL&#x02010;125. D) The changes of electron density with the introduction of electron&#x02010;donor group of NH<sub>2</sub>
+<sup>&#x02212;</sup> in MIL&#x02010;125. E,F) The TDOS evolution of Ti 3d and C 2p in MIL&#x02010;125 and NH<sub>2</sub>&#x02010;MIL&#x02010;125. G,H) ZIF&#x02010;67, ZIF&#x02010;8, MIL&#x02010;125 and NH<sub>2</sub>&#x02010;MIL&#x02010;125 interact with Li(DME)<sub>4</sub>
+<sup>+</sup>. I)&#x000a0;The binding energies of solvated Li(DME)<sub>4</sub>
+<sup>+</sup> on different MOFs.</p></caption><graphic xlink:href="ADMA-37-2411601-g003" position="anchor" id="jats-graphic-3"/></fig><p>In order to address Li dendrite, tremendous efforts of tuning SEI architectures or modulating electrolyte ingredients with different additives in room or low&#x02010;temperature conditions have been devoted.<sup>[</sup>
+<xref rid="adma202411601-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> As known, dendrite growth can kinetically be regarded as the local aggregation of Li atom on the metallic Li surface, where interfacial desolvation for achieving free Li<sup>+</sup> plays the requisite role before getting electron to form Li atoms under low temperature. Although the popular electrolyte engineering does modulate the solvation shell structure for lower desolvation barriers in the bulk electrolytes, this methodology seems to sacrifice the Li&#x02010;ion transport in the low temperature with the presence of co&#x02010;solvents.<sup>[</sup>
+<xref rid="adma202411601-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> Alternatively, metal&#x02010;organic frameworks (MOFs) with ordered pore structures and wettability properties provide the chances for sieving large Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup> clusters and regulating Li<sup>+</sup> transport, which have attracted increasing attentions.<sup>[</sup>
+<xref rid="adma202411601-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> However, current designs of reported MOFs in the batteries are random, and there lacks systematic investigation of pore size distribution and chemical groups on the effect of modulating the desolvation kinetics.<sup>[</sup>
+<xref rid="adma202411601-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> Nobody knows whether it is absolutely correct that smaller pore sizes are benefit for the Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup> since the Li<sup>+</sup> is too small (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S1</xref>, Supporting Information). Meanwhile, in most reported cases, the efficiency of Li<sup>+</sup>&#x02010;solvents breaking is strongly dependent on the strength of built&#x02010;in physical electric field in the battery, which is the main driving force to propel dissociation.<sup>[</sup>
+<xref rid="adma202411601-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> How to efficiently accelerate the desolvation kinetics remains to be answered in the low&#x02010;temperature surroundings.</p><p>Recently, electron delocalization engineering is capable of redistributing electron density, providing more active sites in propelling and dissociating interfacial desolvation for uniformizing free Li<sup>+</sup> and Li<sup>0</sup>.<sup>[</sup>
+<xref rid="adma202411601-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> For example, the functionality of the electron&#x02010;assisted defect&#x02010;rich and/or atomic catalysts have been developed for regulating Li kinetic behaviors.<sup>[</sup>
+<xref rid="adma202411601-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> Thus, employing electron&#x02010;donor polar sites into MOFs is desirable to regulate pore size screening and electronic density of MOFs for highly effective sieving and modulating plating behaviors.<sup>[</sup>
+<xref rid="adma202411601-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> For the practical application, current studies of metallic Li anodes are based on the presence of excessive Li, which is not suitable for pursuing high energy density.<sup>[</sup>
+<xref rid="adma202411601-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> Additionally, whether the proposed strategies working efficiently under low temperatures is also uncertain or failed at very low negative/positive (N/P) ratio since the presence of larger&#x02010;size solvation sheath structure and slow Li<sup>+</sup> mobility. Therefore, it is imperative to effectively screen the solvation structure of Li ion at low temperature for Li metal batteries with higher energy density.<sup>[</sup>
+<xref rid="adma202411601-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup>
+</p><p>In this work, a detailed combined investigation of pore sieving and electronic density rearrangement of polar chemical groups is pioneered to enhance the desolvation efficiency and interfacial transport kinetics of Li<sup>+</sup> to promote smooth Li plating at low temperatures. Specifically, a serials of pore size distributions derived from different MOFs and their optimizations with electron&#x02010;donor chemical groups are screened and coated on the copper (Figure&#x000a0;<xref rid="adma202411601-fig-0001" ref-type="fig">1B</xref>). As revealed by electrochemical analysis, in situ spectroscopies, electron microscope and time&#x02010;of&#x02010;flight secondary&#x02010;ion mass spectrometry (TOF&#x02010;SIMS) as well as theoretical simulations, the effects of synergistic sieving resulting from delocalizing electrons have been comprehensively investigated for generating rapid migration kinetics of Li<sup>+</sup> and Li<sup>0</sup> at the interface, realizing non&#x02010;dendritic and smooth Li metal plating. Consequently, with limited pre&#x02010;plating capacity of 5 mAh cm<sup>&#x02212;2</sup> on the MOF&#x02010;decorated Cu electrodes (denoted as MOF/Cu@Li), the excellent Li plating/stripping behaviors and extremely lower nucleation overpotentials are achieved, which is attributed to the decreased dissociation barrier of the complex and atomic diffusion to produce free Li<sup>+</sup>. Especially under severe conditions of high mass&#x02010;loading or low&#x02010;temperature environment, the as&#x02010;prepared full cell with NH<sub>2</sub>&#x02010;decorated MOFs exhibits superior electrochemical performance with 90.5% capacity retention for 300 cycles under 0&#x000a0;&#x000b0;C and low N/P ratio of 3.3. Even decreasing the temperature down to &#x02212;20 &#x000b0;C, the capacity&#x02010;retention of 97% is maintained after 130 cycles at 0.33 C, paving the way for the practical application of the low&#x02010;temperature Li metal battery.</p></sec><sec id="adma202411601-sec-0020"><label>2</label><title>Results and Discussion</title><p>The porous structure of MOF itself, as an effective ionic sieve, can selectively extract Li<sup>+</sup> and provide uniform Li<sup>+</sup> flux. To well elucidate the functions of polar group in NH<sub>2</sub>&#x02010;MIL&#x02010;125, MIL&#x02010;125, and other two MOFs (ZIF&#x02010;67, ZIF&#x02010;8) with smaller pore size distribution were selected here (Figure&#x000a0;<xref rid="adma202411601-fig-0001" ref-type="fig">1C</xref>). Terminal functional groups of polar &#x02500;NH<sub>2</sub> sites may have great influences on electronic properties when absorbing other molecules, and thus changing the kinetics of electron transfer. Initially, the density functional theory (DFT) simulations were used to imitate the changes of electron density with the introduction of electron&#x02010;donor groups of &#x02500;NH<sub>2</sub> on MIL&#x02010;125 (Figure&#x000a0;<xref rid="adma202411601-fig-0001" ref-type="fig">1D</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S2</xref>, Supporting Information). Obviously, the abundant electron density overlaps in NH<sub>2</sub>&#x02010;MIL&#x02010;125 case in comparison to that of MIL&#x02010;125, which will dramatically reduce the desolvation energy barrier. Moreover, the delocalized electron will also bring about the disturbance of neighboring Ti&#x02500;C bond. As depicted in total density of states (TDOS) of Figure&#x000a0;<xref rid="adma202411601-fig-0001" ref-type="fig">1E,F</xref>, both the Ti <italic toggle="yes">3d</italic> and C <italic toggle="yes">2p</italic> show the separated and broad peaks near the Fermi&#x02010;level, implying the presence of electron delocalization for generating more active sites. Owing to the presence of large number of so&#x02010;called solvent&#x02010;separated ion pair (SSIP) in the moderate electrolyte system, the Li(DME)<sub>4</sub>
+<sup>+</sup> is selected to simplify the simulation. As depicted in Figure&#x000a0;<xref rid="adma202411601-fig-0001" ref-type="fig">1G,H</xref>, the charge transfer interaction and capability on grabbing Li<sup>+</sup> from Li(DME)<sub>4</sub>
+<sup>+</sup> was observed when introducing polar &#x02500;NH<sub>2</sub> chemical groups. Figure&#x000a0;<xref rid="adma202411601-fig-0001" ref-type="fig">1I</xref> and Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S3</xref> (Supporting Information) show the binding energies of solvated Li(DME)<sub>4</sub>
+<sup>+</sup> on different MOFs, and the MOFs with smaller size display the higher binding capability, while it works oppositely when the polar sites introduced in the MIL&#x02010;125. That is to say, the pore size is not the only index that evaluates the desolvation degree. The NH<sub>2</sub>&#x02010;MIL&#x02010;125 one exhibits 1.31 times higher than the original one, which is also better than the ZIF systems. Meanwhile, the adsorption behaviors of TFSI<sup>&#x02212;</sup> anion on the various MOFs are also investigated in Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S4</xref> (Supporting Information), and the NH<sub>2</sub>&#x02010;MIL&#x02010;125 still exhibits the highest adsorption energy of 1.02 eV than others, indicating most TFSI<sup>&#x02212;</sup> anions are also adsorbed by the NH<sub>2</sub>&#x02010;MIL&#x02010;125, accelerating Li ion transference number and ion transport.</p><p>The synthesis of MOFs with polar &#x02500;NH<sub>2</sub> electron modulated groups was displayed in Supporting Information. The transmission electron microscope (TEM) image and corresponding energy dispersive X&#x02010;ray spectra (EDX) suggest the sheet&#x02010;like structure with uniform distribution of Ti, O, N, and C elements in the as&#x02010;obtained NH<sub>2</sub>&#x02010;MIL&#x02010;125 (<bold>Figure</bold>&#x000a0;<xref rid="adma202411601-fig-0002" ref-type="fig">
+<bold>2</bold>A,B</xref>).<sup>[</sup>
+<xref rid="adma202411601-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> The X&#x02010;ray diffraction (XRD) patterns demonstrate the similar crystal structure of NH<sub>2</sub>&#x02010;MIL&#x02010;125 and MIL&#x02010;125 (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S5</xref>, Supporting Information); while the characteristic peaks at 3363 and 3448 cm<sup>&#x02212;1</sup> in the Fourier transform infrared (FTIR) spectra, assignable to symmetric and asymmetric stretching, suggest the presence of &#x02500;NH<sub>2</sub> polar groups in the NH<sub>2</sub>&#x02010;MIL&#x02010;125 (Figure&#x000a0;<xref rid="adma202411601-fig-0002" ref-type="fig">2C</xref>).<sup>[</sup>
+<xref rid="adma202411601-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> After coating on the copper foil, the NH<sub>2</sub>&#x02010;MIL&#x02010;125 keeps the plate morphology with a size of &#x02248;242 nm (Figure&#x000a0;<xref rid="adma202411601-fig-0002" ref-type="fig">2D</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S6</xref>, Supporting Information), which is similar to other MOF&#x02010;decorated Cu foils (Figures&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S7</xref> and&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S8</xref>, Supporting Information). However, it should be noted that the color of these MOF layer is quite different from each other and the coating thickness of MOFs layer is &#x02248;10 &#x000b5;m (Figure&#x000a0;<xref rid="adma202411601-fig-0002" ref-type="fig">2E</xref>). As shown in Figure&#x000a0;<xref rid="adma202411601-fig-0002" ref-type="fig">2F</xref>, the contact angles of Cu foil and MIL&#x02010;125 layer are 46&#x000b0; and 11&#x000b0;, respectively. In contrast, the NH<sub>2</sub>&#x02010;MIL&#x02010;125 layer possesses better affinity and wettability with a contact angle of almost 0&#x000b0;, showcasing the wettability toward electrolyte after considerable polar chemical groups.<sup>[</sup>
+<xref rid="adma202411601-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="adma202411601-fig-0002"><label>Figure 2</label><caption><p>A) TEM image of single NH<sub>2</sub>&#x02010;MIL&#x02010;125 particle and B) corresponding EDX elemental mappings of Ti, O, N, and C. C) FTIR spectra of NH<sub>2</sub>&#x02010;MIL&#x02010;125 and MIL&#x02010;125. D) Top&#x02010;view SEM image of NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu. Inset shows the particle size distribution of bending NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu. E) The cross&#x02010;sectional SEM image of NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu with the thickness of 10 &#x000b5;m. F) Contact angles of ether&#x02010;based electrolytes on Cu foil, MIL&#x02010;125/Cu, and NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu electrodes, respectively.</p></caption><graphic xlink:href="ADMA-37-2411601-g002" position="anchor" id="jats-graphic-5"/></fig><p>To well study the sieving effect of MOF layers coming from pore sizes or polar groups, these MOF&#x02010;modified Cu were compared in Li&#x02010;Li and Li&#x02010;Cu cells. <bold>Figure</bold>&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">
+<bold>3</bold>A</xref> depicts that the nucleation barrier for NH<sub>2</sub>&#x02010;MIL&#x02010;125 is 109 mV, which is much lower than that of ZIF&#x02010;8 (123 mV), ZIF&#x02010;67 (127 mV), MIL&#x02010;125 (178 mV), and bare Cu (178 mV) systems, suggesting the best desolvation and diffusion kinetics in NH<sub>2</sub>&#x02010;MIL&#x02010;125 system. Furthermore, the Coulombic efficiencies (CEs) of Li&#x02010;Cu cells with/without MOF layers were also compared under 1 or 3 mA cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S9A,B</xref>, Supporting Information). As summarized in Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3B</xref>, the NH<sub>2</sub>&#x02010;MIL&#x02010;125 system displays the longest lifespan of &#x02248;380 cycles with stable CE (CE &#x0003e;95%), much longer than ZIF&#x02010;67 (330 cycles), ZIF&#x02010;8 (260 cycles), MIL&#x02010;125 (170 cycles), and bare Cu (100 cycles) under 1 mA cm<sup>&#x02212;2</sup>. Correspondingly, the lowest overpotential in NH<sub>2</sub>&#x02010;MIL&#x02010;125 system is &#x02248;60.2 mV at 100<sup>th</sup> cycle (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S10</xref>, Supporting Information), suggesting the function of this &#x02500;NH<sub>2</sub> polar groups on accelerating the charge transfer kinetics. Increasing the plating/stripping current density to 3 mA cm<sup>&#x02212;2</sup>, this NH<sub>2</sub>&#x02010;MIL&#x02010;125 system still behaves the best among all MOF systems and bare Cu, as evidenced by the high CEs after 150 cycles (Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3C</xref>). Compared with recently impressive results, the NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu electrode shows superior performance in lifespan (Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3D</xref>), demonstrating the high potential of NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu electrode for practical LMB systems (Table&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S1</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="adma202411601-fig-0003"><label>Figure 3</label><caption><p>A) Comparison of Li nucleation barriers on the bare Cu, MIL&#x02010;125/Cu, NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu, ZIF&#x02010;67/Cu, and ZIF&#x02010;8/Cu electrodes at 1 mA cm<sup>&#x02212;2</sup>. Comparisons of cycle stability and CEs at B) 1 mA cm<sup>&#x02212;2</sup> and C) 3 mA cm<sup>&#x02212;2</sup>. D) Comparison of cycling stability in half&#x02010;cells at 1 mA cm<sup>&#x02212;2</sup> for NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu with literature reports. E) Comparison of Li ion transference number with different MOFs. F) Cycling performance of bare Cu@Li and NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li symmetric cells at 0.5 mA cm<sup>&#x02212;2</sup>. G) Lifespan comparison between our study and the recently reported literature. H) The comparisons of rate performance of the two symmetric cells at specific current densities. I) Cycling performance of two symmetric cells at 1 mA cm<sup>&#x02212;2</sup> under a low&#x02010;temperature environment of &#x02212;10&#x000a0;&#x000b0;C.</p></caption><graphic xlink:href="ADMA-37-2411601-g001" position="anchor" id="jats-graphic-7"/></fig><p>As discussed above, the solvation shell also contains the larger TFSI<sup>&#x02212;</sup> anion, that is to say, there exists two different forms of TFSI<sup>&#x02212;</sup> anion in the electrolyte, namely, free TFSI<sup>&#x02212;</sup> and coordinated TFSI<sup>&#x02212;</sup> in the solvation shell of Li<sup>+</sup>, where only the free TFSI&#x02010; contributes to the mobility of total transference (t<sub>anion</sub>+ t <sub>Li+</sub> = 1). The Li<sup>+</sup> transference number (<italic toggle="yes">t</italic>
+<sub>Li+</sub>) can well reflect Li<sup>+</sup> diffusion kinetics and the <italic toggle="yes">t</italic>
+<sub>Li+</sub> of NH<sub>2</sub>&#x02010;MIL&#x02010;125 system is calculated to be 0.71, much higher than ZIF&#x02010;67 (0.64), ZIF&#x02010;8 (0.55), MIL&#x02010;125 (0.46) and bare Cu system (0.37) (Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3E</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S11</xref>, Supporting Information), verifying the fast desolvation behavior of Li(DME)<sub>4</sub>
+<sup>+</sup> on the polar &#x02500;NH<sub>2</sub> decorated MOF. For plating/stripping capability test, the 5 mAh cm<sup>&#x02212;2</sup> of Li is electrochemically pre&#x02010;plated on the Cu foil or MOFs@Cu. Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3F</xref> shows bare Cu@Li cell can only survive &#x02248;600 h. In sharp contrast, this NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li cell exhibits remarkable cycling stability at 0.5 mA cm<sup>&#x02212;2</sup>, as evidenced by lasting over 2000 h without any short&#x02010;circuit. As highlighted, the polarization gap is decreased from &#x02248;41.2 mV to &#x02248;15.7 mV, only one&#x02010;third of the bare Cu@Li case. Increasing the current density to 1 or 5 mA cm<sup>&#x02212;2</sup> (Figures&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S12</xref> and&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S13</xref>, Supporting Information), the NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li can stabilize for 1000 or 500 h with lower overpotentials, respectively. Unfortunately, the bare Cu@Li goes up from the beginning cycles and fails suddenly, indicating the serious dendrite formation. To further evaluate the sieving functions of NH<sub>2</sub>&#x02010;MIL&#x02010;125, a bunch of reported state&#x02010;of&#x02010;the&#x02010;art Li anodes have been summarized in Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3G</xref> and Table&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S2</xref> (Supporting Information), the NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li anode presents impressive cycling lifespan among various strategies modulated Li metal anodes. The voltage polarizations of symmetric cells under different current densities (0.5&#x02013;5 mA cm<sup>&#x02212;2</sup>) are compared in Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3H</xref> and Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S14</xref> (Supporting Information). The lower polarization resistances were exhibited in NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li especially under high current density, suggesting fast charge and ion transfer across the interphase.</p><p>Considering the seriously severe solvation structure under a harsh environment of &#x02212;10&#x000a0;&#x000b0;C, the symmetric cells were also tested. Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3I</xref> and Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S15</xref> (Supporting Information) illustrate bare Cu@Li, ZIF&#x02010;67/Cu@Li and MIL&#x02010;125/Cu@Li cells behave irregular voltage oscillation due to the sluggish Li<sup>+</sup> diffusion kinetics, especially the tough desolvation process at interphase under harsh environment. Obviously, the ZIF&#x02010;67/Cu@Li system exhibited the barrier of 176 mV, which is lower than that in MIL&#x02010;125 system (241mV), indicating the better sieving effect of smaller pore morphology. In contrast, with the superior charge transfer kinetics of sieving between polar &#x02500;NH<sub>2</sub> sites and Li(DME)<sub>4</sub>
+<sup>+</sup>, NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li presents excellent cycling stability over 350 h (Figure&#x000a0;<xref rid="adma202411601-fig-0003" ref-type="fig">3I</xref>). Based on the above results, it can be found the significant influence of NH<sub>2</sub>&#x02010;MIL&#x02010;125 in accelerating the desolvation of Li<sup>+</sup> and promoting Li<sup>0</sup> atom horizontal diffusion toward smooth plating instead of vertical Li dendrite growth. To observe this directly, the morphology evolutions of Li plating under low temperatures were tested by SEM. As shown in Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S16A</xref> (Supporting Information), the formation of Li dendrites is observed as circled in the high&#x02010;resolution SEM image on the bare Cu@Li surface. Meanwhile, it can be clearly found that lots of cracks as highlighted on the cycled MIL&#x02010;125/Cu@Li surface (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S16B</xref>, Supporting Information). In contrast, a dense and uniform Li metal surface can be observed in NH<sub>2</sub>&#x02010;MIL&#x02010;125 system (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S16C</xref>, Supporting Information), highlighting the effectiveness of the &#x02010;NH<sub>2</sub> catalytic polar sites in promoting desolvation and atom diffusion. Meanwhile, the interfacial resistance of optimized cell is further reduced along with cycle increase under a low&#x02010;temperature environment of &#x02212;10&#x000a0;&#x000b0;C (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S17A</xref>, Supporting Information). Due to the introduction of &#x02500;NH<sub>2</sub> polar groups, the Li desolvation and plating behaviors were regulated, and the charge transfer kinetics was modulated at low&#x02010;temperature conditions. Also, the Tafel curves in Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S17B,C</xref> (Supporting Information) display the exchange current densities of 0.13, 0.23, 0.24, 0.25, and 0.35 mA cm<sup>&#x02212;2</sup> for the five electrodes under a low&#x02010;temperature environment of &#x02212;10&#x000a0;&#x000b0;C, indicating that the NH<sub>2</sub>&#x02010;MIL&#x02010;125 system has enhanced Li<sup>+</sup> transfer kinetics.</p><p>With the assistance of Raman, in situ interface&#x02010;sensitive sum frequency generation (SFG) spectroscopy, FTIR and nuclear magnetic resonance (NMR), the desolvation process of Li(DME)<sub>4</sub>
+<sup>+</sup> on the modified MOFs were well investigated. Indeed, the MOF layer with abundant pores could well sieve coordinated molecules with specific pore size, exhibiting high ratios of contact ion pairs (CIPs) and aggregated ion pairs (AGGs) (<bold>Figure</bold>&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">
+<bold>4</bold>A,B</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S18</xref>, Supporting Information). In sharp contrast, the ratio of AGG and CIPs in NH<sub>2</sub>&#x02010;MIL&#x02010;125 system is much higher than that in ZIF&#x02010;67 or pristine electrolyte. In addition, as displayed in Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S19</xref> (Supporting Information), the higher intensity of Li<sup>+</sup>&#x02010;DME is exhibited in the liquid electrolyte while it shows strong intensity of free DME in the NH<sub>2</sub>&#x02010;MIL&#x02010;125 system. This can be interpreted by the synergetic effect of pore size sieving and the polar groups, accelerating the dissociation of Li<sup>+</sup>&#x02010;solvent clusters. Further, to directly witness the desolvation behaviors under the help of polar chemical groups, the in situ SFG spectroscopy was adopted. The schematic illustration of in situ SFG is depicted in Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4C</xref>, and the characteristic peaks located at 2876 and 2944 cm<sup>&#x02212;1</sup> are attributed to the solvents such as free DME and coordinated DME in solvation shell, which is observed in all systems. With the application of bias potential and electric field, it can be expected that more coordinated DME should be adsorbed on the interface due to the electrically&#x02010;moving toward to interface (Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4D</xref>). That means the coordinated Li<sup>+</sup>&#x02010;DME species are more sensitive to the electric field than the free DME molecular. Under this circumstance, the SFG peak intensity of DME should be stronger rather than weaker, as shown in our cases of ZIF&#x02010;67 and MIL&#x02010;125 systems. However, the NH<sub>2</sub>&#x02010;MIL&#x02010;125 system case does the opposite behavior, as evidenced by its peak density decreases from OCV (45) to 20 mV (&#x02248;10). The main reason for this reduced solvent signal in NH<sub>2</sub>&#x02010;MIL&#x02010;125 system is caused by efficient active&#x02010;acting desolvation process contributed by &#x02500;NH<sub>2</sub> polar groups. The sharp contrast between NH<sub>2</sub>&#x02010;MIL&#x02010;125 system and MIL&#x02010;125 system clearly reveals the big difference of active&#x02010;acting desolvation mainly affected by polar sites and passive&#x02010;acting desolvation modes affected by electric field. The passive&#x02010;acting desolvation needs higher energy, while the active&#x02010;acting desolvation mode can effectively complete solvation&#x02010;depravation even under a lower electric field, such as 20 mV. As illustrated in Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4E</xref>, with the sieving effect, the dissociation of Li<sup>+</sup>&#x02010;solvents takes place quickly on the polar MOF surface, generating more uniform Li<sup>+</sup> flux across the MOF layer for lateral diffusion and plating. As shown in Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S20A</xref> (Supporting Information), the NH<sub>2</sub>&#x02010;MIL&#x02010;125 in DME/DOL in FT&#x02010;IR spectra show typical DME/DOL solvent vibration, which is very different from LiTFSI in DME/DOL. These results suggest weak interaction between NH<sub>2</sub>&#x02010;MIL&#x02010;125 and solvents; while strong interaction existing between Li<sup>+</sup> and solvents. Moreover, when introducing NH<sub>2</sub>&#x02010;MIL&#x02010;125 and ZIF&#x02010;67 into LiTFSI&#x02010;DME/DOL electrolyte system, the absorption peaks of NH<sub>2</sub>&#x02010;MIL&#x02010;125 system take some changes as indicated by purple band in Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S20B</xref> (Supporting Information). These FT&#x02010;IR results demonstrate that &#x02500;NH<sub>2</sub> group has some weak influence on solvation behavior in the electrolyte. To further investigate the effect coming from hydrogen bond or Li&#x022c5;&#x022c5;&#x022c5;N interaction, NMR depicts a very slight shifts of the solvents exhibited in <sup>1</sup>H NMR (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S20C</xref>, Supporting Information), displays a very weak hydrogen bonding interaction. While, in comparison with the bare electrolyte, the low&#x02010;field shifted resonance (higher absolute value) of NH<sub>2</sub>&#x02010;MIL&#x02010;125/electrolyte suggests that the shielding effect of TFSI<sup>&#x02212;</sup> to Li<sup>+</sup> is reduced due to the coordination of Li<sup>+</sup> with the &#x02500;NH<sub>2</sub> group in the <sup>7</sup>Li NMR (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S20D</xref>, Supporting Information). Since both MIL&#x02010;125 and NH<sub>2</sub>&#x02010;MIL&#x02010;125 contain carboxylated groups, the high&#x02010;field shifted peak of MIL&#x02010;125/electrolyte indicates that the carboxylated groups are not involved in the Li<sup>+</sup> coordination, which well reveals the interactions between Li<sup>+</sup> and NH<sub>2</sub> polar groups.</p><fig position="float" fig-type="Figure" id="adma202411601-fig-0004"><label>Figure 4</label><caption><p>A) Raman spectra of liquid electrolyte on the PP, MIL&#x02010;125, ZIF&#x02010;67, and NH<sub>2</sub>&#x02010;MIL&#x02010;125 electrolytes and B) corresponding quantification results of the TFSI<sup>&#x02212;</sup> anion states at different interfaces. C) Schematic illustration of the in situ SFG in probing the electrolyte/catalyst interface. D) The SFG evolution of Li<sup>+</sup> solvation structure under different MOFs with/without bias voltage. E) The illustration of the Li<sup>+</sup> solvation structure in the electrode/electrolyte interface before and after turning bias voltage on. F) The morphology images of the bare Cu and NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu after plating 10 mAh cm<sup>&#x02212;2</sup> of Li. G) TOF&#x02010;SIMS 3D and 2D spectra of F<sup>&#x02212;</sup>, LiF<sub>2</sub>
+<sup>&#x02212;</sup>, and Li<sup>&#x02212;</sup> species of the cycled Cu@Li and NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li. H) The schematic illustration of the &#x0201c;capture&#x02010;then&#x02010;sieving&#x0201d; mechanism of NH<sub>2</sub>&#x02010;MOFs on promoting the dissociation of Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup>.</p></caption><graphic xlink:href="ADMA-37-2411601-g005" position="anchor" id="jats-graphic-9"/></fig><p>The cycled morphology was subjected to ex situ SEM. As the increase of plating capacity from 2 to 10 mAh cm<sup>&#x02212;2</sup>, severe Li dendrites and cracks were formed on bare Cu surface (Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4F</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S21A&#x02013;C</xref>, Supporting Information). In contrast, no dendrites can be found in NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu surface (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S21D,E</xref>, Supporting Information) even after platting 10 mAh cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4F</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S21F</xref>, Supporting Information); well suggesting the polar group of &#x02500;NH<sub>2</sub> rapidly fastens the desolvation kinetics to achieve the uniform Li deposition behavior. Furthermore, TOF&#x02010;SIMS was performed to investigate the 3D structure and surface species. The strong signals of F<sup>&#x02212;</sup> and LiF<sub>2</sub>
+<sup>&#x02212;</sup> ion species can be detected in bare Cu system, which is caused by the decomposition of excessive electrolyte. The prolonging sputter time up to 500 s also indicates the thickness of the generated SEI layer is pretty thick, which causes larger polarization resistance. In the 3D reconstruction (Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4G</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S22A</xref>, Supporting Information), although LiF component seems quite abundant, the obvious crack of Li deposition is found without any well distribution. However, for the system of NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li, the decomposition fragment signals are decreased after 10 s, suggesting a thin SEI layer; which is also confirmed by 3D and 2D mappings, as evidenced by the thin layer of LiF on top surface with strong intensity and uniform deposition of Li on the bottom (Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4G</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S22B</xref>, Supporting Information). At the same time, XPS analysis was performed after the initial deposition or 50 cycles of the NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li electrode. Owing to the pre&#x02010;deposition of 5 mAh cm<sup>&#x02212;2</sup> (with very limited Li capacity) on substrates such as Cu or MOF/Cu in advance, all Li anodes before cycling already have established the SEI via electrochemical method, which is very different from commercial fresh Li plate. The presence of NH<sub>2</sub> groups was confirmed by the N 1s and C 1s spectra in the XPS test results (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S23A</xref>, Supporting Information), and the results were almost consistent with those before cycling (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S23B</xref>, Supporting Information), which means the chemical groups of &#x02500;NH<sub>2</sub> are stable during plating/stripping process. With the modulation of NH<sub>2</sub>&#x02010;MIL&#x02010;125 on the Cu without any pre&#x02010;plating Li (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S23C</xref>, Supporting Information), more inorganic lithium&#x02010;salt components such as LiF and Li<sub>3</sub>N are formed than that in the other systems, which can be explained by the TFSI<sup>&#x02212;</sup> trapping and concentrating effect of the modulation layer.</p><p>From above electrochemical and spectroscopical analysis, the MOF layer with functional group of &#x02500;NH<sub>2</sub> is designed to fasten Li<sup>+</sup> desolvation process via the properly regulated interaction between &#x02500;NH<sub>2</sub> and Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup>, and the desolvation mechanism can be interpreted in Figure&#x000a0;<xref rid="adma202411601-fig-0004" ref-type="fig">4H</xref> and Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S24</xref> (Supporting Information): 1) The electron&#x02010;donor nature of &#x02010;NH<sub>2</sub> provides the lone&#x02010;pair electrons to capture the solvated Li<sup>+</sup>; 2) Consistent with the simulations, the &#x02010;NH<sub>2</sub> polar sites participate in the electronic density redistribution over the whole MOF skeleton by forming <italic toggle="yes">p&#x02010;</italic>&#x02013;<italic toggle="yes">&#x003c0;</italic> conjugation between the &#x02500;NH<sub>2</sub> group and the benzene ring, realizing electron delocalization and generating more possible sites for Li<sup>+</sup> to reside temporally and diffuse to the nearby sites smoothly; 3) The formation of hydrogen bond between the &#x02500;NH<sub>2</sub> group and the solvent molecule may play a synergic role for the dissociation of Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup>; 4) Both the chemical adsorbing interaction and physical pore sieving interaction of NH<sub>2</sub>&#x02010;MIL&#x02010;125 help to dissociate the Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup> complex rapidly in the system; 5) The generated isolated Li<sup>+</sup> flux is also sieved by the pores of MOFs to uniformize the local distribution for smooth plating. Above all, the smooth plating behaviors should be attributed to the fast desolvation kinetics enabled by the interactions between &#x02500;NH<sub>2</sub> polar sites and Li(solvents)<italic toggle="yes">
+<sub>x</sub>
+</italic>
+<sup>+</sup> together with uniform ion flux.</p><p>The superior transport kinetics propelled by NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li are also evaluated in full cells employed with NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li with 5 mAh cm<sup>&#x02212;2</sup> as the anode. The Li&#x02010;LFP full cell based on NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li exhibits a lower charge&#x02010;transfer resistance (18.9 &#x003a9;) compared to that of bare Cu@Li (56.2 &#x003a9;) (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S25</xref>, Supporting Information), and the corresponding full cell delivers robust rate capability with a low negative/positive (N/P) ratio of 3.3 (<bold>Figure</bold>&#x000a0;<xref rid="adma202411601-fig-0005" ref-type="fig">
+<bold>5</bold>A</xref>). The related voltage/capacity profiles in Figure&#x000a0;<xref rid="adma202411601-fig-0005" ref-type="fig">5B,C</xref> well demonstrate the fast Li<sup>+</sup> diffusion kinetics in NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li system, as revealed by the high capacity&#x02010;retention of 68.9% and 52.2% at 1 and 2 C (in relation to the capacity of 183 mAh g<sup>&#x02212;1</sup> at 0.1 C), respectively, which are much higher than one in bare Cu@Li system (56.3% and 33.9%). For the long&#x02010;term cycling in Figure&#x000a0;<xref rid="adma202411601-fig-0005" ref-type="fig">5D</xref>, the cell based on NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li behaves outstandingly stable in both capacity and CE under 1 C and it stabilized 139 mAh g<sup>&#x02212;1</sup> with high CE of 99.8% after 200 cycles, corresponding to the capacity retention of 87.4%, better than state&#x02010;of&#x02010;the&#x02010;art electrode reports (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S26</xref>, Supporting Information). However, one can observe that the full cell based on bare Cu@Li decreased to 49&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> along with the fluctuated CEs after 120 cycles. Further, in comparison to the significant fragments and a considerable amount of randomly oriented Li dendrites on bare Cu@Li surface (Figure&#x000a0;<xref rid="adma202411601-fig-0005" ref-type="fig">5E</xref>), a dense and uniform Li metal surface can be observed in NH<sub>2</sub>&#x02010;MIL&#x02010;125 system, highlighting the effectiveness of the NH<sub>2</sub>&#x02010;MIL&#x02010;125 in promoting desolvation and atom diffusion (Figure&#x000a0;<xref rid="adma202411601-fig-0005" ref-type="fig">5F</xref>; Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S27</xref>, Supporting Information). As known, the electrochemical behaviors of Li&#x02010;LFP cells under low&#x02010;temperature surroundings are still challenging at high charging/discharging rate. The cell based on NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li was assessed under 0 &#x000b0;C. As shown in Figure&#x000a0;<xref rid="adma202411601-fig-0005" ref-type="fig">5G</xref>, this cell with a low N/P ratio of 3.3 can stabilize up to 300 cycles with a high CE of 98.7% at 0.5 C, and it could keep the capacity retention of 90.5% after 300 cycles, much better than MIL&#x02010;125/Cu@Li, well suggesting the great potential of NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li anode for practical low&#x02010;temperature application. Afterward, under 0 &#x000b0;C, in comparison to the severe Li dendrites and cracks on the MIL&#x02010;125/Cu@Li surface (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S28A</xref>, Supporting Information) in the full cell, a smooth and dense Li&#x02010;metal surface highlights the effectiveness of the &#x02500;NH<sub>2</sub> in promoting desolvation and atom diffusion (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S28B</xref>, Supporting Information) in the full cell. These results demonstrate the effect of NH<sub>2</sub>&#x02010;MIL&#x02010;125 in inhibiting lithium dendrites and dead lithium at both room temperature and low temperature. An overview of the state&#x02010;of&#x02010;the&#x02010;art LiFePO<sub>4</sub>&#x02010;based LMBs highlights the superiority of NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li electrode in the low temperature environment, which is considerably competitive with these previously reported electrolyte engineering (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S29</xref>, Supporting Information). Under low temperatures of &#x02212;20 &#x000b0;C, with the fastened sieving effect of NH<sub>2</sub>&#x02010;MIL&#x02010;125, both Li&#x02010;NCM811 full cells exhibit high performance and electrochemical stability at 0.1, 0.2, and 0.33 C, respectively (Figure&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S30</xref>, Supporting Information). As exhibited, the full cell based on NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li exhibited the initial capacity of 159 mAh g<sup>&#x02212;1</sup> at 0.1 C. Even enhancing the current rate to 0.2 and 0.33 C, the full cell with NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li remained the capacity retention of 98.0% or 97.0% after 90 or 130 cycles, respectively, which is much superior to the bare Cu@Li ones. Compared with recent reports of low&#x02010;temperature batteries in Table&#x000a0;<xref rid="adma202411601-supinfo-0001" ref-type="">S3</xref> (Supporting Information), we are delighted to find our results are among the top ones and better than most ones when considering the less N/P ratio.</p><fig position="float" fig-type="Figure" id="adma202411601-fig-0005"><label>Figure 5</label><caption><p>Comparisons of A) rate performance and B,C) corresponding voltage profiles of the two full cells with bare Cu@Li and NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li electrodes under N/P ratio of &#x02248;3.3. D) Cycling performance of full cells at 1 C (1 C = 170 mA g<sup>&#x02212;1</sup>). High&#x02010;resolution SEM images of E) bare Cu@Li and F) NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li in the cycled full battery. G) Cyclic performance of the full cells with MIL&#x02010;125/Cu@Li and NH<sub>2</sub>&#x02010;MIL&#x02010;125/Cu@Li electrodes at 0.5 C under a low&#x02010;temperature environment of 0&#x000a0;&#x000b0;C.</p></caption><graphic xlink:href="ADMA-37-2411601-g006" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="adma202411601-sec-0030"><label>3</label><title>Conclusion</title><p>In summary, with the synergistically sieving effect of polar &#x02500;NH<sub>2</sub> groups on MOF modified Cu current collector, a strategy of delocalizing electrons with generating more active sites to regulate Li behaviors of Li<sup>+</sup> desolvation and Li atom diffusion process has been achieved. Comprehensive simulations and in situ/ex situ characterizations reveal the diffusion and desolvation kinetics is not merely relied on pore size morphology but also affected by the polar sites on MOFs. Specifically, the critical roles of &#x02500;NH<sub>2</sub> polar groups in expelling solvent molecules from Li<sup>+</sup> to reduce the desolvation energy barrier and in injecting electrons to anions for interphase formation under room and low&#x02010;temperature conditions are revealed. Consequently, the optimized cells can last for 2000 h and high CEs without any dendrite formation, which is four&#x02010;fold extended lifespan of bare Cu system. Impressively, under the lower N/P ratio of 3.3, the full cell with NH<sub>2</sub>&#x02010;MIL&#x02010;125 displays a high capacity&#x02010;retention of 90.5% for 300 cycles under 0&#x000a0;&#x000b0;C. Even under &#x02212;20 &#x000b0;C, the as&#x02010;fabricated Li&#x02010;NCM811 can stabilize for 130 cycles with the capacity&#x02010;retention of 97% at 0.33 C, indicating its great potential in future application. This facile strategy can be extended to other metal battery systems by tailoring the molecular structures to boost the interfacial diffusion kinetics.</p></sec><sec sec-type="COI-statement" id="adma202411601-sec-0050"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="adma202411601-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="adma202411601-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADMA-37-2411601-s001.docx"/></supplementary-material></sec></body><back><ack id="adma202411601-sec-0040"><title>Acknowledgements</title><p>F.Z. and J.W. contributed equally to this work. The financial support from the National Natural Science Foundation of China (22379160; 22075313; 22279161; 22309144), the National Key R&#x00026;D Program (2021YFA1201503), the Natural Science Foundation of Jiangsu Province (BK. 20210130), the Guangdong Basic and Applied Basic Research Foundation (2022A1515140165), the Jiangxi Double Thousand Talent Program (JXSQ2019101072) and the Opening funding from Key Laboratory of Engineering Dielectrics and Its Application (Harbin University of Science and Technology) (No. KFM202507, Ministry of Education) are acknowledged. J.W. also acknowledges the financial support by the Alexander von Humboldt Foundation. The authors also thank the support from Nano&#x02010;X, Suzhou Institute of Nano&#x02010;tech and Nano&#x02010;bionic, Chinese Academy of Sciences.</p><p>Open access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="adma202411601-sec-0070"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="adma202411601-bibl-0001"><ref id="adma202411601-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="adma202411601-cit-0001">a) <string-name>
+<given-names>Z.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Joule</source>
+<year>2020</year>, <volume>4</volume>, <fpage>1776</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0002">b) <string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2022</year>, <volume>16</volume>, <elocation-id>16898</elocation-id>;<pub-id pub-id-type="pmid">36169299</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0003">c) <string-name>
+<given-names>A.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Mushtaq</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2024</year>, <volume>9</volume>, <fpage>2545</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0004">d) <string-name>
+<given-names>Q.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2024</year>, <volume>17</volume>, <fpage>3765</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0005">e) <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>9377</fpage>.</mixed-citation></ref><ref id="adma202411601-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="adma202411601-cit-0006">a) <string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Mushtaq</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2024</year>, <volume>24</volume>, <fpage>5714</fpage>;<pub-id pub-id-type="pmid">38695488</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0007">b) <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Mushtaq</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2023</year>, <volume>63</volume>, <elocation-id>102961</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="adma202411601-cit-0008">a) <string-name>
+<given-names>Z.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>1510</fpage>;<pub-id pub-id-type="pmid">35314688</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0009">b) <string-name>
+<given-names>S.</given-names>
+<surname>Sanjuna</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Pengyu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gaojin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zachary</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yifan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zheyuan</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Prayag</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shuo</surname>
+</string-name>, <string-name>
+<given-names>P. B.</given-names>
+<surname>Shefford</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Rong</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Lynden</surname>
+</string-name>, <source>Matter</source>
+<year>2021</year>, <volume>4</volume>, <fpage>3753</fpage>.</mixed-citation></ref><ref id="adma202411601-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="adma202411601-cit-0010">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Adenusi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Passerini</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2302828</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="adma202411601-cit-0011">a) <string-name>
+<given-names>C. B.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B. Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2022</year>, <volume>35</volume>, <elocation-id>2208340</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0012">b) <string-name>
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2022</year>, <volume>34</volume>, <elocation-id>2107899</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="adma202411601-cit-0013">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2020</year>, <volume>13</volume>, <fpage>4122</fpage>.</mixed-citation></ref><ref id="adma202411601-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="adma202411601-cit-0014">
+<string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Chem.Eng. J.</source>
+<year>2022</year>, <volume>434</volume>, <elocation-id>134647</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="adma202411601-cit-0015">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2022</year>, <volume>34</volume>, <elocation-id>2201339</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="adma202411601-cit-0016">a) <string-name>
+<given-names>G.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2022</year>, <volume>32</volume>, <elocation-id>2207969</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0017">b) <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2023</year>, <volume>33</volume>, <elocation-id>2212499</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="adma202411601-cit-0018">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2000772</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="adma202411601-cit-0019">a) <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Si</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2023</year>, <volume>135</volume>, <elocation-id>202312193</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0020">b) <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>You</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Hao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2022</year>, <volume>9</volume>, <elocation-id>2202244</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="adma202411601-cit-0021">a) <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2022</year>, <volume>22</volume>, <fpage>8008</fpage>;<pub-id pub-id-type="pmid">36018258</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0022">b) <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2021</year>, <volume>21</volume>, <fpage>3245</fpage>;<pub-id pub-id-type="pmid">33725455</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0023">c) <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>28</volume>, <fpage>375</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0024">d) <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>You</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Passerini</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <elocation-id>2402792</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0025">e) <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <elocation-id>12727</elocation-id>.<pub-id pub-id-type="pmid">32090546</pub-id>
+</mixed-citation></ref><ref id="adma202411601-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="adma202411601-cit-0026">a) <string-name>
+<given-names>H.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huyan</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2023</year>, <volume>23</volume>, <fpage>1726</fpage>;<pub-id pub-id-type="pmid">36794942</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0027">b) <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Deng</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>134</volume>, <elocation-id>202116291</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="adma202411601-cit-0028">a) <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhu</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2022</year>, <volume>7</volume>, <fpage>885</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0029">b) <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <elocation-id>1901820</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0030">c) <string-name>
+<given-names>Y.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2203912</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0031">d) <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2023</year>, <volume>23</volume>, <fpage>5061</fpage>.<pub-id pub-id-type="pmid">37212508</pub-id>
+</mixed-citation></ref><ref id="adma202411601-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="adma202411601-cit-0032">a) <string-name>
+<given-names>T.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>134</volume>, <elocation-id>202207927</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202411601-cit-0033">b) <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T. P.</given-names>
+<surname>Pollard</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nature</source>
+<year>2023</year>, <volume>614</volume>, <fpage>694</fpage>.<pub-id pub-id-type="pmid">36755091</pub-id>
+</mixed-citation></ref><ref id="adma202411601-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="adma202411601-cit-0034">
+<string-name>
+<given-names>X.&#x02010;X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;H.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;L.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;C.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;J.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2023</year>, <volume>145</volume>, <fpage>5718</fpage>.<pub-id pub-id-type="pmid">36880105</pub-id>
+</mixed-citation></ref><ref id="adma202411601-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="adma202411601-cit-0035">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Hao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ke</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2102938</elocation-id>.</mixed-citation></ref><ref id="adma202411601-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="adma202411601-cit-0036">
+<string-name>
+<given-names>J.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2201181</elocation-id>.</mixed-citation></ref></ref-list></back></article>

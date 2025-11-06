@@ -1,0 +1,666 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11009921</article-id><article-id pub-id-type="pmid">38557067</article-id>
+<article-id pub-id-type="doi">10.1021/acsami.3c17559</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Mechanistic
+Study
+on Artificial Stabilization of Lithium
+Metal Anode via Thermal Pyrolysis of Ammonium Fluoride in Lithium
+Metal Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8550-4835</contrib-id><name><surname>Taklu</surname><given-names>Bereket
+Woldegbreal</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1494-2675</contrib-id><name><surname>Su</surname><given-names>Wei-Nien</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Chiou</surname><given-names>Jeng-Chian</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Chang</surname><given-names>Chia-Yu</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2929-3965</contrib-id><name><surname>Nikodimos</surname><given-names>Yosef</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Lakshmanan</surname><given-names>Keseven</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9316-8811</contrib-id><name><surname>Hagos</surname><given-names>Teklay Mezgebe</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Serbessa</surname><given-names>Gashahun Gobena</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Desta</surname><given-names>Gidey Bahre</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath10"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7626-7102</contrib-id><name><surname>Tekaligne</surname><given-names>Teshager Mekonnen</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Ahmed</surname><given-names>Shadab Ali</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Yang</surname><given-names>Sheng-Chiang</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath13"><name><surname>Wu</surname><given-names>She-Huang</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath14"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3873-2149</contrib-id><name><surname>Hwang</surname><given-names>Bing Joe</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Nano-Electrochemistry
+Laboratory, Graduate Institute of Applied Science and Technology, <institution>National Taiwan University of Science and Technology</institution>, Taipei 106, <country>Taiwan</country></aff><aff id="aff2"><label>&#x02021;</label>Nano-Electrochemistry
+Laboratory, Department of Chemical Engineering, <institution>National Taiwan University of Science and Technology</institution>, Taipei 106, <country>Taiwan</country></aff><aff id="aff3"><label>&#x000a7;</label>Sustainable
+Electrochemical Energy Development (SEED) Center, <institution>National Taiwan University of Science and Technology</institution>, Taipei 106, <country>Taiwan</country></aff><aff id="aff4"><label>&#x02225;</label>Battery
+Research Center of Green Energy, <institution>Ming-Chi
+University of Technology</institution>, New Taipei
+City 24301, <country>Taiwan</country></aff><aff id="aff5"><label>&#x022a5;</label><institution>National
+Synchrotron Radiation Research Center (NSRRC)</institution>, Hsin-Chu 30076, <country>Taiwan</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>wsu@mail.ntust.edu.tw</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>bjh@mail.ntust.edu.tw</email>.</corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>04</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>10</day><month>04</month><year>2024</year></pub-date><volume>16</volume><issue>14</issue><fpage>17422</fpage><lpage>17431</lpage><history><date date-type="received"><day>22</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>17</day><month>03</month><year>2024</year></date><date date-type="rev-recd"><day>15</day><month>03</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0009" id="ab-tgr1"/></p><p>The
+use of the &#x0201c;Holy Grail&#x0201d; lithium metal
+anode is
+pivotal to achieve superior energy density. However, the practice
+of a lithium metal anode faces practical challenges due to the thermodynamic
+instability of lithium metal and dendrite growth. Herein, an artificial
+stabilization of lithium metal was carried out via the thermal pyrolysis
+of the NH<sub>4</sub>F salt, which generates HF(g) and NH<sub>3</sub>(g). An exposure of lithium metal to the generated gas induces a
+spontaneous reaction that forms multiple solid electrolyte interface
+(SEI) components, such as LiF, Li<sub>3</sub>N, Li<sub>2</sub>NH,
+LiNH<sub>2</sub>, and LiH, from a single salt. The artificially multilayered
+protection on lithium metal (AF-Li) sustains stable lithium stripping/plating.
+It suppresses the Li dendrite under the Li||Li symmetric cell. The
+half-cell Li||Cu and Li||MCMB systems depicted the attributions of
+the protective layer. We demonstrate that the desirable protective
+layer in AF-Li exhibited remarkable capacity retention (CR) results.
+LiFePO<sub>4</sub> (LFP) showed a CR of 90.6% at 0.5 mA cm<sup>&#x02013;2</sup> after 280 cycles, and LiNi<sub>0.5</sub>Mn<sub>0.3</sub>Co<sub>0.2</sub>O<sub>2</sub> (NCM523) showed 58.7% at 3 mA cm<sup>&#x02013;2</sup> after 410 cycles. Formulating the multilayered protection, with
+the simultaneous formation of multiple SEI components in a facile
+and cost-effective approach from NH<sub>4</sub>F as a single salt,
+made the system competent.</p></abstract><kwd-group><kwd>gas treatment</kwd><kwd>multiple SEI formation</kwd><kwd>thermal
+pyrolysis</kwd><kwd>multilayered protection</kwd><kwd>cost</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Academia Sinica</institution><institution-id institution-id-type="doi">10.13039/501100001869</institution-id></institution-wrap></funding-source><award-id>AS-KPQ-106-DDPP</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministry of Education, Taiwan</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>SEED</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministry of Education, Taiwan</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>1080059</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2923-E-011-005-</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2923-E-011-004-MY3</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2923-E-011-001</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2639-E-011-001-ASP</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>111-3116-F-011-006</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>111-3116-F-011-004</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am3c17559</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am3c17559</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>The
+pioneer commercialized
+Li-ion batteries allowed for the noteworthy
+advancement of the electric device market and was honored with the
+Noble Chemistry Prize in 2019.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The intercalation&#x02013;deintercalation
+in graphite anodes is attributed to its high reversibility, though
+it has a low energy density of 372 mAh g<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Using lithium metal anode with the highest theoretical capacity
+(3860 mAh g<sup>&#x02013;1</sup>) and low electrochemical potential
+(&#x02212;3.04 versus the standard hydrogen electrode) is an ultimate
+choice to develop higher energy density rechargeable batteries.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> However, the lithium metal anode has an intrinsic issue related
+to unfavorable dendrite growth, safety, internal short-circuiting,
+and electrode&#x02013;electrolyte reactions during operation, which
+hinders the practical use of lithium metal batteries. Its reactivity
+drives the electrochemical decomposition of organic liquid electrolytes.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> The solid electrolyte interface (SEI) formation
+at Li metal anodes is uncontrolled and prone to crack accompanied
+by volume expansion.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> To mitigate parasitic reactions and monitor the lithium flux, a
+promising strategy of electrolyte additive<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> including alloy formation<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> is employed
+to stabilize deposited lithium.<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> The most effective approach is artificially stabilizing the lithium
+metal anode via gas treatment. Vaporization of iodine on lithium metal
+to form LiI<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> and even on solid electrolytes
+as an additive suggests an effective way to stabilize lithium metal.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> Other practical approaches include direct N<sub>2</sub>(g) and SO<sub>2</sub>(g) gas treatment of lithium metal and directly on liquid
+electrolyte, which induces uniformity and stabilizes electrochemical
+Li plating/stripping attributed to Li<sub>3</sub>N<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> and inorganic Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub> formation,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> respectively. Vaporized sulfur was also employed
+to create an artificial Li<sub>2</sub>S layer as a major SEI component
+with high uniformity and ionic conductivity.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Freon R-134a (1,1,1,2-tetrafluoromethane) as a gas phase reagent
+is also used to generate lithium fluoride (LiF) upon reaction with
+lithium metal and effectively mitigates parasitic reactions.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup></p><p>Herein, we present the artificial passivation
+of lithium metal
+via the thermal pyrolysis of ammonium fluoride (NH<sub>4</sub>F) as
+a single salt to generate multiple SEI components. To the best of
+our knowledge, this approach presents the formulation of artificial
+multilayered protection to form multiple SEI components simultaneously
+in a facile and cost-effective way. NH<sub>4</sub>F is an ionic compound
+only soluble in polar solvents and is rarely used for lithium metal
+batteries. The protective layer on the lithium metal anode mitigates
+dendrite growth, polarization, and drastic drops in Coulombic efficiency
+(CE) under aggressive carbonate electrolyte (1 M LiPF<sub>6</sub> EC/DEC
+(1:1 v/v)). The superior electrochemical performance was achieved
+under the AF-Li||NCM and AF-Li||LFP systems. Advanced characterization
+tools such as X-ray diffraction (XRD), Raman spectroscopy, and depth
+profile X-ray photoelectron spectroscopy (depth-XPS) analysis were
+employed for comprehensive analysis of the composition of different
+horizons of the multilayered artificial protective layer.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Preparation
+of Materials and Characterization</title><p>The thermal pyrolysis of
+NH<sub>4</sub>F (99.99% Sigma Aldrich)
+was performed at 180 &#x000b0;C under a sealed container for 2 h, as
+shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S1</ext-link>. The pretreated fresh
+lithium foil, exposed to generated gas to obtain treated lithium metal
+was then characterized by XRD, Raman spectroscopy, scanning electron
+microscopy (SEM), energy-dispersive spectroscopy, and X-ray photoelectron
+spectroscopy (XPS). A commercial electrolyte, 1 M LiPF<sub>6</sub> in an ethylene carbonate/diethyl carbonate (EC/DEC 1:1 v/v) solution,
+was received from Sigma-Aldrich. The cathode materials used were LiFePO<sub>4</sub> (LFP, &#x0223c;2 mAh cm<sup>&#x02013;2</sup>), LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> (NCM111, &#x0223c;2
+mAh cm<sup>&#x02013;2</sup>), and LiNi<sub>0.5</sub>Mn<sub>0.3</sub>Co<sub>0.2</sub>O<sub>2</sub> (NCM523, &#x0223c;2 mAh cm<sup>&#x02013;2</sup>), supplied by Advanced Lithium Electrochemistry Co., Ltd. (Aleees),
+Taiwan. The cathode NCM523 and LFP were coated on Al-foil and mesocarbon
+microbeads (MCMB) on Cu substrate coated on both sides. The active
+material on one side was then removed via N-methyl-2-pyrrolidone (NMP,
+99%, Aldrich) solvent and punched into a disc (&#x003c6; = 13 mm, cathode)
+and (&#x003c6; = 16 mm, MCMB). The discs were then vacuum-dried at 80
+&#x000b0;C overnight, transferred, and processed in an argon-filled glovebox
+(H<sub>2</sub>O &#x0003c; 0.1 and O<sub>2</sub> &#x0003c; 0.1).</p></sec><sec id="sec2.2"><label>2.2</label><title>Battery Assembly and Electrochemical Measurements</title><p>Cell
+configurations of Li||Li, Li||Cu, Li||MCMB, Li||LFP, Li||NCM111,
+and Li||NCM523 were used to evaluate the effect of the protective
+layer on lithium metal in terms of the electrochemical performance
+of the battery. Bare lithium (B-Li) and artificially protected lithium
+(AF-Li) metal (&#x003c6; = 16 mm) were used as the anode. A 70-&#x003bc;L
+commercial carbonate electrolyte of 1 M LiPF<sub>6</sub>-EC/DEC (1:1
+v/v) was used. Celgard 2325 (&#x003c6; = 19 mm) was used as the separator.
+AC impedance coupled with cyclic voltammetric (CV) measurement was
+recorded on a Biologic SAS. Electrochemical impedance spectroscopy
+(EIS) measurements were conducted within a frequency range of 1&#x02013;10
+mHz under a voltage amplitude of 10 mV.</p></sec><sec id="sec2.3"><label>2.3</label><title>Computational
+Estimation of Formation Energy
+(&#x00394;<italic>E</italic><sub>f</sub>)</title><p>DFT-D3 calculations
+were employed to support the proposed reaction mechanism and determine
+the formation energy for reaction energies for each species participating
+in the reactions.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> The computation with D3 correction
+was performed for energy calculations on the optimized minimum energy
+structure, initially obtained without correction.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Subsequently, the energy change (&#x00394;<italic>E</italic>) of the reaction was evaluated by employing a general formula.<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_m001" position="anchor"/></disp-formula></p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Reaction Mechanism and
+Compositional Analysis</title><p>A promising artificial protective
+layer via the gas treatment of
+lithium metal from thermal pyrolysis of NH<sub>4</sub>F was undertaken
+in an in-house sealed container, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S1</ext-link>. Solid NH<sub>4</sub>F, upon heating (180 &#x000b0;C, 2 h),
+transformed into a liquid phase with the formation of gaseous species
+as indicated in <xref rid="eq1" ref-type="disp-formula">reaction <xref rid="eq1" ref-type="disp-formula">1</xref></xref><disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_m002" position="anchor"/><label>1</label></disp-formula></p><p>The polished and rolled
+lithium metal was then exposed to generated gas, HF(g) and NH<sub>3</sub>(g), for 2 h to obtain treated lithium metal. The scheme in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> demonstrates the
+formation of the passivation layer over exposure to NH<sub>3</sub> and HF gas. The formed artificial SEI avoids electrolyte decomposition,
+corrosion, and dead lithium metal formations. Interestingly, we proposed
+a mechanism for the formation of LiF(s), Li<sub>3</sub>N(s), and LiH(s)
+upon reaction with lithium metal. The material characterization via
+XRD and Raman measurement of the treated lithium metal surface indicates
+the formation of other species, such as LiNH<sub>2</sub> and Li<sub>2</sub>NH.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Schematic illustration for the formation of an artificial multilayered
+protection via gas treatment and its effect on lithium plating.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0001" id="gr1" position="float"/></fig><p>The proposed reaction mechanism using DFT-D3 calculations,
+where
+&#x00394;<italic>E</italic><sub>f</sub> = +ve (positive value) implies
+unfavorable reaction, while &#x00394;<italic>E</italic><sub>f</sub> =
+&#x02212;ve (negative value) indicates the highly thermodynamically
+relevant reaction. The detailed stepwise reaction mechanism in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, from (2) to (8)
+outlines the formation energy (&#x00394;E<sub>f</sub>), encompassing
+reactions involving HF(g) and NH<sub>3</sub>(g) with the freshly exposed
+lithium metal surface.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Stepwise Chemical
+Reaction and Formation
+Energy for Each Reaction</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="left"/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">stepwise reactions</th><th style="border:none;" align="center" char=".">&#x00394;<italic>E</italic><sub>f</sub> (kJ mol<sup>&#x02013;1</sup>)</th><th style="border:none;" align="center">stepwise reactions</th><th style="border:none;" align="center" char=".">&#x00394;<italic>E</italic><sub>f</sub> (kJ mol<sup>&#x02013;1</sup>)</th></tr></thead><tbody><tr><td style="border:none;" align="left">2NH<sub>3</sub>(g)+ 6Li &#x02192; 2Li<sub>3</sub>N(s) + 3H<sub>2</sub> (g)..................(2)</td><td style="border:none;" align="char" char=".">&#x02013;10.64</td><td style="border:none;" align="left">Li<sub>2</sub>NH(s) + H<sub>2</sub>(g) &#x02194; LiNH<sub>2</sub>(s)+ LiH(s) ............(6)</td><td style="border:none;" align="char" char=".">2.04</td></tr><tr><td style="border:none;" align="left">HF(g) + Li &#x02192; LiF(s) + H<sub>2</sub>(g) ..............................(3)</td><td style="border:none;" align="char" char=".">&#x02013;25.30</td><td style="border:none;" align="left">2LiNH<sub>2</sub>(s) &#x02192; Li<sub>2</sub>NH (s) + NH<sub>3</sub>(g).....................(7)</td><td style="border:none;" align="char" char=".">&#x02013;0.50</td></tr><tr><td style="border:none;" align="left">H<sub>2</sub>(g) + 2Li &#x02192; 2 LiH(s) ........................................(4)</td><td style="border:none;" align="char" char=".">&#x02013;20.45</td><td style="border:none;" align="left">NH<sub>3</sub>(g) + LiH(s)&#x02192;LiNH<sub>2</sub>(s)+ H<sub>2</sub>(g)................(8)</td><td style="border:none;" align="char" char=".">&#x02013;22.22</td></tr><tr><td style="border:none;" align="left">Li<sub>3</sub>N(s) + 2H<sub>2</sub> (g)&#x02192;
+Li<sub>2</sub>NH(s) + LiH(s) .............(5)</td><td style="border:none;" align="char" char=".">&#x02013;5.18</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr></tbody></table></table-wrap><p>The reactions indicated in (2) and (3) result in Li<sub>3</sub>N(s) and LiF(s) formation. The computed formation energy,
+&#x00394;<italic>E</italic><sub>f</sub> (in kJ mol<sup>&#x02013;1</sup>), indicates
+thermodynamic favorability. LiF(s) product formed from the reaction
+with a formation energy of &#x00394;<italic>E</italic><sub>f</sub> =
+&#x02212;25.30 kJ mol<sup>&#x02013;1</sup>, thermodynamically more favorable
+than Li<sub>3</sub>N formation (&#x00394;<italic>E</italic><sub>f</sub> = &#x02212;10.64 kJ mol<sup>&#x02013;1</sup>). However, still the
+formation of Li<sub>3</sub>N is also a dominating reaction which is
+also confirmed with the formation of brown coloration on the lithium
+metal surface upon the reaction, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S2</ext-link>. A recent report on the use of nitrogen gas, N<sub>2</sub>(g), in an argon atmosphere (10% v/v) upon exposure to lithium metal
+showed the formation of Li<sub>3</sub>N (brown color) on the lithium
+surface.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> The reaction byproduct, hydrogen
+gas, H<sub>2</sub>(g), generated from reaction (2) and reaction (3)
+then further reacts with lithium metal to form LiH(s) as indicated
+in reaction (4) with formation energy of &#x00394;<italic>E</italic><sub>f</sub> = &#x02212;20.45 kJ mol<sup>&#x02013;1</sup>. The presence
+of excess H<sub>2</sub>(g) and NH<sub>3</sub>(g) in the system initiates
+stepwise transformation to monohydrogenation, Li<sub>2</sub>NH with
+formation energy, &#x00394;<italic>E</italic><sub>f</sub> of &#x02212;5.18
+kJ mol<sup>&#x02013;1</sup>, and dissociation reaction (&#x00394;<italic>E</italic><sub>f</sub> = &#x02212;0.50 kJ mol<sup>&#x02013;1</sup>)
+from LiNH<sub>2</sub>(s) in reaction (5) and (7) respectively. However,
+the formed Li<sub>2</sub>NH is thermodynamically stable with a positive
+formation energy, &#x00394;<italic>E</italic><sub>f</sub> = 2.04 kJ
+mol<sup>&#x02013;1</sup>. The dihydrogenation product, LiNH<sub>2</sub> with high formation energy, &#x00394;<italic>E</italic><sub>f</sub>, of &#x02212;22.22 kJ mol<sup>&#x02013;1</sup> was formed between
+NH<sub>3</sub> and LiH as indicated in the stepwise reaction (8).<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> The formed LiH(s) from reactions (4) and (5) were subsequently consumed
+during the progress of the reaction, as seen in reaction (8).<sup><xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> To elucidate the formed species, XRD was undertaken via an airtight
+XRD sample holder on the lithium metal surface. The simultaneous formation
+of Li<sub>2</sub>NH(s) and LiNH<sub>2</sub>(s) with varied peak intensities
+was identified. Principal peaks at around 17.5&#x000b0;, 30.8&#x000b0;,
+and 36.3&#x000b0; 2&#x003b8; angles belong to detected LiNH<sub>2</sub>. The peak with a relative intensity associated with Li<sub>2</sub>NH formation appeared at 35.9&#x000b0; 2&#x003b8; angle, which is dominated
+by LiNH<sub>2</sub>, as indicated in reactions (5) and (8).<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref37">37</xref>&#x02212;<xref ref-type="bibr" rid="ref39">39</xref></sup> In addition,
+a characteristic peak at around 65.5&#x000b0; 2&#x003b8; belonging to LiF
+formation was also detected. It is observed that the formed LiH has
+insignificant intensity at 44.3&#x000b0; 2&#x003b8; angle as a result of
+subsequent reaction as shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,b I&#x02013;IV. The formed LiH acts as an intermediate
+species formed and consumed by the progress of the reaction rather
+than being a principal product. Similarly, the less intense peak was
+identified at around 32.6&#x000b0; and 50.8&#x000b0; 2&#x003b8; angle belongs
+to &#x003b1;-Li<sub>3</sub>N formation mainly related to subsequent
+consumption and transformation to Li<sub>2</sub>NH as indicated from
+reaction (5). Raman spectra and Raman mapping were carried out to
+confirm further the species formed for lithium AF-Li, as indicated
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c. The principal
+peak correspondingto LiNH<sub>2</sub> appeared as a dominant peak
+at around 3265 and 3225 cm<sup>&#x02013;1</sup> on the treated lithium
+metal surface, similar to the reported ball mill-based formation of
+LiNH<sub>2</sub> from Li<sub>3</sub>N and LiH.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> These peaks were not detected in bare lithium metal, as
+shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S3a</ext-link>. After treatment, the
+Raman mapping also indicates the uniform distribution of the protective
+layer on the lithium metal surface. The cross-sectional SEM image
+and EDX elemental mapping of AF-Li demonstrate the compositional uniformity
+of nitrogen and fluorine on the treated lithium metal surface. In
+addition, the color mapping of the optical image of treated lithium
+metal also shows the extent of coverage of the coating material on
+the lithium metal surface, as indicated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S3b</ext-link> I&#x02013;IV.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Material characterization of treated lithium
+metal, AF-Li, and
+bare lithium metal, B-Li. (a) XRD patterns for AF-Li and B-Li metal
+anode. (b) Insets of XRD plots at different regions as (I), (II),
+(III), and (IV). (c) Raman spectra and mapping of AF-Li metal surfaces.
+(d) SEM images of B-Li; optical image and cross-sectional view of
+AF-Li.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0002" id="gr2" position="float"/></fig><p>To further examine the formed
+artificial SEI components,
+the XPS
+depth profile was measured for Li(1s), F(1s), and N(1s) to scrutinize
+the elemental content and its relative intensity, as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. The signals were
+collected after 30 min etching time interval with the Ar500+ cluster
+ion source. An elemental compositional evolution over the sputtering
+depth was recorded for treated lithium metal, AF-Li. It is indicated
+that LiF, Li<sub>2</sub>NH, and LiNH<sub>2</sub> dominate the outer
+surface of the protective passivation layer due to the continuous
+transformation of intermediate products. The constant exposure to
+reactive gas initiates the transformation of the hydrogenation reaction
+of nitride, Li<sub>3</sub>N, which leads to the formation of amide
+species. However, as the sputtering depth increases, the peak belonging
+to Li<sub>3</sub>N (at 55.45 and 395.2 eV) becomes more evident and
+intense with decreased intensity of LiNH<sub>2</sub> (399.4 eV), as
+indicated in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. Wood et al.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> also presented the hydrogenation
+of Li<sub>3</sub>N, resulting in the formation of a multilayered structure.
+The reacted Li<sub>3</sub>N in the presence of H<sub>2</sub> results
+in Li<sub>2</sub>NH from outside, and conversion of NH<sub>3</sub> into LiNH<sub>2</sub> in the presence of LiH as a shell, which makes
+the more intense spectra both on the XRD and Raman measurement. On
+the other hand, lithium metal&#x02019;s strong exposure to HF results
+in LiF formation. A multilayer structure was formed where Li<sub>2</sub>NH and LiNH<sub>2</sub> envelop Li<sub>3</sub>N due to constant and
+full exposure of Li<sub>3</sub>N to H<sub>2</sub>(g) as well as LiH
+to NH<sub>3</sub>(g) from outside, as indicated in the reactions (5)
+and (8), as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. The peak intensity dominates from outside and decreases
+with sputtering depth, confirming that the lithium metal only reacts
+on the exposed surface.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Compositional evolution of treated lithium metal,
+AF-Li, as a function
+of the sputtering time. (a) Depth profile XPS measurements of AF-Li
+over Li(1s), N(1s), and F(1s) core. (b) Intensity of elemental contents
+as a function of depth thickness for F and N.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0003" id="gr3" position="float"/></fig></sec><sec id="sec3.2"><label>3.2</label><title>Multilayered Lithium Protection and Suppression
+of Lithium Dendrite</title><p>Li||Li symmetric cell was performed using
+a commercial electrolyte, 1 M LiPF<sub>6</sub> EC/DEC EC/DEC (1:1
+v/v), to investigate the effect of the artificial protective layer
+on lithium metal stabilization. A fixed reversible areal capacity
+of 1 mAh cm<sup>&#x02013;2</sup> was used to operate the cell. At 0.5
+mA cm<sup>&#x02013;2</sup> current density, the protected lithium metal
+started at a relatively high voltage of 160 mV in contrast to 100
+mV in bare lithium metal. The resistance originated from a protective
+layer and limited wettability at an early stage attributed for voltage
+increment. Over cycling, the voltage hysteresis in B-Li was increased
+by 10-fold with voltage fluctuations and reached the cutoff limit
+of 1000 mV after 1050 h (525 cycles) caused by continuous electrolyte
+decomposition and impedance growth at the lithium/electrolyte interface.
+However, artificial SEI in AF-Li stabilized the interface. It led
+to the decrease in the voltage to 130 mV after 800 h (400 cycles),
+ascribed to the effective protection of lithium metal. It later increased
+to 330 mV after 1050 h, as indicated in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. Likewise, severe overpotential growth
+and voltage hysteresis were found in B-Li metal from continuous growth
+in internal resistance at 1 mA cm<sup>&#x02013;2</sup> high current
+density. The treated lithium metal AF-Li showed outstanding stability
+over multiple plating/stripping with insignificant polarization. It
+ran for more than 550 h, as depicted in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Electrochemical performance of B-Li (blue) and
+AF-Li (black) under
+symmetric cells in conventional carbonate electrolyte, 1 M LiPF<sub>6</sub> EC/DEC (1:1 v/v). (a) and (b) Symmetric cells operated at
+0.5 and 1 mA cm<sup>&#x02013;2</sup> current density with 1 mAh cm<sup>&#x02013;2</sup> areal capacity. (c) Critical current density (CCD)
+of the test of symmetric cells operated at different current densities
+and its inset operated a fixed areal capacity of 1 mAh cm<sup>&#x02013;2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0004" id="gr4" position="float"/></fig><p>To further elucidate tolerance
+to short circuits
+at high current,
+critical current density (CCD) at 0.2, 0.5, 1, 3, and 5 mA cm<sup>&#x02013;2</sup> was performed under Li||Li symmetric cell. At a lower
+current density, 0.2 mA cm<sup>&#x02013;2</sup> for treated and bare
+lithium metals shows smooth cyclability with lower overpotential,
+as indicated in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c inset from 0 to 100 h. However, as the cycle turns to high current
+density, a noticeable overpotential increment was observed in bare
+lithium metal, mainly related to the corrosion of lithium metal in
+contact with the electrolyte, as depicted in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c; inset from 162 to 170 h. Interestingly,
+at high current density, 5 mA cm<sup>&#x02013;2</sup>, an increase
+in overpotential coupled with abrupt voltage drops was observed as
+an indicator for internal short circuits, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c (inset from 170 to 175 h).
+However, the artificial multilayered protection on the lithium metal
+results in abatement in chemical instability and reduces overpotential
+due to a stable SEI layer on the Li metal electrode.</p><p>To visualize
+the lithium metal reversibility and dead lithium metal
+formation, an operando optical microscopy (operando OM) measurement
+was performed at 3 and 5 mA cm<sup>&#x02013;2</sup> current density
+under a symmetric cell configuration as shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>. At 3 mA cm<sup>&#x02013;2</sup> current density on the plating step, B-Li showed mossy dendritic
+lithium growth compared to AF-Li. However, the dendrite growth is
+more evident at high current density, 5 mA cm<sup>&#x02013;2</sup> in
+both cases, but more violent in the B-Li metal. The dendritic lithium
+in B-Li on the stripping step did not return back, stood as mossy
+lithium, which facilitates the fast short circuit, and also agreed
+with the CCD test in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> inset and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S4a&#x02013;d</ext-link> inset.
+In the AF-Li, the mossy dendritic lithium formed and was then entirely
+stripped with some formed transparent lithium metal from SEI formation.
+The AF-Li metal showed outstanding lithium reversibility even at an
+extremely high current density, 5 mA cm<sup>&#x02013;2</sup>, without
+short circuit formations. The voltage polarizations in AF-Li at 5
+mA cm<sup>&#x02013;2</sup> are mainly related to the mossy lithium
+formation in the plating step, as indicated in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Operando OM observation on plating/stripping
+phenomena in symmetric
+cells operated at 3 and 5 mA cm<sup>&#x02013;2</sup> current density
+for B-Li and AF-Li metal system in 1 M LiPF<sub>6</sub> EC/DEC (1:1
+v/v) electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0005" id="gr5" position="float"/></fig><p>Interestingly, the optimistic
+influence of the
+protective layer
+on lithium metal is also evidenced via a CV study coupled with AC
+impedance measurement, as shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>. To elucidate the alteration in the resistance
+of the Li||Li symmetric cell, fresh state, after the fifth cycle and
+10<sup>th</sup> cycle for both B-Li (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a) and AF-Li (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b), was considered. The impedance in B-Li
+significantly increased by 8.2 times after the fifth cycle; however,
+for AF-Li, the impedance increased by 1.54 times with reference to
+the fresh state, respectively. The oxidative and reductive peak current
+recorded at +95.5 mV and &#x02212;95.5 mV showed an increase to maximum
+peak current and later decrease in the current signal for both to
+5<sup>th</sup> cycle. However, the current signal in B-Li is smaller
+than AF-Li, indicating that the lithium kinetics at AF-Li | electrolyte
+is enhanced compared to B-Li by some factor, as indicated in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c, e. For up to the
+10<sup>th</sup> cycle, at early cycles (6<sup>th</sup> cycle), the
+oxidative and reductive peak current for AF-Li has a relatively high
+current and later becomes almost constant, indicating lithium kinetics
+AF-Li | electrolyte looks uniform and steady. Remarkably, for B-Li,
+the current signal becomes close to zero, also in agreement with the
+impedance growth. The lithium kinetics at the B-Li | electrolyte interface
+is severely affected by the electrolyte decomposition, and the reaction
+with lithium metal anode ultimately leads to the short circuit and
+capacity fading, as indicated in <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>c, <xref rid="fig7" ref-type="fig">7</xref>, and <xref rid="fig8" ref-type="fig">8</xref>.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>AC impedance integrated CV measurements for the symmetric
+cell
+under B-Li metal anode and AF-Li metal anode operated at 0.01 mV
+s<sup>&#x02013;1</sup> scan rate. (a, b) Current&#x02013;voltage curves
+for both B-Li and AF-Li metal and their EIS measurements at different
+cycle numbers. (c, d) Peak current for B-Li and AF-Li at +95.5 mV
+and &#x02212;95.5 mV for oxidative and reductive current. (e) EIS growth
+as a function of cycle number for both B-Li and AF-Li metal.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0006" id="gr6" position="float"/></fig><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Half-cell electrochemical performance of B-Li and AF-Li
+at 0.2
+and 0.5 mA cm<sup>&#x02013;2</sup> current densities. (a) and (b) Voltage
+profile for B-Li and AF-Li metal anode with 1 mAh cm<sup>&#x02013;2</sup> areal capacity operated at 0.5 mA cm<sup>&#x02013;2</sup> current
+density. (c) and (d) are CE and charge capacity of B-Li at 0.5 mA
+cm<sup>&#x02013;2</sup> current density. (e) and (f) are CE of B-Li
+and AF-Li metal anodes at 0.2 mA cm<sup>&#x02013;2</sup> current density.
+(g) CCD test for half cell, x-Li||Cu (x = B or AF) at fixed areal
+capacity 1 mAh cm<sup>&#x02013;2</sup> and (h) its inset in the range
+of 80&#x02013;85.5 h.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0007" id="gr7" position="float"/></fig><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Electrochemical performance
+of the full cell with LFP||x-Li
+(x
+= B or AF) and NCM523||x-Li (x = B or AF) at different operative conditions.
+(a) and (b) are voltage profiles for LFP and NCM523 cathode for AF-Li
+and B-Li metal anode at the 1<sup>st</sup> and 120<sup>th</sup> cycle.
+(c) and (d) are rate capability under the LFP and NCM523 cathode coupled
+with AF-Li and B-Li metal anode. (e) and (f) are the LFP||x-Li (x
+= B or AF) and NCM523||x-Li (x = B or AF) at 0.5 mA cm<sup>&#x02013;2</sup> and 3.0 mA cm<sup>&#x02013;2</sup> current density.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_0008" id="gr8" position="float"/></fig></sec><sec id="sec3.3"><label>3.3</label><title>Half-Cell Electrochemical Performance with
+Cu and MCMB Substrates</title><p>The half-cell Li||Cu and Li||MCMB
+performances were used to examine the impact of the protective layer
+on the lithium metal surface as a function of polarization and CE
+for B-Li and AF-Li metal. The extent of electrolyte decomposition
+toward B-Li and AF-Li via Cu and MCMB as a substrate was considered
+with the use of carbonate electrolyte. The plating/stripping in x-Li||Cu
+(x = B-Li or AF-Li) cells at 0.2 and 0.5 mA cm<sup>&#x02013;2</sup> (capacity 1.0 mAh cm<sup>&#x02013;2</sup>) is indicated in <xref rid="fig7" ref-type="fig">Figures <xref rid="fig7" ref-type="fig">7</xref></xref>a, b, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">S5, and S6</ext-link>. The phenomena of intercalation/deintercalation
+in x-Li||MCMB (x = B-Li or AF-Li) at 1 mA cm<sup>&#x02013;2</sup> (capacity
+4.0 mAh cm<sup>&#x02013;2</sup>) investigated for both B-Li and AF-Li
+are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figures S7, S8, and S10</ext-link>, respectively.
+Despite the CE being reliant on lithium loss on the Cu side, the decomposition
+of electrolytes is mainly linked to the extent of the parasitic reaction
+toward plated lithium metal and the bulk lithium metal anode. At early
+cycles, regardless of the lithium metal anode type used, x-Li||Cu
+cells assembled at 0.5 mA cm<sup>&#x02013;2</sup> using B-Li and AF-Li
+hardly showed a significant variation on initial CE (iCE) of about
+93.85 and 95.18%, respectively. Nevertheless, the electrolyte&#x02019;s
+decomposition during cycling leads to increased resistance due to
+the creation of a resistive SEI at the lithium interface, occurring
+on both the copper and bulk lithium metal substrate. The alteration
+of interface phenomena directly shows from the voltage profile with
+an overpotential growth and leads to incessant fading over cycles,
+as shown in <xref rid="fig7" ref-type="fig">Figures <xref rid="fig7" ref-type="fig">7</xref></xref>a,b and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">S5</ext-link>. In addition, the voltage&#x02013;time
+profile of half-cell B-Li||Cu at a 0.5 mA cm<sup>&#x02013;2</sup> current
+density shows polarization before it reaches 200 h. Nevertheless,
+the treated lithium metal, AF-Li||Cu cell, can run more than 300 h
+without significant polarizations. An average Coulombic efficiency
+(ACE) of 78.3% was achieved with B-Li metal as an anode after 60 cycles.
+Nevertheless, AF-Li delivers ACE of about 89% at the same cycle number,
+as shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c,d. Furthermore, at a low current density of 0.2 mA cm<sup>&#x02013;2</sup>, the B-Li||Cu half-cell operated for 840 h with fading of charge
+capacity coupled with a drop in CE. However, AF-Li||Cu ran for 1100
+h with significant improvement over the cycle life and CE, as shown
+in <xref rid="fig7" ref-type="fig">Figures <xref rid="fig7" ref-type="fig">7</xref></xref>e,f, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">S6</ext-link>. The communal effect coming from the electrolyte
+decomposition on the plated lithium metal and bulk lithium anode (B-Li)
+leads to overpotential growth together with a lowering in ACE. In
+this regard, the use of an artificial protective layer on bulk lithium
+metal reasonably boosts interface stability and mitigates the electrolyte
+decomposition, which results in a decrease in the overpotential in
+comparison with the B-Li anode. The use of electrolyte additives mostly
+influences on simultaneous stabilization of plated lithium metal and
+bulk lithium metal.<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> Surprisingly, the protection
+of lithium metal significantly impacts the reversibility and life
+cycle of batteries irrespective of considering plated lithium metal.</p><p>Similarly, the discharge&#x02013;charge performance of the Li||MCMB
+half-cell was employed to realize the effect of the artificial protective
+layer on AF-Li, as indicated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S7</ext-link>. The cell was operated at a current density of 1 mA cm<sup>&#x02013;2</sup> with a reversible 4 mAh cm<sup>&#x02013;2</sup> capacity. The SEI
+layer formed in the MCMB electrode is believed to be identical. The
+iCE values for B-Li and AF-Li have no significant variations, 92.4
+and 93.8%, respectively. However, after the 30th cycle, the CE with
+the AF-Li metal anode is 98.9%, while with the B-Li metal anode is
+93.4%. This clearly indicates that the electrolyte decomposition on
+the bare lithium metal anode is inevitable and induces resistance
+attributed to limited reversibility and overpotential growth. The
+B-Li||MCMB cell can only run for 400 h with severe voltage hysteresis
+and fluctuation, while the AF-Li||MCMB cell operated for more than
+750 h, as depicted in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S8</ext-link>. Later,
+the B-Li||MCMB cell showed a roll-over failure after the 54<sup>th</sup> cycle. The CV coupled with AC impedance measurement was undertaken
+to examine the cell&#x02019;s reversibility. Curiously, the protected
+lithium metal anode under the AF-Li||MCMB cell at the fresh state
+has EIS values of 114.2 &#x003a9;; later after multiple intercalation&#x02013;deintercalation,
+the resistance then diminished to 15.7 &#x003a9; due to stabilization
+from artificial SEI formation. The artificial protective layer on
+the AF-Li lithium metal anode delivers excellent protection, and its
+reversibility is proven by CV measurement with the MCMB electrode,
+as presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S8a,b</ext-link>. In contrast,
+the bare lithium metal anode, B-Li||MCMB cell, has an impedance of
+61.5 &#x003a9; in the fresh state and 41.9 &#x003a9; after cycling. The
+CV curve in B-Li||MCMB showed an abrupt drop and disturbance mainly
+due to resistive interface from electrolyte decomposition at B-Li/electrolyte
+interface as given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S8c,d</ext-link>. Furthermore,
+the cell test operated at a high current density of 2 mA cm<sup>&#x02013;2</sup>/2 mAh cm<sup>&#x02013;2</sup>, AF-Li||MCMB cell run for more than
+850 h with the retention capacity of 98.8% and for B-Li||MCMB 91.6%
+were obtained after 160 cycles, as indicated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S10a&#x02013;c</ext-link>. The B-Li||MCMB cell operated for 650
+h followed by drastic voltage fluctuation and short circuit formation
+as indicated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S9a&#x02013;c</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S11</ext-link>.</p></sec><sec id="sec3.4"><label>3.4</label><title>Electrochemical
+Performance in Full-Cell Configurations</title><p>To demonstrate the
+reliability of the artificial protective layer
+on the lithium metal anode, full-cell LFP||x-Li (x = B-Li or AF-Li),
+and NCM523||x-Li (x = B-Li or AF-Li) were performed at 0.5 mA cm<sup>&#x02013;2</sup>, and 3 mA cm<sup>&#x02013;2</sup> current density,
+respectively, as shown in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>. The cyclic performances of B-Li and AF-Li with an
+LFP cathode were operated under a 3.8 V cutoff voltage. The rate capability
+test for LFP||AF-Li at 0.2 mA cm<sup>&#x02013;2</sup> delivers a relatively
+higher discharge capacity of 2.16 mAh cm<sup>&#x02013;2</sup>, as compared
+to 2.13 mAh cm<sup>&#x02013;2</sup> in LFP || B-Li. As the current
+density increases to 2 mA cm<sup>&#x02013;2</sup>, the B-Li and AF-Li
+cells showed capacity fading as 1.55 and 1.80 mAh cm<sup>&#x02013;2</sup>, respectively. This clearly shows the protective layer on the lithium
+metal, which efficiently mitigates electrolyte decomposition at the
+electrolyte/anode interface. Moreover, long cycling stability operated
+at 0.5 mA cm<sup>&#x02013;2</sup> current density, with an achieved
+capacity retention (CR) of 90.6% after 280 cycles in LFP || AF-Li
+cell as shown in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a, e. In contrast, the LFP||Li full cells indicated in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a,e recede before 120 cycles,
+indicating continuous growth of resistive passivation layer formation
+and dead lithium at the interface. The artificial protective layer
+on lithium metal results in substantial resilience to lithium dendrites
+and favors a robust interface.</p><p>Furthermore, the NCM523|| x-Li
+(x = B or AF) operated at 3 mA cm<sup>&#x02013;2</sup>; the AF-Li metal
+anode showed superior performance over the B-Li anode, as shown in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b, d, f. The CR of
+58.7% was achieved at 3 mA cm<sup>&#x02013;2</sup> current density
+after 410 cycles, while the B-Li anode failed before 170 cycles. Interestingly,
+the CV measurements of NCM523|| x-Li (x = B or AF) cell are shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S12a&#x02013;d</ext-link>. The polarization
+(&#x00394;V) of 1.84 V was recorded in the B-Li anode compared to 1.64
+V in the AF-Li metal anode after the 5<sup>th</sup> cycle. The interface
+stabilization was also confirmed by CV measurements with lowered impedance
+after cycling, as indicated by EIS measurement in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S12e,f</ext-link>. Also, NCM111 || x-Li (x = B or AF) cell was
+further employed to study electrochemical performance. The cell performance
+at 0.2 cm<sup>&#x02013;2</sup> current density under AF-Li metal anode
+delivers a CR of 93.2% after 80 cycles while with B-Li metal 85.2%,
+as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">Figure S13</ext-link>. In the rate capability
+of NCM523|| x-Li (x = B or AF) cell at 0.2 mA cm<sup>&#x02013;2</sup>, the AF-Li anode delivers a relatively higher discharge capacity
+of 2.22 mAh cm<sup>&#x02013;2</sup>, as compared to 2.20 mAh cm<sup>&#x02013;2</sup> in B-Li. When the current density increases to 2
+mA cm<sup>&#x02013;2</sup>, the B-Li and AF-Li anode shows a discharge
+capacity of 1.69 and 1.44 mAh cm<sup>&#x02013;2</sup>, respectively.
+The formation of a protective layer with multiple SEI components plays
+a vital role in superior cycling performance when compared with a
+bare lithium metal anode.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>In summary, we have designed
+the simultaneous formulation of multiple
+SEI components from the thermal pyrolysis of NH<sub>4</sub>F as a
+single salt. The facial and cost-effective approach used for the artificial
+protective layer formation makes it suitable for large-scale processing
+from a less costly percussor, NH<sub>4</sub>F. XRD, Raman, and depth
+profile XPS studies confirm the formation of multiple SEI components
+with multilayered protections. The treated Li (AF-Li) metal showed
+a superior dendrite suppression capability of 5 mA cm<sup>&#x02013;2</sup> under low overpotential evolution in the symmetric cell and AF-Li||Cu
+half-cell. The cell operated at 0.2 and 0.5 mA cm<sup>&#x02013;2</sup> current density run for more than 1100 and 300 h, respectively.
+The protective layer provides excellent protection and reduces the
+lithium metal reaction vulnerability with the electrolyte. In addition,
+the treated lithium metal AF-Li with an MCMB substrate at 1 mA cm<sup>&#x02013;2</sup> current density also operated for more than 750 h
+and fully outperformed the B-Li metal anode. A full-cell assembled
+from the LFP, NCM111, and NCM523 cathode with an AF-Li anode showed
+superior performance at 0.5, 0.2, and 3 mA cm<sup>&#x02013;2</sup> operated
+for more than 300, 85, and 410 cycles, respectively. These outstanding
+properties of the protective layer mitigate electrolyte consumption,
+decomposition, and impedance growth. The present work signifies as
+a springboard toward the practical use of lithium metal anodes in
+rechargeable batteries.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.3c17559?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.3c17559</ext-link>.<list id="silist" list-type="simple"><list-item><p>Preparation of materials
+and synthesis scheme; material
+characterization, battery assembly, electrochemical measurements,
+computation for formation energy (&#x00394;<italic>E</italic><sub>f</sub>), and results; half-cell, x-Li||MCMB and x-Li||Cu, (x = B-Li or
+AF-Li); cyclic voltammetric measurements for x-Li||MCMB and NCM-523
+|| x-Li system; and electrochemical performance for NCM-111 || x-Li
+(x = B or AF) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c17559/suppl_file/am3c17559_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c17559_si_001.pdf"><caption><p>am3c17559_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Financial
+support from the National Science and
+Technology Council (NSTC 111-3116-F-011-004, 111-3116-F-011-006, 112-2639-E-011-001-ASP,
+112-2923-E-011-001, 112-2923-E-011-004-MY3, 112-2923-E-011-005-),
+the Ministry of Education of Taiwan (MOE &#x0201c;Sustainable Electrochemical
+Energy Development Center&#x0201d; (SEED) project and U2RSC program
+1080059), Academia Sinica (AS-KPQ-106-DDPP) as well as the supporting
+facilities from National Taiwan University of Science and Technology
+(NTUST), and National Synchrotron Radiation Research Centre (NSRRC)
+are all gratefully acknowledged.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Br&#x000e9;das</surname><given-names>J.-L.</given-names></name>; <name><surname>Buriak</surname><given-names>J. M.</given-names></name>; <name><surname>Caruso</surname><given-names>F.</given-names></name>; <name><surname>Choi</surname><given-names>K.-S.</given-names></name>; <name><surname>Korgel</surname><given-names>B. A.</given-names></name>; <name><surname>Palac&#x000ed;n</surname><given-names>M. R.</given-names></name>; <name><surname>Persson</surname><given-names>K.</given-names></name>; <name><surname>Reichmanis</surname><given-names>E.</given-names></name>; <name><surname>Sch&#x000fc;th</surname><given-names>F.</given-names></name>; <name><surname>Seshadri</surname><given-names>R.</given-names></name>; <name><surname>Ward</surname><given-names>M. D.</given-names></name>
+<article-title>An Electrifying
+Choice for the 2019 Chemistry Nobel Prize: Goodenough, Whittingham,
+and Yoshino</article-title>. <source>Chem. Mater.</source>
+<year>2019</year>, <volume>31</volume> (<issue>21</issue>), <fpage>8577</fpage>&#x02013;<lpage>8581</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.9b04345</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Park</surname><given-names>K.-S.</given-names></name>
+<article-title>The Li-Ion Rechargeable
+Battery: A Perspective</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume> (<issue>4</issue>), <fpage>1167</fpage>&#x02013;<lpage>1176</lpage>. <pub-id pub-id-type="doi">10.1021/ja3091438</pub-id>.<pub-id pub-id-type="pmid">23294028</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Ren</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Graphite as
+Anode Materials: Fundamental Mechanism, Recent Progress and Advances</article-title>. <source>Energy Storage Materials</source>
+<year>2021</year>, <volume>36</volume>, <fpage>147</fpage>&#x02013;<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2020.12.027</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Ihrig</surname><given-names>M.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Solvent-Free
+Fabrication of Freestanding Inorganic Solid Electrolyte Membranes:
+Challenges, Progress, and Perspective</article-title>. <source>Energy
+Storage Materials</source>
+<year>2023</year>, <volume>63</volume>, <elocation-id>103030</elocation-id><pub-id pub-id-type="doi">10.1016/j.ensm.2023.103030</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>R.</given-names></name>; <name><surname>Hu</surname><given-names>N.</given-names></name>; <name><surname>Deng</surname><given-names>T.</given-names></name>; <name><surname>Weng</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>Z.</given-names></name>; <name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Fan</surname><given-names>L.</given-names></name>; <name><surname>Fan</surname><given-names>X.</given-names></name>
+<article-title>Tackling Realistic Li<sup>+</sup> Flux for High-Energy
+Lithium Metal Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume> (<issue>1</issue>), <fpage>5431</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-33151-w</pub-id>.<pub-id pub-id-type="pmid">36114181</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Hagos</surname><given-names>T. M.</given-names></name>; <name><surname>Bezabh</surname><given-names>H. K.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Jiang</surname><given-names>S.-K.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>A Powerful Protocol
+Based on Anode-Free Cells Combined
+with Various Analytical Techniques</article-title>. <source>Acc. Chem.
+Res.</source>
+<year>2021</year>, <volume>54</volume> (<issue>24</issue>), <fpage>4474</fpage>&#x02013;<lpage>4485</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.1c00528</pub-id>.<pub-id pub-id-type="pmid">34763425</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Lakshmanan</surname><given-names>K.</given-names></name>; <name><surname>Temesgen</surname><given-names>N. T.</given-names></name>; <name><surname>Lin</surname><given-names>P.-X.</given-names></name>; <name><surname>Jiang</surname><given-names>S.-K.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Wang</surname><given-names>D.-Y.</given-names></name>; <name><surname>Sheu</surname><given-names>H.-S.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Dual CuCl
+Doped Argyrodite Superconductor to Boost the Interfacial Compatibility
+and Air Stability for All Solid-State Lithium Metal Batteries</article-title>. <source>Nano Energy</source>
+<year>2021</year>, <volume>90</volume>, <elocation-id>106542</elocation-id><pub-id pub-id-type="doi">10.1016/j.nanoen.2021.106542</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Serbessa</surname><given-names>G. G.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Temesgen</surname><given-names>N. T.</given-names></name>; <name><surname>Muche</surname><given-names>Z. B.</given-names></name>; <name><surname>Merso</surname><given-names>S. K.</given-names></name>; <name><surname>Yeh</surname><given-names>T.-I.</given-names></name>; <name><surname>Liu</surname><given-names>Y.-J.</given-names></name>; <name><surname>Liao</surname><given-names>W.-S.</given-names></name>; <name><surname>Wang</surname><given-names>C.-H.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Yang</surname><given-names>C.-C.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Boosting the Interfacial
+Stability of the Li<sub>6</sub>PS<sub>5</sub>Cl Electrolyte with a
+Li Anode via In Situ Formation
+of a LiF-Rich SEI Layer and a Ductile Sulfide Composite Solid Electrolyte</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2024</year>, <volume>16</volume>, <fpage>10832</fpage>&#x02013;<lpage>10844</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.3c14763</pub-id>.<pub-id pub-id-type="pmid">38359779</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Merso</surname><given-names>S. K.</given-names></name>; <name><surname>Hagos</surname><given-names>T. M.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Redda</surname><given-names>H. G.</given-names></name>; <name><surname>Wang</surname><given-names>C.-H.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Yang</surname><given-names>C.-C.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Resolving
+Anodic and Cathodic Interface-Incompatibility
+in Solid-State Lithium Metal Battery via Interface Infiltration of
+Designed Liquid Electrolytes</article-title>. <source>Journal of Power
+Sources</source>
+<year>2022</year>, <volume>535</volume>, <elocation-id>231425</elocation-id><pub-id pub-id-type="doi">10.1016/j.jpowsour.2022.231425</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Hagos</surname><given-names>T. T.</given-names></name>; <name><surname>Thirumalraj</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Abrha</surname><given-names>L. H.</given-names></name>; <name><surname>Hagos</surname><given-names>T. M.</given-names></name>; <name><surname>Berhe</surname><given-names>G. B.</given-names></name>; <name><surname>Bezabh</surname><given-names>H. K.</given-names></name>; <name><surname>Cherng</surname><given-names>J.</given-names></name>; <name><surname>Chiu</surname><given-names>S.-F.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B.-J.</given-names></name>
+<article-title>Locally Concentrated LiPF<sub>6</sub> in a Carbonate-Based Electrolyte with Fluoroethylene Carbonate as
+a Diluent for Anode-Free Lithium Metal Batteries</article-title>. <source>ACS Applied Materials &#x00026; Interfaces</source>
+<year>2019</year>, <volume>11</volume> (<issue>10</issue>), <fpage>9955</fpage>&#x02013;<lpage>9963</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b21052</pub-id>.<pub-id pub-id-type="pmid">30789250</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Ye</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Yin</surname><given-names>Y.-X.</given-names></name>; <name><surname>Cao</surname><given-names>F.-F.</given-names></name>; <name><surname>Guo</surname><given-names>Y.-G.</given-names></name>
+<article-title>An Outlook
+on Low-Volume-Change Lithium Metal Anodes for Long-Life Batteries</article-title>. <source>ACS Central Science</source>
+<year>2020</year>, <volume>6</volume> (<issue>5</issue>), <fpage>661</fpage>&#x02013;<lpage>671</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.0c00351</pub-id>.<pub-id pub-id-type="pmid">32490184</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Liao</surname><given-names>L.</given-names></name>; <name><surname>Cheng</surname><given-names>X.</given-names></name>; <name><surname>Ma</surname><given-names>Y.</given-names></name>; <name><surname>Zuo</surname><given-names>P.</given-names></name>; <name><surname>Fang</surname><given-names>W.</given-names></name>; <name><surname>Yin</surname><given-names>G.</given-names></name>; <name><surname>Gao</surname><given-names>Y.</given-names></name>
+<article-title>Fluoroethylene Carbonate
+as Electrolyte Additive to
+Improve Low Temperature Performance of LiFePO<sub>4</sub> Electrode</article-title>. <source>Electrochim. Acta</source>
+<year>2013</year>, <volume>87</volume>, <fpage>466</fpage>&#x02013;<lpage>472</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2012.09.083</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Aurbach</surname><given-names>D.</given-names></name>; <name><surname>Gamolsky</surname><given-names>K.</given-names></name>; <name><surname>Markovsky</surname><given-names>B.</given-names></name>; <name><surname>Gofer</surname><given-names>Y.</given-names></name>; <name><surname>Schmidt</surname><given-names>M.</given-names></name>; <name><surname>Heider</surname><given-names>U.</given-names></name>
+<article-title>On the Use of Vinylene
+Carbonate (VC) as an Additive
+to Electrolyte Solutions for Li-ion Batteries</article-title>. <source>Electrochimica acta</source>
+<year>2002</year>, <volume>47</volume> (<issue>9</issue>), <fpage>1423</fpage>&#x02013;<lpage>1439</lpage>. <pub-id pub-id-type="doi">10.1016/S0013-4686(01)00858-1</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Nigatu</surname><given-names>T. A.</given-names></name>; <name><surname>Bezabh</surname><given-names>H. K.</given-names></name>; <name><surname>Jiang</surname><given-names>S.-K.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>S.-C.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Yang</surname><given-names>C.-C.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>An Anode-Free Aqueous
+Hybrid Batteries Enabled by In-Situ
+Cu/Sn/Zn Alloy Formation on Pure Cu Substrate</article-title>. <source>Electrochim. Acta</source>
+<year>2023</year>, <volume>443</volume>, <elocation-id>141883</elocation-id><pub-id pub-id-type="doi">10.1016/j.electacta.2023.141883</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>; <name><surname>Matsumoto</surname><given-names>S.</given-names></name>; <name><surname>Hoshikawa</surname><given-names>H.</given-names></name>; <name><surname>Kumagai</surname><given-names>T.</given-names></name>; <name><surname>Okamoto</surname><given-names>N. L.</given-names></name>; <name><surname>Ichitsubo</surname><given-names>T.</given-names></name>
+<article-title>Circumventing
+Huge Volume Strain in Alloy Anodes of Lithium Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume> (<issue>1</issue>), <fpage>1584</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-15452-0</pub-id>.<pub-id pub-id-type="pmid">32284535</pub-id>
+</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Wan</surname><given-names>M.</given-names></name>; <name><surname>Kang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Lee</surname><given-names>H.-W.</given-names></name>; <name><surname>Zheng</surname><given-names>G. W.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>
+<article-title>Mechanical
+Rolling Formation of Interpenetrated Lithium
+Metal/Lithium Tin Alloy Foil for Ultrahigh-Rate Battery Anode</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume> (<issue>1</issue>), <fpage>829</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-14550-3</pub-id>.<pub-id pub-id-type="pmid">32047149</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Jin</surname><given-names>S.</given-names></name>; <name><surname>Ye</surname><given-names>Y.</given-names></name>; <name><surname>Niu</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>Y.</given-names></name>; <name><surname>Jin</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Cao</surname><given-names>A.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>Y.</given-names></name>; <name><surname>Ji</surname><given-names>H.</given-names></name>; <name><surname>Wan</surname><given-names>L.-J.</given-names></name>
+<article-title>Solid&#x02013;Solution-Based
+Metal Alloy Phase for Highly
+Reversible Lithium Metal Anode</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2020</year>, <volume>142</volume> (<issue>19</issue>), <fpage>8818</fpage>&#x02013;<lpage>8826</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.0c01811</pub-id>.<pub-id pub-id-type="pmid">32310653</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Yan</surname><given-names>K.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Liao</surname><given-names>L.</given-names></name>; <name><surname>Jin</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Hsu</surname><given-names>P.-C.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Cheng</surname><given-names>H.-M.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Air-Stable and Freestanding
+Lithium Alloy/Graphene Foil as an Alternative to Lithium Metal Anodes</article-title>. <source>Nature Nanotechnology</source>
+<year>2017</year>, <volume>12</volume> (<issue>10</issue>), <fpage>993</fpage>&#x02013;<lpage>999</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2017.129</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Temesgen</surname><given-names>N. T.</given-names></name>; <name><surname>Tegegne</surname><given-names>W. A.</given-names></name>; <name><surname>Shitaw</surname><given-names>K. N.</given-names></name>; <name><surname>Fenta</surname><given-names>F. W.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Jiang</surname><given-names>S.-K.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>
+<article-title>Mitigating Dendrite
+Formation and Electrolyte Decomposition via Functional
+Double Layers Coating on Copper Current Collector in Anode-Free Lithium
+Metal Battery</article-title>. <source>J. Taiwan Inst. Chem. Eng.</source>
+<year>2021</year>, <volume>128</volume>, <fpage>87</fpage>&#x02013;<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtice.2021.09.008</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Merso</surname><given-names>S. K.</given-names></name>; <name><surname>Tekaligne</surname><given-names>T. M.</given-names></name>; <name><surname>Weret</surname><given-names>M. A.</given-names></name>; <name><surname>Shitaw</surname><given-names>K. N.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>S.-C.</given-names></name>; <name><surname>Muche</surname><given-names>Z. B.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Hotasi</surname><given-names>B. T.</given-names></name>; <name><surname>Chang</surname><given-names>C.-Y.</given-names></name>
+<article-title>Multiple Protective Layers for Suppressing Li Dendrite
+Growth and Improving the Cycle Life of Anode-Free Lithium Metal Batteries</article-title>. <source>Chem. Eng. J.</source>
+<year>2024</year>, <volume>485</volume>, <elocation-id>149547</elocation-id><pub-id pub-id-type="doi">10.1016/j.cej.2024.149547</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Wen</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>D.</given-names></name>; <name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>
+<article-title>Constructing
+a Uniform Lithium Iodide Layer for Stabilizing Lithium Metal Anode</article-title>. <source>Journal of Energy Chemistry</source>
+<year>2021</year>, <volume>55</volume>, <fpage>129</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2020.07.003</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Bezabh</surname><given-names>H. K.</given-names></name>; <name><surname>Lakshmanan</surname><given-names>K.</given-names></name>; <name><surname>Hagos</surname><given-names>T. M.</given-names></name>; <name><surname>Nigatu</surname><given-names>T. A.</given-names></name>; <name><surname>Merso</surname><given-names>S. K.</given-names></name>; <name><surname>Sung</surname><given-names>H.-Y.</given-names></name>; <name><surname>Yang</surname><given-names>S.-C.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Air-Stable
+Iodized-Oxychloride Argyrodite Sulfide and Anionic Swap on the Practical
+Potential Window for All-Solid-State Lithium-Metal Batteries</article-title>. <source>Nano Energy</source>
+<year>2023</year>, <volume>112</volume>, <elocation-id>108471</elocation-id><pub-id pub-id-type="doi">10.1016/j.nanoen.2023.108471</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Shin</surname><given-names>D.</given-names></name>; <name><surname>Jung</surname><given-names>J.</given-names></name>; <name><surname>Roh</surname><given-names>Y.</given-names></name>; <name><surname>Park</surname><given-names>C.</given-names></name>; <name><surname>Kim</surname><given-names>I. J.</given-names></name>; <name><surname>Kwon</surname><given-names>H.</given-names></name>; <name><surname>Baek</surname><given-names>J.</given-names></name>; <name><surname>Oh</surname><given-names>W.</given-names></name>; <name><surname>Kim</surname><given-names>J.</given-names></name>; <name><surname>Jeong</surname><given-names>S.</given-names></name>; <name><surname>Hwang</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>Y.</given-names></name>; <name><surname>Yoon</surname><given-names>D. H.</given-names></name>; <name><surname>Kim</surname><given-names>H.-T.</given-names></name>
+<article-title>Preferential Lithium Plating in the
+Interfacial Void
+Region in All-Solid-State Batteries via Pressure Gradient-Driven Lithium-Ion
+Flux</article-title>. <source>ACS Energy Letters</source>
+<year>2024</year>, <volume>9</volume>, <fpage>1035</fpage>&#x02013;<lpage>1042</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.4c00297</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Pei</surname><given-names>A.</given-names></name>; <name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Vailionis</surname><given-names>A.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zheng</surname><given-names>G.</given-names></name>; <name><surname>Sun</surname><given-names>J.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Robust Pinhole-Free
+Li<sub>3</sub>N Solid Electrolyte Grown from Molten Lithium</article-title>. <source>ACS Central Science</source>
+<year>2018</year>, <volume>4</volume> (<issue>1</issue>), <fpage>97</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.7b00480</pub-id>.<pub-id pub-id-type="pmid">29392181</pub-id>
+</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Moon</surname><given-names>S.</given-names></name>; <name><surname>Park</surname><given-names>H.</given-names></name>; <name><surname>Yoon</surname><given-names>G.</given-names></name>; <name><surname>Lee</surname><given-names>M. H.</given-names></name>; <name><surname>Park</surname><given-names>K.-Y.</given-names></name>; <name><surname>Kang</surname><given-names>K.</given-names></name>
+<article-title>Simple and Effective
+Gas-Phase Doping for Lithium Metal Protection
+in Lithium Metal Batteries</article-title>. <source>Chem. Mater.</source>
+<year>2017</year>, <volume>29</volume> (<issue>21</issue>), <fpage>9182</fpage>&#x02013;<lpage>9191</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.7b03027</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Pei</surname><given-names>A.</given-names></name>; <name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>A.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Lin</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Shi</surname><given-names>F.</given-names></name>; <name><surname>Boyle</surname><given-names>D.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Uniform High Ionic Conducting Lithium Sulfide Protection Layer for
+Stable Lithium Metal Anode</article-title>. <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume> (<issue>22</issue>), <elocation-id>1900858</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201900858</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>; <name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Conformal Lithium Fluoride Protection
+Layer on Three-Dimensional
+Lithium by Nonhazardous Gaseous Reagent Freon</article-title>. <source>Nano Letters</source>
+<year>2017</year>, <volume>17</volume> (<issue>6</issue>), <fpage>3731</fpage>&#x02013;<lpage>3737</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.7b01020</pub-id>.<pub-id pub-id-type="pmid">28535068</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Emery</surname><given-names>A. A.</given-names></name>; <name><surname>Wolverton</surname><given-names>C.</given-names></name>
+<article-title>High-Throughput DFT Calculations
+of Formation Energy,
+Stability and Oxygen Vacancy Formation Energy of ABO<sub>3</sub> Perovskites</article-title>. <source>Sci. Data</source>
+<year>2017</year>, <volume>4</volume> (<issue>1</issue>), <elocation-id>170153</elocation-id><pub-id pub-id-type="doi">10.1038/sdata.2017.153</pub-id>.<pub-id pub-id-type="pmid">29039848</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Kirklin</surname><given-names>S.</given-names></name>; <name><surname>Saal</surname><given-names>J. E.</given-names></name>; <name><surname>Meredig</surname><given-names>B.</given-names></name>; <name><surname>Thompson</surname><given-names>A.</given-names></name>; <name><surname>Doak</surname><given-names>J. W.</given-names></name>; <name><surname>Aykol</surname><given-names>M.</given-names></name>; <name><surname>R&#x000fc;hl</surname><given-names>S.</given-names></name>; <name><surname>Wolverton</surname><given-names>C.</given-names></name>
+<article-title>The Open Quantum
+Materials Database (OQMD): Assessing the Accuracy of DFT Formation
+Energies</article-title>. <source>npj Comput. Mater.</source>
+<year>2015</year>, <volume>1</volume>, <elocation-id>15010</elocation-id><pub-id pub-id-type="doi">10.1038/npjcompumats.2015.10</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>H.-W.</given-names></name>; <name><surname>Chen</surname><given-names>P.</given-names></name>
+<article-title>Amides And
+Borohydrides for High-Capacity
+Solid-State Hydrogen Storage-Materials Design and Kinetic Improvements</article-title>. <source>Mrs bulletin</source>
+<year>2013</year>, <volume>38</volume> (<issue>6</issue>), <fpage>480</fpage>&#x02013;<lpage>487</lpage>. <pub-id pub-id-type="doi">10.1557/mrs.2013.131</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Gereon</surname><given-names>B.</given-names></name>; <name><surname>Christian</surname><given-names>R.</given-names></name>; <name><surname>Holger</surname><given-names>K.</given-names></name>
+<article-title>Hydrogenation Reaction Pathways in
+The Systems Li<sub>3</sub>N&#x02013;H<sub>2</sub>, Li<sub>3</sub>N&#x02013;Mg&#x02013;H<sub>2</sub>, And Li<sub>3</sub>N&#x02013;MgH<sub>2</sub>&#x02013;H<sub>2</sub> By In Situ X-Ray Diffraction, In Situ Neutron Diffraction,
+and In Situ Thermal Analysis</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>13450</fpage>&#x02013;<lpage>13455</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.6b04902</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Minella</surname><given-names>C. B.</given-names></name>; <name><surname>Rongeat</surname><given-names>C.</given-names></name>; <name><surname>Dom&#x000e8;nech-Ferrer</surname><given-names>R.</given-names></name>; <name><surname>Lindemann</surname><given-names>I.</given-names></name>; <name><surname>Dunsch</surname><given-names>L.</given-names></name>; <name><surname>Sorbie</surname><given-names>N.</given-names></name>; <name><surname>Gregory</surname><given-names>D. H.</given-names></name>; <name><surname>Gutfleisch</surname><given-names>O.</given-names></name>
+<article-title>Synthesis
+of LiNH<sub>2</sub> + LiH by Reactive Milling of Li<sub>3</sub>N</article-title>. <source>Faraday Discussions</source>
+<year>2011</year>, <volume>151</volume>, <fpage>253</fpage>&#x02013;<lpage>262</lpage>. <pub-id pub-id-type="doi">10.1039/c1fd00009h</pub-id>.<pub-id pub-id-type="pmid">22455073</pub-id>
+</mixed-citation><note><p>0</p></note></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Kar</surname><given-names>T.</given-names></name>; <name><surname>Scheiner</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>
+<article-title>Theoretical
+Investigation on the
+Mechanism of LiH+NH<sub>3</sub>&#x02192;LiNH<sub>2</sub>+H<sub>2</sub> Reaction</article-title>. <source>Journal of Molecular Structure:
+Theochem</source>
+<year>2008</year>, <volume>857</volume> (<issue>1</issue>), <fpage>111</fpage>&#x02013;<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/j.theochem.2008.02.010</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Hu</surname><given-names>Y. H.</given-names></name>; <name><surname>Ruckenstein</surname><given-names>E.</given-names></name>
+<article-title>Ultrafast
+Reaction Between LiH and NH<sub>3</sub> During
+H<sub>2</sub> Storage in Li<sub>3</sub>N</article-title>. <source>The
+Journal of Physical Chemistry A</source>
+<year>2003</year>, <volume>107</volume> (<issue>46</issue>), <fpage>9737</fpage>&#x02013;<lpage>9739</lpage>. <pub-id pub-id-type="doi">10.1021/jp036257b</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Andr&#x000e9;s</surname><given-names>J.</given-names></name>; <name><surname>Berski</surname><given-names>S.</given-names></name>; <name><surname>Contreras-Garc&#x000ed;a</surname><given-names>J.</given-names></name>; <name><surname>Gonz&#x000e1;lez-Navarrete</surname><given-names>P.</given-names></name>
+<article-title>Following
+the Molecular Mechanism for the NH<sub>3</sub> + LiH &#x02192; LiNH<sub>2</sub> + H<sub>2</sub> Chemical Reaction: A Study Based on the Joint
+Use of the Quantum Theory of Atoms in Molecules (QTAIM) and Noncovalent
+Interaction (NCI) Index</article-title>. <source>The Journal of Physical
+Chemistry A</source>
+<year>2014</year>, <volume>118</volume> (<issue>9</issue>), <fpage>1663</fpage>&#x02013;<lpage>1672</lpage>. <pub-id pub-id-type="doi">10.1021/jp4111376</pub-id>.<pub-id pub-id-type="pmid">24499301</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Herbst</surname><given-names>J.</given-names></name>; <name><surname>Hector</surname><given-names>L.</given-names><suffix>Jr</suffix></name>
+<article-title>Energetics of The Li Amide/Li Imide
+Hydrogen Storage Reaction</article-title>. <source>Physical review B</source>
+<year>2005</year>, <volume>72</volume> (<issue>12</issue>), <elocation-id>125120</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevB.72.125120</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Ichikawa</surname><given-names>T.</given-names></name>; <name><surname>Hanada</surname><given-names>N.</given-names></name>; <name><surname>Isobe</surname><given-names>S.</given-names></name>; <name><surname>Leng</surname><given-names>H.</given-names></name>; <name><surname>Fujii</surname><given-names>H.</given-names></name>
+<article-title>Mechanism
+of Novel Reaction From LiNH<sub>2</sub> and LiH to Li<sub>2</sub>NH
+and H<sub>2</sub> as a Promising Hydrogen Storage System</article-title>. <source>The Journal of Physical Chemistry B</source>
+<year>2004</year>, <volume>108</volume> (<issue>23</issue>), <fpage>7887</fpage>&#x02013;<lpage>7892</lpage>. <pub-id pub-id-type="doi">10.1021/jp049968y</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Gregory</surname><given-names>D. H.</given-names></name>
+<article-title>Lithium
+Nitrides, Imides and Amides as Lightweight, Reversible Hydrogen Stores</article-title>. <source>Journal of Materials Chemistry</source>
+<year>2008</year>, <volume>18</volume> (<issue>20</issue>), <fpage>2321</fpage>&#x02013;<lpage>2330</lpage>. <pub-id pub-id-type="doi">10.1039/b801021h</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Ravi</surname><given-names>M.</given-names></name>; <name><surname>Makepeace</surname><given-names>J. W.</given-names></name>
+<article-title>Lithium&#x02013;Nitrogen&#x02013;Hydrogen
+Systems for
+Ammonia Synthesis: Exploring a More Efficient Pathway Using Lithium
+Nitride&#x02013;Hydride</article-title>. <source>Chemical Communications</source>
+<year>2022</year>, <volume>58</volume> (<issue>41</issue>), <fpage>6076</fpage>&#x02013;<lpage>6079</lpage>. <pub-id pub-id-type="doi">10.1039/D2CC01345B</pub-id>.<pub-id pub-id-type="pmid">35502809</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Wood</surname><given-names>B. C.</given-names></name>; <name><surname>Stavila</surname><given-names>V.</given-names></name>; <name><surname>Poonyayant</surname><given-names>N.</given-names></name>; <name><surname>Heo</surname><given-names>T. W.</given-names></name>; <name><surname>Ray</surname><given-names>K. G.</given-names></name>; <name><surname>Klebanoff</surname><given-names>L. E.</given-names></name>; <name><surname>Udovic</surname><given-names>T. J.</given-names></name>; <name><surname>Lee</surname><given-names>J. R. I.</given-names></name>; <name><surname>Angboonpong</surname><given-names>N.</given-names></name>; <name><surname>Sugar</surname><given-names>J. D.</given-names></name>; <name><surname>Pakawatpanurut</surname><given-names>P.</given-names></name>
+<article-title>Nanointerface-Driven Reversible Hydrogen
+Storage in the Nanoconfined Li&#x02013;N&#x02013;H System</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2017</year>, <volume>4</volume> (<issue>3</issue>), <elocation-id>1600803</elocation-id><pub-id pub-id-type="doi">10.1002/admi.201600803</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Dai</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>Electrolyte Additives: Adding the Stability of Lithium
+Metal Anodes</article-title>. <source>Nano Select</source>
+<year>2021</year>, <volume>2</volume> (<issue>1</issue>), <fpage>16</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1002/nano.202000164</pub-id>.</mixed-citation></ref></ref-list></back></article>

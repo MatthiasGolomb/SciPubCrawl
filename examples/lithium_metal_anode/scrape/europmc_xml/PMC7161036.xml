@@ -1,0 +1,475 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7161036</article-id><article-id pub-id-type="doi">10.1021/acsomega.0c00729</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>In Situ Li<sub>3</sub>PO<sub>4</sub>/PVA Solid Polymer
+Electrolyte Protective Layer Stabilizes the Lithium Metal Anode</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Hao</surname><given-names>Shuaiguo</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ma</surname><given-names>Zhipeng</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Zhao</surname><given-names>Yao</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Kong</surname><given-names>Lina</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>He</surname><given-names>Haoyan</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Shao</surname><given-names>Guangjie</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Qin</surname><given-names>Xiujuan</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath8"><name><surname>Gao</surname><given-names>Weimin</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Hebei
+Key Laboratory of Applied Chemistry, Hebei Key Laboratory of Heavy
+Metal Deep-Remediation in Water and Resource Reuse, College of Environmental
+and Chemical Engineering, <institution>Yanshan University</institution>, Qinhuangdao 066004, <country>China</country></aff><aff id="aff2"><label>&#x02021;</label>State
+Key Laboratory of Metastable Materials Science and Technology, <institution>Yanshan University</institution>, Qinhuangdao 066004, <country>China</country></aff><aff id="aff3"><label>&#x000a7;</label>Institute
+for Frontier Materials, <institution>Deakin University</institution>, Geelong, Victoria 3220, <country>Australia</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>shaoguangjie@ysu.edu.cn</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>qinxj@ysu.edu.cn</email>.</corresp><corresp id="cor3"><label>*</label>Email: <email>weimin.gao@deakin.edu.au</email>.</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>04</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>14</day><month>04</month><year>2020</year></pub-date><volume>5</volume><issue>14</issue><fpage>8299</fpage><lpage>8304</lpage><history><date date-type="received"><day>19</day><month>02</month><year>2020</year></date><date date-type="accepted"><day>24</day><month>03</month><year>2020</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2020 American Chemical Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0008" id="ab-tgr1"/></p><p>A lithium
+metal anode is regarded as the most promising anode material
+for the next generation of high-energy density batteries because of
+its high specific capacity and low reduction potential. However, dendritic
+deposition and severe side reactions in continuous Li plating/stripping
+inevitably hinder the practical application of Li metal batteries.
+A solid polymer electrolyte protective layer with synergistic Li<sub>3</sub>PO<sub>4</sub>/polyvinyl alcohol (PVA) features is in situ
+constructed on a lithium metal anode to obtain a stable interface
+during charge/discharge cycles. The protective layer can adapt to
+volume changes and inhibit lithium dendrites. The in situ reaction
+guaranteed the uniformity of ion transport and a tight interface between
+the protective layer and the lithium metal, so that the lithium deposition
+behavior was effectively regulated. The PP-Li anode presented a stable
+Li plating/stripping for 1000 h in a symmetrical cell system and exhibited
+an enhanced performance of the lithium titanium oxide cell. The in
+situ Li<sub>3</sub>PO<sub>4</sub>/PVA solid polymer electrolyte protective
+layer provided a promising strategy to tackle the challenges raised
+by the intrinsic properties of the lithium metal anode.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao0c00729</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao0c00729</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>The
+continuously surging demand in consumer electronics and electric
+vehicles has forced people to develop higher energy density rechargeable
+lithium-based batteries,<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> for examples, lithium&#x02013;sulfur batteries and
+lithium&#x02013;air batteries have been rapidly developed.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> A lithium metal anode has been regarded as a &#x0201c;Holy Grail&#x0201d;
+in the next-generation anode material for high-energy lithium batteries,
+owing to its extremely high theoretical specific capacity (3860 mA
+h g<sup>&#x02013;1</sup>) and low negative electrochemical potential
+(&#x02212;3.04 V vs the standard hydrogen electrode).<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> However, the uncontrolled growth of lithium dendrites and severe
+side reactions can cause internal short circuits and reduce Coulombic
+efficiency, hindering the application of lithium metal anodes.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup></p><p>Recently, many quality strategies have been proposed to solve
+the
+problems, such as creating a three dimensional current collector to
+reduce volume expansion and improve uniform lithium deposition,<sup><xref ref-type="bibr" rid="ref17">17</xref>&#x02212;<xref ref-type="bibr" rid="ref19">19</xref></sup> employing applicable electrolyte additives to improve both stability
+and Li-ion transport of solid electrolyte interphase (SEI),<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> constructing a lithiophilic alloy protective layer to improve lithium
+ion transport channels and inhibit dendrite growth at the anode/electrolyte
+interface.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> Among these strategies, building
+an artificial SEI layer has been certified as an effective method
+to avoid side reactions and inhibit the growth of lithium dendrites.<sup><xref ref-type="bibr" rid="ref25">25</xref>&#x02212;<xref ref-type="bibr" rid="ref27">27</xref></sup> In general, lithium ions must pass through SEI in deposition and
+dissolution processes. Because the lithium metal is thermodynamic
+unstable in an organic electrolyte, a complex SEI that is composed
+of reduction products of the electrolyte forms initially.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> According to the reports of Peled and his coauthors, SEI can be
+described as a mosaic-type and formed by small heterogeneous stacks
+with different compounds.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> The SEI then exhibits
+heterogeneous Li-ion conductivity, which facilitates inhomogeneous
+deposition. In order to stabilize the lithium deposition, the SEI
+must have homogeneous and fast Li-ion conductivity.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>It has been proven that the in situ SEIs of Li<sub>2</sub>S, LiF,
+and LiNO<sub>3</sub> can effectively improve the stability of the
+lithium metal anode.<sup><xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref35">35</xref></sup> Lithium phosphate (Li<sub>3</sub>PO<sub>4</sub>) is regarded as
+one of the most important compound to manage Li deposition behaviors
+as it has high lithium ion conductivity.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The artificial SEI layer that uses homogeneous inorganic lithium
+salts as host materials, such as Li<sub>3</sub>PO<sub>4</sub>, Li<sub>2</sub>S, and LiF, can significantly improve the homogeneity of Li-ion
+conductivity. However, the mechanical robustness of an inorganic SEI
+layer composed of crystal particles has been normally unsatisfactory,
+it cannot resist volume changes in the cycle, so that fractures inevitably
+occur. Polyvinyl alcohol (PVA) has prominent chemical stability, good
+mechanical property, and nontoxic behavior, which make it an outstanding
+candidate to form a film.<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> Using PVA solid polymer
+electrolytes and various lithium salts to build artificial SEI layers
+is a method to protect the lithium metal anode.</p><p>In this contribution,
+an in situ Li<sub>3</sub>PO<sub>4</sub>/PVA
+solid polymer electrolyte protective layer is produced by in situ
+reaction of phosphorus pentoxide (P<sub>2</sub>O<sub>5</sub>) and
+PVA with the Li metal. Li<sub>3</sub>PO<sub>4</sub> in the protective
+layer provides channels for lithium ion transport, while PVA ensures
+the protective layer better adapting to volume changes and binding
+Li<sub>3</sub>PO<sub>4</sub> particles. The Li<sub>3</sub>PO<sub>4</sub>/PVA hybrid promotes the formation of a stable and flexible protective
+layer that enables Li deposition uniformly and suppresses the growth
+of Li dendrites. Additionally, the in situ production method gained
+a perfect interface between the protective layer and the lithium metal
+anode, which effectively isolated the liquid electrolyte and prevented
+side reactions. With the PP-Li anode, the stability of symmetrical
+batteries is significantly improved, especially, the battery life
+under high current densities increased to 800 h. The anode showed
+a good performance at high rates when it was applied to lithium titanium
+oxide (LTO) batteries.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><p>It is well known that a low moisture content is necessary to obtain
+a quality in situ protective layer on lithium metal anodes.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> It has been demonstrated that when using 85% phosphoric acid as
+the source, the Li<sub>3</sub>PO<sub>4</sub> protective layer formed
+on the surface of the lithium metal anode was rough.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> A source of phosphate is, therefore, required to reduce
+the moisture content. Here, we choose phosphoric anhydride (P<sub>2</sub>O<sub>5</sub>) as the phosphate source. Together with PVA,
+it was dissolved in dimethyl sulfoxide (DMSO) to form the treatment
+solution. In this design, P<sub>2</sub>O<sub>5</sub> is not only used
+as the main reactant but also as the water absorbent. The contact
+between the lithium metal and moisture was greatly avoided because
+P<sub>2</sub>O<sub>5</sub> absorbed water in DMSO and generated H<sub>3</sub>PO<sub>4</sub> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a). On the one hand, the formed phosphoric acid sequentially
+reacted with the lithium metal and formed Li<sub>3</sub>PO<sub>4</sub> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a). On the
+other hand, the partial hydroxyl groups in PVA were likely to be reduced
+by the lithium metal because of high activity of lithium.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> A solid polymer electrolyte protective layer
+was then formed on the Li metal anode. It has a tight interface with
+the surface of the lithium metal. As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b, the protective layer is mainly composed
+of Li<sub>3</sub>PO<sub>4</sub> particles and PVA polymers. The Li<sub>3</sub>PO<sub>4</sub> particles uniformly distribute in the solid
+polymer electrolyte as the main ion transport medium. PVA polymers
+can well adhere to Li<sub>3</sub>PO<sub>4</sub> particles and improve
+the flexibility of the protective layer. Reaction time is an important
+reaction condition. The reaction time also affects the performance
+of the protective layer. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S2</ext-link>, PP-Li with 6 h reaction time shows the best surface morphology.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Reaction
+mechanism proposed for the formation of the Li<sub>3</sub>PO<sub>4</sub> and (b) Li<sub>3</sub>PO<sub>4</sub>/PVA protective
+layer on the Li foil.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0001" id="gr1" position="float"/></fig><p>As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,c, the PP-Li anode
+exhibits a smooth and dense protective layer
+on the surface, and the protective layer adheres tightly to the lithium
+metal (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S2a</ext-link>). Therefore, it can effectively
+isolate the lithium metal from the electrolyte to avoid side reactions.
+The cross-sectional view shows that the protective layer is not only
+dense but also thin (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S2b</ext-link>, the
+thickness of the protective layer is &#x0223c;200 nm. The thin protective
+layer has short ion transmission channels that can improve the ion
+transmission. As shown in corresponding EDS image (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d&#x02013;f), a large number
+of C, O, and P are homogeneously distributed on the surface of PP-Li,
+which implies that a solid polymer electrolyte protective layer was
+formed on the surface of the Li metal. The C elements mainly come
+from PVA, which proves that PVA can well adhere to the surface of
+the lithium metal. The O and P elements are derived from P<sub>2</sub>O<sub>5</sub>.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Surface and (b) cross-sectional scanning electron
+microscopy
+(SEM) images of the PP-Li anode, and (c) high-magnification SEM image
+of the PP-Li anode and (d&#x02013;f) corresponding energy dispersive
+X-ray spectroscopy (EDS) elemental mapping images of C, O, and P.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0002" id="gr2" position="float"/></fig><p>In order to further identify the composition of
+the PP-Li surface,
+we analyzed PP-Li by using an X-ray diffractometer, as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. The XRD patterns
+of PP-Li show distinct peaks. The peaks at 16.9, 22.358, 23.409, 25.035,
+33.928, and 37.072&#x000b0; correspond to the characteristic peaks of
+Li<sub>3</sub>PO<sub>4</sub> (PDF#25-1030); the peak at around 20&#x000b0;
+corresponds to the characteristic peaks of PVA; the two peaks at 51.973
+and 67.980&#x000b0; are indexed as Li (PDF#15-0401). It can be clearly
+confirmed that the protective layer of the PP-Li anode is only composed
+of crystalline phases of PVA and Li<sub>3</sub>PO<sub>4</sub> as well
+as the process of converting P<sub>2</sub>O<sub>5</sub> to Li<sub>3</sub>PO<sub>4</sub>. In addition, the formation of Li<sub>3</sub>PO<sub>4</sub> significantly weakened and broadened the peak of PVA.
+The crystallinity of PVA was reduced effectively. The inorganic salt
+particles in PVA can enhance the mechanical properties of the protective
+layer.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> Hence, the synergy of PVA and
+Li<sub>3</sub>PO<sub>4</sub> can effectively improve the performance
+of the protective layer and stabilize the lithium deposition behavior.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>X-ray
+diffraction (XRD) patterns of the PP-Li anode, Li<sub>3</sub>PO<sub>4</sub> power, PVA, and bare Li.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0003" id="gr3" position="float"/></fig><p>The lithium metal anode after cycles was observed by SEM in order
+to prove the regulation effect of PP-Li on lithium deposition behavior.
+The Li|Li symmetrical cell was charged/discharged at a current density
+of 1 mA cm<sup>&#x02013;2</sup>, and the charge/discharge interval
+was 1 h. The cells were opened after 10 cycles of charge and discharge
+to observe the lithium metal anode suffering the deposition process.
+As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, the surface of the PP-Li anode remained flat because of the protective
+layer, and the cross-sectional SEM image exhibits a dense lithium
+deposition layer without dendrites (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b). In contrast with PP-Li, the surface of
+bare lithium is very loose and porous (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c). A 28 &#x003bc;m lithium deposition layer
+was observed clearly on the surface of the bare lithium, which was
+separated from the substrate (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d). The thick and loose lithium deposition layer will
+increase the impedance and contact with the electrolyte in a larger
+area, resulting in severe side reactions and consumption of the electrolyte.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> The regulating effect of PP-Li on the lithium
+deposition process can be further verified by electrochemical impedance
+spectroscopy (EIS) of the symmetrical cells. The impedance spectra
+of the cells are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S3</ext-link>. The
+impedance of the Li|Li symmetrical cell with PP-Li after one cycle
+is 47 &#x003a9;, which is higher than the cell with the bare lithium
+because the solid polyelectrolyte layer of PP-Li is not activated
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S3a</ext-link>). The impedance of the cell
+with PP-Li decreased to 18 &#x003a9; after 10 cycles because the protective
+layer that was activated stabilized the performance of lithium and
+provided homogeneous ionic conductivity (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S3b</ext-link>). However, the impedance of the bare lithium increased
+to 71 &#x003a9;, which was caused by the thick and loose lithium deposition
+layer (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S3b</ext-link>). This result is consistent
+with the SEM, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>. It demonstrated that the solid polyelectrolyte layer
+of the PP-Li electrode favorably stabilized the Li ion diffusion kinetics.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Surface
+and cross-sectional SEM images of PP-Li (a,b) and bare
+Li (c,d) after 10 cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0004" id="gr4" position="float"/></fig><p>Similarly, SEM images of PP-Li anodes after 50 cycles show that
+they have a dense surface without dendrites (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a,b). This is because that the flexible protective
+layer adapted to the volume change of lithium and effectively inhibited
+the growth of dendrites. In contrast with the PP-Li anode, the lithium
+deposition of the bare lithium is extremely uneven and has many cracks
+and holes (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c). A large number of vertically upward dendrites were clearly observed
+in the high-magnification SEM image (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d). The growth of these dendrites is very
+likely to puncture the separator, causing internal short circuit,
+which is one of the serious safety problems of Li-based batteries.<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> In general, the protective layer formed by PVA and P<sub>2</sub>O<sub>5</sub> significantly stabilized the lithium metal anode because
+of its flexibility and homogeneous ionic conductivity.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>SEM images of PP-Li (a,b)
+and bare Li (c,d) after 50 cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0005" id="gr5" position="float"/></fig><p>Generally, the lithium metal/electrolyte interface becomes unstable
+during long-term cycling. Galvanostatic cycling measurements were
+then performed for symmetrical cells to evaluate the stability of
+the Li metal/electrolyte interface of PP-Li. The Li|Li symmetrical
+cells were charged/discharged at a constant current density of 2 mA
+cm<sup>&#x02013;2</sup> with an areal capacity of 1 mAh cm<sup>&#x02013;2</sup> (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a), and
+the voltage&#x02013;time curve was observed to intuitively judge the
+stability of lithium metal anodes. The cell using the PP-Li anode
+exhibited a low polarization voltage (lass then 40 mV) and a steady
+state with ultralong cycling life of more than 1000 h. The stability
+of PP-Li can be explained by the homogeneous ionic conductivity and
+flexibility of the protective layer, which can markedly reduce the
+accumulation of isolated lithium and the consumption of the electrolyte.
+On the contrary, the cell with the bare lithium anode exhibited an
+extremely unstable voltage hysteresis with a rapid voltage increase
+(to &#x0223c;250 mV in 200 h) after 100 h cycling. The voltage curve
+random oscillated at a high potential hysteresis after 200 h.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Voltage profiles
+of Li metal plating/stripping in a Li|Li symmetrical
+cell under different current densities: (a) 2 mA cm<sup>&#x02013;2</sup> with 1 mA h cm<sup>&#x02013;2</sup> and (b) 5 mA cm<sup>&#x02013;2</sup> with 2.5 mA h cm<sup>&#x02013;2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0006" id="gr6" position="float"/></fig><p>It is well known that it is very difficult to maintain the stability
+of lithium metal anodes at high current densities and high capacities.
+Here, we further increase the current density to 5 mA cm<sup>&#x02013;2</sup> to evaluate the stability of the PP-Li electrode. As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b, cells using PP-Li
+still maintained a steady state cycling at high currents with an areal
+capacity of 2.5 mAh cm<sup>&#x02013;2</sup> over 800 h. An enlarged
+view of the voltage profiles of the cells with PP-Li electrodes is
+shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b,
+which shows that the PP-Li anodes give a steady voltage plateau with
+a low polarization voltage (&#x0223c;120 mV) at 600 h. Whereas, the
+voltage hysteresis of the cells with the bare lithium anode exhibited
+a sharp increase, which shows an extreme instability with a much large
+overpotential of over 1000 mV. Even at high current densities and
+high capacities, the cells with PP-Li also show excellent stability.
+This is mainly because PP-Li has a stable protective layer between
+the lithium metal and the electrolyte, which significantly inhibits
+side reactions and lithium dendrites and reduces the consumption of
+the electrolyte. The stability of PP-Li under high currents and high
+capacities is helpful for the application of lithium metal anodes
+in practical.</p><p>The feasibility of PP-Li anodes in practical applications
+was demonstrated
+by galvanostatic charge/discharge cycling. The evaluation of the cyclic
+stability of PP-Li anodes was conducted with half-cells having the
+LTO cathode (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>). As shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a, the cell with the PP-Li anode shows a higher initial specific
+capacity of 120.8 mA h g<sup>&#x02013;1</sup> with &#x0223c;100% Coulombic
+efficiency. After 300 cycles, its capacity is 107.4 mA h g<sup>&#x02013;1</sup>, retaining 88.9% of the initial capacity. In contrast, the discharge
+capacity of the cell with the bare Li anode at the first cycle is
+105.5 mA h g<sup>&#x02013;1</sup>, which is lower than that of the
+cell with the PP-Li anode, and degrades to 45.9 mA h g<sup>&#x02013;1</sup> at 300th cycle with 43.5% capacity retention. This is because the
+PP-Li anode can effectively suppress lithium dendrites and prevent
+the accumulation of isolated lithium, so that the capacity loss of
+lithium can be greatly reduced.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup><xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b shows the charge/discharge
+curve at 50th cycle. Because of the PP-Li anode with a protective
+layer, the LTO cell shows a higher capacity and a lower overpotential
+than the cell using the unprotected Li metal anode. As shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c, the control cell
+clearly shows a higher overpotential at 200th cycle. However, the
+overpotential of the cell with the PP-Li anode hardly increased. This
+is also demonstrated by the charge/discharge curves in different cycles,
+as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S4</ext-link>. The overpotential
+of the LTO cell with the bare Li anode rapidly increased with cycle
+number. When using PP-Li as the anode, the cell has approximately
+the same charging/discharging plateaus in different cycles. As shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">Figure S5</ext-link>, the voltage hysteresis of
+the LTO cell with the PP-Li anode nearly unchanged over 300 cycles,
+persistently stabilizing at 0.3 V, while the voltage hysteresis of
+the cell with the bare Li anode stage by stage increased from &#x0223c;0.3
+to &#x0223c;0.7 V at the 200th cycle. The PP-Li anode obviously reduced
+the overpotential and improved the stability of the lithium metal
+battery because the protective layer effectively avoided side reactions
+and reduced consumption of the electrolyte.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>(a) Long-term cycling
+performances of LTO cells at 5C and charge/discharge
+curves at (b) 50th cycle and (c) 200th cycle of the LTO cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_0007" id="gr7" position="float"/></fig></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>In summary,
+we demonstrated a Li<sub>3</sub>PO<sub>4</sub>/PVA
+solid polymer electrolyte protective layer designed to stabilize Li
+metal anodes. The thin protective layer of the PP-Li anode was formed
+via in situ reaction of the treatment solution (0.4% P<sub>2</sub>O<sub>5</sub> and 0.5% PVA in DMSO) with the lithium metal. Because
+of the synergy of Li<sub>3</sub>PO<sub>4</sub> and PVA, the protective
+layer is characterized by proper mechanical properties, well flexibility,
+and homogeneous channels for lithium ion transmission. It can reduce
+the interface impedance, effectively regulate the behavior of lithium
+deposition, and inhibit the growth of lithium dendrites. When the
+PP-Li anode was used in the Li|Li symmetrical cell, the cell showed
+an ultralong steady state cycle of over 1000 h at a current of 2 mA
+cm<sup>&#x02013;2</sup> with a capacity of 1 mA h cm<sup>&#x02013;2</sup> and steadily cycled for 800 h, even under a high current of 5 mA
+cm<sup>&#x02013;2</sup> and a high capacity of 2.5 mA h cm<sup>&#x02013;2</sup>. Similarly, at a high rate of 5C, the LTO cell with the PP-Li anode
+showed high Coulombic efficiency and high capacity retention after
+300 cycles. We believe that the Li<sub>3</sub>PO<sub>4</sub>/PVA solid
+polymer electrolyte protective layer is a simple and effective solution
+to the intrinsic problems of lithium metal anodes and the challenges
+in their practical applications.</p></sec><sec id="sec4"><label>4</label><title>Experimental
+Section</title><sec id="sec4.1"><label>4.1</label><title>Method</title><p>A treatment solution (0.4
+wt % P<sub>2</sub>O<sub>5</sub> and 0.5% wt PVA in DMSO) was obtained
+by dissolving P<sub>2</sub>O<sub>5</sub> and PVA 20-99 polymer in
+99.5% DMSO solution at 70 &#x000b0;C. An electrode was fabricated in
+an argon-filled glovebox of O<sub>2</sub> &#x0003c; 0.1 ppm and H<sub>2</sub>O &#x0003c; 0.1 ppm. The Li metal foil was polished with a sharp blade
+until the surface of the Li metal was extremely shiny, followed by
+dipping in the treatment solution for 6 h. Upon removal from the solution,
+excess liquid was removed using a lint-free wipe, and the sample was
+dried at 70 &#x000b0;C for 1 h. The obtained Li anode was denoted as
+PP-Li.</p></sec><sec id="sec4.2"><label>4.2</label><title>Electrochemical Measurement</title><p>Li|Li
+symmetrical cells and LTO cells were assembled for electrochemical
+measurements. All cells were assembled as a CR2032-type coin cell
+in an argon-filled glovebox. Li|Li symmetrical cells use the same
+Li foils as the positive and negative electrodes, 1 M lithium bis(trifluoromethanesulfonyl)imide,
+dissolved in 1,3-dioxolane/1,2-dimethoxyethane (1:1 in volume), was
+used as the electrolyte (each coin cell contented 60 &#x003bc;L of the
+electrolyte).</p><p>The LTO cells used Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> as the cathode material. When preparing the LTO electrode,
+LTO powder, acetylene black, and polyvinylidene fluoride were mixed
+in a mass ratio of 8:1:1 in <italic>N</italic>-methyl-2-pyrrolidone
+to form the homogeneous slurry. The slurry was then uniformly coated
+on the copper foil and dried at 120 &#x000b0;C for 12 h in a vacuum oven.
+Finally, the obtained LTO electrode was cut into discs with a diameter
+of 10 mm, and the areal loading of the LTO electrodes was &#x0223c;4
+mg cm<sup>&#x02013;2</sup>. Lithium hexafluorophosphate (1 M), dissolved
+in ethylene carbonate and diethyl carbonate (1:1 in volume), was used
+as the electrolyte (each coin cell contented 90 &#x003bc;L of the electrolyte).
+Galvanostatic charge/discharge tests were performed on a LAND-CT2001A
+battery testing system (Wuhan, China). The EIS measurements were performed
+with a CHI660E electrochemical workstation (Shanghai, China) in the
+frequency range of 100 kHz to 10 MHz by applying a 5 mV ac perturbation.</p></sec><sec id="sec4.3"><label>4.3</label><title>Characterization</title><p>The morphologies
+of all samples were analyzed by SEM (Hitachi S-4800, Japan). EDS analysis
+was performed on a Tecnai F20 scanning transmission electron microscope
+operated at 200 keV using an Oxford detector with a beam current of
+&#x0223c;1 nA. XRD patterns of the samples were recorded on a Rigaku
+Smart Lab X-ray diffractometer operated at 40 kV using Cu K&#x003b1;
+radiation at a scan rate of 5&#x000b0; min<sup>&#x02013;1</sup>.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c00729?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.0c00729</ext-link>.<list id="silist" list-type="simple"><list-item><p>Surface morphology of
+PP-Li; artificially cracked PP-Li
+surface; high-magnification cross-sectional SEM of PP-Li; Nyquist
+plots of Li|Li symmetrical cells; charge&#x02013;discharge curves of
+LTO cells; and voltage hysteresis upon cycling of investigated LTO
+cells (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00729/suppl_file/ao0c00729_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00729_si_001.pdf"><caption><p>ao0c00729_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d7e901-autogenerated"><p>The authors declare
+no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was financially supported
+by the National
+Natural Science Foundation of China (51674221 and 51704261), the Natural
+Science Foundation of Hebei Province (B2018203330 and B2018203360),
+and the Postgraduate Innovation Project of Hebei Province (no. CXZZSS2019054).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Du</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Bai</surname><given-names>L.</given-names></name>; <name><surname>Dang</surname><given-names>S.</given-names></name>; <name><surname>Su</surname><given-names>L.</given-names></name>; <name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>Datura-like
+Ni-HG-rGO as highly efficient electrocatalyst
+for hydrogen evolution reaction in alkaline conditions</article-title>. <source>J. Colloid Interface Sci.</source>
+<year>2019</year>, <volume>535</volume>, <fpage>75</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcis.2018.09.063</pub-id>.<pub-id pub-id-type="pmid">30286309</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Jing</surname><given-names>F.</given-names></name>; <name><surname>Fan</surname><given-names>Y.</given-names></name>; <name><surname>Hou</surname><given-names>L.</given-names></name>; <name><surname>Su</surname><given-names>L.</given-names></name>; <name><surname>Fan</surname><given-names>L.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>High-Stability MnOx Nanowires@ C@ MnOx Nanosheet Core&#x02013;Shell
+Heterostructure Pseudocapacitance Electrode Based on Reversible Phase
+Transition Mechanism</article-title>. <source>Small</source>
+<year>2019</year>, <volume>15</volume>, <fpage>1900862</fpage><pub-id pub-id-type="doi">10.1002/smll.201900862</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Song</surname><given-names>A.</given-names></name>; <name><surname>Cao</surname><given-names>L.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>In situ construction of nitrogen-doped graphene with surface-grown
+carbon nanotubes as a multifactorial synergistic catalyst for oxygen
+reduction</article-title>. <source>Carbon</source>
+<year>2019</year>, <volume>142</volume>, <fpage>40</fpage>&#x02013;<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2018.09.088</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Sun</surname><given-names>G.</given-names></name>; <name><surname>Yu</surname><given-names>F.-D.</given-names></name>; <name><surname>Que</surname><given-names>L.-F.</given-names></name>; <name><surname>Deng</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>M.-J.</given-names></name>; <name><surname>Jiang</surname><given-names>Y.-S.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>Z.-B.</given-names></name>
+<article-title>Local electronic
+structure modulation enhances operating voltage in Li-rich cathodes</article-title>. <source>Nano Energy</source>
+<year>2019</year>, <volume>66</volume>, <fpage>104102</fpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2019.104102</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Su</surname><given-names>L.</given-names></name>; <name><surname>Kong</surname><given-names>L.</given-names></name>; <name><surname>Hao</surname><given-names>S.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>Honeycomb-like
+Porous Carbon with Nanographitic Domains,
+Supported on Graphene Layers: Applicability for Lithium/Sodium Storage</article-title>. <source>ACS Sustainable Chem. Eng.</source>
+<year>2019</year>, <volume>7</volume>, <fpage>10986</fpage>&#x02013;<lpage>10994</lpage>. <pub-id pub-id-type="doi">10.1021/acssuschemeng.9b02078</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Dong</surname><given-names>L.</given-names></name>; <name><surname>Gao</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>Enabling immobilization and conversion
+of polysulfides through a
+nitrogen-doped carbon nanotubes/ultrathin MoS2 nanosheet core-shell
+architecture for lithium-sulfur batteries</article-title>. <source>J.
+Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>13103</fpage>&#x02013;<lpage>13112</lpage>. <pub-id pub-id-type="doi">10.1039/c9ta03227d</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Geng</surname><given-names>Y.</given-names></name>; <name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Su</surname><given-names>L.</given-names></name>; <name><surname>Sang</surname><given-names>L.</given-names></name>; <name><surname>Ding</surname><given-names>F.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>A sandwich-structure
+composite carbon layer coated on separator to trap polysulfides for
+high-performance lithium sulfur batteries</article-title>. <source>J.
+Alloys Compd.</source>
+<year>2020</year>, <volume>815</volume>, <fpage>152189</fpage><pub-id pub-id-type="doi">10.1016/j.jallcom.2019.152189</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Yan</surname><given-names>S.</given-names></name>; <name><surname>Xue</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>
+<article-title>Improving catalytic
+activity of layered lithium transition metal oxides for oxygen electrode
+in metal-air batteries</article-title>. <source>Int. J. Hydrogen Energy</source>
+<year>2020</year>, <volume>45</volume>, <fpage>1846</fpage>&#x02013;<lpage>1856</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2019.11.081</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Reviving the
+lithium metal anode for high-energy batteries</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>194</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2017.16</pub-id>.<pub-id pub-id-type="pmid">28265117</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Zhang</surname><given-names>X.-Q.</given-names></name>; <name><surname>Cheng</surname><given-names>X.-B.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Advances in
+Interfaces between Li
+Metal Anode and Electrolyte</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2018</year>, <volume>5</volume>, <fpage>1701097</fpage><pub-id pub-id-type="doi">10.1002/admi.201701097</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Cheng</surname><given-names>X.-B.</given-names></name>; <name><surname>Zhao</surname><given-names>C.-Z.</given-names></name>; <name><surname>Yao</surname><given-names>Y.-X.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Recent Advances
+in Energy Chemistry between Solid-State Electrolyte and Safe Lithium-Metal
+Anodes</article-title>. <source>Chem</source>
+<year>2019</year>, <volume>5</volume>, <fpage>74</fpage>&#x02013;<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1016/j.chempr.2018.12.002</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>
+<article-title>Advancing lithium metal batteries</article-title>. <source>Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>833</fpage>&#x02013;<lpage>845</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2018.03.008</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Ding</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Nasybulin</surname><given-names>E.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Lithium
+metal anodes for rechargeable
+batteries</article-title>. <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>513</fpage>&#x02013;<lpage>537</lpage>. <pub-id pub-id-type="doi">10.1039/c3ee40795k</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Cheng</surname><given-names>X.-B.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Zhao</surname><given-names>C.-Z.</given-names></name>; <name><surname>Wei</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>A Review of Solid Electrolyte Interphases on Lithium Metal Anode</article-title>. <source>Adv. Sci.</source>
+<year>2016</year>, <volume>3</volume>, <fpage>1500213</fpage><pub-id pub-id-type="doi">10.1002/advs.201500213</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Cheng</surname><given-names>X.-B.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Zhao</surname><given-names>C.-Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Toward Safe Lithium
+Metal Anode in Rechargeable Batteries: A Review</article-title>. <source>Chem. Rev.</source>
+<year>2017</year>, <volume>117</volume>, <fpage>10403</fpage>&#x02013;<lpage>10473</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.7b00115</pub-id>.<pub-id pub-id-type="pmid">28753298</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Albertus</surname><given-names>P.</given-names></name>; <name><surname>Babinec</surname><given-names>S.</given-names></name>; <name><surname>Litzelman</surname><given-names>S.</given-names></name>; <name><surname>Newman</surname><given-names>A.</given-names></name>
+<article-title>Status and challenges
+in enabling the lithium metal electrode for high-energy and low-cost
+rechargeable batteries</article-title>. <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>16</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-017-0047-2</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Zhu</surname><given-names>S.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>
+<article-title>3D Porous Cu Current Collector/Li-Metal
+Composite Anode
+for Stable Lithium-Metal Batteries</article-title>. <source>Adv. Funct.
+Mater.</source>
+<year>2017</year>, <volume>27</volume>, <fpage>1606422</fpage><pub-id pub-id-type="doi">10.1002/adfm.201606422</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Zuo</surname><given-names>T.-T.</given-names></name>; <name><surname>Wu</surname><given-names>X.-W.</given-names></name>; <name><surname>Yang</surname><given-names>C.-P.</given-names></name>; <name><surname>Yin</surname><given-names>Y.-X.</given-names></name>; <name><surname>Ye</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>N.-W.</given-names></name>; <name><surname>Guo</surname><given-names>Y.-G.</given-names></name>
+<article-title>Graphitized Carbon Fibers as Multifunctional
+3D Current Collectors for High Areal Capacity Li Anodes</article-title>. <source>Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>1700389</fpage><pub-id pub-id-type="doi">10.1002/adma.201700389</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Hao</surname><given-names>S.</given-names></name>; <name><surname>Su</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>Hierarchical Cu fibers
+induced Li uniform nucleation for dendrite-free lithium metal anode</article-title>. <source>Chem. Eng. J.</source>
+<year>2019</year>, <fpage>123691</fpage><pub-id pub-id-type="doi">10.1016/j.cej.2019.123691</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Zhang</surname><given-names>X.-Q.</given-names></name>; <name><surname>Cheng</surname><given-names>X.-B.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Fluoroethylene
+Carbonate Additives to Render Uniform Li Deposits in Lithium Metal
+Batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2017</year>, <volume>27</volume>, <fpage>1605989</fpage><pub-id pub-id-type="doi">10.1002/adfm.201605989</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Ren</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Xie</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Sun</surname><given-names>D.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>
+<article-title>Protecting the Li-Metal Anode in
+a Li-O2 Battery by using Boric Acid as an SEI-Forming Additive</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>e1803270</elocation-id><pub-id pub-id-type="doi">10.1002/adma.201803270</pub-id>.<pub-id pub-id-type="pmid">30133016</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Xin</surname><given-names>X.</given-names></name>; <name><surname>Ito</surname><given-names>K.</given-names></name>; <name><surname>Dutta</surname><given-names>A.</given-names></name>; <name><surname>Kubo</surname><given-names>Y.</given-names></name>
+<article-title>Dendrite-Free Epitaxial Growth of
+Lithium Metal during Charging in Li-O2 Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>13206</fpage>&#x02013;<lpage>13210</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201808154</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Jiang</surname><given-names>Z.</given-names></name>; <name><surname>Jin</surname><given-names>L.</given-names></name>; <name><surname>Han</surname><given-names>Z.</given-names></name>; <name><surname>Hu</surname><given-names>W.</given-names></name>; <name><surname>Zeng</surname><given-names>Z.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>
+<article-title>Facile Generation of Polymer&#x02013;Alloy Hybrid Layers for Dendrite-Free
+Lithium-Metal Anodes with Improved Moisture Stability</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>11374</fpage>&#x02013;<lpage>11378</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201905712</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Tu</surname><given-names>Z.</given-names></name>; <name><surname>Choudhury</surname><given-names>S.</given-names></name>; <name><surname>Zachman</surname><given-names>M. J.</given-names></name>; <name><surname>Wei</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>K.</given-names></name>; <name><surname>Kourkoutis</surname><given-names>L. F.</given-names></name>; <name><surname>Archer</surname><given-names>L. A.</given-names></name>
+<article-title>Fast ion transport at solid&#x02013;solid
+interfaces in hybrid battery anodes</article-title>. <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>310</fpage>&#x02013;<lpage>316</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-018-0096-1</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Pei</surname><given-names>A.</given-names></name>; <name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>A.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Lin</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Shi</surname><given-names>F.</given-names></name>; <name><surname>Boyle</surname><given-names>D.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Uniform High
+Ionic Conducting Lithium Sulfide Protection Layer for
+Stable Lithium Metal Anode</article-title>. <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>1900858</fpage><pub-id pub-id-type="doi">10.1002/aenm.201900858</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Deng</surname><given-names>K.</given-names></name>; <name><surname>Han</surname><given-names>D.</given-names></name>; <name><surname>Ren</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Xiao</surname><given-names>M.</given-names></name>; <name><surname>Meng</surname><given-names>Y.</given-names></name>
+<article-title>Single-ion
+conducting artificial solid electrolyte interphase layers for dendrite-free
+and highly stable lithium metal anodes</article-title>. <source>J. Mater.
+Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>13113</fpage>&#x02013;<lpage>13119</lpage>. <pub-id pub-id-type="doi">10.1039/c9ta02407g</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Sun</surname><given-names>Y. P.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>J. W.</given-names></name>; <name><surname>Liang</surname><given-names>J. N.</given-names></name>; <name><surname>Wang</surname><given-names>C. H.</given-names></name>; <name><surname>Sun</surname><given-names>Q.</given-names></name>; <name><surname>Lin</surname><given-names>X. T.</given-names></name>; <name><surname>Adair</surname><given-names>K. R.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>D. W.</given-names></name>; <name><surname>Li</surname><given-names>R. Y.</given-names></name>; <name><surname>Cai</surname><given-names>M.</given-names></name>; <name><surname>Sham</surname><given-names>T. K.</given-names></name>; <name><surname>Sun</surname><given-names>X. L.</given-names></name>
+<article-title>A Novel
+Organic &#x0201c;Polyurea&#x0201d; Thin Film for Ultralong-Life Lithium-Metal
+Anodes via Molecular-Layer Deposition</article-title>. <source>Adv.
+Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>1806541</fpage><pub-id pub-id-type="doi">10.1002/adma.201806541</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Aurbach</surname><given-names>D.</given-names></name>; <name><surname>Ein-Ely</surname><given-names>Y.</given-names></name>; <name><surname>Zaban</surname><given-names>A.</given-names></name>
+<article-title>The surface chemistry
+of lithium
+electrodes in alkyl carbonate solutions</article-title>. <source>J.
+Electrochem. Soc.</source>
+<year>1994</year>, <volume>141</volume>, <fpage>L1</fpage>&#x02013;<lpage>L3</lpage>. <pub-id pub-id-type="doi">10.1149/1.2054718</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>Review of
+selected electrode&#x02013;solution interactions which determine the
+performance of Li and Li ion batteries</article-title>. <source>J. Power
+Sources</source>
+<year>2000</year>, <volume>89</volume>, <fpage>206</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1016/s0378-7753(00)00431-6</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Peled</surname><given-names>E.</given-names></name>; <name><surname>Golodnitsky</surname><given-names>D.</given-names></name>; <name><surname>Ardel</surname><given-names>G.</given-names></name>; <name><surname>Eshkenazy</surname><given-names>V.</given-names></name>
+<article-title>The SEI model&#x02014;application
+to lithium-polymer electrolyte batteries</article-title>. <source>Electrochim.
+Acta</source>
+<year>1995</year>, <volume>40</volume>, <fpage>2197</fpage>&#x02013;<lpage>2204</lpage>. <pub-id pub-id-type="doi">10.1016/0013-4686(95)00163-9</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Peled</surname><given-names>E.</given-names></name>; <name><surname>Golodnitsky</surname><given-names>D.</given-names></name>; <name><surname>Ardel</surname><given-names>G.</given-names></name>
+<article-title>Advanced model for solid electrolyte
+interphase electrodes in liquid and polymer electrolytes</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1997</year>, <volume>144</volume>, <fpage>L208</fpage>&#x02013;<lpage>L210</lpage>. <pub-id pub-id-type="doi">10.1149/1.1837858</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Wen</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>L.</given-names></name>
+<article-title>Electrochemical behaviors
+of a Li3N modified Li metal electrode in secondary lithium batteries</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>8091</fpage>&#x02013;<lpage>8097</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2011.05.035</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Sun</surname><given-names>B.</given-names></name>; <name><surname>Di</surname><given-names>S.</given-names></name>; <name><surname>Yan</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>
+<article-title>Mixed Lithium Oxynitride/Oxysulfide
+as an Interphase Protective Layer To Stabilize Lithium Anodes for
+High-Performance Lithium-Sulfur Batteries</article-title>. <source>ACS
+Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>39695</fpage>&#x02013;<lpage>39704</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b14045</pub-id>.<pub-id pub-id-type="pmid">30379527</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Ko</surname><given-names>J.</given-names></name>; <name><surname>Yoon</surname><given-names>Y. S.</given-names></name>
+<article-title>Recent
+progress in LiF materials for safe lithium metal
+anode of rechargeable batteries: Is LiF the key to commercializing
+Li metal batteries?</article-title>. <source>Ceram. Int.</source>
+<year>2019</year>, <volume>45</volume>, <fpage>30</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1016/j.ceramint.2018.09.287</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Li</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>X.-Q.</given-names></name>; <name><surname>Shi</surname><given-names>P.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Fluorinated Solid-Electrolyte
+Interphase in High-Voltage Lithium Metal Batteries</article-title>. <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>2647</fpage><pub-id pub-id-type="doi">10.1016/j.joule.2019.09.022</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Li</surname><given-names>N.-W.</given-names></name>; <name><surname>Yin</surname><given-names>Y.-X.</given-names></name>; <name><surname>Yang</surname><given-names>C.-P.</given-names></name>; <name><surname>Guo</surname><given-names>Y.-G.</given-names></name>
+<article-title>An artificial solid
+electrolyte interphase layer for stable lithium metal anodes</article-title>. <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>1853</fpage>&#x02013;<lpage>1858</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201504526</pub-id>.<pub-id pub-id-type="pmid">26698171</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Di
+Turo</surname><given-names>F.</given-names></name>; <name><surname>Matricardi</surname><given-names>P.</given-names></name>; <name><surname>Di Meo</surname><given-names>C.</given-names></name>; <name><surname>Mazzei</surname><given-names>F.</given-names></name>; <name><surname>Favero</surname><given-names>G.</given-names></name>; <name><surname>Zane</surname><given-names>D.</given-names></name>
+<article-title>PVA hydrogel as polymer electrolyte for electrochemical impedance
+analysis on archaeological metals</article-title>. <source>J. Cult.
+Herit.</source>
+<year>2019</year>, <volume>37</volume>, <fpage>113</fpage>&#x02013;<lpage>120</lpage>. <pub-id pub-id-type="doi">10.1016/j.culher.2018.09.017</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Alipoori</surname><given-names>S.</given-names></name>; <name><surname>Mazinani</surname><given-names>S.</given-names></name>; <name><surname>Aboutalebi</surname><given-names>S. H.</given-names></name>; <name><surname>Sharif</surname><given-names>F.</given-names></name>
+<article-title>Review of PVA-based
+gel polymer electrolytes in flexible solid-state supercapacitors:
+Opportunities and challenges</article-title>. <source>J. Energy Storag</source>
+<year>2020</year>, <volume>27</volume>, <fpage>101072</fpage><pub-id pub-id-type="doi">10.1016/j.est.2019.101072</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Lopez</surname><given-names>J.</given-names></name>; <name><surname>Pei</surname><given-names>A.</given-names></name>; <name><surname>Oh</surname><given-names>J. Y.</given-names></name>; <name><surname>Wang</surname><given-names>G.-J. N.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>
+<article-title>Effects of
+polymer coatings on electrodeposited lithium metal</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>11735</fpage>&#x02013;<lpage>11744</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.8b06047</pub-id>.<pub-id pub-id-type="pmid">30152228</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Koteswararao</surname><given-names>J.</given-names></name>; <name><surname>Satyanarayana</surname><given-names>S. V.</given-names></name>; <name><surname>Madhu</surname><given-names>G. M.</given-names></name>; <name><surname>Venkatesham</surname><given-names>V.</given-names></name>
+<article-title>Estimation
+of structural and mechanical properties of Cadmium Sulfide/PVA nanocomposite
+films</article-title>. <source>Heliyon</source>
+<year>2019</year>, <volume>5</volume>, <elocation-id>e01851</elocation-id><pub-id pub-id-type="doi">10.1016/j.heliyon.2019.e01851</pub-id>.<pub-id pub-id-type="pmid">31206090</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Yang</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>
+<article-title>LiFSI to improve
+lithium deposition in carbonate electrolyte</article-title>. <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>23</volume>, <fpage>350</fpage>&#x02013;<lpage>357</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.04.041</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Brandt</surname><given-names>K.</given-names></name>
+<article-title>Historical
+development of secondary lithium batteries</article-title>. <source>Solid State Ionics</source>
+<year>1994</year>, <volume>69</volume>, <fpage>173</fpage>&#x02013;<lpage>183</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(94)90408-1</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Whittingham</surname><given-names>M. S.</given-names></name>
+<article-title>Lithium
+batteries and cathode materials</article-title>. <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>4271</fpage>&#x02013;<lpage>4302</lpage>. <pub-id pub-id-type="doi">10.1021/cr020731c</pub-id>.<pub-id pub-id-type="pmid">15669156</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Yamaki</surname><given-names>J.-i.</given-names></name>; <name><surname>Tobishima</surname><given-names>S.-i.</given-names></name>; <name><surname>Hayashi</surname><given-names>K.</given-names></name>; <name><surname>Keiichi Saito</surname><given-names>K.</given-names></name>; <name><surname>Nemoto</surname><given-names>Y.</given-names></name>; <name><surname>Arakawa</surname><given-names>M.</given-names></name>
+<article-title>A consideration of the morphology
+of electrochemically deposited lithium in an organic electrolyte</article-title>. <source>J. Power Sources</source>
+<year>1998</year>, <volume>74</volume>, <fpage>219</fpage>&#x02013;<lpage>227</lpage>. <pub-id pub-id-type="doi">10.1016/s0378-7753(98)00067-6</pub-id>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,343 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6641902</article-id><article-id pub-id-type="pmid">31458759</article-id><article-id pub-id-type="doi">10.1021/acsomega.8b00384</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>High-Energy-Density Rechargeable Lithium&#x02013;Nickel
+Chloride Aqueous Solution Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Morita</surname><given-names>Yoshinori</given-names></name></contrib><contrib contrib-type="author" id="ath2"><name><surname>Watanabe</surname><given-names>Shinya</given-names></name></contrib><contrib contrib-type="author" id="ath3"><name><surname>Mori</surname><given-names>Daisuke</given-names></name></contrib><contrib contrib-type="author" id="ath4"><name><surname>Takeda</surname><given-names>Yasuo</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>Yamamoto</surname><given-names>Osamu</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Imanishi</surname><given-names>Nobuyuki</given-names></name><xref rid="cor2" ref-type="other">*</xref></contrib><aff id="aff1">Graduate School of Engineering, <institution>Mie University</institution>, Tsu, Mie 514-8507, <country>Japan</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>yamamoto@chem.mie-u.ac.jp</email> (O.Y.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>imanishi@chem.mie-u.ac.jp</email> (N.I.).</corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>05</month><year>2018</year></pub-date><pub-date pub-type="collection"><day>31</day><month>05</month><year>2018</year></pub-date><volume>3</volume><issue>5</issue><fpage>5558</fpage><lpage>5562</lpage><history><date date-type="received"><day>02</day><month>03</month><year>2018</year></date><date date-type="accepted"><day>07</day><month>05</month><year>2018</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2018 American Chemical
+Society</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-00384e_0001" id="ab-tgr1"/></p><p>High-energy-density rechargeable
+batteries with performance beyond
+that of lithium-ion batteries are required for next-generation electric
+vehicles. We propose a novel rechargeable battery with a lithium anode
+and a NiCl<sub>2</sub> aqueous cathode that is separated Li<sub>1.4</sub>Al<sub>0.4</sub>Ge<sub>0.2</sub>Ti<sub>1.4</sub>(PO<sub>4</sub>)<sub>3</sub> as a water-stable lithium-ion-conducting solid electrolyte.
+The cell was discharged up to 93% of the theoretical cathode capacity
+at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C. The calculated energy
+density, based on the weights of NiCl<sub>2</sub> and Li, and the
+average discharge voltage of 2.4 V at 0.5 mA cm<sup>&#x02013;2</sup>, was 852 Wh kg<sup>&#x02013;1</sup>, which is more than twice as
+high as that of conventional lithium-ion batteries. The cell was successfully
+cycled for 50 cycles without any degradation of the charge and discharge
+voltages at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C for 5 h charge
+and 5 h discharge, where the utilization of NiCl<sub>2</sub> was 80%.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao8b00384</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2018-00384e</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Recently,
+the demand for electric vehicles (EVs) has increased
+significantly with an aim to reduce carbon dioxide emissions and to
+exploit the higher total energy conversion efficiency of batteries
+than that of internal combustion (IC) engines.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Commercialized EVs with the current lithium-ion batteries have considerably
+lower driving ranges than vehicles with IC engines, and the charging
+time for these batteries is excessive when compared to that to fill
+a gasoline tank. These serious problems should be solved to realize
+the dissemination of EVs. The specific energy density of a gasoline
+IC engine for automotive applications is estimated to be around 1700
+Wh kg<sup>&#x02013;1</sup>,<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> whereas the
+theoretical specific energy density for a lithium-ion battery based
+on a carbon anode and a LiCoO<sub>2</sub>-based cathode is as low
+as 387 Wh kg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> The
+lithium-ion diffusion constants in Li<sub>0.65</sub>CoO<sub>2</sub><sup><xref ref-type="bibr" rid="ref4">4</xref></sup> and graphite<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> are reported to be 9.8 &#x000d7; 10<sup>&#x02013;8</sup> and 10<sup>&#x02013;8</sup>&#x02013;10<sup>&#x02013;6</sup> cm<sup>2</sup> s<sup>&#x02013;1</sup> at 25 &#x000b0;C, respectively, which are several orders
+lower than that for aqueous liquid electrolytes.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Therefore, the specific power density of a high-capacity
+lithium-ion battery is less than 1000 W kg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup></p><p>In this decade, lithium&#x02013;sulfur<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> and lithium&#x02013;air<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> batteries have
+been extensively studied as high-energy-density batteries for EVs.
+The theoretical energy densities of these batteries are 2567 and 3050
+Wh kg<sup>&#x02013;1</sup>, respectively, which are higher than that
+of the IC engine. However, even after a decade of research and development,
+mass production of these batteries has yet to be realized. Several
+problems with respect to the cell chemistry must be addressed.<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>Aqueous lithium batteries are attractive candidate for high-energy
+and power-density applications.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> Two types of aqueous
+lithium batteries have been proposed; one with an aqueous electrolyte
+and lithium interaction electrodes developed by Dahn and co-workers,<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> and the other with an aqueous cathode and lithium anode separated
+by a water-stable lithium-conducting solid electrolyte developed by
+Goodenough and co-workers.<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> The former aqueous lithium battery system exhibits high power density;
+however, the specific energy density is lower than that of conventional
+lithium-ion batteries. The cell proposed by Goodenough and co-workers<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> consists of a water-stable Li<sub>1+<italic>x</italic></sub>Al<italic><sub>x</sub></italic>Ti<sub>2&#x02013;<italic>x</italic></sub>(PO<sub>4</sub>)<sub>3</sub> (LATP) separator, a
+water soluble redox couple cathode, Fe(CN)<sub>6</sub><sup>3&#x02013;</sup>/Fe(CN)<sub>6</sub><sup>4&#x02013;</sup>, and a lithium anode. This
+cell has a theoretical specific energy density of 392 Wh kg<sup>&#x02013;1</sup>, which is comparable to that of current lithium-ion batteries. Byon
+and co-workers<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> proposed a similar aqueous
+lithium battery with a triiodide/iodide redox couple in an aqueous
+cathode that exhibited excellent rate capability, although the theoretical
+specific energy density was comparable to that of lithium-ion batteries.
+The cell with Ni(OH)<sub>2</sub><sup><xref ref-type="bibr" rid="ref20">20</xref></sup> and
+Br<sub>2</sub><sup><xref ref-type="bibr" rid="ref25">25</xref></sup> exhibited a theoretical
+energy density that was twice as high as that of conventional lithium-ion
+batteries; however, the stability of the lithium-conducting solid
+electrolyte in aqueous electrolytes is questionable. Lithium metal
+anodes with liquid cathodes are attractive for the development of
+high specific power and energy density rechargeable batteries. We
+have recently reported on high specific energy density aqueous lithium
+rechargeable batteries with a metal chloride MCl<sub>2</sub> (M =
+Fe, Co, Ni, Cu, and Zn) aqueous cathode that have proven to be feasible.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Among these cathodes, the Li/CoCl<sub>2</sub> and Li/NiCl<sub>2</sub> couples exhibit successful charge and discharge
+performance; the estimated specific energy density of the Li/NiCl<sub>2</sub> couple, determined from the mass of the cell components with
+a Li<sub>1.4</sub>Al<sub>0.4</sub>Ge<sub>0.2</sub>Ti<sub>1.4</sub>(PO<sub>4</sub>)<sub>3</sub> (LAGTP; 0.1 mm thick) separator, was
+670 Wh kg<sup>&#x02013;1</sup> (except the packaging). The charge and
+discharge performance of the Li/NiCl<sub>2</sub> cell at a high discharge
+depth is investigated here to confirm the high specific energy density
+of this system.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><p>The Li/NiCl<sub>2</sub> cell was composed of a lithium metal anode,
+a Li(FSO<sub>2</sub>)<sub>2</sub>N (LiFSI)-tetraethylene glycol dimethyl
+ether (G4) (1:2 molar ratio)-50 vol % 1,3 dioxolane (DOL) interlayer,
+LAGTP-3 wt % epoxy resin film, a mixture of saturated NiCl<sub>2</sub> and LiCl aqueous solutions (1:1 v/v), and a Ni metal current collector.
+LAGTP was reported to be unstable in contact with lithium metal;<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> therefore, (LiFSI-2G4)-50 vol % DOL was used
+as the interlayer between the lithium metal anode and LAGTP to prevent
+direct contact. The (LiFSI-2G4)-50 vol % DOL electrolyte suppresses
+the formation of lithium dendrites during the lithium deposition process
+at room temperature and high current density.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>The stability of the lithium-ion conducting solid electrolyte
+in
+the catholyte is necessary. LATP was reported to be stable in aqueous
+acetic acid saturated with lithium acetate, the pH of which was 3.34.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> The stability of LAGTP&#x02013;epoxy in a saturated
+aqueous solution of both NiCl<sub>2</sub> and LiCl was examined. The
+impedance profiles of the Pt/NiCl<sub>2</sub>&#x02013;LiCl/LAGTP&#x02013;epoxy
+film/NiCl<sub>2</sub>&#x02013;LiCl/Pt cell over time at 25 &#x000b0;C
+are shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a. The pH value of the NiCl<sub>2</sub>&#x02013;LiCl solution was
+3.7. No change of the impedance profiles was observed for three weeks.
+The impedance profiles showed a semicircle, which indicates the grain
+boundary resistance.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> The total (bulk
+and grain boundary) and grain boundary conductivities of the LAGTP&#x02013;epoxy
+film were 7.0 &#x000d7; 10<sup>&#x02013;4</sup> and 2.6 &#x000d7; 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> at 25 &#x000b0;C, which are
+comparable with those reported previously.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> An X-ray diffraction (XRD) pattern of the LAGTP film kept in the
+NiCl<sub>2</sub>&#x02013;LiCl aqueous solution for one month was the
+same as that of the pristine LAGTP, as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b. The lattice parameters of LAGTP were slightly
+decreased from 8.4755 to 8.4571 &#x000c5; for the <italic>a</italic> lattice
+and from 20.7347 to 20.7303 &#x000c5; for the <italic>c</italic> lattice
+after immersion in the aqueous solution for one month. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c shows a schematic diagram
+of the pouch-type Li/(LiFSI-2G4)-50 vol % DOL/LAGTP&#x02013;epoxy film/saturated
+NiCl<sub>2</sub> and LiCl aqueous solution (1:1 v/v)/Ni cell (Li/NiCl<sub>2</sub> cell), where the thicknesses of the interlayer electrolyte,
+LAGTP, and catholyte were 0.016, 0.335, and 0.146 mm, respectively.
+The impedance profile of the Li/NiCl<sub>2</sub> cell at 25 &#x000b0;C
+is shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d. The semicircle in the high-frequency region corresponds to the
+grain boundary resistance of the LAGTP&#x02013;epoxy film, and the
+semicircle in the low-frequency region corresponds to the solid electrolyte
+interphase (SEI) on lithium.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> The total
+cell resistance was ca. 200 &#x003a9; cm<sup>2</sup>. The highest contribution
+to the cell resistance is the resistance of the SEI between lithium
+and the interlayer electrolyte.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Impedance profiles of the Pt/saturated
+NiCl<sub>2</sub> and
+LiCl aqueous solution (1:1 v/v)/LAGTP-3 wt % epoxy resin/saturated
+NiCl<sub>2</sub> and LiCl aqueous solution (1:1 v/v)/Pt cell at 25
+&#x000b0;C as a function of storage periods, (b) XRD patterns of the
+pristine LAGTP and LAGTP immersed in saturated NiCl<sub>2</sub> and
+LiCl aqueous solution (1:1 v/v) for one month, (c) schematic diagram
+of the pouch-type test cell of the Li/(LiFSI-2G4)-50 vol % DOL/LAGTP&#x02013;epoxy
+resin/saturated NiCl<sub>2</sub> and LiCl aqueous solution (1:1 v/v)/Ni
+cell, and (d) impedance profile of the pouch-type Li/(LiFSI-2G4)-50
+vol % DOL/LAGTP&#x02013;epoxy resin/saturated NiCl<sub>2</sub> and
+LiCl aqueous solution (1:1 v/v)/Ni cell at 25 &#x000b0;C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-00384e_0004" id="gr1" position="float"/></fig><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a shows
+a discharge curve for the Li/NiCl<sub>2</sub> cell at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C. The open-circuit voltage of 2.82
+V at 25 &#x000b0;C was in good agreement with that calculated from the
+following cell reaction<disp-formula id="ueq1"><named-content content-type="caption-p">Anode:</named-content>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-00384e_m001" position="anchor"/></disp-formula><disp-formula id="ueq2"><named-content content-type="caption-p">Cathode:</named-content>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-00384e_m002" position="anchor"/></disp-formula>An issue with the aqueous lithium cell is
+the competitive hydrogen evolution reaction<disp-formula id="ueq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-00384e_m003" position="anchor"/></disp-formula>The Ni<sup>2+</sup> reduction potential in
+the mixture of saturated NiCl<sub>2</sub> and LiCl is higher than
+that of the hydrogen reduction potential on Ni metal, including the
+hydrogen overpotential.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The discharge
+curve shows two discharge plateaus, the first of which is attributed
+to the reduction of Ni<sup>2+</sup> to Ni.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Discharge curve of
+the Li/(LiFSI-2G4)-50 vol % DOL/LAGTP&#x02013;epoxy
+resin/saturated NiCl<sub>2</sub> and LiCl aqueous solution (1:1 v/v)/Ni
+cell at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C, (b) gas chromatogram
+signal of the detected gas, and (c) change of the amount of evolved
+hydrogen gas with discharge period.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-00384e_0002" id="gr2" position="float"/></fig><p>Ni deposition was confirmed with the Li/NiCl<sub>2</sub>/carbon
+cell (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b00384/suppl_file/ao8b00384_si_001.pdf">Figure S2</ext-link>). After approximately 9
+h discharge, the cell voltage abruptly dropped from 2.4 to 1.7 V and
+then plateau voltages were observed. The capacity of the first plateau
+was 4.55 mAh, which corresponds to 93.6% reduction of Ni<sup>2+</sup> to Ni in the catholyte. The second plateau is attributed to the
+hydrogen evolution reaction. Hydrogen gas was detected using gas chromatography
+with an in-house built sealed container with a pouch-type Li/NiCl<sub>2</sub> cell (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b00384/suppl_file/ao8b00384_si_001.pdf">Figure S1</ext-link>). Hydrogen gas
+was not observed in the first plateau range and the amount of hydrogen
+was increased with the discharge period, as shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c. The amount of observed hydrogen
+gas was slightly less than that calculated according to the electricity
+passed through the cell.</p><p>The charge and discharge cycle performance
+at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C is shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a for the Li/NiCl<sub>2</sub> cell, where the cell
+was discharged for 5 h, rested for 1 h, and charged for 5 h. The utilization
+of NiCl<sub>2</sub> in the catholyte was ca. 80%. This cell showed
+excellent cyclic performance for 50 cycles. The specific energy density
+of conventional lithium-ion batteries is generally dependent on the
+area specific capacity.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> However, the Li/NiCl<sub>2</sub> cell showed no dependence of the specific energy density
+on the charged amount of NiCl<sub>2</sub> in the catholyte. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b shows the capacity
+vs charged amount of NiCl<sub>2</sub> at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C. The observed capacities were almost the same as
+those calculated for the reduction of Ni<sup>2+</sup> in the catholyte.
+This result suggests that the energy density of the practical battery
+approaches the calculated energy density because the contribution
+of the weight of the nonactive cell components decreases with an increase
+in the cell capacity. EV batteries require high power density. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c shows the current
+density vs cell voltage curves for the Li/NiCl<sub>2</sub> cell at
+25 &#x000b0;C, where the cell voltages were measured after 10 min discharge
+(or charge). At low current density, Ni deposition and dissolution
+polarization contribute mainly to the cell voltage drop, whereas at
+high current density the cell voltage drop is predominantly due to
+the cell resistance, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b00384/suppl_file/ao8b00384_si_001.pdf">Figure S3</ext-link>. The surface morphology of the Ni electrode after cycling showed
+no dendrite formation (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b00384/suppl_file/ao8b00384_si_001.pdf">Figure S4</ext-link>).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Cyclic
+performance of the Li/(LiFSI-2G4)-50 vol % DOL/LAGTP&#x02013;epoxy
+resin/saturated NiCl<sub>2</sub> and LiCl aqueous solution (1:1 v/v)/Ni
+cell at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C, (b) cell capacity
+vs amount of the charged NiCl<sub>2</sub> curves at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C, and (c) current density vs cell voltage
+curves for the Li/(LiFSI-2G4)-50 vol % DOL/LAGTP&#x02013;epoxy resin/saturated
+NiCl<sub>2</sub> and LiCl aqueous solution (1:1 v/v) cell at 25 &#x000b0;C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-00384e_0003" id="gr3" position="float"/></fig></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>In summary,
+a novel high specific energy density aqueous lithium
+rechargeable battery was developed that consists of a lithium metal
+anode and an aqueous NiCl<sub>2</sub> solution cathode separated by
+a LAGTP&#x02013;epoxy film. The cell exhibited excellent cycling performance
+at 0.5 mA cm<sup>&#x02013;2</sup> and 25 &#x000b0;C. The specific capacity
+showed no dependence on the mass of the active material. The specific
+energy density for the cell with a high areal capacity of 100 mAh
+cm<sup>&#x02013;2</sup> could be expected to be 643 Wh kg<sup>&#x02013;1</sup> based on the mass of lithium, the NiCl<sub>2</sub>&#x000b7;2H<sub>2</sub>O cathode, and the 0.2 mm thick LAGTP film with a discharge cell
+voltage of 2.4 V, which is 1.7 times higher than the theoretical energy
+density of the conventional lithium-ion cell.</p></sec><sec id="sec4"><label>4</label><title>Experimental
+Section</title><p>Li<sub>1.4</sub>Al<sub>0.2</sub>Ge<sub>0.4</sub>Ti<sub>1.4</sub>(PO<sub>4</sub>)<sub>3</sub> (LAGTP)&#x02013;epoxy films
+were prepared
+according to the previously reported tape-casting method.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> LAGTP powders were prepared by the sol&#x02013;gel
+method using citric acid. Stoichiometric amounts of GeC<sub>8</sub>H<sub>20</sub>O<sub>4</sub> and TiC<sub>18</sub>H<sub>36</sub>O<sub>4</sub> (Aldrich) were dissolved in 0.2 M citric acid aqueous solution
+at 90 &#x000b0;C overnight and then LiNO<sub>3</sub>, Al(NO)<sub>3</sub>, and NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub> (Nakalai Tesque)
+were added to the gel. After a homogenous solution was formed, ethylene
+glycol was added and the solution was then heated at 200 &#x000b0;C to
+allow water to evaporate. The gel was then heated at 580 &#x000b0;C for
+4 h. The black-colored product was ground to a fine powder with an
+agate mortar and pestle before sintering at 800 &#x000b0;C for 4 h. The
+LAGTP powder was dispersed in a mixed solution of ethanol and toluene
+with a fish oil dispersant for half a day using a high-speed mechanical
+mill (Fritsch Planetary Micro Mill). Polybutylalcohol as a binder
+and butyl benzyl phthalate as a plasticizer were added to the mixed
+slurry, which was then ball-milled for another 10 h. The slurry was
+deaired under vacuum. Tape-casting was performed on a silicon-coated
+polyethylene substrate foil using double blades with gap heights of
+0.7 and 0.4 mm and a constant casting speed of 60 cm min<sup>&#x02013;1</sup>. After tape-casting, the green tape was slowly dried at 5 &#x000b0;C
+for 24 h. Several green sheets were hot pressed together at 50 &#x000b0;C
+and 50 Pa and then sintered at 900 &#x000b0;C for 7 h. The LAGTP&#x02013;epoxy
+composite films were prepared by dropping a mixed solution of 1 M
+1,3 phenylenediamine and 2 M 2,2-bis(4-glycidyloxyphenyl)propane (0.5:1.0,
+molar ratio) in tetrahydrofuran on the surface of the tape-cast LAGTP
+film. The LAGTP films (0.4&#x02013;0.2 mm thick) with the epoxy resin
+solution were kept under vacuum for 30 h, and the films were dried
+at 80 &#x000b0;C for 3 h and then polymerized at 170 &#x000b0;C overnight.
+A pouch-type cell with a small amount of catholyte was used for cell
+performance tests (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). The LAGTP&#x02013;epoxy film was enveloped with a surface-modified
+polypropylene film. The package was evacuated and heat-sealed, apart
+from a 1.2 cm diameter window on the LAGTP&#x02013;epoxy film. The
+packed LAGTP film was sandwiched with a thin separator (Toray F16CK2,
+0.016 mm in thickness) containing a (LiFSI-2G4)-50 vol % DOL interlayer
+and lithium metal (0.2 mm thick, Honjyo Metal, Japan) and enveloped
+with an aluminum-laminated film (2,4-dinitrophenol, Japan). These
+procedures were performed in an Ar-charged glovebox. A thick separator
+(nonwoven film, 0.17 mm thick) containing a saturated NiCl<sub>2</sub> and LiCl aqueous solution (1:1, v/v) was attached to the Li/interlayer/LAGTP&#x02013;epoxy
+anode side. XRD data were obtained using a Rigaku RINT 2500 diffractometer
+with Cu K&#x003b1; radiation in the 2&#x003b8; range from 10 to 90&#x000b0;
+at a scan step rate of 0.02&#x000b0; s<sup>&#x02013;1</sup>. AC impedance
+spectroscopy measurements of the cell were performed using a frequency
+response analyzer (Solartron 1260) with an electrochemical interface
+(Solartron S1 1287) in the frequency range of 0.1 Hz to 1 MHz. The
+cell potentials were measured using a potentio-galvanostat (Biologic
+Science Instruments VMPX).</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.8b00384">10.1021/acsomega.8b00384</ext-link>.<list id="silist" list-type="simple"><list-item><p>Materials, experimental
+methods; schematic diagram of
+the hydrogen evolution test cell (Figure S1); XRD pattern of the KB
+electrode (Figure S2); SEM imange of the Ni deposited electrod surface
+(Figure S3); and contribution of polariztion (Figure S4) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b00384/suppl_file/ao8b00384_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao8b00384_si_001.pdf"><caption><p>ao8b00384_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes-2"><p>The authors
+declare no competing financial interest.</p></notes><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Park</surname><given-names>K.-S.</given-names></name>
+<article-title>The Li-ion rechargeable battery: A perspective</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>1167</fpage>&#x02013;<lpage>1176</lpage>. <pub-id pub-id-type="doi">10.1021/ja3091438</pub-id>.<pub-id pub-id-type="pmid">23294028</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Girishkumar</surname><given-names>G.</given-names></name>; <name><surname>McCloskey</surname><given-names>B.</given-names></name>; <name><surname>Luntz</surname><given-names>A. C.</given-names></name>; <name><surname>Swanson</surname><given-names>S.</given-names></name>; <name><surname>Wicke</surname><given-names>W. J.</given-names></name>
+<article-title>Lithium-air
+batteries: Promise and challenge</article-title>. <source>J. Phys. Chem.
+Lett.</source>
+<year>2010</year>, <volume>1</volume>, <fpage>2193</fpage>&#x02013;<lpage>2203</lpage>. <pub-id pub-id-type="doi">10.1021/jz1005384</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Ohzuku</surname><given-names>T.</given-names></name>; <name><surname>Ueda</surname><given-names>A.</given-names></name>
+<article-title>Solid state redox reaction
+of LiCoO<sub>2</sub> (<italic>R</italic>3<italic>m</italic>) for 4
+volt secondary lithium cells</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>1994</year>, <volume>141</volume>, <fpage>2972</fpage>&#x02013;<lpage>2977</lpage>. <pub-id pub-id-type="doi">10.1149/1.2059267</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Thomas</surname><given-names>M. G. S. K.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Lithium
+mobility in the layered oxide
+Li<sub>1-x</sub>CoO<sub>2</sub></article-title>. <source>Solid
+State Ionics</source>
+<year>1985</year>, <volume>17</volume>, <fpage>13</fpage>&#x02013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(85)90117-1</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Takami</surname><given-names>N.</given-names></name>; <name><surname>Satoh</surname><given-names>A.</given-names></name>; <name><surname>Haere</surname><given-names>M.</given-names></name>; <name><surname>Osaki</surname><given-names>T.</given-names></name>
+<article-title>Structure and kinetic
+characterization lithium intercalation into carbon anode for secondary
+lithium batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1995</year>, <volume>142</volume>, <fpage>371</fpage>&#x02013;<lpage>379</lpage>. <pub-id pub-id-type="doi">10.1149/1.2044017</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="book" id="cit6"><person-group person-group-type="allauthors"><name><surname>Robinson</surname><given-names>R. A.</given-names></name>; <name><surname>Stokes</surname><given-names>R. H.</given-names></name></person-group><source>Electrolyte Solution</source>, <edition>2</edition>nd ed.; <publisher-name>Dover</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2002</year>; pp <fpage>253</fpage>&#x02013;<lpage>283</lpage></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="book" id="cit7"><person-group person-group-type="allauthors"><name><surname>Yamamoto</surname><given-names>O.</given-names></name></person-group><article-title>Introduction</article-title>. In <source>Lithium Air Battery: Fundamentals</source>; <person-group person-group-type="editor"><name><surname>Imanishi</surname><given-names>N.</given-names></name>, <name><surname>Luntz</surname><given-names>A.
+C.</given-names></name>, <name><surname>Bruce</surname><given-names>P.
+G.</given-names></name></person-group>, Eds.; <publisher-name>Springer</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2014</year>; pp <fpage>1</fpage>&#x02013;<lpage>21</lpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Freunberger</surname><given-names>S. A.</given-names></name>; <name><surname>Hardwick</surname><given-names>L. J.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Li-O<sub>2</sub> and Li-S batteries with high energy storage</article-title>. <source>Nat. Mater.</source>
+<year>2012</year>, <volume>11</volume>, <fpage>19</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1038/nmat3191</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Imanishi</surname><given-names>N.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>
+<article-title>Rechargeable lithium-air
+batteries; characteristic
+and prospects</article-title>. <source>Mater. Today</source>
+<year>2014</year>, <volume>17</volume>, <fpage>24</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1016/j.mattod.2013.12.004</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Yamin</surname><given-names>H.</given-names></name>; <name><surname>Peled</surname><given-names>E.</given-names></name>
+<article-title>Electrochemistry of a non aqueous
+lithium sulfur cell</article-title>. <source>J. Power Sources</source>
+<year>1983</year>, <volume>9</volume>, <fpage>281</fpage>&#x02013;<lpage>287</lpage>. <pub-id pub-id-type="doi">10.1016/0378-7753(83)87029-3</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Shim</surname><given-names>J.</given-names></name>; <name><surname>Striebel</surname><given-names>K. A.</given-names></name>; <name><surname>Cairns</surname><given-names>E. J.</given-names></name>
+<article-title>The lithium/sulfur
+rechargeable cell.
+Effect of electrode composition and solvent on cell performance</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2002</year>, <volume>149</volume>, <fpage>A1321</fpage>&#x02013;<lpage>A1325</lpage>. <pub-id pub-id-type="doi">10.1149/1.1503076</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Yamin</surname><given-names>H.</given-names></name>; <name><surname>Gorenshtein</surname><given-names>A.</given-names></name>; <name><surname>Penciner</surname><given-names>J.</given-names></name>; <name><surname>Sternberger</surname><given-names>Y.</given-names></name>; <name><surname>Peled</surname><given-names>E.</given-names></name>
+<article-title>Lithium sulfur battery.
+Oxidation and reduction mechanisms of polysulfides
+in THF solutions</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1988</year>, <volume>135</volume>, <fpage>1045</fpage>&#x02013;<lpage>1048</lpage>. <pub-id pub-id-type="doi">10.1149/1.2095868</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Abraham</surname><given-names>K. M.</given-names></name>; <name><surname>Jang</surname><given-names>Z.</given-names></name>
+<article-title>Polymer electrolyte based rechargeable lithium oxygen battery</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1996</year>, <volume>143</volume>, <fpage>1</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1149/1.1836378</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Freunberger</surname><given-names>S. A.</given-names></name>; <name><surname>Che</surname><given-names>Y.</given-names></name>; <name><surname>Peng</surname><given-names>Z.</given-names></name>; <name><surname>Griffin</surname><given-names>J. M.</given-names></name>; <name><surname>Hardbic</surname><given-names>J.</given-names></name>; <name><surname>Bardt</surname><given-names>F.</given-names></name>; <name><surname>Novac</surname><given-names>F.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Reaction in the rechargeable lithium-O<sub>2</sub> battery
+with alkyl carbonate electrolyte</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>8040</fpage>&#x02013;<lpage>8047</lpage>. <pub-id pub-id-type="doi">10.1021/ja2021747</pub-id>.<pub-id pub-id-type="pmid">21524112</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>McCluskey</surname><given-names>B. D.</given-names></name>; <name><surname>Schefler</surname><given-names>R.</given-names></name>; <name><surname>Spediel</surname><given-names>B. D.</given-names></name>; <name><surname>Girshkumar</surname><given-names>G.</given-names></name>; <name><surname>Luntz</surname><given-names>A. C.</given-names></name>
+<article-title>On the mechanism of nonaqueous Li-O<sub>2</sub> electrochemistry
+on C and its kinetic overpotential; some implications for Li-air batteries</article-title>. <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <fpage>23897</fpage>&#x02013;<lpage>23905</lpage>. <pub-id pub-id-type="doi">10.1021/jp306680f</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Kim</surname><given-names>H.</given-names></name>; <name><surname>Hong</surname><given-names>J.</given-names></name>; <name><surname>Park</surname><given-names>K.-Y.</given-names></name>; <name><surname>Kim</surname><given-names>H.</given-names></name>; <name><surname>Kim</surname><given-names>S.-W.</given-names></name>; <name><surname>Kang</surname><given-names>K.</given-names></name>
+<article-title>Aqueous rechargeable Li and Na ion
+batteries</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11788</fpage>&#x02013;<lpage>11827</lpage>. <pub-id pub-id-type="doi">10.1021/cr500232y</pub-id>.<pub-id pub-id-type="pmid">25211308</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Alias</surname><given-names>N.</given-names></name>; <name><surname>Mohamad</surname><given-names>A. A.</given-names></name>
+<article-title>Advances of aqueous rechargeable lithium-ion battery:
+A review</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>274</volume>, <fpage>237</fpage>&#x02013;<lpage>251</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.10.009</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Dahn</surname><given-names>J. R.</given-names></name>; <name><surname>Wainwright</surname><given-names>D.</given-names></name>
+<article-title>Rechargeable
+lithium battery with
+aqueous electrolyte</article-title>. <source>Science</source>
+<year>1994</year>, <volume>264</volume>, <fpage>1115</fpage>&#x02013;<lpage>1118</lpage>. <pub-id pub-id-type="doi">10.1126/science.264.5162.1115</pub-id>.<pub-id pub-id-type="pmid">17744893</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Luo</surname><given-names>J.-Y.</given-names></name>; <name><surname>Cui</surname><given-names>W.-J.</given-names></name>; <name><surname>Xia</surname><given-names>Y.-Y.</given-names></name>; et al. <article-title>Raising
+the cycling
+stability of aqueous lithium-ion batteries by eliminating oxygen in
+the electrolyte</article-title>. <source>Nat. Chem.</source>
+<year>2010</year>, <volume>2</volume>, <fpage>760</fpage>&#x02013;<lpage>765</lpage>. <pub-id pub-id-type="doi">10.1038/nchem.763</pub-id>.<pub-id pub-id-type="pmid">20729897</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Kim</surname><given-names>Y.</given-names></name>
+<article-title>Aqueous cathode for next-generation
+alkali-ion batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>5756</fpage>&#x02013;<lpage>5795</lpage>. <pub-id pub-id-type="doi">10.1021/ja201118f</pub-id>.<pub-id pub-id-type="pmid">21443190</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Na</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>
+<article-title>Rechargable
+Ni&#x02013;Li battery integrated aqueous/non-aqueous system</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>15098</fpage>&#x02013;<lpage>15099</lpage>. <pub-id pub-id-type="doi">10.1021/ja906529g</pub-id>.<pub-id pub-id-type="pmid">19803514</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>
+<article-title>A liquid cathode
+battery based on
+a hybrid electrolyte</article-title>. <source>ChemSusChem</source>
+<year>2011</year>, <volume>4</volume>, <fpage>1087</fpage>&#x02013;<lpage>1090</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201100201</pub-id>.<pub-id pub-id-type="pmid">21887772</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Byon</surname><given-names>H. R.</given-names></name>
+<article-title>High-performance
+rechargeable lithium-iodine
+batteries using triiodide/iodide redox couples in an aqueous cathode</article-title>. <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <elocation-id>1896</elocation-id><pub-id pub-id-type="doi">10.1038/ncomms2907</pub-id>.<pub-id pub-id-type="pmid">23695690</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Hou</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>Y.</given-names></name>; <name><surname>Holzo</surname><given-names>R.</given-names></name>
+<article-title>An aqueous rechargeable
+lithium battery using coated Li metal as anode</article-title>. <source>Sci. Rep.</source>
+<year>2013</year>, <volume>3</volume>, <elocation-id>1401</elocation-id><pub-id pub-id-type="doi">10.1038/srep01401</pub-id>.<pub-id pub-id-type="pmid">23466633</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Bai</surname><given-names>P.</given-names></name>; <name><surname>Viswanathhan</surname><given-names>V.</given-names></name>; <name><surname>Bazant</surname><given-names>M. Z.</given-names></name>
+<article-title>A dual-mode rechargeable lithium-bromine/oxygen
+fuel cell</article-title>. <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>14165</fpage>&#x02013;<lpage>14172</lpage>. <pub-id pub-id-type="doi">10.1039/C5TA03335G</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Morita</surname><given-names>Y.</given-names></name>; <name><surname>Watanabe</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Mori</surname><given-names>D.</given-names></name>; <name><surname>Matsuda</surname><given-names>Y.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>
+<article-title>High specific
+energy density aqueous lithium-metal chloride rechargeable batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume>, <fpage>A1958</fpage>&#x02013;<lpage>A1964</lpage>. <pub-id pub-id-type="doi">10.1149/2.0881709jes</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Imanishi</surname><given-names>N.</given-names></name>; <name><surname>Hasegawa</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Hirano</surname><given-names>A.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>
+<article-title>Lithium anode for lithium-air secondary batteries</article-title>. <source>J. Power Sources</source>
+<year>2008</year>, <volume>185</volume>, <fpage>1392</fpage>&#x02013;<lpage>1397</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2008.07.080</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Matsui</surname><given-names>M.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>; et al. <article-title>A reversible dendrite-free high areal-capacity lithium metal electrode</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <elocation-id>15106</elocation-id><pub-id pub-id-type="doi">10.1038/ncomms15106</pub-id>.<pub-id pub-id-type="pmid">28440299</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Shimonishi</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Johnson</surname><given-names>P.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>; <name><surname>Hirano</surname><given-names>A.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Sammes</surname><given-names>N.</given-names></name>
+<article-title>A study on lithium/air
+secondary batteries-Stability of NASICON-type glass ceramics in acid
+solutions</article-title>. <source>J. Power Sources</source>
+<year>2010</year>, <volume>195</volume>, <fpage>6187</fpage>&#x02013;<lpage>6191</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2009.11.023</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>West</surname><given-names>A. R.</given-names></name>
+<article-title>The AC conductivity
+of polycrystalline LISICON, Li<sub>2+2x</sub>Zn<sub>1-x</sub>GeO<sub>4</sub></article-title>. <source>J. Electrochem. Soc.</source>
+<year>1983</year>, <volume>130</volume>, <fpage>662</fpage>&#x02013;<lpage>669</lpage>. <pub-id pub-id-type="doi">10.1149/1.2119778</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Lee</surname><given-names>Y. G.</given-names></name>; <name><surname>Matsui</surname><given-names>M.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>
+<article-title>Tape-cast water-stable NASICON-type
+high lithium ion conducting solid electrolyte films for aqueous lithium-air
+battery</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>A1265</fpage>&#x02013;<lpage>A1271</lpage>. <pub-id pub-id-type="doi">10.1149/2.0711507jes</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Sunahiro</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>; et al. <article-title>A solvated ionic liquid
+as the anolyte for
+aqueous rechargeable Li-O<sub>2</sub> batteries</article-title>. <source>ChemElectroChem</source>
+<year>2015</year>, <volume>2</volume>, <fpage>1144</fpage>&#x02013;<lpage>1151</lpage>. <pub-id pub-id-type="doi">10.1002/celc.201500113</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Stanojevic</surname><given-names>D.</given-names></name>; <name><surname>Toskovic</surname><given-names>D.</given-names></name>; <name><surname>Rajkovic</surname><given-names>M. B.</given-names></name>
+<article-title>Intensification
+of zinc dissolution
+process in sulfuric acid</article-title>. <source>J. Min. Metall., Sect.
+B</source>
+<year>2005</year>, <volume>41</volume>, <fpage>47</fpage>&#x02013;<lpage>66</lpage>. <pub-id pub-id-type="doi">10.2298/JMMB0501047S</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Zheng</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Song</surname><given-names>X.</given-names></name>; <name><surname>Lu</surname><given-names>G.</given-names></name>; <name><surname>Battaglia</surname><given-names>V. S.</given-names></name>
+<article-title>Comprehensive
+understandings of electrode thickness effects on the electrochemical
+performance of Li-ion battery cathodes</article-title>. <source>Electrochim.
+Acta</source>
+<year>2012</year>, <volume>71</volume>, <fpage>258</fpage>&#x02013;<lpage>265</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2012.03.161</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Park</surname><given-names>M. S.</given-names></name>; <name><surname>Ma</surname><given-names>S. B.</given-names></name>; <name><surname>Lee</surname><given-names>D. J.</given-names></name>; <name><surname>Imm</surname><given-names>D.</given-names></name>; <name><surname>Doo</surname><given-names>S. G.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>
+<article-title>A highly reversible lithium metal
+anode</article-title>. <source>Sci. Rep.</source>
+<year>2014</year>, <volume>4</volume>, <elocation-id>3815</elocation-id><pub-id pub-id-type="doi">10.1038/srep03815</pub-id>.<pub-id pub-id-type="pmid">24448586</pub-id></mixed-citation></ref></ref-list></back></article>

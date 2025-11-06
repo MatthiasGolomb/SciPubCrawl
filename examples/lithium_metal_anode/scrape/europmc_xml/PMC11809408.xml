@@ -1,0 +1,956 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs10438" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11809408</article-id><article-id pub-id-type="pmid">39686719</article-id>
+<article-id pub-id-type="doi">10.1002/advs.202411598</article-id><article-id pub-id-type="publisher-id">ADVS10438</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Development of a Sealed Rechargeable Li&#x02013;SO<sub>2</sub> Battery</article-title></title-group><contrib-group><contrib id="advs10438-cr-0001" contrib-type="author"><name><surname>Hyun</surname><given-names>Gayea</given-names></name><xref rid="advs10438-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs10438-cr-0002" contrib-type="author"><name><surname>Lee</surname><given-names>Myeong Hwan</given-names></name><xref rid="advs10438-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs10438-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs10438-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs10438-cr-0003" contrib-type="author"><name><surname>Liu</surname><given-names>Haodong</given-names></name><xref rid="advs10438-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs10438-cr-0004" contrib-type="author"><name><surname>Wang</surname><given-names>Shen</given-names></name><xref rid="advs10438-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs10438-cr-0005" contrib-type="author"><name><surname>Hui</surname><given-names>Zeyu</given-names></name><xref rid="advs10438-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs10438-cr-0006" contrib-type="author"><name><surname>Petrova</surname><given-names>Victoria</given-names></name><xref rid="advs10438-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs10438-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs10438-cr-0007" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Ping</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1488-1668</contrib-id><xref rid="advs10438-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs10438-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>piliu@ucsd.edu</email></address></contrib></contrib-group><aff id="advs10438-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Aiiso Yufeng Li Family Department of Nanoengineering</named-content>
+<institution>University of California San Diego</institution>
+<city>La Jolla</city>
+<named-content content-type="country-part">CA</named-content>
+<postal-code>92093</postal-code>
+<country country="US">USA</country>
+</aff><aff id="advs10438-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Program of Material Science</named-content>
+<institution>University of California San Diego</institution>
+<city>La Jolla</city>
+<named-content content-type="country-part">CA</named-content>
+<postal-code>92093</postal-code>
+<country country="US">USA</country>
+</aff><aff id="advs10438-aff-0003"><label>
+<sup>3</sup>
+</label>Present address:
+<named-content content-type="organisation-division">Advanced Battery Research Center</named-content>
+<institution>Korea Research Institute of Chemical Technology (KRICT)</institution>
+<named-content content-type="street">141, Gajeongro</named-content>
+<city>Yuseong</city>
+<named-content content-type="country-part">Daejeon</named-content>
+<postal-code>34114</postal-code>
+<country country="KR">Republic of Korea</country>
+</aff><aff id="advs10438-aff-0004"><label>
+<sup>4</sup>
+</label>Present address:
+<named-content content-type="organisation-division">Department of Energy Science</named-content>
+<institution>Sungkyunkwan University</institution>
+<city>Suwon</city>
+<postal-code>16419</postal-code>
+<country country="KR">Republic of Korea</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>piliu@ucsd.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>12</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2025</year></pub-date><volume>12</volume><issue seq="600">6</issue><issue-id pub-id-type="doi">10.1002/advs.v12.6</issue-id><elocation-id>2411598</elocation-id><history>
+<date date-type="rev-recd"><day>26</day><month>11</month><year>2024</year></date>
+<date date-type="received"><day>21</day><month>9</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-12-2411598.pdf"/><abstract><title>Abstract</title><p>Rechargeable Li&#x02013;SO<sub>2</sub> batteries offer low&#x02010;cost, high&#x02010;energy density benefits and can leverage manufacturing processes for the existing primary version at a commercial scale. However, they have so far only been demonstrated in an &#x0201c;open&#x02010;system&#x0201d; with continuous gas supply, preventing practical application. Here, the utilization and reversibility of SO<sub>2</sub> along with the lithium stability are addressed, all essential for long&#x02010;life, high&#x02010;energy batteries. The study discovers that high SO<sub>2</sub> utilization is achievable only from SO<sub>2</sub> dissolved in electrolytes between the lithium anode and carbon cathode. This results from a unique osmosis phenomenon where SO<sub>2</sub> consumption increases salt concentration, driving the influx of organic solvents rather than SO<sub>2</sub> from outside the current path. This insight leads to configure a bobbin&#x02010;cell with all electrolytes between the electrodes, realizing nearly 70% of SO<sub>2</sub> utilization, &#x0003e;&#x000a0;12x greater than in conventional coin cells. To improve reaction rate and SO<sub>2</sub> reversibility, triphenylamine is employed to the electrolyte, creating an electron&#x02010;rich environment that alleviates the disproportionation of discharge products. Incorporating this additive into a bobbin&#x02010;cell with a lithium protective layer yields a cell with a projected energy density exceeding 183.2&#x000a0;Wh kg<sup>&#x02212;1</sup>. The work highlights the potential of Li&#x02013;SO<sub>2</sub> batteries as affordable, sustainable energy storage options.</p></abstract><abstract id="advs10438-abs-0001" abstract-type="graphical"><p>Rechargeable Li&#x02013;SO<sub>2</sub> batteries provide affordable, high&#x02010;energy storage but are limited to open systems requiring continuous gas supply. This study introduces a sealed bobbin&#x02010;cell format, with all electrolytes placed between the electrodes, maximizing SO<sub>2</sub> utilization. By incorporating an electrolyte additive and a lithium protective layer, the cell improves SO<sub>2</sub> reversibility, demonstrating its potential as a more sustainable energy solution.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-12-2411598-g004.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs10438-kwd-0001">electrolyte additives</kwd><kwd id="advs10438-kwd-0002">Li&#x02013;SO<sub>2</sub> batteries</kwd><kwd id="advs10438-kwd-0003">lithium protection</kwd><kwd id="advs10438-kwd-0004">SO<sub>2</sub> utilization</kwd><kwd id="advs10438-kwd-0005">sulfur dioxide</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Intelligence Advanced Research Projects Activity
+</institution><institution-id institution-id-type="doi">10.13039/100011039</institution-id></institution-wrap></funding-source><award-id>2021&#x02013;21060200009</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Science Foundation
+</institution><institution-id institution-id-type="doi">10.13039/100000001</institution-id></institution-wrap></funding-source><award-id>ECCS&#x02010;1542148</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="8"/><word-count count="6074"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 10, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.3 mode:remove_FC converted:10.02.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs10438-cit-0038">
+<string-name>
+<given-names>G.</given-names>
+<surname>Hyun</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hui</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Petrova</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, <article-title>Development of a Sealed Rechargeable Li&#x02013;SO<sub>2</sub> Battery</article-title>. <source>Adv. Sci.</source>
+<year>2025</year>, <volume>12</volume>, <elocation-id>2411598</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202411598</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs10438-sec-0010"><label>1</label><title>Introduction</title><p>Primary Li&#x02013;SO<sub>2</sub> battery is a mature commercial product featuring high&#x02010;energy density, wide operational temperature range, and exceptional shelf life. A rechargeable version would be highly desirable as well due to the abundance of raw materials, free of any resource contraints.<sup>[</sup>
+<xref rid="advs10438-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs10438-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs10438-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs10438-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs10438-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> SO<sub>2</sub> can dissolve in organic electrolytes with high solubility which makes it feasible to construct these batteries for use at ambient pressure.<sup>[</sup>
+<xref rid="advs10438-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="advs10438-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs10438-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> It is particularly appealing to convert existing Li&#x02013;SO<sub>2</sub> primary batteries into rechargeable systems since the infrastructure for the storage, transport, and handling of SO<sub>2</sub> is already in place.<sup>[</sup>
+<xref rid="advs10438-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="advs10438-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup>
+</p><p>In the presence of organic solvents, discharge of SO<sub>2</sub> results in the formation of lithium dithionite (Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub>), which is found to be reversible.<sup>[</sup>
+<xref rid="advs10438-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs10438-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> So far, research has focused on developing suitable electrolytes capable of stabilizing SO<sub>2</sub>
+<sup>&#x02212;</sup> intermediates prior to final Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub> formation by constructing strong solvation shells. This approach not only hinders irreversible electrolyte decomposition but also promotes the formation of reversible discharge products nuclei.<sup>[</sup>
+<xref rid="advs10438-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs10438-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> Carbonate&#x02010; and ether&#x02010;based electrolytes, diglyme, and ionic liquids have been explored as electrolytes to improve solvation ability. In particular, highly solvating carbonate&#x02010;based electrolytes have recently demonstrated long cycle life.<sup>[</sup>
+<xref rid="advs10438-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs10438-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs10438-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs10438-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> Additionally, various carbonaceous materials, including reduced graphene oxide, Ketjen Black (KB), and activated carbon have been investigated as cathode materials to provide high surface area and pore volume for accommodating solid Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub> products.<sup>[</sup>
+<xref rid="advs10438-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs10438-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs10438-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Manipulating electrode microstructure enhances catholyte mass transport, improving discharge capacity and reversibility. However, all these improvements have been implemented in an open system where SO<sub>2</sub> is continuously supplied and lithium is in great excess.<sup>[</sup>
+<xref rid="advs10438-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="advs10438-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup>
+</p><p>The progress made in electrolyte and electrode architectures of secondary Li&#x02013;SO<sub>2</sub> batteries achieved in open systems have yet to translate to practical sealed batteries. In a sealed battery cell, the amount of SO<sub>2</sub> is determined by its solubility in the organic electrolyte. Choosing the solvents that are highly miscible with SO<sub>2</sub> is thus essential. On the other hand, the rate of the SO<sub>2</sub> redox reaction and its cycling stability depend on designing the proper electrode microstructure and incorporating suitable catalysts,<sup>[</sup>
+<xref rid="advs10438-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs10438-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs10438-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs10438-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> just like in the open system. Finally, achieving stable long&#x02010;term cycling requires mitigation of lithium corrosion by SO<sub>2</sub> through surface protection.<sup>[</sup>
+<xref rid="advs10438-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs10438-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="advs10438-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs10438-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>]</sup>
+</p><p>Here, we report electrolyte, electrode, and cell designs for sealed rechargeable Li&#x02013;SO<sub>2</sub> batteries with a focus on improving practical energy density and cycling stability. We study the mass transport dynamics in the sealed system and uncover the root cause that determines the supply of SO<sub>2</sub> to the electrode. Based on these insights, we develop a bobbin&#x02010;cell where virtually all electrolyte is in between the electrodes. The design also features a protective layer to mitigate lithium corrosion and an electrolyte additive to increase the reversibility of the SO<sub>2</sub> cathode and reaction kinetics. As a result, we achieve nearly 70% utilization of SO<sub>2</sub> and a projected energy density of 183.2&#x000a0;Wh kg<sup>&#x02212;1</sup> for the cell. Our work lays the groundwork for developing a practical rechargeable Li&#x02013;SO<sub>2</sub> battery.</p></sec><sec id="advs10438-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs10438-sec-0030"><label>2.1</label><title>Investigation of Low SO<sub>2</sub> Utilization and Pathways for Improvement</title><sec id="advs10438-sec-0040"><label>2.1.1</label><title>SO<sub>2</sub> Solubility and Evaluation in a Coin Cell</title><p>To prepare SO<sub>2</sub>&#x02010;containing electrolytes, we introduced SO<sub>2</sub> gas into a vial sealed with a rubber stopper, containing 1&#x000a0;<sc>m</sc> lithium bis(trifluoromethylsulfonyl)imide (LiTFSI) in ethylene carbonate/dimethyl carbonate (EC/DMC) at a 1:1 volume ratio. We monitored the weight change over time while maintaining the pressure at the gas inlet at 15&#x000a0;psi. Figure <xref rid="advs10438-supinfo-0001" ref-type="">S1a</xref> (Supporting Information) depicts the weight percentage of dissolved SO<sub>2</sub> relative to the total mass of the electrolyte as a function of gas injection time. Within the first 5 min, 14.6 wt% of SO<sub>2</sub> dissolves into the electrolyte, increasing to 25.5 wt% at 40 min after which no further increase in weight is seen. There is an increase in volume of 46.7% when reaching SO<sub>2</sub> saturation; the density of the solution only experiences a marginal rise from 1.34 to 1.36&#x000a0;g&#x000a0;ml<sup>&#x02212;1</sup> (Table <xref rid="advs10438-supinfo-0001" ref-type="">S1</xref>, Supporting Information). Furthermore, there is a small decrease in the viscosity of the solution and a slight reduction in ionic conductivity (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S1b</xref> and Video <xref rid="advs10438-supinfo-0001" ref-type="">S1</xref>, Supporting Information).</p><p>The redox of SO<sub>2</sub> is first evaluated by cyclic voltammetry (CV) in a two&#x02010;electrode coin cell. Distinct oxidation and reduction peaks corresponding to the SO<sub>2</sub> redox reaction at 3.65 and 2.81&#x000a0;V vs. Li/Li<sup>+</sup> are observed (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S2</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs10438-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs10438-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> These are consistent with previous reports, indicating the chemical reversibility of the reaction. We next investigate the discharge capacity for electrolytes containing different concentrations of SO<sub>2</sub>. The 1.13 cm<sup>2</sup> cathode is made of KB with a loading of 0.8&#x02013;0.9&#x000a0;mg cm<sup>&#x02212;2</sup>. The coin cells are assembled using 0.076&#x000a0;g (equivalent to &#x02248;56.0&#x000a0;&#x000b5;L) of electrolyte. Previously work has shown that KB has a specific capacity of exceeding 6500 mAh g<sub>KB</sub>
+<sup>&#x02212;1</sup>.<sup>[</sup>
+<xref rid="advs10438-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs10438-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> Thus, we do not expect the cathode will become capacity&#x02010;limiting during our tests. With an increase in SO<sub>2</sub> concentration from 14.6 to 25.5 wt%, the specific capacity increases from 357.4 to 592.0&#x000a0;mAh&#x000a0;g<sub>KB</sub>
+<sup>&#x02212;1</sup> at a current density of 0.2&#x000a0;mA cm<sup>&#x02212;2</sup> (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S3</xref>, Supporting Information). We calculate the utilization of SO<sub>2</sub> assuming that all electron transfer reactions yield the ideal reversible discharge product, Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub> (Note <xref rid="advs10438-supinfo-0001" ref-type="">S1</xref>, Supporting Information). Complete conversion of 0.019&#x000a0;g of SO<sub>2</sub> (0.076&#x000a0;g of electrolyte at 25.5 wt%) corresponds to a capacity of 8.11 mAh. However, an actual capacity of 0.43 mAh is obtained, reflecting a utilization of 5.3%. The low SO<sub>2</sub> utilization along with the substantial influence of its concentration on the discharge capacity indicates significant hindrance in the transport of SO<sub>2</sub> to the cathode, even with a great surplus of unreacted SO<sub>2</sub>.</p></sec><sec id="advs10438-sec-0050"><label>2.1.2</label><title>Diagnosis of Low SO<sub>2</sub> Utilization</title><p>To understand the transport kinetics of SO<sub>2</sub>, we employed an H&#x02010;shaped cell commonly used for osmosis studies (<bold>Figure</bold>&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>). The left compartment contains 1&#x000a0;<sc>m</sc> LiTFSI EC/DMC (1:1 v/v) electrolyte, while the right is filled with the electrolyte saturated with SO<sub>2</sub>, reaching an SO<sub>2</sub> concentration of 25.5 wt%. These compartments are divided by a glass microfiber filter (GF/F), facilitating the unrestricted diffusion of solutes and solvents. When both tubes are open to the ambient, the liquids on both sides remain at their original levels (Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1a(i)</xref>). When both tubes are sealed, however, the level of the SO<sub>2</sub>&#x02010;free side is significantly higher. Apparently, organic solvents are driven by osmotic effect to the side with higher lithium salt concentrations, rather than SO<sub>2</sub> being driven to the left by concentration gradient. As a result, the concentration of SO<sub>2</sub> exceeds the saturation limit on the right, leading to a buildup of pressure that provides the balance observed in Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1a(ii)</xref>. This observation can be explained by viewing SO<sub>2</sub> as a less competitive solvent for lithium salt than organic solvents.<sup>[</sup>
+<xref rid="advs10438-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> Further, diffusion of SO<sub>2</sub> is apparently slow which is quantified by measuring the SO<sub>2</sub> concentration in the left compartment as a function of time (Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1b</xref>). Regardless of electrolyte type (e.g., carbonate&#x02010; and ether&#x02010; based electrolytes), equilibrium of the SO<sub>2</sub> concentration is not achieved even after many hours. This observation indicates that in a coin cell, once the SO<sub>2</sub> is consumed in the electrolyte volume between the anode and the cathode, organic solvents rather than SO<sub>2</sub> will be driven by osmotic forces to enter the cell stack volume, leaving SO<sub>2</sub> behind. This transport dynamic thus limits the utilization of SO<sub>2</sub>.</p><fig position="float" fig-type="Figure" id="advs10438-fig-0001"><label>Figure 1</label><caption><p>Qualitative and quantitative analysis of the diffusion behavior of SO<sub>2</sub> within a cell stack. a) Schematic and digital images for assessment of SO<sub>2</sub> diffusion in H&#x02010;cells with i) open and ii) closed ends. b) Concentration evolution of SO<sub>2</sub> in the SO<sub>2</sub>&#x02010;free container (i.e., left container in H&#x02010;cells) over time in two different electrolytes. c) Schematic diagram depicting the influence of diffusion and migration on the movement of SO<sub>2</sub>. d) Charge&#x02010;discharge curves of an LFP||KB cell with a resting period of 24 h&#x000a0;at room temperature following complete discharge. e) Additional capacity as a function of the length of the resting period after complete discharge. f) The total cumulative discharge capacity of Li||KB cells with different SO<sub>2</sub> concentrations in the electrolyte as a function of the length of the resting period after complete discharge. Discharge curves for cells with CP inserted at different locations in the cell either on g) the LFP counter electrode side or on h) the KB cathode side. The insets in (g,h) are schematics of the arrangement of electrodes in each cell.</p></caption><graphic xlink:href="ADVS-12-2411598-g005" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="advs10438-sec-0060"><label>2.1.3</label><title>Approaches to Improve SO<sub>2</sub> Utilization in Coin Cells</title><p>As schematically shown in Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1c</xref>, the transport of SO<sub>2</sub> in a sealed system involves: 1) diffusion driven by concentration gradient; and 2) migration induced by electric field force for SO<sub>2</sub> molecules bonded to charged ions. We next quantify the relative contributions of these two transport mechanisms. Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1d,e</xref> investigates whether additional influx of SO<sub>2</sub> can occur when the cell is given a rest period after full discharge. To exclude the influence of undesired side reactions at the lithium surface leading to SO<sub>2</sub> consumption, we fabricate the cell using lithium iron phosphate (LiFePO<sub>4</sub> or LFP) as the counter electrode. LFP is designed with an excess lithium capacity, supporting efficient SO<sub>2</sub> utilization. The cell is fully discharged until reaching 2.0&#x000a0;V vs. Li/Li<sup>+</sup>, then re&#x02010;discharged after resting for 24 h under open circuit, delivering an additional capacity of 298.2 mAh g<sub>KB</sub>
+<sup>&#x02212;1</sup> (Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1d</xref>). Note that even at a total capacity of 1383.6 mAh g<sub>KB</sub>
+<sup>&#x02212;1</sup>, the KB cathode is far from being fully utilized. More extended resting does lead to higher capacities (Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1e</xref>). However, the overall utilization of SO<sub>2</sub> is still only 14.6% after resting for 48 h. Furthermore, electrolytes with different starting concentrations of SO<sub>2</sub> all show similar behavior, i.e., resting leads to additional capacities but the utilization remains low even after resting for 24 h (Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1f</xref>). To further probe the effect of electrolyte volume between the anode and the cathode, we attach a carbon paper (CP) either behind or in front of the LFP or KB electrode. Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1g</xref> shows the configuration with CP adjacent to LFP, whereas in Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1h</xref>, CP is positioned adjacent to KB (see the inserted schematics in Figure&#x000a0;<xref rid="advs10438-fig-0001" ref-type="fig">1g,h</xref>). When comparing discharge capacities based on CP positions, it is evident that greater discharge capacities are achieved when CP is situated within the current path, irrespective of its adjacency to either electrode. Thus, CP does not serve as a reaction site but simply allows for more SO<sub>2</sub> to be held between the cathode and anode by providing additional pore volume within the cell stack, resulting in higher discharge capacities.</p></sec></sec><sec id="advs10438-sec-0070"><label>2.2</label><title>Lithium Protective Layer for Long&#x02010;Term Cycling and SO<sub>2</sub> Placement in the Current Path</title><sec id="advs10438-sec-0080"><label>2.2.1</label><title>Introducing a Lithium Protective Layer</title><p>Our next objective is to reduce the parasitic reaction between SO<sub>2</sub> and lithium since both of them are limited in a sealed cell, in contrast to previously reported open systems where both reactants are in great excess. In this regard, we develop a protective layer consisting of lithiated Nafion and alumina nanopowders (Al<sub>2</sub>O<sub>3</sub> NPs).<sup>[</sup>
+<xref rid="advs10438-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs10438-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> The integration of Al<sub>2</sub>O<sub>3</sub> and lithiated Nafion provides exceptional mechanical strength and chemical stability, along with elevated ionic conductivity, making it a highly suitable coating material. Other oxide nanoparticles, such as SiO<sub>2</sub> and ZrO<sub>2</sub> might also be suitable. Compared to other polymers, lithiated Nafion shows improved ionic conductivity, enabling a low nucleation overpotential associated with lithium deposition (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S4</xref>, Supporting Information). By modifying the weight ratio of two solid components in the coating slurry, we fabricated coatings with thickness of 14.2, 70.2, and 94.6&#x000a0;&#x000b5;m (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S5</xref>, Supporting Information). With an increase in the coating thickness, the pore volume within a cell stack proportionately increases. As expected, this coating layer thus absorbs electrolyte and acts as a source of SO<sub>2</sub> in the current path, resulting in increased discharge capacity (<bold>Figure</bold>&#x000a0;<xref rid="advs10438-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>). Elemental mapping images of Al, O and F indicate a homogeneous distribution of Al<sub>2</sub>O<sub>3</sub> NPs and lithiated Nafion in the depth direction of the lithium protective layer (Figure&#x000a0;<xref rid="advs10438-fig-0002" ref-type="fig">2b</xref>). The crack&#x02010;free coating, deposited with a thickness of 70&#x000a0;&#x000b5;m (denoted as LNA&#x02010;Li) is also evaluated in Li||Li symmetric cells. At a current density of 0.5&#x000a0;mA cm<sup>&#x02212;2</sup>, the cells exhibited an overpotential 91.0&#x000a0;mV higher than bare lithium, due to the thickness of the coating layer (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S6</xref>, Supporting Information). When the same coating is implemented in a Li&#x02013;SO<sub>2</sub> coin cell, the observed capacity is &#x02248;2.5 times that of the control cell without the coating layer (Figure&#x000a0;<xref rid="advs10438-fig-0002" ref-type="fig">2c</xref>).</p><fig position="float" fig-type="Figure" id="advs10438-fig-0002"><label>Figure 2</label><caption><p>Improvement of capacity and cycling stability through a porous lithium protective layer. a) Specific capacity as a function of pore volume created by the porous protective layer. The inset in a) is a digital image of LNA&#x02010;Li. b) Cross&#x02010;sectional SEM and elemental mapping images of LNA&#x02010;Li. c) Charge&#x02013;discharge curves of Li||KB cells with cell stacks, either with or without the lithium protection layer. d) Comparison of cycling characteristics using a limited capacity of 500 mAh g<sub>KB</sub>
+<sup>&#x02212;1</sup> until the voltage range of 2.0&#x02013;4.0&#x000a0;V is reached. e) Cycling stability using a voltage range of 2.0&#x02013;4.0&#x000a0;V at a current density of 0.2&#x000a0;mA cm<sup>&#x02212;2</sup>.</p></caption><graphic xlink:href="ADVS-12-2411598-g003" position="anchor" id="jats-graphic-5"/></fig><p>To evaluate the effect of the coating layer on the cycling stability of Li&#x02013;SO<sub>2</sub> cells, we employ two different cycling protocols. Figure&#x000a0;<xref rid="advs10438-fig-0002" ref-type="fig">2d</xref> shows the capacity retention when the discharge capacity is fixed at 500 mAh g<sub>KB</sub>
+<sup>&#x02212;1</sup> until the cell exceeds its prescribed voltage limit of 2.0&#x02013;4.0&#x000a0;V vs. Li/Li<sup>+</sup>. The cell incorporating LNA&#x02010;Li lasts 3.3 times longer than the cell with bare lithium. We also cycled the cells directly between 2.0&#x02013;4.0&#x000a0;V at a current density of 0.2&#x000a0;mA cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="advs10438-fig-0002" ref-type="fig">2e</xref>). The cell with LNA&#x02010;Li consistently shows significantly higher capacity than the control. To demonstrate that the effectiveness of this layer is not solely due to its ability to contain more SO<sub>2</sub> within the current path, we evaluated the cycle stability of cells using 420&#x000a0;&#x000b5;m thick glass fiber (GF/F) membranes (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S7</xref>, Supporting Information). Although GF/F separators can absorb more electrolyte due to their larger pore volume, they showed significantly poorer cycle performance compared to cells with LNA&#x02010;Li. This highlights the effectiveness of the LNA coating in mitigating the irreversible depletion of SO<sub>2</sub> due to its reaction with lithium. The exposure of fresh lithium surfaces during cycling promotes the formation of a solid electrolyte interphase (SEI) in the SO<sub>2</sub>&#x02010;containing electrolyte, which consists of Li&#x02010;S&#x02010;O reduction products and leads to the irreversible consumption of SO<sub>2</sub>.<sup>[</sup>
+<xref rid="advs10438-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> Thus, controlling lithium growth to minimize surface area is key to reducing SO<sub>2</sub> loss. In the case of LNA&#x02010;Li, lithium growth occurs beneath the dense layer of the LNA coating, effectively inhibiting dendritic growth (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S8</xref>, Supporting Information) and minimizing the exposure of new surfaces (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S9</xref>, Supporting Information).</p></sec></sec><sec id="advs10438-sec-0090"><label>2.3</label><title>A study on Enhancing SO<sub>2</sub> Reversibility Using Electrolyte Additives</title><sec id="advs10438-sec-0100"><label>2.3.1</label><title>Improving the Reversibility of SO<sub>2</sub> Redox with TPA</title><p>The reversibility of the SO<sub>2</sub> discharge products plays a crucial role in conserving the total amount of active SO<sub>2</sub>. The discharge product, Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub>, readily undergoes disproportionation to transform into the highly insulating solid Li<sub>2</sub>SO<sub>4</sub> and elemental sulfur (S), hindering the reversible utilization of SO<sub>2</sub> (Equation&#x000a0;(<xref rid="advs10438-disp-0001" ref-type="disp-formula">1</xref>)).
+<disp-formula id="advs10438-disp-0001">
+<label>(1)</label>
+<mml:math id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msub><mml:mi mathvariant="normal">i</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>4</mml:mn></mml:msub><mml:mfenced open="(" close=")"><mml:mi mathvariant="normal">s</mml:mi></mml:mfenced><mml:mo>&#x02192;</mml:mo><mml:mi mathvariant="normal">L</mml:mi><mml:msub><mml:mi mathvariant="normal">i</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>4</mml:mn></mml:msub><mml:mfenced open="(" close=")"><mml:mi mathvariant="normal">s</mml:mi></mml:mfenced><mml:mo linebreak="goodbreak">+</mml:mo><mml:mi mathvariant="normal">S</mml:mi><mml:mfenced open="(" close=")"><mml:mi mathvariant="normal">s</mml:mi></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>Triphenylamine (TPA) has the potential to prevent S oxidation by supplying electrons to the unstable Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub> due to its electron&#x02010;rich nature (refer to inset of <bold>Figure</bold>&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref> for chemical structure).<sup>[</sup>
+<xref rid="advs10438-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> First, we evaluate the stability of TPA in SO<sub>2</sub>&#x02010;containing electrolyte. (Figure&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">3a</xref>). The reversible redox behavior of TPA/TPA<sup>+</sup> is observed at 3.5&#x02013;4.0&#x000a0;V vs. Li/Li<sup>+</sup>. That is the region where the oxidation peak of SO<sub>2</sub> is 3.65&#x000a0;V. A more detailed view is shown in Figure <xref rid="advs10438-supinfo-0001" ref-type="">S10</xref> (Supporting Information). We note that TPA has an insignificant but stable contribution to the capacity as confirmed by evaluating cells without SO<sub>2</sub> (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S11</xref>, Supporting Information). Additionally, X&#x02010;ray diffraction (XRD) analysis (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S12</xref>, Supporting Information) confirms that the introduction of TPA does not change the discharge product of the Li&#x02013;SO<sub>2</sub> chemistry.<sup>[</sup>
+<xref rid="advs10438-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs10438-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> To examine the chemical reactivity of TPA on the lithium metal anode, we immersed bare lithium in EC/DMC (1:1 v/v) solvent with and without TPA for 24 h at room temperature. Analysis of the resulting surface morphology and SEI composition (Figures <xref rid="advs10438-supinfo-0001" ref-type="">S13</xref> and <xref rid="advs10438-supinfo-0001" ref-type="">S14</xref>, Supporting Information) revealed that the SEI, primarily composed of Li<sub>2</sub>O and Li<sub>2</sub>CO<sub>3</sub>, was unaffected by the presence of TPA, indicating negligible reactivity between TPA and lithium.<sup>[</sup>
+<xref rid="advs10438-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="advs10438-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> Moreover, considering the reversibility of TPA and the role of the LNA coating layer in mitigating reactions between soluble SO<sub>2</sub> and lithium, the effect of the low concentration TPA<sup>+</sup> on the lithium surface is expected to be negligible.</p><fig position="float" fig-type="Figure" id="advs10438-fig-0003"><label>Figure 3</label><caption><p>Accelerated electrochemical dynamics and alleviation of lithium side reactions through the electrolyte additive of TPA. a) CV curves of SO<sub>2</sub>&#x02010;saturated carbonate electrolyte with TPA additive. The inset in a) is the structure for a TPA molecule and a magnified portion between 3.4&#x02013;4.0&#x000a0;V. Comparison of b) XPS patterns for Li||KB cells with and without TPA additive after discharge and c) differential capacity (dQ/dV vs. V) curves (lower) corresponding to charging curves (upper). d) Cycling stability of Li||KB cells between 2.0&#x02013;4.0&#x000a0;V. e) Rate capability comparison; and f) Anodic peak current as a function of scan rates.</p></caption><graphic xlink:href="ADVS-12-2411598-g002" position="anchor" id="jats-graphic-7"/></fig><p>To unravel the role of the TPA catalyst, X&#x02010;ray photoelectron spectroscopy (XPS) analysis of the cathode is conducted to examine the discharge products (Figure&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">3b</xref>). Predominant peaks corresponding to Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub> and Li<sub>2</sub>SO<sub>3</sub> at 166.5 and 168.6&#x000a0;eV, respectively, are observed, confirming the prevalence of reversible discharge products in both cases, with or without TPA.<sup>[</sup>
+<xref rid="advs10438-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> However, in the absence of TPA, the cathode displays additional peaks at 169.0 and 164.0&#x000a0;eV, signaling the presence of Li<sub>2</sub>SO<sub>4</sub> and elemental S. These compounds are identified as disproportionation products derived from Li<sub>2</sub>S<sub>2</sub>O<sub>4</sub>. As shown in Figure&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">3c</xref>, the catalyst reduces the charging overpotential. This is clearly indicated by the SO<sub>2</sub> oxidation peak appearing at a lower voltage of 3.33&#x000a0;V vs. Li/Li<sup>+</sup> in the corresponding differential capacity plots (dQ/dV vs V) (Figure&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">3c</xref>). Figure&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">3d</xref> shows the effect of TPA on the cycle life in Li||KB cells. The cell containing TPA maintains 97.6% of the initial capacity after 100 cycles, significantly higher than the cell without TPA. Similar beneficial effects are also observed when the cells are cycled with a limiting capacity of 500 mAh g<sub>KB</sub>
+<sup>&#x02212;1</sup> (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S15</xref>, Supporting Information). Ultimately, the combination of TPA with LNA&#x02010;Li enhances the cyclic stability, while also allowing the cathode to achieve a capacity of 1023.3 mAh g<sub>KB</sub>
+<sup>&#x02212;1</sup> (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S16</xref>, Supporting Information). Moreover, TPA also boost the rate performance of the reaction (Figure&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">3e</xref>; Figure <xref rid="advs10438-supinfo-0001" ref-type="">S17</xref>, Supporting Information). When the current density is increased from 0.2 to 5.0&#x000a0;mA cm<sup>&#x02212;2</sup>, a significant capacity reduction to 27.5% occurs without the catalyst, whereas with TPA, it is sustained at 74.5%.</p><p>Finally, we also assessed the reaction kinetics using CV measurements (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S18</xref>, Supporting Information). We plot log(peak current) against log(scan rate) and compare the values of the slopes (Figure&#x000a0;<xref rid="advs10438-fig-0003" ref-type="fig">3f</xref>).<sup>[</sup>
+<xref rid="advs10438-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> Within the range of 2.0&#x02013;4.0&#x000a0;mV s<sup>&#x02212;1</sup>, the curve exhibits a linear relationship for both electrolytes. However, beyond a scan rate of 6.0&#x000a0;mV s<sup>&#x02212;1</sup>, the absence of a catalyst leads to a lack of further increase of currents, indicating difficulties in charge transfer. In contrast, cells with TPA&#x02010;containing electrolytes demonstrated much&#x02010;improved discharge kinetics. The reaction kinetics further influence the morphology of discharge products (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S19</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs10438-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="advs10438-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup>
+</p></sec></sec><sec id="advs10438-sec-0110"><label>2.4</label><title>Proposed Cell Format for Increasing SO<sub>2</sub> Utilization</title><sec id="advs10438-sec-0120"><label>2.4.1</label><title>Bobbin&#x02010;Cell Demonstration</title><p>Our understanding of the transport kinetics of SO<sub>2</sub> favors a cell design where all electrolytes are housed between its two electrodes, similar to a bobbin&#x02010;cell.<sup>[</sup>
+<xref rid="advs10438-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> A proof of concept demonstration is shown in Figure <xref rid="advs10438-supinfo-0001" ref-type="">S20</xref> (Supporting Information). The KB cathode and lithium anode are arranged in a &#x0201c;donut&#x02010;like&#x0201d; configuration within a culture tube (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S21</xref>, Supporting Information). This configuration, where all SO<sub>2</sub> is confined between the two electrodes, maximizes SO<sub>2</sub> utilization and mitigates the effect of intrinsically slow diffusion kinetics of SO<sub>2</sub> from outside the current path. We assembled the cell using 0.354&#x000a0;g of SO<sub>2</sub>&#x02010;saturated electrolyte (expected capacity of 37.8 mAh at full utilization), KB electrodes with a loading of 3.3&#x000a0;mg cm<sup>&#x02212;2</sup> and a 200&#x000a0;&#x000b5;m thick lithium foil as a counter electrode positioned at the center. The three cells (with or without TPA and/or LNA coating layer) show similar discharge capacities of 24.2 to 25.4 mAh. This indicates 67.2% utilization of SO<sub>2</sub>, which is 12.7 times higher than in coin cells (<bold>Figure</bold>&#x000a0;<xref rid="advs10438-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>; Table <xref rid="advs10438-supinfo-0001" ref-type="">S2</xref>, Supporting Information). The comparable SO<sub>2</sub> utilization achieved irrespective of the presence of the LNA coating layer indicates that the bobbin&#x02010;cell configuration offers a favorable arrangement for SO<sub>2</sub>. The coulombic efficiency values of 87.9%, 98.4%, and 97.5% further emphasize the critical role of the TPA catalyst and protective layer in enhancing the reversibility of SO<sub>2</sub> redox reactions.</p><fig position="float" fig-type="Figure" id="advs10438-fig-0004"><label>Figure 4</label><caption><p>A Proof of concept demonstration using a bobbin&#x02010;type cell. a) Charge&#x02010;discharge curves of bobbin&#x02010;cells containing different counter electrodes (bare Li or LNA&#x02010;Li) and electrolytes (with or without TPA) at current density of 0.2&#x000a0;mA cm<sup>&#x02212;2</sup>. b) Cycling characteristics with a fixed capacity of 5.0 mAh at a current density of 1.0&#x000a0;mA cm<sup>&#x02212;2</sup> up to the voltage range of 2.0&#x02013;4.0 V. c) Summary of the design principles for a sealed type Li&#x02013;SO<sub>2</sub> battery; i) Placement of all electrolytes within a cell stack. Introduction of ii) a lithium protective layer and iii) an electrolyte additive.</p></caption><graphic xlink:href="ADVS-12-2411598-g001" position="anchor" id="jats-graphic-9"/></fig><p>Figure&#x000a0;<xref rid="advs10438-fig-0004" ref-type="fig">4b</xref> demonstrates the cycling stability of the cell, achieved by incorporating the proposed strategies, with a limiting capacity of 5.0 mAh at a current density of 1.0&#x000a0;mA cm<sup>&#x02212;2</sup>. The cell exhibited stable performance for over 30 cycles. Additionally, we evaluated the performance of a Swagelok&#x02010;type cell with LNA&#x02010;Li and TPA in a closed system (Figure <xref rid="advs10438-supinfo-0001" ref-type="">S22</xref>, Supporting Information). This configuration only achieved &#x02248;25% SO<sub>2</sub> utilization and a cumulative capacity 55.1% of that observed in the bobbin&#x02010;type cell, despite having the same areal capacity. This finding highlights the advantages of the bobbin&#x02010;cell design, particularly regarding the spatial positioning of SO<sub>2</sub> within the cell stack.</p><p>Figure&#x000a0;<xref rid="advs10438-fig-0004" ref-type="fig">4c</xref> schematically summarizes the design principles for a sealed Li&#x02010;SO<sub>2</sub> battery. By employing a simple bobbin&#x02010;type cell, we i) maximize SO<sub>2</sub> utilization through the placement of all redox&#x02010;active electrolytes within the cell stack. Additionally, we minimized the irreversible consumption of SO<sub>2</sub> due to side reactions by applying an ii) LNA coating and iii) TPA additives. This approach enabled us to transition from the conventional coin cell to the bobbin&#x02010;cell, achieving a calculated energy density of 151.2&#x000a0;Wh kg<sup>&#x02212;1</sup>. The calculation was derived from the experimentally obtained capacities and the actual weights of the electrodes used (Figures <xref rid="advs10438-supinfo-0001" ref-type="">S23</xref> and <xref rid="advs10438-supinfo-0001" ref-type="">S24</xref> and Table <xref rid="advs10438-supinfo-0001" ref-type="">S3</xref>, Supporting Information). With further optimization, mainly using a light&#x02010;weight current collector, we project a cell energy density of 183.2&#x000a0;Wh kg<sup>&#x02212;1</sup> based on the energy density model described in Note <xref rid="advs10438-supinfo-0001" ref-type="">S2</xref> (Supporting Information). This energy density projection assumes an N/P of 2 and redox&#x02010;inactive components (current collectors, separators, coating layer) constituting &#x0003c;3% of the total weight.<sup>[</sup>
+<xref rid="advs10438-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs10438-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> We also show in Note <xref rid="advs10438-supinfo-0001" ref-type="">S3</xref> (Supporting Information) a possible design of a cell in a commercially relevant cylindrical format.</p></sec></sec></sec><sec id="advs10438-sec-0130"><label>3</label><title>Conclusion</title><p>In order to develop a sealed Li&#x02013;SO<sub>2</sub> battery operating without external SO<sub>2</sub> supply, we have systematically studied the SO<sub>2</sub> transport kinetics. The osmotic behavior of the electrolyte necessitates the placement of all electrolytes directly in the current path to realize high SO<sub>2</sub> utilization. The use of an electron&#x02010;rich TPA catalyst enhances reaction kinetics and alleviates discharge product disproportionation, suppressing the generation of irreversible insulating products. The integration of a lithium protective layer, alongside this electrolyte additive, promotes SO<sub>2</sub> reversibility. In a bobbin&#x02010;cell configuration, close to 70% utilization of SO<sub>2</sub> is achieved with a coulombic efficiency of 98%. This cell configuration results in a calculated energy density of 151.2&#x000a0;Wh kg<sup>&#x02212;1</sup>. Our work illustrates the viability of sealed rechargeable Li&#x02013;SO<sub>2</sub> batteries for practical applications by leveraging the existing SO<sub>2</sub> handling infrastructure.</p></sec><sec id="advs10438-sec-0140"><label>4</label><title>Experimental Section</title><sec id="advs10438-sec-0170"><title>Preparation of SO<sub>2</sub>&#x02010;Containing Electrolyte</title><p>Ketjen black carbon (KB, EC 600JD, MSE Supplies) was dispersed with a polytetrafluoroethylene (60 wt% dispersion, Teflon 30B, Polysciences) binder in a mass ratio of 9:1 into a solution of isopropanol (&#x0003e; 99.5%, ACS regent, Sigma&#x02010;Aldrich), N&#x02010;methyl&#x02010;2&#x02010;pyrrolidone (NMP, &#x0003e;99.5%, anhydrous, Sigma&#x02010;Aldrich) and water with a volume ratio of 23:5:20. The KB cathode was fabricated by casting the carbon paste on the carbon&#x02010;coated Al foil current collector and dried overnight at 110 &#x02070;C to evaporate the solvent and residual water. The average mass loading of the KB electrodes with a 12&#x000a0;mm diameter was 0.8&#x02013;0.9&#x000a0;mg cm<sup>&#x02212;2</sup>. Lithium iron phosphate (LFP, TCI Chemicals) was mixed with polyvinylidene fluoride (HSV1800, Kynar), Graphite (KS6, CPreme), and Super P in a mass ratio of 75:10:10:5 into an NMP solution. The prepared LFP paste was casted on the Cu foil current collector and dried overnight under vacuum. The average loading mass of the LFP electrodes with a 14&#x000a0;mm diameter was &#x02248;29.25&#x000a0;mg cm<sup>&#x02212;2</sup>. Electrolytes of 1&#x000a0;<sc>m</sc> lithium bis(trifluoromethane)sulfonimide (LiTFSI, TCI Chemicals) dissolved in ethylene carbonate/dimethyl carbonate (EC/DMC, Gotion) at a 1:1 volume ratio and 1&#x000a0;<sc>m</sc> LiTFSI in 1,2&#x02010;dimethoxyethane (DME, Gotion) were used as the baseline electrolyte. SO<sub>2</sub> gas was injected into the closed vial with a rubber stopper using needles. The gas was injected at a pressure of 15&#x000a0;psi for durations of 5, 10, 20, and 40 min until saturation was reached. Triphenylamine (TPA, 98%, Sigma&#x02010;Aldrich) was first dissolved into the baseline electrolyte to reach a concentration of 20&#x000a0;m<sc>m</sc>. SO<sub>2</sub> was then bubbled into this solution. After saturation, the outlet hole was opened for 1 min to eliminate residual SO<sub>2</sub> gas in the head space of the vial.</p></sec><sec id="advs10438-sec-0180"><title>Preparation of Li&#x02013;SO<sub>2</sub> Cells (Coin&#x02010; and Bobbin&#x02010;Type)</title><p>CR2032 Li&#x02013;SO<sub>2</sub> coin cell was assembled by sequentially stacking lithium metal with a diameter of 13&#x000a0;mm, one sheet of separator (Celgard 3401, Celgard) with a diameter of 19&#x000a0;mm, and the prepared carbon electrode with a diameter of 12&#x000a0;mm in an Ar&#x02010;filled glove box (O<sub>2</sub> and H<sub>2</sub>O level &#x0003c;1&#x000a0;ppm). The amount of electrolyte was 0.076&#x000a0;g. The bobbin&#x02010;type cell was built by placing a culture tube (10&#x000d7;75&#x000a0;mm, 4&#x000a0;ml, Pyrex 9820 Borosilicate glass round bottom, Corning) with an inner diameter of 8&#x000a0;mm and a glass stirring rod with a diameter of 6&#x000a0;mm in the middle. The Cu mesh foil was cut into 2&#x000a0;cm by 2&#x000a0;cm pieces and welded with Ni tabs. The KB electrode, which was cast onto stainless&#x02010;steel gauze (200 mesh woven from 0.05&#x000a0;mm dia. wire, Type 316, Thermo Scientific) was cut into 1.3&#x000a0;cm by 2.4&#x000a0;cm pieces and welded with Al tabs. The cathode surface was fully covered using a separator and battery strapping tape, then positioned against the inner wall of a culture tube. The Cu mesh was wound around a glass rod. Lithium, with a thickness of 200&#x000a0;&#x000b5;m and dimensions of 2.0&#x000a0;cm by 1.5&#x000a0;cm, was securely attached on the Cu mesh foil in an Ar&#x02010;filled glove box. A total of 0.354&#x000a0;g of SO<sub>2</sub>&#x02010;containing electrolyte was introduced into the tube housing the cathode. Subsequently, the glass rod with lithium was aligned within the tube, and the cell was sealed with rubber O&#x02010;rings to prevent SO<sub>2</sub> gas leakage. The assembled bobbin&#x02010;cells were electrochemically evaluated within an airtight enclosure.</p></sec><sec id="advs10438-sec-0190"><title>Assembly of H&#x02010;Cell and SO<sub>2</sub> Titration</title><p>A glass microfiber filter (grade GF/F, Whatman) was fastened with O&#x02010;rings and a clamp in the center of an H&#x02010;shaped electrochemical cell. SO<sub>2</sub>&#x02010;free and SO<sub>2</sub>&#x02010;saturated electrolytes were poured simultaneously into the left and right compartments, respectively. The H&#x02010;cell was promptly sealed using rubber stoppers. At regular intervals, electrolytes were extracted from the left compartment (i.e., SO<sub>2</sub>&#x02010;free container) using a syringe for SO<sub>2</sub> titration. The SO<sub>2</sub> titration was performed to determine the SO<sub>2</sub> concentration of electrolytes over time. A diluted 5% H<sub>2</sub>O<sub>2</sub> (30%, Fisher chemicals) and a 5&#x000a0;<sc>m</sc> NaOH (28&#x02010;30%, ACS reagent, Sigma&#x02010;Aldrich) solutions were prepared. Two drops of a mixed indicator solution containing Methylene blue and methyl red dissolved in ethanol (Methyl red&#x02013;Methylene blue solution, TCI Chemicals) were added to the H<sub>2</sub>O<sub>2</sub> solution. Next, 1&#x000a0;ml of the extracted electrolyte was mixed with 4&#x000a0;ml of the H<sub>2</sub>O<sub>2</sub> solution. Then, the NaOH solution was gradually added in increments of 5&#x000a0;&#x000b5;l until the solution changes color from purple to green. The SO<sub>2</sub> concentration was calculated based on the volume of 5&#x000a0;<sc>m</sc> NaOH solution added.</p></sec><sec id="advs10438-sec-0200"><title>Preparation of LNA&#x02010;Li</title><p>A slurry was prepared by mixing lithiated Nafion, alumina nanopowders (Al<sub>2</sub>O<sub>3</sub> NPs, particle size &#x0003c;50&#x000a0;nm, Sigma&#x02010;Aldrich), and dimethyl sulfoxide (DMSO, &#x02265;99.9%, anhydrous, Sigma&#x02010;Aldrich). To lithiated Nafion, 25.2&#x000a0;mg of LiOH&#x02219;H<sub>2</sub>O (&#x0003e;98%, ACS reagent, Sigma&#x02010;Aldrich) was added to 10&#x000a0;ml of commercial Nafion solution (Nafion 117 solution, Sigma&#x02010;Aldrich). Subsequently, the resulting mixture was stirred at 60 &#x000b0;C for 2 h. The lithiated Nafion dispersion was dried in a vacuum oven (MTI oven) at 80 &#x000b0;C for 12 h to obtain the lithiated Nafion polymer as a solid residue. The prepared lithiated Nafion powder (30 mg) was dissolved in 1&#x000a0;mL of DMSO along with 150&#x000a0;mg of Al<sub>2</sub>O<sub>3</sub> NPs, and the mixture was stirred overnight in an Ar&#x02010;filled glove box. The prepared slurry was drop casted on the lithium metal and then drying under inert atmosphere at room temperature for one day.</p></sec><sec id="advs10438-sec-0210"><title>Characterization of Li&#x02013;SO<sub>2</sub> Cells</title><p>All the electrochemical tests of the Li&#x02013;SO<sub>2</sub> cells were performed using a potentiostat (LBT&#x02010;5V5A battery tester, Arbin Instruments) between 2.0 and 4.0&#x000a0;V at room temperature. For the lithium symmetric cell tests, a coin&#x02010;type cell (CR2032) was assembled in the same way. Electrochemical impedance measurements (EIS) and Cyclic voltammetry (CV) were performed by using a potentio&#x02010;galvonostat (VSP&#x02010;300, Bio&#x02010;Logic Science Instruments). The frequency range for the EIS was from 7&#x000a0;MHz to 50 mHz. All experiments are performed at room temperature.</p><p>XRD spectra of the cathodes were collected on a powder diffractometer (XRD, Bruker D2 Phaser). The sample was sealed with Kepton under Ar atmosphere. The system used Cu K&#x003b1; radiation (&#x003bb; = 1.5418 &#x000c5;, 40&#x000a0;kV, 40&#x000a0;mA), and the sample was scanned in a 2&#x003b8; range from 10&#x000b0; to 80&#x000b0; at a scan rate of 1&#x000b0;/s. The morphology and elemental mapping were examined by Field Emission scanning electron microscope (SEM, JEOL JSM&#x02010;7400F) and Zeiss Sigma 500 scanning electron microscope. X&#x02010;ray photoelectron spectroscopy (XPS, AXIS Supra XPS, Kratos Analytical) was used for the surface chemical characterization of the cathodes in an Ar atmosphere without air exposure.</p></sec></sec><sec sec-type="COI-statement" id="advs10438-sec-0230"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs10438-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="advs10438-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-12-2411598-s001.pdf"/></supplementary-material><supplementary-material id="advs10438-supitem-0002" position="float" content-type="local-data"><caption><p>Supplemental Video 1</p></caption><media xlink:href="ADVS-12-2411598-s002.mp4" mimetype="video" mime-subtype="mp4"/></supplementary-material></sec></body><back><ack id="advs10438-sec-0220"><title>Acknowledgements</title><p>This project was funded by the Intelligence Advanced Research Projects Activity under contract no 2021&#x02013;21060200009 to SAFT. This work was performed in part at the San Diego Nanotechnology Infrastructure (SDNI) of University of California San Diego, a member of the National Nanotechnology Coordinated Infrastructure (NNCI), which was supported by the National Science Foundation (Grant ECCS&#x02010;1542148).</p></ack><sec sec-type="data-availability" id="advs10438-sec-0250"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs10438-bibl-0001"><ref id="advs10438-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs10438-cit-0001">
+<string-name>
+<given-names>H. D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bae</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gwon</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2015</year>, <volume>54</volume>, <fpage>9663</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs10438-cit-0002">
+<string-name>
+<given-names>G.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jeon</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;R.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;J.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2015</year>, <volume>8</volume>, <fpage>3173</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs10438-cit-0003">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jung</surname>
+</string-name>, <source>Int. J. Electrochem. Sci</source>
+<year>2015</year>, <volume>10</volume>, <fpage>7574</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs10438-cit-0004">
+<string-name>
+<given-names>T. H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jung</surname>
+</string-name>, <source>Bull. Korean Chem. Soc.</source>
+<year>2016</year>, <volume>37</volume>, <fpage>917</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs10438-cit-0005">
+<string-name>
+<given-names>J.</given-names>
+<surname>Islam</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Shareef</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Das</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>H. M.</given-names>
+<surname>Zabed</surname>
+</string-name>, <string-name>
+<given-names>M. U.</given-names>
+<surname>Khandaker</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Idris</surname>
+</string-name>, <string-name>
+<given-names>F. I.</given-names>
+<surname>Chowdhury</surname>
+</string-name>, <source>J. Energy Storage</source>
+<year>2022</year>, <volume>52</volume>, <elocation-id>104952</elocation-id>.</mixed-citation></ref><ref id="advs10438-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs10438-cit-0006">
+<string-name>
+<given-names>K.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;T.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>J. Chem. Eng. Data</source>
+<year>2014</year>, <volume>59</volume>, <fpage>1202</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs10438-cit-0007">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Ein&#x02010;Eli</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Koch</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1997</year>, <volume>144</volume>, <fpage>1159</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs10438-cit-0008">
+<string-name>
+<given-names>H.</given-names>
+<surname>Xing</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Veith</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X. G.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dai</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2014</year>, <volume>126</volume>, <fpage>2131</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs10438-cit-0009">
+<string-name>
+<given-names>K. G.</given-names>
+<surname>Gallagher</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Goebel</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Greszler</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mathias</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Oelerich</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Eroglu</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>1555</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs10438-cit-0010">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Nat. Catal.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>1035</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs10438-cit-0011">
+<string-name>
+<given-names>R. L.</given-names>
+<surname>Ake</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Oglesby</surname>
+</string-name>, <string-name>
+<given-names>W. P.</given-names>
+<surname>Kilroy</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1984</year>, <volume>131</volume>, <fpage>968</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs10438-cit-0012">
+<string-name>
+<given-names>M.</given-names>
+<surname>Rupich</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Pitts</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Abraham</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1982</year>, <volume>129</volume>, <fpage>1857</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs10438-cit-0013">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2022</year>, <volume>119</volume>, <elocation-id>e2202835119</elocation-id>.<pub-id pub-id-type="pmid">35969765</pub-id>
+</mixed-citation></ref><ref id="advs10438-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs10438-cit-0014">
+<string-name>
+<given-names>T. N.</given-names>
+<surname>Rao</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Collier</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Calvert</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>1969</year>, <volume>91</volume>, <fpage>1616</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs10438-cit-0015">
+<string-name>
+<given-names>H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;K.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>W. M.</given-names>
+<surname>Seong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bae</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <elocation-id>14989</elocation-id>.<pub-id pub-id-type="pmid">28492225</pub-id>
+</mixed-citation></ref><ref id="advs10438-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs10438-cit-0016">
+<string-name>
+<given-names>W.</given-names>
+<surname>Kilroy</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Ebner</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Chua</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Venkatasetty</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1985</year>, <volume>132</volume>, <fpage>274</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs10438-cit-0017">
+<string-name>
+<given-names>D. S.</given-names>
+<surname>Hall</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Self</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Dahn</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2015</year>, <volume>119</volume>, <elocation-id>22322</elocation-id>.</mixed-citation></ref><ref id="advs10438-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs10438-cit-0018">
+<string-name>
+<given-names>A.</given-names>
+<surname>Dey</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kuo</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Piliero</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kallianidis</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1988</year>, <volume>135</volume>, <fpage>2115</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs10438-cit-0019">
+<string-name>
+<given-names>H. D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>K. Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>E. Y.</given-names>
+<surname>Jang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gwon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Lima</surname>
+</string-name>, <string-name>
+<given-names>R. O.</given-names>
+<surname>Robles</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lepr&#x000f3;</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>1348</fpage>.<pub-id pub-id-type="pmid">23255225</pub-id>
+</mixed-citation></ref><ref id="advs10438-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs10438-cit-0020">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Moitoso</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Martinez&#x02010;Martinez</surname>
+</string-name>, <string-name>
+<given-names>E. D.</given-names>
+<surname>Walsh</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Lacey</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;W.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Connell</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2017</year>, <volume>17</volume>, <fpage>3235</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs10438-cit-0021">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Cheon</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>K. Y.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <elocation-id>30872</elocation-id>.<pub-id pub-id-type="pmid">31380617</pub-id>
+</mixed-citation></ref><ref id="advs10438-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs10438-cit-0022">
+<string-name>
+<given-names>H.&#x02010;D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gwon</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16066</elocation-id>.</mixed-citation></ref><ref id="advs10438-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs10438-cit-0023">
+<string-name>
+<given-names>S.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>9182</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs10438-cit-0024">
+<string-name>
+<given-names>W.&#x02010;J.</given-names>
+<surname>Kwak</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>T. T.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. R.</given-names>
+<surname>Byon</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>3857</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs10438-cit-0025">
+<string-name>
+<given-names>T.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;T.</given-names>
+<surname>Fang</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2022</year>, <volume>410</volume>, <elocation-id>140004</elocation-id>.</mixed-citation></ref><ref id="advs10438-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs10438-cit-0026">
+<string-name>
+<given-names>C.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Choi</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <elocation-id>16586</elocation-id>.<pub-id pub-id-type="pmid">30998318</pub-id>
+</mixed-citation></ref><ref id="advs10438-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs10438-cit-0027">
+<string-name>
+<given-names>B.</given-names>
+<surname>Ratnakumar</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Smart</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Ewell</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Whitcanack</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kindler</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Narayanan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Surampudi</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2007</year>, <volume>154</volume>, <fpage>A715</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs10438-cit-0028">
+<string-name>
+<given-names>D.</given-names>
+<surname>Linden</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>McDonald</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>1980</year>, <volume>5</volume>, <fpage>35</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs10438-cit-0029">
+<string-name>
+<given-names>D.</given-names>
+<surname>Ernst</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1982</year>, <volume>129</volume>, <fpage>565</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs10438-cit-0030">
+<string-name>
+<given-names>G.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P. N.</given-names>
+<surname>Ross</surname>
+</string-name>, <source>Langmuir</source>
+<year>1999</year>, <volume>15</volume>, <fpage>1470</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs10438-cit-0031">
+<string-name>
+<given-names>R.</given-names>
+<surname>Lundstr&#x000f6;m</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Gogoi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Melin</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Berg</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2024</year>, <volume>128</volume>, <fpage>8147</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs10438-cit-0032">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Polleux</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dunn</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2007</year>, <volume>111</volume>, <elocation-id>14925</elocation-id>.</mixed-citation></ref><ref id="advs10438-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs10438-cit-0033">
+<string-name>
+<given-names>H.&#x02010;D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bae</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>j.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Chem. Soc. Rev.</source>
+<year>2017</year>, <volume>46</volume>, <fpage>2873</fpage>.<pub-id pub-id-type="pmid">28418060</pub-id>
+</mixed-citation></ref><ref id="advs10438-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs10438-cit-0034">
+<string-name>
+<given-names>G.</given-names>
+<surname>Hyun</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Bae</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;W.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ham</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jeon</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2023</year>, <volume>33</volume>, <elocation-id>230309</elocation-id>.</mixed-citation></ref><ref id="advs10438-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs10438-cit-0035">
+<string-name>
+<given-names>H.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>B. M.</given-names>
+<surname>Gallant</surname>
+</string-name>, <source>Nat. Rev. Chem.</source>
+<year>2020</year>, <volume>4</volume>, <fpage>566</fpage>.</mixed-citation></ref><ref id="advs10438-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs10438-cit-0036">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2003416</elocation-id>.</mixed-citation></ref><ref id="advs10438-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs10438-cit-0037">
+<string-name>
+<given-names>H.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Baek</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;T.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2023</year>, <volume>55</volume>, <fpage>708</fpage>.</mixed-citation></ref></ref-list></back></article>

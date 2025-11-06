@@ -1,0 +1,1617 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs5755" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">10401129</article-id><article-id pub-id-type="pmid">37221139</article-id><article-id pub-id-type="doi">10.1002/advs.202302521</article-id><article-id pub-id-type="publisher-id">ADVS5755</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Non&#x02010;Linear Kinetics of The Lithium Metal Anode on Li<sub>6</sub>PS<sub>5</sub>Cl at High Current Density: Dendrite Growth and the Role of Lithium Microstructure on Creep</article-title></title-group><contrib-group><contrib id="advs5755-cr-0001" contrib-type="author" corresp="yes"><name><surname>Singh</surname><given-names>Dheeraj Kumar</given-names></name><xref rid="advs5755-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5755-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>dheeraj.kumar.singh@tcgcrest.org</email></address></contrib><contrib id="advs5755-cr-0002" contrib-type="author"><name><surname>Fuchs</surname><given-names>Till</given-names></name><xref rid="advs5755-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5755-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs5755-cr-0003" contrib-type="author"><name><surname>Krempaszky</surname><given-names>Christian</given-names></name><xref rid="advs5755-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs5755-cr-0004" contrib-type="author"><name><surname>Mogwitz</surname><given-names>Boris</given-names></name><xref rid="advs5755-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5755-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs5755-cr-0005" contrib-type="author" corresp="yes"><name><surname>Janek</surname><given-names>J&#x000fc;rgen</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9221-4756</contrib-id><xref rid="advs5755-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5755-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>juergen.janek@pc.jlug.de</email></address></contrib></contrib-group><aff id="advs5755-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Physical Chemistry</named-content>
+<institution>Justus&#x02010;Liebig&#x02010;University Giessen</institution>
+<named-content content-type="street">Heinrich&#x02010;Buff&#x02010;Ring 17</named-content>
+<postal-code>D&#x02010;35392</postal-code>
+<city>Giessen</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs5755-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Center for Materials Research (ZfM)</named-content>
+<institution>Justus&#x02010;Liebig&#x02010;University Giessen</institution>
+<named-content content-type="street">Heinrich&#x02010;Buff&#x02010;Ring 16</named-content>
+<postal-code>D&#x02010;35392</postal-code>
+<city>Giessen</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs5755-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Materials Science and Mechanics of Materials</named-content>
+<institution>Technical University of Munich</institution>
+<named-content content-type="street">Boltzmannstrasse 15</named-content>
+<postal-code>D&#x02010;85748</postal-code>
+<city>Garching</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>dheeraj.kumar.singh@tcgcrest.org</email>; <email>juergen.janek@pc.jlug.de</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>5</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2023</year></pub-date><volume>10</volume><issue seq="600">22</issue><issue-id pub-id-type="doi">10.1002/advs.v10.22</issue-id><elocation-id>2302521</elocation-id><history>
+<date date-type="received"><day>20</day><month>4</month><year>2023</year></date>
+</history><permissions><!--&#x000a9; 2023 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-10-2302521.pdf"/><abstract><title>Abstract</title><p>Interfacial instability, viz., pore formation in the lithium metal anode (LMA) during discharge leading to high impedance, current focusing induced solid&#x02013;electrolyte (SE) fracture during charging, and formation/behaviour of the solid&#x02013;electrolyte interphase (SEI), at the anode, is one of the major hurdles in the development of solid&#x02010;state batteries (SSBs). Also, understanding cell polarization behaviour at high current density is critical to achieving the goal of fast&#x02010;charging battery and electric vehicle. Herein, via in situ electrochemical scanning electron microscopy (SEM) measurements, performed with freshly deposited lithium microelectrodes on transgranularly fractured fresh Li6PS5Cl (LPSCl), the Li&#x001c0;LPSCl interface kinetics are investigated beyond the linear regime. Even at relatively small overvoltages of a few mV, the Li&#x001c0;LPSCl interface shows non&#x02010;linear kinetics. The interface kinetics possibly involve multiple rate&#x02010;limiting processes, i.e., ion transport across the SEI and SE|SEI interfaces, as well as charge transfer across the Li&#x001c0;SEI interface. The total polarization resistance <italic toggle="yes">R</italic>
+<sub>P</sub> of the microelectrode interface is determined to be &#x02248; 0.8 &#x003a9; cm<sup>2</sup>. It is further shown that the nanocrystalline lithium microstructure can lead to a stable Li&#x001c0;SE interface via Coble creep along with uniform stripping. Also, spatially resolved lithium deposition, i.e., at grain surface flaws, grain boundaries, and flaw&#x02010;free surfaces, indicates exceptionally high mechanical endurance of flaw&#x02010;free surfaces toward cathodic load (&#x0003e;150&#x000a0;mA cm<sup>&#x02212;2</sup>). This highlights the prominent role of surface defects in dendrite growth.</p></abstract><abstract id="advs5755-abs-0001" abstract-type="graphical"><p>Lithium microelectrodes deposited on Li<sub>6</sub>PS<sub>5</sub>Cl are used to study a) the polarization behavior at high current density and the intrinsic interfacial kinetics, b) the influence of the lithium microstructure on interfacial stability. By means of spatially resolved lithium electrodeposition at Li<sub>6</sub>PS<sub>5</sub>Cl grain surface flaws, grain boundaries, and on flaw&#x02010;free surfaces, the origin of the mechanical failure is explored.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-10-2302521-g009.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs5755-kwd-0001">dendrite growth</kwd><kwd id="advs5755-kwd-0002">lithium metal anodes</kwd><kwd id="advs5755-kwd-0003">microstructure assisted creep</kwd><kwd id="advs5755-kwd-0004">non&#x02010;linear kinetics</kwd><kwd id="advs5755-kwd-0005">solid&#x02010;electrolyte interphase</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>German Federal Ministry of Education and Research</funding-source><award-id>03XP0177A</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Department of Energy
+</institution><institution-id institution-id-type="doi">10.13039/100000015</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source>German Federal Ministry of Education and Research</funding-source></award-group><award-group id="funding-0004"><funding-source>German Federal Ministry of Education and Research</funding-source><award-id>03XP0224E</award-id><award-id>03XP0509B</award-id></award-group></funding-group><counts><fig-count count="9"/><table-count count="0"/><page-count count="12"/><word-count count="8276"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 4, 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.2 mode:remove_FC converted:04.08.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs5755-cit-0063">
+<string-name>
+<given-names>D. K.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Fuchs</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Krempaszky</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Mogwitz</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <article-title>Non&#x02010;Linear Kinetics of The Lithium Metal Anode on Li<sub>6</sub>PS<sub>5</sub>Cl at High Current Density: Dendrite Growth and the Role of Lithium Microstructure on Creep</article-title>. <source>Adv. Sci.</source>
+<year>2023</year>, <volume>10</volume>, <elocation-id>2302521</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202302521</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs5755-sec-0010"><label>1</label><title>Introduction</title><p>The lithium metal anode (3860 mAh g<sup>&#x02212;1</sup>, and <italic toggle="yes">E</italic>(Li<sup>+</sup>/Li) = &#x02212;3.04&#x000a0;V vs standard hydrogen electrode), when coupled with inorganic solid electrolytes (SEs), can potentially enable solid&#x02010;state batteries (SSB) with high specific energy (&#x02248;393&#x000a0;Wh kg<sup>&#x02212;1</sup>) and energy density (&#x02248;1143&#x000a0;Wh L<sup>&#x02212;1</sup>) compared to conventional lithium&#x02010;ion batteries with liquid electrolytes.<sup>[</sup>
+<xref rid="advs5755-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs5755-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs5755-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> They also promise improved safety by eliminating thermal runaway issues associated with flammable liquid organic electrolytes, ensuring extended cycle life.<sup>[</sup>
+<xref rid="advs5755-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs5755-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs5755-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> However, practical applications, such as hybrid/electric vehicles, require that a high energy density is complemented by high&#x02010;rate capability.<sup>[</sup>
+<xref rid="advs5755-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs5755-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Yet the reported rate capabilities of liquid electrolyte&#x02010;based batteries are still generally higher than those of SSBs.<sup>[</sup>
+<xref rid="advs5755-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="advs5755-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> Particularly, the lithium metal anode appears to be a critical limiting factor for a high power density of SSBs.<sup>[</sup>
+<xref rid="advs5755-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup>
+</p><p>The high&#x02010;rate capability of conventional LIBs is achieved through intercalation&#x02010;type electrodes that show only minor morphological and microstructural effects during charge and discharge, except under more severe conditions. The comparably low&#x02010;rate capability of the lithium metal anode is due to its inherent morphological instability during cycling&#x02014;nucleation, growth, and the related massive volume effects remain key issues. Lithium deposition during charging can build up local interfacial stresses up to the GPa range.<sup>[</sup>
+<xref rid="advs5755-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="advs5755-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> It can easily exceed the fracture toughness (<italic toggle="yes">K</italic>
+<sub>IC</sub>) of ISEs, leading to crack initiation and subsequent filling with lithium.<sup>[</sup>
+<xref rid="advs5755-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> The crack propagation and resulting lithium dendrite growth clearly depend on the solid&#x02013;electrolyte (SE) microstructure.<sup>[</sup>
+<xref rid="advs5755-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs5755-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs5755-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="advs5755-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Therefore, understanding the micromechanics of dendrite growth is essential to address the low critical current density (CCD) observed in SSBs with the metal anode. This is particularly relevant for Li<sub>6</sub>PS<sub>5</sub>Cl (LPSCl), as the formation of interfacial contacts accompanies the introduction of flaws and microstructural restructuring due to the low <italic toggle="yes">K</italic>
+<sub>IC</sub> of sulfur&#x02010;based SEs.<sup>[</sup>
+<xref rid="advs5755-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="advs5755-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup>
+</p><p>The formation of pores in the LMA during discharge additionally affects the power density.<sup>[</sup>
+<xref rid="advs5755-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> Therefore, maintaining a stable, low&#x02010;impedance anode interface is critical for the development of SSBs. To achieve this, usually, a high stack pressure is required.<sup>[</sup>
+<xref rid="advs5755-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="advs5755-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> As high pressure has a detrimental effect on cell performance when LPSCl is used as SE,<sup>[</sup>
+<xref rid="advs5755-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="advs5755-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> the resulting mechanical state of the lithium anode has an impact on the long&#x02010;term cyclability.<sup>[</sup>
+<xref rid="advs5755-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="advs5755-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs5755-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> It is desirable that this pressure threshold is as low as possible.</p><p>Beyond these electrochemo&#x02010;mechanical issues, the quantitative evaluation of the total polarization resistance (<italic toggle="yes">R</italic>
+<sub>P</sub>) at the Li|ISE interface is fundamental to the development of high&#x02010;rate SSBs.<sup>[</sup>
+<xref rid="advs5755-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup> Polarization should be minor, preferably in the single digit &#x003a9; cm<sup>2</sup> range, thus resulting in negligible area specific resistance (ASR). However, the presence of interface impurities (e.g., from cell fabrication or due to the passivation layer of stored lithium metal, and/or the formation of a solid&#x02013;electrolyte interphase (SEI)), constriction effects (due to insufficient stack pressure or pore formation during discharge), hinder the determination of the intrinsic charge&#x02010;transfer resistance, <italic toggle="yes">R</italic>
+<sub>CT</sub>, the ion&#x02010;transport resistance across the SEI (<italic toggle="yes">R</italic>
+<sub>SEI</sub>) and the charge&#x02010;transfer resistance <italic toggle="yes">R</italic>
+<sub>SE|SEI</sub> of the SE|SEI interface.<sup>[</sup>
+<xref rid="advs5755-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs5755-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs5755-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs5755-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> Correct interpretation of impedance data and assignment of microscopic transport/transfer steps in the low frequency range can get difficult due to current focusing (i.e., constriction), as recently shown by Eckhardt&#x000a0;et al.<sup>[</sup>
+<xref rid="advs5755-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> To better understand the LMA quantitatively, it is important to deconvolute <italic toggle="yes">R</italic>
+<sub>CT</sub>, <italic toggle="yes">R</italic>
+<sub>SEI</sub> and <italic toggle="yes">R</italic>
+<sub>SE|SEI</sub> from the total polarization resistance <italic toggle="yes">R</italic>
+<sub>P</sub> and address them accordingly. This is the especially important in the context of LPSCl as it forms a Li<sub>2</sub>S&#x02010;rich, self&#x02010;limiting, resistive SEI,<sup>[</sup>
+<xref rid="advs5755-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> with poor bulk ionic conductivity (<italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub>(Li<sub>2</sub>S) &#x02248;10<sup>&#x02212;10</sup> mS cm<sup>&#x02212;1</sup> at 25&#x000a0;&#x000b0;C),<sup>[</sup>
+<xref rid="advs5755-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> or an order higher conductivity for nanocrystalline Li<sub>2</sub>S depending on SEI microstructure.</p><p>In the present study, we employ freshly deposited lithium at a tungsten microneedle on the pristine surface of a transgranularly fractured LPSCl pellet, serving as a clean and well&#x02010;defined microelectrode&#x02014;following a route first demonstrated by Krauskopf et&#x000a0;al.<sup>[</sup>
+<xref rid="advs5755-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> This allowed us to study the following: i) polarization behavior of the Li&#x001c0;LPSCl interface at high current density (40&#x000a0;mA cm<sup>&#x02212;2</sup>), i.e., in the non&#x02010;linear regime. The low CCD values in SSBs occlude the study of polarization behavior at high current densities which are relevant for fast charging batteries in electric vehicles. ii) Microstructural influence of lithium on creep towards a stable, low&#x02010;impedance interface, and iii) identify the role of microstructure (i.e., grain surface, grain surface defects, or grain boundaries of LPSCl) in dendrite growth.</p><p>Under these model&#x02010;type conditions, we determine <italic toggle="yes">R</italic>
+<sub>P</sub> &#x02248; 0.8 &#x003a9; cm<sup>2</sup> by cyclic voltammetry, corresponding to a quite high exchange current density of <italic toggle="yes">i</italic>
+<sub>0</sub> (Li|LPSCl) = 32&#x000a0;mA cm<sup>&#x02212;2</sup>. We show that nanocrystalline lithium (&#x0003c;100&#x000a0;nm grain size) can reduce the required stack pressure to maintain a stable interface. Fast lithium diffusivity along low activation energy grain boundaries (<italic toggle="yes">D</italic>
+<sub>GB</sub> &#x02248;10<sup>&#x02212;7</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>), in a dense grain boundary microstructure enables a higher strain rate. In addition, microelectrode measurements on a defect&#x02010;free atomically flat grain surface can offer access to the theoretical strength (&#x0223c;<italic toggle="yes">E&#x000b4;</italic>/15, where <italic toggle="yes">E&#x000b4;</italic> is Young's modulus of a given ceramic material) of the SE.<sup>[</sup>
+<xref rid="advs5755-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> Preferential lithium deposition (on defective and defect&#x02010;free grain surfaces) indicates an exceptionally high mechanical endurance of the defect&#x02010;free surfaces toward cathodic loading (&#x0003e;150&#x000a0;mA cm<sup>&#x02212;2</sup>). This underlines the prominent role of surface defects and grain boundaries in dendrite growth.</p></sec><sec id="advs5755-sec-0020"><label>2</label><title>Results and Discussion</title><p>LPSCl was synthesized via a solid&#x02010;state approach (see Supporting Information for details). The phase purity of the synthesized material was confirmed by powder X&#x02010;ray diffraction (PXRD) measurements (Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S1</xref>, Supporting Information). Scanning electron microscopy (SEM) analysis reveals the grain size in the range of 20&#x02013;40&#x000a0;&#x000b5;m (Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information). The ionic conductivity of LPSCl pressed pellets was determined to be <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub> = 1.65 mS cm<sup>&#x02212;1</sup> in a symmetric Au|LPSCl|Au cell using potentiostatic electrochemical impedance spectroscopy (PEIS; see Supporting Information for details). The activation energy of <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub> was determined to be <italic toggle="yes">E</italic>
+<sub>A</sub> = 0.40&#x000a0;eV by temperature&#x02010;dependent measurements in the range from &#x02212;60 to +25&#x000a0;&#x000b0;C (Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S3</xref>, Supporting Information).</p><p>The set&#x02010;up used for the in&#x02010;situ measurements in the SEM is schematically shown in <bold>Figure</bold>
+<xref rid="advs5755-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref> (see Supporting Information for details). A low magnification SEM image of the setup is shown in Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S4</xref> (Supporting Information). Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S5a</xref> (Supporting Information) shows the FIB&#x02010;SEM image of the Li|LPSCl interface. In earlier work, we showed that an Li|LPSCl interface prepared in this way does not exhibit measurable constriction or charge&#x02010;transfer resistances.<sup>[</sup>
+<xref rid="advs5755-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S5b&#x02010;d</xref> (Supporting Information) shows the energy dispersive X&#x02010;ray spectroscopy (EDS) elemental mapping of S, P, and Cl at the interface. Figure&#x000a0;<xref rid="advs5755-fig-0001" ref-type="fig">1b</xref> shows the surface topography of a cleaved LPSCl pellet with transgranularly fractured grains. To obtain a well&#x02010;defined lithium microelectrode, i.e., ideally hemispheroidal deposits, we applied the following current sequence: &#x02212;2 nA for 10 min, &#x02212;3 nA for 50 min, and &#x02212;4 nA for 30 min (corresponding to &#x02248;1250 &#x000b5;m<sup>3</sup> lithium, i.e., ideally a semi&#x02010;sphere with <italic toggle="yes">d</italic> &#x02248; 10.6&#x000a0;&#x000b5;m). Figure&#x000a0;<xref rid="advs5755-fig-0001" ref-type="fig">1c</xref> shows the galvanostatic deposition profile for the first 10&#x000a0;min showing the nucleation overpotential (<italic toggle="yes">&#x003b7;</italic>
+<sub>nuc</sub> &#x02248; &#x02212;800&#x000a0;mV) followed by a stable deposition overpotential of about <italic toggle="yes">&#x003b7;</italic> &#x02248; &#x02212;4&#x000a0;mV. Figure&#x000a0;<xref rid="advs5755-fig-0001" ref-type="fig">1d</xref> shows an SEM image of a flat LPSCl grain surface (left) along with the temporal evolution of the microelectrode at 30 s (middle) and 90&#x000a0;min (right).</p><fig position="float" fig-type="Figure" id="advs5755-fig-0001"><label>Figure 1</label><caption><p>a) Experimental set&#x02010;up used for in&#x02010;situ SEM&#x02010;electrochemical measurements (schematic). b) SEM image showing surface topography of cross&#x02010;section of a cleaved LPSCl pellet with randomly oriented, transgranularly fractured grains. c) Galvanostatic profile at &#x02212;2 nA for the first 10&#x000a0;min of deposition. d) Flat LPSCl grain surface before deposition (left). Temporal evolution of Li electrodeposition into prolate&#x02010;hemispheroidal deposits (middle and right).</p></caption><graphic xlink:href="ADVS-10-2302521-g005" position="anchor" id="jats-graphic-3"/></fig><sec id="advs5755-sec-0030"><label>2.1</label><title>Kinetics at Li&#x001c0;LPSCl Interface</title><p>Cyclic voltammograms (CVs) were recorded to evaluate the kinetic parameters of the Li|LPSCl interface. The CV at 10&#x000a0;mV s<sup>&#x02212;1</sup> (<bold>Figure</bold>
+<xref rid="advs5755-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>) shows that the Li&#x001c0;LPSCl interface exhibits non&#x02010;linear behavior. To understand the underlying kinetics, the interface overpotential at the working electrode must be deconvoluted from the total overpotential. Due to the asymmetric nature of the setup and the negligible interface resistance (constriction and/or charge&#x02010;transfer resistance) at the much larger counter/reference electrode,<sup>[</sup>
+<xref rid="advs5755-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> we assume that the potential drop occurs primarily at the microelectrode interface&#x02014;a constricted electrode contact.<sup>[</sup>
+<xref rid="advs5755-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs5755-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs5755-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="advs5755-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> The impedance of a constricted electrode (<italic toggle="yes">Z</italic>
+<sub>constriction</sub>) of diameter <italic toggle="yes">d</italic> is determined under simplifying assumptions by the ionic conductivity <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub> of the SE and is given by<sup>[</sup>
+<xref rid="advs5755-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0001">
+<label>(1)</label>
+<mml:math id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>Z</mml:mi><mml:mi>constriction</mml:mi></mml:msub><mml:mo linebreak="badbreak">&#x02248;</mml:mo><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mn>2</mml:mn><mml:mo linebreak="goodbreak">&#x000d7;</mml:mo><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>ion</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:mi>d</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><fig position="float" fig-type="Figure" id="advs5755-fig-0002"><label>Figure 2</label><caption><p>a) Cyclic voltammogram of a Li microelectrode at 10&#x000a0;mV s<sup>&#x02212;1</sup>. The arrow indicates the initial scan direction. b) Cathodic overpotential corrected for constriction overpotential, i.e., I &#x000d7; Z<sub>constriction</sub> = I &#x000d7; 1/(2<italic toggle="yes">&#x003c3;</italic>d). c) The trace indicates the contacted area after microelectrode removal. The equivalent area with circular contact is also indicated. It corresponds well to <italic toggle="yes">d</italic> = 10.6&#x000a0;&#x000b5;m as estimated from the microelectrode deposition. d) Schematic depicting the SEI layer in the constricted electrode. Arrowed black lines schematically indicate the idealized current distribution in the SE&#x02010;SEI phase. In reality, the current distribution is expected to depend in a complex way on the microstructure of SEI. d) SEI as a multiphase composite with complex microstructure having different types of interfaces. Ion transport passes different interfaces, shown in blue. Additionally, ion transport across the SE|SEI interface and the charge transfer across Li|SEI. f) Plausible sources of polarization at the Li|LPSCl interface. The magnitude of the individual polarization can only be accurately estimated if the time constants of the processes are well separated.</p></caption><graphic xlink:href="ADVS-10-2302521-g007" position="anchor" id="jats-graphic-5"/></fig><p>Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2b</xref> shows the experimental data corrected for the constriction impedance, i.e., <italic toggle="yes">&#x003b7;</italic>
+<sub>interface</sub> (interface overpotential) = <italic toggle="yes">&#x003b7;</italic>
+<sub>measured</sub> (measured overpotential) &#x02212; <italic toggle="yes">I</italic> &#x000d7; 1/(2&#x000d7;<italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub>&#x000d7;<italic toggle="yes">d</italic>), where <italic toggle="yes">I</italic> is the current. We used the cathodic (plating) part of the CV for the analyses as the anodic data, particularly at high overpotentials (<italic toggle="yes">&#x003b7;</italic> &#x0003e; 5&#x000a0;mV) these seem to be slightly skewed due to contact loss at the interface. This is evident when comparing the extent of the linear regime in the cathodic and anodic scans. The linear regime extends until |<italic toggle="yes">&#x003b7;</italic>| &#x02248; 5&#x000a0;mV in the cathodic scan, whereas it is restricted to &#x02248;2&#x000a0;mV for the anodic scan (stripping) (Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2a</xref>). The contact area of the working electrode was determined by following the trace of the microelectrode after its removal, as shown in Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2c</xref>. Then, the average diameter, <italic toggle="yes">d</italic> = 9.64&#x000a0;&#x000b5;m, was determined using a circular contact with an equivalent area (Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2c</xref>). Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2b</xref> shows that for the corrected data, the overpotential (|<italic toggle="yes">&#x003b7;</italic>|) first increases with increasing current density up to |<italic toggle="yes">i</italic>| = 9.4&#x000a0;mA cm<sup>&#x02212;2</sup> and then decreases with increasing current density. Clearly, this does not agree with our assumption of a simple constriction impedance, i.e., <italic toggle="yes">Z</italic>
+<sub>constriction</sub> &#x02248; 1/(2&#x000d7;<italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub>&#x000d7;<italic toggle="yes">d</italic>) does not hold. Since <italic toggle="yes">d</italic> is constant in our case (Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2c</xref>), the only parameter that could vary is <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub>, and we discuss this next.</p></sec><sec id="advs5755-sec-0040"><label>2.2</label><title>Role of SEI</title><p>LPSCl forms a &#x02248;250&#x000a0;nm thick Li<sub>2</sub>S&#x02010;rich resistive SEI with lithium (<italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub> (Li<sub>2</sub>S&#x02010;bulk) &#x02248;10<sup>&#x02212;10</sup> mS cm<sup>&#x02212;1</sup> at 25&#x000a0;&#x000b0;C),<sup>[</sup>
+<xref rid="advs5755-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> see Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2d</xref>.<sup>[</sup>
+<xref rid="advs5755-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> The presence of other decomposition products, i.e., LiCl and Li<sub>3</sub>P, causes the formation of a multiphase composite with complex microstructure and multiple interfaces.<sup>[</sup>
+<xref rid="advs5755-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> In addition, &#x02248;27% volume reduction occurs during the formation of SEI, according to the reaction Li<sub>6</sub>PS<sub>5</sub>Cl + 8Li &#x02192; 5Li<sub>2</sub>S + LiCl + Li<sub>3</sub>P, indicating that the SEI may have a porous microstructure, unlike the dense SEI formed in Li&#x02010;ion batteries with liquid electrolytes, which are mainly composed of inorganic decomposition products (i.e., Li<sub>2</sub>CO<sub>3</sub>, LiF, etc.), with a thickness of &#x02248;5&#x02013;20&#x000a0;nm.<sup>[</sup>
+<xref rid="advs5755-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="advs5755-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup>
+</p><p>It is obvious that the ionic conductivity of the SEI must be taken into account when estimating the constriction impedance (Equation&#x000a0;<xref rid="advs5755-disp-0001" ref-type="disp-formula">1</xref>), i.e., <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub> must include the contribution from the SEI. Therefore, the current distribution in the SE&#x02013;SEI region is likely to depend on the microstructure (grain size, distribution of different phases, crystallinity of phases, porosity, etc.) and the thickness of the SEI.<sup>[</sup>
+<xref rid="advs5755-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs5755-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> This is shown schematically in Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2d&#x02013;e</xref>. Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2d</xref> schematically shows the current distribution in the SE&#x02013;SEI region. The current distribution will be highly inhomogeneous, and the subject deserves further theoretical and experimental investigation. Furthermore, if we assume that <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub>(SE&#x02013;SEI) is an average value of <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub>(SEI) and <italic toggle="yes">&#x003c3;</italic>
+<sub>ion</sub>(SE) that determines the constriction resistance, even then the overpotential <italic toggle="yes">&#x003b7;</italic>
+<sub>constriction</sub> due to constriction is a linear function and cannot explain the observed non&#x02010;linearity. This will be discussed in the following section.</p></sec><sec id="advs5755-sec-0050"><label>2.3</label><title>Non&#x02010;Linear Transport in Thin, Disordered SEI</title><p>Blume&#x000a0;et al., and Hess, in their study of the interface between Li and solid&#x02010;polymer electrolyte (SPE), and alkali metals (Li, Na, and K) with various liquid electrolytes, respectively, pointed out that the non&#x02010;linear behavior of such interface, involving an SEI, cannot be described by simple Butler&#x02013;Volmer (BV) kinetics.<sup>[</sup>
+<xref rid="advs5755-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="advs5755-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> Instead, they found more than one rate&#x02010;limiting process that determines the kinetics of the interface. This was confirmed by Farrington et al. in their lithium microelectrode kinetics study of liquid poly(ethylene glycol dimethyl ether) (PEGM) with LiAsF<sub>6</sub>.<sup>[</sup>
+<xref rid="advs5755-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>]</sup> They showed that a SEI&#x02010;free interface can be described by BV&#x02010;type kinetics. Blume et al.&#x000a0; described their non&#x02010;linear kinetics with three rate&#x02010;limiting processes, viz. one ion transport step across the SEI and two charge&#x02010;transfer processes at the interfaces of the SEI. Both Blume et&#x000a0;al. and Hess invoked a functionally similar hyperbolic sine law<sup>[</sup>
+<xref rid="advs5755-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="advs5755-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0002">
+<label>(2)</label>
+<mml:math id="jats-math-2" display="block"><mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:msub><mml:mi>i</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mspace width="0.33em"/><mml:mi>sinh</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mi>&#x003b2;</mml:mi><mml:mi>&#x003b7;</mml:mi></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where, <italic toggle="yes">i</italic>
+<sub>0</sub> and <italic toggle="yes">&#x003b2;</italic> are fitting parameters, along with an additional BV model to fit their experimental data. Equation&#x000a0;<xref rid="advs5755-disp-0002" ref-type="disp-formula">2</xref> is similar to<sup>[</sup>
+<xref rid="advs5755-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0003">
+<label>(3)</label>
+<mml:math id="jats-math-3" display="block"><mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mn>4</mml:mn><mml:mi>z</mml:mi><mml:mi>F</mml:mi><mml:mi>a</mml:mi><mml:msub><mml:mi>n</mml:mi><mml:mo>+</mml:mo></mml:msub><mml:mi>&#x003bd;</mml:mi><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi>W</mml:mi><mml:mo>/</mml:mo><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:msup><mml:mi>sinh</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi>a</mml:mi><mml:mi>z</mml:mi><mml:mi>F</mml:mi><mml:mi>&#x003b7;</mml:mi><mml:mo>/</mml:mo><mml:mi>L</mml:mi><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">z</italic> is the charge number of the cation, <italic toggle="yes">a</italic> is the half jump distance between the hopping sites, <italic toggle="yes">n</italic>
+<sub>+</sub> is the concentration of the cation lattice defect, <italic toggle="yes">&#x003bd;</italic> is the vibration frequency of the cations at their sites, <italic toggle="yes">W</italic> being the activation energy of the hopping mechanism, <italic toggle="yes">L</italic> is the thickness of the SEI, and <italic toggle="yes">&#x003b7;</italic> is the overpotential due to electric field within SEI. Equation&#x000a0;<xref rid="advs5755-disp-0003" ref-type="disp-formula">3</xref> describes the high&#x02010;field kinetics when the ion transport through a single&#x02010;ion conductor is rate&#x02010;determining.</p><p>SEI growth at the Li|LPSCl interface is self&#x02010;limiting, diffusion&#x02010;controlled, and thus a time&#x02010;dependent process that can be described by a Wagner&#x02010;type model.<sup>[</sup>
+<xref rid="advs5755-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="advs5755-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="advs5755-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> Wenzel et al.&#x000a0; showed that SEI growth into LPSCl follows a parabolic rate law, i.e., the thickness of SEI <italic toggle="yes">d</italic>
+<sub>SEI</sub> &#x0221d; &#x0221a;<italic toggle="yes">t</italic>, where <italic toggle="yes">t</italic> is the time.<sup>[</sup>
+<xref rid="advs5755-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> Under the present experimental conditions, i.e., deposition for 90 min with ever&#x02010;increasing electrode contact area (Figure&#x000a0;<xref rid="advs5755-fig-0001" ref-type="fig">1d</xref>), followed by immediate measurements, the SEI layer is likely to be thin, possibly in the single&#x02010;digit or lower double&#x02010;digit nm range, with highly disordered microstructure. This implies that a strong electric field forms across the SEI at high current density, leading to field&#x02010;dependent non&#x02010;linear transport in this thin, disordered system.<sup>[</sup>
+<xref rid="advs5755-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> We assume that it is very likely that this is one of the factors contributing to the observed non&#x02010;linearity, and that the SEI cannot be treated as a linear resistive element. In addition, by studying the temperature dependencies of <italic toggle="yes">&#x003b2;</italic> and <italic toggle="yes">i</italic>
+<sub>0</sub> (Equation&#x000a0;<xref rid="advs5755-disp-0002" ref-type="disp-formula">2</xref>), Blume et al.&#x000a0; argued that two additional processes, i.e., charge&#x02010;transfer across the Li|SEI and SE|SEI interfaces determine the kinetics, together with non&#x02010;linear ion transport across the SEI.<sup>[</sup>
+<xref rid="advs5755-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> Under these conditions, polarization at the Li|LPSCl interface would then involve three analogous contributions: <italic toggle="yes">&#x003b7;</italic>
+<sub>Li|SEI</sub>, charge&#x02010;transfer across the Li|SEI interface; <italic toggle="yes">&#x003b7;</italic>
+<sub>SEI</sub>, ion&#x02010;transport across the SEI; and <italic toggle="yes">&#x003b7;</italic>
+<sub>SE|SEI</sub>, charge transfer across the SE|SEI interface, leading to <italic toggle="yes">R</italic>
+<sub>p</sub> = <italic toggle="yes">R</italic>
+<sub>bulk</sub> + <italic toggle="yes">R</italic>
+<sub>constriction</sub> + <italic toggle="yes">R</italic>
+<sub>SEI</sub> + <italic toggle="yes">R</italic>
+<sub>SE&#x001c0;SEI</sub> + <italic toggle="yes">R</italic>
+<sub>CT</sub> with <italic toggle="yes">R</italic>
+<sub>constriction</sub> &#x0003e;&#x0003e; <italic toggle="yes">R</italic>
+<sub>bulk</sub>. This is shown in Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2f</xref>. Note that the actual magnitudes of the resistances can only be determined by impedance measurements if the time constants of the processes are well separated and should be additionally verified by temperature&#x02010;dependent measurements.</p><p>It will be highly interesting to study the influence of a modified SEI with different conductivity on the observed non&#x02010;linear kinetics in the future. SEI modification aiming for improved anode stability is increasingly being studied,<sup>[</sup>
+<xref rid="advs5755-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="advs5755-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup> however, we are not aware of any systematic study yet. We expect that the observed non&#x02010;linear behavior will strongly depend on the type of SEI.</p><p>At low overpotentials, all (non&#x02010;linear) resistances converge to an Ohmic (linear) form, and the total polarization resistance <italic toggle="yes">R</italic>
+<sub>p</sub> of the interface in this linear regime is determined to be &#x02248;0.8 &#x003a9; cm<sup>2</sup> (Figure&#x000a0;<xref rid="advs5755-fig-0002" ref-type="fig">2a</xref>). The rather narrow linear range indicates a thin SEI and the onset of its non&#x02010;linear transport behavior. It should also be noted that the effect of the finite needle load on the microelectrode kinetics must be considered. While a modified form of BV kinetics has been proposed to account for the effect of stress on interfacial kinetics, it is only applicable if the applied stress is above 10&#x000a0;MPa.<sup>[</sup>
+<xref rid="advs5755-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup>
+</p><p>To evaluate the effect of the scan rate on the <italic toggle="yes">I&#x02013;&#x003b7;</italic> response, CVs were recorded at a small scan rate of 0.2&#x000a0;mV s<sup>&#x02212;1</sup>. The scan was initially set in the cathodic (plating) direction, as indicated by the arrow in <bold>Figure</bold>
+<xref rid="advs5755-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>. Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a</xref> shows the overlap between the cathodic currents in the forward and reverse scans for the first cycle. Upon switching to the anodic scan, symmetric <italic toggle="yes">I&#x02010;&#x003b7;</italic> behavior is observed up to <italic toggle="yes">&#x003b7;</italic> = 5&#x000a0;mV. Thereafter, a current drop is observed. When the anodic scan is reversed, the current continues to decrease steadily, resulting in current hysteresis. The interfacial contact situation leading to current hysteresis is schematically depicted in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3c</xref>. Vertical Li growth leads to a morphologically stable interface during cathodic deposition. In contrast, anodic stripping causes a morphologically unstable interface via contact loss (Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3c</xref>). The resultant decrease in contact area leads to progressively decreasing current during the anodic scan (Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a,c</xref>). We discuss the current hysteresis induced during anodic stripping and its subsequent closure (Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a</xref>) by interfacial contact loss and contact healing, respectively, in the next section (Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3e</xref>).</p><fig position="float" fig-type="Figure" id="advs5755-fig-0003"><label>Figure 3</label><caption><p>CVs of lithium microelectrodes. a) Symmetric, and b) asymmetric CV of the Li microelectrode at 0.2&#x000a0;mV s<sup>&#x02212;1</sup>. The numbered arrows indicate the scan direction. c) Schematic of interfacial contact evolution during stripping and plating. Interfacial contact at high and low overpotential is expanded in (d). There are only a few contacts at high overpotentials compared to low overpotentials resulting in increased contact stresses. e) Creep deformation of a representative grain in the vicinity of the void (indicated by the dashed circle in (d)) subjected to time&#x02010;dependent or the anodic overpotential dependent inhomogeneous stress. Grain boundary diffusion indicated by solid circles or equivalently vacancy transport (indicated by square box) in the opposite direction drives creep, leading to interfacial contact healing. A net imbalance of stresses upon stripping drives deformation via dislocation climb creep (DCC) or glide assisted flow. The contour of grain boundary prior to deformation (depicted by the dashed red line) is overlayed on the deformed grain. <italic toggle="yes">&#x003c3;</italic>
+<sub>c</sub>, compressive stress and <italic toggle="yes">&#x003c3;</italic>
+<sub>t</sub>, tensile stress.</p></caption><graphic xlink:href="ADVS-10-2302521-g008" position="anchor" id="jats-graphic-7"/></fig><p>The effect of anodic scan is carried over to the cathodic scan in the second cycle (Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a</xref>), where it is seen that <italic toggle="yes">I</italic>
+<sub>cat</sub>(forward) &#x0003c; <italic toggle="yes">I</italic>
+<sub>cat</sub>(reverse). Furthermore, <italic toggle="yes">I</italic>
+<sub>cat</sub>(reverse) overlaps with the cathodic current in the first cycle. As the number of scans increases, we observed that <italic toggle="yes">|I</italic>
+<sub>cat</sub>(forward)| increasingly tends to <italic toggle="yes">|I</italic>
+<sub>cat</sub>(reverse)| or vice versa, i.e., <italic toggle="yes">|I</italic>
+<sub>an</sub>(reverse)| &#x02192; <italic toggle="yes">|I</italic>
+<sub>an</sub>(forward)| until the 11<sup>th</sup> cycle where the respective currents in either direction near overlap. Also, current increases progressively with CV cycle or time as shown is Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S6</xref> (Supporting Information). This can be explained by stress amplification induced by either or both dislocation climb creep (DCC) and glide assisted plastic flow of lithium at the depleted contact, effected during stripping. This is discussed in detail in the next section. Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3d</xref> shows the magnified view of the interface during low (&#x0003c;5&#x000a0;mV) and high (&#x0003e;5&#x000a0;mV) anodic overpotentials corresponding to the linear and non&#x02010;linear <italic toggle="yes">I&#x02013;&#x003b7;</italic> regions, respectively. Clearly, Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3d</xref> indicates the decrease in contact area with potential. Clearly, increasing anodic overpotentials lead to progressively depleting contacts with concurrently increasing contact stresses via stress amplification.</p><p>To gain further insight into the influence of interfacial contact on <italic toggle="yes">I&#x02013;&#x003b7;</italic> behavior, an asymmetric potential sweep in the CV was performed. Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3b</xref> shows an asymmetric CV with anodic sweep potential (+20&#x000a0;mV vs Li<sup>+</sup>/Li) twice that of the cathodic sweep (&#x02212;10&#x000a0;mV vs Li<sup>+</sup>/Li), i.e., more charge is stripped than plated. Such an experiment was conducted so as to cause insufficient time and contact for interface recovery (discussed next). As before, overlap between <italic toggle="yes">I</italic>
+<sub>cat</sub>(forward) and <italic toggle="yes">I</italic>
+<sub>cat</sub>(reverse) is observed during the first cathodic scan. When switching to anodic scan, current hysteresis is induced, i.e., <italic toggle="yes">I</italic>
+<sub>an</sub>(forward)&#x0003e; <italic toggle="yes">I</italic>
+<sub>an</sub>(reverse)<sub>.</sub> This effect continues in the second cycle of the cathodic scan where it can be seen that <italic toggle="yes">I</italic>
+<sub>cat</sub>(forward)&#x0003c; <italic toggle="yes">I</italic>
+<sub>cat</sub>(reverse). Thereafter, a decrease in current (compared to first cycle) along with the overlap between the forward and reverse current is observed. Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S7</xref> shows the asymmetric CV at 0.5&#x000a0;mV s<sup>&#x02212;1</sup>. A behavior as in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3b</xref> is observed, with a pronounced current hysteresis starting at the 4<sup>th</sup> cycle.</p></sec><sec id="advs5755-sec-0060"><label>2.4</label><title>Creep in the Microelectrode</title><p>The lattice rigidity of ISE leads to a different Li&#x001c0;ISE interfacial structure compared to LEs. The diffusion limitation in Li leads to a loss of interfacial contact during stripping as depicted in Figures&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3c,d</xref> and is responsible for the current hysteresis (Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a</xref>).<sup>[</sup>
+<xref rid="advs5755-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs5755-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+<sup>]</sup> The subsequent closure of the hysteresis in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a</xref> is due to interfacial contact healing and can be attributed to the creep and glide assisted plastic flow at the depleted contacts via high contact stresses.<sup>[</sup>
+<xref rid="advs5755-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+<sup>]</sup>
+</p><p>Creep is a time&#x02010;dependent plastic deformation occurring at high homologous temperatures (i.e., <italic toggle="yes">T</italic>
+<sub>H</sub> &#x0003e; 0.3&#x02010;0.4, and <italic toggle="yes">T</italic>
+<sub>H</sub> (= <italic toggle="yes">T</italic>/<italic toggle="yes">T</italic>
+<sub>fus</sub>) for Li is 0.65, where <italic toggle="yes">T</italic> and <italic toggle="yes">T</italic>
+<sub>fus</sub> (= 453.65 K) are the temperature of the experiment and melting temperature of Li in Kelvin, respectively) and below yield stress. In addition, creep depends on the microstructure, i.e., grain size, dislocation density, etc. The general expression for steady&#x02010;state creep is given by<sup>[</sup>
+<xref rid="advs5755-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0004">
+<label>(4)</label>
+<mml:math id="jats-math-4" display="block"><mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>&#x003b5;</mml:mi><mml:mo>&#x002d9;</mml:mo></mml:mover><mml:mo linebreak="badbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mi>A</mml:mi><mml:msub><mml:mi>D</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mi>G</mml:mi><mml:mi>b</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfrac><mml:mspace width="0.33em"/><mml:msup><mml:mfenced separators="" open="(" close=")"><mml:mfrac><mml:mi>b</mml:mi><mml:mi>d</mml:mi></mml:mfrac></mml:mfenced><mml:mi>r</mml:mi></mml:msup><mml:msup><mml:mfenced separators="" open="(" close=")"><mml:mfrac><mml:mi>&#x003c3;</mml:mi><mml:mi>G</mml:mi></mml:mfrac></mml:mfenced><mml:mi>p</mml:mi></mml:msup></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <mml:math id="jats-math-5" display="inline"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003b5;</mml:mi><mml:mo>&#x002d9;</mml:mo></mml:mover></mml:mrow></mml:math> is the strain rate, <italic toggle="yes">A</italic> is a material&#x02010;specific constant, <italic toggle="yes">D<sub>i</sub>
+</italic> is the self&#x02010;diffusivity (&#x0201c;<italic toggle="yes">i</italic>&#x0201d; can either denote bulk/grain boundary diffusivity or pipe diffusion), <italic toggle="yes">G</italic> is the shear modulus, <italic toggle="yes">b</italic> is the length of the Burgers vector, <italic toggle="yes">k</italic> is Boltzmann constant, <italic toggle="yes">T</italic> is the absolute temperature, <italic toggle="yes">d</italic> is the grain diameter, <italic toggle="yes">&#x003c3;</italic> is the applied stress, and <italic toggle="yes">r</italic> and <italic toggle="yes">p</italic> denote grain size exponent and stress exponent, respectively. Creep in metals occurs primarily either via diffusional creep and/or dislocation or power law creep.<sup>[</sup>
+<xref rid="advs5755-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="advs5755-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> Diffusional creep occurs at low stresses, exhibits a linear relationship between strain rate and stress, and is strongly dependent on grain size. For fine&#x02010;grained polycrystalline samples, grain boundary diffusion dominates (Coble creep), while for coarse&#x02010;grained samples, volume diffusion is the main pathway (Nabarro&#x02013;Herring).<sup>[</sup>
+<xref rid="advs5755-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+<sup>]</sup> Whereas dislocation creep occurs at higher stresses and is characterized by a power law dependence on stress.</p></sec><sec id="advs5755-sec-0070"><label>2.5</label><title>Deformation at Low Overpotential (&#x0003c;5&#x000a0;mV)</title><p>This corresponds to the linear <italic toggle="yes">I&#x02010;&#x003b7;</italic> regime in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a</xref> pertaining to a small fraction of extracted charge and hence a relatively large fraction of contact area. To understand the possible influence of lithium microstructure on creep, high magnification SEM image of the microelectrode was acquired (<bold>Figure</bold>
+<xref rid="advs5755-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>). Surface topography suggests a fine&#x02010;grained (&#x0003c;100&#x000a0;nm) polycrystalline microstructure of the electrodeposited lithium, as shown in Figure&#x000a0;<xref rid="advs5755-fig-0004" ref-type="fig">4b</xref>. To correlate surface topography with the inner microstructure, SEM images of a focused ion beam (FIB) milled region, as indicated in Figure&#x000a0;<xref rid="advs5755-fig-0004" ref-type="fig">4b</xref> were acquired (Figure&#x000a0;<xref rid="advs5755-fig-0004" ref-type="fig">4c,d</xref>). Figure&#x000a0;<xref rid="advs5755-fig-0004" ref-type="fig">4d</xref> is the magnified view of the dotted area in Figure&#x000a0;<xref rid="advs5755-fig-0004" ref-type="fig">4c</xref>. Although it is difficult to determine the exact grain size, the contrast in Figure&#x000a0;<xref rid="advs5755-fig-0004" ref-type="fig">4d</xref> may possibly be due to different grain orientations.</p><fig position="float" fig-type="Figure" id="advs5755-fig-0004"><label>Figure 4</label><caption><p>a) SEM image showing the surface topography of a Li microelectrode of a region indicated in the schematic (b). c) SEM image of a FIB cut region, as shown in (b). d) High magnification image of dotted box region in (c).</p></caption><graphic xlink:href="ADVS-10-2302521-g002" position="anchor" id="jats-graphic-9"/></fig><p>Thus, fine&#x02010;grained polycrystalline microstructure suggests that the Coble creep, assisted by low activation grain boundary diffusion (indicated by solid circles in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3d</xref>), might possibly be the predominant deformation mechanism, as <mml:math id="jats-math-6" display="inline"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003b5;</mml:mi><mml:mo>&#x002d9;</mml:mo></mml:mover></mml:mrow></mml:math> varies with 1/<italic toggle="yes">d</italic>
+<sup>3</sup> according to Equation&#x000a0;<xref rid="advs5755-disp-0005" ref-type="disp-formula">5</xref>
+<sup>[</sup>
+<xref rid="advs5755-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0005">
+<label>(5)</label>
+<mml:math id="jats-math-7" display="block"><mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>&#x003b5;</mml:mi><mml:mo>&#x002d9;</mml:mo></mml:mover><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mi>&#x003c8;</mml:mi><mml:mfrac><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:msub><mml:mi>&#x003b4;</mml:mi><mml:mi>GB</mml:mi></mml:msub><mml:msub><mml:mi>D</mml:mi><mml:mi>GB</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>k</mml:mi><mml:mi>T</mml:mi><mml:msup><mml:mi>d</mml:mi><mml:mn>3</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<italic toggle="yes">&#x003a9;</italic>
+<sub>i</sub> is the atomic volume, <italic toggle="yes">&#x003b4;</italic>
+<sub>GB</sub> is the grain boundary width, <italic toggle="yes">D</italic>
+<sub>GB</sub> is the diffusivity along the grain boundary, and <italic toggle="yes">&#x003c8;</italic> = 14<italic toggle="yes">&#x003c0;</italic> is a constant. The deformation in a representative volume element is indicated by the dotted circle in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3d</xref> is shown in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3e</xref>. The contour of an initial undeformed grain (indicated in red) is superimposed over the deformed grain.</p></sec><sec id="advs5755-sec-0080"><label>2.6</label><title>Deformation at High Overpotential (&#x0003e;5&#x000a0;mV)</title><p>This corresponds to the non&#x02010;linear <italic toggle="yes">I&#x02013;&#x003b7;</italic> regime in Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3a</xref> pertaining to a large fraction of extracted charge and hence a relatively small fraction of contact area. <bold>Figure</bold>
+<xref rid="advs5755-fig-0005" ref-type="fig">
+<bold>5</bold>a,b</xref> shows SEM images of an inverted microelectrode, stripped at &#x02248;41&#x000a0;mA cm<sup>&#x02212;2</sup> (discussed later in detail). An inhomogeneous stripping is observed. Edges are slightly protruded whereas the other regions indicate nearly uniform stripping. This implies a load inhomogeneity induced stress amplification at the edges due to finite needle stress.<sup>[</sup>
+<xref rid="advs5755-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="advs5755-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+<sup>]</sup> Therefore, power law creep or dislocation climb creep (DCC) or glide assisted plastic flow is expected to be operative at higher anodic overpotentials leading to progressively increasing strain rates (Figure&#x000a0;<xref rid="advs5755-fig-0003" ref-type="fig">3e</xref>). We refer to a recent work wherein Li&#x001c0;LLZO interface exhibited a voltage fluctuation during stripping under moderate applied stress (0.2&#x000a0;MPa). It was attributed to stress amplification at the depleted contact leading to glide assisted plastic flow in Li.</p><fig position="float" fig-type="Figure" id="advs5755-fig-0005"><label>Figure 5</label><caption><p>SEM images of stripped microelectrode surfaces from different perspectives, a) side and b) top view. b) Schematic indicating interfacial charge&#x02010;transfer barriers for the elementary reaction Li &#x02192; Li<sup>+</sup> + e<sup>&#x02212;</sup> in the presence and absence of dislocations in the lithium anode. The energy barriers are indicated over the weighted mean of the standard chemical potential of the two end states.</p></caption><graphic xlink:href="ADVS-10-2302521-g003" position="anchor" id="jats-graphic-11"/></fig><p>Therefore, evaluating the nature of the lithium microstructure is crucial for the development of anode&#x02010;free cells wherein the microstructure governs the interface instability. Also, it controls the subsequent morphology during discharge and is discussed next.</p></sec><sec id="advs5755-sec-0090"><label>2.7</label><title>Stripped Microelectrode Morphology and Effect of Microstructure on Kinetics</title><p>SEM images of the stripped microelectrode interface (see Figure&#x000a0;<xref rid="advs5755-fig-0005" ref-type="fig">5a</xref>) indicates nearly uniform stripping except at the edges which appear to be slightly protruded. This is contrary to the observed stripped LMA morphology in literature wherein micron&#x02010;sized pores are observed.<sup>[</sup>
+<xref rid="advs5755-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> A mechanism is proposed below to explain the observed morphology.</p><p>Figure&#x000a0;<xref rid="advs5755-fig-0004" ref-type="fig">4</xref> indicates that our microelectrodes have a fine&#x02010;grained polycrystalline microstructure indicating a high density of GBs. Therefore, the microstructure can be approximated as showing a high dislocation density, as grain boundaries can in principle be considered as an array of dislocations to a first approximation (<bold>Figure</bold>
+<xref rid="advs5755-fig-0006" ref-type="fig">
+<bold>6</bold>a,b</xref>).<sup>[</sup>
+<xref rid="advs5755-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>
+<sup>]</sup> The microelectrode can additionally be expected to be strain hardened<sup>[</sup>
+<xref rid="advs5755-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>
+<sup>]</sup> under needle stress during its growth (the needle is displaced during its growth, Figure&#x000a0;<xref rid="advs5755-fig-0001" ref-type="fig">1d</xref>). Thus, indicating a significant dislocation population in the grain interior (6b). Therefore, the microstructure can be hypothesized to have a uniform and dense distribution of dislocations.</p><fig position="float" fig-type="Figure" id="advs5755-fig-0006"><label>Figure 6</label><caption><p>Schematic indicating the effect of microstructure on the morphology of the stripped microelectrode. a) Fine&#x02010;grained polycrystalline microelectrode. The dotted area in (a) is expanded in (b), indicating the uniform distribution of free and GB dislocations. Orange, free dislocation; black, GB dislocation. The dislocation strain field is shaded in light orange. c) Uniform distribution and high dislocation density lead to uniform Li stripping at the interface. d) High contact stresses at the periphery lead to a change in the deformation mechanism from DCC to slip&#x02010;assisted flow. This allows a higher fraction of charge transfer through this region. Mass transport by surface diffusion (represented by the curved arrow) fills the vacancy (dotted circle) formed at the interface.</p></caption><graphic xlink:href="ADVS-10-2302521-g001" position="anchor" id="jats-graphic-13"/></fig><p>Shishvan et&#x000a0;al. have proposed that interfacial kinetics gets modified in the presence of dislocations as shown in Figure&#x000a0;<xref rid="advs5755-fig-0005" ref-type="fig">5c</xref>. It is proposed that the dislocations in the lithium, via lattice distortion, influence the interfacial kinetics in two basic ways. Firstly, in the vicinity of the dislocations, the lattice expansion leads to an increase in effective vacant sites (<mml:math id="jats-math-8" display="inline"><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>&#x003b8;</mml:mi><mml:mo>&#x0005e;</mml:mo></mml:mover><mml:mi mathvariant="normal">V</mml:mi></mml:msub></mml:mrow></mml:math>) and is given by<sup>[</sup>
+<xref rid="advs5755-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0006">
+<label>(6)</label>
+<mml:math id="jats-math-9" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>&#x003b8;</mml:mi><mml:mo>&#x0005e;</mml:mo></mml:mover><mml:mi mathvariant="normal">V</mml:mi></mml:msub><mml:mo linebreak="badbreak">=</mml:mo><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mfrac><mml:msub><mml:mi>H</mml:mi><mml:mi mathvariant="normal">V</mml:mi></mml:msub><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mspace width="0.33em"/><mml:mo linebreak="goodbreak">+</mml:mo><mml:mi>&#x003b1;</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>Li</mml:mi></mml:msub><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:msub><mml:mi>&#x003c1;</mml:mi><mml:mi mathvariant="normal">d</mml:mi></mml:msub><mml:msup><mml:mi>b</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfenced></mml:mrow><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi mathvariant="normal">V</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">H</italic>
+<sub>V</sub> is the enthalpy of vacancy formation, <italic toggle="yes">&#x003a9;</italic>
+<sub>Li</sub> and <italic toggle="yes">&#x003a9;</italic>
+<sub>V</sub> are the molar volumes of lithium and vacancies respectively, <italic toggle="yes">&#x003c1;</italic>
+<sub>d</sub> is dislocation density, <italic toggle="yes">&#x003b1;</italic> is a constant and depends on the crystal structure of the metals, <italic toggle="yes">b</italic> is the magnitude of the Burgers vector, <italic toggle="yes">R</italic> and <italic toggle="yes">T</italic> are universal gas constant and absolute temperature, respectively. The second term on the right&#x02010;hand side of the above equation accounts for the additional space created due to the lattice expansion around the dislocations. Secondly, lattice disorder and distortion, in the core and around the dislocation, enhance the enthalpy of Li<sup>+</sup> ions in the electrode.</p><p>The increase in standard chemical potential of Li<sup>+</sup> ions in the electrode leads to a reduction of the charge transfer barrier across the interface (Figure&#x000a0;<xref rid="advs5755-fig-0005" ref-type="fig">5c</xref>) and is shown to be<sup>[</sup>
+<xref rid="advs5755-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0007">
+<label>(7)</label>
+<mml:math id="jats-math-10" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mi>CT</mml:mi></mml:msub><mml:mo linebreak="badbreak">=</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mi>CT</mml:mi></mml:mrow></mml:msub><mml:mspace width="0.33em"/><mml:msubsup><mml:mover accent="true"><mml:mi>&#x003b8;</mml:mi><mml:mo>&#x0005e;</mml:mo></mml:mover><mml:mi mathvariant="normal">V</mml:mi><mml:mrow><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msubsup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mfrac><mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003b2;</mml:mi></mml:mrow></mml:mfenced><mml:msub><mml:mi>H</mml:mi><mml:mi mathvariant="normal">V</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">R</italic>
+<sub>CT</sub> and <italic toggle="yes">R</italic>
+<sub>0,CT</sub> are the charge&#x02010;transfer resistances in the presence and absence of dislocations and applied stress respectively, <mml:math id="jats-math-11" display="inline"><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>&#x003b8;</mml:mi><mml:mo>&#x0005e;</mml:mo></mml:mover><mml:mi mathvariant="normal">V</mml:mi></mml:msub></mml:mrow></mml:math> is the effective vacant sites and <italic toggle="yes">&#x003b2;</italic> is the symmetry factor. It has been shown that for <italic toggle="yes">&#x003b2;</italic> = 0.5, <italic toggle="yes">R</italic>
+<sub>CT</sub> &#x0003c; <italic toggle="yes">R</italic>
+<sub>0,CT</sub> for increasing dislocation density.</p><p>We note that interfacial charge&#x02010;transfer reactions, apart from energetics, must also consider mass&#x02010;transport in the adjacent phases. Clearly, regions in and around dislocations are associated with higher diffusivity than in the bulk (dislocation pipe diffusion or grain boundary diffusion).<sup>[</sup>
+<xref rid="advs5755-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+<sup>]</sup> Therefore, we conclude that these microelectrodes, on account of the uniform and dense distribution of dislocations, show nearly uniform stripping (Figure <xref rid="advs5755-fig-0006" ref-type="fig">6c</xref>). Figure&#x000a0;<xref rid="advs5755-fig-0006" ref-type="fig">6d</xref> shows the situation at the edges at high overpotential. The protruded morphology might possibly be related to enhanced mass transport along the external electrode surface, influenced by surface tension effects at the three&#x02010;phase boundary and interface.</p></sec><sec id="advs5755-sec-0100"><label>2.8</label><title>Mechanical Endurance of Grain Surfaces Versus Grain Surface Flaws Towards Dendrite Growth</title><p>To gain insight into the preferential dendrite growth pathways in the LPSCl microstructure, lithium was selectively deposited at i) a flaw&#x02010;free grain surface (GS) and ii) a preexisting grain surface flaw (GF) (crack&#x02010;like defect). This is particularly important for LPSCl since the formation of interfacial contacts is associated with a significant &#x0201c;flaw density&#x0201d; due to the low <italic toggle="yes">K</italic>
+<sub>IC</sub> for sulfide&#x02010;based ISEs.<sup>[</sup>
+<xref rid="advs5755-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup>
+</p><p>Prior to measurements, the tungsten microelectrode was pre&#x02010;lithiated at &#x02212;2 nA for 45 s. Then, under identical galvanostatic conditions, the potential profiles shown in <bold>Figure</bold>
+<xref rid="advs5755-fig-0007" ref-type="fig">
+<bold>7</bold>
+</xref> were recorded. The galvanostatic sequence included an initial current of &#x02212;2 nA followed by increments up to &#x02212;2.2&#x000a0;&#x000b5;A with a step duration of 10 s each (Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7a,b</xref>). Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7a,b</xref> shows that the evolution of the overvoltage is different for GF and GS contacts. The overvoltage increases only slightly between current steps when deposition occurs at the GF contact, in contrast to the GS contact, where the increase is more pronounced. For example, the insets in Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7a,b</xref> show that the overpotential &#x001c0;<italic toggle="yes">&#x003b7;</italic>&#x001c0; after 100&#x000a0;s with an applied current of &#x02212;0.3&#x000a0;&#x000b5;A in the GF case is 15&#x000a0;mV, which is nine times smaller than the GS deposition overpotential of 137&#x000a0;mV. The corresponding &#x001c0;<italic toggle="yes">&#x003b7;</italic>&#x001c0; values at 220 s and an applied current of &#x02212;2.2&#x000a0;&#x000b5;A were 31 mV and 715&#x000a0;mV for the deposition at GF and GS contacts, respectively.</p><fig position="float" fig-type="Figure" id="advs5755-fig-0007"><label>Figure 7</label><caption><p>Chronopotentiometric profiles for lithium deposition on a a) flawed grain surface and b) flaw&#x02010;free grain surface region. Insets in (a) and (b) show magnified data of the initial overpotentials. c) SEM image showing the tungsten needle contacted at a flawed surface region prior to lithium deposition whereas d) shows the lithium deposition at t = 39 s. e,f) SEM images of the temporal evolution of the lithium insertion driven LPSCl fracture. Arrows indicate the crack extension. g) SEM image of a flaw&#x02010;free grain surface in contact with the tungsten needle prior to the deposition. h,i) SEM images showing preferential vertical growth of lithium with time. j) SEM image of (g) after galvanostatic cycle. k) Schematic indicating lithium insertion driven fracture. l) Vertical growth of lithium occurs on a flaw free grain surface region. The dotted lines in (k) and (l) indicate the contact area. The curved arrow indicates free growth of lithium above the surface of LPSCl.</p></caption><graphic xlink:href="ADVS-10-2302521-g004" position="anchor" id="jats-graphic-15"/></fig><p>Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7c,g</xref> shows the GF and GS regions contacted with the microneedle before deposition. Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7d&#x02013;f</xref> shows that the temporal evolution during galvanostatic deposition at the GF contact is accompanied by the fracture of the contacted SE (indicated by yellow arrows). In contrast, deposition at the GS contact (Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7h&#x02013;j</xref>) leads to vertical lithium growth without fracture. Similarly, deposition at a grain boundary (GB) leads to fracture as in the case of deposition at the GF contact (Figure <xref rid="advs5755-supitem-0001" ref-type="supplementary-material">S8</xref>, Supporting Information). As Young's modulus of grain boundaries in ceramics is usually one to two orders of magnitude lower compared to that of grain interior, the reduced stiffness of the grain boundaries is one possible reason for the preferential lithium growth along these regions,<sup>[</sup>
+<xref rid="advs5755-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs5755-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="advs5755-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup> while electronic effects may also add another reason.<sup>[</sup>
+<xref rid="advs5755-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="advs5755-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>
+<sup>]</sup> This clearly supports that GF and GB are the preferred regions for dendrite propagation in the LPSCl microstructure and are the primary causes of failure in SSBs, which is reflected in the observed low CCD values.</p><p>The observed different overpotentials (Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7a,b</xref>) can be considered to be caused by the differences in constriction impedance, as <italic toggle="yes">Z</italic>
+<sub>constriction</sub> &#x0221d; 1/<italic toggle="yes">d</italic>, Equation&#x000a0;<xref rid="advs5755-disp-0001" ref-type="disp-formula">1</xref>.<sup>[</sup>
+<xref rid="advs5755-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs5755-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs5755-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> Lithium growth inside the crack (Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7e,f</xref>) results in a larger contact area because the opposite surface of the crack is in contact with Li, resulting in a larger <italic toggle="yes">d</italic>, in contrast to deposition on a GS region, where vertical growth results in a small constant contact area and thus a smaller <italic toggle="yes">d</italic>. This can be seen from the comparison between Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7i,j</xref>. Therefore, <italic toggle="yes">Z</italic>
+<sub>constriction</sub> is higher for deposition in GS regions, leading to a higher overpotential (Figure&#x000a0;<xref rid="advs5755-fig-0007" ref-type="fig">7b</xref>).</p><p>Deposition at a GF region leads to the filling of the crack. Theoretically, it has been shown that further deposition can build up compressive stresses of &#x02248;1&#x000a0;GPa for lithium, well above its yield strength (0.8&#x000a0;MPa).<sup>[</sup>
+<xref rid="advs5755-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="advs5755-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs5755-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>
+<sup>]</sup> Lithium in this state can be considered as having no strength and behaves like an incompressible and inviscid fluid exerting a uniform normal stress on the crack walls.<sup>[</sup>
+<xref rid="advs5755-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> Further deposition leads to a stress intensity factor (<italic toggle="yes">K</italic>
+<sub>I</sub>) that exceeds the fracture toughness (<italic toggle="yes">K</italic>
+<sub>IC</sub>), resulting in fracture (Figure&#x000a0;<xref rid="advs5755-fig-0005" ref-type="fig">5c&#x02013;f,l</xref>).<sup>[</sup>
+<xref rid="advs5755-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0008">
+<label>(8)</label>
+<mml:math id="jats-math-12" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi mathvariant="normal">c</mml:mi></mml:msub><mml:mo linebreak="badbreak">&#x02265;</mml:mo><mml:mfrac><mml:msub><mml:mi>K</mml:mi><mml:mi>IC</mml:mi></mml:msub><mml:mrow><mml:mi>Y</mml:mi><mml:msqrt><mml:mrow><mml:mi>&#x003c0;</mml:mi><mml:mi>a</mml:mi></mml:mrow></mml:msqrt></mml:mrow></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">K</italic>
+<sub>IC</sub> is the fracture toughness of the SE, <italic toggle="yes">Y</italic> is the geometric factor, and <italic toggle="yes">&#x003c3;</italic>
+<sub>c</sub> is the critical stress for a given flaw size <italic toggle="yes">a</italic>. Crack extension causes unloading of the crack tip and the process repeats until the critical stress for the newer crack geometry is rebuilt. As shown in Video <xref rid="advs5755-supitem-0002" ref-type="supplementary-material">S1</xref> (Supporting Information), fracture accelerates with time and thus with applied current, since the rate of pressure build&#x02010;up in the crack is proportional to the applied current density and given by<sup>[</sup>
+<xref rid="advs5755-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0009">
+<label>(9)</label>
+<mml:math id="jats-math-13" display="block"><mml:mrow><mml:mrow><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mo linebreak="goodbreak">&#x02212;</mml:mo><mml:mfrac><mml:mrow><mml:mn>0.44</mml:mn><mml:msup><mml:mi>E</mml:mi><mml:mrow><mml:mo>&#x02032;</mml:mo><mml:mo>&#x02032;</mml:mo></mml:mrow></mml:msup><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi mathvariant="normal">M</mml:mi></mml:msub><mml:mi>i</mml:mi></mml:mrow><mml:mi>aF</mml:mi></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where d<italic toggle="yes">p</italic>/d<italic toggle="yes">t</italic> is the pressure build&#x02010;up rate, <italic toggle="yes">E</italic>&#x02032;&#x02032; = <italic toggle="yes">E&#x000b4;</italic>/(1&#x02212;<italic toggle="yes">&#x003bd;</italic>
+<sup>2</sup>); <italic toggle="yes">E&#x000b4;</italic> and <italic toggle="yes">&#x003bd;</italic> are Young's modulus and Poisson ratio of the SE, <italic toggle="yes">&#x003a9;</italic>
+<sub>M</sub> is the molar volume of lithium (13.02 cm<sup>3</sup> mol<sup>&#x02212;1</sup>), <italic toggle="yes">i</italic> is the current density, <italic toggle="yes">a</italic> is the crack length, and <italic toggle="yes">F</italic> is Faraday's constant.</p></sec><sec id="advs5755-sec-0110"><label>2.9</label><title>Rate Capability at the Microelectrode</title><p>Following the mechanical endurance test, we evaluated the rate capability of the microelectrode (<bold>Figure</bold>
+<xref rid="advs5755-fig-0008" ref-type="fig">
+<bold>8</bold>a</xref>). A decrease in time to reach the limiting voltage, i.e., 1.0&#x000a0;V, is observed with increasing current density, as expected. Figure&#x000a0;<xref rid="advs5755-fig-0008" ref-type="fig">8b</xref> shows the plot of extracted areal charge versus current density. The extracted charge decreases rapidly with increasing current density from &#x02248;1.62&#x000a0;mA cm<sup>&#x02212;2</sup> to &#x02248;8.48&#x000a0;mA cm<sup>&#x02212;2</sup>. Only a slight decrease is observed at &#x02248;19.77&#x000a0;mA cm<sup>&#x02212;2</sup>. Another decrease is observed at 47.88&#x000a0;mA cm<sup>&#x02212;2</sup>, and thereafter the extracted charge becomes independent of the current density (Figure&#x000a0;<xref rid="advs5755-fig-0008" ref-type="fig">8b</xref>).</p><fig position="float" fig-type="Figure" id="advs5755-fig-0008"><label>Figure 8</label><caption><p>a) Rate capability behavior of the microelectrode. b) Charge extracted versus current density. c) <italic toggle="yes">t</italic>
+<sup>&#x02212;1/2</sup>&#x000a0;versus current density.</p></caption><graphic xlink:href="ADVS-10-2302521-g006" position="anchor" id="jats-graphic-17"/></fig><p>Thereafter, in order to evaluate the Li self&#x02010;diffusion coefficient, a graph of <italic toggle="yes">t</italic>
+<sup>&#x02212;1/2</sup> versus <italic toggle="yes">i</italic>&#x000a0;was plotted (Figure&#x000a0;<xref rid="advs5755-fig-0008" ref-type="fig">8c</xref>) according to Sand's equation<sup>[</sup>
+<xref rid="advs5755-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>
+<sup>]</sup>
+<disp-formula id="advs5755-disp-0010">
+<label>(10)</label>
+<mml:math id="jats-math-14" display="block"><mml:mrow><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo linebreak="badbreak">=</mml:mo><mml:mn>2</mml:mn><mml:mi>i</mml:mi><mml:mo>/</mml:mo><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:msqrt><mml:mrow><mml:mi>D</mml:mi><mml:mi mathvariant="normal">&#x003a0;</mml:mi></mml:mrow></mml:msqrt><mml:msub><mml:mi>c</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mi>F</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">t</italic> is the transition or depletion time (or the time required to reach cut&#x02010;off voltage of 1.0&#x000a0;V, Figure&#x000a0;<xref rid="advs5755-fig-0008" ref-type="fig">8a</xref>), <italic toggle="yes">i</italic> is the current density, <italic toggle="yes">D</italic> is the self&#x02010;diffusion coefficient of lithium, <italic toggle="yes">c</italic>
+<sub>0</sub> is the concentration of lithium (76.8&#x000a0;mmol cm<sup>&#x02212;3</sup>) and F is the Faradays constant. Equation&#x000a0;<xref rid="advs5755-disp-0010" ref-type="disp-formula">10</xref> predicts a linear relationship between <italic toggle="yes">t</italic>
+<sup>&#x02212;1/2</sup> and <italic toggle="yes">i</italic>, contrary to the observed behavior (Figure&#x000a0;<xref rid="advs5755-fig-0008" ref-type="fig">8c</xref>). Figure&#x000a0;<xref rid="advs5755-fig-0008" ref-type="fig">8c</xref> shows an ever&#x02010;increasing diffusivity with increasing current density. Clearly, this cannot be true unless the temperature rises significantly during the measurements. The plausible reason for the observed apparent discrepancy is discussed next.</p><p>The theoretical basis of Equation&#x000a0;<xref rid="advs5755-disp-0008" ref-type="disp-formula">8</xref> is the linear 1D diffusion profile derived by Fick's second law.<sup>[</sup>
+<xref rid="advs5755-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>
+<sup>]</sup> However, in general, diffusion in solids is anisotropic which is reflected by the symmetric second rank diffusion tensor. Although the diffusion tensor is isotropic for cubic systems, (i.e., bcc for Li), complications arise depending on the microstructural state of the solid, i.e., grain size, dislocation density, etc., since self&#x02010;diffusion follows the following order <italic toggle="yes">D</italic>
+<sub>S</sub> &#x02265; <italic toggle="yes">D</italic>
+<sub>GB</sub> &#x02265; <italic toggle="yes">D</italic>
+<sub>D</sub> &#x0003e; <italic toggle="yes">D</italic>
+<sub>V</sub>, where the subscripts denote: S, grain surface; GB, grain boundary; D, dislocations; and V, bulk.<sup>[</sup>
+<xref rid="advs5755-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+<sup>]</sup> Therefore, their spatial distribution and density do neither guarantee a flux vector normal to surfaces of the same concentration, nor do they guarantee spatially uniform diffusivity. This is particularly relevant in the currently prevailing GB microstructure. This leads to the breakdown of the underlying assumptions used to derive Equation&#x000a0;<xref rid="advs5755-disp-0010" ref-type="disp-formula">10</xref>. In fact, diffusivity measurements are ideally performed on well&#x02010;annealed single crystals having low non&#x02010;equilibrium defect density. Therefore, a more rigorous treatment is required to account for the directional relationship between the concentration gradient and the flux vectors.</p><p>In liquid electrolytes, where ions are dispersed in a homogenous dielectric, consumption of the species sets up a concentration gradient with time. A similar concentration gradient cannot be set up inside a metal; this is equivalent to dilution or formation of the free surface. Instead, defects created due to electrodissolution are restricted to the top atomic layer only. This can be one of the reasons for the observed disparity in solid&#x02010;state systems.</p><p>In addition, spatially varying dislocation&#x02010;induced kinetics and associated diffusivities lead to inhomogeneous stripping and thus to a spatially varying interfacial contact (Figure&#x000a0;<xref rid="advs5755-fig-0005" ref-type="fig">5</xref>). This means that the flux increases progressively with time. This is again a violation of the assumptions underlying Equation&#x000a0;<xref rid="advs5755-disp-0010" ref-type="disp-formula">10</xref>.</p></sec></sec><sec id="advs5755-sec-0120"><label>3</label><title>Conclusion</title><p>We investigated the polarization behavior of the Li|LPSCl interface at high current densities using a lithium microelectrode setup. Typically, this regime, which is relevant for the development of fast&#x02010;charging SSBs, is inaccessible in pouch cell measurements due to low CCD values. Using the microelectrode approach, we demonstrate that the Li|LPSCl interface exhibits non&#x02010;linear kinetics. In line with studies of Li&#x001c0;polymer interface, we attribute this non&#x02010;linearity to the strong electric field across the thin, disordered SEI at high current density. Based on previous reports of non&#x02010;linear SEI kinetics, we hypothesize that there are several rate&#x02010;limiting processes, i.e., charge transfer across Li|SEI and SE|SEI interfaces together with ion transport across the SEI, which together determines the non&#x02010;linear interface kinetics observed at high current density.</p><p>We also highlight the importance of the lithium microstructure on creep and kinetics. We show that nanocrystalline lithium can lead to a stable Li&#x001c0;SE interface by grain boundary assisted creep even at high current density. This indicates that fine&#x02010;grained polycrystalline lithium can reduce the required pressure in SSBs. In addition, a dense grain boundary microstructure leads to uniform stripping via a high density of non&#x02010;equilibrium defects having a reduced charge&#x02010;transfer barrier. This would lead to a further reduction in stack pressure by alleviating the problems of interfacial loading inhomogeneity. However, fast grain growth at ambient temperatures will lead to strong transient behavior of the lithium anode after plating.</p><p>Due to the low fracture toughness of sulfide&#x02010;type SEs, interfacial contact is mediated by their fracture. Therefore, Li|LPSCl interfaces exhibit a significant defect population whose role in dendrite growth is important. We show by local deposition of lithium on defect&#x02010;free grain surfaces, grain defects, and GBs that it is the latter two that facilitate dendrite growth in LPSCl. This is important for the development of &#x0201c;anode&#x02010;free&#x0201d; SSBs because the stability of the interface is determined by the defect population, stress generated at the interface, and on the microstructure of the deposited lithium. Finally, we discuss the pitfalls of the conventional Sand's equation in deriving self&#x02010;diffusion coefficients in solid&#x02010;state systems.</p></sec><sec sec-type="COI-statement" id="advs5755-sec-0140"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="advs5755-sec-0150"><title>Author Contributions</title><p>D.K.S. and J.J. conceived the idea. D.K.S. designed the research plan, performed the experiments, and wrote the initial draft. J.J. guided and supervised. D.K.S., C.K., and J.J. analyzed the data. B.M. provided technical help for the in&#x02010;situ setup. D.K.S., T.F., C.K., and J.J. were involved in writing, reviewing, and editing. J.J. acquired the funding. All the authors discussed the results and commented on the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs5755-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-10-2302521-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="advs5755-supitem-0002" position="float" content-type="local-data"><caption><p>Supplemental Video 1</p></caption><media xlink:href="ADVS-10-2302521-s001.wmv" mimetype="video" mime-subtype="x-ms-wmv"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs5755-sec-0130"><title>Acknowledgements</title><p>Financial support from the Federal Ministry of Education and Research (Bundesministerium f&#x000fc;r Bildung und Forschung, BMBF) within the FESTBATT consortium (project 03XP0177A) is gratefully acknowledged. This work was conducted as part of the US&#x02010;German collaboration on &#x0201c;Interfaces and Interphases in Rechargeable Li&#x02010;metal based Batteries&#x0201d; supported by the US Department of Energy (DOE) and the German Federal Ministry of Education and Research (BMBF). This work was partly funded by the German Federal Ministry of Education and Research (BMBF) under the projects &#x0201c;LiSI&#x0201d;, grant identifier 03XP0224E, and &#x0201c;LiSI2&#x0201d;, grant identifier 03XP0509B.</p><p>Open access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="advs5755-sec-0170"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs5755-bibl-0001"><ref id="advs5755-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs5755-cit-0001">
+<string-name>
+<given-names>P.</given-names>
+<surname>Albertus</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Babinec</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Litzelman</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Newman</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>16</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs5755-cit-0002">
+<string-name>
+<given-names>S.</given-names>
+<surname>Randau</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>K&#x000f6;tz</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Braun</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Ivers&#x02010;Tiff&#x000e9;e</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Andermann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kulisch</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>F. H.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2020</year>, <volume>5</volume>, <fpage>259</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs5755-cit-0003">
+<string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2023</year>, <volume>8</volume>, <fpage>230</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs5755-cit-0004">
+<string-name>
+<given-names>T. M.</given-names>
+<surname>Bandhauer</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Garimella</surname>
+</string-name>, <string-name>
+<given-names>T. F.</given-names>
+<surname>Fuller</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2011</year>, <volume>158</volume>, <fpage>R1</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs5755-cit-0005">
+<string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ouyang</surname>
+</string-name>, <source>Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>2047</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs5755-cit-0006">
+<string-name>
+<given-names>A M.</given-names>
+<surname>Bates</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Preger</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Torres&#x02010;Castro</surname>
+</string-name>, <string-name>
+<given-names>K L.</given-names>
+<surname>Harrison</surname>
+</string-name>, <string-name>
+<given-names>S J.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hewson</surname>
+</string-name>, <source>Joule</source>
+<year>2022</year>, <volume>6</volume>, <fpage>742</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs5755-cit-0007">
+<string-name>
+<given-names>G.&#x02010;L.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Small</source>
+<year>2019</year>, <volume>15</volume>, <elocation-id>1805389</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs5755-cit-0008">
+<string-name>
+<given-names>M.</given-names>
+<surname>Weiss</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Ruess</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kasnatscheew</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Levartovsky</surname>
+</string-name>, <string-name>
+<given-names>N. R.</given-names>
+<surname>Levy</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Minnmann</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stolz</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Waldmann</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wohlfahrt&#x02010;Mehrens</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ein&#x02010;Eli</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2101126</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs5755-cit-0009">
+<string-name>
+<given-names>R J.&#x02010;Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>C M.</given-names>
+<surname>Eschler</surname>
+</string-name>, <string-name>
+<given-names>C D.</given-names>
+<surname>Fincher</surname>
+</string-name>, <string-name>
+<given-names>A F.</given-names>
+<surname>Badel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pharr</surname>
+</string-name>, <string-name>
+<given-names>B W.</given-names>
+<surname>Sheldon</surname>
+</string-name>, <string-name>
+<given-names>W. C</given-names>
+<surname>Carter</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Viswanathan</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Chiang</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>314</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs5755-cit-0010">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2009925</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs5755-cit-0011">
+<string-name>
+<given-names>T.</given-names>
+<surname>Krauskopf</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <elocation-id>14463</elocation-id>.<pub-id pub-id-type="pmid">30892861</pub-id></mixed-citation></ref><ref id="advs5755-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs5755-cit-0012">
+<string-name>
+<given-names>M.</given-names>
+<surname>Motoyama</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ejiri</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Iriyama</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <elocation-id>A7067</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs5755-cit-0013">
+<string-name>
+<given-names>H.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gui</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;S.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>5050</fpage>.<pub-id pub-id-type="pmid">36030266</pub-id></mixed-citation></ref><ref id="advs5755-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs5755-cit-0014">
+<string-name>
+<given-names>M.</given-names>
+<surname>Klinsmann</surname>
+</string-name>, <string-name>
+<given-names>F. E.</given-names>
+<surname>Hildebrand</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ganser</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>McMeeking</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2019</year>, <volume>442</volume>, <elocation-id>227226</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs5755-cit-0015">
+<string-name>
+<given-names>E. J.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sharafi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>223</volume>, <fpage>85</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs5755-cit-0016">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2018</year>, <volume>6</volume>, <elocation-id>18853</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs5755-cit-0017">
+<string-name>
+<given-names>D. K.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Henss</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Mogwitz</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gautam</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Horn</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Krauskopf</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Burkhardt</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>F H.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Cell Rep</source>
+<year>2022</year>, <volume>101043</volume>, <elocation-id>101043</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs5755-cit-0018">
+<string-name>
+<given-names>B S.</given-names>
+<surname>Vishnugopi</surname>
+</string-name>, <string-name>
+<given-names>M B.</given-names>
+<surname>Dixit</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Hao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Shyam</surname>
+</string-name>, <string-name>
+<given-names>J B.</given-names>
+<surname>Cook</surname>
+</string-name>, <string-name>
+<given-names>K B.</given-names>
+<surname>Hatzell</surname>
+</string-name>, <string-name>
+<given-names>P P.</given-names>
+<surname>Mukherjee</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2102825</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs5755-cit-0019">
+<string-name>
+<given-names>F P.</given-names>
+<surname>Mcgrogan</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Swamy</surname>
+</string-name>, <string-name>
+<given-names>S R.</given-names>
+<surname>Bishop</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Eggleton</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Porz</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>K J.</given-names>
+<surname>Van Vliet</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <elocation-id>1602011</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs5755-cit-0020">
+<string-name>
+<given-names>M. J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Choudhury</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>2165</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs5755-cit-0021">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kasemchainan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zekoll</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Jolly</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Ning</surname>
+</string-name>, <string-name>
+<given-names>G. O.</given-names>
+<surname>Hartley</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Marrow</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>1105</fpage>.<pub-id pub-id-type="pmid">31358941</pub-id></mixed-citation></ref><ref id="advs5755-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs5755-cit-0022">
+<string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Doux</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>D H. S.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Banerjee</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>E A.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>1903253</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs5755-cit-0023">
+<string-name>
+<given-names>C.</given-names>
+<surname>H&#x000e4;nsel</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kundu</surname>
+</string-name>, <source>Adv. Mater. Interfaces</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>2100206</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs5755-cit-0024">
+<string-name>
+<given-names>E. A.</given-names>
+<surname>Carmona</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Albertus</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2101355</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs5755-cit-0025">
+<string-name>
+<given-names>T.</given-names>
+<surname>Krauskopf</surname>
+</string-name>, <string-name>
+<given-names>F. H.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2020</year>, <volume>120</volume>, <fpage>7745</fpage>.<pub-id pub-id-type="pmid">32786669</pub-id></mixed-citation></ref><ref id="advs5755-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs5755-cit-0026">
+<string-name>
+<given-names>J.</given-names>
+<surname>Fleig</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>1996</year>, <volume>85</volume>, <fpage>17</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs5755-cit-0027">
+<string-name>
+<given-names>J.</given-names>
+<surname>Fleig</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>1996</year>, <volume>86&#x02013;88</volume>, <fpage>1351</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs5755-cit-0028">
+<string-name>
+<given-names>J.</given-names>
+<surname>Fleig</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <source>J. Electroceramics</source>
+<year>1997</year>, <volume>1</volume>, <fpage>73</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs5755-cit-0029">
+<string-name>
+<given-names>J. K.</given-names>
+<surname>Eckhardt</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Klar</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Heiliger</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2022</year>, <elocation-id>35545</elocation-id>.<pub-id pub-id-type="pmid">35878322</pub-id></mixed-citation></ref><ref id="advs5755-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs5755-cit-0030">
+<string-name>
+<given-names>S.&#x02010;K.</given-names>
+<surname>Otto</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Riegger</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Fuchs</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kayser</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Schweitzer</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Burkhardt</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Henss</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Adv. Mater. Interfaces</source>
+<year>2022</year>, <volume>9</volume>, <elocation-id>2102387</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs5755-cit-0031">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Dudney</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liang</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>2829</fpage>.<pub-id pub-id-type="pmid">23427822</pub-id></mixed-citation></ref><ref id="advs5755-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs5755-cit-0032">
+<string-name>
+<given-names>T.</given-names>
+<surname>Krauskopf</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Mogwitz</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>D. K.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>2000945</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0033"><label>33</label><mixed-citation publication-type="book" id="advs5755-cit-0033">
+<string-name>
+<given-names>M.</given-names>
+<surname>Barsoum</surname>
+</string-name>, <source>Fundamentals of Ceramics</source>, <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton, FL</publisher-loc>
+<year>2019</year>.</mixed-citation></ref><ref id="advs5755-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs5755-cit-0034">
+<string-name>
+<given-names>S.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>L. G. J.</given-names>
+<surname>Hector</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Harris</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <elocation-id>15476</elocation-id>.<pub-id pub-id-type="pmid">22909233</pub-id></mixed-citation></ref><ref id="advs5755-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs5755-cit-0035">
+<string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2016</year>, <volume>3</volume>, <elocation-id>1500213</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs5755-cit-0036">
+<string-name>
+<given-names>J.</given-names>
+<surname>Fleig</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Pham</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Sztulzaft</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>1998</year>, <volume>113&#x02013;115</volume>, <fpage>739</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs5755-cit-0037">
+<string-name>
+<given-names>E.</given-names>
+<surname>Peled</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1979</year>, <volume>126</volume>, <fpage>2047</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs5755-cit-0038">
+<string-name>
+<given-names>L.</given-names>
+<surname>Blume</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Sauter</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Jacob</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2019</year>, <volume>318</volume>, <fpage>551</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs5755-cit-0039">
+<string-name>
+<given-names>M.</given-names>
+<surname>Hess</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>244</volume>, <fpage>69</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs5755-cit-0040">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>G. C.</given-names>
+<surname>Farrington</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1995</year>, <volume>142</volume>, <fpage>3303</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs5755-cit-0041">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Busche</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2016</year>, <volume>286</volume>, <fpage>24</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs5755-cit-0042">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Randau</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtwei&#x000df;</surname>
+</string-name>, <string-name>
+<given-names>D A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>W G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2400</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs5755-cit-0043">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Sedlmaier</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Dietrich</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2018</year>, <volume>318</volume>, <fpage>102</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs5755-cit-0044">
+<string-name>
+<given-names>A.</given-names>
+<surname>Heuer</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Murugavel</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Roling</surname>
+</string-name>, <source>Phys. Rev. B</source>
+<year>2005</year>, <volume>72</volume>, <elocation-id>174304</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs5755-cit-0045">
+<string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Angew. Chemie Int Ed.</source>
+<year>2023</year>, <elocation-id>202302655</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs5755-cit-0046">
+<string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Fitzhugh</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ning</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>4037</fpage>.<pub-id pub-id-type="pmid">30279498</pub-id></mixed-citation></ref><ref id="advs5755-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs5755-cit-0047">
+<string-name>
+<given-names>M.</given-names>
+<surname>Ganser</surname>
+</string-name>, <string-name>
+<given-names>F. E.</given-names>
+<surname>Hildebrand</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Klinsmann</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hanauer</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kamlah</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>McMeeking</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2019</year>, <volume>166</volume>, <fpage>H167</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs5755-cit-0048">
+<string-name>
+<given-names>T.</given-names>
+<surname>Krauskopf</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Mogwitz</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Rosenbach</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1902568</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0049"><label>49</label><mixed-citation publication-type="book" id="advs5755-cit-0049">
+<string-name>
+<given-names>J.</given-names>
+<surname>Roesler</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Harders</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Baeker</surname>
+</string-name>, <source>Mechanical Behaviour of Engineering Materials: Metals, Ceramics, Polymers, and Composites</source>, <publisher-name>Springer</publisher-name>, <publisher-loc>Berlin/Heidelberg</publisher-loc>
+<year>2007</year>.</mixed-citation></ref><ref id="advs5755-bib-0050"><label>50</label><mixed-citation publication-type="book" id="advs5755-cit-0050">
+<string-name>
+<given-names>H. J.</given-names>
+<surname>Frost</surname>
+</string-name>, <string-name>
+<given-names>M. F.</given-names>
+<surname>Ashby</surname>
+</string-name>, <source>Deformation&#x02010;Mechanism Maps: The Plasticity and Creep of Metals and Ceramics</source>, <publisher-name>Elsevier Science</publisher-name>, <publisher-loc>Amsterdam, the Netherlands</publisher-loc>
+<year>1982</year>.</mixed-citation></ref><ref id="advs5755-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs5755-cit-0051">
+<string-name>
+<given-names>B. N. J.</given-names>
+<surname>Persson</surname>
+</string-name>, <source>Surf. Sci. Rep.</source>
+<year>2006</year>, <volume>61</volume>, <fpage>201</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0052"><label>52</label><mixed-citation publication-type="book" id="advs5755-cit-0052">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Barber</surname>
+</string-name>, <source>Contact Mechanics</source>, <publisher-name>Springer International</publisher-name>, <publisher-loc>New York</publisher-loc>
+<year>2018</year>.</mixed-citation></ref><ref id="advs5755-bib-0053"><label>53</label><mixed-citation publication-type="book" id="advs5755-cit-0053">
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Cahn</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Haasen</surname>
+</string-name>, <source>Physical Metallurgy</source>, <publisher-name>Elsevier Science</publisher-name>, <publisher-loc>Amsterdam, the Netherlands</publisher-loc>
+<year>1996</year>.</mixed-citation></ref><ref id="advs5755-bib-0054"><label>54</label><mixed-citation publication-type="book" id="advs5755-cit-0054">
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Hertzberg</surname>
+</string-name>, <string-name>
+<given-names>R. P.</given-names>
+<surname>Vinci</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Hertzberg</surname>
+</string-name>, <source>Deformation and Fracture Mechanics of Engineering Materials</source>, <edition>5th ed.</edition>, <publisher-name>Wiley</publisher-name>, <publisher-loc>Hoboken, NJ</publisher-loc>
+<year>2012</year>.</mixed-citation></ref><ref id="advs5755-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs5755-cit-0055">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Shishvan</surname>
+</string-name>, <string-name>
+<given-names>N. A.</given-names>
+<surname>Fleck</surname>
+</string-name>, <string-name>
+<given-names>V. S.</given-names>
+<surname>Deshpande</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2021</year>, <volume>488</volume>, <elocation-id>229437</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0056"><label>56</label><mixed-citation publication-type="book" id="advs5755-cit-0056">
+<string-name>
+<given-names>H.</given-names>
+<surname>Mehrer</surname>
+</string-name>, <source>Diffusion in Solids: Fundamentals, Methods, Materials, Diffusion&#x02010;Controlled Processes</source>, <publisher-name>Springer</publisher-name>, <publisher-loc>Berlin/Heidelberg</publisher-loc>, <year>2007</year>.</mixed-citation></ref><ref id="advs5755-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs5755-cit-0057">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Siegel</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <elocation-id>38151</elocation-id>.<pub-id pub-id-type="pmid">30360045</pub-id></mixed-citation></ref><ref id="advs5755-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs5755-cit-0058">
+<string-name>
+<given-names>P.</given-names>
+<surname>Barai</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Higa</surname>
+</string-name>, <string-name>
+<given-names>A. T.</given-names>
+<surname>Ngo</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Curtiss</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2019</year>, <volume>166</volume>, <elocation-id>A1752</elocation-id>.</mixed-citation></ref><ref id="advs5755-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="advs5755-cit-0059">
+<string-name>
+<given-names>C.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Fuchs</surname>
+</string-name>, <string-name>
+<given-names>S. A. L.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>F. H.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Glasser</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Butt</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Berger</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2023</year>, <volume>14</volume>, <fpage>1300</fpage>.<pub-id pub-id-type="pmid">36894536</pub-id></mixed-citation></ref><ref id="advs5755-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="advs5755-cit-0060">
+<string-name>
+<given-names>H. K.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qi</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>7351</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="advs5755-cit-0061">
+<string-name>
+<given-names>A.</given-names>
+<surname>Masias</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Felten</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Garcia&#x02010;Mendez</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wolfenstine</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <source>J. Mater. Sci.</source>
+<year>2019</year>, <volume>54</volume>, <fpage>2585</fpage>.</mixed-citation></ref><ref id="advs5755-bib-0062"><label>62</label><mixed-citation publication-type="book" id="advs5755-cit-0062">
+<string-name>
+<given-names>J. O. M.</given-names>
+<surname>Bockris</surname>
+</string-name>, <string-name>
+<given-names>J. O. M.</given-names>
+<surname>Bockris</surname>
+</string-name>, <string-name>
+<given-names>A. K. N.</given-names>
+<surname>Reddy</surname>
+</string-name>, <source>Modern Electrochemistry: Ionics</source>, Vol. <volume>1</volume>, <publisher-name>Springer US</publisher-name>, <publisher-loc>New York</publisher-loc>
+<year>1998</year>.</mixed-citation></ref></ref-list></back></article>

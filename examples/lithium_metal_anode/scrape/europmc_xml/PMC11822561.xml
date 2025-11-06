@@ -1,0 +1,1205 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="publisher-id">ae</journal-id><journal-id journal-id-type="coden">aaemcq</journal-id><journal-title-group><journal-title>ACS Applied Energy Materials</journal-title></journal-title-group><issn pub-type="epub">2574-0962</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11822561</article-id><article-id pub-id-type="doi">10.1021/acsaem.4c02457</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>A Step-by-Step Design
+Strategy to Realize High-Performance
+Lithium&#x02013;Sulfur Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Dent</surname><given-names>Matthew
+J.</given-names></name></contrib><contrib contrib-type="author" id="ath2"><name><surname>Grabe</surname><given-names>Sean</given-names></name></contrib><contrib contrib-type="author" id="ath3"><name><surname>Hinder</surname><given-names>Steven J.</given-names></name></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5672-8311</contrib-id><name><surname>Masteghin</surname><given-names>Mateus G.</given-names></name></contrib><contrib contrib-type="author" id="ath5"><name><surname>Whiting</surname><given-names>James D.</given-names></name></contrib><contrib contrib-type="author" id="ath6"><name><surname>Watts</surname><given-names>John F.</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4494-1761</contrib-id><name><surname>Lekakou</surname><given-names>Constantina</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">Centre for Engineering Materials,
+Faculty of Engineering and Physical Sciences, <institution>University of Surrey</institution>, Guildford GU2 7XH, <country>U.K.</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>C.Lekakou@surrey.ac.uk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>01</month><year>2025</year></pub-date><pub-date pub-type="collection"><day>10</day><month>02</month><year>2025</year></pub-date><volume>8</volume><issue>3</issue><fpage>1492</fpage><lpage>1506</lpage><history><date date-type="received"><day>26</day><month>09</month><year>2024</year></date><date date-type="accepted"><day>16</day><month>01</month><year>2025</year></date><date date-type="rev-recd"><day>16</day><month>01</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_0007" id="ab-tgr1"/></p><p>In order to increase the energy density and improve the
+cyclability
+of lithium&#x02013;sulfur (Li&#x02013;S) batteries, a combined strategy
+is devised and evaluated for high-performance Li&#x02013;S batteries.
+It consists of the following steps to reduce the loss of active sulfur
+and sulfides migrating in the liquid electrolyte to the anode and
+add electrocatalyst groups in the cathode or catholyte: (i) A hollow
+porous nanoparticle coating cathode host with a pseudocapacitive PEDOT:PSS
+binder that also contributes to trapping polysulfides. (ii) A thin
+interlayer of B&#x02013;N-graphene (BNG) nanoplatelets on the above
+cathode trapping polysulfides while participating in the electron
+transfer and acting as an electrocatalyst, thus ensuring that the
+trapped sulfides remain active in the cathode. (iii) Added semiconductor
+phthalocyanine VOPc or CoPc to form an electrocatalyst network in
+the catholyte, trapping polysulfides and promoting their redox reactions
+with Li<sup>+</sup> ions. (iv) Added silk fibroin in the liquid electrolyte,
+which also suppresses dendritic growth on the lithium anode. This
+strategy is evaluated step-by-step in Li&#x02013;S battery cells characterized
+experimentally and in simulations based on a multipore continuum physicochemical
+model with adsorption energy data supplied from molecular dynamics
+simulations. The thin BNG interlayer sprayed on the cathode proved
+a decisive factor in improving cell performance in all cases. A Li&#x02013;S
+cell combining features from (i), (ii), and (iv) and with 45 wt %
+S in the cathode yields 1372 mAh g<sub>S</sub><sup>&#x02013;1</sup> at first discharge and 920 mAh g<sub>S</sub><sup>&#x02013;1</sup> at the 100th discharge after a cycling schedule at different C-rates.
+A Li&#x02013;S cell combining features from (i), (ii), and (iii) and
+with 55 wt % S in the cathode yields 805 and 586 mAh g<sub>S</sub><sup>&#x02013;1</sup> at the first and the 100th discharge, respectively.</p></abstract><kwd-group><kwd>lithium&#x02212;sulfur batteries</kwd><kwd>interlayer</kwd><kwd>silk fibroin</kwd><kwd>catholyte</kwd><kwd>experiments</kwd><kwd>multiscale simulations</kwd><kwd>multipore continuum digital twin
+simulations</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Faraday Institution</institution><institution-id institution-id-type="doi">10.13039/100017146</institution-id></institution-wrap></funding-source><award-id>EP/S003053/1</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Faraday Institution</institution><institution-id institution-id-type="doi">10.13039/100017146</institution-id></institution-wrap></funding-source><award-id>FIRG014</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ae4c02457</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ae4c02457</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Current research in energy
+storage devices focuses on improving
+key performance indicators (KPIs) closely related to certain application
+fields, with electric vehicles (EVs) being the top application priority.
+These KPIs are (i) the energy density, aiming to increase the driving
+range of EVs and the operating range of portable devices; (ii) the
+power density, seeking to fast-charge EVs and other application devices.
+Supercapacitors exhibit high power density but still have low energy
+density, despite many efforts to tailor the pore size distribution
+of electrodes<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> and functionalize carbon electrodes
+with pseudocapacitive groups.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Hybrid battery-supercapacitor
+devices exhibit relatively good energy density, but their high-power
+supercapacitor part comprises only 10&#x02013;15% of the total hybrid
+device energy.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Alternatively, efforts to increase
+the power density of Li-ion batteries have been reported by developing
+carbonate electrolytes compatible with a hard carbon anode, aiming
+at raising the diffusion rate of Li<sup>+</sup> ions in the anode<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> to match the good Li<sup>+</sup> ion diffusion
+coefficient in the latest high-performance NMC cathodes.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Li-ion batteries are the main energy storage
+devices used for EVs, due to their high energy density, with the latest
+NMC batteries reaching 200&#x02013;250 Wh kg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> However, Li-ion batteries are reaching their
+upper limit with regard to energy density, and research is turning
+to alternative battery technologies.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Attempts
+to replace lithium ions with cations based on abundant materials,
+such as ammonium ion<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> and zinc ion<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> have not yielded any higher energy densities so far. Hence,
+research for next-generation batteries has been directed to other
+cathode materials of high theoretical specific capacity, such as oxygen
+and sulfur. Metal-air batteries and fuel cells offer high theoretical
+energy density, for example, a theoretical energy density of 11140
+Wh/kg<sub>Li</sub> for Li&#x02013;O<sub>2</sub> batteries,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> but suffer from sluggish reaction kinetics,
+high overpotential, low efficiency, the need for expensive catalysts,
+the need for pure oxygen feed without moisture and CO<sub>2</sub>,
+and poor cyclability.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> Additional issues to be resolved
+concerning hydrogen fuel cells include green hydrogen production and
+the development of relevant safe infrastructure.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>The interest in lithium&#x02013;sulfur (Li&#x02013;S)
+batteries is
+due to their high theoretical energy density, over 2700 Wh kg<sub>electrodes</sub><sup>&#x02013;1</sup>, combined with the low cost
+and abundance of sulfur as the active cathode material. Considerations
+in translating the high specific capacity of sulfur to high cell energy
+density include maximizing the amount of sulfur in the cathode and
+minimizing the electrolyte-to-sulfur ratio, E/S.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Combining an E/S = 6 &#x003bc;L mg<sup>&#x02013;1</sup> with
+a cell/sulfur mass ratio of 5.3, an energy density of 650 Wh kg<sub>cell</sub><sup>&#x02013;1</sup> was achieved in pouch cells of Li&#x02013;S
+battery with MoS<sub>2</sub> cathode host.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> However, despite such high energy density, well above the performance
+of Li-ion batteries and supercapacitors<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> that would have been ideal for long-range EVs, Li&#x02013;S
+batteries still seem in the research stage with no manufacturers ready
+to adopt them for commercial applications.</p><p>Conductive cathode
+hosts have been devised to encapsulate the sulfur
+and accommodate its expansion when converted all the way to Li<sub>2</sub>S.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> A multipore continuum physicochemical
+model of the Li&#x02013;S battery with liquid electrolyte 1 M LiTFSI
+in DOL/DME has been developed and employed by our group to aid in
+the design of the cathode host microstructure.<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> First simulations using a digital twin based on this
+Li&#x02013;S battery model identified several problems in Li&#x02013;S
+batteries, many of which are closely associated with the cathode:
+(a) Sulfur in deep micropores remains undissolved and unutilized until
+the end of discharge, which frequently occurs in microporous hosts.<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> At very low C-rates, a small amount of electrolyte solvent might
+soften the encapsulated solid sulfur or sulfides in such micropores,
+and redox reactions might occur in a semisolid state.<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> (b) Sulfur and soluble sulfides in meso- and macropores can easily
+migrate to the anode during discharge and shuttle between cathode
+and anode during charge via the mechanisms of diffusion and drift
+current.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> This might occur even in high
+tortuosity graphene-based cathodes due to large pores between curled
+graphene platelets.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> (c) In many types of cathodes, sulfur and sulfide leaching takes
+place from different cathode locations toward the cathode surface
+facing the separator, resulting in exceeding the saturation concentration
+and precipitating, forming a thick layer there that remains mostly
+undissolved and generally does not participate in further redox reactions.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> (d) The presence of a pure lithium
+anode poses the risk of dendrite formation, as also in Li-ion batteries
+with a lithium metal anode.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup></p><p>The following step-by-step strategy has been devised in the
+present
+study to address the above problems in Li&#x02013;S batteries: (i)
+Use of hollow porous nanoparticle-based cathode host to retain sulfur
+in the nanoparticle core and thus reduce the &#x0201c;shuttling&#x0201d;
+effect. (ii) Develop a nanoplatelet interlayer between the cathode
+and separator to further reduce the &#x0201c;shuttling&#x0201d; effect
+and possibly eliminate it. (iii) Employ an effective electrocatalyst-type
+additive in the catholyte region to promote the Li&#x02013;S redox
+reaction chain while also retaining sulfur and sulfides in the catholyte.
+(iv) Employ an additive in the electrolyte to suppress dendritic growth
+on the Li anode.</p><p>Hollow porous particle-based cathodes have
+been one of the first
+proposed solutions to reduce the &#x0201c;shuttling&#x0201d; effect
+in Li&#x02013;S batteries<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> with a reported specific
+capacity of 900 mAh g<sup>&#x02013;1</sup> after 100 cycles at 0.2
+C<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> and 700 mAh g<sup>&#x02013;1</sup> after
+100 cycles at 1 C.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Despite such high
+performance, there has been no follow-up in the commercialization
+of such sulfur cathodes, which might be attributed to two reasons:
+(a) The multistage synthesis method of the hollow porous particles
+based on a silica template, which needs to be removed typically with
+repeated washing steps using a highly toxic and corrosive HF aqueous
+solution.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> (b) The surprisingly high C-rate of reported
+cycling<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> corresponds to a current density
+of at least 2 mA cm<sup>&#x02013;2</sup> at which dendritic growth
+is expected at the anode. According to Sand&#x02019;s equation,<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> the onset time for dendrite formation is estimated
+to be 225 s for a current density of 2 mA cm<sup>&#x02013;2</sup> in
+liquid electrolyte 1 M LiTFSI in DOL:DME 1:1 v/v, which is certainly
+within the discharge or charge time reported for the Li&#x02013;S battery
+cycled at 1 C; this means that the reported batteries are at high
+risk of short-circuiting in any further charge&#x02013;discharge cycling.
+(c) Furthermore, a very high E/S ratio, E/S = 61 to 122 &#x003bc;L mg<sup>&#x02013;1</sup>, was required<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> well above
+the recommended metrics for realizing a Li&#x02013;S battery with good
+energy and power density with respect to cell mass.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Other studies have used a commercially available material,
+Ketjenblack EC-600JD, with smaller hollow porous nanoparticles of
+about 30 nm as a cathode host in Li&#x02013;S batteries that have achieved
+good specific capacity at first discharge in the range of 700&#x02013;900
+mAh g<sup>&#x02013;1</sup> at 0.1 C<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> with
+a smaller amount of electrolyte at E/S = 6 to 11 &#x003bc;L mg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Hence, the Ketjenblack EC-600JD is
+the cathode host adopted in the present study. Furthermore, earlier
+research within our group replaced the typical PVDF binder in the
+cathode coating with PEDOT:PSS, which allows for more environmentally
+friendly cathode fabrication based on aqueous slurry, increases the
+specific capacitance by 7&#x02013;9% due to the pseudocapacitance of
+PEDOT:PSS, and adsorbs the sulfur and polysulfides, significantly
+reducing the polysulfide migration to the anode, although there is
+still a small sulfur concentration at the anode.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup></p><p>Much research in the past focused on modifications
+of the separator
+to suppress the &#x0201c;shuttling&#x0201d; effect.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> This includes functionalization or coating of the separator with
+chemical groups or materials that adsorb sulfur and polysulfides.<sup><xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref41">41</xref></sup> Numerous papers have been published with DFT (density functional
+theory) and MD (molecular dynamics) simulations to determine the adsorption
+energy, <italic>E</italic><sub>ads</sub>, of lithium sulfides and
+sulfur by different functional carbon or graphene substrates. These
+include <italic>N</italic>- and N&#x02013;S- doping of graphene with <italic>E</italic><sub>ads</sub> in the range of 0.8 to 2.06 eV,<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> Mo-functionalized graphene with <italic>E</italic><sub>ads</sub> around 2.3 eV,<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> and B,
+N hexagonal codoped graphene with very high <italic>E</italic><sub>ads</sub> values of 4.4 eV, which is attributed to the strong Li&#x000b7;&#x000b7;&#x000b7;N
+and S&#x000b7;&#x000b7;&#x000b7;B interactions.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> An interlayer of 40 wt % functional boron-nitride nanosheets and
+53 wt % graphene raised the specific capacity of a Li&#x02013;S cell
+by only 10%.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> The disadvantage of that
+method is believed to be the low conductivity of the B&#x02013;N nanosheets,
+which limited the electron transfer across the thickness of the interlayer
+and the utilization of any sulfur and sulfide trapped there. Hence,
+high conductivity B,N-codoped graphene (BNG) has been adopted in the
+present study, with three avenues of investigation: BNG-coated separator,
+BNG-coated cathode, or BNG coating on both the cathode and separator.
+The advantage of high conductivity BNG coating on the cathode is that
+any sulfur or sulfides adsorbed and trapped by the BNG layer will
+be in the path of electron transfer in the cathode and actively participate
+in the chain of redox reactions there. In particular, BNG has excellent
+potential for also acting as an electrocatalyst for these reactions.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup></p><p>DFT simulations to predict the adsorption
+energy and electrocatalytic
+ability of different single atom catalysts (SACs) in terms of activation
+energy of the Li&#x02013;S redox reactions in the presence of SACs
+of the type Me-N<sub>4</sub>- as part of a graphene structure yielded <italic>E</italic><sub>ads</sub> in the range of 3.3 to 4.5 eV for the best
+SACs V&#x02013;N<sub>4</sub>-C and W&#x02013;N<sub>4</sub>-C and <italic>E</italic><sub>ads</sub> in the range of 1.2 to 2 eV for Fe&#x02013;N<sub>4</sub>-C and Co&#x02013;N<sub>4</sub>-C with respect to the different
+lithium sulfides.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> Given that micropores
+of cathode hosts physically trap the sulfur and polysulfides, migration
+of these active substances to the anode takes place mostly via the
+meso- and macropores. Hence, the aim would be to functionalize the
+walls of such pores of porous cathode hosts with appropriate SACs
+to reduce the &#x0201c;shuttling&#x0201d; effect. However, DFT studies
+demonstrated that the <italic>E</italic><sub>ads</sub> values drastically
+decrease in pores greater than 1 nm, as one may generally consider
+that the adsorption energy falls with the reverse of distance away
+from the optimum position of the sulfide with respect to the functionalized
+substrate.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> Hence, a novel idea in the
+present study is to employ vanadyl phthalocyanine (VOPc) as an additive
+in the catholyte. VOPc comprises small molecules as semiconductor
+dipoles,<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> which we envisage would form
+an SAC network in the catholyte within the meso- and macropores, bridging
+their walls, that would retain the sulfur and lithium sulfides locally
+in the pores and promote the redox reaction chain there, reducing
+leaching of active material toward the separator and anode. Apart
+from VOPc being an excellent electrocatalyst and Li<sub>2</sub>S<sub><italic>x</italic></sub> absorbing means, a delicate balance is sought
+between the VOPc network offering sufficient conductivity to promote
+electron transfer but not too high conductivity to short circuit the
+cell, as the small VOPc molecules can easily be transported through
+the separator pores. Starting from the conductivity, &#x003c3;, of multiwall
+carbon nanotubes (MWCNTs) that have been observed to cause short circuiting,
+&#x003c3;<sub>MWCNT</sub> = 100 to 2 &#x000d7; 10<sup>5</sup> S m<sup>&#x02013;1</sup>,<sup><xref ref-type="bibr" rid="ref50">50</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup> a conductivity &#x003c3;<sub>VOPc</sub> =
+0.5 to 1.5 &#x000d7; 10<sup>&#x02013;6</sup> S m<sup>&#x02013;1</sup> has
+been reported for VOPc,<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> &#x003c3;<sub>CoPc</sub> = 2.4 &#x000d7; 10<sup>&#x02013;4</sup> S m<sup>&#x02013;1</sup> for
+CoPc,<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> and even higher conductivity for
+CoPc tetramers &#x003c3;<sub>CoPc</sub> = 0.8 S m<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>With regard to the Li anode,
+silk fibroin was found to suppress
+dendritic growth in Li-ion batteries.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> MD simulations confirmed the role of the silk fibroin additive in
+the liquid electrolyte of Li&#x02013;S batteries to passivate the Li
+anode by forming a coating monolayer linked via O&#x000b7;&#x000b7;&#x000b7;Li
+interactions with the Li surface and coordinated with a large number
+of lithium sulfide molecules with binding sites featuring O&#x000b7;&#x000b7;&#x000b7;Li
+and N&#x000b7;&#x000b7;&#x000b7;S interactions between the amino acid part
+of silk fibroin and the lithium and sulfide part of the Li<sub>2</sub>S<sub><italic>x</italic></sub>.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup></p><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> outlines
+the strategy steps adopted in this study to realize high-performance
+Li&#x02013;S batteries: (a) The cathode comprises a hollow porous nanoparticle
+coating based on Ketjenblack EC-600JD (henceforth referred to as KB)
+with 10 wt % pseudocapacitive PEDOT:PSS binder. (b) A KB-based cathode
+with PEDOT:PSS binder is still employed with a thin sprayed interlayer
+of BNG nanoplatelets on the cathode coating using, as interlayer binder,
+a solid polymer electrolyte (SPE); the aim is for the BNG interlayer
+to attract sulfur and sulfides and act as an electrocatalyst for the
+redox Li&#x02013;S battery reactions. (c) Still employing the KB-based
+cathode with a thin BNG interlayer on the cathode surface, VOPc or
+CoPc nanodots are added to the catholyte with the aim for these semiconductor
+molecules to form an electrocatalyst network in the cathode meso-
+and macropores while also attracting soluble sulfur and lithium sulfides.
+(d) Still employing the KB-based cathode with a thin BNG interlayer
+on the cathode surface, silk fibroin is added to the liquid electrolyte
+with the aim to form a monolayer on the Li anode surface and suppress
+dendritic growth as well as coordinating with soluble sulfur and lithium
+sulfides. The experimental investigations are aided by simulations
+of discharge&#x02013;charge of the Li&#x02013;S cells with the corresponding
+component materials using the digital twin based on our continuum
+multipore physicochemical model. Such simulations predict the discharge&#x02013;charge
+curves and also monitor the progress of the Li&#x02013;S reactions
+and transport, dissolution, or precipitation of sulfur and polysulfides
+at different locations in the cell and pore sizes. Molecular modeling
+and simulations are deployed to provide any missing input data for
+the continuum simulations, such as adsorption energy data missing
+from the literature.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Diagram of the strategy steps to realize high-performance
+Li&#x02013;S
+batteries in this study: (a) A hollow porous nanoparticle KB-based
+cathode with 10 wt % PEDOT:PSS binder part-coating the meso- and macropore
+walls (red in the diagram). (b) A KB-based cathode with a thin sprayed
+interlayer of BNG nanoplatelets on the cathode coating using SPE PEO
+as a binder for the interlayer. (c) A KB-based cathode with a thin
+BNG interlayer on the cathode surface and catholyte additive VOPc
+or CoPc nanodots considered to form an electrocatalyst network in
+meso- and macropores also attracting soluble sulfur and lithium sulfides.
+(d) A KB-based cathode with a thin BNG interlayer on the cathode surface
+and an electrolyte additive, silk fibroin, is considered to act in
+a dual role: forming a monolayer on the Li anode surface to suppress
+dendritic growth and coordinating with soluble sulfur and lithium
+sulfides.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_0001" id="gr3" position="float"/></fig></sec><sec id="sec2"><label>2</label><title>Methods</title><sec id="sec2.1"><label>2.1</label><title>Experimental Methods</title><p>Ketjenblack
+EC-600JD (Lion Corporation, Japan), henceforth referred to as KB,
+was mixed with sulfur powder (Sigma-Aldrich, UK) and ground together
+for 30 min. The mixture was then dispersed in acetone for 30 min in
+an ultrasonic bath, followed by tip sonication for 10 min at room
+temperature. The dispersed sulfur-KB acetone slurry was magnetically
+stirred overnight until acetone evaporation. The resulting mix was
+further ground for 30 min and placed in an aluminum foil parcel, which
+was left in an oven for 3 h at 155 &#x000b0;C for sulfur infiltration
+in combined melt/vapor phase. The samples were weighed before and
+after the sulfur infiltration procedure to determine the sulfur mass
+retained in the KB host. The sulfur-infiltrated KB mix was ground
+for 30 min and added to an aqueous PEDOT:PSS solution (Clevios PH
+1000, Heraeus, Germany), placed in an ultrasonic bath for 30 min,
+and left to stir on a magnetic stirrer to mix well and thicken. The
+viscous slurry was coated on a carbon-coated aluminum foil current
+collector (MTI, US) via the doctor blade technique at a blade gap
+of 250 &#x003bc;m. Cathode coatings of 45 and 55 wt % S in KB with 10
+wt % PEDOT:PSS were manufactured in this manner. Alternatively, for
+higher sulfur contents, starting with the cathode coating of 45 wt
+% S melt/vapor infiltrated in KB, the additional sulfur was added
+via the solution method in the form of Li<sub>2</sub>S<sub>8</sub> solution in DOL/DME 1:1 v/v. In this manner, cathodes of 55, 60,
+65, and 70 wt % S were prepared with KB host and 10 wt % PEDOT:PSS.
+Li&#x02013;S cells were fabricated using a two-part 316 SS case<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> consisting of the above cathode disc of 19.2 mm diameter, Li anode
+disc of 19.2 mm diameter and 0.75 mm thickness (Sigma-Aldrich, UK),
+Celgard 2400 separator disc of 25 mm diameter, and electrolyte 1 M
+LiTFSI (lithium bis(trifluoromethanesulfonyl)imide) in DOL/DME (1,3-dioxolane/dimethoxyethane)
+1:1 v/v with 0.8 M LiNO<sub>3</sub> at E/S = 11 &#x003bc;L mg<sup>&#x02013;1</sup>.</p><p>For the fabrication of the BNG interlayer, B,N codoped graphene
+(BNG) (Graphitene, UK) (according to manufacturer specifications:
+BNG powder of flakes of 1&#x02013;5 atomic layers, with a lateral size
+of 0.5&#x02013;5 &#x003bc;m, BET specific surface area SSA<sub>BET</sub> &#x0003e; 500 m<sup>2</sup> g<sup>&#x02013;1</sup> and composition: 80&#x02013;90
+at% C, &#x0003c; 5 at% O, 2.0&#x02013;4.0 at% B, and 2.0&#x02013;4.0 at.
+% N) was fully dispersed in acetonitrile with dissolved poly(ethylene
+oxide) (PEO) (Sigma-Aldrich, UK) of MW = 100 &#x000d7; 10<sup>3</sup>, and sprayed on the cathode surface as a very thin coating (with
+an undetected weight difference before and after the sprayed coating)
+of 90 wt % BNG and 10 wt % PEO binder. The Li&#x02013;S cells with
+an S-KB cathode and BNG interlayer were filled with the liquid electrolyte,
+where three E/S ratios were tried in this study: E/S = 16, 11, and
+8 &#x003bc;L mg<sup>&#x02013;1</sup>.</p><p>Concerning the catholyte
+additives, cobalt phthalocyanine (CoPc)
+(Sigma-Aldrich, UK) or vanadyl phthalocyanine (VOPc) (Sigma-Aldrich,
+UK), 1 wt % of CoPc or VOPc of the cathode composition was added via
+the method of a 1:1 v/v solution of CoPc or VOPc in DOL/DME in the
+cathode, so it could permeate all micro-, meso-, and macropores in
+the cathode not filled with sulfur. Then the DOL/DME solution was
+left to evaporate, leaving the CoPc or VOPc in the cathode pores.
+Finally, the cell was filled with the specified amount of electrolyte
+in the specified E/S ratio.</p><p>The cells were subjected to electrochemical
+testing in the form
+of galvanostatic discharge&#x02013;charge (GDC) cycles at different
+C-rates with respect to the sulfur content in the cathode. The sulfur-infiltrated
+KB powder was characterized by using a ThermoFisher Scientific Talos
+F200i scanning transmission electron microscope (STEM). Energy dispersive
+X-ray spectroscopy (EDX) maps were acquired by using a Bruker X-Flash
+detector. The standard KB-based cathode coating was subjected to SEM/EDX
+employing the instrument HR-SEM JEOL-7100 F. Cathodes and anodes were
+also characterized via SEM and SEM/EDX postmortem after being cycled
+according to the full cycle schedule applied in this study. The anodes
+were also characterized postmortem via X-ray photoemission spectroscopy
+(XPS) using a Thermo Scientific K-Alpha+ XPS instrument. XPS spectra
+were obtained in constant analyzer energy mode with pass energies
+of 200 and 50&#x0202f;eV and step sizes of 0.4 and 0.1 eV for survey
+and high-resolution spectra, respectively. A monochromated Al K&#x003b1;
+X-ray source was used with a 400-&#x003bc;m radius spot. The obtained
+XPS spectra were analyzed using Thermo Scientific Avantage V5.980
+software (ThermoFisher Scientific Ltd., Horsham, UK).</p></sec><sec id="sec2.2"><label>2.2</label><title>Numerical Methods</title><p>The digital twin
+based on the multipore continuum model, which was developed within
+our group for Li&#x02013;S batteries<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> and
+validated for different types of cathode microstructures and electrolyte
+1 M LiTFSI in DOL/DME,<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> was employed for simulations of the first discharge&#x02013;charge
+cycle of three selected cells, which had a cathode of 45.4 wt % S-KB-10
+wt % PEDOT:PSS. Two of these cells also had a BNG interlayer on the
+cathode. Finally, one of these two cells also had 0.8 wt % SF in the
+electrolyte. Input data for the dissolution/precipitation kinetics
+and the saturation concentrations of sulfur and lithium sulfides were
+extracted from previous experimental studies.<sup><xref ref-type="bibr" rid="ref57">57</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> A pseudocapacitance model was included for the PEDOT:PSS binder
+as presented in a recent study.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The adsorption
+energies of sulfur and sulfides by the substrates or additives were
+included in a decay factor preceding transport terms in the species
+transport equation as presented in the recent study.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> Values for the adsorption energies of sulfur and lithium
+sulfides by PEDOT:PSS and BNG were taken from past studies.<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> The adsorption energies of sulfur and lithium sulfides by SF were
+predicted in the present study, employing the Blends module of Materials
+Studio 6.1 (Accelrys, US) and considering a small fragment of SF.
+Reaction kinetics parameters were taken from our past study<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> with the exception of electrochemical reactions
+occurring in the BNG interlayer, where the standard potentials for
+the conversion reactions to Li<sub>2</sub>S<sub>2</sub> and Li<sub>2</sub>S were increased to U<sup>o</sup><sub>Li2S4&#x02192;Li2S2</sub> = 2.03 V and U<sup>o</sup><sub>Li2S2&#x02192;Li2S</sub> = 1.96 V
+(from U<sup>o</sup><sub>Li2S4&#x02192;Li2S2</sub> = 1.87 V and U<sup>o</sup><sub>Li2S2&#x02192;Li2S</sub> = 1.86 V in the rest of the KB-based
+cathode).</p><p>The finite volume/finite difference method was employed
+for the solution of the numerical equations.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref59">59</xref></sup> The cell comprised a cathode coating with a thickness of 200 &#x003bc;m
+(measured as the coating thickness after drying in cathode coating
+fabrication), a BNG interlayer with a thickness of 3 &#x003bc;m, and
+a separator with a thickness of 25 &#x003bc;m. A one-dimensional grid
+of 146 points was constructed along the cell thickness, the first
+point being on the anode surface, which was also the anode-separator
+interface, followed by 9 points in the separator, 3 points in the
+BNG interlayer, and 133 points in the cathode.</p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Experimental Studies</title><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> presents the experimental
+data from the testing and characterization of Li&#x02013;S cells with
+KB-based cathode coating, including 10 wt % PEDOT:PSS binder, and
+different contents of sulfur. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a presents the HAADF-STEM image and mixed element (S
+and C) EDX map of a particle agglomerate from the sulfur-infiltrated
+KB via the melt/vapor infiltration method at an S:KB ratio of 61:39
+g/g (equivalent to 55 wt % in the final cathode coating with 10 wt
+% PEDOT:PSS), which shows that the infiltrated sulfur binds the KB
+particles of outer diameter of about 30 nm<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> to spherical agglomerates of about 200 nm. EDX analysis and scanning
+along a slice diametrically through the S-KB agglomerate show the
+S and C atomic fraction profiles along this slice in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a. These profiles, also in
+association with the HAADF-STEM/mixed element EDX map image, show
+that sulfur has fully infiltrated the wall pores of the particles.
+There is good correspondence between the S maxima and the C valleys
+(and vice versa), demonstrating the filling of the hollow KB particle
+core (80% of the particle volume, 22 nm core diameter) with sulfur.
+This means that there is no free volume to accommodate the sulfur
+expansion. Hence, sulfur was infiltrated via the melt/vapor method
+only up to an equivalent of 45 wt % S in the final coating. Any additional
+sulfur was added in the form of Li<sub>2</sub>S<sub>8</sub> solution,
+expected to reach only interparticle and interagglomerate gaps. This
+applies to the cathodes with sulfur content of 55, 60, 65, and 70
+wt % in the Li&#x02013;S cells of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b,c.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Li&#x02013;S cells with a KB-based cathode (and
+PEDOT:PSS binder):
+(a) STEM/EDX mixed element map of C (red) and S (yellow) of an agglomerate
+of sulfur infiltrated KB nanoparticles at 39:61 g/g KB:S ratio, with
+graph depicting the carbon and sulfur atomic fractions comprising
+the EDX signal across the green-bordered area scanning in the direction
+of the green arrow. (b) The experimental data of the first galvanostatic
+discharge&#x02013;charge cycle at 0.05 C of Li&#x02013;S cells with
+cathodes with different sulfur content, from 45 to 70 wt % S. (c)
+Experimental data of the specific capacity at discharge vs cycle number
+for a cycling schedule of the Li&#x02013;S cells at different C-rates.
+(d, e) SEM image and EDX C and S element maps of the as-fabricated
+cathode (d) and postmortem (e) after the cycling schedule in (c) for
+the Li&#x02013;S cell with 45 wt % S in the KB-based cathode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_0002" id="gr4" position="float"/></fig><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b,c presents
+the results of electrochemical testing of the Li&#x02013;S battery
+cells with a KB-based cathode (with 10 wt % PEDOT:PSS binder) and
+different amounts of sulfur content. The cell with 45 wt % S in the
+cathode exhibits the highest specific capacity at discharge of 772
+mAh g<sub>S</sub><sup>&#x02013;1</sup> observed in the first galvanostatic
+discharge&#x02013;charge (GDC) cycle (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). Contributions from the pseudocapacitance
+of PEDOT:PSS are encountered in the first discharge for cell potential
+below 1.8 V, adding about 100 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the cell with 45 wt % S and 50 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the cell with 70 wt % S. Despite the lower initial capacity
+of the cells with high S content (320 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the cells with 60 and 70 wt % S), these cells recover to even
+higher capacity after the applied cycling schedule to 370&#x02013;410
+mAh g<sub>S</sub><sup>&#x02013;1</sup> after 100 cycles (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), which is similar to the
+specific capacity of the 45 wt % S cell after 100 cycles. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c also exhibits the
+effect of the C-rate: The 45 wt % S cell demonstrates the best performance
+at higher C-rates. While the C-rate performance worsens as the S content
+in the cathode increases from 45 to 55 wt %, it gradually improves
+while it increases further to 60 and 70 wt%, although it is still
+much lower than the C-rate performance of the 45 wt % S cathode. Furthermore,
+the equivalent series resistance (ESR) was determined from the experimental
+data at the start of each discharge in the GDC cycling schedule of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c and is presented
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S1. Figure S1</ext-link> shows that ESR
+is reduced with increasing sulfur content in the cathode. This is
+attributed to the corresponding higher amount of electrolyte, where
+while maintaining a constant E/S ratio of 11 &#x003bc;L mg<sub>S</sub><sup>&#x02013;1</sup>, the higher sulfur content, which also fills
+a greater fraction of available pore volume of the porous cathode
+host and separator, is translated to more added electrolyte. Ultimately,
+this means that the higher amount of electrolyte fills even less pore
+volume and wets the porous cell components better, resulting in lower
+ESR for the higher sulfur cells. It is also noticed that the Li&#x02013;S
+cell with 45 wt % S in the cathode displays a 10 times rise in ESR
+at low C-rates. Simulation of the first GDC cycle at 0.05 C for this
+cell using our multipore continuum model predicted a certain amount
+of sulfide migration within the cathode from the current collector
+side to the cathode surface facing the separator, accumulating in
+the micro- and mesopores of the porous KB particles.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The postmortem SEM image and the EDX S and C element maps
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e compared
+with similar images of the as-fabricated cathode in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d confirm this prediction,
+in fact exhibiting postmortem deposits around the KB agglomerates
+on the cathode surface, having smoothened the more porous texture
+displayed in the SEM of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d, coupled with very high S element concentration in the S
+element map in these agglomerates on the cathode surface.</p><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c shows
+that all cells generally exhibit low specific capacity when tested
+at the 2 C rate. For example, the Li&#x02013;S cell with 55 wt % S
+in the cathode starts with an ESR of 100 ohms at 0.05 C, which falls
+to a minimum of 50 ohms at 2 C after 100 cycles. With such an ESR
+value at the high rate of 2 C, the cell potential falls immediately
+under 2 V at the first point of discharge, which means that there
+is little chance for the redox reactions corresponding to the high
+voltage plateau of Li&#x02013;S batteries. In the absence of any formed
+mid-order sulfide Li<sub>2</sub>S<sub>4</sub>, no reactions can then
+take place at the low-order plateau either. Hence, the cell potential
+falls immediately below the minimum set discharge voltage for this
+cell at 2 C. Furthermore, the 2 C current densities for the different
+sulfur content cells in this study were in the range of 3&#x02013;11
+mA cm<sup>&#x02013;2</sup>, which are at very high risk of dendrite
+formation at the anode according to Sand&#x02019;s equation.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> For this reason, 2 C GDC testing was eliminated
+from the schedule of subsequent electrochemical testing of Li&#x02013;S
+battery cells in this study.</p><p>Delving a little more into the
+effect of sulfur content in the
+cathode on the specific capacity and cyclability of Li&#x02013;S cells
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b,c, it
+seems that there is a fluctuating trend in the cycling performance
+of cells with sulfur content in the range of 55&#x02013;70 wt %. For
+these cathodes, the first 45 wt % S was infiltrated following the
+melt/vapor route, and it is expected that most of the sulfur impregnated
+the core and the microporous wall of the hollow KB particles. The
+rest of the sulfur, 10&#x02013;25 wt %, was infiltrated in the form
+of Li<sub>2</sub>S<sub>8</sub> via the solution route, and it is expected
+that it occupied the mesopores between the KB particles. In such a
+case, the produced soluble sulfides would easily migrate from such
+large pores to the anode, especially in the case of the lower sulfur
+content, e.g., 55 wt %, where the mesopores would be only partially
+filled and still leave unfilled pore space for the soluble sulfides
+to move. This would reduce the specific capacity and the cyclability
+of the Li&#x02013;S cell. As the sulfur content is increased to 70
+wt %, the mesopores are filled to a greater extent, and the sulfides
+cannot move so freely. Sulfide migration is reduced as cyclability
+improves, as seen in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c for the 70 wt % S cathode. However, the high sulfur concentration
+may create a semisolid state and concentration overpotential, reducing
+the specific capacity at least in the first cycle(s), until Li<sup>+</sup> ions find a route to access the active cathode material.
+Concentration variations in the coating may shift the balance of these
+counteracting mechanisms and may explain the fluctuation in the cycling
+performance for the Li&#x02013;S cells with sulfur content in the range
+of 55&#x02013;65 wt %. Other factors affecting this fluctuating trend
+are the thermodynamics of phase equilibrium between the solid and
+dissolved state of the multiple coexisting sulfides and sulfur during
+discharge and charge,<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> weakly dissolved
+sulfur and sulfides at locally high concentrations of these species
+in the mesopores,<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> and the effect of TFSI<sup>&#x02013;</sup>, depending on its local concentration, on the solvation
+of sulfides and local regulation of redox reaction kinetics.<sup><xref ref-type="bibr" rid="ref62">62</xref></sup></p><p>The next design step is to evaluate Li&#x02013;S
+cells with a BNG
+interlayer. A preliminary set of experiments with a commercial Nanomyte
+sulfur cathode (70 wt % sulfur in a carbon black coating with PVDF
+binder) included: a sprayed BNG interlayer on the cathode surface
+only; a sprayed BNG interlayer on the separator surface only (the
+surface facing the cathode); and finally, BNG interlayers sprayed
+on both the cathode surface and the separator surface. The results
+of electrochemical testing presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S2</ext-link> demonstrate that the Li&#x02013;S cell with the BNG interlayer
+sprayed on the cathode surface has the highest specific capacity at
+discharge and a certainly lower amount of BNG than the cell with two
+BNG interlayers on both the cathode and separator. The specific capacity
+of the cell with the BNG interlayer on the cathode surface is higher
+by 42% than the specific capacity of the cell with the plain Nanomyte
+cathode (without any BNG interlayer). This is much better progress
+than that reported in the literature for an interlayer of B,N nanosheets
+and graphene (only 10% rise),<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> which is
+attributed to multiple mechanisms: The high adsorption energies of
+the BNG interlayer<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> can prevent sulfur
+and sulfides from leaving the cathode, while their good conductivity
+and direct contact with the cathode ensure good electron transport
+from the carbon cathode host across the BNG interlayer to the sulfur
+and sulfides trapped there, so they remain active in the Li&#x02013;S
+battery redox reaction chain.</p><p>Investigations then proceeded
+to the high-performance KB-10 wt
+% PEDOT:PSS cathode with a very thin BNG interlayer (with 10 wt %
+PEO binder) on the cathode surface. Three different E/S ratios were
+assessed: E/S = 16, 11, or 8 &#x003bc;L mg<sub>S</sub><sup>&#x02013;1</sup>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S3a,b</ext-link> display the results of
+the first GDC cycle and the cycling performance, respectively. Both
+figures demonstrate that the optimum electrolyte content is at E/S
+= 11 &#x003bc;L mg<sub>S</sub><sup>&#x02013;1</sup>. The other two E/S
+ratios display a lower and uneven discharge curve at the low voltage
+plateau than the optimum E/S ratio discharge curve, indicating a lack
+of Li<sup>+</sup> ions to carry on with the redox reactions, which
+is attributed to poor wetting of the cathode pores and low Li<sup>+</sup> ion transport rate. While this is understandable for the
+low E/S ratio of 8 &#x003bc;L/mg<sub>S</sub>, it is thought that at
+the high E/S ratio of 16 &#x003bc;L/mg<sub>S</sub> the cell becomes
+overflooded initially, which leads to outward electrolyte flow to
+the peripheral channel between the electrode discs of 19.2 mm diameter
+and the cell cavity of 25 mm diameter, and this leaves the main cell
+poorly wetted. Hence, the rest of the cells with 45 wt % S in the
+cathode were fabricated with the optimum E/S = 11 &#x003bc;L/mg<sub>S</sub>.</p><p><xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a,b presents
+the electrochemical test data from the first GDC cycle and the cycling
+schedule at different C-rates of cells with 45 wt % S in the cathode,
+designed according to the four strategy steps presented in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> demonstrates that the BNG
+interlayer on the cathode improves the specific capacity by at least
+10% in the first discharge (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a) and by 260% in the end part of the cycling schedule
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b) proving
+without doubt the beneficial role of the thin BNG interlayer on the
+cathode surface in Li&#x02013;S battery cyclability and energy density
+performance. Furthermore, BNG has potential for also acting as an
+electrocatalyst for these reactions<sup><xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> in the format
+of a heterogeneous promoter.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> The ESR
+profile at the start of discharge during the GDC cycling schedule
+for the Li&#x02013;S cell with the BNG interlayer on the cathode of
+the 45 wt % S-KB-10 wt % PEDOT:PSS is at a lower level than that of
+the cell without the BNG interlayer, without the high ESR values of
+the latter at low C-rate and half the ESR values of the latter at
+1C (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S4</ext-link>). This is attributed to the
+higher amount of liquid electrolyte added in the former cell, E/S
+= 16 &#x003bc;L mg<sub>S</sub><sup>&#x02013;1</sup>, against E/S = 11
+&#x003bc;L mg<sub>S</sub><sup>&#x02013;1</sup> in the latter.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Experimental
+data for Li&#x02013;S cells with 45 wt % S-KB-10 wt
+% PEDOT:PSS cathode and other additives according to the four design
+steps, as labeled in each subfigure. (a) First GDC cycle at 0.05 C.
+(b) Specific capacity at discharge versus cycle number for a cycling
+schedule of the Li&#x02013;S cells in a schedule of different C-rates.
+(c&#x02013;f) SEM image and EDX element maps of (c) as fabricated cathode
+and (d&#x02013;f) postmortem cathode after cell cycling.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_0003" id="gr5" position="float"/></fig><p>Subsequently, a moderately conducting network of
+electrocatalyst
+VOPc or CoPc molecules was created in the catholyte to add mobile
+promoters in the mesopores.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> The addition
+of VOPc in the catholyte of Li&#x02013;S cells with a 45 wt % S-KB-10
+wt % PEDOT:PSS cathode and a BNG interlayer on the cathode surface
+did not add significant benefits. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a shows that the VOPc brings a small improvement
+in the specific capacity in the first discharge. The experimental
+data from the GDC cycling schedule in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b depict the Li&#x02013;S cell with 1 wt %
+VOPc overtaking the rest of the cells reported so far in the 5 cycles
+at 0.1 C in the first part of the cycling schedule. However, as the
+C-rate is further increased, the cell with the cathode with just the
+BNG interlayer overtakes the rest of the cells (reported so far) and
+retains its good performance in the last part of the schedule at low
+C-rate. The ESR profiles during the cycling schedule in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S4</ext-link> show that ESR falls with cycling and
+is maintained at relatively low values during the whole cycling schedule
+for the cell with VOPc additive in the catholyte. It must be mentioned
+that a cell with 1 wt % CoPc in the catholyte, while starting with
+a similar first discharge profile as the cell with 1 wt % VOPc in
+the catholyte, failed abruptly at 400 mAh/g<sub>S</sub> which was
+attributed to short-circuiting of the cell due to CoPc migration across
+the separator to the anode and the much higher electrical conductivity
+of the CoPc network compared with VOPc.<sup><xref ref-type="bibr" rid="ref52">52</xref>&#x02212;<xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>Finally, the addition
+of silk fibroin (SF) in the electrolyte brings
+an impressive increase in specific capacity to 1372 mAh g<sub>S</sub><sup>&#x02013;1</sup> at first discharge (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a) and the best cycling performance of all
+cells (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b).
+However, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S4</ext-link> shows that the presence
+of 0.8 wt % SF in the electrolyte increases the cell resistance, which
+would somehow limit cell performance at high C rates. This increase
+in cell resistance in the presence of SF is confirmed by another experimental
+study of Li&#x02013;S cells.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup></p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S5</ext-link> presents GDC plots in the
+100th cycle of a cycling schedule as in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a for each of the above cells and demonstrates
+that the cell with the BNG interlayer on the cathode and 0.8 wt %
+SF in the electrolyte maintains the highest discharge capacity at
+920 mAh g<sub>S</sub><sup>&#x02013;1</sup>, followed by the cell with
+just the BNG interlayer on the 45 wt % S-KB-10 wt % PEDOT:PSS cathode
+that maintains 635 mAh g<sub>S</sub><sup>&#x02013;1</sup>. With regard
+to cell overpotential, the potential difference between charge and
+discharge at capacity midpoint is consistently low for the Li&#x02013;S
+cell with 0.8 wt % SF in the electrolyte (1st cycle in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a and 100th cycle in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S5</ext-link>) at about 0.2 V. It seems that despite
+the expected electrocatalyst role for the VOPc additives in the catholyte,
+as predicted from the Gibb&#x02019;s free energy plots and activation
+energies predicted by DFT simulations,<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> this is not translated to overall overpotential reduction (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">S5</ext-link>). This is attributed to the higher kinetic
+overpotential<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> because of charge transfer
+limitations across the VOPc network in the mesopores due to the significantly
+lower conductivity of these semiconductors<sup><xref ref-type="bibr" rid="ref52">52</xref>&#x02212;<xref ref-type="bibr" rid="ref54">54</xref></sup> compared to
+that of the carbon host. Additionally, these semiconductor materials
+add their own open circuit voltage, <italic>V</italic><sub>oc</sub>, reportedly directly related to their first reduction potential,<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> which is 0.6 V vs. RHE for CoPc<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> while the <italic>V</italic><sub>oc</sub> determined from
+the HOMO&#x02013;LUMO energy gap<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> is 1.94
+V for CoPc<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> and 0.9 V for VOPc.<sup><xref ref-type="bibr" rid="ref69">69</xref></sup></p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S6</ext-link> presents
+SEM images of the
+as-fabricated cathode with sprayed BNG on the cathode surface, where
+exfoliated BNG flakes of 2&#x02013;5 &#x003bc;m lateral dimensions can
+be observed to have formed a layer of one or two flake depths, sometimes
+overlapping at the edges. The EDX element maps of B and N in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figures S6</ext-link> and <xref rid="fig3" ref-type="fig">3</xref>c present
+a good coverage of the cathode surface coinciding with the C element
+map. The S element map is more expanded, representing not just sulfur
+on the cathode surface but also through a few microns depth. The postmortem
+EDX element maps in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, after the full cycling schedule in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b, present S and C deposits from the LiTFSI
+salt, as for the cell with the 45 wt % S-KB-10 wt % PEDOT:PSS cathode
+in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d, S fully
+distributed in low intensity due to its attachment to the VOPc in
+the catholyte in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e, and in high intensity well attached to the SF electrolyte additive
+in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>f.</p><p><xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> presents
+the full high-resolution XPS spectra of the anodes of the different
+Li&#x02013;S cells postmortem after their cycling schedule. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a with the plain
+45 wt % S-KB cathode and 10 wt % PEDOT:PSS binder, shows that an SEI
+(solid-electrolyte interface) was formed on the Li anode consisting
+of LiF, Li<sub>2</sub>CO<sub>3</sub>, Li<sub>2</sub>N<sub>2</sub>O<sub>2</sub>, Li<sub>3</sub>N, LiOH, and Li<sub>2</sub>O. It also indicates
+the presence of LiTFSI electrolyte salt. Additionally, the S 2p spectrum
+exhibits a high-intensity peak indicating the presence of Li<sub>2</sub>S and smaller peaks indicating the presence of Li<sub>2</sub>S<sub>2</sub> and Li<sub>2</sub>S<sub>4</sub> that migrated and precipitated
+at the anode. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b with a 45 wt % S-KB cathode (and 10 wt % PEDOT:PSS binder) and
+BNG interlayer on the cathode surface, shows that a thinner SEI was
+formed on the Li anode than in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, consisting of LiF (but half the amount encountered
+in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a), Li<sub>2</sub>N<sub>2</sub>O<sub>2</sub> and LiOH. The S 2p spectrum indicates
+the presence of Li<sub>2</sub>S<sub>2</sub> and Li<sub>2</sub>S but
+in smaller amounts than the total amount of sulfides in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, confirming that the BNG
+interlayer reduces the migration of sulfides to the anode. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c with a 45 wt %
+S-KB cathode (and 10 wt % PEDOT:PSS binder), BNG interlayer on the
+cathode surface, and VOPc in the catholyte, displays evidence of sp<sup>2</sup> carbon in the C 1s spectrum of the anode, which originates
+from VOPc, indicating that VOPc has traveled from the catholyte, traversed
+the separator, and reached the anode surface. The N 1s spectrum also
+displays a peak related to the &#x02212;C&#x02014;N=C&#x02014;
+part of VOPc. There is a thin SEI on the Li anode surface consisting
+of LiF (but less than in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a), Li<sub>2</sub>N<sub>2</sub>O<sub>2</sub> and LiOH.
+The S 2p spectrum reveals some Li<sub>2</sub>S on the anode but at
+a smaller percentage than the sulfides on the anode in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b. This means that the VOPc
+added in the catholyte traps even more sulfides, although some VOPc
+has also migrated to the anode. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d with a 45 wt % S-KB cathode (and 10 wt % PEDOT:PSS
+binder), BNG interlayer on the cathode surface, and silk fibroin (SF)
+in the electrolyte, displays evidence of an SF layer coating the anode
+as seen from additional SF-related peaks<sup><xref ref-type="bibr" rid="ref70">70</xref>,<xref ref-type="bibr" rid="ref71">71</xref></sup> in the N 1s, O 1s, and S 2p spectra, where the latter also divulges
+the presence of cysteine in SF.<sup><xref ref-type="bibr" rid="ref72">72</xref>,<xref ref-type="bibr" rid="ref73">73</xref></sup> Apart from the expected
+presence of LiTFSI electrolyte salt, there is still the presence of
+LiF on the Li anode but no other byproducts of parasitic reactions
+as the multi-component SEI formed on the anode in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a and even <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b,c. The S 2p spectrum displays
+a peak associated with Li<sub>2</sub>S<sub>2</sub> that also contains
+a subpeak associated with the sulfur of cysteine (Cys) present in
+SF.<sup><xref ref-type="bibr" rid="ref72">72</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Post-mortem high-resolution XPS spectra
+of the anodes of the following
+Li&#x02013;S cells: (a) Cell with a cathode coating of 45 wt % S in
+KB and 10 wt % PEDOT:PSS binder. (b) Cell with a cathode coating of
+45 wt % S in KB and 10 wt % PEDOT:PSS binder, with a BNG interlayer
+sprayed on the cathode surface. (c) Cell with a cathode coating of
+45 wt % S in KB and 10 wt % PEDOT:PSS binder with a BNG interlayer
+sprayed on the cathode surface, and 1% VOPc added in the catholyte.
+(d) Cell with cathode coating of 45 wt % S in KB with 10 wt % PEDOT:PSS
+binder and BNG interlayer sprayed on the cathode surface, as well
+as 0.8 wt % SF (silk fibroin) in the electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_0004" id="gr6" position="float"/></fig><p>The postmortem SEM images of the anode of the tested
+cells in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S7</ext-link> show clear evidence
+of bundles of ribbons
+and dendrites for the cells in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S6a&#x02013;d. Figure S6e</ext-link> demonstrates that the silk fibroin has smoothed
+the surface roughness significantly, showing that it can suppress
+the aggressive growth of dendrites.</p><p>A higher sulfur concentration
+of 55 wt % in the cathode leads to
+a similar specific capacity at first discharge of 930 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the cell with the BNG interlayer on the
+cathode (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S9a</ext-link>) compared to the corresponding
+cell with 45 wt % S (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a) but it falls to 800 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the cell with the BNG interlayer on the cathode and VOPc in
+the catholyte compared to 978 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the corresponding cell with 45 wt % S at first discharge. However,
+after the cycling schedule presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S9b</ext-link>, the discharge of the 100th cycle presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S9c</ext-link> yields a capacity of only 233 mAh
+g<sub>S</sub><sup>&#x02013;1</sup> for the 55 wt % cell with the BNG
+interlayer on the cathode and 585 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the cell with the BNG interlayer on the cathode and the VOPc
+in the catholyte compared with 633 mAh g<sub>S</sub><sup>&#x02013;1</sup> and 284 mAh g<sub>S</sub><sup>&#x02013;1</sup>, respectively, for
+the corresponding 45 wt % S cells (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S5</ext-link>).</p></sec><sec id="sec3.2"><label>3.2</label><title>Multiscale Simulations</title><p>Simulations
+of the first GDC cycle were conducted employing the digital twin based
+on the multipore continuum model<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> to elucidate
+the physicochemical processes controlling the performance of the major
+and best-performing types of the Li&#x02013;S cells explored in this
+study. The predicted GDC curves for the first GDC cycle are presented
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S13a</ext-link> also in comparison with
+the corresponding experimental data in the same plot. The good agreement
+between predictions and experimental data encourages the next step
+of the analysis of the predicted concentration distributions of sulfur
+and sulfides through the cell in order to identify the key phenomena
+governing the Li&#x02013;S cell capacity and energy density. Taking
+into account also the predicted distribution of species concentrations
+in our recent study<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> for a Li&#x02013;S
+cell with a cathode of 45.4 wt % S-KB-10 wt % PVDF, the replacement
+of the PVDF with the PEDOT:PSS binder in the cathode has brought a
+big drop in the migration of all sulfides and sulfur to the anode,
+as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S14</ext-link>, due to the strong
+adsorption of these species by the PEDOT:PSS coating the walls of
+meso and macropores in the cathode. The pseudocapacitance of PEDOT:PSS
+also extends the specific capacitance by 7&#x02013;9% due to the surface
+redox effect of PEDOT:PSS with respect to the Li<sup>+</sup> ions,
+evident below 1.8 V in the discharge curve at 0.05 C. Significant
+internal migration of the soluble sulfides is still predicted in the
+cathode, from the current collector to the separator, although it
+is greatly reduced from the extent of migration predicted for the
+Li&#x02013;S cell with PVDF binder in the cathode.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The postmortem photo of the anode after the full cycling
+schedule for the cell with the PEDOT:PSS binder in the cathode, as
+inserted in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S14</ext-link> (also depicted in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S10</ext-link>) displays yellowish and dark brown
+areas on the anode surface, respectively indicating the presence of
+sulfur and high-order sulfides, such as Li<sub>2</sub>S<sub>8</sub> and Li<sub>2</sub>S<sub>6</sub>.<sup><xref ref-type="bibr" rid="ref57">57</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S14</ext-link> exhibits a very small amount of Li<sub>2</sub>S<sub>6</sub> on the anode surface, 7.4 mol m<sup>&#x02013;3</sup>, after the first discharge, that may accumulate and rise after 100
+cycles at different C-rates, which would explain the presence of the
+dark brown deposit on the anode surface in the postmortem photo.</p><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> presents
+the predicted contours and profiles of species concentrations after
+the first discharge of the Li&#x02013;S cell with a cathode of 45.4
+wt % S-KB-10 wt % PEDOT:PSS sprayed with a thin BNG interlayer. In
+comparison with <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S14</ext-link>, it can be seen
+that the BNG interlayer coating the cathode surface has substantially
+slowed the transport of the high-order sulfides, Li<sub>2</sub>S<sub>8</sub> and Li<sub>2</sub>S<sub>6</sub>, through the cathode from
+the current collector to the cathode surface, which prolongs the redox
+reactions and extends the specific capacity of the cathode.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Predicted concentrations
+of the dissolved sulfur and sulfides in
+the liquid electrolyte as a function of specific capacity during the
+first discharge of the Li&#x02013;S battery cell with cathode of 45
+wt % S-45.4 wt % KB&#x02013;10 wt % PEDOT:PSS coating and a thin BNG
+interlayer on the cathode surface: contour plots in cathode as a function
+of pore size for two different locations (by the current collector
+and in the BNG interlayer) and concentration profiles at anode, together
+with a postmortem photo of the anode after the full cycling schedule.
+The maximum concentration limit in each plot is set to the saturation
+concentration of that species in the electrolyte solution.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_0005" id="gr7" position="float"/></fig><p>Furthermore, in order to optimize the fitting of
+the predicted
+GDC curves with the experimental data, the standard potential of the
+last two conversion reactions was increased to U<sup>o</sup><sub>Li2S4&#x02192;Li2S2</sub> = 2.03 V and U<sup>o</sup><sub>Li2S2&#x02192;Li2S</sub> = 1.96 V
+(from U<sup>o</sup><sub>Li2S4&#x02192;Li2S2</sub> = 1.87 V and U<sup>o</sup><sub>Li2S2&#x02192;Li2S</sub> = 1.86 V in the rest of the KB-based
+cathode). Although the predicted migration of sulfur and sulfides
+Li<sub>2</sub>S<sub>8</sub>, Li<sub>2</sub>S<sub>6</sub>, and Li<sub>2</sub>S<sub>4</sub> is kept to a minimum (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>), the amount of Li<sub>2</sub>S<sub>2</sub> on the anode surface has increased, which is attributed to the larger
+amount of Li<sub>2</sub>S<sub>2</sub> produced in the cathode and
+BNG interlayer in this higher specific capacity cell compared to the
+cell without a BNG interlayer. This is confirmed by the light brown-yellowish
+deposit on the anode surface depicted in the postmortem photo inserted
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>, indicating
+the presence of Li<sub>2</sub>S<sub>2</sub> and S<sub>8</sub>.</p><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> presents
+the predicted contours and profiles of species concentrations after
+the first discharge of the Li&#x02013;S cell with a cathode of 45.4
+wt % S-KB-10 wt % PEDOT:PSS sprayed with a thin BNG interlayer and
+also with 0.8 wt % SF in the liquid electrolyte. In comparison with <xref rid="fig5" ref-type="fig">Figures <xref rid="fig5" ref-type="fig">5</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">S14</ext-link>, the predicted migration of all species is
+reduced both through the cathode and to the anode, which explains
+the highest specific capacity of this type of cell as it allows the
+species to react up to the highest degree <italic>in situ</italic> until the expanded species volume reaches the pore volume at the
+end of discharge. This is attributed to the local adsorption of the
+sulfur atom-containing species by the silk fibroin molecules present
+in the pores. These predictions of low sulfur and sulfide migration
+to the anode are confirmed by the postmortem photo of the anode shown
+in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>, which
+shows a clear anode without any yellow or brown discoloration from
+sulfur or sulfide deposits.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Predicted concentrations of the dissolved sulfur
+and sulfides in
+the liquid electrolyte as a function of specific capacity during the
+first discharge of the Li&#x02013;S battery cell with cathode of 45
+wt % S-45.4 wt % KB&#x02013;10 wt % PEDOT:PSS coating and a thin BNG
+interlayer on the cathode surface as well as 0.8 wt % SF in the electrolyte:
+contour plots in cathode as a function of pore size for two different
+locations (by the current collector and in the BNG interlayer) and
+concentration profiles at anode, together with a postmortem photo
+of the anode after the full cycling schedule. The maximum concentration
+limit in each plot is set to the saturation concentration of that
+species in the electrolyte solution.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_0006" id="gr8" position="float"/></fig><p>A question arose with regard to the physicochemical
+model about
+which pore sizes can accommodate the SF molecule. Molecular modeling
+of the SF structure solvated in DOL:DME 1:1 v/v yielded an SF diameter
+of 3 nm, the diameter of the first layer of coordinated DOL solvent
+being 4 nm, and the diameter of the first layer of coordinated DME
+being 8 nm.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> As there was some uncertainty
+for the present study about whether the SF structure could deform
+to be inserted in pores smaller than 3 nm, a parametric study of multipore
+continuum model-based simulations of the first discharge was conducted
+with SF in pore sizes d<sub>p</sub> &#x0003e; 1 nm, d<sub>p</sub> &#x0003e;
+1.5 nm,
+d<sub>p</sub> &#x0003e; 2 nm, or d<sub>p</sub> &#x0003e; 3 nm. The predicted
+first
+discharge curves at 0.05 C are presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">Figure S13b</ext-link> yielding specific capacities of 49, 59, 1010, and 1270
+mAh g<sub>S</sub><sup>&#x02013;1</sup>, respectively, with the last
+case study of SF in d<sub>p</sub> &#x0003e; 3 nm fitting the experimental
+data best. It seems that if SF is present in all pore sizes, its adsorption
+of locally produced sulfides does not allow any interpore transport,
+so the volume expansion generated from the early production of Li<sub>2</sub>S<sub>8</sub> quickly fills the micropores fully with solids
+without the presence of any liquid electrolyte. Given that the redox
+reaction chain for electrolyte 1 M LiTFSI in DOL/DME is assumed to
+take place only in the liquid phase, this stops any further reaction
+and any further transport of Li<sup>+</sup> ions through the pores
+of the KB particle wall to the hollow KB particle core that contains
+the main part of sulfur, which leads to the rapid depletion of Li<sup>+</sup> ion supply and ceasing of the redox reaction chain. If the
+model allows SF in meso- and macropores of d<sub>p</sub> &#x0003e; 3 nm
+(where
+the size of the SF structure is in fact 3 nm),<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> it seems that the sulfide transport allowed through the
+micropores accommodates the expansion of the active cathode material
+over the whole pore size distribution of the cathode host and the
+continuous presence of the liquid electrolyte in many of these pores,
+maximizing the extent of redox reactions and the specific capacity.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>A multistep strategy was
+devised and tested to optimize the performance
+of Li&#x02013;S batteries. The evaluation was based on experimental
+studies of small Li&#x02013;S cells and multipore continuum model-based
+simulations with key properties supplied from MD or DFT simulations.
+Predicted GDC curves for the different types of Li&#x02013;S cells
+explored in this study exhibited very good agreement with experimental
+data, contributing to the validation of our numerical model in the
+presence of BNG interlayer, heterogeneous and mobile promoters, and
+traps of soluble sulfides.</p><p>The use of a hollow conductive particle-based
+cathode host was
+the basis of the strategy, together with the cathode coating binder
+PEDOT:PSS. Ketjenblack EC-600JD was selected as a commercially available
+conductive hollow particle powder, which can accommodate up to 45
+wt % sulfur in the cathode coating (including 10 wt % binder) impregnated
+in the hollow particle core and its ultimate expansion upon full conversion
+to Li<sub>2</sub>S. This cathode was tested with a low E/S ratio of
+8&#x02013;11 &#x003bc;L mg<sub>S</sub><sup>&#x02013;1</sup> and reached
+772 mAh g<sub>S</sub><sup>&#x02013;1</sup> at first discharge, falling
+to 193 mAh g<sub>S</sub><sup>&#x02013;1</sup> at the 100th discharge
+at 0.05 C after a schedule of cycles at different C-rates. Multipore
+continuum model-based simulations showed that PEDOT:PSS contributed
+with its pseudocapacitance by 7&#x02013;9% to the overall specific
+capacity of the battery below 1.8 V, which was confirmed by the shape
+of the experimental discharge curve. Furthermore, the hollow particle
+host and the PEDOT:PSS binder combined their physical constraining
+action and strong adsorption energy, respectively, to slow down the
+sulfur and sulfides migration to the anode. However, a low amount
+of sulfur, Li<sub>2</sub>S<sub>8</sub> and Li<sub>2</sub>S<sub>6</sub> sulfides were still predicted at the anode surface at the end of
+the first discharge that would accumulate with cycling, deteriorating
+the battery performance, which was also confirmed by the yellowish
+and dark brown areas on the anode surface from the postmortem anode
+photo after the full cycling schedule of this study.</p><p>The second
+successful strategy step was a sprayed thin BNG layer
+on the cathode surface, with an estimated thickness of about 3 &#x003bc;m
+from SEM images. This increased the specific capacity to 1010 mAh
+g<sub>S</sub><sup>&#x02013;1</sup> at the first discharge, falling
+to 633 mAh g<sub>S</sub><sup>&#x02013;1</sup> at the 100th discharge
+after a cycling schedule at different C-rates. The higher specific
+capacity and better cyclability of this type of Li&#x02013;S cell were
+attributed to the further retention of sulfur and sulfides by the
+increased tortuosity of the BNG platelets and the adsorption energy
+of the B&#x02013;N- groups, as per the predictions of the multipore
+continuum model-based simulation of the first GDC cycle. This allowed
+only a small amount of sulfur and Li<sub>2</sub>S<sub>2</sub> to migrate
+to the anode, which was confirmed by the light brown-yellowish area
+on the anode surface from the postmortem anode photo after the full
+cycling schedule of this study. The novel BNG interlayer on the cathode
+surface proposed in this work has the advantage of being in direct
+contact with the conductive cathode, which ensures excellent electron
+transfer to any sulfur and sulfides trapped in the BNG interlayer,
+retaining them active. In fact, they react under favorable conditions
+in the presence of the B&#x02013;N&#x02013; electrocatalyst groups.
+Li&#x02013;S cells with a sprayed BNG interlayer on the separator or
+on both the cathode surface and the separator exhibited inferior performance
+due to the loss of any sulfur and sulfides trapped at the separator,
+as they did not receive electrons from the cathode and ceased any
+participation in the redox reaction chain.</p><p>The final successful
+strategy step was the addition of 0.8 wt %
+silk fibroin in the liquid electrolyte, which yielded a specific Li&#x02013;S
+cell capacity of 1372 mAh g<sub>S</sub><sup>&#x02013;1</sup> at first
+discharge and 920 mAh g<sub>S</sub><sup>&#x02013;1</sup> at the 100th
+discharge after a cycling schedule at different C-rates. A multipore
+continuum model-based simulation of the first cycle predicted further
+reduction of the sulfide migration to the anode due to their adsorption
+by the SF additive present in the electrolyte in pores greater than
+3 nm, which was confirmed by the clear anode surface from the postmortem
+anode photo after the full cycling schedule. The protective effect
+of SF in the reduction of dendrites on the anode was also noted via
+postmortem SEM imaging of the anode. The main conclusion from the
+step-by-step strategy devised in this study was that the reduction
+of sulfur and sulfides&#x02019; migration to the anode and the retention
+of their active character in the redox reaction chain played a key
+role in maximizing the specific capacity and cyclability of Li&#x02013;S
+cells with liquid electrolyte. The multipore continuum model-based
+simulations demonstrated that allowing a small extent of interpore
+transport was beneficial in distributing the sulfides in order to
+allow volume expansion, especially in the micropores.</p><p>A step
+of adding VOPc or CoPc in the catholyte to act as an adsorbent
+of sulfur and sulfides in the meso- and macropores and as an electrocatalyst
+of the redox reactions in the cathode did not always yield the expected
+improvement in Li&#x02013;S battery performance and cyclability. This
+failure was attributed to slow charge transfer along the VOPc network
+due to the relatively low conductivity of the VOPc semiconductor network,
+while the higher conductivity CoPc migrating to the anode easily caused
+short-circuiting.</p><p>Higher sulfur content than 45 wt % S in the
+cathode was realized
+by heat impregnating 45 wt % S and adding the rest of the sulfur in
+the form of Li<sub>2</sub>S<sub>8</sub> via the solution/evaporation
+method, so it may fill the interparticle voids, allowing for expansion
+upon ultimate conversion to Li<sub>2</sub>S. Li&#x02013;S cells with
+55 to 70 wt % S, KB cathode host, and PEDOT:PSS binder started with
+lower specific capacity in the first GDC cycle than the 45 wt % S
+cell, which increased with cycling, reaching a maximum of 408, 329,
+and 211 mAh g<sub>S</sub><sup>&#x02013;1</sup> in the 100th cycle for
+the cells with the 60, 55, and 70 wt % S cathode, respectively. Testing
+cells with 55 wt % S in the cathode, the thin BNG interlayer on the
+cathode yielded 932 and 233 mAh g<sub>S</sub><sup>&#x02013;1</sup> in
+the first and 100th discharge, respectively. A cell with 55 wt % S
+in the cathode, a thin BNG interlayer on the cathode, and 1 wt % VOPc
+in the catholyte yielded 805 and 586 mAh g<sub>S</sub><sup>&#x02013;1</sup> in the first and 100th discharge, respectively, demonstrating the
+beneficial role of the VOPc network in the meso- and macropores in
+this case.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsaem.4c02457?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsaem.4c02457</ext-link>.<list id="silist1" list-type="simple"><list-item><p>Includes Figures S1&#x02013;S14. Additional experimental
+details and data on Li&#x02013;S cells based on Nanomyte cathode. Additional
+data of ESR variation with cycling, effect of E/S ratio, GDC curves
+from the 100th cycle, SEM images of anode of all cells, additional
+SEM/EDX images of cathode, example of XPS analysis, experimental data
+and characterization of cells with 55 wt % S in cathode. Post-mortem
+photos of cell components of all tested cell types. Results of MD
+simulations with regards to SF and its interactions with sulfides.
+Predictions of GDC curves versus experimental data (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02457/suppl_file/ae4c02457_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02457_si_001.pdf"><caption><p>ae4c02457_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p>The manuscript
+was written with contributions from all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="COI-statement" id="notes3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This study was initiated under the umbrella of the
+LiSTAR project (FIRG014), funded by the Faraday Institute, UKRI grant
+number EP/S003053/1.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>CoPc</term><def><p>cobalt
+phthalocyanine</p></def></def-item><def-item><term>VOPc</term><def><p>vanadyl phthalocyanine</p></def></def-item><def-item><term>PEDOT</term><def><p>PSS: poly(3,4-ethylenedioxythiophene):polystyrenesulfonate</p></def></def-item><def-item><term>PVDF</term><def><p>polyvinylidene
+fluoride</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Bates</surname><given-names>J.</given-names></name>; <name><surname>Markoulidis</surname><given-names>F.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Laudone</surname><given-names>G. M.</given-names></name>
+<article-title>Design of porous
+carbons for supercapacitor applications for different organic solvent-electrolytes</article-title>. <source>C</source>
+<year>2021</year>, <volume>7</volume> (<issue>1</issue>), <fpage>15</fpage><pub-id pub-id-type="doi">10.3390/c7010015</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Shang</surname><given-names>Z.</given-names></name>; <name><surname>An</surname><given-names>X.</given-names></name>; <name><surname>Nie</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>N.</given-names></name>; <name><surname>Cao</surname><given-names>H.</given-names></name>; <name><surname>Cheng</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Ni</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>L.</given-names></name>
+<article-title>Design of B/N Co-doped micro/meso
+porous carbon electrodes from CNF/BNNS/ZIF-8 nanocomposites for advanced
+supercapacitors</article-title>. <source>J. Bioresour. Bioprod.</source>
+<year>2023</year>, <volume>8</volume>, <fpage>292</fpage>&#x02013;<lpage>305</lpage>. <pub-id pub-id-type="doi">10.1016/j.jobab.2023.05.002</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Tian</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>; <name><surname>Duan</surname><given-names>G.</given-names></name>; <name><surname>Jian</surname><given-names>S.</given-names></name>; <name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Jiang</surname><given-names>S.</given-names></name>
+<article-title>In-situ activation
+of resorcinol-furfural
+resin derived hierarchical porous carbon for supercapacitors and zinc-ion
+hybrid capacitors</article-title>. <source>J. Energy Storage</source>
+<year>2024</year>, <volume>85</volume>, <fpage>111130</fpage><pub-id pub-id-type="doi">10.1016/j.est.2024.111130</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Baboo</surname><given-names>J. P.</given-names></name>; <name><surname>Jakubczyk</surname><given-names>E.</given-names></name>; <name><surname>Yatoo</surname><given-names>M. A.</given-names></name>; <name><surname>Phillips</surname><given-names>M.</given-names></name>; <name><surname>Grabe</surname><given-names>S.</given-names></name>; <name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Hinder</surname><given-names>S. J.</given-names></name>; <name><surname>Watts</surname><given-names>J. F.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>Investigating
+battery-supercapacitor material hybrid configurations in energy storage
+device cycling at 0.1 to 10C rate</article-title>. <source>J. Power
+Sources</source>
+<year>2023</year>, <volume>561</volume>, <fpage>232762</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2023.232762</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Duan</surname><given-names>G.</given-names></name>; <name><surname>Liang</surname><given-names>Z.</given-names></name>; <name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>; <name><surname>Jiang</surname><given-names>S.</given-names></name>
+<article-title>Design of cyclic carbonate-based
+electrolytes for HC anodes towards
+improved low-temperature performance in lithium-ion batteries system</article-title>. <source>Fuel</source>
+<year>2025</year>, <volume>379</volume>, <fpage>133048</fpage><pub-id pub-id-type="doi">10.1016/j.fuel.2024.133048</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Du</surname><given-names>R.</given-names></name>; <name><surname>Tang</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>
+<article-title>Effect of Ni<sup>2+</sup> on lithium-ion diffusion in layered LiNi<sub>1&#x02013;x&#x02013;y</sub>Mn<sub>x</sub>Co<sub>y</sub>O<sub>2</sub> materials</article-title>. <source>Crystals</source>
+<year>2021</year>, <volume>11</volume>, <fpage>465</fpage><pub-id pub-id-type="doi">10.3390/cryst11050465</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Khan</surname><given-names>F. M. N. U.</given-names></name>; <name><surname>Rasul</surname><given-names>M. G.</given-names></name>; <name><surname>Sayem</surname><given-names>A. S. M.</given-names></name>; <name><surname>Mandal</surname><given-names>N.</given-names></name>
+<article-title>Maximizing energy density
+of lithium-ion batteries for electric vehicles: A critical review</article-title>. <source>Energy Rep.</source>
+<year>2023</year>, <volume>9</volume>, <fpage>11</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1016/j.egyr.2023.08.069</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Wen</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Xiang</surname><given-names>K.</given-names></name>; <name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>
+<article-title>High-performance
+monoclinic WO3 nanospheres with the novel NH4+ diffusion behaviors
+for aqueous ammonium-ion batteries</article-title>. <source>Chem. Eng.
+J.</source>
+<year>2023</year>, <volume>458</volume>, <fpage>141381</fpage><pub-id pub-id-type="doi">10.1016/j.cej.2023.141381</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Xiang</surname><given-names>K.</given-names></name>; <name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Deng</surname><given-names>W.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>
+<article-title>investigations on tunnel-structure
+MnO2 for utilization as a high-voltage
+and long-life cathode material in aqueous ammonium-ion and hybrid-ion
+batteries</article-title>. <source>Small</source>
+<year>2024</year>, <volume>20</volume>, <fpage>2308741</fpage><pub-id pub-id-type="doi">10.1002/smll.202308741</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Xiankai</surname><given-names>F.</given-names></name>; <name><surname>Kaixiong</surname><given-names>X.</given-names></name>; <name><surname>Wei</surname><given-names>Z.</given-names></name>; <name><surname>Weina</surname><given-names>D.</given-names></name>; <name><surname>Hai</surname><given-names>Z.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>; <name><surname>Han</surname><given-names>C.</given-names></name>
+<article-title>A novel improvement
+strategy and
+a comprehensive mechanism insight for &#x003b1;-MnO2 energy storage
+in rechargeable aqueous zinc-ion batteries</article-title>. <source>Carbon Energy</source>
+<year>2024</year>, <volume>6</volume>, <elocation-id>e536</elocation-id><pub-id pub-id-type="doi">10.1002/cey2.536</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Ahn</surname><given-names>S.</given-names></name>; <name><surname>Zor</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Lagnoni</surname><given-names>M.</given-names></name>; <name><surname>Dewar</surname><given-names>D.</given-names></name>; <name><surname>Nimmo</surname><given-names>T.</given-names></name>; <name><surname>Chau</surname><given-names>C.</given-names></name>; <name><surname>Jenkins</surname><given-names>M.</given-names></name>; <name><surname>Kibler</surname><given-names>A. J.</given-names></name>; <name><surname>Pateman</surname><given-names>A.</given-names></name>; <name><surname>Rees</surname><given-names>G. J.</given-names></name>; <name><surname>Gao</surname><given-names>X.</given-names></name>; <name><surname>Adamson</surname><given-names>P.</given-names></name>; <name><surname>Grobert</surname><given-names>N.</given-names></name>; <name><surname>Bertei</surname><given-names>A.</given-names></name>; <name><surname>Johnson</surname><given-names>L. R.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Why charging Li&#x02013;air
+batteries with current low-voltage mediators is slow and singlet oxygen
+does not explain degradation</article-title>. <source>Nat. Chem.</source>
+<year>2023</year>, <volume>15</volume>, <fpage>1022</fpage>&#x02013;<lpage>1029</lpage>. <pub-id pub-id-type="doi">10.1038/s41557-023-01203-3</pub-id>.<pub-id pub-id-type="pmid">37264102</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Zeng</surname><given-names>S.</given-names></name>; <name><surname>Duan</surname><given-names>G.</given-names></name>; <name><surname>Yu</surname><given-names>R.</given-names></name>; <name><surname>Qin</surname><given-names>Q.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>; <name><surname>Jiang</surname><given-names>S.</given-names></name>; <name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Xia</surname><given-names>B. X.</given-names></name>
+<article-title>Microstructure and bionic engineering of triphase reaction
+interface for zinc-air batteries</article-title>. <source>Prog. Mater.
+Sci.</source>
+<year>2025</year>, <volume>147</volume>, <fpage>101356</fpage><pub-id pub-id-type="doi">10.1016/j.pmatsci.2024.101356</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Qasem</surname><given-names>N. A. A.</given-names></name>; <name><surname>Abdulrahman</surname><given-names>G. A. Q.</given-names></name>
+<article-title>A recent
+comprehensive review of
+fuel cells: History, types, and applications</article-title>. <source>Int. J. Energy Res.</source>
+<year>2024</year>, <volume>2024</volume>, <fpage>7271748</fpage><pub-id pub-id-type="doi">10.1155/2024/7271748</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Bhargav</surname><given-names>A.</given-names></name>; <name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Gupta</surname><given-names>A.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Lithium-sulfur batteries: Attaining
+the critical metrics</article-title>. <source>Joule</source>
+<year>2020</year>, <volume>4</volume>, <fpage>285</fpage>&#x02013;<lpage>291</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2020.01.001</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Sami</surname><given-names>I.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Kumar</surname><given-names>R. V.</given-names></name>; <name><surname>Chhowalla</surname><given-names>M.</given-names></name>
+<article-title>Lithiated metallic molybdenum disulfide
+nanosheets
+for high-performance lithium&#x02013;sulfur batteries</article-title>. <source>Nat. Energy</source>
+<year>2023</year>, <volume>8</volume>, <fpage>84</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-022-01175-7</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Moiseev</surname><given-names>I. A.</given-names></name>; <name><surname>Savina</surname><given-names>A. A.</given-names></name>; <name><surname>Pavlova</surname><given-names>A. D.</given-names></name>; <name><surname>Abakumova</surname><given-names>T. A.</given-names></name>; <name><surname>Gorshkov</surname><given-names>V. S.</given-names></name>; <name><surname>Pazhetnova</surname><given-names>E. M.</given-names></name>; <name><surname>Abakumov</surname><given-names>A. M.</given-names></name>
+<article-title>Single crystal Ni-rich
+NMC cathode materials for lithium-ion batteries with ultra-high volumetric
+energy density</article-title>. <source>Energy Adv.</source>
+<year>2022</year>, <volume>1</volume>, <fpage>677</fpage>&#x02013;<lpage>681</lpage>. <pub-id pub-id-type="doi">10.1039/D2YA00211F</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Baboo</surname><given-names>J. P.</given-names></name>; <name><surname>Yatoo</surname><given-names>M. A.</given-names></name>; <name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Hojaji Najafabadi</surname><given-names>E.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Slade</surname><given-names>R.</given-names></name>; <name><surname>Hinder</surname><given-names>S. J.</given-names></name>; <name><surname>Watts</surname><given-names>J. F.</given-names></name>
+<article-title>Exploring
+different binders for a LiFePO<sub>4</sub> battery, battery testing,
+modeling and simulations</article-title>. <source>Energies</source>
+<year>2022</year>, <volume>15</volume> (<issue>7</issue>), <fpage>2332</fpage><pub-id pub-id-type="doi">10.3390/en15072332</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Lei</surname><given-names>C.</given-names></name>; <name><surname>Fields</surname><given-names>R.</given-names></name>; <name><surname>Wilson</surname><given-names>P.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Amini</surname><given-names>N.</given-names></name>; <name><surname>Tennison</surname><given-names>S.</given-names></name>; <name><surname>Perry</surname><given-names>J.</given-names></name>; <name><surname>Gosso</surname><given-names>M.</given-names></name>; <name><surname>Martorana</surname><given-names>B.</given-names></name>
+<article-title>Development
+and evaluation of a composite supercapacitor-based 12 V transient
+start&#x02013;stop power system for vehicles: Modelling, design and
+fabrication scaling up</article-title>. <source>Proc. Inst. Mech. Eng.,
+Part A</source>
+<year>2021</year>, <volume>235</volume> (<issue>4</issue>), <fpage>914</fpage>&#x02013;<lpage>927</lpage>. <pub-id pub-id-type="doi">10.1177/0957650920930166</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Fields</surname><given-names>R.</given-names></name>; <name><surname>Lei</surname><given-names>C.</given-names></name>; <name><surname>Markoulidis</surname><given-names>F.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>The composite supercapacitor</article-title>. <source>Energy Technol.</source>
+<year>2016</year>, <volume>4</volume> (<issue>4</issue>), <fpage>517</fpage>&#x02013;<lpage>525</lpage>. <pub-id pub-id-type="doi">10.1002/ente.201500328</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Shapter</surname><given-names>J. G.</given-names></name>; <name><surname>Cheng</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>G.</given-names></name>; <name><surname>Gao</surname><given-names>G.</given-names></name>
+<article-title>Recent progress
+in sulfur cathodes for application to lithium&#x02013;sulfur batteries</article-title>. <source>Particuology</source>
+<year>2021</year>, <volume>58</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1016/j.partic.2021.01.008</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Grabe</surname><given-names>S.</given-names></name>; <name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Tennison</surname><given-names>S.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>A physicochemical
+model-based digital twin of Li&#x02013;S batteries to elucidate the
+effects of cathode microstructure and evaluate different microstructures</article-title>. <source>J. Power Sources</source>
+<year>2023</year>, <volume>580</volume>, <fpage>233470</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2023.233470</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Grabe</surname><given-names>S.</given-names></name>; <name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Babar</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Tennison</surname><given-names>S.</given-names></name>; <name><surname>Watts</surname><given-names>J. F.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>Investigation and determination of
+electrochemical reaction kinetics in lithium-sulfur batteries with
+electrolyte LiTFSI in DOL/DME</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2023</year>, <volume>170</volume> (<issue>2</issue>), <fpage>020527</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/acbca6</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Grabe</surname><given-names>S.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>The challenge
+of electrolyte impregnation
+in the fabrication and operation of Li-ion and Li&#x02013;S batteries</article-title>. <source>Batteries Supercaps</source>
+<year>2024</year>, <volume>7</volume> (<issue>3</issue>), <elocation-id>e202300327</elocation-id><pub-id pub-id-type="doi">10.1002/batt.202300327</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Markoulidis</surname><given-names>F.</given-names></name>; <name><surname>Bates</surname><given-names>J.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Slade</surname><given-names>R.</given-names></name>; <name><surname>Laudone</surname><given-names>G. M.</given-names></name>
+<article-title>Supercapacitors
+with lithium-ion electrolyte: An experimental study and design of
+the activated carbon electrodes via modelling and simulations</article-title>. <source>Carbon</source>
+<year>2020</year>, <volume>164</volume>, <fpage>422</fpage>&#x02013;<lpage>434</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2020.04.017</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Markoulidis</surname><given-names>F.</given-names></name>; <name><surname>Lei</surname><given-names>C.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>Investigations of activated
+carbon fabric-based supercapacitors
+with different interlayers via experiments and modelling of electrochemical
+processes of different timescales</article-title>. <source>Electrochim.
+Acta</source>
+<year>2017</year>, <volume>249</volume>, <fpage>122</fpage>&#x02013;<lpage>134</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2017.07.182</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Bacon</surname><given-names>S.</given-names></name>; <name><surname>Babar</surname><given-names>S.</given-names></name>; <name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Foster</surname><given-names>A.</given-names></name>; <name><surname>Baboo</surname><given-names>J. P.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Watts</surname><given-names>J. F.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>Reaction kinetics of
+lithium-sulfur batteries with a polar Li-ion electrolyte: Modeling
+of liquid phase and solid phase processes</article-title>. <source>Phys.
+Chem. Chem. Phys.</source>
+<year>2024</year>, <volume>26</volume>, <fpage>19247</fpage>&#x02013;<lpage>19256</lpage>. <pub-id pub-id-type="doi">10.1039/D4CP02061H</pub-id>.<pub-id pub-id-type="pmid">38958556</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Helen</surname><given-names>M.</given-names></name>; <name><surname>Diemant</surname><given-names>T.</given-names></name>; <name><surname>Schindler</surname><given-names>S.</given-names></name>; <name><surname>Behm</surname><given-names>R. J.</given-names></name>; <name><surname>Danzer</surname><given-names>M.</given-names></name>; <name><surname>Kaiser</surname><given-names>U.</given-names></name>; <name><surname>Fichtner</surname><given-names>M.</given-names></name>; <name><surname>Reddy</surname><given-names>M. A.</given-names></name>
+<article-title>Insight into sulfur
+confined in ultramicroporous carbon</article-title>. <source>ACS Omega</source>
+<year>2018</year>, <volume>3</volume>, <fpage>11290</fpage>&#x02013;<lpage>11299</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b01681</pub-id>.<pub-id pub-id-type="pmid">31459238</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Rafie</surname><given-names>A.</given-names></name>; <name><surname>Kim</surname><given-names>J. W.</given-names></name>; <name><surname>Sarode</surname><given-names>K. K.</given-names></name>; <name><surname>Kalra</surname><given-names>V.</given-names></name>
+<article-title>A review on
+the use
+of carbonate-based electrolytes in Li-S batteries: A comprehensive
+approach enabling solid-solid direct conversion reaction</article-title>. <source>Energy Storage Mater.</source>
+<year>2022</year>, <volume>50</volume>, <fpage>197</fpage>&#x02013;<lpage>224</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2022.03.015</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Reece</surname><given-names>R.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Smith</surname><given-names>P. A.</given-names></name>; <name><surname>Grilli</surname><given-names>R.</given-names></name>; <name><surname>Trapalis</surname><given-names>C.</given-names></name>
+<article-title>Sulphur-linked
+graphitic and graphene oxide platelet-based electrodes for electrochemical
+double layer capacitors</article-title>. <source>J. Alloys Compd.</source>
+<year>2019</year>, <volume>792</volume>, <fpage>582</fpage>&#x02013;<lpage>593</lpage>. <pub-id pub-id-type="doi">10.1016/j.jallcom.2019.04.072</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Vermisoglou</surname><given-names>E. C.</given-names></name>; <name><surname>Giannakopoulou</surname><given-names>T.</given-names></name>; <name><surname>Romanos</surname><given-names>G.</given-names></name>; <name><surname>Boukos</surname><given-names>N.</given-names></name>; <name><surname>Psycharis</surname><given-names>V.</given-names></name>; <name><surname>Lei</surname><given-names>C.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Petridis</surname><given-names>D.</given-names></name>; <name><surname>Trapalis</surname><given-names>C.</given-names></name>
+<article-title>Graphene-based materials
+via benzidine-assisted exfoliation and reduction of graphite oxide
+and their electrochemical properties</article-title>. <source>Appl.
+Surf. Sci.</source>
+<year>2017</year>, <volume>392</volume>, <fpage>244</fpage>&#x02013;<lpage>255</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2016.08.079</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Adeoye</surname><given-names>H. A.</given-names></name>; <name><surname>Tennison</surname><given-names>S.</given-names></name>; <name><surname>Watts</surname><given-names>J. F.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>An Investigation into
+electrolytes and cathodes for room-temperature sodium&#x02013;sulfur
+batteries</article-title>. <source>Batteries</source>
+<year>2024</year>, <volume>10</volume> (<issue>6</issue>), <fpage>216</fpage><pub-id pub-id-type="doi">10.3390/batteries10060216</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Lee</surname><given-names>H. G.</given-names></name>; <name><surname>Kim</surname><given-names>S. Y.</given-names></name>; <name><surname>Lee</surname><given-names>J. S.</given-names></name>
+<article-title>Dynamic
+observation of dendrite growth
+on lithium metal anode during battery charging/discharging cycles</article-title>. <source>Npj Comput. Mater.</source>
+<year>2022</year>, <volume>8</volume>, <fpage>103</fpage><pub-id pub-id-type="doi">10.1038/s41524-022-00788-6</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Zhong</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>K.</given-names></name>; <name><surname>Xue</surname><given-names>X.</given-names></name>; <name><surname>Wu</surname><given-names>W.</given-names></name>; <name><surname>Hu</surname><given-names>N.</given-names></name>; <name><surname>Lu</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Xiao</surname><given-names>G.</given-names></name>; <name><surname>Mai</surname><given-names>Y.</given-names></name>; et al. <article-title>Operando monitoring
+of dendrite formation in lithium metal batteries
+via ultrasensitive tilted fiber Bragg grating sensors</article-title>. <source>Light: Sci. Appl.</source>
+<year>2024</year>, <volume>13</volume>, <fpage>24</fpage><pub-id pub-id-type="doi">10.1038/s41377-023-01346-5</pub-id>.<pub-id pub-id-type="pmid">38253485</pub-id>
+</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>He</surname><given-names>G.</given-names></name>; <name><surname>Evers</surname><given-names>S.</given-names></name>; <name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>Cuisinier</surname><given-names>M.</given-names></name>; <name><surname>Garsuch</surname><given-names>A.</given-names></name>; <name><surname>Nazar</surname><given-names>L. F.</given-names></name>
+<article-title>Tailoring porosity
+in carbon nanospheres
+for lithium-sulfur battery cathodes</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume> (<issue>12</issue>), <fpage>10920</fpage>&#x02013;<lpage>10930</lpage>. <pub-id pub-id-type="doi">10.1021/nn404439r</pub-id>.<pub-id pub-id-type="pmid">24229005</pub-id>
+</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Ding</surname><given-names>X.</given-names></name>; <name><surname>Jin</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Zhou</surname><given-names>S.</given-names></name>; <name><surname>Xiao</surname><given-names>A.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Zuo</surname><given-names>C.</given-names></name>
+<article-title>An in situ
+template for the synthesis of tunable hollow carbon particles
+for high-performance lithium&#x02013;sulfur batteries</article-title>. <source>ACS Omega</source>
+<year>2019</year>, <volume>4</volume>, <fpage>16088</fpage>&#x02013;<lpage>16094</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.9b02287</pub-id>.<pub-id pub-id-type="pmid">31592476</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Wasalathanthri</surname><given-names>R. N.</given-names></name>; <name><surname>Akolkar</surname><given-names>R.</given-names></name>
+<article-title>Perspective&#x02014;Does the Sand
+equation reliably
+predict the onset of morphological evolution in lithium electrodeposition?</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2022</year>, <volume>169</volume>, <fpage>092519</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/ac8d73</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="weblink" id="cit37"><person-group person-group-type="allauthors"><name><surname>McBrayer</surname><given-names>J. D.</given-names></name></person-group><source>JCESR Li-S battery
+research, Sandia national laboratories - SAND2016&#x02013;6712PE 2016</source>. <year>2016</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.osti.gov/servlets/purl/1372150">https://www.osti.gov/servlets/purl/1372150</uri>. Assessed 27 February 2023.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Grabe</surname><given-names>S.</given-names></name>; <name><surname>Ayere</surname><given-names>O.</given-names></name>; <name><surname>Babar</surname><given-names>S.</given-names></name>; <name><surname>Masteghin</surname><given-names>M. G.</given-names></name>; <name><surname>Cox</surname><given-names>D.</given-names></name>; <name><surname>Howlin</surname><given-names>B. J.</given-names></name>; <name><surname>Baker</surname><given-names>M.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>Investigating PEDOT:
+PSS binder as an energy extender in sulfur cathodes for Li-S batteries</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2024</year>, <volume>7</volume> (<issue>17</issue>), <fpage>7349</fpage>&#x02013;<lpage>7361</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.4c01553</pub-id>.<pub-id pub-id-type="pmid">39268392</pub-id>
+</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Xiang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Lei</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Xie</surname><given-names>Z.</given-names></name>; <name><surname>Qu</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>K.</given-names></name>; <name><surname>Deng</surname><given-names>T.</given-names></name>; <name><surname>Tang</surname><given-names>H.</given-names></name>
+<article-title>Advanced separators for lithium-ion
+and lithium&#x02013;sulfur batteries: A review of recent progress</article-title>. <source>ChemSuschem</source>
+<year>2016</year>, <volume>9</volume> (<issue>21</issue>), <fpage>3023</fpage>&#x02013;<lpage>3039</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201600943</pub-id>.<pub-id pub-id-type="pmid">27667306</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>R.</given-names></name>; <name><surname>Xiao</surname><given-names>Y.</given-names></name>; <name><surname>Cao</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>
+<article-title>Recent progress of
+separators in lithium-sulfur batteries</article-title>. <source>Energy
+Storage Mater.</source>
+<year>2021</year>, <volume>40</volume>, <fpage>439</fpage>&#x02013;<lpage>460</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2021.05.034</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Nam</surname><given-names>J. S.</given-names></name>; <name><surname>Kim</surname><given-names>M. S.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Jiang</surname><given-names>S.</given-names></name>; <name><surname>Hou</surname><given-names>H.</given-names></name>; <name><surname>Kim</surname><given-names>I. D.</given-names></name>
+<article-title>Sulfur&#x02013;Carbon Electrode with PEO-LiFSI-PVDF
+Composite Coating for High-Rate and Long-Life Lithium&#x02013;Sulfur
+Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <fpage>2302139</fpage><pub-id pub-id-type="doi">10.1002/aenm.202302139</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Paek</surname><given-names>E.</given-names></name>; <name><surname>Hwang</surname><given-names>G. S.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Long-life
+Li/polysulphide batteries with high sulphur loading enabled by lightweight
+three-dimensional nitrogen/sulphur-codoped graphene sponge</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>7760</fpage><pub-id pub-id-type="doi">10.1038/ncomms8760</pub-id>.<pub-id pub-id-type="pmid">26182892</pub-id>
+</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kamphaus</surname><given-names>E. P.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Long-chain polysulfide
+retention at the cathode of
+Li&#x02013;S batteries</article-title>. <source>J. Phys. Chem. C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>4296</fpage>&#x02013;<lpage>4305</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b12538</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Su</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>
+<article-title>Shuttle inhibition
+by chemical adsorption of lithium
+polysulfides in B and N co-doped graphene for Li&#x02013;S batteries</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>25241</fpage>&#x02013;<lpage>25248</lpage>. <pub-id pub-id-type="doi">10.1039/C6CP04071C</pub-id>.<pub-id pub-id-type="pmid">27711655</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Fan</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Hua</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Tao</surname><given-names>T.</given-names></name>; <name><surname>Rahman</surname><given-names>M.</given-names></name>; <name><surname>Lei</surname><given-names>W.</given-names></name>; <name><surname>Huang</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>
+<article-title>Functionalized
+Boron Nitride Nanosheets/Graphene Interlayer for Fast and Long-Life
+Lithium&#x02013;Sulfur Batteries</article-title>. <source>Adv. Energy
+Mater.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>1602380</fpage><pub-id pub-id-type="doi">10.1002/aenm.201602380</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Zeng</surname><given-names>S.</given-names></name>; <name><surname>Peng</surname><given-names>J.</given-names></name>; <name><surname>Pan</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Guan</surname><given-names>H.</given-names></name>; <name><surname>He</surname><given-names>Z.</given-names></name>; <name><surname>Lin</surname><given-names>L.</given-names></name>; <name><surname>Wen</surname><given-names>Y.</given-names></name>; <name><surname>Liang</surname><given-names>Z.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; et al. <article-title>B, N co-doped 3D hierarchical
+porous carbon entrapping sulfur for
+high performance of Li-S batteries</article-title>. <source>J. Alloys
+Compd.</source>
+<year>2024</year>, <volume>1007</volume>, <fpage>176486</fpage><pub-id pub-id-type="doi">10.1016/j.jallcom.2024.176486</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Andritsos</surname><given-names>E. I.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Cai</surname><given-names>Q.</given-names></name>
+<article-title>Single-atom
+catalysts as promising
+cathode materials for lithium&#x02013;sulfur batteries</article-title>. <source>J. Phys. Chem. C</source>
+<year>2021</year>, <volume>125</volume> (<issue>33</issue>), <fpage>18108</fpage>&#x02013;<lpage>18118</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.1c04491</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Wasalathilake</surname><given-names>K. C.</given-names></name>; <name><surname>Roknuzzaman</surname><given-names>M.</given-names></name>; <name><surname>Ostrikov</surname><given-names>K.</given-names></name>; <name><surname>Ayoko</surname><given-names>G. A.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>
+<article-title>Interaction
+between functionalized graphene and sulfur compounds in a lithium&#x02013;sulfur
+battery &#x02013; a density functional theory investigation</article-title>. <source>RSC Adv.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>2271</fpage>&#x02013;<lpage>2279</lpage>. <pub-id pub-id-type="doi">10.1039/C7RA11628D</pub-id>.<pub-id pub-id-type="pmid">35541465</pub-id>
+</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Niu</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>
+<article-title>Molecular ordering and dipole alignment
+of vanadyl phthalocyanine monolayer on metals: The effects of interfacial
+interactions</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>4151</fpage>&#x02013;<lpage>4159</lpage>. <pub-id pub-id-type="doi">10.1021/jp4101653</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Marinho</surname><given-names>B.</given-names></name>; <name><surname>Ghislandi</surname><given-names>M.</given-names></name>; <name><surname>Tkalya</surname><given-names>E.</given-names></name>; <name><surname>Koning</surname><given-names>C. E.</given-names></name>; <name><surname>de with</surname><given-names>G.</given-names></name>
+<article-title>Electrical
+conductivity of compacts of graphene, multi-wall carbon nanotubes,
+carbon black, and graphite powder</article-title>. <source>Powder Technol.</source>
+<year>2012</year>, <volume>221</volume>, <fpage>351</fpage>&#x02013;<lpage>358</lpage>. <pub-id pub-id-type="doi">10.1016/j.powtec.2012.01.024</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Kaneto</surname><given-names>K.</given-names></name>; <name><surname>Tsuruta</surname><given-names>M.</given-names></name>; <name><surname>Sakai</surname><given-names>G.</given-names></name>; <name><surname>Cho</surname><given-names>W. Y.</given-names></name>; <name><surname>Ando</surname><given-names>Y.</given-names></name>
+<article-title>Electrical
+conductivities of multi-wall carbon nano tubes</article-title>. <source>Synth. Met.</source>
+<year>1999</year>, <volume>103</volume>, <fpage>2543</fpage>&#x02013;<lpage>2546</lpage>. <pub-id pub-id-type="doi">10.1016/S0379-6779(98)00221-5</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Kiran</surname><given-names>M. R.</given-names></name>; <name><surname>Ulla</surname><given-names>H.</given-names></name>; <name><surname>Krishnamanohara</surname></name>; <name><surname>Satyanarayan</surname><given-names>M. N.</given-names></name>; <name><surname>Umesh</surname><given-names>G.</given-names></name>
+<article-title>Investigation of charge
+transport in Vanadyl-phthalocyanine with molybdenum trioxide as a
+buffer layer: Impedance spectroscopic analysis</article-title>. <source>Synth. Met.</source>
+<year>2015</year>, <volume>210</volume>, <fpage>208</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1016/j.synthmet.2015.10.004</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Soliman</surname><given-names>H. S.</given-names></name>; <name><surname>El-Barry</surname><given-names>A. M. A.</given-names></name>; <name><surname>Khosifan</surname><given-names>N. M.</given-names></name>; <name><surname>El Nahass</surname><given-names>M. M.</given-names></name>
+<article-title>Structural
+and electrical properties of thermally evaporated cobalt phthalocyanine
+(CoPc) thin films</article-title>. <source>Eur. Phys. J. Appl. Phys.</source>
+<year>2007</year>, <volume>37</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1051/epjap:2006135</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Saravanan</surname><given-names>S.</given-names></name>; <name><surname>Joseph Mathai</surname><given-names>C.</given-names></name>; <name><surname>Anantharaman</surname><given-names>M. R.</given-names></name>; <name><surname>Venkatachalam</surname><given-names>S.</given-names></name>; <name><surname>Prabhakaran</surname><given-names>P. V.</given-names></name>
+<article-title>Dielectric
+and conductivity studies on cobalt phthalocyanine
+tetramers</article-title>. <source>J. Appl. Polym. Sci.</source>
+<year>2004</year>, <volume>91</volume>, <fpage>2529</fpage>&#x02013;<lpage>2535</lpage>. <pub-id pub-id-type="doi">10.1002/app.13395</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Wang</surname><given-names>T.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Yan</surname><given-names>K.</given-names></name>; <name><surname>Jaumaux</surname><given-names>P.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Shanmukaraj</surname><given-names>D.</given-names></name>; <name><surname>Sun</surname><given-names>B.</given-names></name>; <name><surname>Armand</surname><given-names>M.</given-names></name>; et al. <article-title>Immunizing lithium metal anodes against dendrite
+growth using protein
+molecules to achieve high energy batteries</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>5429</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-19246-2</pub-id>.<pub-id pub-id-type="pmid">33110084</pub-id>
+</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Soni</surname><given-names>R.</given-names></name>; <name><surname>Spadoni</surname><given-names>D.</given-names></name>; <name><surname>Shearing</surname><given-names>P. R.</given-names></name>; <name><surname>Brett</surname><given-names>D. J. L.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Cai</surname><given-names>Q.</given-names></name>; <name><surname>Robinson</surname><given-names>J. B.</given-names></name>; <name><surname>Miller</surname><given-names>T. S.</given-names></name>
+<article-title>Deploying proteins as electrolyte
+additives in Li&#x02013;S batteries: The multifunctional role of fibroin
+in improving cell performance</article-title>. <source>ACS Appl. Energy
+Mater.</source>
+<year>2023</year>, <volume>6</volume>, <fpage>5671</fpage>&#x02013;<lpage>5680</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.2c04131</pub-id>.<pub-id pub-id-type="pmid">37323207</pub-id>
+</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Jakubczyk</surname><given-names>E.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>Kinetics of sulphur
+dissolution in lithium&#x02013;sulphur batteries</article-title>. <source>J. Phys.: Energy</source>
+<year>2022</year>, <volume>4</volume>, <fpage>024001</fpage><pub-id pub-id-type="doi">10.1088/2515-7655/ac521d</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Adeoye</surname><given-names>H. A.</given-names></name>; <name><surname>Dent</surname><given-names>M.</given-names></name>; <name><surname>Watts</surname><given-names>J. F.</given-names></name>; <name><surname>Tennison</surname><given-names>S.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>
+<article-title>Solubility
+and dissolution kinetics of sulfur and sulfides in electrolyte solvents
+for lithium&#x02013;sulfur and sodium&#x02013;sulfur batteries</article-title>. <source>J. Chem. Phys.</source>
+<year>2023</year>, <volume>158</volume>, <fpage>064702</fpage><pub-id pub-id-type="doi">10.1063/5.0132068</pub-id>.<pub-id pub-id-type="pmid">36792496</pub-id>
+</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Elsayed</surname><given-names>Y.</given-names></name>; <name><surname>Lekakou</surname><given-names>C.</given-names></name>; <name><surname>Tomlins</surname><given-names>P.</given-names></name>
+<article-title>Modeling,
+simulations, and optimization
+of smooth muscle cell tissue engineering for the production of vascular
+grafts</article-title>. <source>Biotechnol. Bioeng.</source>
+<year>2019</year>, <volume>116</volume>, <fpage>1509</fpage>&#x02013;<lpage>1522</lpage>. <pub-id pub-id-type="doi">10.1002/bit.26955</pub-id>.<pub-id pub-id-type="pmid">30737955</pub-id>
+</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Song</surname><given-names>Y.-W.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>X.-Y.</given-names></name>; <name><surname>Zhao</surname><given-names>C.-X.</given-names></name>; <name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>B.-Q.</given-names></name>; <name><surname>Huang</surname><given-names>J.-Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Phase equilibrium thermodynamics
+of lithium&#x02013;sulfur batteries</article-title>. <source>Nat. Chem.
+Eng.</source>
+<year>2024</year>, <volume>1</volume>, <fpage>588</fpage>&#x02013;<lpage>596</lpage>. <pub-id pub-id-type="doi">10.1038/s44286-024-00115-4</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Li</surname><given-names>X.-Y.</given-names></name>; <name><surname>Feng</surname><given-names>S.</given-names></name>; <name><surname>Song</surname><given-names>Y.-W.</given-names></name>; <name><surname>Zhao</surname><given-names>C.-X.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>Z.-X.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>X.-Q.</given-names></name>; <name><surname>Li</surname><given-names>B.-Q.</given-names></name>; <name><surname>Huang</surname><given-names>J.-Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Kinetic evaluation
+on lithium polysulfide in weakly solvating electrolyte toward practical
+lithium&#x02013;sulfur batteries</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2024</year>, <volume>146</volume>, <fpage>14754</fpage>&#x02013;<lpage>14764</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.4c02603</pub-id>.<pub-id pub-id-type="pmid">38754363</pub-id>
+</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Song</surname><given-names>Y.-W.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>; <name><surname>Yao</surname><given-names>N.</given-names></name>; <name><surname>Feng</surname><given-names>S.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>B.-Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Anion-Involved Solvation
+Structure of Lithium Polysulfides in Lithium&#x02013;Sulfur Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2024</year>, <volume>63</volume>, <elocation-id>e202400343</elocation-id><pub-id pub-id-type="doi">10.1002/anie.202400343</pub-id>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Zhao</surname><given-names>M.</given-names></name>; <name><surname>Peng</surname><given-names>H.-J.</given-names></name>; <name><surname>Li</surname><given-names>B.-Q.</given-names></name>; <name><surname>Huang</surname><given-names>J.-Q.</given-names></name>
+<article-title>Kinetic promoters
+for sulfur cathodes in lithium&#x02013;sulfur batteries</article-title>. <source>Acc. Chem. Res.</source>
+<year>2024</year>, <volume>57</volume>, <fpage>545</fpage>&#x02013;<lpage>557</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.3c00698</pub-id>.</mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Danilov</surname><given-names>D. L.</given-names></name>; <name><surname>Raijmakers</surname><given-names>L. H. J.</given-names></name>; <name><surname>Chayambuka</surname><given-names>K.</given-names></name>; <name><surname>Jiang</surname><given-names>M.</given-names></name>; <name><surname>Zhou</surname><given-names>L.</given-names></name>; <name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Eichel</surname><given-names>R.-A.</given-names></name>; <name><surname>Notten</surname><given-names>P. H. L.</given-names></name>
+<article-title>Overpotential analysis of graphite-based
+Li-ion batteries
+seen from a porous electrode modeling perspective</article-title>. <source>J. Power Sources</source>
+<year>2021</year>, <volume>509</volume>, <fpage>230345</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2021.230345</pub-id>.</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Brabec</surname><given-names>C. J.</given-names></name>; <name><surname>Cravino</surname><given-names>A.</given-names></name>; <name><surname>Meissner</surname><given-names>D.</given-names></name>; <name><surname>Sariciftci</surname><given-names>N. S.</given-names></name>; <name><surname>Rispens</surname><given-names>M. T.</given-names></name>; <name><surname>Sanchez</surname><given-names>L.</given-names></name>; <name><surname>Hummelen</surname><given-names>J. C.</given-names></name>; <name><surname>Fromherz</surname><given-names>T.</given-names></name>
+<article-title>The influence
+of materials work function on the open circuit voltage of plastic
+solar cells</article-title>. <source>Thin Solid Films</source>
+<year>2002</year>, <volume>403&#x02013;404</volume>, <fpage>368</fpage>&#x02013;<lpage>372</lpage>. <pub-id pub-id-type="doi">10.1016/S0040-6090(01)01586-3</pub-id>.</mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Orman</surname><given-names>E. B.</given-names></name>; <name><surname>Piskin</surname><given-names>M.</given-names></name>; <name><surname>Odaba&#x0015f;</surname><given-names>Z.</given-names></name>; <name><surname>Ozkaya</surname><given-names>A. R.</given-names></name>
+<article-title>Electrochemical,
+spectroelectrochemical, and electrocatalytic dioxygen reducing properties
+of peripheral tetra-2,6-dimethoxyphenoxy substituted phthalocyanines</article-title>. <source>Electroanalysis</source>
+<year>2021</year>, <volume>33</volume> (<issue>11</issue>), <fpage>2310</fpage>&#x02013;<lpage>2322</lpage>. <pub-id pub-id-type="doi">10.1002/elan.202100168</pub-id>.</mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Lee</surname><given-names>M.-H.</given-names></name>
+<article-title>Identifying
+correlation between the open-circuit voltage and the frontier orbital
+energies of non-fullerene organic solar cells based on interpretable
+machine-learning approaches</article-title>. <source>Sol. Energy</source>
+<year>2022</year>, <volume>234</volume>, <fpage>360</fpage>&#x02013;<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1016/j.solener.2022.02.010</pub-id>.</mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>X.-X.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>
+<article-title>Theoretical investigation
+of the molecular, electronic structures and vibrational spectra of
+a series of first transition metal phthalocyanines</article-title>. <source>Spectrochim. Acta, Part A</source>
+<year>2007</year>, <volume>67</volume> (<issue>5</issue>), <fpage>1232</fpage>&#x02013;<lpage>1246</lpage>. <pub-id pub-id-type="doi">10.1016/j.saa.2006.10.013</pub-id>.</mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Khan</surname><given-names>M. A.</given-names></name>; <name><surname>Farva</surname><given-names>U.</given-names></name>
+<article-title>Elucidation of hierarchical
+metallophthalocyanine buffer layers in
+bulk heterojunction solar cells</article-title>. <source>RSC Adv.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>11304</fpage>&#x02013;<lpage>11311</lpage>. <pub-id pub-id-type="doi">10.1039/C6RA26919B</pub-id>.</mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name><surname>Santi</surname><given-names>S.</given-names></name>; <name><surname>Mancini</surname><given-names>I.</given-names></name>; <name><surname>Dire</surname><given-names>S.</given-names></name>; <name><surname>Callone</surname><given-names>E.</given-names></name>; <name><surname>Speranza</surname><given-names>G.</given-names></name>; <name><surname>Pugno</surname><given-names>N.</given-names></name>; <name><surname>Migliaresi</surname><given-names>C.</given-names></name>; <name><surname>Motta</surname><given-names>A.</given-names></name>
+<article-title>A bio-inspired multifunctionalized
+silk fibroin</article-title>. <source>ACS Biomater. Sci. Eng.</source>
+<year>2021</year>, <volume>7</volume>, <fpage>507</fpage>&#x02013;<lpage>516</lpage>. <pub-id pub-id-type="doi">10.1021/acsbiomaterials.0c01567</pub-id>.<pub-id pub-id-type="pmid">33476122</pub-id>
+</mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name><surname>Radu</surname><given-names>I.-C.</given-names></name>; <name><surname>Biru</surname><given-names>I.-E.</given-names></name>; <name><surname>Damian</surname><given-names>C.-M.</given-names></name>; <name><surname>Ion</surname><given-names>A.-C.</given-names></name>; <name><surname>Iovu</surname><given-names>H.</given-names></name>; <name><surname>Tanasa</surname><given-names>E.</given-names></name>; <name><surname>Zaharia</surname><given-names>C.</given-names></name>; <name><surname>Galateanu</surname><given-names>B.</given-names></name>
+<article-title>Grafting versus
+crosslinking of silkfibroin-g-PNIPAM via tyrosine-NIPAM bridges</article-title>. <source>Molecules</source>
+<year>2019</year>, <volume>24</volume> (<issue>22</issue>), <fpage>4096</fpage><pub-id pub-id-type="doi">10.3390/molecules24224096</pub-id>.<pub-id pub-id-type="pmid">31766195</pub-id>
+</mixed-citation></ref><ref id="ref72"><mixed-citation publication-type="journal" id="cit72"><name><surname>Mishra</surname><given-names>S.</given-names></name>; <name><surname>Bhowmick</surname><given-names>D.</given-names></name>
+<article-title>Asymmetric magnetoelectrochemistry:
+An efficient method
+to grow enantiopure self-assemble monolayer</article-title>. <source>Magnetochemistry</source>
+<year>2020</year>, <volume>6</volume> (<issue>3</issue>), <fpage>37</fpage><pub-id pub-id-type="doi">10.3390/magnetochemistry6030037</pub-id>.</mixed-citation></ref><ref id="ref73"><mixed-citation publication-type="journal" id="cit73"><name><surname>Gopal</surname><given-names>R.</given-names></name>; <name><surname>Chinnapan</surname><given-names>M. M.</given-names></name>; <name><surname>Bojarajan</surname><given-names>A. K.</given-names></name>; <name><surname>Rotte</surname><given-names>N. K.</given-names></name>; <name><surname>Ponraj</surname><given-names>J. S.</given-names></name>; <name><surname>Ganesan</surname><given-names>R.</given-names></name>; <name><surname>Atanas</surname><given-names>I.</given-names></name>; <name><surname>Nadarajah</surname><given-names>M.</given-names></name>; <name><surname>Manavalan</surname><given-names>R. K.</given-names></name>; <name><surname>Gaspar</surname><given-names>J.</given-names></name>
+<article-title>Facile synthesis and defect optimization
+of 2D-layered MoS<sub>2</sub> on TiO<sub>2</sub> heterostructure for
+industrial effluent, wastewater treatments</article-title>. <source>Sci. Rep.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>21625</fpage><pub-id pub-id-type="doi">10.1038/s41598-020-78268-4</pub-id>.<pub-id pub-id-type="pmid">33303829</pub-id>
+</mixed-citation></ref></ref-list></back></article>

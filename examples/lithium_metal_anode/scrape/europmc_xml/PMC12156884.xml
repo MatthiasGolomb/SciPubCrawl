@@ -1,0 +1,514 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1-3.dtd?><?SourceDTD.Version 1.3?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Materials (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Materials (Basel)</journal-id><journal-id journal-id-type="publisher-id">materials</journal-id><journal-title-group><journal-title>Materials</journal-title></journal-title-group><issn pub-type="epub">1996-1944</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12156884</article-id><article-id pub-id-type="doi">10.3390/ma18112415</article-id><article-id pub-id-type="publisher-id">materials-18-02415</article-id><article-categories><subj-group subj-group-type="heading"><subject>Communication</subject></subj-group></article-categories><title-group><article-title>Anion-Enriched Interfacial Chemistry Enabled by Effective Ion Transport Channels for Stable Lithium Metal Batteries</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Li</surname><given-names>Yi</given-names></name><xref rid="af1-materials-18-02415" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Hongwei</given-names></name><xref rid="af1-materials-18-02415" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Haojun</given-names></name><xref rid="af1-materials-18-02415" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Shan</surname><given-names>Dedong</given-names></name><xref rid="af1-materials-18-02415" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3232-4945</contrib-id><name><surname>He</surname><given-names>Xuezhong</given-names></name><xref rid="af2-materials-18-02415" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Kong</surname><given-names>Lingkai</given-names></name><xref rid="af3-materials-18-02415" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Jing</given-names></name><xref rid="af3-materials-18-02415" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Qian</given-names></name><xref rid="af1-materials-18-02415" ref-type="aff">1</xref><xref rid="c1-materials-18-02415" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Jian</given-names></name><xref rid="af1-materials-18-02415" ref-type="aff">1</xref><xref rid="c1-materials-18-02415" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-materials-18-02415"><label>1</label>College of Materials Science and Engineering, Jiangsu Collaborative Innovation Center for Advanced Inorganic Function Composites, Nanjing Tech University, Nanjing 211816, China; <email>liyi19991225@163.com</email> (Y.L.); <email>hhw2317452719@163.com</email> (H.H.); </aff><aff id="af2-materials-18-02415"><label>2</label>Guangdong Provincial Key Laboratory of Materials and Technologies for Energy Conversion, Department of Chemical Engineering, Guangdong Technion-Israel Institute of Technology, Shantou 515063, China; <email>xuezhong.he@gtiit.edu.cn</email></aff><aff id="af3-materials-18-02415"><label>3</label>Longdu Laboratory for New Chemical Materials, Puyang 457000, China</aff><author-notes><corresp id="c1-materials-18-02415"><label>*</label>Correspondence: <email>liqian1004@163.com</email> (Q.L.); <email>yangjian1976@163.com</email> (J.Y.)</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2025</year></pub-date><volume>18</volume><issue>11</issue><elocation-id>2415</elocation-id><history><date date-type="received"><day>27</day><month>4</month><year>2025</year></date><date date-type="rev-recd"><day>19</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>21</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 by the authors.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The formation of unstable solid electrolyte interphases (SEIs) on the surface of lithium metal anodes poses a significant barrier to the commercialization of lithium metal batteries (LMBs). Rational modulation of solvation structures within the electrolytes emerged as one of the most effective strategies to enhance interfacial stability in LMBs; however, this approach often compromises the structural stability of the bulk electrolyte. Herein, we present an innovative method that improves interface stability without adversely affecting the bulk electrolyte&#x02019;s structural stability. By employing ZSM molecular sieves as efficient ion channels on the lithium metal anode surface&#x02014;termed ZSM electrolytes&#x02014;a more aggregated solvation structure is induced at the lithium metal interface, resulting in an anion-rich interphase. This anion-enriched environment promotes the formation of an SEI derived from anions, thereby enhancing the stability of the lithium metal interface. Consequently, Li||Cu cells utilizing the ZSM electrolyte achieve an average coulombic efficiency (CE) of 98.76% over 700 h. Moreover, LiFePO<sub>4</sub>||Li batteries exhibit stable cycling performance exceeding 900 cycles at a current density of 1 C. This design strategy offers robust support for effective interfacial regulation in lithium metal batteries.</p></abstract><kwd-group><kwd>anion-rich interphase</kwd><kwd>solvation structures</kwd><kwd>lithium metal batteries</kwd><kwd>anion-derived SEIs</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>22309081</award-id></award-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>22209071</award-id></award-group><award-group><funding-source>Natural Science Foundation of Jiangsu Province</funding-source><award-id>BK20220339</award-id></award-group><award-group><funding-source>Natural Science Foundation of Jiangsu Province</funding-source><award-id>BK20230320</award-id></award-group><award-group><funding-source>Natural Science Research in Colleges and universities of Jiangsu Province</funding-source><award-id>22KJB150006</award-id></award-group><award-group><funding-source>Natural Science Research in Colleges and universities of Jiangsu Province</funding-source><award-id>22KJB430005</award-id></award-group><award-group><funding-source>Open Project Fund from Guangdong Provincial Key Laboratory of Materials and Technology for Energy Conversion</funding-source><award-id>MATEC2023KF006</award-id></award-group><award-group><funding-source>Open Research Fund from Longdu Laboratory for New Chemical Materials</funding-source><award-id>LDL2024IN06</award-id></award-group><funding-statement>This research was financially supported by the National Natural Science Foundation of China (22209071, 22309081), and the Natural Science Foundation of Jiangsu Province (BK20220339, BK20230320), and the Natural Science Research in Colleges and universities of Jiangsu Province (22KJB150006, 22KJB430005), and the Nanjing Science and technology innovation project for returned overseas personnel, and the Open Project Fund from Guangdong Provincial Key Laboratory of Materials and Technology for Energy Conversion, Guangdong Technion-Israel Institute of Technology (MATEC2023KF006), and the Open Research Fund from Longdu Laboratory for New Chemical Materials (LDL2024IN06).</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-materials-18-02415"><title>1. Introduction</title><p>With the rapid advancement of portable electronic devices and electric vehicle technologies, there is an urgent demand for high-energy-density lithium-ion batteries (LIBs) [<xref rid="B1-materials-18-02415" ref-type="bibr">1</xref>,<xref rid="B2-materials-18-02415" ref-type="bibr">2</xref>]. Current commercial LIBs, particularly those utilizing graphite anodes, nearly reached their theoretical energy density limits. Transitioning to lithium metal anodes, which boast a significantly higher theoretical capacity (3860 mAh g<sup>&#x02212;1</sup>) and lower electrochemical potential (&#x02212;3.04 V vs. standard hydrogen electrode), could substantially elevate battery energy densities [<xref rid="B3-materials-18-02415" ref-type="bibr">3</xref>,<xref rid="B4-materials-18-02415" ref-type="bibr">4</xref>,<xref rid="B5-materials-18-02415" ref-type="bibr">5</xref>,<xref rid="B6-materials-18-02415" ref-type="bibr">6</xref>,<xref rid="B7-materials-18-02415" ref-type="bibr">7</xref>]. However, the development of unstable solid&#x02013;electrolyte interphases (SEIs) on the lithium metal surface severely impacts the coulombic efficiency (CE) of lithium plating/stripping, potentially leading to uncontrolled dendrite growth [<xref rid="B8-materials-18-02415" ref-type="bibr">8</xref>,<xref rid="B9-materials-18-02415" ref-type="bibr">9</xref>,<xref rid="B10-materials-18-02415" ref-type="bibr">10</xref>,<xref rid="B11-materials-18-02415" ref-type="bibr">11</xref>,<xref rid="B12-materials-18-02415" ref-type="bibr">12</xref>,<xref rid="B13-materials-18-02415" ref-type="bibr">13</xref>,<xref rid="B14-materials-18-02415" ref-type="bibr">14</xref>]. Therefore, rationally regulating SEI structures/properties is critical for stabilizing lithium metal batteries.</p><p>Over the past few decades, numerous strategies have been proposed to improve the interfacial stability of lithium metal anodes, including electrolyte structure optimization [<xref rid="B15-materials-18-02415" ref-type="bibr">15</xref>], electrode surface modification [<xref rid="B16-materials-18-02415" ref-type="bibr">16</xref>], and interfacial property regulation [<xref rid="B17-materials-18-02415" ref-type="bibr">17</xref>]. Among these approaches, modulating the electrolyte structure to stabilize the SEI has proven particularly effective because it directly influences SEI composition and structure [<xref rid="B18-materials-18-02415" ref-type="bibr">18</xref>,<xref rid="B19-materials-18-02415" ref-type="bibr">19</xref>,<xref rid="B20-materials-18-02415" ref-type="bibr">20</xref>,<xref rid="B21-materials-18-02415" ref-type="bibr">21</xref>,<xref rid="B22-materials-18-02415" ref-type="bibr">22</xref>]. High-concentration electrolytes (HCEs) represent one such method, Fan et al. successfully inhibited the growth of lithium dendrites by increasing the concentration of LiFSI to 10 M in carbonate electrolytes; Xu et al. designed a &#x02018;water-in-salt&#x02019; electrolyte to improve lithium-ion battery performance [<xref rid="B23-materials-18-02415" ref-type="bibr">23</xref>,<xref rid="B24-materials-18-02415" ref-type="bibr">24</xref>,<xref rid="B25-materials-18-02415" ref-type="bibr">25</xref>,<xref rid="B26-materials-18-02415" ref-type="bibr">26</xref>]. The solvation structures evolve from solvent-separated ion pairs (SSIPs) to contact ion pairs (CIPs), fostering more stable anion-derived SEI formation [<xref rid="B27-materials-18-02415" ref-type="bibr">27</xref>,<xref rid="B28-materials-18-02415" ref-type="bibr">28</xref>,<xref rid="B29-materials-18-02415" ref-type="bibr">29</xref>,<xref rid="B30-materials-18-02415" ref-type="bibr">30</xref>,<xref rid="B31-materials-18-02415" ref-type="bibr">31</xref>]. However, HCEs present challenges such as high cost due to expensive lithium salts, increased viscosity, and poor wettability, limiting their practical applications [<xref rid="B32-materials-18-02415" ref-type="bibr">32</xref>,<xref rid="B33-materials-18-02415" ref-type="bibr">33</xref>]. To mitigate these issues, local high concentration electrolytes (LHCEs) have been developed by incorporating inert components into HCE. Lin et al. designed a THF-based localized high-concentration electrolyte to successfully improve the adaptability of lithium metal batteries in low-temperature environments [<xref rid="B34-materials-18-02415" ref-type="bibr">34</xref>,<xref rid="B35-materials-18-02415" ref-type="bibr">35</xref>,<xref rid="B36-materials-18-02415" ref-type="bibr">36</xref>]. Yet, adding inert solvents can reduce the overall energy density of lithium batteries. Recently, weak solvating electrolytes (WSEs) emerged; using solvents with limited lithium salt solubility that promote aggregated solvation structures conducive to anion-derived SEI formation, Li et al. Developed a DPE-based low-polarity electrolyte, which successfully formed a more robust CEI at the anode interface [<xref rid="B37-materials-18-02415" ref-type="bibr">37</xref>,<xref rid="B38-materials-18-02415" ref-type="bibr">38</xref>,<xref rid="B39-materials-18-02415" ref-type="bibr">39</xref>,<xref rid="B40-materials-18-02415" ref-type="bibr">40</xref>,<xref rid="B41-materials-18-02415" ref-type="bibr">41</xref>]. Despite this advantage, insufficient lithium salt dissolution in WSEs can impede Li<sup>+</sup> transport within the electrolyte. The essence of these strategies lies in forcing anions into the solvation sheath to encourage anion-derived SEI formation, thereby enhancing interface stability. However, excessive incorporation of anions into solvation structures in bulk electrolytes often introduces drawbacks, such as high viscosity, low conductivity, or instability. Consequently, there is an urgent need for methods that enhance the interfacial stability of lithium metal anodes while preserving the overall stability of the bulk electrolytes.</p><p>In this work, we employed ZSM-5 molecular sieves as effective ion-selective channels at the lithium-metal anode interface without changing the composition of the native electrolytes (hereafter referred to as ZSM electrolytes) [<xref rid="B42-materials-18-02415" ref-type="bibr">42</xref>,<xref rid="B43-materials-18-02415" ref-type="bibr">43</xref>,<xref rid="B44-materials-18-02415" ref-type="bibr">44</xref>]. The uniform pore structure within the molecular sieve efficiently expels a portion of the solvent from the solvation shell, creating an anion-rich interphase that facilitates the formation of anion-derived SEIs (<xref rid="materials-18-02415-f001" ref-type="fig">Figure 1</xref>). The enhanced presence of LiF components in these anion-derived SEIs significantly improves the stability of the lithium metal interface. Consequently, Li||Cu cells utilizing ZSM electrolytes achieve an average CE of 98.76% over 700 h. Moreover, LiFePO<sub>4</sub>||Li batteries exhibit stable cycling performance for up to 900 cycles at a current density of 1 C.</p></sec><sec sec-type="methods" id="sec2-materials-18-02415"><title>2. Experimental</title><sec id="sec2dot1-materials-18-02415"><title>2.1. Preparation of ZSM-5@Celgard Separator</title><list list-type="simple"><list-item><label>(1)</label><p>Activation/Water Removal Process of Zeolite Powder</p></list-item></list><p>The ZSM-5 molecular sieves ((SiO<sub>2</sub>)x(Al<sub>2</sub>O<sub>3</sub>)y) were sourced from Shanghai MackLin Biochemical Co., Ltd. (Shanghai, China), while the Celgard 2500 separators were obtained from Suzhou Duoduo Chemical Technology Co., Ltd. (Suzhou, China). To prepare the ZSM-5 molecular sieves for use, a standard activation/calcination procedure was applied. Specifically, the sieves were placed in a furnace and subjected to a heating process at 350 &#x000b0;C under vacuum conditions for 3 h to remove any adsorbed water.</p><list list-type="simple"><list-item><label>(2)</label><p>Fabrication of ZSM-5@Celgard Separator</p></list-item></list><p>A slurry of ZSM-5 molecular sieves was prepared by mixing 80 wt% of activated ZSM-5 with 20 wt% polyvinylidene difluoride (PVDF) in N-methyl-2-pyrrolidone (NMP), provided by Sinopharm Group Chemical Reagent Co., Ltd. (Shanghai, China). This mixture was thoroughly blended to ensure uniform dispersion. The resulting slurry was then evenly coated onto the Celgard 2500 separator and dried at 80 &#x000b0;C for 6 h in a drying oven.</p><list list-type="simple"><list-item><label>(3)</label><p>Pressing Process of Prepared ZSM-5@Celgard Separator</p></list-item></list><p>To minimize the porosity between ZSM-5 particles within the ZSM-5@Celgard separator, an external pressure of 20 MPa was applied to press the coated separator. Following this pressing step, the ZSM-5 film was cut into small discs (&#x003a6; = 19 mm) and reactivated in a vacuum drying oven at 80 &#x000b0;C for 12 h.</p></sec><sec id="sec2dot2-materials-18-02415"><title>2.2. Electrolytes and Electrode Preparation</title><p>1,2-Dimethoxyethane (DME) and lithium bis(fluorosulfonyl)imide (LiFSI) were procured from Aladdin Biochemical Technology Co., Ltd. (Shanghai, China), while acetylene black was sourced from Shenzhen Tianchenghe Technology Co., Ltd. (Shenzhen, China). Lithium iron phosphate (LFP) was purchased from Suzhou Duoduo Chemical Technology Co., Ltd. The 2 M LiFSI DME electrolyte was prepared inside an Ar-filled glove box (H<sub>2</sub>O &#x0003c; 0.01 ppm, O<sub>2</sub> &#x0003c; 0.01 ppm). For electrode preparation, a cathode slurry was formulated by blending LFP powder, acetylene black, and PVDF in an 8:1:1 mass ratio using NMP as the solvent. The slurry was homogeneously coated onto carbon-coated aluminum (Al) foil current collectors using a doctor blade technique and dried at 80 &#x000b0;C for 12 h. The finished LFP electrodes were cut into circular plates (&#x003a6; = 13 mm). The area mass loading of the LFP electrode sheet was calculated after weighing to be 1.3 mg/cm<sup>&#x02212;2</sup>.</p></sec><sec id="sec2dot3-materials-18-02415"><title>2.3. Cell Assembly and Electrochemical Measurement</title><p>All batteries were assembled as 2032 coin-type cells within an argon-filled glove box (H<sub>2</sub>O &#x0003c; 0.01 ppm, O<sub>2</sub> &#x0003c; 0.01 ppm). Li||Cu and Li||Li cells were tested at current densities of 0.5 mA cm<sup>&#x02212;2</sup> and 1 mA cm<sup>&#x02212;2</sup>, respectively. LFP||Li cells operated within a voltage range of 2.5&#x02013;4.0 V, with charge/discharge current densities calculated based on 1 C = 170 mAh/g (theoretical specific capacity of LiFePO<sub>4</sub>). The electrolyte volume was maintained at 60 &#x003bc;L for all coin cells.</p></sec><sec id="sec2dot4-materials-18-02415"><title>2.4. Materials Characterizations</title><p>Scanning electron microscopy (SEM) was employed to examine the surface morphology of the lithium metal using a ZEISS Gemini SEM 500 instrument (Oberkochen, Germany). X-ray photoelectron spectroscopy (XPS) signals were collected from cycled Li metal anodes in Li||Li cells using a Thermo Fisher Scientific K-Alpha spectrometer (Waltham, MA, USA). Thermogravimetric analysis (TGA) was conducted on a TG 209 F1 Nevio instrument (NETZSCH-Ger&#x000e4;tebau GmbH, Selb, Germany) over a temperature range of 30 &#x000b0;C to 500 &#x000b0;C in a nitrogen atmosphere. Raman spectra were acquired using a HORIBA LabRAM HR Evolution spectrometer (Kyoto, Japan).</p></sec><sec id="sec2dot5-materials-18-02415"><title>2.5. Molecular Dynamics (MD) Simulations</title><p>The structures and dynamics of the electrolytes were investigated through molecular dynamics (MD) simulations. A simulation box containing 20 Li<sup>+</sup> ions, 20 FSI<sup>&#x02212;</sup> anions, and 98 DME molecules was used to represent the 2 M LiFSI DME electrolyte. MD simulations were carried out using Materials Studio 2017 software. All molecules/ions were modeled using the Universal force field, with geometry optimization performed via Forcite Geometry Optimization. The simulations were run in an NVT ensemble for a duration of 500 picoseconds.</p></sec></sec><sec sec-type="results" id="sec3-materials-18-02415"><title>3. Results and Discussion</title><sec id="sec3dot1-materials-18-02415"><title>3.1. The Solvation Structures in ZSM Electrolytes</title><p>Molecular dynamics (MD) simulations were conducted to investigate the structural and dynamic properties of the ZSM electrolytes. For comparison, 2 M LiFSI DME electrolytes (hereafter referred to as DME electrolytes) were also analyzed (<xref rid="app1-materials-18-02415" ref-type="app">Figure S1</xref>). In DME electrolytes (<xref rid="materials-18-02415-f002" ref-type="fig">Figure 2</xref>a), Li<sup>+</sup> ions were predominantly surrounded by DME molecules within their solvation shells, which is detrimental to the stability of the lithium metal interface (<xref rid="materials-18-02415-f002" ref-type="fig">Figure 2</xref>b) [<xref rid="B45-materials-18-02415" ref-type="bibr">45</xref>]. Mean square displacement (MSD) simulations revealed that Li<sup>+</sup> ions exhibited a lower diffusion rate compared to the relatively larger FSI<sup>&#x02212;</sup> anions (<xref rid="materials-18-02415-f002" ref-type="fig">Figure 2</xref>c). This reduced diffusion efficiency can be attributed to the extensive coordination of Li<sup>+</sup> with numerous DME molecules, hindering ion mobility. According to sand theory, such low Li<sup>+</sup> diffusion efficiency can promote dendrite formation [<xref rid="B46-materials-18-02415" ref-type="bibr">46</xref>]. In contrast, when DME electrolytes passed through the ZSM-5-sieving channels (<xref rid="materials-18-02415-f002" ref-type="fig">Figure 2</xref>d), a certain amount of FSI<sup>&#x02212;</sup> anions entered the solvation structures (<xref rid="materials-18-02415-f002" ref-type="fig">Figure 2</xref>e), contributing to an anion-rich interphase. Furthermore, MSD simulations demonstrated an enhanced Li<sup>+</sup> diffusion rate (<xref rid="materials-18-02415-f002" ref-type="fig">Figure 2</xref>f), facilitating more uniform lithium metal deposition according to sand theory [<xref rid="B46-materials-18-02415" ref-type="bibr">46</xref>].</p><p>XRD tests on ZSM-5 molecular sieves show that their composition mainly consists of Al<sub>2</sub>O<sub>3</sub> and SiO<sub>2</sub> (<xref rid="app1-materials-18-02415" ref-type="app">Figure S2</xref>). The mass composition of the ZSM-5 molecular sieve powder was further determined by EDX analysis, in which the content of SiO<sub>2</sub> was significantly higher (<xref rid="app1-materials-18-02415" ref-type="app">Figure S3</xref>). Raman spectroscopy was used for further probing the solvation structures in ZSM electrolytes (<xref rid="materials-18-02415-f002" ref-type="fig">Figure 2</xref>g). Commercial ZSM-5 zeolite powders were fabricated into membranes (<xref rid="app1-materials-18-02415" ref-type="app">Figures S4&#x02013;S12</xref>). ZSM ion-sieving membranes were impregnated with DME electrolytes for testing. Raman analysis showed that in DME electrolytes, the solvation structures were predominantly SSIPs at 741.1 cm<sup>&#x02212;1</sup>, with few CIPs present at 743.9 cm<sup>&#x02212;1</sup>. Conversely, in ZSM electrolytes, the S-N-S bending vibration in FSI<sup>&#x02212;</sup> shifted from an SSIP-dominant structure to a CIP-dominated one, indicative of anion-rich solvation structures forming on the lithium metal surface [<xref rid="B47-materials-18-02415" ref-type="bibr">47</xref>,<xref rid="B48-materials-18-02415" ref-type="bibr">48</xref>,<xref rid="B49-materials-18-02415" ref-type="bibr">49</xref>].</p></sec><sec id="sec3dot2-materials-18-02415"><title>3.2. Electrochemical Performance of the Electrolytes</title><p>Li||Li symmetric cells were assembled to perform electrochemical impedance spectroscopy (EIS) tests (<xref rid="materials-18-02415-f003" ref-type="fig">Figure 3</xref>a,b and <xref rid="app1-materials-18-02415" ref-type="app">Table S1</xref>). For both electrolyte types, the ohmic impedance in the high-frequency region and the charge transfer impedance in the mid-frequency region increased over cycling. However, these impedance increases were significantly slower in ZSM cells, indicating improved interface stability. Moreover, the impedance values in ZSM cells were notably lower than those in DME cells, suggesting enhanced interfacial kinetics.</p><p>According to the equivalent circuit diagram (<xref rid="materials-18-02415-f003" ref-type="fig">Figure 3</xref>c,d and <xref rid="app1-materials-18-02415" ref-type="app">Figure S13</xref>, and <xref rid="app1-materials-18-02415" ref-type="app">Table S2</xref>), E<sub>a1</sub> represents the activation energy for Li<sup>+</sup> diffusion in the SEI, while E<sub>a2</sub> denotes the activation energy for stripping the solvation shell from lithium ions [<xref rid="B45-materials-18-02415" ref-type="bibr">45</xref>]. As shown in <xref rid="materials-18-02415-f003" ref-type="fig">Figure 3</xref>e,f, E<sub>a1</sub> in ZSM electrolytes was 31.18 kJ mol<sup>&#x02212;1</sup>, lower than in DME electrolytes (39.24 kJ mol<sup>&#x02212;1</sup>), indicating better Li<sup>+</sup> diffusion efficiency in the SEI of ZSM electrolytes. Similarly, E<sub>a2</sub> in ZSM electrolytes was 45.32 kJ mol<sup>&#x02212;1</sup>, significantly lower than in DME electrolytes (57.81 kJ mol<sup>&#x02212;1</sup>), implying faster Li<sup>+</sup> transport kinetics at the lithium metal interface [<xref rid="B47-materials-18-02415" ref-type="bibr">47</xref>]. This result is significantly better than the data obtained in other studies based on LiFSI salts and DME solvent electrolytes (E<sub>a1</sub> = 71.2 kJ mol<sup>&#x02212;1</sup>, E<sub>a2</sub> = 48.1 kJ mol<sup>&#x02212;1</sup>) [<xref rid="B45-materials-18-02415" ref-type="bibr">45</xref>].</p><p>The Tafel test to calculate the exchange current density is an important method to evaluate the kinetics of electrode reactions, which can reflect the ease of charge transfer. By extending the polarization curves of the anode and cathode of the Tafel curve, the logarithm of the exchange current density can be obtained at the point of intersection. Tafel tests (<xref rid="materials-18-02415-f004" ref-type="fig">Figure 4</xref>a) indicated a current density of 0.972 mA cm<sup>&#x02212;2</sup> in ZSM electrolytes, higher than in DME electrolytes (0.907 mA cm<sup>&#x02212;2</sup>), signaling enhanced interfacial reaction kinetics in ZSM electrolytes, which is consistent with simulation results [<xref rid="B48-materials-18-02415" ref-type="bibr">48</xref>]. Additionally, the Tafel slope in ZSM electrolytes was markedly higher than in DME electrolytes (<xref rid="materials-18-02415-f004" ref-type="fig">Figure 4</xref>b) [<xref rid="B49-materials-18-02415" ref-type="bibr">49</xref>].</p><p>CE tests were adopted for evaluating the long-term cycling stability of lithium metal anodes. At a current density of 0.5 mA cm<sup>&#x02212;2</sup> over 500 cycles (<xref rid="materials-18-02415-f004" ref-type="fig">Figure 4</xref>c), DME electrolyte-based cells displayed an average CE of 97.87% with significant fluctuations. By contrast, ZSM electrolyte-based cells exhibited stable cycling for 750 cycles with an average CE of 98.76%, highlighting the superiority of ZSM-sieving channels for lithium metal interface stability. When the current density increased to 1 mA cm<sup>&#x02212;2</sup> (<xref rid="materials-18-02415-f004" ref-type="fig">Figure 4</xref>d), DME cells sustained only 250 cycles with an average CE of 96.55%. In comparison, ZSM cells maintained an average CE of 98.91% for 400 cycles. Li||Cu cells based on ZSM electrolytes showed a polarization potential increase from 16.1 mV to 31.4 mV between the 50th and 500th cycles at 0.5 mA cm<sup>&#x02212;2</sup> (<xref rid="materials-18-02415-f004" ref-type="fig">Figure 4</xref>e,f), demonstrating superior performance over DME electrolytes (from 25 mV to 47.9 mV). At 1 mA cm<sup>&#x02212;2</sup>, ZSM cells still exhibited lower polarization potentials (<xref rid="app1-materials-18-02415" ref-type="app">Figures S14 and S15</xref>).</p><p>Li||Li symmetric cells were tested to investigate polarization potential during cycling in ZSM electrolytes. DME electrolyte-based cells experienced a sudden increase in polarization potential after 500 h at a testing current of 0.5 mA cm<sup>&#x02212;2</sup>. Conversely, ZSM cells operated stably for 1000 h with minimal potential polarization increase (<xref rid="materials-18-02415-f004" ref-type="fig">Figure 4</xref>g), confirming improved lithium metal interface stability, consistent with Li||Cu test results. At 1 mA cm<sup>&#x02212;2</sup>, ZSM cells remained stable for 1000 h (<xref rid="materials-18-02415-f004" ref-type="fig">Figure 4</xref>h).</p></sec><sec id="sec3dot3-materials-18-02415"><title>3.3. Interfacial Properties of ZSM Electrolytes</title><p>Scanning electron microscopy (SEM) examined the lithium metal surface morphology after 50 cycles (<xref rid="app1-materials-18-02415" ref-type="app">Figure S16</xref>). DME electrolytes led to randomly distributed lithium dendrites on the lithium metal surface after continuous plating/stripping (<xref rid="materials-18-02415-f005" ref-type="fig">Figure 5</xref>a), potentially causing short circuits. In stark contrast, ZSM cells exhibited a much smoother lithium metal surface with almost no visible dendrites (<xref rid="materials-18-02415-f005" ref-type="fig">Figure 5</xref>b), demonstrating excellent interface stability.</p><p>X-ray photoelectron spectroscopy (XPS) was utilized to investigate the composition of the SEIs that formed on the lithium metal surface in ZSM electrolytes. Peaks at 289.8, 288.2, 286.4, and 284.8 eV in the C 1s spectrum (<xref rid="materials-18-02415-f005" ref-type="fig">Figure 5</xref>c) corresponded to ROCO<sub>2</sub>Li, C=O, C-O, and C-C, respectively [<xref rid="B50-materials-18-02415" ref-type="bibr">50</xref>,<xref rid="B51-materials-18-02415" ref-type="bibr">51</xref>]. Compared to ZSM electrolytes, DME electrolytes showed more ROCO<sub>2</sub>Li composition in the SEIs, likely due to higher reactivity towards lithium metal, which could obstruct ion transport in the SEIs. In ZSM cells, an enhanced LiF characteristic peak appeared at 648.8 eV, which is beneficial for lithium metal interface stability (<xref rid="materials-18-02415-f005" ref-type="fig">Figure 5</xref>d) [<xref rid="B52-materials-18-02415" ref-type="bibr">52</xref>,<xref rid="B53-materials-18-02415" ref-type="bibr">53</xref>,<xref rid="B54-materials-18-02415" ref-type="bibr">54</xref>].</p></sec><sec id="sec3dot4-materials-18-02415"><title>3.4. Performance of LFP||Li Full Batteries</title><p>To further demonstrate the effectiveness of ZSM electrolytes, LFP||Li batteries were tested at 1 C (<xref rid="materials-18-02415-f006" ref-type="fig">Figure 6</xref>a). DME battery capacity sharply dropped after 200 cycles (capacity retention at 300 laps is only 41.33%). The results of this test are consistent with the study of Zhang et al. [<xref rid="B55-materials-18-02415" ref-type="bibr">55</xref>]. The DME electrolytes are unable to maintain a stable long cycling. However, ZSM batteries stably cycled 900 times with a capacity retention of 50.5%, showing improved stability. Voltage curves under different cycle times (<xref rid="materials-18-02415-f006" ref-type="fig">Figure 6</xref>b,c) highlighted the superiority of ZSM batteries. After 200 cycles, the discharge capacity of DME batteries decreased to 109 mAh g<sup>&#x02212;1</sup>, and this capacity rapidly decreased to 63 mAh g<sup>&#x02212;1</sup> after 250 cycles. In addition, the DME batteries showed a certain degree of voltage decay during charging and discharging, with the discharge voltage dropping from 3.4 V to 3.3 V. In contrast, the ZSM battery exhibited a discharge capacity of 121 mAh g<sup>&#x02212;1</sup> after 300 cycles without voltage degradation. These results underscore the critical role of the anion-rich interface in ZSM electrolytes for enhancing battery cycling stability. The inorganic-rich SEI film formed at the anion-rich interface has higher mechanical strength, induces uniform Li<sup>+</sup> deposition, and avoids the growth of lithium dendrites. This is particularly important for the cycling performance of lithium metal batteries.</p></sec></sec><sec sec-type="conclusions" id="sec4-materials-18-02415"><title>4. Conclusions</title><p>In this study, we utilized ZSM-5 zeolite molecular sieves as effective ion-sieving channels for the lithium metal anode interface without altering the bulk electrolyte structure. Li||Cu cells achieved an average CE of 98.76% over 700 h, and LiFePO<sub>4</sub>||Li batteries remained stable for 900 cycles at 1 C. The excellent electrochemical properties can be attributed to the following: (1) the uniform pore structure within the molecular sieve efficiently expels a portion of the solvent from the solvation structures, leading to an anion-rich interphase and promoting the formation of anion-derived SEIs; (2) sieved electrolytes have better interfacial dynamics and lower desolvation energy; and (3) the increased LiF component in these SEIs significantly enhances lithium metal interface stability. This design strategy may provide a new direction for effective interface regulation in lithium metal batteries, paving the way for advancements in high-energy-density storage systems.</p></sec></body><back><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><app-group><app id="app1-materials-18-02415"><title>Supplementary Materials</title><p>The following supporting information can be downloaded at: <uri xlink:href="https://www.mdpi.com/article/10.3390/ma18112415/s1">https://www.mdpi.com/article/10.3390/ma18112415/s1</uri>, Figure S1: Molecular structure of the LiFSI salt and DME solvent.; Figure S2: XRD diagram of ZSM-5 powder; Figure S3: (a) SEM image of ZSM-5 molecular sieve powder; (b-e) Elemental composition and EDX elemental Mapping of ZSM-5 molecular sieve powder; Figure S4: ZSM-5 molecular sieve powder; Figure S5: Molecular structure of ZSM-5 molecular sieve.; Figure S6: DSC profile of ZSM-5 Zeolite; Figure S7: SEM image of ZSM-5 molecular sieve powder; Figure S8: Optical picture of ZSM-5 membrane; Figure S9: <bold>(</bold>a) Optical picture of Celgard 2500 diaphragm; (b) Optical picture of ZSM-5 modified diaphragm; Figure S10: SEM image of ZSM-5 modified diaphragm surface; Figure S11: Cross-section observation of unpressed ZSM-5 modified diaphragm; Figure S12: Cross-section observation of pressed ZSM-5 modified diaphragm; Figure S13: The equivalent circuit models.; Figure S14: Polarization curves of plating/stripping process in DME electrolytes at 1 mA cm<sup>-2</sup>; Figure S15: Polarization curves of plating/stripping process in ZSM electrolytes at 1 mA cm<sup>-2</sup>; Figure S16: (a) Top-view SEM images of the Li-metal electrode with DME electrolytes after 50 cycles; (b) Top-view SEM images of the Li-metal electrode with ZSM electrolytes after 50 cycles; Table S1: The fitted parameters of Nyquist plots with different number of cycles; Table S2: The fitted parameters of Nyquist plots with different temperatures.</p><supplementary-material id="materials-18-02415-s001" position="float" content-type="local-data"><media xlink:href="materials-18-02415-s001.zip"/></supplementary-material></app></app-group><notes><title>Author Contributions</title><p>Conceptualization, Y.L. and Q.L.; methodology, Y.L. and Q.L.; software, H.L. and D.S.; validation, Y.L.; formal analysis, Y.L.; investigation, H.H.; resources, Q.L. and J.Y.; data curation, Y.L.; writing&#x02014;original draft preparation, Y.L.; writing&#x02014;review and editing, Q.L.; visualization, X.H., L.K. and J.W.; supervision, J.Y. and Q.L.; project administration, Q.L.; funding acquisition, J.Y. and Q.L. All authors have read and agreed to the published version of the manuscript.</p></notes><notes><title>Institutional Review Board Statement</title><p>Not applicable.</p></notes><notes><title>Informed Consent Statement</title><p>Not applicable.</p></notes><notes notes-type="data-availability"><title>Data Availability Statement</title><p>The original contributions presented in this study are included in the article/<xref rid="app1-materials-18-02415" ref-type="app">Supplementary Material</xref>. Further inquiries can be directed to the corresponding authors.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></notes><ref-list><title>References</title><ref id="B1-materials-18-02415"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+<name><surname>Yang</surname><given-names>H.X.</given-names></name>
+<name><surname>Ai</surname><given-names>X.P.</given-names></name>
+</person-group><article-title>Routes to Electrochemically Stable Sulfur Cathodes for Practical Li-S Batteries</article-title><source>Adv. Mater.</source><year>2023</year><volume>6</volume><fpage>2305038</fpage><pub-id pub-id-type="doi">10.1002/adma.202305038</pub-id><?supplied-pmid 37867204?><pub-id pub-id-type="pmid">37867204</pub-id>
+</element-citation></ref><ref id="B2-materials-18-02415"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.Y.</given-names></name>
+<name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<name><surname>Matsumoto</surname><given-names>S.</given-names></name>
+<name><surname>Hoshikawa</surname><given-names>H.</given-names></name>
+<name><surname>Kumagai</surname><given-names>T.</given-names></name>
+<name><surname>Okamoto</surname><given-names>N.L.</given-names></name>
+<name><surname>Ichitsubo</surname><given-names>T.</given-names></name>
+</person-group><article-title>Circumventing huge volume strain in alloy anodes of lithium batteries</article-title><source>Nat. Commun.</source><year>2020</year><volume>11</volume><fpage>1584</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-15452-0</pub-id><?supplied-pmid 32284535?><pub-id pub-id-type="pmid">32284535</pub-id>
+</element-citation></ref><ref id="B3-materials-18-02415"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.H.</given-names></name>
+<name><surname>Zhou</surname><given-names>J.Q.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.K.</given-names></name>
+<name><surname>Zhu</surname><given-names>P.</given-names></name>
+<name><surname>Cao</surname><given-names>Y.F.</given-names></name>
+<name><surname>Zheng</surname><given-names>Y.W.</given-names></name>
+<name><surname>Zhou</surname><given-names>X.</given-names></name>
+<name><surname>Yan</surname><given-names>C.L.</given-names></name>
+<name><surname>Qian</surname><given-names>T.</given-names></name>
+</person-group><article-title>Advances and Prospects in Improving the Utilization Efficiency of Lithium for High Energy Density Lithium Batteries</article-title><source>Adv. Funct. Mater.</source><year>2023</year><volume>33</volume><fpage>2302055</fpage><pub-id pub-id-type="doi">10.1002/adfm.202302055</pub-id></element-citation></ref><ref id="B4-materials-18-02415"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>S.S.</given-names></name>
+<name><surname>Chen</surname><given-names>H.</given-names></name>
+<name><surname>Zheng</surname><given-names>M.T.</given-names></name>
+<name><surname>Zhu</surname><given-names>Y.X.</given-names></name>
+<name><surname>Xing</surname><given-names>C.</given-names></name>
+<name><surname>Tian</surname><given-names>Y.H.</given-names></name>
+<name><surname>Yang</surname><given-names>P.</given-names></name>
+<name><surname>Wu</surname><given-names>Z.Z.</given-names></name>
+<name><surname>Zhang</surname><given-names>S.Q.</given-names></name>
+</person-group><article-title>Complementary combination of lithium protection strategies for robust and longevous lithium metal batteries</article-title><source>Energy Storage Mater.</source><year>2023</year><volume>57</volume><fpage>229</fpage><lpage>248</lpage><pub-id pub-id-type="doi">10.1016/j.ensm.2023.02.019</pub-id></element-citation></ref><ref id="B5-materials-18-02415"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>S.</given-names></name>
+<name><surname>Park</surname><given-names>G.</given-names></name>
+<name><surname>Lee</surname><given-names>S.J.</given-names></name>
+<name><surname>Seo</surname><given-names>S.</given-names></name>
+<name><surname>Ryu</surname><given-names>K.</given-names></name>
+<name><surname>Kim</surname><given-names>C.H.</given-names></name>
+<name><surname>Choi</surname><given-names>J.W.</given-names></name>
+</person-group><article-title>Lithium-Metal Batteries: From Fundamental Research to Industrialization</article-title><source>Adv. Mater.</source><year>2023</year><volume>35</volume><fpage>2206625</fpage><pub-id pub-id-type="doi">10.1002/adma.202206625</pub-id></element-citation></ref><ref id="B6-materials-18-02415"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Bao</surname><given-names>Z.N.</given-names></name>
+<name><surname>Cui</surname><given-names>Y.</given-names></name>
+<name><surname>Dufek</surname><given-names>E.J.</given-names></name>
+<name><surname>Goodenough</surname><given-names>J.B.</given-names></name>
+<name><surname>Khalifah</surname><given-names>P.</given-names></name>
+<name><surname>Li</surname><given-names>Q.Y.</given-names></name>
+<name><surname>Liaw</surname><given-names>B.Y.</given-names></name>
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+<name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Pathways for practical high-energy long-cycling lithium metal batteries</article-title><source>Nat. Energy</source><year>2019</year><volume>4</volume><fpage>180</fpage><lpage>186</lpage><pub-id pub-id-type="doi">10.1038/s41560-019-0338-x</pub-id></element-citation></ref><ref id="B7-materials-18-02415"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+<name><surname>Basu</surname><given-names>S.</given-names></name>
+<name><surname>Wang</surname><given-names>Y.P.</given-names></name>
+<name><surname>Chen</surname><given-names>Z.Z.</given-names></name>
+<name><surname>Hundekar</surname><given-names>P.</given-names></name>
+<name><surname>Wang</surname><given-names>B.W.</given-names></name>
+<name><surname>Shi</surname><given-names>J.</given-names></name>
+<name><surname>Shi</surname><given-names>Y.F.</given-names></name>
+<name><surname>Narayanan</surname><given-names>S.</given-names></name>
+<name><surname>Koratkar</surname><given-names>N.</given-names></name>
+</person-group><article-title>Self-heating-induced healing of lithium dendrites</article-title><source>Science</source><year>2018</year><volume>359</volume><fpage>1513</fpage><lpage>1516</lpage><pub-id pub-id-type="doi">10.1126/science.aap8787</pub-id><pub-id pub-id-type="pmid">29599241</pub-id>
+</element-citation></ref><ref id="B8-materials-18-02415"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.Y.</given-names></name>
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+<name><surname>Shen</surname><given-names>Y.H.</given-names></name>
+<name><surname>Wu</surname><given-names>J.K.</given-names></name>
+<name><surname>Zhao</surname><given-names>Z.Q.</given-names></name>
+<name><surname>Zhong</surname><given-names>C.</given-names></name>
+<name><surname>Hu</surname><given-names>W.B.</given-names></name>
+</person-group><article-title>Confronting the Challenges in Lithium Anodes for Lithium Metal Batteries</article-title><source>Adv. Sci.</source><year>2021</year><volume>8</volume><fpage>2101111</fpage><pub-id pub-id-type="doi">10.1002/advs.202101111</pub-id></element-citation></ref><ref id="B9-materials-18-02415"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tatara</surname><given-names>R.</given-names></name>
+<name><surname>Yu</surname><given-names>Y.</given-names></name>
+<name><surname>Karayaylali</surname><given-names>P.</given-names></name>
+<name><surname>Chan</surname><given-names>A.K.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.R.</given-names></name>
+<name><surname>Jung</surname><given-names>R.</given-names></name>
+<name><surname>Maglia</surname><given-names>F.</given-names></name>
+<name><surname>Giordano</surname><given-names>L.</given-names></name>
+<name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Enhanced Cycling Performance of Ni-Rich Positive Electrodes (NMC) in Li-Ion Batteries by Reducing Electrolyte Free-Solvent Activity</article-title><source>ACS Appl. Mater. Interfaces</source><year>2019</year><volume>11</volume><fpage>34973</fpage><lpage>34988</lpage><pub-id pub-id-type="doi">10.1021/acsami.9b11942</pub-id><pub-id pub-id-type="pmid">31433154</pub-id>
+</element-citation></ref><ref id="B10-materials-18-02415"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>H.M.</given-names></name>
+<name><surname>Wang</surname><given-names>L.</given-names></name>
+<name><surname>Sheng</surname><given-names>L.</given-names></name>
+<name><surname>Xu</surname><given-names>H.</given-names></name>
+<name><surname>Song</surname><given-names>Y.Z.</given-names></name>
+<name><surname>He</surname><given-names>X.M.</given-names></name>
+</person-group><article-title>Focus on the Electroplating Chemistry of Li Ions in Nonaqueous Liquid Electrolytes: Toward Stable Lithium Metal Batteries</article-title><source>Electrochem. Energy Rev.</source><year>2022</year><volume>5</volume><fpage>54</fpage><pub-id pub-id-type="doi">10.1007/s41918-022-00158-2</pub-id></element-citation></ref><ref id="B11-materials-18-02415"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>W.J.</given-names></name>
+<name><surname>Shi</surname><given-names>Z.</given-names></name>
+<name><surname>Huang</surname><given-names>M.J.</given-names></name>
+<name><surname>Feng</surname><given-names>S.T.</given-names></name>
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+<name><surname>Lopez</surname><given-names>J.</given-names></name>
+<name><surname>Qiao</surname><given-names>B.</given-names></name>
+<name><surname>Xu</surname><given-names>G.Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>W.X.</given-names></name>
+<etal/>
+</person-group><article-title>FSI-inspired solvent and &#x0201c;full fluorosulfonyl&#x0201d; electrolyte for 4 V class lithium-metal batteries</article-title><source>Energy Environ. Sci.</source><year>2020</year><volume>13</volume><fpage>212</fpage><lpage>220</lpage><pub-id pub-id-type="doi">10.1039/C9EE02538C</pub-id></element-citation></ref><ref id="B12-materials-18-02415"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>X.W.</given-names></name>
+<name><surname>Li</surname><given-names>Y.T.</given-names></name>
+<name><surname>Qian</surname><given-names>T.</given-names></name>
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Zhou</surname><given-names>J.Q.</given-names></name>
+<name><surname>Yan</surname><given-names>C.L.</given-names></name>
+<name><surname>Goodenough</surname><given-names>J.B.</given-names></name>
+</person-group><article-title>Lithium anode stable in air for low-cost fabrication of a dendrite-free lithium battery</article-title><source>Nat. Commun.</source><year>2019</year><volume>10</volume><fpage>900</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-08767-0</pub-id><pub-id pub-id-type="pmid">30796214</pub-id>
+</element-citation></ref><ref id="B13-materials-18-02415"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.F.</given-names></name>
+<name><surname>Zhong</surname><given-names>Y.R.</given-names></name>
+<name><surname>Wu</surname><given-names>Z.S.</given-names></name>
+<name><surname>Wang</surname><given-names>B.</given-names></name>
+<name><surname>Liang</surname><given-names>S.Q.</given-names></name>
+<name><surname>Wang</surname><given-names>H.L.</given-names></name>
+</person-group><article-title>Solvent Molecule Cooperation Enhancing Lithium Metal Battery Performance at Both Electrodes</article-title><source>Angew. Chem.-Int. Edit.</source><year>2020</year><volume>59</volume><fpage>7797</fpage><lpage>7802</lpage><pub-id pub-id-type="doi">10.1002/anie.202000023</pub-id><?supplied-pmid 32022448?><pub-id pub-id-type="pmid">32022448</pub-id>
+</element-citation></ref><ref id="B14-materials-18-02415"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>Z.</given-names></name>
+<name><surname>Qiao</surname><given-names>Y.</given-names></name>
+<name><surname>Deng</surname><given-names>H.</given-names></name>
+<name><surname>Yang</surname><given-names>H.J.</given-names></name>
+<name><surname>He</surname><given-names>P.</given-names></name>
+<name><surname>Zhou</surname><given-names>H.S.</given-names></name>
+</person-group><article-title>A stable high-voltage lithium-ion battery realized by an in-built water scavenger</article-title><source>Energy Environ. Sci.</source><year>2020</year><volume>13</volume><fpage>1197</fpage><lpage>1204</lpage><pub-id pub-id-type="doi">10.1039/D0EE00060D</pub-id></element-citation></ref><ref id="B15-materials-18-02415"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dou</surname><given-names>Q.Y.</given-names></name>
+<name><surname>Lei</surname><given-names>S.L.</given-names></name>
+<name><surname>Wang</surname><given-names>D.W.</given-names></name>
+<name><surname>Zhang</surname><given-names>Q.N.</given-names></name>
+<name><surname>Xiao</surname><given-names>D.W.</given-names></name>
+<name><surname>Guo</surname><given-names>H.W.</given-names></name>
+<name><surname>Wang</surname><given-names>A.P.</given-names></name>
+<name><surname>Yang</surname><given-names>H.</given-names></name>
+<name><surname>Li</surname><given-names>Y.L.</given-names></name>
+<name><surname>Shi</surname><given-names>S.Q.</given-names></name>
+<etal/>
+</person-group><article-title>Safe and high-rate supercapacitors based on an &#x0201c;acetonitrile/water in salt&#x0201d; hybrid electrolyte</article-title><source>Energy Environ. Sci.</source><year>2018</year><volume>11</volume><fpage>3212</fpage><lpage>3219</lpage><pub-id pub-id-type="doi">10.1039/C8EE01040D</pub-id></element-citation></ref><ref id="B16-materials-18-02415"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>J.F.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.T.</given-names></name>
+<name><surname>Xu</surname><given-names>R.</given-names></name>
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+<name><surname>Bi</surname><given-names>C.X.</given-names></name>
+<name><surname>Tang</surname><given-names>C.</given-names></name>
+<name><surname>Xiang</surname><given-names>R.</given-names></name>
+<name><surname>Park</surname><given-names>H.S.</given-names></name>
+<etal/>
+</person-group><article-title>Review on lithium metal anodes towards high energy density batteries</article-title><source>Green Energy Environ.</source><year>2023</year><volume>8</volume><fpage>1509</fpage><lpage>1530</lpage><pub-id pub-id-type="doi">10.1016/j.gee.2022.08.002</pub-id></element-citation></ref><ref id="B17-materials-18-02415"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Z.J.</given-names></name>
+<name><surname>Lai</surname><given-names>J.C.</given-names></name>
+<name><surname>Liao</surname><given-names>S.L.</given-names></name>
+<name><surname>Yu</surname><given-names>Z.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.L.</given-names></name>
+<name><surname>Yu</surname><given-names>W.L.</given-names></name>
+<name><surname>Gong</surname><given-names>H.X.</given-names></name>
+<name><surname>Gao</surname><given-names>X.</given-names></name>
+<name><surname>Yang</surname><given-names>Y.F.</given-names></name>
+<name><surname>Qin</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>A salt-philic, solvent-phobic interfacial coating design for lithium metal electrodes</article-title><source>Nat. Energy</source><year>2023</year><volume>8</volume><fpage>577</fpage><lpage>585</lpage><pub-id pub-id-type="doi">10.1038/s41560-023-01252-5</pub-id></element-citation></ref><ref id="B18-materials-18-02415"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>Y.S.</given-names></name>
+<name><surname>Srinivasan</surname><given-names>V.</given-names></name>
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><article-title>Designing better electrolytes</article-title><source>Science</source><year>2022</year><volume>378</volume><elocation-id>abq3750</elocation-id><pub-id pub-id-type="doi">10.1126/science.abq3750</pub-id></element-citation></ref><ref id="B19-materials-18-02415"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><article-title>Electrolytes and Interphases in Li-Ion Batteries and Beyond</article-title><source>Chem. Rev.</source><year>2014</year><volume>114</volume><fpage>11503</fpage><lpage>11618</lpage><pub-id pub-id-type="doi">10.1021/cr500003w</pub-id><pub-id pub-id-type="pmid">25351820</pub-id>
+</element-citation></ref><ref id="B20-materials-18-02415"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.L.</given-names></name>
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+<name><surname>Borodin</surname><given-names>O.</given-names></name>
+<name><surname>Ji</surname><given-names>X.</given-names></name>
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+<name><surname>Hou</surname><given-names>S.</given-names></name>
+<name><surname>Deng</surname><given-names>T.</given-names></name>
+<name><surname>Zheng</surname><given-names>J.</given-names></name>
+<name><surname>Yang</surname><given-names>C.Y.</given-names></name>
+<name><surname>Liou</surname><given-names>S.C.</given-names></name>
+<etal/>
+</person-group><article-title>Non-flammable electrolyte enables Li-metal batteries with aggressive cathode chemistries</article-title><source>Nat. Nanotechnol.</source><year>2018</year><volume>13</volume><fpage>1191</fpage><pub-id pub-id-type="doi">10.1038/s41565-018-0293-x</pub-id></element-citation></ref><ref id="B21-materials-18-02415"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><article-title>Nonaqueous liquid electrolytes for lithium-based rechargeable batteries</article-title><source>Chem. Rev.</source><year>2004</year><volume>104</volume><fpage>4303</fpage><lpage>4417</lpage><pub-id pub-id-type="doi">10.1021/cr030203g</pub-id><?supplied-pmid 15669157?><pub-id pub-id-type="pmid">15669157</pub-id>
+</element-citation></ref><ref id="B22-materials-18-02415"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiao</surname><given-names>S.H.</given-names></name>
+<name><surname>Ren</surname><given-names>X.D.</given-names></name>
+<name><surname>Cao</surname><given-names>R.G.</given-names></name>
+<name><surname>Engelhard</surname><given-names>M.H.</given-names></name>
+<name><surname>Liu</surname><given-names>Y.Z.</given-names></name>
+<name><surname>Hu</surname><given-names>D.H.</given-names></name>
+<name><surname>Mei</surname><given-names>D.H.</given-names></name>
+<name><surname>Zheng</surname><given-names>J.M.</given-names></name>
+<name><surname>Zhao</surname><given-names>W.G.</given-names></name>
+<name><surname>Li</surname><given-names>Q.Y.</given-names></name>
+<etal/>
+</person-group><article-title>Stable cycling of high-voltage lithium metal batteries in ether electrolytes</article-title><source>Nat. Energy</source><year>2018</year><volume>3</volume><fpage>739</fpage><lpage>746</lpage><pub-id pub-id-type="doi">10.1038/s41560-018-0199-8</pub-id></element-citation></ref><ref id="B23-materials-18-02415"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.L.</given-names></name>
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+<name><surname>Ji</surname><given-names>X.</given-names></name>
+<name><surname>Deng</surname><given-names>T.</given-names></name>
+<name><surname>Hou</surname><given-names>S.Y.</given-names></name>
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+<name><surname>Zheng</surname><given-names>J.</given-names></name>
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+<name><surname>Jiang</surname><given-names>J.J.</given-names></name>
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>Highly Fluorinated Interphases Enable High-Voltage Li-Metal Batteries</article-title><source>Chem</source><year>2018</year><volume>4</volume><fpage>174</fpage><lpage>185</lpage><pub-id pub-id-type="doi">10.1016/j.chempr.2017.10.017</pub-id></element-citation></ref><ref id="B24-materials-18-02415"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>J.J.</given-names></name>
+<name><surname>Wang</surname><given-names>C.S.</given-names></name>
+</person-group><article-title>Perspective-Electrolyte Design for Aqueous Batteries: From Ultra-High Concentration to Low Concentration</article-title><source>J. Electrochem. Soc.</source><year>2022</year><volume>169</volume><fpage>030530</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/ac5ba9</pub-id></element-citation></ref><ref id="B25-materials-18-02415"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.H.</given-names></name>
+<name><surname>Yamada</surname><given-names>Y.</given-names></name>
+<name><surname>Sodeyama</surname><given-names>K.</given-names></name>
+<name><surname>Chiang</surname><given-names>C.H.</given-names></name>
+<name><surname>Tateyama</surname><given-names>Y.</given-names></name>
+<name><surname>Yamada</surname><given-names>A.</given-names></name>
+</person-group><article-title>Superconcentrated electrolytes for a high-voltage lithium-ion battery</article-title><source>Nat. Commun.</source><year>2016</year><volume>7</volume><fpage>12032</fpage><pub-id pub-id-type="doi">10.1038/ncomms12032</pub-id><pub-id pub-id-type="pmid">27354162</pub-id>
+</element-citation></ref><ref id="B26-materials-18-02415"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Suo</surname><given-names>L.M.</given-names></name>
+<name><surname>Borodin</surname><given-names>O.</given-names></name>
+<name><surname>Gao</surname><given-names>T.</given-names></name>
+<name><surname>Olguin</surname><given-names>M.</given-names></name>
+<name><surname>Ho</surname><given-names>J.</given-names></name>
+<name><surname>Fan</surname><given-names>X.L.</given-names></name>
+<name><surname>Luo</surname><given-names>C.</given-names></name>
+<name><surname>Wang</surname><given-names>C.S.</given-names></name>
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><article-title>&#x0201c;Water-in-salt&#x0201d; electrolyte enables high-voltage aqueous lithium-ion chemistries</article-title><source>Science</source><year>2015</year><volume>350</volume><fpage>938</fpage><lpage>943</lpage><pub-id pub-id-type="doi">10.1126/science.aab1595</pub-id><pub-id pub-id-type="pmid">26586759</pub-id>
+</element-citation></ref><ref id="B27-materials-18-02415"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.C.</given-names></name>
+<name><surname>Li</surname><given-names>R.H.</given-names></name>
+<name><surname>Zhang</surname><given-names>S.Q.</given-names></name>
+<name><surname>Lv</surname><given-names>L.</given-names></name>
+<name><surname>Deng</surname><given-names>T.</given-names></name>
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+<name><surname>Zhang</surname><given-names>R.X.</given-names></name>
+<name><surname>Liu</surname><given-names>J.J.</given-names></name>
+<name><surname>Ding</surname><given-names>S.H.</given-names></name>
+<name><surname>Fan</surname><given-names>L.W.</given-names></name>
+<etal/>
+</person-group><article-title>Deciphering and modulating energetics of solvation structure enables aggressive high-voltage chemistry of Li metal batteries</article-title><source>Chem</source><year>2023</year><volume>9</volume><fpage>650</fpage><lpage>664</lpage><pub-id pub-id-type="doi">10.1016/j.chempr.2022.10.027</pub-id></element-citation></ref><ref id="B28-materials-18-02415"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.E.</given-names></name>
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+<name><surname>Fang</surname><given-names>M.M.</given-names></name>
+<name><surname>Ke</surname><given-names>C.M.</given-names></name>
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+<name><surname>Wang</surname><given-names>J.H.</given-names></name>
+</person-group><article-title>Design of Localized High-Concentration Electrolytes via Donor Number</article-title><source>ACS Energy Lett.</source><year>2023</year><volume>8</volume><fpage>1723</fpage><lpage>1734</lpage><pub-id pub-id-type="doi">10.1021/acsenergylett.3c00004</pub-id></element-citation></ref><ref id="B29-materials-18-02415"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Suo</surname><given-names>L.M.</given-names></name>
+<name><surname>Xue</surname><given-names>W.J.</given-names></name>
+<name><surname>Gobet</surname><given-names>M.</given-names></name>
+<name><surname>Greenbaum</surname><given-names>S.G.</given-names></name>
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.M.</given-names></name>
+<name><surname>Yang</surname><given-names>W.L.</given-names></name>
+<name><surname>Li</surname><given-names>Y.X.</given-names></name>
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><article-title>Fluorine-donating electrolytes enable highly reversible 5-V-class Li metal batteries</article-title><source>Proc. Natl. Acad. Sci. USA</source><year>2018</year><volume>115</volume><fpage>1156</fpage><lpage>1161</lpage><pub-id pub-id-type="doi">10.1073/pnas.1712895115</pub-id><pub-id pub-id-type="pmid">29351993</pub-id>
+</element-citation></ref><ref id="B30-materials-18-02415"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qiao</surname><given-names>Y.</given-names></name>
+<name><surname>Yi</surname><given-names>J.</given-names></name>
+<name><surname>Guo</surname><given-names>S.H.</given-names></name>
+<name><surname>Sun</surname><given-names>Y.</given-names></name>
+<name><surname>Wu</surname><given-names>S.C.</given-names></name>
+<name><surname>Liu</surname><given-names>X.Z.</given-names></name>
+<name><surname>Yang</surname><given-names>S.X.</given-names></name>
+<name><surname>He</surname><given-names>P.</given-names></name>
+<name><surname>Zhou</surname><given-names>H.S.</given-names></name>
+</person-group><article-title>Li<sub>2</sub>CO<sub>3</sub>-free Li-O<sub>2</sub>/CO<sub>2</sub> battery with peroxide discharge product</article-title><source>Energy Environ. Sci.</source><year>2018</year><volume>11</volume><fpage>1211</fpage><lpage>1217</lpage><pub-id pub-id-type="doi">10.1039/C7EE03341A</pub-id></element-citation></ref><ref id="B31-materials-18-02415"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamada</surname><given-names>Y.</given-names></name>
+<name><surname>Yamada</surname><given-names>A.</given-names></name>
+</person-group><article-title>Review-Superconcentrated Electrolytes for Lithium Batteries</article-title><source>J. Electrochem. Soc.</source><year>2015</year><volume>162</volume><fpage>A2406</fpage><lpage>A2423</lpage><pub-id pub-id-type="doi">10.1149/2.0041514jes</pub-id></element-citation></ref><ref id="B32-materials-18-02415"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamada</surname><given-names>Y.</given-names></name>
+<name><surname>Wang</surname><given-names>J.H.</given-names></name>
+<name><surname>Ko</surname><given-names>S.</given-names></name>
+<name><surname>Watanabe</surname><given-names>E.</given-names></name>
+<name><surname>Yamada</surname><given-names>A.</given-names></name>
+</person-group><article-title>Advances and issues in developing salt-concentrated battery electrolytes</article-title><source>Nat. Energy</source><year>2019</year><volume>4</volume><fpage>269</fpage><lpage>280</lpage><pub-id pub-id-type="doi">10.1038/s41560-019-0336-z</pub-id></element-citation></ref><ref id="B33-materials-18-02415"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>G.Z.</given-names></name>
+<name><surname>Chang</surname><given-names>J.</given-names></name>
+<name><surname>Wang</surname><given-names>L.G.</given-names></name>
+<name><surname>Li</surname><given-names>J.W.</given-names></name>
+<name><surname>Wang</surname><given-names>C.Y.</given-names></name>
+<name><surname>Wang</surname><given-names>R.</given-names></name>
+<name><surname>Shi</surname><given-names>G.L.</given-names></name>
+<name><surname>Yu</surname><given-names>K.</given-names></name>
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+<name><surname>Zheng</surname><given-names>H.H.</given-names></name>
+<etal/>
+</person-group><article-title>A monofluoride ether-based electrolyte solution for fast-charging and low-temperature non-aqueous lithium metal batteries</article-title><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>1081</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-36793-6</pub-id><pub-id pub-id-type="pmid">36841814</pub-id>
+</element-citation></ref><ref id="B34-materials-18-02415"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Y.S.</given-names></name>
+<name><surname>Yang</surname><given-names>Z.L.</given-names></name>
+<name><surname>Zhang</surname><given-names>X.X.</given-names></name>
+<name><surname>Liu</surname><given-names>Y.C.</given-names></name>
+<name><surname>Hu</surname><given-names>G.L.</given-names></name>
+<name><surname>Chen</surname><given-names>S.J.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.N.</given-names></name>
+</person-group><article-title>Activating ultra-low temperature Li-metal batteries by tetrahydrofuran-based localized saturated electrolyte</article-title><source>Energy Storage Mater.</source><year>2023</year><volume>58</volume><fpage>184</fpage><lpage>194</lpage><pub-id pub-id-type="doi">10.1016/j.ensm.2023.03.026</pub-id></element-citation></ref><ref id="B35-materials-18-02415"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S.R.</given-names></name>
+<name><surname>Zheng</surname><given-names>J.M.</given-names></name>
+<name><surname>Mei</surname><given-names>D.H.</given-names></name>
+<name><surname>Han</surname><given-names>K.S.</given-names></name>
+<name><surname>Engelhard</surname><given-names>M.H.</given-names></name>
+<name><surname>Zhao</surname><given-names>W.G.</given-names></name>
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.G.</given-names></name>
+</person-group><article-title>High-Voltage Lithium-Metal Batteries Enabled by Localized High-Concentration Electrolytes</article-title><source>Adv. Mater.</source><year>2018</year><volume>30</volume><fpage>1706102</fpage><pub-id pub-id-type="doi">10.1002/adma.201706102</pub-id></element-citation></ref><ref id="B36-materials-18-02415"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>H.</given-names></name>
+<name><surname>Kim</surname><given-names>J.M.</given-names></name>
+<name><surname>Gao</surname><given-names>P.Y.</given-names></name>
+<name><surname>Xu</surname><given-names>Y.B.</given-names></name>
+<name><surname>Engelhard</surname><given-names>M.H.</given-names></name>
+<name><surname>Matthews</surname><given-names>B.E.</given-names></name>
+<name><surname>Wang</surname><given-names>C.M.</given-names></name>
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+</person-group><article-title>A Systematic Study on the Effects of Solvating Solvents and Additives in Localized High-Concentration Electrolytes over Electrochemical Performance of Lithium-Ion Batteries</article-title><source>Angew. Chem.-Int. Edit.</source><year>2023</year><volume>62</volume><fpage>e202207927</fpage><pub-id pub-id-type="doi">10.1002/anie.202218005</pub-id></element-citation></ref><ref id="B37-materials-18-02415"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+<name><surname>Rao</surname><given-names>H.</given-names></name>
+<name><surname>Atwi</surname><given-names>R.</given-names></name>
+<name><surname>Sivakumar</surname><given-names>B.M.</given-names></name>
+<name><surname>Gwalani</surname><given-names>B.</given-names></name>
+<name><surname>Gray</surname><given-names>S.</given-names></name>
+<name><surname>Han</surname><given-names>K.S.</given-names></name>
+<name><surname>Everett</surname><given-names>T.A.</given-names></name>
+<name><surname>Ajantiwalay</surname><given-names>T.A.</given-names></name>
+<name><surname>Murugesan</surname><given-names>V.</given-names></name>
+<etal/>
+</person-group><article-title>Non-polar ether-based electrolyte solutions for stable high-voltage non-aqueous lithium metal batteries</article-title><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>868</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-36647-1</pub-id><?supplied-pmid 36797246?><pub-id pub-id-type="pmid">36797246</pub-id>
+</element-citation></ref><ref id="B38-materials-18-02415"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>T.</given-names></name>
+<name><surname>Ni</surname><given-names>Y.X.</given-names></name>
+<name><surname>Wang</surname><given-names>Q.R.</given-names></name>
+<name><surname>Zhang</surname><given-names>W.J.</given-names></name>
+<name><surname>Jin</surname><given-names>S.</given-names></name>
+<name><surname>Zheng</surname><given-names>S.B.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Hou</surname><given-names>Y.P.</given-names></name>
+<name><surname>Tao</surname><given-names>Z.L.</given-names></name>
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+</person-group><article-title>Optimize Lithium Deposition at Low Temperature by Weakly Solvating Power Solvent</article-title><source>Angew. Chem.-Int. Edit.</source><year>2022</year><volume>61</volume><fpage>e202207927</fpage><pub-id pub-id-type="doi">10.1002/anie.202207927</pub-id></element-citation></ref><ref id="B39-materials-18-02415"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.M.</given-names></name>
+<name><surname>Li</surname><given-names>Q.P.</given-names></name>
+<name><surname>Zeng</surname><given-names>Y.P.</given-names></name>
+<name><surname>Tang</surname><given-names>Z.</given-names></name>
+<name><surname>Sun</surname><given-names>D.</given-names></name>
+<name><surname>Huang</surname><given-names>D.</given-names></name>
+<name><surname>Tang</surname><given-names>Y.G.</given-names></name>
+<name><surname>Wang</surname><given-names>H.Y.</given-names></name>
+</person-group><article-title>Weakly Solvating Cyclic Ether Electrolyte for High-Voltage Lithium Metal Batteries</article-title><source>ACS Energy Lett.</source><year>2023</year><volume>8</volume><fpage>1752</fpage><pub-id pub-id-type="doi">10.1021/acsenergylett.3c00181</pub-id></element-citation></ref><ref id="B40-materials-18-02415"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>L.J.</given-names></name>
+<name><surname>Chen</surname><given-names>S.Q.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.W.</given-names></name>
+<name><surname>Fan</surname><given-names>J.J.</given-names></name>
+<name><surname>Ruan</surname><given-names>D.G.</given-names></name>
+<name><surname>Nian</surname><given-names>Q.S.</given-names></name>
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+<name><surname>Jiao</surname><given-names>S.H.</given-names></name>
+<name><surname>Ren</surname><given-names>X.D.</given-names></name>
+</person-group><article-title>Intrinsic Nonflammable Ether Electrolytes for Ultrahigh-Voltage Lithium Metal Batteries Enabled by Chlorine Functionality</article-title><source>Angew. Chem.-Int. Edit.</source><year>2022</year><volume>61</volume><fpage>e202203693</fpage><pub-id pub-id-type="doi">10.1002/anie.202203693</pub-id></element-citation></ref><ref id="B41-materials-18-02415"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Z.</given-names></name>
+<name><surname>Rudnicki</surname><given-names>P.E.</given-names></name>
+<name><surname>Zhang</surname><given-names>Z.W.</given-names></name>
+<name><surname>Huang</surname><given-names>Z.J.</given-names></name>
+<name><surname>Celik</surname><given-names>H.</given-names></name>
+<name><surname>Oyakhire</surname><given-names>S.T.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.L.</given-names></name>
+<name><surname>Kong</surname><given-names>X.</given-names></name>
+<name><surname>Kim</surname><given-names>S.C.</given-names></name>
+<name><surname>Xiao</surname><given-names>X.</given-names></name>
+<etal/>
+</person-group><article-title>Rational solvent molecule tuning for high-performance lithium metal battery electrolytes</article-title><source>Nat. Energy</source><year>2022</year><volume>7</volume><fpage>94</fpage><lpage>106</lpage><pub-id pub-id-type="doi">10.1038/s41560-021-00962-y</pub-id></element-citation></ref><ref id="B42-materials-18-02415"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.B.</given-names></name>
+<name><surname>Bie</surname><given-names>Z.</given-names></name>
+<name><surname>Cai</surname><given-names>X.X.</given-names></name>
+<name><surname>Jiao</surname><given-names>Z.Y.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.T.</given-names></name>
+<name><surname>Tao</surname><given-names>J.C.</given-names></name>
+<name><surname>Song</surname><given-names>W.X.</given-names></name>
+<name><surname>Fan</surname><given-names>H.J.</given-names></name>
+</person-group><article-title>A Molecular-Sieve Electrolyte Membrane enables Separator-Free Zinc Batteries with Ultralong Cycle Life</article-title><source>Adv. Mater.</source><year>2022</year><volume>34</volume><fpage>9</fpage><pub-id pub-id-type="doi">10.1002/adma.202207209</pub-id></element-citation></ref><ref id="B43-materials-18-02415"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>Y.K.</given-names></name>
+<name><surname>Lin</surname><given-names>S.H.</given-names></name>
+<name><surname>Xia</surname><given-names>Y.</given-names></name>
+<name><surname>Hou</surname><given-names>Q.M.</given-names></name>
+<name><surname>Lu</surname><given-names>Y.Q.</given-names></name>
+<name><surname>Cao</surname><given-names>H.Y.</given-names></name>
+<name><surname>Wang</surname><given-names>Y.X.</given-names></name>
+<name><surname>Huang</surname><given-names>K.</given-names></name>
+<name><surname>Xu</surname><given-names>Z.</given-names></name>
+</person-group><article-title>ZSM-5 zeolite incorporated flow battery membranes with regulated pore channels for high proton conduction</article-title><source>AIChE J.</source><year>2024</year><volume>70</volume><fpage>6</fpage><pub-id pub-id-type="doi">10.1002/aic.18380</pub-id></element-citation></ref><ref id="B44-materials-18-02415"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>G.R.</given-names></name>
+<name><surname>She</surname><given-names>P.H.</given-names></name>
+<name><surname>Han</surname><given-names>J.</given-names></name>
+<name><surname>Li</surname><given-names>J.Y.</given-names></name>
+<name><surname>Tian</surname><given-names>G.</given-names></name>
+<name><surname>Sun</surname><given-names>Y.B.</given-names></name>
+<name><surname>Gao</surname><given-names>Y.J.</given-names></name>
+<name><surname>Yang</surname><given-names>G.J.</given-names></name>
+<name><surname>Diao</surname><given-names>Z.H.</given-names></name>
+<name><surname>Guan</surname><given-names>B.Y.</given-names></name>
+<etal/>
+</person-group><article-title>Structurally Engineering Multi-Shell Hollow Zeolite Single Crystals via Defect-Directed Oriented-Kinetics Transformation and Their Heterostructures for Hydrodeoxygenation Reaction</article-title><source>Angew. Chem.-Int. Edit.</source><year>2025</year><volume>11</volume><fpage>e202424690</fpage><pub-id pub-id-type="doi">10.1002/anie.202424690</pub-id></element-citation></ref><ref id="B45-materials-18-02415"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>C.</given-names></name>
+<name><surname>Li</surname><given-names>H.R.</given-names></name>
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+<name><surname>Zhang</surname><given-names>X.Q.</given-names></name>
+<name><surname>Cheng</surname><given-names>X.B.</given-names></name>
+<name><surname>Xu</surname><given-names>R.</given-names></name>
+<name><surname>Huang</surname><given-names>J.Q.</given-names></name>
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><article-title>Regulating the Inner Helmholtz Plane for Stable Solid Electrolyte Interphase on Lithium Metal Anodes</article-title><source>J. Am. Chem. Soc.</source><year>2019</year><volume>141</volume><fpage>9422</fpage><lpage>9429</lpage><pub-id pub-id-type="doi">10.1021/jacs.9b05029</pub-id><pub-id pub-id-type="pmid">31117672</pub-id>
+</element-citation></ref><ref id="B46-materials-18-02415"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>P.</given-names></name>
+<name><surname>Li</surname><given-names>J.</given-names></name>
+<name><surname>Brushett</surname><given-names>F.R.</given-names></name>
+<name><surname>Bazant</surname><given-names>M.Z.</given-names></name>
+</person-group><article-title>Transition of lithium growth mechanisms in liquid electrolytes</article-title><source>Energy Environ. Sci.</source><year>2016</year><volume>9</volume><fpage>3221</fpage><lpage>3229</lpage><pub-id pub-id-type="doi">10.1039/C6EE01674J</pub-id></element-citation></ref><ref id="B47-materials-18-02415"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fawdon</surname><given-names>J.</given-names></name>
+<name><surname>Ihli</surname><given-names>J.</given-names></name>
+<name><surname>La Mantia</surname><given-names>F.</given-names></name>
+<name><surname>Pasta</surname><given-names>M.</given-names></name>
+</person-group><article-title>Characterising lithium-ion electrolytes via operando Raman microspectroscopy</article-title><source>Nat. Commun.</source><year>2021</year><volume>12</volume><fpage>4053</fpage><pub-id pub-id-type="doi">10.1038/s41467-021-24297-0</pub-id><?supplied-pmid 34193848?><pub-id pub-id-type="pmid">34193848</pub-id>
+</element-citation></ref><ref id="B48-materials-18-02415"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>E.</given-names></name>
+<name><surname>Park</surname><given-names>J.</given-names></name>
+<name><surname>Lee</surname><given-names>K.</given-names></name>
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+<name><surname>Zhou</surname><given-names>T.H.</given-names></name>
+<name><surname>Park</surname><given-names>G.</given-names></name>
+<name><surname>Jeong</surname><given-names>M.G.</given-names></name>
+<name><surname>Choi</surname><given-names>M.</given-names></name>
+<name><surname>Yoo</surname><given-names>D.J.</given-names></name>
+<name><surname>Jung</surname><given-names>H.G.</given-names></name>
+<etal/>
+</person-group><article-title>Exploiting the Steric Effect and Low Dielectric Constant of 1,2-Dimethoxypropane for 4.3 V Lithium Metal Batteries</article-title><source>ACS Energy Lett.</source><year>2023</year><volume>8</volume><fpage>179</fpage><lpage>188</lpage><pub-id pub-id-type="doi">10.1021/acsenergylett.2c02003</pub-id></element-citation></ref><ref id="B49-materials-18-02415"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+<name><surname>Zhang</surname><given-names>X.Q.</given-names></name>
+<name><surname>Yao</surname><given-names>N.</given-names></name>
+<name><surname>Yao</surname><given-names>Y.X.</given-names></name>
+<name><surname>Hou</surname><given-names>L.P.</given-names></name>
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+<name><surname>Zhou</surname><given-names>M.Y.</given-names></name>
+<name><surname>Huang</surname><given-names>J.Q.</given-names></name>
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><article-title>Stable Anion-Derived Solid Electrolyte Interphase in Lithium Metal Batteries</article-title><source>Angew. Chem.-Int. Edit.</source><year>2021</year><volume>60</volume><fpage>22683</fpage><lpage>22687</lpage><pub-id pub-id-type="doi">10.1002/anie.202107732</pub-id></element-citation></ref><ref id="B50-materials-18-02415"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S.M.</given-names></name>
+<name><surname>Yang</surname><given-names>G.J.</given-names></name>
+<name><surname>Liu</surname><given-names>Z.P.</given-names></name>
+<name><surname>Li</surname><given-names>X.Y.</given-names></name>
+<name><surname>Wang</surname><given-names>X.F.</given-names></name>
+<name><surname>Chen</surname><given-names>R.J.</given-names></name>
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.X.</given-names></name>
+<name><surname>Chen</surname><given-names>L.Q.</given-names></name>
+</person-group><article-title>Competitive Solvation Enhanced Stability of Lithium Metal Anode in Dual-Salt Electrolyte</article-title><source>Nano Lett.</source><year>2021</year><volume>21</volume><fpage>3310</fpage><lpage>3317</lpage><pub-id pub-id-type="doi">10.1021/acs.nanolett.1c00848</pub-id><pub-id pub-id-type="pmid">33797262</pub-id>
+</element-citation></ref><ref id="B51-materials-18-02415"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>Y.</given-names></name>
+<name><surname>Rojas</surname><given-names>T.</given-names></name>
+<name><surname>Wang</surname><given-names>K.</given-names></name>
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+<name><surname>Wang</surname><given-names>D.W.</given-names></name>
+<name><surname>Chen</surname><given-names>T.H.</given-names></name>
+<name><surname>Wang</surname><given-names>H.Y.</given-names></name>
+<name><surname>Ngo</surname><given-names>A.T.</given-names></name>
+<name><surname>Wang</surname><given-names>D.H.</given-names></name>
+</person-group><article-title>Low-temperature and high-rate-charging lithium metal batteries enabled by an electrochemically active monolayer-regulated interface</article-title><source>Nat. Energy</source><year>2020</year><volume>5</volume><fpage>534</fpage><lpage>542</lpage><pub-id pub-id-type="doi">10.1038/s41560-020-0640-7</pub-id></element-citation></ref><ref id="B52-materials-18-02415"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>X.Y.</given-names></name>
+<name><surname>Gu</surname><given-names>Z.Y.</given-names></name>
+<name><surname>Liu</surname><given-names>X.Y.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.Q.</given-names></name>
+<name><surname>Wen</surname><given-names>J.Y.</given-names></name>
+<name><surname>Wu</surname><given-names>X.L.</given-names></name>
+<name><surname>Luo</surname><given-names>W.</given-names></name>
+<name><surname>Huang</surname><given-names>Y.H.</given-names></name>
+</person-group><article-title>Bridging the immiscibility of an all-fluoride fire extinguishant with highly-fluorinated electrolytes toward safe sodium metal batteries</article-title><source>Energy Environ. Sci.</source><year>2021</year><volume>14</volume><fpage>524</fpage><pub-id pub-id-type="doi">10.1039/D0EE90062A</pub-id></element-citation></ref><ref id="B53-materials-18-02415"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>C.B.</given-names></name>
+<name><surname>Liu</surname><given-names>T.F.</given-names></name>
+<name><surname>Sheng</surname><given-names>O.W.</given-names></name>
+<name><surname>Li</surname><given-names>M.</given-names></name>
+<name><surname>Liu</surname><given-names>T.C.</given-names></name>
+<name><surname>Yuan</surname><given-names>Y.F.</given-names></name>
+<name><surname>Nai</surname><given-names>J.W.</given-names></name>
+<name><surname>Ju</surname><given-names>Z.J.</given-names></name>
+<name><surname>Zhang</surname><given-names>W.K.</given-names></name>
+<name><surname>Liu</surname><given-names>Y.J.</given-names></name>
+<etal/>
+</person-group><article-title>Rejuvenating dead lithium supply in lithium metal anodes by iodine redox</article-title><source>Nat. Energy</source><year>2021</year><volume>6</volume><fpage>378</fpage><lpage>387</lpage><pub-id pub-id-type="doi">10.1038/s41560-021-00789-7</pub-id></element-citation></ref><ref id="B54-materials-18-02415"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>X.Y.</given-names></name>
+<name><surname>Huang</surname><given-names>L.Q.</given-names></name>
+<name><surname>Luo</surname><given-names>W.</given-names></name>
+<name><surname>Wang</surname><given-names>H.T.</given-names></name>
+<name><surname>Dai</surname><given-names>Y.M.</given-names></name>
+<name><surname>Liu</surname><given-names>X.Y.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.Q.</given-names></name>
+<name><surname>Zheng</surname><given-names>H.H.</given-names></name>
+<name><surname>Huang</surname><given-names>Y.H.</given-names></name>
+</person-group><article-title>Tailoring Electrolyte Solvation Chemistry toward an Inorganic-Rich Solid-Electrolyte Interphase at a Li Metal Anode</article-title><source>ACS Energy Lett.</source><year>2021</year><volume>6</volume><fpage>2054</fpage><lpage>2063</lpage><pub-id pub-id-type="doi">10.1021/acsenergylett.1c00647</pub-id></element-citation></ref><ref id="B55-materials-18-02415"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.Q.</given-names></name>
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+<name><surname>Hou</surname><given-names>L.P.</given-names></name>
+<name><surname>Li</surname><given-names>B.Q.</given-names></name>
+<name><surname>Cheng</surname><given-names>X.B.</given-names></name>
+<name><surname>Huang</surname><given-names>J.Q.</given-names></name>
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><article-title>Regulating Anions in the Solvation Sheath of Lithium Ions for Stable Lithium Metal Batteries</article-title><source>ACS Energy Lett.</source><year>2019</year><volume>4</volume><fpage>411</fpage><lpage>416</lpage><pub-id pub-id-type="doi">10.1021/acsenergylett.8b02376</pub-id></element-citation></ref></ref-list></back><floats-group><fig position="float" id="materials-18-02415-f001"><label>Figure 1</label><caption><p>Schematic diagram of the lithium dendrite inhibition mechanism in the ZSM electrolytes. (<bold>a</bold>) Schematic diagram of the Li-metal battery. (<bold>b</bold>) Schematic of lithium metal anode with DME electrolytes. (<bold>c</bold>) The original interface results in Li dendrites formation. (<bold>d</bold>) Schematic of lithium metal anode with ZSM electrolytes. (<bold>e</bold>) The anion-rich interface promoting uniform lithium deposition on the Li-metal surface enhances the efficiency of the Li-metal electrode.</p></caption><graphic xlink:href="materials-18-02415-g001" position="float"/></fig><fig position="float" id="materials-18-02415-f002"><label>Figure 2</label><caption><p>Solvation structures. (<bold>a</bold>) Snapshots of solvation structure in DME electrolytes calculated from MD simulations. (<bold>b</bold>) Typical solvation structures of DME electrolytes during the MD simulations. (<bold>c</bold>) The MSD of Li<sup>+</sup> and FSI<sup>&#x02212;</sup> ions in DME electrolytes with the simulation time. (<bold>d</bold>) ZSM electrolytes where the DME electrolytes are incorporated into the ZSM-5 host. (<bold>e</bold>) Solvation structures of ZSM electrolytes during the MD operation. (<bold>f</bold>) The MSD of Li<sup>+</sup> and FSI<sup>&#x02212;</sup> ions in ZSM electrolytes with the simulation time. (<bold>g</bold>) Raman spectra of DME and ZSM electrolytes.</p></caption><graphic xlink:href="materials-18-02415-g002" position="float"/></fig><fig position="float" id="materials-18-02415-f003"><label>Figure 3</label><caption><p>Electrochemical performance of DME and ZSM electrolytes. (<bold>a</bold>) Nyquist plots of the DME electrolyte at different cycles. (<bold>b</bold>) Nyquist plots of the ZSM electrolyte at different cycles. (<bold>c</bold>,<bold>d</bold>) Nyquist plots of Li||Li cells at various temperatures for both electrolytes. (<bold>e</bold>,<bold>f</bold>) Arrhenius behavior derived from the Nyquist plots of Li||Li symmetric cells, including a comparison of activation energies between R<sub>1</sub> and R<sub>2</sub>.</p></caption><graphic xlink:href="materials-18-02415-g003" position="float"/></fig><fig position="float" id="materials-18-02415-f004"><label>Figure 4</label><caption><p>Electrochemical performance in DME and ZSM electrolytes. (<bold>a</bold>) Comparison of the Tafel curves observed in DME and ZSM electrolytes. (<bold>b</bold>) Comparison of Tafel slopes in DME and ZSM electrolytes. (<bold>c</bold>) Li||Cu cell performance over cycles at a current density of 0.5 mA cm<sup>&#x02212;2</sup>. (<bold>d</bold>) Analysis of cycling performance for Li||Cu coin cells operating at a current density of 1 mA cm<sup>&#x02212;2</sup>. (<bold>e</bold>) Polarization curves depicting the plating and stripping processes in DME electrolyte 0.5 mA cm<sup>&#x02212;2</sup>. (<bold>f</bold>) Polarization curves depicting the plating and stripping processes in a ZSM electrolyte at 0.5 mA cm<sup>&#x02212;2</sup>. (<bold>g</bold>) Voltage profiles of Li||Li cells at 0.5 mA cm<sup>&#x02212;2</sup>. (<bold>h</bold>) Voltage profiles of Li||Li cells at 1 mA cm<sup>&#x02212;2</sup>.</p></caption><graphic xlink:href="materials-18-02415-g004" position="float"/></fig><fig position="float" id="materials-18-02415-f005"><label>Figure 5</label><caption><p>Structural evolution of lithium metal anodes. (<bold>a</bold>,<bold>b</bold>) SEM top-view image of the lithium metal anodes following 50 cycles using DME electrolytes and ZSM electrolytes. (<bold>c</bold>,<bold>d</bold>) XPS analysis of the lithium metal anodes post-cycling, showing C 1s (c), and F 1s (f) spectra for electrodes cycled in both DME and ZSM electrolytes.</p></caption><graphic xlink:href="materials-18-02415-g005" position="float"/></fig><fig position="float" id="materials-18-02415-f006"><label>Figure 6</label><caption><p>(<bold>a</bold>) Cycling performance and CE of LFP||Li cells cycled at 1 C between 2.5 and 4 V in different electrolytes. (<bold>b</bold>,<bold>c</bold>) The voltage profile corresponding to LFP||Li batteries with DME electrolytes and ZSM electrolytes.</p></caption><graphic xlink:href="materials-18-02415-g006" position="float"/></fig></floats-group></article>

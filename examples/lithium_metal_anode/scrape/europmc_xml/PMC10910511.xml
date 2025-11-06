@@ -1,0 +1,1010 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">10910511</article-id><article-id pub-id-type="pmid">38359779</article-id>
+<article-id pub-id-type="doi">10.1021/acsami.3c14763</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Boosting
+the Interfacial
+Stability of the Li<sub>6</sub>PS<sub>5</sub>Cl Electrolyte with a
+Li Anode via In Situ Formation
+of a LiF-Rich SEI Layer and a Ductile Sulfide Composite Solid Electrolyte</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Serbessa</surname><given-names>Gashahun
+Gobena</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8550-4835</contrib-id><name><surname>Taklu</surname><given-names>Bereket Woldegbreal</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2929-3965</contrib-id><name><surname>Nikodimos</surname><given-names>Yosef</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Temesgen</surname><given-names>Nigusu Tiruneh</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Muche</surname><given-names>Zabish Bilew</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Merso</surname><given-names>Semaw Kebede</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Yeh</surname><given-names>Tsung-I</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Liu</surname><given-names>Ya-Jun</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Liao</surname><given-names>Wei-Sheng</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Wang</surname><given-names>Chia-Hsin</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath11"><name><surname>Wu</surname><given-names>She-Huang</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1494-2675</contrib-id><name><surname>Su</surname><given-names>Wei-Nien</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3832-9800</contrib-id><name><surname>Yang</surname><given-names>Chun-Chen</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath14"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3873-2149</contrib-id><name><surname>Hwang</surname><given-names>Bing Joe</given-names></name><xref rid="cor4" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref><xref rid="aff6" ref-type="aff">#</xref></contrib><aff id="aff1"><label>&#x02020;</label>Nano-electrochemistry
+Laboratory, Department of Chemical Engineering, <institution>National Taiwan University of Science and Technology</institution>, Taipei City 106, <country>Taiwan</country></aff><aff id="aff2"><label>&#x02021;</label>Nano-electrochemistry
+Laboratory, Graduate Institute of Applied Science and Technology, <institution>National Taiwan University of Science and Technology</institution>, Taipei City 106, <country>Taiwan</country></aff><aff id="aff3"><label>&#x000a7;</label>Battery
+Research Center of Green Energy, <institution>Ming-Chi
+University of Technology</institution>, New Taipei
+City 24301, <country>Taiwan</country></aff><aff id="aff4"><label>&#x02225;</label>Department
+of Chemical Engineering, <institution>Ming Chi University
+of Technology</institution>, New Taipei City 24301, <country>Taiwan</country></aff><aff id="aff5"><label>&#x022a5;</label><institution>National
+Synchrotron Radiation Research Center (NSRRC)</institution>, Hsinchu 30076, <country>Taiwan</country></aff><aff id="aff6"><label>#</label>Sustainable
+Electrochemical Energy Development (SEED) Center, <institution>National Taiwan University of Science and Technology</institution>, Taipei City 106, <country>Taiwan</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>wush@mail.ntust.edu.tw</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>wsu@mail.ntust.edu.tw</email>.</corresp><corresp id="cor3"><label>*</label>Email: <email>ccyang@mail.mcut.edu.tw</email>.</corresp><corresp id="cor4"><label>*</label>Email: <email>bjh@mail.ntust.edu.tw</email>.</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>02</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>28</day><month>02</month><year>2024</year></pub-date><volume>16</volume><issue>8</issue><fpage>10832</fpage><lpage>10844</lpage><history><date date-type="received"><day>11</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>30</day><month>01</month><year>2024</year></date><date date-type="rev-recd"><day>25</day><month>01</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0009" id="ab-tgr1"/></p><p>Due
+to its good mechanical properties and high ionic
+conductivity,
+the sulfide-type solid electrolyte (SE) can potentially realize all-solid-state
+batteries (ASSBs). Nevertheless, challenges, including limited electrochemical
+stability, insufficient solid&#x02013;solid contact with the electrode,
+and reactivity with lithium, must be addressed. These challenges contribute
+to dendrite growth and electrolyte reduction. Herein, a straightforward
+and solvent-free method was devised to generate a robust artificial
+interphase between lithium metal and a SE. It is achieved through
+the incorporation of a composite electrolyte composed of Li<sub>6</sub>PS<sub>5</sub>Cl (LPSC), polyethylene glycol (PEG), and lithium bis(fluorosulfonyl)imide
+(LiFSI), resulting in the in situ creation of a LiF-rich interfacial
+layer. This interphase effectively mitigates electrolyte reduction
+and promotes lithium-ion diffusion. Interestingly, including PEG as
+an additive increases mechanical strength by enhancing adhesion between
+sulfide particles and improves the physical contact between the LPSC
+SE and the lithium anode by enhancing the ductility of the LPSC SE.
+Moreover, it acts as a protective barrier, preventing direct contact
+between the SE and the Li anode, thereby inhibiting electrolyte decomposition
+and reducing the electronic conductivity of the composite SE, thus
+mitigating the dendrite growth. The Li|Li symmetric cells demonstrated
+remarkable cycling stability, maintaining consistent performance for
+over 3000 h at a current density of 0.1 mA cm<sup>&#x02013;2</sup>,
+and the critical current density of the composite solid electrolyte
+(CSE) reaches 4.75 mA cm<sup>&#x02013;2</sup>. Moreover, the all-solid-state
+lithium metal battery (ASSLMB) cell with the CSEs exhibits remarkable
+cycling stability and rate performance. This study highlights the
+synergistic combination of the in-situ-generated artificial SE interphase
+layer and CSEs, enabling high-performance ASSLMBs.</p></abstract><kwd-group><kwd>solid-state battery</kwd><kwd>lithium
+metal anode</kwd><kwd>in
+situ LiF generation</kwd><kwd>dendrite suppression</kwd><kwd>interfacial
+stability</kwd><kwd>solvent-free solid sulfide composite electrolyte</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Academia Sinica</institution><institution-id institution-id-type="doi">10.13039/501100001869</institution-id></institution-wrap></funding-source><award-id>AS-KPQ-106-DDPP</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministry of edutation, Taiwan</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2923-E-011-005-</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2923-E-011-004-MY3</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2923-E-011-001</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>112-2639-E-011-001-ASP</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>111-3116-F-011-006</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>111-3116-F-011-004</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am3c14763</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am3c14763</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>In the pursuit of high-energy-density
+batteries, the utilization
+of a lithium anode is indispensable due to its remarkable characteristics,
+which include a high theoretical specific capacity (3.860 A h g<sup>&#x02013;1</sup>), low density (0.534 g cm<sup>&#x02013;3</sup>), and
+the most negative electrochemical potential (&#x02212;3.04 V vs standard
+hydrogen electrode).<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02013;<xref ref-type="bibr" rid="ref4">4</xref></sup> Diverse liquid electrolyte (LE) systems have been utilized to achieve
+extended cycling of lithium metal anodes. However, the uneven deposition
+of lithium metal in these systems can result in the formation of hazardous
+lithium dendrites.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> These dendrites pose
+significant safety risks in lithium metal batteries (LMBs) that utilize
+LEs, including the potential for short circuits, inflammation, and
+even explosions within the battery.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> To address this challenge, there is a growing expectation
+that solid-state electrolytes (SSEs) having high mechanical modulus
+and exceptional thermal stability will surpass LEs in LMBs, offering
+superior safety and high energy density.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> Due to its
+prominent characteristics, Li<sub>6</sub>PS<sub>5</sub>Cl (LPSC, Li-argyrodite)
+has attracted considerable attention among these solid electrolytes
+(SEs). These include a high ionic conductivity of over 1 mS cm<sup>&#x02013;1</sup> at room temperature, ease of synthesis, and the ability
+to be processed at low temperatures. These properties make it highly
+desirable for the large-scale production of solid-state batteries,
+offering the potential for scalable manufacturing processes.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> All-solid-state batteries (ASSBs) with a Li metal anode emerge as
+the most viable substitute to provide high energy density.<sup><xref ref-type="bibr" rid="ref11">11</xref>&#x02013;<xref ref-type="bibr" rid="ref14">14</xref></sup></p><p>Despite their potential advantages, it has been observed that
+most
+sulfide-based SEs cannot effectively suppress the growth of lithium
+dendrites.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref15">15</xref>&#x02013;<xref ref-type="bibr" rid="ref18">18</xref></sup> Theoretical calculations indicate
+that all sulfide-based SEs generally exhibit a relatively limited
+electrochemical stability window, typically ranging from 1.7 to 2.4
+V.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02013;<xref ref-type="bibr" rid="ref21">21</xref></sup> This constrained stability range gives rise to electrochemical reduction
+during the cell&#x02019;s cycling, which, in turn, leads to the creation
+of undesirable interfacial reduction byproducts.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> The
+high electronic conductivity and presence of grain boundaries (GBs),
+holes, and cracks in SEs are likely contributing factors to the generation
+and growth of lithium dendrites.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> Lithium dendrites develop and
+grow within regions rich in defects, such as GBs and pores in SSEs.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> Thus, owing to the poor adhesion among sulfide particles, the resistance
+for dendrite growth is diminished in sulfide SEs, leading to the evident
+formation of dendrites.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Conversely, the
+poor interface contact between the SE and lithium metal can result
+in the inhomogeneous deposition of lithium. It can exacerbate the
+propagation of lithium dendrites and fail ASSLBs.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>Hence,
+developing innovative sulfide-based electrolytes that exhibit
+high ionic conductivity and enhanced interfacial properties is critical.
+Composite SEs (CSEs), designed by blending sulfide glass and a polymer
+component, show great potential for improving the safety of ASSLBs.
+These composite electrolytes provide the merits of sulfide-glass-based
+and polymer electrolytes, making them highly desirable for battery
+applications.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> Polymer&#x02013;inorganic composite
+electrolytes offer several advantages in improving the contact between
+electrodes and buffering volume changes during the lithium plating/stripping.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> This improved contact promotes efficient ion
+transport across the interface and reduces interface resistance, enhancing
+the overall battery performance. This feature also plays a significant
+role in preventing direct contact between unstable sulfide SEs and
+lithium metal, thus bolstering the overall stability of the electrolyte.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup></p><p>The synthesis of sulfide-based CSEs entails mixing binders
+and
+sulfide SEs through a solvent-based slurry process to achieve the
+desired composite electrolytes.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> However,
+due to the reactivity of sulfide-based SEs with common solvents used
+to dissolve polymers, their ionic conductivity decreases significantly
+when dispersed and dried in those solvents.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> Hence, choosing an appropriate solvent poses a significant challenge
+when developing new sulfide-based composite SEs.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Therefore, adopting an innovative and unconventional approach
+is crucial to overcoming the limitations of the slurry-based strategy
+for processing sulfide-based SSEs.</p><p>An alternative, highly efficient
+approach to mitigate undesired
+side reactions and suppress the formation of lithium dendrites is
+establishing a durable solid&#x02013;electrolyte interface (SEI) layer
+between the SEs and the lithium metal anodes.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> This can be achieved via a spontaneous chemical reaction on the
+surface of the Li anode during the initial cycling stages. To impede
+the growth of lithium dendrites, it is essential to design an electron-insulating
+layer that exhibits high interfacial energy for lithium.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> Chen et al. successfully suppressed the development of Li dendrites
+by creating an SEI enriched with LiF through a sustained release effect.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Simon et al. employed a stable solid polymer
+electrolyte as a protective interlayer to prevent the direct contact
+and reaction of LPSC SE with the lithium metal anode.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> Liu et al. established a compact interface enriched
+with Li<sub>3</sub>N in situ between the N-doped LPSC electrolyte
+and the lithium metal anode.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Zou et al.
+created a robust SEI layer at the Li/LPSC interface through the electrochemical
+reduction of the LiTFSI/tetraethylene glycol dimethyl ether LE by
+assembling a pseudo-solid-state battery using ionic liquids.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Fan et al. pioneered the creation of an SEI
+enriched with LiF through the interaction of lithium with lithium
+bis(fluorosulfonyl)imide (LiFSI)-coated or infiltrated LPS.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> Nevertheless, the aforementioned interfacial
+modification techniques often have high costs and complexity. None
+of these approaches have harnessed the synergistic effect of a composite
+solid sulfide electrolyte combined with the in situ generation of
+a LiF-rich SEI to mitigate dendrite growth effectively.</p><p>Herein,
+our study focuses on designing and successfully showcasing
+a novel approach to overcome these challenges and create a durable
+SEI. We have developed a solvent-free sulfide-incorporated composite
+electrolyte synthesis method and the in situ construction of a LiF-rich
+SEI. The solvent-free sulfide composite electrolyte preparation was
+possible using a liquid poly(ethylene glycol) (PEG) additive at room
+temperature. In addition, the in situ creation of a LiF-rich SEI was
+enabled through the introduction of LiFSI. This choice was based on
+LiFSI&#x02019;s strong affinity for reacting with Li metal, leading
+to the development of a stable LiF-rich layer on the surface of the
+Li metal during the lithium plating/stripping process.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> A LiF-rich SEI boosts even the deposition of
+Li, suppressing dendrite growth and preventing penetration into SSEs.
+The LiF-rich SEI layer also inhibits side reactions, enhancing stability.
+The composite electrolyte and LiF-rich SEI synergistically improve
+the critical current density (CCD) (exceeding 4.75 mA cm<sup>&#x02013;2</sup>) and enable above 3000 cycles at 0.1 mA cm<sup>&#x02013;2</sup> for
+Li|Li symmetric cells.</p></sec><sec id="sec2"><label>2</label><title>Experimental
+Section</title><sec id="sec2.1"><label>2.1</label><title>Material Preparation</title><sec id="sec2.1.1"><label>2.1.1</label><title>Preparation
+of PEG/LiFSI Slurry</title><p>PEG (average MW, 400) and LiFSI (99.9%,
+Alfa Aesar) were used to
+prepare the PEG/LiFSI slurry in a molar ratio of 10:1 (EO/Li).<sup><xref ref-type="bibr" rid="ref39">39</xref>&#x02013;<xref ref-type="bibr" rid="ref41">41</xref></sup> Before use, the salt was dried under vacuum at 80 &#x000b0;C for 24
+h. Additionally, the slurry was stirred in a glovebox for 24 h at
+25 &#x000b0;C.</p></sec><sec id="sec2.1.2"><label>2.1.2</label><title>Preparation of the LPSC
+Composite SSE</title><p>To prepare <italic>x</italic>%-LPSC powder
+(1 g), the weight percentage
+(wt %) ratio of the commercial SSE LPSC ( NEI Corporation) and the
+as-prepared PEG/LiFSI slurry was measured. Then, the resulting mixture
+was transferred to a mortar and pestle and manually ground for 30
+min. The synthesized solid sulfide composite electrolytes were named <italic>x</italic>%-LPSC (where <italic>x</italic> = 0, 1, 2, 3, 5, and 10)
+based on the PEG/LiFSI wt % composition. After preparation, the <italic>x</italic>%-LPSC CSEs were stored in a glovebox for future experimentation.
+X-ray diffraction (XRD) and Raman spectroscopy tests were conducted
+on both freshly prepared and 45 day old samples of the CSEs to confirm
+the long-term chemical stability between the LPSC SE and the PEG polymer.</p></sec><sec id="sec2.1.3"><label>2.1.3</label><title>LCO Composite Cathode Preparation</title><p>To
+assemble ASSLMBs, the composite cathode was synthesized by blending
+LiCoO<sub>2</sub> (LCO), Li<sub>3</sub>InCl<sub>6</sub> (LIC), and
+vapor-grown carbon fiber (VGCF) in a weight ratio of 70:27:3, respectively.
+The mixture was then transferred to a mortar and pestle and hand-milled
+for 30 min using an agate mortar. The VGCF was subject to a 24 h drying
+process in a vacuum oven at 80 &#x000b0;C. The experiments were conducted
+within a glovebox filled with argon (Ar) gas, ensuring that the levels
+of oxygen (O<sub>2</sub>) and water (H<sub>2</sub>O) were kept below
+0.1 ppm.</p></sec></sec><sec id="sec2.2"><label>2.2</label><title>Material Characterization</title><p>A field-emission
+scanning electron microscope (JEOL JSM-6500 F) was utilized to analyze
+the surface morphology of the Li metal anode after cycling as well
+as the SEs before and after cycling. The elemental distribution of
+the as-prepared CSE was determined by using energy-dispersive X-ray
+spectroscopy (EDX). The Bruker D2 Phaser diffractometer, utilizing
+a Cu K&#x003b1; radiation source (&#x003bb; = 1.5406 &#x000c5;), was employed
+to analyze the crystalline phase of the CSEs. The 2-theta range for
+the scan extended from 10 to 80&#x000b0;. Raman measurements were executed
+to investigate the vibrational modes of the thiophosphate group (PS<sub>4</sub><sup>3&#x02013;</sup>), by using a Uni-Ram Raman spectrometer.
+The excitation laser wavelength employed for the measurements was
+532 nm. During the measurements, the samples were placed inside transparent
+glass containers and sealed with air-tight glue to protect them from
+exposure to air. In addition, X-ray photoelectron spectroscopy (XPS)
+measurements were performed at the beamline station BL 24A1, situated
+at the National Synchrotron Radiation Research Center (NSRRC), Hsinchu,
+Taiwan. The energy calibration of the entire XPS spectra was performed
+using the Au 4f<sub>7/2</sub> peak as a reference at 84.1 eV.</p></sec><sec id="sec2.3"><label>2.3</label><title>Electrochemical Characterization and Air Stability
+Measurement</title><sec id="sec2.3.1"><label>2.3.1</label><title>Electrochemical Impedance
+Spectroscopy</title><p>The VMP3 potentiostat SAS impedance analyzer
+(Bio-Logic) was used
+to take the AC impedance measurements at 10 mV, using stainless steel
+(SUS) as a blocking electrode within a frequency range of 10 MHz to
+1 Hz. DC polarization measurements at different voltages were used
+to measure the electronic conductivities of samples using SUS as the
+blocking electrode. <xref rid="eq1" ref-type="disp-formula">Equation <xref rid="eq1" ref-type="disp-formula">1</xref></xref> was used to calculate the Li<sup>+</sup> ion conductivities.<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_m001" position="anchor"/><label>1</label></disp-formula>where <italic>L</italic> is the electrolyte
+pellet thickness, <italic>R</italic> is the resistance of the electrolyte,
+and <italic>A</italic> denotes the area of the SSE pellet.</p></sec><sec id="sec2.3.2"><label>2.3.2</label><title>Cell Fabrication and Electrochemical Measurements</title><p>A
+Li|<italic>x</italic>%-LPS|CLi symmetric cell configuration was
+fabricated and operated at an areal capacity of 0.1 mA h cm<sup>&#x02013;2</sup> and a current density of 0.1 mA cm<sup>&#x02013;2</sup> to examine
+the compatibility of the SEs with the Li metal anode. A CR-2023 type
+coin cell was used to assemble a pellet with a 10 mm diameter on which
+a Li foil with an 8 mm diameter was affixed. Furthermore, the Li|3%-LPSC|Li
+symmetric cell was subjected to testing at elevated current densities
+of 0.5, 1, and 2 mA cm<sup>&#x02013;2</sup>, employing a KP cell for
+the tests. Meanwhile, a Li|<italic>x</italic>%-LPSC|Li symmetric cell
+was also constructed to assess the interfacial stability of the SEs
+with the Li metal anode at different storage times. The CCD was investigated
+using a fixed step size of current density increment, set at 0.25
+mA cm<sup>&#x02013;2</sup> for each cycle. A galvanostatic computer-controlled
+40-channel battery tester (Arbin BT-2000, USA) was used to operate
+the cell within a potential range of +1 to &#x02212;1 V.</p><p>To study
+the impact of PEG/LiFSI on the voltage stability window of the LPSC
+SE, the Li|3%-LPSC|SUS semi-blocking cells were used. An electrolyte
+pellet was formed by compressing 70 mg of 3%-LPSC powder under a pressure
+of 350 MPa. Then, the Li foil was affixed to the opposite side of
+the pellet, and the cell was assembled by using a CR-2023 type coin
+cell. The test was conducted by sweeping the voltage at a rate of
+0.1 mV s<sup>&#x02013;1</sup> within the range of &#x02212;0.5&#x02013;5
+V.</p></sec><sec id="sec2.3.3"><label>2.3.3</label><title>ASSLMB Assembly</title><p>The assembly used
+70 mg of <italic>x</italic>%-LPSC SE and 20 mg of LIC as an interlayer.
+Additionally, 10 mg of the as-prepared composite cathode was dispersed
+uniformly on the side of the LIC electrolyte as an interlayer, and
+the Li metal anode with an 8 mm diameter was placed on the other side.
+The SUS foil was employed as the current collector to sandwich the
+final battery. The cell was assembled by using a KP cell, and an external
+pressure of 5 N m was applied to ensure optimal contact and stability.
+The galvanostatic charging/discharging of the cells was conducted
+at 30 &#x000b0;C using an Arbin BT-2000 system. The cutoff voltages were
+set to 2.5&#x02013;4.2 V (vs Li/Li<sup>+</sup>) during testing.</p></sec><sec id="sec2.3.4"><label>2.3.4</label><title>Moisture Stability Testing</title><p>For
+the measurement, pelletized samples weighing 80 mg were carefully
+positioned in a sealed container with a volume of 1000 cm<sup>3</sup>. The container had a microfan and an H<sub>2</sub>S gas sensor (GX-2009,
+Riken Keiki Co., Ltd., Tokyo). Then, it was filled with air at a relative
+humidity of 20%, and the measurements were conducted at room temperature.
+A mobile video recorder captured the readings on the gas sensor screen
+for 30 min. The amount of H<sub>2</sub>S detected during this period
+was recorded.</p></sec><sec id="sec2.3.5"><label>2.3.5</label><title>Mechanical Strength Measurement</title><p>To perform the tensile test and create a stress versus strain diagram,
+100 mg of SE powder was employed to produce a pellet-type SE with
+a diameter of 10 mm. This was achieved through cold pressing with
+a pressure of 350 MPa for 3 min. The test was conducted in a dry room
+(dew point: &#x0223c;&#x02212;40 &#x000b0;C). The EZ Test apparatus (Shimadzu-EZ-SX)
+was utilized, utilizing its rough surface holder to securely grasp
+the upper and lower edges of the pellet at a depth ranging from 3
+mm to 4 mm. The stretching velocity was set at 20 mm/min.</p></sec></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Structural
+Characterization</title><p>The systematic
+procedures used to prepare the composite sulfide SE and ASSLMB cell
+assembly are demonstrated in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>. As illustrated in the scheme, initially, there were
+gaps between the sulfide particles of the LPSC SE. However, the gaps
+were filled when these particles were mixed with the PEG/LiFSI slurry.
+Furthermore, during the initial cycling process, an SEI layer rich
+in LiF was created on the surface of the lithium metal anode.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Schematic Illustrations of <italic>x</italic>%-LPSC Composite Sulfide
+SE Synthesis and ASSLMBs Configuration Using 3%-LPSC SE and Li Metal
+as the Electrolyte and Anode, Respectively</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0008" id="gr1" position="float"/></fig><p>SEM analysis was conducted to examine the morphology
+of <italic>x</italic>%-LPSC electrolyte pellets produced through cold
+pressing,
+as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a&#x02013;f. As depicted in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a, the surface characteristics of the LPSC SE powders
+exhibit inadequate adhesion between particles and a rough texture
+marked by numerous microvoids. These gaps could provide space for
+Li dendrites&#x02019; formation, leading to the possibility of short
+circuits.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> By incorporation of the PEG polymer, the
+LPSC particles underwent a gradual coating process. This also resulted
+in enhanced compactness of the sulfide particles, and the degree of
+compactness increased proportionally with the PEG content. Furthermore,
+the PEG polymer filled the gaps between the LPSC particles, facilitating
+the smooth transportation of Li<sup>+</sup> ions and providing electronic
+insulation at the GBs. The results indicate that a PEG content of
+3 wt % resulted in complete coverage of all LPSC particles, as shown
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d. It should
+be emphasized that in addition to filling the gaps between LPSC particles,
+PEG also filled the GBs, which played a critical role in impeding
+electron transport at GBs.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> The cross-sectional
+images in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>g,h
+reveal that the 3%-LPSC SE pellet has a thickness that is thinner
+than that of the 0%-LPSC SE pellet. This difference suggests that
+the 3%-LPSC SE is more densely packed than the 0%-LPSC SE, attributed
+to the effective filling of voids by the PEG/LiFSI additives. Additionally,
+the bulk density of each pellet was calculated based on its weight
+and physical dimensions, which was found to be 1.53 g cm<sup>&#x02013;3</sup> for the 0%-LPSC and 1.838 g cm<sup>&#x02013;3</sup> for the 3%-LPSC
+SE. Subsequently, the relative density value was determined by dividing
+the bulk density by the theoretical density of LPSC (&#x0223c;1.86
+g cm<sup>&#x02013;3</sup>),<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> which is 82.25% for
+the 0%-LPSC and 98.81% for the 3%-LPSC SE pellets. These results indicate
+an improvement in density due to a decrease in voids in the 3%-LPSC
+SE. Both the EDS mapping images of the plane (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S1</ext-link>) and the cross section of 3%-LPSC (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>j&#x02013;p) demonstrated an
+even distribution of C, N, S, Cl, O, P, and F. This indicates that
+PEG/LiFSI was evenly dispersed within the LPSC structure. It should
+be emphasized that a higher PEG content would negatively impact the
+ionic conductivity, as illustrated in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a, due to the incorporation
+of the low ionic conductivity PEG polymer. This, in turn, would increase
+voltage polarization during cycling (as shown in <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">S8</ext-link>) and subsequently decrease the cycle life.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>SEM images of (a) 0%-LPSC,
+(b) 1%-LPSC, (c) 2%-LPSC, (d) 3%-LPSC,
+(e) 5%-LPSC, and (f) 10%-LPSC CSEs. Cross-sectional SEM images of
+(g) 0%-LPSC and (h) 3%-LPSC SEs. (i) 3%-LPSC CSE cross-sectional view
+with its corresponding EDS elemental mapping (j&#x02013;p) of C, N,
+S, Cl, O, P, and F elements, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0001" id="gr2" position="float"/></fig><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) XRD
+patterns and (b) Raman measurement for <italic>x</italic>%-LPSC electrolytes,
+where <italic>x</italic> = 0,1, 2,
+3, 5, and
+10 wt % of PEG/LiFSI.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0002" id="gr3" position="float"/></fig><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Nyquist plot of 0%-LPSC,
+1%-LPSC, 2%-LPSC, 3%-LPSC,
+5%-LPSC,
+and 10%-LPSC SEs, (b) ionic and electronic conductivity comparison
+of <italic>x</italic>%-LPSC SEs at 25 &#x000b0;C, (c) Arrhenius plot
+of 0%-LPSC and 3%-LPSC SEs, and (d) stress&#x02013;strain curves of
+0%-LPSC and 3%-LPSC SEs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0003" id="gr4" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) Li|Li symmetric cell
+test for <italic>x</italic> =
+0 and <italic>x</italic> = 3 SEs at a current density of 0.1 mA cm<sup>&#x02013;2</sup> and an areal capacity of 0.1 mA h cm<sup>&#x02013;2</sup> (coin cell).
+(b) Li|Li symmetric cell test for 3%-LPSC SE at different current
+densities (KP cell). Galvanostatic cycling of Li&#x02013;Li symmetric
+cells (c) 3%-LPSC and (d) 0%-LPSC SEs at step-increased current densities.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0004" id="gr5" position="float"/></fig><p>The structural characteristics of the synthesized
+composite sulfide
+SE were analyzed by Raman spectroscopy, calibrated via a Si wafer,
+and by XRD to investigate the impact of incorporating PEG/LiFSI on
+the LPSC structure. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a illustrates the XRD patterns of <italic>x</italic>%-LPSC
+(where <italic>x</italic> = 1, 2, 3, 5, and 10), which were similar
+to that of 0%-LPSC. The Li-argyrodite phase displays clear and distinctive
+peaks at 2-theta angles of 26.35, 30.24, and 32.12&#x000b0;, consistent
+with findings reported in earlier studies.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> The absence of reflections other than those corresponding to the
+argyrodite structure suggests that LPSC retains its crystallinity
+while forming an <italic>x</italic>%-LPSC composite electrolyte. Additionally, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S2</ext-link> illustrates the XRD patterns of the
+LiFSI salt and PEG polymer additives used for the composite solid
+sulfide electrolyte preparation. In <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b, the Raman spectra of the CSEs that were
+prepared are displayed within the frequency range of 100&#x02013;800
+cm<sup>&#x02013;1</sup>. Despite the addition of PEG/LiFSI, the position
+of the most prominent peak at 421 cm<sup>&#x02013;1</sup>, which corresponds
+to the symmetric stretching vibration mode of the P&#x02013;S bond
+in PS<sub>4</sub><sup>3</sup><sup>,</sup><sup><xref ref-type="bibr" rid="ref45">45</xref></sup> remained constant. This result indicates that incorporating PEG/LiFSI
+into the argyrodite system has no impact on the local structure of
+the PS<sub>4</sub><sup>3&#x02013;</sup> unit and does not alter the
+P&#x02013;S bonds. Hence, it is presumed that the fundamental structure
+of the LPSC argyrodite system remains consistent in the CSEs. Consequently,
+PEG/LiFSI can potentially be a favorable candidate for developing
+LPSC-based solid sulfide composite electrolytes.</p><p>Additionally,
+to verify the long-term stability between the LPSC
+SEs and the PEG polymer, structural characterization was carried out
+using XRD and Raman tests after storing for 45 days (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S3</ext-link>). The results indicate that no peak shifts or disappearances
+were observed, which suggests high chemical stability between PEG
+and LPSC.</p></sec><sec id="sec3.2"><label>3.2</label><title>Electrochemical Performance</title><p>The ionic
+conductivities of different <italic>x</italic>%-LPSC composites were
+assessed (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a,
+Nyquist plot) and compared (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b). Due to the incorporation of low-ionic-conductive
+PEG, the ionic conductivity of <italic>x</italic>%-LPSC decreased
+with increasing PEG content. The ionic conductivity of <italic>x</italic>%-LPSC decreased noticeably from 2.4 to 0.53 mS cm<sup>&#x02013;1</sup> as the PEG/LiFSI content was increased from 0 to 10 wt %. The temperature-dependent
+electrochemical impedance spectroscopy (EIS) measurement was conducted
+across a temperature range from 25 to 85 &#x000b0;C. An Arrhenius plot,
+presented in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c, was utilized to determine the activation energy (<italic>E</italic><sub>a</sub>) of these electrolytes using <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>. For the 0%-LPSC electrolyte, an activation
+energy of 0.29 eV was obtained, which aligns with findings from a
+previous study,<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> and for the 3%-LPSC pellet
+it is found to be <italic>E</italic><sub>a</sub> = 0.32 eV. The Nyquist
+plots of the impedance of <italic>x</italic>%-LPSC during ionic conductivity
+testing at various temperatures are displayed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S4</ext-link>.<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_m002" position="anchor"/><label>2</label></disp-formula>where &#x003c3; is the ionic conductivity, &#x003c3;<sub>0</sub> is the pre-exponential factor, <italic>R</italic> is the
+universal gas constant, and <italic>T</italic> is the temperature
+(in kelvin).</p><p>The nucleation and evolution of lithium dendrites
+within solid-state batteries are key factors contributing to cell
+failure. The presence of dendrites in SEs and their decomposition
+products at the electrode interface has been associated with increased
+electronic conductivity (&#x003c3;e) of the SEs.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> The electronic conductivity of SEs, along with their efficient Li<sup>+</sup> ion transport characteristics, can potentially facilitate
+the rapid recombination of the electrons and Li<sup>+</sup>. This,
+in turn, can foster the growth of metallic lithium and promote the
+localized nucleation of dendrites.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> As
+a result, reducing the overall electronic conductivity of SEs while
+preserving their high ionic conductivity poses a significant challenge
+to the successful advancement of ASSLMBs. Additionally, reduced electronic
+conductivity mitigates electron transfer at the electrolyte and lithium
+metal interface. This reduction in electron transfer helps to minimize
+the formation of thick SEI layers resulting from undesired side reactions
+at the interface.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> The electronic conductivities
+of <italic>x</italic>%-LPSC were assessed through direct-current polarization
+at 0.35, 0.7, 1.05, 1.4, and 1.45 V, given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S5</ext-link>. The electronic conductivities of <italic>x</italic>%-LPSC at 0.35 V show 4.18 &#x000d7; 10<sup>&#x02013;8</sup>, 1.47 &#x000d7;
+10<sup>&#x02013;8</sup>, 5.63 &#x000d7; 10<sup>&#x02013;9</sup>, 4.34 &#x000d7;
+10<sup>&#x02013;9</sup>, 3.05 &#x000d7; 10<sup>&#x02013;9</sup>, and 4.18
+&#x000d7; 10<sup>&#x02013;10</sup> S cm<sup>&#x02013;1</sup> for <italic>x</italic> = 0, 1, 2, 3, 5, and 10 wt %, respectively, and the comparison
+of those values is given in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b. Therefore, the electronic conductivity value decreases
+with the increase in the PEG polymer, as shown in the current response
+graphs at different applied voltages. This decrease in electronic
+conductivity plays a role in curbing the nucleation and growth of
+lithium dendrite in the electrolyte, thereby preventing cracking and
+short-circuiting.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup></p><p>The mechanical
+strength of the SE is directly linked to safety
+concerns because it determines its ability to withstand internal and
+external stresses during cell operation cycling.<sup><xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup> The mechanical strength test was performed on the 0%-LPSC and 3%-LPSC
+SE samples, and their stress&#x02013;strain curves are presented in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d. The 3%-LPSC (1.18
+N mm<sup>&#x02013;2</sup>) SE exhibits higher tensile strength than
+the 0%-LPSC (0.83 N mm<sup>&#x02013;2</sup>) SE, which is eligible
+for suppressing the growth of the Li dendrite. Furthermore, the strain
+in the 0%-LPSC SE measures 4.07%, whereas in the 3%-LPSC SE, it reaches
+7.5%. This implies that including PEG enhances the tensile strength
+by addressing the weak particle&#x02013;particle adhesion among the
+LPSC SE particles, resulting in a denser SE pellet. Additionally,
+it nearly doubles the ductility of the SE, leading to enhanced physical
+contact between the LPSC SE and the Li anode.</p><p>The cycling performances
+of symmetric cells with a Li|<italic>x</italic>%-LPSC|Li configuration
+were compared to assess the prolonged stability
+of Li plating/stripping, which is contingent on the deposition and
+growth of Li dendrites, as well as the interfacial degradation at
+the Li/SE interface. Consequently, it offers valuable insights into
+the general interfacial compatibility of the Li|<italic>x</italic>%-LPSC SE. The cells were subjected to cycling at a current density
+of 0.1 mA cm<sup>&#x02013;2</sup> under room-temperature conditions.
+As revealed in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, the results showed that the Li|0%-LPSC|Li cell could only maintain
+stable charging/discharging for 380 h, after which a sudden voltage
+drop occurred, indicating complete short-circuiting. This observation
+indicates the presence of substantial parasitic reactions occurring
+between the SE and the Li anode, resulting in the formation of dendrites.
+Consequently, the dendrites exhibit a nonzero resistance, contributing
+to the sudden voltage drop and resulting in a short circuit.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> Moreover, the decomposition of LPSC electrolyte
+and the subsequent formation of an SEI consisting of Li<sub>3</sub>P, Li<sub>2</sub>S, and LiCl at the interface with the Li metal can
+contribute to a rise in interfacial impedance.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup> This elevated impedance can lead to uneven plating of Li on the
+Li anode, ultimately shortening the cycle life of the 0%-LPSC SE.</p><p>Conversely, the Li|3%-LPSC|Li symmetric cell configuration demonstrated
+notably stable profiles of lithium plating and stripping for more
+than 3000 h without experiencing any short circuits (as depicted in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a). This observation
+indicates high stability in the interface between lithium and the
+3%-LPSC SE, enabling effective facilitation of reversible lithium
+plating and stripping. The observed stability in the plating and stripping
+behavior within the 3%-LPSC SE can be attributed to various factors.
+First, the presence of the PEG polymer serves as a protective layer,
+effectively preventing direct contact between the SE and the Li metal
+anode. This protective barrier helps to mitigate the potential reactivity
+between the SE and Li metal. Second, the PEG polymer also reduces
+the nucleation and growth of Li dendrites within the SE by decreasing
+their electronic conductivity. This effect helps to repress the formation
+of dendritic structures, which can cause performance degradation and
+safety concerns. Additionally, the PEG polymer fills the voids among
+the sulfide particles, thereby enhancing the SE pellet&#x02019;s compactness.
+This, in turn, enhances its mechanical strength, thereby preventing
+the penetration of the dendrite toward the SEs and promoting better
+contact between the SE and the Li metal anode by enhancing its ductility.
+Moreover, when in contact with the Li metal anode, the added LiFSI
+decomposes, creating an SEI enriched by LiF. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S6</ext-link> displays an expanded galvanostatic symmetric cell voltage
+profile in the Li|3%-LPSC|Li configuration, recorded at different
+cycling times. On the other hand, EIS analysis was conducted on Li|Li
+symmetric cells before and after 50 cycles at 0.1 mA cm<sup>&#x02013;2</sup>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S7a,b</ext-link> illustrates the EIS spectra
+for symmetric cells with 0%-LPSC and 3%-LPSC SE, both before and after
+cycling, respectively. The graph indicates that, before cycling, the
+cell with the 3%-LPSC SE exhibited higher impedance, which can be
+attributed to its lower ionic conductivity. After cycling, the cell
+using the 0%-LPSC SE showed increased impedance. This rise in impedance
+is likely due to the reaction between 0%-LPSC and Li, leading to the
+decomposition of LPSC electrolyte and the subsequent formation of
+an SEI consisting of Li<sub>3</sub>P, Li<sub>2</sub>S, and LiCl at
+the interface.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup> In contrast, the cell with the
+3%-LPSC SE demonstrated a minimal increase in impedance, suggesting
+an enhancement in the stability of the Li and 3%-LPSC SE interface.
+This improvement can be attributed to the synergetic effect of the
+CSE and the in-situ-formed LiF-rich SEI. Furthermore, a Li|3%-LPSC|Li
+symmetric cell was assembled and subjected to testing at current densities
+of 0.5 (0.25 mA h cm<sup>&#x02013;2</sup> capacity), 1 (0.5 mA h cm<sup>&#x02013;2</sup> capacity), and 2 (1 mA h cm<sup>&#x02013;2</sup> capacity)
+mA cm<sup>&#x02013;2</sup> for 25, 30, and 65 cycles, respectively
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b). The cell
+demonstrated stable cycling at these tested current densities, suggesting
+that the designed CSE, along with the in-situ-generated LiF-rich SEI,
+contributes to outstanding stability.</p><p>Despite exhibiting enhanced
+ionic conductivity and reduced polarization
+in the Li|Li symmetric cell, 1 and 2% LPSC SEs have poor cyclability,
+indicating low interfacial stability. The observed phenomenon can
+be attributed to the possibility that the 1 and 2% polymer content
+may not be adequate to cover all LPSC particles fully and fails to
+fully protect the SEs from direct contact with the Li metal. This
+deficiency potentially leads to the decomposition of the LPSC electrolyte
+and an increase in interfacial resistance. Additionally, the in situ
+LiF SEI formed on the Li anode may not be sufficiently strong to guarantee
+homogeneous lithium deposition and inhibit dendrite growth as depicted
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S8</ext-link> from the Li|Li symmetric test.
+Even though the Li|5%-LPSC|Li symmetric cell shows good cyclability,
+it has a higher voltage polarization when compared with the 3%-LPSC
+cell. Conversely, increasing the polymer content resulted in a gradual
+rise in overpotential from 10 mV (0%-LPSC) to 50 mV (10%-LPSC), as
+illustrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S8</ext-link>. This rise in
+the overpotential can be attributed to the decrease in ionic conductivity,
+as indicated in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. This may adversely affect the high-rate capability of the cell.
+In summary, the 3%-LPSC composite SSE exhibited an optimized composition
+for balance between ionic conductivity, overpotential, and cycling
+life.</p><p>Another crucial parameter used to assess the interfacial
+stability
+and the ability of SEs to suppress dendrite formation is the CCD.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> It is the highest current density at which the
+cell can operate before experiencing a short-circuit event.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup> It indicates the SE&#x02019;s
+ability to withstand high current densities without dendrite growth
+or other detrimental effects. Suppose that the voltage abruptly declines
+to nearly zero at a particular current density during the gradual
+increase. In that case, this indicates a short circuit within the
+SE. This abrupt voltage drop suggests that Li dendrites have penetrated
+the SE, resulting in a short circuit.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The CCD for 0%-LPSC and 3%-LPSC SEs was obtained by galvanostatic
+cycling on Li&#x02013;Li symmetric cells (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c,d). The cells underwent a series of stepwise
+increases in current density. The 3%-LPSC SE exhibits a significantly
+higher measured CCD value of 4.75 mA cm<sup>&#x02013;2</sup> compared
+to the 0%-LPSC SE, which has a lower CCD value of 0.75 mA cm<sup>&#x02013;2</sup>.</p><p>To further elucidate the extent of compatibility of the 3%-LPSC
+with the Li metal anode, interphase resistance growth at different
+storage times (0, 10, 20, 30, 40, 50, 60, 70, 80, and 90 h) was determined
+and compared with that of the 0%-LPSC SE. As depicted in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, the symmetric
+cell with 3%-LPSC revealed slightly higher initial impedance compared
+to the cell with 0%-LPSC, which was primarily attributed to the lower
+ionic conductivity of the 3%-LPSC than that of the 0%-LPSC SEs. However,
+with a prolonged standing time, the impedance of the cell with 3%-LPSC
+electrolyte exhibited a slow increase, whereas the impedance of the
+cell with 0%-LPSC electrolyte increased rapidly (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b). As the storage time increased,
+the interphase impedance of the Li|0%-LPSC|Li cell increased from
+90 to 230 &#x003a9; and that of the 3%-LPSC increased from 139 to 188
+&#x003a9; only in 90 h. One possible reason for the higher increase
+in impedance for the 0%-LPSC system is the undesired side reaction
+between the LPSC SE and the Li metal anode.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> These reactions led to passivation layers, which function as barriers
+that hinder the mobility of Li<sup>+</sup> ions, consequently causing
+the impedance to rise. This suggests that the 0%-LPSC SE is not compatible
+with the lithium metal anode, resulting in poor performance. On the
+other hand, the 3%-LPSC SE shows only a slight increase in impedance,
+indicating better compatibility with the lithium metal anode.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> The compatibility observed can be ascribed to
+the formation of a LiF-rich SEI layer, which is generated through
+the decomposition of LiFSI. In addition, the PEG additive contributes
+to this compatibility by reducing the electronic conductivity, enhancing
+the mechanical strength, serving as a barrier between the Li metal
+anode and the LPSC SE, and improving the contact between Li and the
+SE. The LiF-rich SEI layer helps suppress harmful parasitic reactions
+and improves the overall stability and electrochemical performance
+of the 3%-LPSC system. This observation is supported by XPS data,
+confirming the LiF compound&#x02019;s occurrence in the SEI layer. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c presents a comparison
+of the growth in interfacial resistance between 3%-LPSC and 0%-LPSC
+SEs.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>EIS spectra of (a) 3%-LPSC and (b) 0%-LPSC Li|SE|Li symmetric cells
+at various storage times; (c) time evolution resistance of Li|<italic>x</italic>%-LPSC|Li, where <italic>x</italic> = 0 and 3; (d) H<sub>2</sub>S amount generated at 20% moisture exposure for 0%-LPSC and
+3%-LPSC SEs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0005" id="gr6" position="float"/></fig><p>On the other hand, the moisture
+stability of 0%-LPSC
+and 3%-LPSC
+was tested with 20% relative humidity based on the amount of H<sub>2</sub>S evolved during a 20% air exposure as a function of time.
+As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d, the 3%-LPSC releases less H<sub>2</sub>S when compared to the
+0%-LPSC. This can be attributed to the presence of PEG polymer, which
+acts as a protective layer by enveloping the surface of LPSC, thus
+separating it from moisture and improving its humidity stability.</p><p>Additionally, cyclic voltammetry (CV) measurements were conducted
+on 3%-LPSC SE using Li as the reference electrode and SUS as the working
+electrodes to determine if the inclusion of PEG/LiFSI would impact
+the electrochemical stability window of the SE. The measurement was
+done with a 0.1 mV s<sup>&#x02013;1</sup> scan rate and from &#x02212;0.5
+to 5 V range vs Li/Li<sup>+</sup>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S9</ext-link> illustrates that the deposition of lithium (Li/Li<sup>+</sup>) is
+solely an observable peak at around 0 V, with no additional peaks
+observed. It suggests the as-prepared composite SE has a similar electrochemical
+window with the 0%-LPSC SE.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>To
+examine the surface morphology of the Li anode before and after
+cycling, SEM analysis was conducted. For the post cycling test, the
+lithium metal anodes were disassembled from the cells that had undergone
+cycling for 5 and 50 cycles at 0.1 mA h cm<sup>&#x02013;2</sup> areal
+capacity and 0.1 mA cm<sup>&#x02013;2</sup> current density. The uneven
+and porous surface observed on the lithium retrieved from the symmetric
+Li cell with 0%-LPSC (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S10d</ext-link> for
+the 5<sup>th</sup> cycle and <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a for the 50<sup>th</sup> cycle) is likely attributed
+to the reaction between the SE and the Li metal. This reaction can
+lead to inadequate interface contact and the creation of Li dendritic
+nucleation sites, which in turn can result in the formation and growth
+of Li dendrites. As the cycling process continues, it is well known
+that the thickness of this porous layer tends to increase, eventually
+failing the ASSLMBs.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Furthermore, the
+surface morphology variations in lithium metal can result in an uneven
+distribution of current densities during charge and discharge cycles.
+This can eventually trigger the creation of high-surface-area lithium
+throughout charging and voids during discharging. Thus, voids generated
+at the interface of the lithium metal electrode during stripping weaken
+the interfacial contact and contribute to an increase in the cells&#x02019;
+overpotential. These high-surface-area lithium formations can exhibit
+a dendritic morphology in the most severe instances.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>SEM images after the
+50<sup>th</sup> cycle; Li metal anode cycled
+with (a) 0%-LPSC and (b) 3%-LPSC and pellets of (c) 0%-LPSC and (d)
+3%-LPSC SEs. XPS measurements on the pellet side before and after
+the 5<sup>th</sup> cycle: (e) Li (1 s) and (g) S (2p) spectra for
+0%-LPSC and (f) Li (1s) and (h) S (2p) spectra for 3%-LPSC.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0006" id="gr7" position="float"/></fig><p>On the contrary, the surface of the lithium anode
+in contact with
+the 3%-LPSC CSE remains smooth even after cycling, as depicted in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S10b</ext-link> for the 5<sup>th</sup> cycle and <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b for the 50<sup>th</sup> cycle. This observation indicates that the in situ generation
+of LiF offers effective protection against the interfacial reaction
+between LPSC and lithium metal. Furthermore, this in-situ-formed LiF-rich
+SEI facilitates homogeneous Li<sup>+</sup> transport by reducing local
+current density and providing a stable scaffold. This stable scaffold
+promotes uniform electrodeposition/dissolution processes and effectively
+suppresses dendrite formation. Additionally, the in-situ-generated
+SEI layer exhibits several desirable properties such as (1) it serves
+as an excellent electronic insulator with a wide band gap, effectively
+preventing electron tunneling, and (2) it possesses high ionic conductivity,
+low diffusion energy, and high surface energy. These properties not
+only boost the rapid transport of Li<sup>+</sup> but also promote
+the horizontal electrodeposition of Li rather than a vertical growth
+pattern.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup></p><p>The surface morphology
+of the cycled SE pellets obtained from the
+symmetric cells Li|0%-LPSC|Li and Li|3%-LPSC|Li was also studied after
+the 5<sup>th</sup> and 50<sup>th</sup> cycles. After prolonged cycling,
+the recovered 0%-LPSC SE pellet exhibits significant cracking, as
+depicted in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figures S10c</ext-link> and <xref rid="fig6" ref-type="fig">6</xref>c for the 5<sup>th</sup> and 50<sup>th</sup> cycles, respectively.
+This is due to the side reactions between the Li metal and the LPSC
+SE. Conversely, the SE pellet recovered from the cycled Li|3%-LPSC|Li
+cell (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S10a</ext-link> for the 5<sup>th</sup> cycle and <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d for the 50<sup>th</sup> cycle) exhibits a compact and undamaged
+surface without any signs of cracking, indicating higher resistance
+to such side reactions.</p><p>The Li|SE interface was analyzed using
+XPS, to evaluate the thermodynamic
+stability of 0%-LPSC and 3%-LPSC SEs against lithium metal and to
+examine the hypothesis of the in situ generation of LiF SEI. For this
+analysis, both uncycled and cycled pellets were utilized. In the case
+of the cycled pellet, the surface facing the Li electrode was specifically
+analyzed. The cycled pellet was obtained by disassembling the Li|Li
+symmetric cell at 0.1 mA cm<sup>&#x02013;2</sup> after the 5th cycle.
+XPS spectra of various elements including Li 1s, F 1s, P 2p, Cl 2p,
+and S 2p were collected.</p><p>The Li 1s spectrum of the uncycled
+0%-LPSC (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>e)
+surface exhibits a solitary peak at 56
+eV, attributed to Li-thiophosphate. However, after cycling, its Li
+1s spectra exhibit two separate peaks at 55.75 and 56.64 eV, which
+can be attributed to Li<sub>6</sub>PS<sub>5</sub>Cl and LiCl, respectively.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref56">56</xref></sup> Hence, the presence of a peak corresponding to LiCl, one of the
+potential decomposition byproducts of LPSC (as shown in <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref>), signifies the instability of
+the LPSC SE with a Li anode. This instability ultimately results in
+an elevated interfacial resistance, as evidenced by the impedance
+tests conducted at various storage times (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b) and the EIS measurement after cycling
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S7</ext-link>) for the Li|Li symmetric cell.
+In comparison, the Li 1s spectra of the 3%-LPSC SE exhibit two distinct
+peaks corresponding to LiFSI (56.5 eV)<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> and LPSC (55.75 eV), which are common compositions observed in both
+the uncycled and cycled SEs, as depicted in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>f. The cycled 3%-LPSC SE has one additional
+peak at 55.55 eV, corresponding to the LiF<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> generated from the decomposition product of LiFSI. The observed
+evolution strongly supports the in situ formation of a LiF-rich SEI
+from the developed sulfide composite electrolyte. LiF is well known
+to be advantageous in forming a stable and compact SEI layer, which
+helps to stabilize the Li anode. The high interfacial energy of LiF
+(73.28 meV &#x000c5;<sup>&#x02013;2</sup>) serves a dual purpose: it promotes
+the diffusion of Li<sup>+</sup> transport along the Li/LiF interface
+and concurrently reduces interfacial stress, promoting uniform Li
+deposition.<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> Additionally, owing to its superior
+electronic insulation properties (approximately 10<sup>&#x02013;31</sup> S cm<sup>&#x02013;1</sup>), LiF is highly effective at impeding the
+flow of electrons through the SEI layer.<sup><xref ref-type="bibr" rid="ref59">59</xref>,<xref ref-type="bibr" rid="ref60">60</xref></sup></p><p>Regarding the F 1s spectra (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S11c</ext-link>), it is evident that the uncycled 3%-LPSC exhibits only one peak
+originating from the LiFSI salt added, located around 686.5 eV. Conversely,
+two signals are detected in the F 1s spectrum of the cycled 3%-LPSC
+SE. The signal at 683.5 eV can be ascribed to LiF, a decomposition
+product of LiFSI.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The second signal observed
+at 686.45 eV is derived from the &#x02212;S&#x02013;F group present
+in LiFSI. This further confirms the in situ formation of a LiF-rich
+SEI.<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_m003" position="anchor"/><label>3</label></disp-formula></p><p>In the S 2p spectrum of the cycled
+and uncycled 3%-LPSC (as shown
+in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>h), a sole
+doublet peak is evident at 161.45 eV. This peak is assigned to the
+PS<sub>4</sub><sup>3&#x02013;</sup> tetrahedra within the LPSC argyrodite
+structure, corresponding to the &#x02212;P&#x02013;S&#x02013;Li bonds.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref61">61</xref></sup> On the other hand, in the S 2p spectrum of the uncycled 0%-LPSC
+SE (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>g), only
+one doublet peak is observed at 161.45 eV, which corresponds to the
+PS<sub>4</sub><sup>3&#x02013;</sup> component of the LPSC.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref61">61</xref></sup> However, two additional peaks
+are observed after cycling, in addition to the doublet peak corresponding
+to PS<sub>4</sub><sup>3&#x02013;</sup> of the LPSC. The doublet peak
+at 164.65 eV is attributed to phosphorus polysulfide (P<sub>2</sub>S<sub><italic>n</italic></sub>), while the singlet peak at 162.3
+eV corresponds to lithium polysulfide (Li<sub>2</sub>S<sub><italic>n</italic></sub>). These peaks arise from the decomposition products
+of the LPSC SE during the cycling process, as given by <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref>,<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> as
+a result of the instability of the LPSC SE with the Li metal anode.
+However, the characteristic peaks of Li<sub>2</sub>S<sub><italic>n</italic></sub> (162.3 eV) and P<sub>2</sub>S<sub><italic>n</italic></sub> (164.65 eV) observed in the case of 0%-LPSC SE, which are believed
+to be associated with the decomposition product of LPSC, are not detected
+in the 3%-LPSC sample. The absence of those peaks indicates the effective
+protection of the 3%-LPSC SE against the decomposition due to the
+interfacial reaction of the LPSC SE with the Li metal anode. This
+protection is achieved through the synergistic effect of the in-situ-formed
+LiF-rich SEI and the PEG additive. Therefore, introducing PEG/LiFSI
+additives can realize even lithium deposition and adjust the current
+density distribution, thereby mitigating the probability of interfacial
+reactions and dendrite growth. The XPS surface composition investigation
+substantiates substantial parasitic reactions between the LPSC SE
+and the Li metal during the Li stripping/plating process. This finding
+aligns with prior research findings.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref51">51</xref>,<xref ref-type="bibr" rid="ref56">56</xref></sup> Additionally, the XPS
+spectra of Cl 2p and P 2p for both 0%-LPSC and 3%-LPSC SEs and the
+S 2p of the LiFSI are given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S11</ext-link>.</p><p>Galvanostatic charge&#x02013;discharge tests were performed
+on full
+cells at a temperature of 30 &#x000b0;C, from 2.5 to 4.2 V voltage range.
+The tests were performed at a 0.2 C rate, where 1 C corresponds to
+140 mA h g<sup>&#x02013;1</sup> (&#x0223c;1.25 mA h cm<sup>&#x02013;2</sup>). <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref> presents
+the electrochemical and rate performance data of Li|3%-LPSC|LCO and
+Li|0%-LPSC|LCO ASSLMBs. In <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a, the Li|3%-LPSC|LCO cell exhibits a higher rate of
+curve overlap during the initial cycles. This indicates better cycling
+stability and consistent capacity retention. On the other hand, in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b, the Li|0%-LPSC|LCO
+cell shows continuous capacity decay over time. This decay is attributed
+to active lithium consumption and the development of an unstable SEI
+layer, which has a detrimental effect on the cyclability of the cell.
+The Li|3%-LPSC|LCO cell demonstrates a specific capacity of 130.85
+mA h g<sup>&#x02013;1</sup> (&#x0223c;1.17 mA h cm<sup>&#x02013;2</sup>) during the first discharge. Additionally, it exhibits an initial
+Coulombic efficiency of 94.48%. After 50 cycles, the discharge capacity
+of the Li|3%-LPSC|LCO cell remains approximately 99.15 mA h g<sup>&#x02013;1</sup> (&#x0223c;0.88 mA h cm<sup>&#x02013;2</sup>), resulting
+in a retention rate of 75.77%. On the other hand, the Li|0%-LPSC|LCO
+cell retains only a discharge capacity of 20.17 mA h g<sup>&#x02013;1</sup> (&#x0223c;0.18 mA h cm<sup>&#x02013;2</sup>) after 50 cycles, equating
+to a capacity retention of 15.66%. The modified sample, Li|3%-LPSC|LCO,
+exhibits a substantial enhancement in capacity retention of approximately
+60.11% (nearly five times higher than the 0%-LPSC SE). On the other
+hand, the EIS results before and after cycling (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S12a,b</ext-link>), comparing Li|3%-LPSC|LCO and Li|0%-LPSC|LCO
+batteries, provide insights into the enhanced cycling performance
+of ASSBs incorporating the 3%-LPSC SE. After 25 cycles at 0.2 C, it
+is evident that the cell utilizing the 3%-LPSC SE exhibits minimal
+impedance increase compared to its precycling state. This observation
+highlights the effective stabilization of the interface between the
+Li metal anode and the 3%-LPSC SE, attributed to the synergistic effects
+of the CSE and the in-situ-formed LiF-rich SEI. In contrast, the cell
+utilizing the 0%-LPSC SE exhibits a rapid increase in impedance after
+cycling, and the EIS results support the superior electrochemical
+performances of the LCO|3%-LPSC|Li batteries.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Electrochemical and rate
+performance of Li|<italic>x</italic>%-LPSC|LCO
+at 0.2 C rate. Charge/discharge curves in different cycles for (a)
+Li|3%-LPSC|LCO and (b) Li|0%-LPSC|LCO. The cycling performance of
+the cell for (c) the Li|3%-LPSC|LCO system and (d) the Li|0%-LPSC|LCO
+system. (e) Charge&#x02013;discharge curves of the Li|3%-LPSC|LCO cell
+under different current densities. (f) Rate performance of Li|3%-LPSC|LCO
+and Li|0%-LPSC|LCO at various current densities from 0.1 to 2 C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_0007" id="gr8" position="float"/></fig><p>Moreover, <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>e presents the charge&#x02013;discharge curves of the
+Li|3%-LPSC|LCO
+cell under various current densities, while the rate performances
+of both the Li|0%-LPSC|LCO and Li|3%-LPSC|LCO cells are evaluated
+in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>f. At rates
+of 0.1 0.2, 0.5, 1, and 2 C, the full cell utilizing the 3%-LPSC SE
+delivers specific capacities of 137.97, 122.61, 90.19, 61.05, and
+30.57 mA h g<sup>&#x02013;1</sup>, respectively. Upon reducing the
+current density back to 0.1 C, the specific capacity can recover to
+113.19 mA h g<sup>&#x02013;1</sup>. In contrast, the 0%-LPSC SE yields
+specific capacities of 135.35, 77.28, 47.98, 23.35, and 4.72 mA h
+g<sup>&#x02013;1</sup> at these corresponding currents. The diminished
+electrochemical performance of the 0%-LPSC SE is directly linked to
+a substantial rise in interfacial resistance (as illustrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">Figure S12</ext-link>) and interface degradation resulting
+from inadequate contact between the 0%-LPSC and lithium metal as well
+as uneven lithium deposition. Overall, the remarkable improvement
+in the rate and cycling performance of the Li|3%-LPSC|LCO battery
+can be ascribed to the synergistic effects of the CSE and the in situ
+formation of a LiF-rich SEI.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>Our findings present a
+pioneering and simple approach to mitigating
+lithium dendrite growth compared with previous methods. This study
+demonstrates effective suppression of dendrite growth by in situ formation
+of a LiF-rich SEI and promoting a compliant contact between SSEs and
+the lithium surface. Our approach offers notable advantages. First,
+the solvent-free preparation of the solid sulfide composite electrolyte
+at room temperature eliminates the need for a solvent. Second, the
+in situ formation of LiF at the SSE&#x02013;lithium interface provides
+exceptional electrochemical stability, mitigating the reduction of
+LPSC and enabling the horizontal deposition of Li. Lastly, our method
+is simple, cost-effective, easily scalable and suitable for large-scale
+production. The incorporation of PEG additives also brings additional
+benefits. It enhances sulfide particle adhesion, preventing dendrite
+penetration; it improves contact between the Li metal anode and SEs
+and addresses contact loss issues by increasing the ductility of the
+SE. Consequently, the Li|Li symmetric cell with the 3%-LPSC SE exhibits
+impressive cycling stability without shorting over 3000 h under 0.1
+mA cm<sup>&#x02013;2</sup> and 0.1 mA h cm<sup>&#x02013;2</sup> at room
+temperature. Furthermore, the Li|3%-LPSC|LCO ASSLMB shows higher capacity
+retention and high-rate performance than the Li|0%-LPSC|LCO ASSLMB.
+Our approach offers a new choice for sulfide-based composite SE synthesis
+and the strategy for protecting lithium anodes using an in situ LiF-rich
+interface layer, demonstrating the promising potential for utilizing
+lithium anodes in ASSBs.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.3c14763?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.3c14763</ext-link>.<list id="silist" list-type="simple"><list-item><p>EDS elemental mapping
+of the 3%-LPSC CSE, XRD patterns
+of PEG and LiFSI, structural characterization of the prepared CSE
+by XRD and Raman spectroscopy after 45 days of storage time, Nyquist
+plot for temperature-dependent EIS measurement of 0%-LPSC and 3%-LPSC
+SEs from 25 to 85 &#x000b0;C, current responses at different applied
+voltages as a function of time for <italic>x</italic>%-LPSC SEs, galvanostatic
+symmetric voltage profiles of Li|3%-LPSC|Li at 0.1 mA cm<sup>&#x02013;2</sup> current density and 0.1 mA h cm<sup>&#x02013;2</sup> at different
+cycling hours, EIS spectra for Li|Li symmetric cells before and after
+cycling, galvanostatic Li plating/stripping profiles of the Li|<italic>x</italic>%-LPSC|Li symmetric cell at 0.1 mA cm<sup>&#x02013;2</sup>, electrochemical stability test of the 3%-LPSC SEs by CV, SEM images
+after the 5th cycle of both 3%-LPSC and 0%-LPSC pellets, as well as
+the Li metal anode cycled with each of the SEs, XPS spectra at Li|SE
+interface chemical composition test on the pellet side before and
+after the 5th cycle for both 0%-LPSC and 3%-LPSC SEs, and EIS spectra
+for Li|<italic>x</italic>%-LPSC|LCO before cycling and after the 30th
+cycle (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c14763/suppl_file/am3c14763_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c14763_si_001.pdf"><caption><p>am3c14763_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The
+authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Financial
+support from the National Science and
+Technology Council of Taiwan (NSTC 112-2639-E-011-001-ASP, 112-2923-E-011-005-,
+112-2923-E-011-001, and 112-2923-E-011-004-MY3; MOST 111-3116-F-011-004
+and 111-3116-F-011-006), the Ministry of Education of Taiwan (the
+Sustainable Electrochemical Energy Development Center (SEED Center)
+from the Featured Areas Research Center Program), as well as the supporting
+facilities from the National Taiwan University of Science and Technology
+(NTUST), National Center for High Performance Computing (NCHC), and
+National Synchrotron Radiation Research Centre (NSRRC), are all gratefully
+acknowledged.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Jin</surname><given-names>Y.</given-names></name>; <name><surname>Chang</surname><given-names>X.</given-names></name>; <name><surname>Zhao</surname><given-names>X.</given-names></name>; <name><surname>Gu</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>In Situ Formed LiF-Li<sub>3</sub>N Interface Layer
+Enables Ultra-Stable Sulfide Electrolyte-Based All-Solid-State Lithium
+Batteries</article-title>. <source>J. Energy Chem.</source>
+<year>2023</year>, <volume>79</volume>, <fpage>272</fpage>&#x02013;<lpage>278</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2023.01.007</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zeng</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Tang</surname><given-names>Z.</given-names></name>; <name><surname>Sun</surname><given-names>D.</given-names></name>; <name><surname>Huang</surname><given-names>D.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>
+<article-title>Polymer-in-Salt
+Electrolyte Enables Ultrahigh Ionic Conductivity for Advanced Solid-State
+Lithium Metal Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2023</year>, <volume>54</volume>, <fpage>440</fpage>&#x02013;<lpage>449</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2022.10.055</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Lu</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Nuli</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>
+<article-title>Artificial
+Alloy/Li<sub>3</sub>N
+Double-Layer Enabling Stable High-Capacity Lithium Metal Anodes</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2021</year>, <volume>4</volume> (<issue>11</issue>), <fpage>13132</fpage>&#x02013;<lpage>13139</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.1c02766</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Chang</surname><given-names>X.</given-names></name>; <name><surname>Weng</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>G. Z.</given-names></name>; <name><surname>Fow</surname><given-names>K. L.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>LiAlO<sub>2</sub>-Modified Li Negative
+Electrode with Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Electrolytes
+for Stable All-Solid-State Lithium Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2023</year>, <volume>15</volume> (<issue>17</issue>), <fpage>21179</fpage>&#x02013;<lpage>21186</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.3c03242</pub-id>.<pub-id pub-id-type="pmid">37068220</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Zhong</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Shao</surname><given-names>H.</given-names></name>; <name><surname>Ding</surname><given-names>F.</given-names></name>
+<article-title>Suppression of Lithium Dendrite Formation
+by Using LAGP-PEO(LiTFSI) Composite Solid Electrolyte and Lithium
+Metal Anode Modified by PEO (LiTFSI) in All-Solid-State Lithium Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume> (<issue>15</issue>), <fpage>13694</fpage>&#x02013;<lpage>13702</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b00336</pub-id>.<pub-id pub-id-type="pmid">28334524</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>C.</given-names></name>; <name><surname>Peng</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>; <name><surname>Bai</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>
+<article-title>A New Solid
+Polymer Electrolyte Incorporating
+Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> into a Polyethylene Oxide
+Matrix for All-Solid-State Lithium Batteries</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>301</volume>, <fpage>47</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.09.111</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Huo</surname><given-names>H.</given-names></name>; <name><surname>Jiang</surname><given-names>M.</given-names></name>; <name><surname>Mogwitz</surname><given-names>B.</given-names></name>; <name><surname>Sann</surname><given-names>J.</given-names></name>; <name><surname>Yusim</surname><given-names>Y.</given-names></name>; <name><surname>Zuo</surname><given-names>T. T.</given-names></name>; <name><surname>Moryson</surname><given-names>Y.</given-names></name>; <name><surname>Minnmann</surname><given-names>P.</given-names></name>; <name><surname>Richter</surname><given-names>F. H.</given-names></name>; <name><surname>Veer Singh</surname><given-names>C.</given-names></name>; et al. <article-title>Interface Design Enabling Stable Polymer/Thiophosphate
+Electrolyte Separators for Dendrite-Free Lithium Metal Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2023</year>, <volume>62</volume> (<issue>14</issue>), <elocation-id>e202218044</elocation-id><pub-id pub-id-type="doi">10.1002/anie.202218044</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Shi</surname><given-names>K.</given-names></name>; <name><surname>Wan</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Su</surname><given-names>S.</given-names></name>; <name><surname>Xia</surname><given-names>H.</given-names></name>; <name><surname>Jiang</surname><given-names>K.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>; <name><surname>Hu</surname><given-names>Y.</given-names></name>; et al. <article-title>In Situ
+Construction of an Ultra-Stable Conductive Composite Interface for
+High-Voltage All-Solid-State Lithium Metal Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume> (<issue>29</issue>), <fpage>11882</fpage>&#x02013;<lpage>11886</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202000547</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Cai</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Zhao</surname><given-names>Z.</given-names></name>; <name><surname>Mu</surname><given-names>D.</given-names></name>; <name><surname>Wu</surname><given-names>B.</given-names></name>
+<article-title>Air Stability and Interfacial
+Compatibility of Sulfide Solid Electrolytes for Solid-State Lithium
+Batteries: Advances and Perspectives</article-title>. <source>ChemElectroChem</source>
+<year>2022</year>, <volume>9</volume> (<issue>5</issue>), <elocation-id>e202101479</elocation-id><pub-id pub-id-type="doi">10.1002/celc.202101479</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Kamikawa</surname><given-names>Y.</given-names></name>; <name><surname>Amezawa</surname><given-names>K.</given-names></name>
+<article-title>x-Li<sub>6</sub>PS<sub>5</sub>Cl/(1-x)(Perfluoropolyethers-ethoxy-diol/Lithium
+Bis (trifluoromethanesulfonyl) imide) Electrolyte for Superior Stability
+against a Metallic Lithium Anode</article-title>. <source>ACS Appl.
+Energy Mater.</source>
+<year>2022</year>, <volume>5</volume> (<issue>11</issue>), <fpage>13243</fpage>&#x02013;<lpage>13253</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.2c01661</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Jiang</surname><given-names>S.-K.</given-names></name>; <name><surname>Yang</surname><given-names>S.-C.</given-names></name>; <name><surname>Huang</surname><given-names>W.-H.</given-names></name>; <name><surname>Sung</surname><given-names>H.-Y.</given-names></name>; <name><surname>Lin</surname><given-names>R.-Y.</given-names></name>; <name><surname>Li</surname><given-names>J.-N.</given-names></name>; <name><surname>Tsai</surname><given-names>B.-Y.</given-names></name>; <name><surname>Agnihotri</surname><given-names>T.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>C.-H.</given-names></name>; <name><surname>Lin</surname><given-names>S. D.</given-names></name>; <name><surname>Wang</surname><given-names>C.-C.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Enhancing the Interfacial
+Stability between Argyrodite Sulfide-Based Solid Electrolytes and
+Lithium Electrodes through CO<sub>2</sub> Adsorption</article-title>. <source>J. Mater. Chem. A</source>
+<year>2023</year>, <volume>11</volume> (<issue>6</issue>), <fpage>2910</fpage>&#x02013;<lpage>2919</lpage>. <pub-id pub-id-type="doi">10.1039/D2TA08148B</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Ying</surname><given-names>H.</given-names></name>; <name><surname>Han</surname><given-names>G.</given-names></name>; <name><surname>Han</surname><given-names>W.-Q.</given-names></name>
+<article-title>In-Situ
+Formation of LiF-Rich Composite Interlayer for Dendrite-Free All-Solid-State
+Lithium Batteries</article-title>. <source>J. Chem. Eng.</source>
+<year>2021</year>, <volume>411</volume>, <fpage>128534</fpage><pub-id pub-id-type="doi">10.1016/j.cej.2021.128534</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Bezabh</surname><given-names>H.</given-names></name>; <name><surname>Tsai</surname><given-names>M.-C.</given-names></name>; <name><surname>Yang</surname><given-names>C.-C.</given-names></name>; <name><surname>Hwang</surname><given-names>B.</given-names></name>
+<article-title>Effect of Selected Dopants on Conductivity
+and Moisture Stability
+of Li<sub>3</sub>PS<sub>4</sub> Sulfide Solid Electrolyte: A First-Principles
+Study</article-title>. <source>Mater. Today Chem.</source>
+<year>2022</year>, <volume>24</volume>, <fpage>100837</fpage><pub-id pub-id-type="doi">10.1016/j.mtchem.2022.100837</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Jin</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Gu</surname><given-names>Z.</given-names></name>; <name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Sun</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Huang</surname><given-names>L.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Enables Stable All-Solid-State
+Lithium Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume> (<issue>19</issue>), <fpage>2211047</fpage><pub-id pub-id-type="doi">10.1002/adma.202211047</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Wenzel</surname><given-names>S.</given-names></name>; <name><surname>Leichtweiss</surname><given-names>T.</given-names></name>; <name><surname>Kr&#x000fc;ger</surname><given-names>D.</given-names></name>; <name><surname>Sann</surname><given-names>J.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Interphase
+Formation on Lithium Solid Electrolytes-An In Situ Approach to Study
+Interfacial Reactions by Photoelectron Spectroscopy</article-title>. <source>Solid State Ionics</source>
+<year>2015</year>, <volume>278</volume>, <fpage>98</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2015.06.001</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Hatzell</surname><given-names>K. B.</given-names></name>; <name><surname>Chen</surname><given-names>X. C.</given-names></name>; <name><surname>Cobb</surname><given-names>C. L.</given-names></name>; <name><surname>Dasgupta</surname><given-names>N. P.</given-names></name>; <name><surname>Dixit</surname><given-names>M. B.</given-names></name>; <name><surname>Marbella</surname><given-names>L. E.</given-names></name>; <name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Mukherjee</surname><given-names>P. P.</given-names></name>; <name><surname>Verma</surname><given-names>A.</given-names></name>; <name><surname>Viswanathan</surname><given-names>V.</given-names></name>; et al. <article-title>Challenges in Lithium
+Metal Anodes for Solid-State Batteries</article-title>. <source>ACS
+Energy Lett.</source>
+<year>2020</year>, <volume>5</volume> (<issue>3</issue>), <fpage>922</fpage>&#x02013;<lpage>934</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.9b02668</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>
+<article-title>First Principles
+Study on Electrochemical and Chemical
+Stability of Solid Electrolyte-Electrode Interfaces in All-Solid-State
+Li-ion Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume> (<issue>9</issue>), <fpage>3253</fpage>&#x02013;<lpage>3266</lpage>. <pub-id pub-id-type="doi">10.1039/C5TA08574H</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Wenzel</surname><given-names>S.</given-names></name>; <name><surname>Randau</surname><given-names>S.</given-names></name>; <name><surname>Leichtwei&#x000df;</surname><given-names>T.</given-names></name>; <name><surname>Weber</surname><given-names>D. A.</given-names></name>; <name><surname>Sann</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Direct Observation
+of the Interfacial
+Instability of the Fast Ionic Conductor Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> at the Lithium Metal Anode</article-title>. <source>Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume> (<issue>7</issue>), <fpage>2400</fpage>&#x02013;<lpage>2407</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.6b00610</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Su</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Xiang</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Zhong</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Xia</surname><given-names>X.</given-names></name>; <name><surname>Gu</surname><given-names>C.</given-names></name>; <name><surname>Tu</surname><given-names>J.</given-names></name>
+<article-title>In Situ Formation
+of a Li<sub>3</sub>N-rich Interface between Lithium and Argyrodite
+Solid Electrolyte Enabled by Nitrogen Doping</article-title>. <source>J. Mater. Chem. A</source>
+<year>2021</year>, <volume>9</volume> (<issue>23</issue>), <fpage>13531</fpage>&#x02013;<lpage>13539</lpage>. <pub-id pub-id-type="doi">10.1039/D1TA03343C</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Su</surname><given-names>W. N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Halide Solid-State Electrolytes:
+Stability and Application for High Voltage All-Solid-State Li Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume> (<issue>3</issue>), <fpage>2202854</fpage><pub-id pub-id-type="doi">10.1002/aenm.202202854</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Han</surname><given-names>F.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>Lithium/Sulfide All-Solid-State
+Batteries using Sulfide Electrolytes</article-title>. <source>Adv. Mater.</source>
+<year>2021</year>, <volume>33</volume> (<issue>6</issue>), <fpage>2000751</fpage><pub-id pub-id-type="doi">10.1002/adma.202000751</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Chemical
+Stability of Sulfide Solid-State Electrolytes: Stability toward Humid
+Air and Compatibility with Solvents and Binders</article-title>. <source>Energy Environ. Sci.</source>
+<year>2022</year>, <volume>15</volume> (<issue>3</issue>), <fpage>991</fpage>&#x02013;<lpage>1033</lpage>. <pub-id pub-id-type="doi">10.1039/D1EE03032A</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Han</surname><given-names>F.</given-names></name>; <name><surname>Westover</surname><given-names>A. S.</given-names></name>; <name><surname>Yue</surname><given-names>J.</given-names></name>; <name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Chi</surname><given-names>M.</given-names></name>; <name><surname>Leonard</surname><given-names>D. N.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>High Electronic
+Conductivity as the Origin of Lithium Dendrite Formation within Solid
+Electrolytes</article-title>. <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume> (<issue>3</issue>), <fpage>187</fpage>&#x02013;<lpage>196</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-018-0312-z</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Liang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Goncharova</surname><given-names>L. V.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Adair</surname><given-names>K. R.</given-names></name>; <name><surname>Banis</surname><given-names>M. N.</given-names></name>; <name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Sham</surname><given-names>T. K.</given-names></name>; <name><surname>Huang</surname><given-names>H.</given-names></name>; et al. <article-title>An Air-Stable and Dendrite-Free
+Li Anode for Highly Stable All-Solid-State
+Sulfide-Based Li Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume> (<issue>38</issue>), <fpage>1902125</fpage><pub-id pub-id-type="doi">10.1002/aenm.201902125</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Fang</surname><given-names>R.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Xin</surname><given-names>C.</given-names></name>; <name><surname>Richter</surname><given-names>F. H.</given-names></name>; <name><surname>Nan</surname><given-names>C.-W.</given-names></name>
+<article-title>Interfacial Challenges for All-Solid-State
+Batteries Based on Sulfide Solid Electrolytes</article-title>. <source>J. Materiomics</source>
+<year>2021</year>, <volume>7</volume> (<issue>2</issue>), <fpage>209</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmat.2020.09.003</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Sun</surname><given-names>C.</given-names></name>; <name><surname>Jin</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zha</surname><given-names>W.</given-names></name>; <name><surname>Wen</surname><given-names>Z.</given-names></name>
+<article-title>Sustained
+Release-Driven Formation of Ultrastable SEI
+between Li<sub>6</sub>PS<sub>5</sub>Cl and Lithium Anode for Sulfide-based
+Solid-State Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume> (<issue>4</issue>), <fpage>2002545</fpage><pub-id pub-id-type="doi">10.1002/aenm.202002545</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>C. Z.</given-names></name>; <name><surname>Yuan</surname><given-names>H.</given-names></name>; <name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Critical Current Density in Solid-State Lithium Metal Batteries:
+Mechanism, Influences, and Strategies</article-title>. <source>Adv.
+Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume> (<issue>18</issue>), <fpage>2009925</fpage><pub-id pub-id-type="doi">10.1002/adfm.202009925</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Hikima</surname><given-names>K.</given-names></name>; <name><surname>Totani</surname><given-names>M.</given-names></name>; <name><surname>Obokata</surname><given-names>S.</given-names></name>; <name><surname>Muto</surname><given-names>H.</given-names></name>; <name><surname>Matsuda</surname><given-names>A.</given-names></name>
+<article-title>Mechanical
+Properties of Sulfide-Type Solid Electrolytes Analyzed by Indentation
+Methods</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2022</year>, <volume>5</volume> (<issue>2</issue>), <fpage>2349</fpage>&#x02013;<lpage>2355</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.1c03829</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Arnold</surname><given-names>W.</given-names></name>; <name><surname>Thapa</surname><given-names>A.</given-names></name>; <name><surname>Jasinski</surname><given-names>J. B.</given-names></name>; <name><surname>Sumanasekera</surname><given-names>G.</given-names></name>; <name><surname>Sunkara</surname><given-names>M.</given-names></name>; <name><surname>Druffel</surname><given-names>T.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>
+<article-title>Stable and Flexible
+Sulfide Composite Electrolyte for High-Performance Solid-State Lithium
+Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume> (<issue>38</issue>), <fpage>42653</fpage>&#x02013;<lpage>42659</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.0c08261</pub-id>.<pub-id pub-id-type="pmid">32845121</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>P.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Hu</surname><given-names>Y.-Y.</given-names></name>
+<article-title>Interface-Enabled
+Ion Conduction in Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>-Poly
+(ethylene Oxide) Hybrid Electrolytes</article-title>. <source>ACS Appl.
+Energy Mater.</source>
+<year>2019</year>, <volume>2</volume> (<issue>2</issue>), <fpage>1452</fpage>&#x02013;<lpage>1459</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.8b02008</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Yan</surname><given-names>H.</given-names></name>; <name><surname>Gong</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>
+<article-title>Poly(ethylene
+oxide)-Li<sub>10</sub>SnP<sub>2</sub>S<sub>12</sub> Composite Polymer
+Electrolyte Enables High-Performance All-Solid-State
+Lithium Sulfur Battery</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume> (<issue>25</issue>), <fpage>22745</fpage>&#x02013;<lpage>22753</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b05212</pub-id>.<pub-id pub-id-type="pmid">31190524</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Temesgen</surname><given-names>N. T.</given-names></name>; <name><surname>Bezabh</surname><given-names>H. K.</given-names></name>; <name><surname>Weret</surname><given-names>M. A.</given-names></name>; <name><surname>Shitaw</surname><given-names>K. N.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Lakshmanan</surname><given-names>K.</given-names></name>; <name><surname>Yang</surname><given-names>S.-C.</given-names></name>; <name><surname>Jiang</surname><given-names>S.-K.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Solvent-Free
+Design of Argyrodite Sulfide Composite Solid Electrolyte with Superb
+Interface and Moisture Stability in Anode-Free Lithium Metal Batteries</article-title>. <source>J. Power Sources</source>
+<year>2023</year>, <volume>556</volume>, <fpage>232462</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2022.232462</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Yi</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>D.</given-names></name>; <name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Ni</surname><given-names>H.</given-names></name>; <name><surname>Fan</surname><given-names>L.-Z.</given-names></name>
+<article-title>Enabling High-Performance All-Solid-State
+Lithium Batteries
+with High Ionic Conductive Sulfide-Based Composite Solid Electrolyte
+and Ex-Situ Artificial SEI Film</article-title>. <source>J. Energy Chem.</source>
+<year>2021</year>, <volume>58</volume>, <fpage>17</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2020.09.038</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Zhao</surname><given-names>C. Z.</given-names></name>; <name><surname>Wei</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>A Review of Solid Electrolyte Interphases
+on Lithium Metal Anode</article-title>. <source>Adv. Sci.</source>
+<year>2016</year>, <volume>3</volume> (<issue>3</issue>), <fpage>1500213</fpage><pub-id pub-id-type="doi">10.1002/advs.201500213</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>A.</given-names></name>; <name><surname>Wu</surname><given-names>N.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Li<sub>3</sub>N-Modified Garnet Electrolyte
+for All-Solid-State
+Lithium Metal Batteries Operated at 40&#x000b0;C</article-title>. <source>Nano Lett.</source>
+<year>2018</year>, <volume>18</volume> (<issue>11</issue>), <fpage>7414</fpage>&#x02013;<lpage>7418</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.8b03902</pub-id>.<pub-id pub-id-type="pmid">30352159</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Simon</surname><given-names>F. J.</given-names></name>; <name><surname>Hanauer</surname><given-names>M.</given-names></name>; <name><surname>Henss</surname><given-names>A.</given-names></name>; <name><surname>Richter</surname><given-names>F. H.</given-names></name>; <name><surname>Janek</surname><given-names>J. r.</given-names></name>
+<article-title>Properties
+of the Interphase Formed between Argyrodite-type Li<sub>6</sub>PS<sub>5</sub>Cl and Polymer-based PEO<sub>10</sub>: LiTFSI</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume> (<issue>45</issue>), <fpage>42186</fpage>&#x02013;<lpage>42196</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b14506</pub-id>.<pub-id pub-id-type="pmid">31613597</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Zou</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Luo</surname><given-names>K.</given-names></name>; <name><surname>Liu</surname><given-names>L.</given-names></name>; <name><surname>Tao</surname><given-names>X.</given-names></name>; <name><surname>Yi</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>
+<article-title>In Situ Formed Protective
+Layer: Toward a More Stable Interface between the Lithium Metal Anode
+and Li<sub>6</sub>PS<sub>5</sub>Cl Solid Electrolyte</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2022</year>, <volume>5</volume> (<issue>7</issue>), <fpage>8428</fpage>&#x02013;<lpage>8436</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.2c00971</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Ji</surname><given-names>X.</given-names></name>; <name><surname>Han</surname><given-names>F.</given-names></name>; <name><surname>Yue</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Deng</surname><given-names>T.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>Fluorinated Solid Electrolyte
+Interphase Enables Highly Reversible Solid-State Li Metal Battery</article-title>. <source>Sci. Adv.</source>
+<year>2018</year>, <volume>4</volume> (<issue>12</issue>), <elocation-id>eaau9245</elocation-id><pub-id pub-id-type="doi">10.1126/sciadv.aau9245</pub-id>.<pub-id pub-id-type="pmid">30588493</pub-id>
+</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Fang</surname><given-names>R.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Grundish</surname><given-names>N. S.</given-names></name>; <name><surname>Xia</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Lu</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>N.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Li<sub>2</sub>S<sub>6</sub>-Integrated
+PEO-based Polymer Electrolytes for All-Solid-State Lithium-Metal Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume> (<issue>32</issue>), <fpage>17842</fpage>&#x02013;<lpage>17847</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202106039</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Zhou</surname><given-names>S.</given-names></name>; <name><surname>Dai</surname><given-names>L.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>B.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Zeng</surname><given-names>T.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; et al. <article-title>Porous Polyamine/PEO Composite Solid Electrolyte for
+High Performance Solid-State Lithium Metal Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2021</year>, <volume>9</volume> (<issue>43</issue>), <fpage>24661</fpage>&#x02013;<lpage>24669</lpage>. <pub-id pub-id-type="doi">10.1039/d1ta04599g</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Gao</surname><given-names>H.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Low-Cost Hollow Mesoporous Polymer
+Spheres and All-Solid-State Lithium, Sodium Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume> (<issue>1</issue>), <fpage>1501802</fpage><pub-id pub-id-type="doi">10.1002/aenm.201501802</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>X.</given-names></name>; <name><surname>Jiang</surname><given-names>M.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Yan</surname><given-names>J.</given-names></name>; <name><surname>Fu</surname><given-names>J.</given-names></name>; <name><surname>Duan</surname><given-names>H.</given-names></name>; <name><surname>Zhao</surname><given-names>S.</given-names></name>; <name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>R.</given-names></name>; et al. <article-title>Grain Boundary Electronic Insulation for High-Performance All-Solid-State
+Lithium Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2023</year>, <volume>62</volume> (<issue>5</issue>), <elocation-id>e202215680</elocation-id><pub-id pub-id-type="doi">10.1002/anie.202215680</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Lai</surname><given-names>Y.</given-names></name>; <name><surname>Lv</surname><given-names>N.</given-names></name>; <name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Jiang</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Yin</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>K.</given-names></name>; <name><surname>Liu</surname><given-names>F.</given-names></name>
+<article-title>Insights on
+the Properties of the O-Doped Argyrodite Sulfide Solid Electrolytes
+(Li<sub>6</sub>PS<sub>5-x</sub> ClO<sub>x</sub>, x= 0&#x02013;1)</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume> (<issue>46</issue>), <fpage>54924</fpage>&#x02013;<lpage>54935</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c14573</pub-id>.<pub-id pub-id-type="pmid">34779200</pub-id>
+</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Park</surname><given-names>Y. S.</given-names></name>; <name><surname>Lee</surname><given-names>J. M.</given-names></name>; <name><surname>Yi</surname><given-names>E. J.</given-names></name>; <name><surname>Moon</surname><given-names>J.-W.</given-names></name>; <name><surname>Hwang</surname><given-names>H.</given-names></name>
+<article-title>All-Solid-State
+Lithium-Ion Batteries with Oxide/Sulfide Composite Electrolytes</article-title>. <source>Materials</source>
+<year>2021</year>, <volume>14</volume> (<issue>8</issue>), <fpage>1998</fpage><pub-id pub-id-type="doi">10.3390/ma14081998</pub-id>.<pub-id pub-id-type="pmid">33923542</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Yan</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Yu</surname><given-names>C.</given-names></name>; <name><surname>Cao</surname><given-names>X.</given-names></name>; <name><surname>van Eijck</surname><given-names>L.</given-names></name>; <name><surname>Wen</surname><given-names>B.</given-names></name>
+<article-title>All-in-One Improvement
+Toward Li<sub>6</sub>PS<sub>5</sub>Br-Based Solid Electrolytes Triggered
+by Compositional Tune</article-title>. <source>J. Power Sources</source>
+<year>2019</year>, <volume>410&#x02013;411</volume>, <fpage>162</fpage>&#x02013;<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.11.016</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Gorai</surname><given-names>P.</given-names></name>; <name><surname>Famprikis</surname><given-names>T.</given-names></name>; <name><surname>Singh</surname><given-names>B.</given-names></name>; <name><surname>Stevanovic</surname><given-names>V.</given-names></name>; <name><surname>Canepa</surname><given-names>P.</given-names></name>
+<article-title>Devil is in the Defects:
+Electronic Conductivity in
+Solid Electrolytes</article-title>. <source>Chem. Mater.</source>
+<year>2021</year>, <volume>33</volume> (<issue>18</issue>), <fpage>7484</fpage>&#x02013;<lpage>7498</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.1c02345</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Kasemchainan</surname><given-names>J.</given-names></name>; <name><surname>Zekoll</surname><given-names>S.</given-names></name>; <name><surname>Spencer
+Jolly</surname><given-names>D.</given-names></name>; <name><surname>Ning</surname><given-names>Z.</given-names></name>; <name><surname>Hartley</surname><given-names>G. O.</given-names></name>; <name><surname>Marrow</surname><given-names>J.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Critical Stripping Current Leads
+to Dendrite Formation on Plating in Lithium Anode Solid Electrolyte
+Cells</article-title>. <source>Nat. Mater.</source>
+<year>2019</year>, <volume>18</volume> (<issue>10</issue>), <fpage>1105</fpage>&#x02013;<lpage>1111</lpage>. <pub-id pub-id-type="doi">10.1038/s41563-019-0438-9</pub-id>.<pub-id pub-id-type="pmid">31358941</pub-id>
+</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Park</surname><given-names>H.</given-names></name>; <name><surname>Le Mong</surname><given-names>A.</given-names></name>; <name><surname>Kim</surname><given-names>D.</given-names></name>
+<article-title>Single and
+Multilayer Composite Electrolytes
+for Enhanced Li-ion Conductivity with Restricted Polysulfide Diffusion
+for Lithium-Sulfur Battery</article-title>. <source>Mater. Today Energy</source>
+<year>2023</year>, <volume>33</volume>, <fpage>101274</fpage><pub-id pub-id-type="doi">10.1016/j.mtener.2023.101274</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Gao</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Feng</surname><given-names>C.</given-names></name>; <name><surname>Pan</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>
+<article-title>Polyurethane/LLZTO
+Solid Electrolyte with Excellent Mechanical Strength and Electrochemical
+Property for Advanced Lithium Metal Battery</article-title>. <source>J. Chem. Eng.</source>
+<year>2023</year>, <volume>474</volume>, <fpage>145446</fpage><pub-id pub-id-type="doi">10.1016/j.cej.2023.145446</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Ke</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Dai</surname><given-names>L.</given-names></name>; <name><surname>Yuan</surname><given-names>C.</given-names></name>
+<article-title>Cell Failures of All-Solid-State
+Lithium Metal Batteries with Inorganic Solid Electrolytes: Lithium
+Dendrites</article-title>. <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>33</volume>, <fpage>309</fpage>&#x02013;<lpage>328</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2020.07.024</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Wenzel</surname><given-names>S.</given-names></name>; <name><surname>Sedlmaier</surname><given-names>S. J.</given-names></name>; <name><surname>Dietrich</surname><given-names>C.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Interfacial
+Reactivity and Interphase Growth of Argyrodite Solid Electrolytes
+at Lithium Metal Electrodes</article-title>. <source>Solid State Ionics</source>
+<year>2018</year>, <volume>318</volume>, <fpage>102</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2017.07.005</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Su</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Du</surname><given-names>C.</given-names></name>; <name><surname>Luo</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Yan</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>D.</given-names></name>; <name><surname>Geng</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; et al. <article-title>An All-Solid-State Battery Based on Sulfide
+and PEO Composite Electrolyte</article-title>. <source>Small</source>
+<year>2022</year>, <volume>18</volume> (<issue>29</issue>), <fpage>2202069</fpage><pub-id pub-id-type="doi">10.1002/smll.202202069</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Zeng</surname><given-names>D.</given-names></name>; <name><surname>Yao</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Xu</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Yan</surname><given-names>X.</given-names></name>; <name><surname>Yu</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>
+<article-title>Promoting
+Favorable Interfacial Properties in Lithium-based
+Batteries Using Chlorine-Rich Sulfide Inorganic Solid-State Electrolytes</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume> (<issue>1</issue>), <fpage>1909</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-29596-8</pub-id>.<pub-id pub-id-type="pmid">35393423</pub-id>
+</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Bezabh</surname><given-names>H. K.</given-names></name>; <name><surname>Lakshmanan</surname><given-names>K.</given-names></name>; <name><surname>Hagos</surname><given-names>T. M.</given-names></name>; <name><surname>Nigatu</surname><given-names>T. A.</given-names></name>; <name><surname>Merso</surname><given-names>S. K.</given-names></name>; <name><surname>Sung</surname><given-names>H.-Y.</given-names></name>; <name><surname>Yang</surname><given-names>S.-C.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Air-Stable
+Iodized-Oxychloride Argyrodite Sulfide and Anionic Swap on the Practical
+Potential Window for All-Solid-State Lithium-Metal Batteries</article-title>. <source>Nano Energy</source>
+<year>2023</year>, <volume>112</volume>, <fpage>108471</fpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2023.108471</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Pathak</surname><given-names>R.</given-names></name>; <name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Gurung</surname><given-names>A.</given-names></name>; <name><surname>Reza</surname><given-names>K. M.</given-names></name>; <name><surname>Bahrami</surname><given-names>B.</given-names></name>; <name><surname>Pokharel</surname><given-names>J.</given-names></name>; <name><surname>Baniya</surname><given-names>A.</given-names></name>; <name><surname>He</surname><given-names>W.</given-names></name>; <name><surname>Wu</surname><given-names>F.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; et al. <article-title>Fluorinated Hybrid Solid-Electrolyte-Interphase
+for
+Dendrite-Free Lithium Deposition</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume> (<issue>1</issue>), <fpage>93</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-13774-2</pub-id>.<pub-id pub-id-type="pmid">31900398</pub-id>
+</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Taklu</surname><given-names>B. W.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Nikodimos</surname><given-names>Y.</given-names></name>; <name><surname>Lakshmanan</surname><given-names>K.</given-names></name>; <name><surname>Temesgen</surname><given-names>N. T.</given-names></name>; <name><surname>Lin</surname><given-names>P.-X.</given-names></name>; <name><surname>Jiang</surname><given-names>S.-K.</given-names></name>; <name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Wang</surname><given-names>D.-Y.</given-names></name>; <name><surname>Sheu</surname><given-names>H.-S.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Dual CuCl
+Doped Argyrodite Superconductor to Boost the Interfacial Compatibility
+and Air Stability for All-Solid-State Lithium Metal Batteries</article-title>. <source>Nano Energy</source>
+<year>2021</year>, <volume>90</volume>, <fpage>106542</fpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2021.106542</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Yu</surname><given-names>W.</given-names></name>; <name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>
+<article-title>Degradation and Speciation of Li
+Salts during XPS Analysis for Battery Research</article-title>. <source>ACS Energy Lett.</source>
+<year>2022</year>, <volume>7</volume> (<issue>10</issue>), <fpage>3270</fpage>&#x02013;<lpage>3275</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.2c01587</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Chang</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Chang</surname><given-names>M.</given-names></name>; <name><surname>Zhao</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>G. Z.</given-names></name>; <name><surname>Fow</surname><given-names>K. L.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>Dual-Functional
+ZnO/LiF Layer Protected
+Lithium Metal for Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>-based All-Solid-State Lithium Batteries</article-title>. <source>Battery
+Energy</source>
+<year>2023</year>, <volume>2</volume> (<issue>3</issue>), <fpage>20220051</fpage><pub-id pub-id-type="doi">10.1002/bte2.20220051</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Yi</surname><given-names>J.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Zhou</surname><given-names>D.</given-names></name>; <name><surname>Fan</surname><given-names>L.-Z.</given-names></name>
+<article-title>A Robust Solid Electrolyte Interphase
+Enabled by Solvate Ionic Liquid for High-Performance Sulfide-based
+All-Solid-State Lithium Metal Batteries</article-title>. <source>Nano
+Res.</source>
+<year>2022</year>, <volume>16</volume>, <fpage>8411</fpage>&#x02013;<lpage>8416</lpage>. <pub-id pub-id-type="doi">10.1007/s12274-022-5304-4</pub-id>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Zhang</surname><given-names>X. Q.</given-names></name>; <name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Fluoroethylene
+Carbonate Additives to Render Uniform Li Deposits in Lithium Metal
+Batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2017</year>, <volume>27</volume> (<issue>10</issue>), <fpage>1605989</fpage><pub-id pub-id-type="doi">10.1002/adfm.201605989</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Simon</surname><given-names>F. J.</given-names></name>; <name><surname>Hanauer</surname><given-names>M.</given-names></name>; <name><surname>Richter</surname><given-names>F. H.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Interphase
+Formation
+of PEO<sub>20</sub>:LiTFSI-Li<sub>6</sub>PS<sub>5</sub>Cl Composite
+Electrolytes with Lithium Metal</article-title>. <source>ACS Appl. Mater.
+Interfaces</source>
+<year>2020</year>, <volume>12</volume> (<issue>10</issue>), <fpage>11713</fpage>&#x02013;<lpage>11723</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b22968</pub-id>.<pub-id pub-id-type="pmid">32052956</pub-id>
+</mixed-citation></ref></ref-list></back></article>

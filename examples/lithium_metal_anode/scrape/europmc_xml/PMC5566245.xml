@@ -1,0 +1,1533 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5566245</article-id><article-id pub-id-type="pmid">28852614</article-id><article-id pub-id-type="doi">10.1002/advs.201600517</article-id><article-id pub-id-type="publisher-id">ADVS306</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Strategies Based on Nitride Materials Chemistry to Stabilize Li Metal Anode</article-title></title-group><contrib-group><contrib id="advs306-cr-0001" contrib-type="author"><name><surname>Zhu</surname><given-names>Yizhou</given-names></name><xref ref-type="aff" rid="advs306-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs306-cr-0002" contrib-type="author"><name><surname>He</surname><given-names>Xingfeng</given-names></name><xref ref-type="aff" rid="advs306-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs306-cr-0003" contrib-type="author" corresp="yes"><name><surname>Mo</surname><given-names>Yifei</given-names></name><address><email>yfmo@umd.edu</email></address><xref ref-type="aff" rid="advs306-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs306-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="advs306-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Materials Science and Engineering</named-content>
+<institution>University of Maryland</institution>
+<named-content content-type="city">College Park</named-content>
+<named-content content-type="country-part">MD</named-content>
+<named-content content-type="post-code">20742</named-content>
+<country country="US">USA</country>
+</aff><aff id="advs306-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">University of Maryland Energy Research Center</named-content>
+<institution>University of Maryland</institution>
+<named-content content-type="city">College Park</named-content>
+<named-content content-type="country-part">MD</named-content>
+<named-content content-type="post-code">20742</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>yfmo@umd.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>3</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2017</year></pub-date><volume>4</volume><issue>8</issue><issue-id pub-id-type="doi">10.1002/advs.v4.8</issue-id><elocation-id>1600517</elocation-id><history><date date-type="received"><day>15</day><month>12</month><year>2016</year></date><date date-type="rev-recd"><day>14</day><month>1</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published by WILEY-VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-4-na.pdf"/><abstract><p>Lithium metal battery is a promising candidate for high&#x02010;energy&#x02010;density energy storage. Unfortunately, the strongly reducing nature of lithium metal has been an outstanding challenge causing poor stability and low coulombic efficiency in lithium batteries. For decades, there are significant research efforts to stabilize lithium metal anode. However, such efforts are greatly impeded by the lack of knowledge about lithium&#x02010;stable materials chemistry. So far, only a few materials are known to be stable against Li metal. To resolve this outstanding challenge, lithium&#x02010;stable materials have been uncovered out of chemistry across the periodic table using first&#x02010;principles calculations based on large materials database. It is found that most oxides, sulfides, and halides, commonly studied as protection materials, are reduced by lithium metal due to the reduction of metal cations. It is discovered that nitride anion chemistry exhibits unique stability against Li metal, which is either thermodynamically intrinsic or a result of stable passivation. The results here establish essential guidelines for selecting, designing, and discovering materials for lithium metal protection, and propose multiple novel strategies of using nitride materials and high nitrogen doping to form stable solid&#x02010;electrolyte&#x02010;interphase for lithium metal anode, paving the way for high&#x02010;energy rechargeable lithium batteries.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs306-kwd-0001">first&#x02010;principles calculations</kwd><kwd id="advs306-kwd-0002">lithium&#x02010;ion batteries</kwd><kwd id="advs306-kwd-0003">lithium metal anodes</kwd><kwd id="advs306-kwd-0004">solid&#x02010;electrolyte&#x02010;interphase</kwd><kwd id="advs306-kwd-0005">all&#x02010;solid&#x02010;state batteries</kwd></kwd-group><counts><fig-count count="7"/><table-count count="2"/><page-count count="11"/><word-count count="7718"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs306</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.9 mode:remove_FC converted:31.08.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs306-cit-0079">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <elocation-id>1600517</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/advs.306">https://doi.org/10.1002/advs.306</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="advs306-sec-0010"><label>1</label><title>Introduction</title><p>Li metal has been long desired as the anode material with the highest theoretical specific capacity and the lowest standard potential to significantly increase the energy density in rechargeable Li&#x02010;ion battery.<xref rid="advs306-bib-0001" ref-type="ref">1</xref>, <xref rid="advs306-bib-0002" ref-type="ref">2</xref> Enabling Li metal anode has been regarded as the &#x0201c;Holy Grail,&#x0201d;<xref rid="advs306-bib-0003" ref-type="ref">3</xref>, <xref rid="advs306-bib-0004" ref-type="ref">4</xref> but confronts many challenges. The undesired growth of Li dendrite during cell cycling causes short circuiting in the cell, leading to catastrophic cell failure and safety issues. In addition, Li metal is strongly reducing, and is not compatible with most electrolytes.<xref rid="advs306-bib-0005" ref-type="ref">5</xref>, <xref rid="advs306-bib-0006" ref-type="ref">6</xref>, <xref rid="advs306-bib-0007" ref-type="ref">7</xref> The lack of long&#x02010;term stability between electrolyte and Li metal anode results in low coulombic efficiency, capacity fading during cycling, and cell failure.<xref rid="advs306-bib-0006" ref-type="ref">6</xref>, <xref rid="advs306-bib-0007" ref-type="ref">7</xref>, <xref rid="advs306-bib-0008" ref-type="ref">8</xref> To protect electrolytes against Li metal and to stabilize Li metal anode, electrolytes and additives are developed to form stable solid&#x02010;electrolyte&#x02010;interphase (SEI) layer on Li metal.<xref rid="advs306-bib-0008" ref-type="ref">8</xref> Forming such SEI layers has led to the success of graphite anode in commercial Li&#x02010;ion batteries.<xref rid="advs306-bib-0005" ref-type="ref">5</xref>, <xref rid="advs306-bib-0006" ref-type="ref">6</xref>, <xref rid="advs306-bib-0009" ref-type="ref">9</xref>, <xref rid="advs306-bib-0010" ref-type="ref">10</xref> Besides spontaneous formation of SEI, applying Li&#x02010;stable protection materials as artificial SEI on Li metal is also demonstrated to significantly improve the cyclability and coulombic efficiency of the cells with Li metal anode.<xref rid="advs306-bib-0011" ref-type="ref">11</xref>, <xref rid="advs306-bib-0012" ref-type="ref">12</xref>, <xref rid="advs306-bib-0013" ref-type="ref">13</xref>, <xref rid="advs306-bib-0014" ref-type="ref">14</xref>, <xref rid="advs306-bib-0015" ref-type="ref">15</xref> Recently, using solid electrolytes to assemble all&#x02010;solid&#x02010;state lithium&#x02010;ion batteries is a promising direction to enable Li metal anode.<xref rid="advs306-bib-0002" ref-type="ref">2</xref> For example, the solid electrolyte LiPON, an oxynitride material, was demonstrated to achieve a cycle life of over 10 000 cycles in thin&#x02010;film lithium metal batteries.<xref rid="advs306-bib-0016" ref-type="ref">16</xref>
+</p><p>To protect against the reduction of Li metal, protection coating materials or solid electrolytes that are thermodynamically stable or that form stable passivation layers against Li metal are needed. Many Li binaries such as LiF, Li<sub>2</sub>O, Li<sub>2</sub>S, Li<sub>3</sub>N, and Li<sub>3</sub>P, are thermodynamically stable against Li metal, and some are found in SEI layers.<xref rid="advs306-bib-0010" ref-type="ref">10</xref>, <xref rid="advs306-bib-0017" ref-type="ref">17</xref>, <xref rid="advs306-bib-0018" ref-type="ref">18</xref>, <xref rid="advs306-bib-0019" ref-type="ref">19</xref> However, despite that many lithium solid electrolytes were previously reported to be stable against Li metal, multiple experimental and first&#x02010;principles studies confirmed the reduction of solid electrolytes, including Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> (LGPS), NASICON&#x02010;type Li<sub>1.3</sub>Al<sub>0.3</sub>Ti<sub>1.7</sub>(PO<sub>4</sub>)<sub>3</sub> (LATP), and perovskite Li<sub>0.33</sub>La<sub>0.56</sub>TiO<sub>3</sub> (LLTO).<xref rid="advs306-bib-0020" ref-type="ref">20</xref>, <xref rid="advs306-bib-0021" ref-type="ref">21</xref>, <xref rid="advs306-bib-0022" ref-type="ref">22</xref>, <xref rid="advs306-bib-0023" ref-type="ref">23</xref>, <xref rid="advs306-bib-0024" ref-type="ref">24</xref>, <xref rid="advs306-bib-0025" ref-type="ref">25</xref>, <xref rid="advs306-bib-0026" ref-type="ref">26</xref>, <xref rid="advs306-bib-0027" ref-type="ref">27</xref> In these materials, Li metal reduces Ge and Ti cations, forming Li&#x02014;Ge alloy and lithium titanate, respectively. Even for the well&#x02010;demonstrated Li&#x02010;compatible LiPON materials, recent computational and in situ experimental studies confirmed Li reduction, which leads to a spontaneously formed interphase layer consisting of Li<sub>3</sub>N, Li<sub>2</sub>O, and Li<sub>3</sub>P at Li&#x02013;LiPON interface.<xref rid="advs306-bib-0019" ref-type="ref">19</xref>, <xref rid="advs306-bib-0022" ref-type="ref">22</xref> This interphase layer is electronic insulating, passivating LiPON against further Li reduction. Therefore, forming passivating SEI layer against Li metal is critical to achieve good stability. Given the limited number of available materials stable against Li metal, the development of novel Li&#x02010;stable protection materials or solid electrolytes is crucial to enable Li metal anode.</p><p>However, the design and discovery of Li&#x02010;stable materials are still mostly based on a trial&#x02010;and&#x02010;error approach, due to the lack of knowledge about Li metal stability of different materials chemistry and compositions. Li reduction behavior is only known for a limited number of well&#x02010;studied materials. For example, the reduction of Ge and Ti is a known problem in LGPS and LATP, respectively, but it is not clear whether these cations will still be reduced in different compositions or in other anion chemistry. In addition, it is not clear whether the excellent stability of LiPON is a general property of oxynitride chemistry. Such knowledge about Li stability will be crucial in guiding further materials development to stabilize Li metal anode, and will enable guided engineering of materials chemistry to form stable SEI on lithium metal.</p><p>In this study, we aim to fill this knowledge gap about Li metal stability and passivation behavior over a wide range of materials chemistry. Using data&#x02010;driven first&#x02010;principles computation approach based on large&#x02010;scale materials database, we studied Li metal stability and lithiation reactions in a wide range of materials chemistry and composition space. We determined the intrinsic thermodynamic stability of materials against Li metal as a function of cation and anion chemistry, and discovered that nitride anion chemistry uniquely exhibits better thermodynamic stability against Li metal compared to oxides, sulfides, and halides. In addition, the materials chemistry and composition range that can form stable passivation interphase against Li metal are identified. On the basis of newly obtained chemistry knowledge from computation, multiple novel strategies to form stable SEI on Li metal anode are proposed, providing opportunities for future research and development of lithium batteries.</p></sec><sec id="advs306-sec-0020"><label>2</label><title>Results</title><sec id="advs306-sec-0030"><label>2.1</label><title>General Trend of Materials Stability against Li</title><p>In this study, we considered oxides, sulfides, fluorides, and nitrides, which might be potentially used as solid electrolytes or coating layer materials with Li metal anode. We calculated the Li reduction potential (cathodic limit) of M&#x02014;X binary compounds and Li&#x02014;M&#x02014;X ternary compounds (M = cation) in four anion chemistries, X = N, O, S, and F (<bold>Figure</bold>
+<xref rid="advs306-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>), which are commonly used in solid electrolytes or coating layer materials. To illustrate our results, we first take Al&#x02010;abiding compounds as examples. The binary materials AlF<sub>3</sub>, Al<sub>2</sub>S<sub>3</sub>, and Al<sub>2</sub>O<sub>3</sub> have high cathodic limits of &#x0003e;1.2 V, and their lithiation reactions with Li metal form Li<sub>9</sub>Al<sub>4</sub> and Li&#x02014;X binary materials with a reaction energy of &#x02212;0.77, &#x02212;0.74, and &#x02212;0.23 eV per Li, respectively (<bold>Table</bold>&#x000a0;<xref rid="advs306-tbl-0001" ref-type="table-wrap">
+<bold>1</bold>
+</xref>). The same trend is also observed for ternary Li&#x02014;Al&#x02014;X (Table S3, Supporting Information), Li&#x02014;Ge&#x02014;X, and Li&#x02014;P&#x02014;X compounds (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref>). These examples show that different anion chemistry exhibits different stability against Li metal. In general, fluorides have the highest cathodic limits, yielding poorest stability against Li metal. This is similar to the trend observed in organic liquid electrolytes, as fluorinated compounds usually show higher reduction potential.<xref rid="advs306-bib-0007" ref-type="ref">7</xref> Oxides and sulfides have lower cathodic limits than fluorides, and only a few of investigated oxides and sulfides are thermodynamically stable against Li metal.</p><fig fig-type="Figure" xml:lang="en" id="advs306-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Cathodic limits (referenced to Li/Li<sup>+</sup>) for Li reduction of a) M&#x02014;X binary compounds and b) Li&#x02014;M&#x02014;X ternary compounds in fluoride, sulfide, oxide, and nitride anion chemistries. Only cation M at its highest common valence state is considered. Each data point represents a compound. A full list of compounds and corresponding lithiation reactions are provided in the Supporting Information.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-4-na-g001"/></fig><table-wrap id="advs306-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Cathodic limits and lithiation reactions for selected fluorides, sulfides, oxides and nitrides. The reaction energy <italic>E</italic>
+<sub>D</sub> is for the lithiation of selected compound to from the phase equilibria with Li metal and is normalized to per Li inserted</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Compound</th><th align="center" rowspan="1" colspan="1">Phase equilibria at cathodic limit</th><th align="center" rowspan="1" colspan="1">Cathodic limit ref. to Li/Li<sup>+</sup> [V]</th><th align="center" rowspan="1" colspan="1">Phase equilibria with Li metal</th><th align="center" rowspan="1" colspan="1">
+<italic>E</italic>
+<sub>D</sub> [eV] per Li</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">AlN</td><td align="center" rowspan="1" colspan="1">Li<sub>9</sub>Al<sub>4</sub>, Li<sub>3</sub>AlN<sub>2</sub>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;0.004</td><td align="center" rowspan="1" colspan="1">Li<sub>9</sub>Al<sub>4</sub>, Li<sub>3</sub>N<xref ref-type="fn" rid="advs306-tbl1-note-0001">a)</xref>
+</td><td align="center" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Al<sub>2</sub>O<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">Al, LiAl<sub>5</sub>O<sub>8</sub>
+</td><td align="center" rowspan="1" colspan="1">1.23</td><td align="center" rowspan="1" colspan="1">Li<sub>9</sub>Al<sub>4</sub>, Li<sub>2</sub>O</td><td align="center" rowspan="1" colspan="1">&#x02212;0.23</td></tr><tr><td align="left" rowspan="1" colspan="1">Al<sub>2</sub>S<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">Al, LiAlS<sub>2</sub>
+</td><td align="center" rowspan="1" colspan="1">1.60</td><td align="center" rowspan="1" colspan="1">Li<sub>9</sub>Al<sub>4</sub>, Li<sub>2</sub>S</td><td align="center" rowspan="1" colspan="1">&#x02212;0.74</td></tr><tr><td align="left" rowspan="1" colspan="1">AlF<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">Al, Li<sub>3</sub>AlF<sub>6</sub>
+</td><td align="center" rowspan="1" colspan="1">1.29</td><td align="center" rowspan="1" colspan="1">Li<sub>9</sub>Al<sub>4</sub>, LiF</td><td align="center" rowspan="1" colspan="1">&#x02212;0.77</td></tr><tr><td align="left" rowspan="1" colspan="1">Li<sub>5</sub>GeN<sub>3</sub>
+</td><td align="center" rowspan="1" colspan="1">Li<sub>15</sub>Ge<sub>4</sub>, Li<sub>3</sub>N</td><td align="center" rowspan="1" colspan="1">0.20</td><td align="center" rowspan="1" colspan="1">Li<sub>15</sub>Ge<sub>4</sub>, Li<sub>3</sub>N</td><td align="center" rowspan="1" colspan="1">&#x02212;0.20</td></tr><tr><td align="left" rowspan="1" colspan="1">Li<sub>4</sub>GeO<sub>4</sub>
+</td><td align="center" rowspan="1" colspan="1">Ge, Li<sub>2</sub>O</td><td align="center" rowspan="1" colspan="1">1.02</td><td align="center" rowspan="1" colspan="1">Li<sub>15</sub>Ge<sub>4</sub>, Li<sub>2</sub>O</td><td align="center" rowspan="1" colspan="1">&#x02212;0.72</td></tr><tr><td align="left" rowspan="1" colspan="1">Li<sub>4</sub>GeS<sub>4</sub>
+</td><td align="center" rowspan="1" colspan="1">Ge, Li<sub>2</sub>S</td><td align="center" rowspan="1" colspan="1">1.62</td><td align="center" rowspan="1" colspan="1">Li<sub>15</sub>Ge<sub>4</sub>, Li<sub>2</sub>S</td><td align="center" rowspan="1" colspan="1">&#x02212;1.04</td></tr><tr><td align="left" rowspan="1" colspan="1">Li<sub>2</sub>GeF<sub>6</sub>
+</td><td align="center" rowspan="1" colspan="1">Ge, LiF</td><td align="center" rowspan="1" colspan="1">2.71</td><td align="center" rowspan="1" colspan="1">Li<sub>15</sub>Ge<sub>4</sub>, LiF</td><td align="center" rowspan="1" colspan="1">&#x02212;1.60</td></tr><tr><td align="left" rowspan="1" colspan="1">Li<sub>7</sub>PN<sub>4</sub>
+</td><td align="center" rowspan="1" colspan="1">Li<sub>3</sub>P, Li<sub>3</sub>N</td><td align="center" rowspan="1" colspan="1">0.01</td><td align="center" rowspan="1" colspan="1">Li<sub>3</sub>P, Li<sub>3</sub>N</td><td align="center" rowspan="1" colspan="1">&#x02212;0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Li<sub>3</sub>PO<sub>4</sub>
+</td><td align="center" rowspan="1" colspan="1">Li<sub>3</sub>P, Li<sub>2</sub>O</td><td align="center" rowspan="1" colspan="1">0.69</td><td align="center" rowspan="1" colspan="1">Li<sub>3</sub>P, Li<sub>2</sub>O</td><td align="center" rowspan="1" colspan="1">&#x02212;0.69</td></tr><tr><td align="left" rowspan="1" colspan="1">Li<sub>3</sub>PS<sub>4</sub>
+</td><td align="center" rowspan="1" colspan="1">P, Li<sub>2</sub>S</td><td align="center" rowspan="1" colspan="1">1.72</td><td align="center" rowspan="1" colspan="1">Li<sub>3</sub>P, Li<sub>2</sub>S</td><td align="center" rowspan="1" colspan="1">&#x02212;1.42</td></tr><tr><td align="left" rowspan="1" colspan="1">LiPF<sub>6</sub>
+</td><td align="center" rowspan="1" colspan="1">P, LiF</td><td align="center" rowspan="1" colspan="1">2.74</td><td align="center" rowspan="1" colspan="1">Li<sub>3</sub>P, LiF</td><td align="center" rowspan="1" colspan="1">&#x02212;2.06</td></tr></tbody></table><table-wrap-foot><fn id="advs306-tbl1-note-0001"><label><sup>a)</sup></label><p>Since AlN is stable against Li metal, such phases are not phase equilibria with Li metal, but are fully lithiated products after lithiation with overpotential.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>By contrast, nitrides show significant lower cathodic limits compared to other anion chemistry. For example, AlN shows a negative cathodic limit referenced to Li/Li<sup>+</sup>, and a positive reaction energy of 0.16 eV per Li to form Li<sub>9</sub>Al<sub>4</sub> and Li<sub>3</sub>N after lithiation (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref>). Therefore, it is thermodynamically unfavorable to lithiate AlN by Li metal. In addition, Li<sub>3</sub>AlN<sub>2</sub> also shows a negative cathodic limit of &#x02212;0.32 V (Table S3, Supporting Information) indicating its intrinsic stability against Li metal reduction. These trends are observed in both binary and ternary compounds with other cations. In general, many nitrides have negative reduction potential, and are thermodynamically stable against Li metal. Some of these nitrides that are electronic insulators and decent ionic conductors, e.g., Li<sub>3</sub>AlN<sub>2</sub>, Li<sub>3</sub>BN<sub>2</sub>, Li<sub>5</sub>SiN<sub>3</sub>,<xref rid="advs306-bib-0028" ref-type="ref">28</xref> may be used as buffer layer materials to protect against Li metal. Nitride anion chemistry shows unique electrochemical stability at low potentials and against Li metal.</p></sec><sec id="advs306-sec-0040"><label>2.2</label><title>Cation Effect on Li Metal Stability and Passivation</title><p>Using Li&#x02014;P&#x02014;S and Li&#x02014;Ge&#x02014;S ternary systems as examples, we illustrate the reduction behavior of different cation chemistry and the effect of cation on Li stability and passivation. The Li&#x02014;P&#x02014;S composition space (<bold>Figure</bold>
+<xref rid="advs306-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>a) includes many well&#x02010;known solid electrolyte materials, such as Li<sub>3</sub>PS<sub>4</sub>, Li<sub>7</sub>P<sub>3</sub>S<sub>11</sub>, and Li<sub>2</sub>S&#x02014;P<sub>2</sub>S<sub>5</sub> glass. For example, the lithiation reaction of Li<sub>3</sub>PS<sub>4</sub> (blue dashed line in Figure <xref rid="advs306-fig-0002" ref-type="fig">2</xref>a,b) starts with the reduction of P at voltage 1.72 V (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref>) and eventually leads to Li<sub>3</sub>P and Li<sub>2</sub>S, as
+<disp-formula id="advs306-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mrow><mml:mi mathvariant="normal">8Li</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">+</mml:mi><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">PS</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02192;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub><mml:mi mathvariant="normal">P</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">+</mml:mi><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">4Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>H</mml:mi><mml:mi mathvariant="normal">=</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">11</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">39</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">eV</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">or</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">1099</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">kJ</mml:mi><mml:mi mathvariant="normal">&#x0200a;</mml:mi><mml:msup><mml:mrow><mml:mi mathvariant="normal">mol</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">1</mml:mi></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></disp-formula>which is highly thermodynamically favorable. Since Li<sub>3</sub>P and Li<sub>2</sub>S are the only stable phases against Li among entire Li&#x02014;P&#x02014;S composition space, any Li&#x02014;P&#x02014;S ternary compound would form the same phase equilibria after full lithiation (green bar in Figure <xref rid="advs306-fig-0002" ref-type="fig">2</xref>a), leading to spontaneous formation of interphase consisting of Li<sub>3</sub>P and Li<sub>2</sub>S. Since both phases are electronic insulating, the formed interphase is passivating against further Li reduction.<xref rid="advs306-bib-0022" ref-type="ref">22</xref>, <xref rid="advs306-bib-0029" ref-type="ref">29</xref> The formation of Li<sub>3</sub>P and Li<sub>2</sub>S interphase of Li<sub>7</sub>P<sub>3</sub>S<sub>11</sub> on Li is confirmed by in situ X&#x02010;ray photoelectron spectroscopy (XPS) experiments.<xref rid="advs306-bib-0030" ref-type="ref">30</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs306-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Phase diagrams of a) Li&#x02014;P&#x02014;S and c) Li&#x02014;Ge&#x02014;S system, and the equilibrium voltage profiles and phase equilibria for lithiation and delithiation reactions of b) Li<sub>3</sub>PS<sub>4</sub> and d) Li<sub>4</sub>GeS<sub>4</sub>. Li&#x02010;stable phases that are electronic insulating (Li<sub>3</sub>P and Li<sub>2</sub>S) and that are electronic conductive (Li<sub>15</sub>Ge<sub>4</sub>) are colored green and red, respectively. The bottom bar in (a) and (c) represents the phase equilibria with Li metal as a function of atomic fraction <italic>x</italic>
+<sub>S</sub> and <italic>x</italic>
+<sub>M</sub>, where passivating and nonpassivating ranges are colored green and red, respectively. The lithiation and delithiation paths in (a) and (c) are marked as blue and orange dashed lines, respectively. These lines represent constant ratio of S and M atomic fraction <italic>x</italic>
+<sub>S</sub> to <italic>x</italic>
+<sub>M</sub> (M = P, Ge) but varying Li content in the composition.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-4-na-g002"/></fig><p>Li&#x02014;Ge&#x02014;S system (Figure <xref rid="advs306-fig-0002" ref-type="fig">2</xref>c) is commonly used in the design of thio&#x02010;LISICON electrolyte. The lithiation reaction of Li<sub>4</sub>GeS<sub>4</sub> (Figure <xref rid="advs306-fig-0002" ref-type="fig">2</xref>d) would start with the reduction of Ge at 1.62 V (Table&#x000a0;<xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref>), continue with Li&#x02014;Ge alloying reactions, and eventually form Li<sub>15</sub>Ge<sub>4</sub> and Li<sub>2</sub>S in equilibrium with Li metal (Figure&#x000a0;<xref rid="advs306-fig-0002" ref-type="fig">2</xref>d). The entire lithiation reaction can be written as
+<disp-formula id="advs306-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi mathvariant="normal">7</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">75Li</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">+</mml:mi><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mi mathvariant="normal">Li</mml:mi><mml:mi mathvariant="normal">4</mml:mi></mml:msub><mml:msub><mml:mi mathvariant="normal">GeS</mml:mi><mml:mi mathvariant="normal">4</mml:mi></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02192;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">0</mml:mi><mml:mo>.</mml:mo><mml:msub><mml:mi mathvariant="normal">25Li</mml:mi><mml:mrow><mml:mi mathvariant="normal">15</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">Ge</mml:mi><mml:mi mathvariant="normal">4</mml:mi></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mi mathvariant="normal">4Li</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:mi mathvariant="normal">S</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">
+</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>H</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>=</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mn>8.0</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mn>4</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">eV</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">or</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mn>775</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">kJ</mml:mi><mml:mo>&#x02009;</mml:mo><mml:msup><mml:mi mathvariant="normal">mol</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>In contrast to Li<sub>3</sub>P, metallic Li<sub>15</sub>Ge<sub>4</sub> results in the interphase with mixed ionic and electronic conducting (MIEC) property. The simultaneous transport of both Li<sup>+</sup> and <italic>e</italic>
+<sup>&#x02212;</sup> through the MIEC interphase allows continuous, favorable Li reduction reaction, and hence cannot passivate at the interface.<xref rid="advs306-bib-0022" ref-type="ref">22</xref>, <xref rid="advs306-bib-0023" ref-type="ref">23</xref>, <xref rid="advs306-bib-0024" ref-type="ref">24</xref>, <xref rid="advs306-bib-0025" ref-type="ref">25</xref>, <xref rid="advs306-bib-0026" ref-type="ref">26</xref>, <xref rid="advs306-bib-0029" ref-type="ref">29</xref>, <xref rid="advs306-bib-0031" ref-type="ref">31</xref>, <xref rid="advs306-bib-0032" ref-type="ref">32</xref> The nonpassivating behavior of MIEC interphase is confirmed in previous experiments, where the interfacial layers and resistance grow significantly over a short period of time.<xref rid="advs306-bib-0026" ref-type="ref">26</xref> Any Li&#x02014;Ge&#x02014;S ternary compound leads to the same phase equilibria of Li<sub>15</sub>Ge<sub>4</sub> and Li<sub>2</sub>S on Li (red bar in Figure <xref rid="advs306-fig-0002" ref-type="fig">2</xref>c). Any Ge&#x02010;containing ternary sulfide, regardless of its composition, would not be passivating against Li metal. Therefore, cations play a critical role in forming passivating or nonpassivating interphase layers. Except in nitride anion chemistry, most metal or metalloid cations will be reduced (Figure <xref rid="advs306-fig-0001" ref-type="fig">1</xref>) by Li metal to form metal or Li alloys (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref> and Supporting Information), leading to the formation of nonpassivating MIEC interphase. The strategy to protect the reduction of metal or metalloid cations is critical.</p></sec><sec id="advs306-sec-0050"><label>2.3</label><title>Anion Effect on Li Metal Stability and Passivation</title><p>We illustrate the effects of anion chemistry on Li stability and passivation using Li&#x02014;Al&#x02014;X (X = O, S, F, and N) ternary systems as examples (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref>, <bold>Figure</bold>
+<xref rid="advs306-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>; Table S3, Supporting Information). The lithiation reactions of ternary oxides, sulfides, and fluorides to form Li<sub>9</sub>Al<sub>4</sub> and Li&#x02014;X binaries are thermodynamically favorable, leading to spontaneous interphase layer formation (Table S3, Supporting Information). In Li&#x02014;Al&#x02014;O system, which is commonly used for coating layer materials,<xref rid="advs306-bib-0011" ref-type="ref">11</xref>, <xref rid="advs306-bib-0033" ref-type="ref">33</xref>, <xref rid="advs306-bib-0034" ref-type="ref">34</xref> the phase equilibria against Li metal are Li<sub>9</sub>Al<sub>4</sub> alloy and Li<sub>2</sub>O (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref> and Figure <xref rid="advs306-fig-0003" ref-type="fig">3</xref>a). Similarly, Li metal phase equilibria of Li&#x02014;Al&#x02014;S and Li&#x02014;Al&#x02014;F systems also include Li<sub>9</sub>Al<sub>4</sub> (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref> and Figure <xref rid="advs306-fig-0003" ref-type="fig">3</xref>b,c). The presence of metallic Li<sub>9</sub>Al<sub>4</sub> leads to an MIEC interphase, which may not passivate. These computation results are consistent with the experimental observation of the reduction of Al<sub>2</sub>O<sub>3</sub> and Al<sub>2</sub>S<sub>3</sub> at low potentials.<xref rid="advs306-bib-0035" ref-type="ref">35</xref>, <xref rid="advs306-bib-0036" ref-type="ref">36</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs306-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Phase diagrams of a) Li&#x02014;Al&#x02014;O, b) Li&#x02014;Al&#x02014;S, c) Li&#x02014;Al&#x02014;F, d) Li&#x02014;Al&#x02014;N systems. Li&#x02010;stable phases that are electronic insulating and that are electronic conductive are colored green and red, respectively. The bottom bar represents the phase equilibria with Li metal as a function of anion and cation atomic fraction <italic>x</italic>
+<sub>X</sub> and <italic>x</italic>
+<sub>M</sub>, where passivating and nonpassivating ranges are colored green and red, respectively.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-4-na-g003"/></fig><p>The Li&#x02014;Al&#x02014;N system shows unique behavior compared to O, S, F&#x02010;based systems (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref> and Figure <xref rid="advs306-fig-0003" ref-type="fig">3</xref>d). Al&#x02010;abiding nitrides AlN and Li<sub>3</sub>AlN<sub>2</sub> have negative cathodic limit and positive reaction energy for lithiation (Table <xref rid="advs306-tbl-0001" ref-type="table-wrap">1</xref>; Table S3, Supporting Information). The phase equilibria with Li metal may consist of different combination of thermodynamically stable phases against Li metal, such as Li<sub>9</sub>Al<sub>4</sub>, AlN, Li<sub>3</sub>AlN<sub>2</sub>, and Li<sub>3</sub>N, depending on the atomic fraction of aluminum <italic>x</italic>
+<sub>Al</sub> and nitrogen <italic>x</italic>
+<sub>N</sub> in the material composition. When <italic>x</italic>
+<sub>N</sub>
+<italic>&#x0003c; x</italic>
+<sub>Al</sub> (red bar in Figure <xref rid="advs306-fig-0003" ref-type="fig">3</xref>d), the phase equilibria of Li reduction are Li<sub>9</sub>Al<sub>4</sub> and AlN through the reaction
+<disp-formula id="advs306-disp-0003"><label>(3)</label><mml:math id="nlm-math-3"><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">Al</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi mathvariant="normal">Al</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:msub></mml:mrow></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02192;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mn>9</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">Al</mml:mi></mml:mrow><mml:mn>4</mml:mn></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mo>,</mml:mo></mml:mrow></mml:math></disp-formula>leading to nonpassivating MIEC interphase. At higher N content of <italic>x</italic>
+<sub>Al</sub> &#x0003c; <italic>x</italic>
+<sub>N</sub> &#x0003c; 2<italic>x</italic>
+<sub>Al</sub>, the formed Li&#x02010;stable phase equilibria are AlN and Li<sub>3</sub>AlN<sub>2</sub>, through the reaction
+<disp-formula id="advs306-disp-0004"><label>(4)</label><mml:math id="nlm-math-4"><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">Al</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi mathvariant="normal">Al</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:msub></mml:mrow></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02192;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">AlN</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">AlN</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula>And at even higher N content <italic>x</italic>
+<sub>N</sub> &#x0003e; 2<italic>x</italic>
+<sub>Al</sub>, the phase equilibria are Li<sub>3</sub>AlN<sub>2</sub> and Li<sub>3</sub>N (Figure <xref rid="advs306-fig-0003" ref-type="fig">3</xref>d), through the reaction
+<disp-formula id="advs306-disp-0005"><label>(5)</label><mml:math id="nlm-math-5"><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">Al</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi mathvariant="normal">Al</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:msub></mml:mrow></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02192;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">AlN</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula>Since Li<sub>3</sub>N, Li<sub>3</sub>AlN<sub>2</sub>, and AlN are electronic insulating,<xref rid="advs306-bib-0037" ref-type="ref">37</xref>, <xref rid="advs306-bib-0038" ref-type="ref">38</xref>, <xref rid="advs306-bib-0039" ref-type="ref">39</xref> the formed interphase would be passivating when <italic>x</italic>
+<sub>N</sub> &#x02265; <italic>x</italic>
+<sub>Al</sub> (green bar in Figure <xref rid="advs306-fig-0003" ref-type="fig">3</xref>d). Such passivation interphase between Li metal and Li&#x02014;Al&#x02014;N compounds is similar to the spontaneously formed interlayer at the Li&#x02013;LiPON interface. In addition, both Li<sub>3</sub>AlN<sub>2</sub> and Li<sub>3</sub>N are ionic conducting materials,<xref rid="advs306-bib-0038" ref-type="ref">38</xref>, <xref rid="advs306-bib-0039" ref-type="ref">39</xref> which facilitate interfacial ionic transport and reduce interfacial resistance.</p><p>Among these four anion chemistry with Al cation, nitride is the only anion chemistry that is stable or can form passivating interphase layer at Li metal contact. This passivation mechanism is activated at high nitrogen content <italic>x</italic>
+<sub>N</sub> &#x02265; <italic>x</italic>
+<sub>Al</sub>, where electronic insulating nitride phases are formed to passivate the interface. If nitrogen content is low, the formed interphases would still contain Li<sub>9</sub>Al<sub>4</sub> alloy and cannot passivate (bottom bar in Figure <xref rid="advs306-fig-0003" ref-type="fig">3</xref>d). The passivation is enabled by the electronic insulation of (lithium) metal nitrides, such as Li<sub>3</sub>AlN<sub>2</sub> and AlN, formed against Li metal. The stability of these nitrides are thermodynamic intrinsic and are unique to nitride. For example, the calculated cathodic limit of ternary nitride Li<sub>3</sub>AlN<sub>2</sub> is &#x02212;0.32 V (referenced to Li/Li<sup>+</sup>), which is lower than ternary oxide LiAlO<sub>2</sub> (0.17 V), and ternary fluoride Li<sub>3</sub>AlF<sub>6</sub> (1.06 V) (Table S3, Supporting Information).</p></sec><sec id="advs306-sec-0060"><label>2.4</label><title>Stability and Interphase Passivation of Nitrides</title><p>We calculated phase equilibria with Li metal for Li&#x02014;M&#x02014;N compositions as a function of <italic>x</italic>
+<sub>M</sub> and <italic>x</italic>
+<sub>N</sub> (<bold>Figure</bold>
+<xref rid="advs306-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>), according to the reaction
+<disp-formula id="advs306-disp-0006"><label>(6)</label><mml:math id="nlm-math-6"><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo>+</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">M</mml:mi><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi mathvariant="normal">M</mml:mi></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:msub></mml:mrow></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02192;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">phase</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">equilibria</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">with</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">Li</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">metal</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula>
+</p><fig fig-type="Figure" xml:lang="en" id="advs306-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Phase equilibria of Li&#x02014;M&#x02014;N compositions in equilibrium with Li metal. The formed products due to Li reduction are a function of atomic fraction <italic>x</italic>
+<sub>N</sub> and <italic>x</italic>
+<sub>M</sub> (<italic>y</italic> axis) in the composition. (&#x02460;: [Li<sub>4</sub>TaN<sub>3</sub>, Li<sub>7</sub>TaN<sub>4</sub>]; &#x02461;: [Zr<sub>3</sub>N<sub>2</sub>, ZrN].) The passivating and nonpassivating phase equilibria regions are colored green and red, respectively.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-4-na-g004"/></fig><p>The excellent electrochemical stability of metal nitrides against lithium metal is general for many cations (Figure <xref rid="advs306-fig-0004" ref-type="fig">4</xref>). For cation M = Mg, Ca, Al, Hf, Sc, B, Zr, Si, Ti, Ta, Nb, W, and V, passivating interphase may form depending on the material composition. At low N content, the formed interphase includes M metal or Li&#x02014;M alloy, which are electronic conducting and may not provide passivation. At high N content, the formed interphase consists of Li<sub>3</sub>N and (lithium) metal nitrides (Figure&#x000a0;<xref rid="advs306-fig-0004" ref-type="fig">4</xref>). If formed metal nitride is electronic insulating, the interphase would be passivating. These lithium ternary nitrides that are stable against Li metal include LiMgN, LiCaN, Li<sub>3</sub>AlN<sub>2</sub>, Li<sub>2</sub>HfN<sub>2</sub>, Li<sub>3</sub>ScN<sub>2</sub>, Li<sub>3</sub>BN<sub>2</sub>, Li<sub>2</sub>ZrN<sub>2</sub>, Li<sub>5</sub>SiN<sub>3</sub>, Li<sub>5</sub>TiN<sub>3</sub>, Li<sub>4</sub>TaN<sub>3</sub>, Li<sub>7</sub>TaN<sub>4</sub>, Li<sub>7</sub>NbN<sub>4</sub>, Li<sub>6</sub>WN<sub>4</sub>, and Li<sub>7</sub>VN<sub>4</sub>. At high N content, these metal nitrides may form at the interface and may passivate against Li metal.</p><p>By contrast, some cations, such as M = Ge, Ga, Sn, and Zn, cannot be stabilized in nitrides against Li metal regardless of the composition. Li&#x02010;metal phase equilibria of these Li&#x02014;M&#x02014;N systems always contain metal or Li&#x02010;metal alloy (Figure <xref rid="advs306-fig-0004" ref-type="fig">4</xref>) forming MIEC interphase. The formed interphase layer is likely not passivating if these cations are used.</p><p>The systems with only nonmetal elements, such as M = P, Cl, Br, I, is in general compatible with Li metal. When in equilibrium with Li metal, the reduction products are still electronic insulating phases, including Li<sub>3</sub>P, LiCl, LiBr, and LiI. Some nonmetal elements may change from cation to anion after reduction. In these nitride systems with only nonmetal elements, passivating interphase would form at the Li metal interface regardless of <italic>x</italic>
+<sub>N</sub> (Figure <xref rid="advs306-fig-0004" ref-type="fig">4</xref>). Similarly, using only these nonmetal elements also leads to Li&#x02010;passivating interphases in oxides and sulfides, as observed in LiPON, Li<sub>3</sub>OCl/Li<sub>3</sub>OBr, Li<sub>9</sub>S<sub>3</sub>N, Li<sub>7</sub>P<sub>3</sub>S<sub>11</sub>, and Li<sub>7</sub>P<sub>2</sub>S<sub>8</sub>I solid electrolytes, which are Li metal compatible.<xref rid="advs306-bib-0040" ref-type="ref">40</xref>, <xref rid="advs306-bib-0041" ref-type="ref">41</xref>, <xref rid="advs306-bib-0042" ref-type="ref">42</xref>, <xref rid="advs306-bib-0043" ref-type="ref">43</xref>, <xref rid="advs306-bib-0044" ref-type="ref">44</xref>
+</p></sec><sec id="advs306-sec-0070"><label>2.5</label><title>Stability and Interphase Passivation of Mixed&#x02010;Anion Nitrides</title><p>Since nitrides in general show good electrochemical stability against Li metal, here we explore the stability of mixed anion chemistry with nitride corresponding to the doping of nitrogen or nitride into other anion chemistry. We first studied the Li&#x02014;Al&#x02014;O&#x02014;N quaternary system as an example, in which Li&#x02014;Al&#x02014;O ternary compound is doped with nitrogen. In the quaternary Li&#x02014;Al&#x02014;O&#x02014;N system, the final phase equilibria in contact with Li metal will only consist of Li&#x02010;stable phases, including Li<sub>9</sub>Al<sub>4</sub>, Li<sub>2</sub>O, Li<sub>3</sub>N, AlN, and Li<sub>3</sub>AlN<sub>2</sub> (<bold>Figure</bold>
+<xref rid="advs306-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>a). Among those phases, only Li<sub>9</sub>Al<sub>4</sub> is MIEC, and all other phases are electronic insulating. Similar to the ternary case, the phase equilibria with Li metal are determined by atomic fraction of Al and nitrogen, <italic>x</italic>
+<sub>N</sub> and <italic>x</italic>
+<sub>Al</sub>. At low N content of <italic>x</italic>
+<sub>N</sub>
+<italic>&#x0003c; x</italic>
+<sub>Al</sub>, the formed phase equilibria consist of Li<sub>9</sub>Al<sub>4</sub>, Li<sub>2</sub>O, AlN represented by the red triangle in Figure <xref rid="advs306-fig-0005" ref-type="fig">5</xref>a,b. For example, the lithiation reaction of Al<sub>3</sub>NO<sub>3</sub> (gamma&#x02010;ALON) follows the blue dashed line in Figure <xref rid="advs306-fig-0005" ref-type="fig">5</xref>a to form these products. This lithiation reaction has the voltage profile and phase equilibria shown in Figure&#x000a0;<xref rid="advs306-fig-0005" ref-type="fig">5</xref>c. For compositions at higher N content of <italic>x</italic>
+<sub>Al</sub> &#x0003c; <italic>x</italic>
+<sub>N</sub> &#x0003c; 2<italic>x</italic>
+<sub>Al</sub> (green triangle II in Figure <xref rid="advs306-fig-0005" ref-type="fig">5</xref>), Li phase equilibria are Li<sub>3</sub>AlN<sub>2</sub>, Li<sub>2</sub>O, and AlN. At even higher N content of <italic>x</italic>
+<sub>N</sub> &#x0003e; 2<italic>x</italic>
+<sub>Al</sub> (green triangle I in Figure&#x000a0;<xref rid="advs306-fig-0005" ref-type="fig">5</xref>a,b), the phase equilibria with Li are Li<sub>3</sub>N, Li<sub>2</sub>O, Li<sub>3</sub>AlN<sub>2</sub>. The phase equilibria with Li metal are a function of the Al&#x02014;O&#x02014;N composition, and are represented by the grand potential phase diagram in equilibrium with Li metal (Figure&#x000a0;<xref rid="advs306-fig-0005" ref-type="fig">5</xref>b). At high N content (green triangle I and II in Figure <xref rid="advs306-fig-0005" ref-type="fig">5</xref>a,b), the formed interphase after lithiation is electronic insulating and hence passivating. These results suggest a strategy of introducing a sufficiently high amount of N to stabilize oxide compounds, which are not stable against Li metal. High&#x02010;dose nitrogen doping inhibits the reduction of Al and the formation of Li&#x02010;Al alloy, leading to passivating interphase formed against Li metal.</p><fig fig-type="Figure" xml:lang="en" id="advs306-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>a) Li&#x02014;Al&#x02014;O&#x02014;N quaternary phase diagram showing only Li&#x02010;stable phases. The blue dashed line represents the lithiation path of Al<sub>3</sub>NO<sub>3</sub> (blue square point). b) Grand potential phase diagram of Li&#x02014;Al&#x02014;O&#x02014;N system in equilibrium with Li metal. The Gibbs triangle of the grand potential phase diagram is based on non&#x02010;Li composition Al&#x02014;O&#x02014;N, which determines the phase equilibria after lithiation. For example, the phase equilibria of Al<sub>3</sub>NO<sub>3</sub> (blue square) with Li metal are Li<sub>9</sub>Al<sub>4</sub>, Li<sub>2</sub>O, and AlN, corresponding to the red triangle region. The composition regions that form passivating and that form nonpassivating interphases are colored green and red, respectively. c) Voltage profile and phase equilibria for the lithiation of Al<sub>3</sub>NO<sub>3</sub>.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-4-na-g005"/></fig><p>Mixing nitrogen can also stabilize Li&#x02014;M&#x02014;O oxides with other cation M = Mg, Ca, Al, B, Zr, Si, Ti, Ta, Nb, V, and W. Similar to M = Al, having high amount of nitrogen in Li&#x02014;M&#x02014;O&#x02014;N systems leads to forming electronic insulating nitrides against Li (<bold>Figure</bold>
+<xref rid="advs306-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>, <bold>Table</bold>
+<xref rid="advs306-tbl-0002" ref-type="table-wrap">
+<bold>2</bold>
+</xref>; Supporting Information). For example in Li&#x02014;Nb&#x02014;O&#x02014;N system, electronic insulating phase equilibria form at high N content <italic>x</italic>
+<sub>N</sub> &#x02265; 4<italic>x</italic>
+<sub>Nb</sub> (Figure <xref rid="advs306-fig-0006" ref-type="fig">6</xref>a and Table <xref rid="advs306-tbl-0002" ref-type="table-wrap">2</xref>). In Li&#x02014;Ca&#x02014;O&#x02014;N system, Li&#x02010;stable phase equilibria, including electronic&#x02010;insulating LiCaN nitride and CaO oxide, may form as passivation interphase at the high O and N content of <italic>x</italic>
+<sub>N</sub> + <italic>x</italic>
+<sub>O</sub> &#x02265; <italic>x</italic>
+<sub>Ca</sub> (Figure <xref rid="advs306-fig-0006" ref-type="fig">6</xref>b and Table <xref rid="advs306-tbl-0002" ref-type="table-wrap">2</xref>). Therefore, high&#x02010;dose nitrogen doping is effective in passivating many oxides with metal cations.</p><fig fig-type="Figure" xml:lang="en" id="advs306-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Grand potential phase diagram of a) Li&#x02014;Nb&#x02014;O&#x02014;N, b) Li&#x02014;Ca&#x02014;O&#x02014;N, c) Li&#x02014;P&#x02014;O&#x02014;N, d) Li&#x02014;Ge&#x02014;O&#x02014;N systems in equilibrium with Li metal. The composition regions that form passivating and that form nonpassivating interphases are colored green and red, respectively.</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-4-na-g006"/></fig><table-wrap id="advs306-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Composition range in Li&#x02014;M&#x02014;N&#x02014;O systems that form stable passivation interphase</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Cation M</th><th align="center" rowspan="1" colspan="1">Composition range forming passivation interphase layer</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Al</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; <italic>x</italic>
+<sub>Al</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Nb</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 4<italic>x</italic>
+<sub>Nb</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">B</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 2<italic>x</italic>
+<sub>B</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Zr</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 2<italic>x</italic>
+<sub>Zr</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ta</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 4<italic>x</italic>
+<sub>Ta</sub> or <italic>x</italic>
+<sub>N</sub> &#x02265; 3<italic>x</italic>
+<sub>Ta</sub> + 2<italic>x</italic>
+<sub>O</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ti</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 3<italic>x</italic>
+<sub>Ti</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 3<italic>x</italic>
+<sub>Si</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">V</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 4<italic>x</italic>
+<sub>V</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">W</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; 4<italic>x</italic>
+<sub>W</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mg</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> &#x02265; <italic>x</italic>
+<sub>Mg</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ca</td><td align="center" rowspan="1" colspan="1">
+<italic>x</italic>
+<sub>N</sub> + <italic>x</italic>
+<sub>O</sub> &#x02265; <italic>x</italic>
+<sub>Ca</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">P, Cl, Br, I</td><td align="center" rowspan="1" colspan="1">Any <italic>x</italic>
+<sub>N</sub> and <italic>x</italic>
+<sub>M</sub>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ge, Sn, Ga, Zn</td><td align="center" rowspan="1" colspan="1">None</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Li&#x02014;P&#x02014;O&#x02014;N oxynitride system has Li phase equilibria consisting of only electronic insulating phases, Li<sub>3</sub>N, Li<sub>2</sub>O, and Li<sub>3</sub>P (Figure <xref rid="advs306-fig-0006" ref-type="fig">6</xref>c), which are observed by in situ XPS experiments.<xref rid="advs306-bib-0019" ref-type="ref">19</xref> In addition, Li<sub>3</sub>N and Li<sub>3</sub>P are fast lithium ionic conductors, which facilitate interfacial Li transport and reduce interface resistance. The formation of passivating interphase results in excellent Li compatibility of LiPON. Similarly, other nonmetal elements, such as Cl, Br, and I, also always form passivating interphase at Li metal. Such passivating layer, as in the case of Li&#x02010;LiPON interface, may achieve good stability on Li metal anode.</p><p>Unfortunately, for oxides with some other cations, passivating interphases cannot be achieved by the introduction of nitrogen. For example, the phase equilibria of Li&#x02014;Ge&#x02014;O&#x02014;N system with Li metal are always Li<sub>3</sub>N, Li<sub>2</sub>O, and Li<sub>15</sub>Ge<sub>4</sub> regardless of N content (Figure <xref rid="advs306-fig-0006" ref-type="fig">6</xref>d). The presence of Li<sub>15</sub>Ge<sub>4</sub> would lead an MIEC interphase. Similarly, materials containing Sn, Ga, or Zn have Li phase equilibria always containing metal or Li&#x02010;metal alloy (Figure S1, Supporting Information and Table <xref rid="advs306-tbl-0002" ref-type="table-wrap">2</xref>), and hence may not be passivated by the formation of nitrides.</p></sec></sec><sec id="advs306-sec-0080"><label>3</label><title>Discussion</title><p>Our computation results revealed the Li metal stability of materials with different cation and anion chemistry. Most oxides, sulfides, and fluorides, which are widely studied as current solid electrolytes or coating layer materials, are not stable against Li metal. Metal and metalloid cations in oxides, sulfides, and fluorides (and other halides) are reduced at low potentials in most of these compounds. The thermodynamically favorable Li reduction of metal cations would lead to the formation of MIEC interphase and continuous decomposition of bulk materials, resulting in poor stability against Li metal. To avoid the detrimental effects of metal cations on stability, using only nonmetal elements, such as P, Cl, Br, I, instead forms passivating interphase and enables stability against Li metal, as demonstrated in some Li&#x02010;compatible solid electrolytes, such as LiPON, Li<sub>3</sub>OCl/Li<sub>3</sub>OBr, Li<sub>9</sub>S<sub>3</sub>N, Li<sub>7</sub>P<sub>3</sub>S<sub>11</sub>, and Li<sub>7</sub>P<sub>2</sub>S<sub>8</sub>I.<xref rid="advs306-bib-0040" ref-type="ref">40</xref>, <xref rid="advs306-bib-0041" ref-type="ref">41</xref>, <xref rid="advs306-bib-0042" ref-type="ref">42</xref>, <xref rid="advs306-bib-0043" ref-type="ref">43</xref>, <xref rid="advs306-bib-0044" ref-type="ref">44</xref> However, there is a limited choice of these compounds for stabilizing Li metal. Our results provide the composition space to select, design, and discover materials that are stable against Li.</p><p>The major discovery of our study is that nitride anion chemistry has significantly better stability against Li metal compared to oxide, sulfide, and halide. Many nitride materials are thermodynamically stable against Li metal. In addition, the nitrides formed at the interface during lithiation become stable, passivating SEI against Li metal. This chemistry knowledge from our computation suggests multiple strategies as follows to stabilize materials against Li metal and to improve the performance of Li metal anode. <list list-type="simple"><list-item><label>(1)</label><p>
+Many nitride materials that are electronic insulators may be used as protective buffer layer materials on Li metal anode. These buffer layers are thermodynamically stable against Li metal, thus will protect the electrolytes from reduction and will have long&#x02010;term stability on Li metal. For example, Li<sub>3</sub>N is demonstrated as an effective buffer layer material to protect liquid or solid electrolyte and to improve the cyclability and coulombic efficiency of Li metal anode.<xref rid="advs306-bib-0011" ref-type="ref">11</xref>, <xref rid="advs306-bib-0012" ref-type="ref">12</xref>, <xref rid="advs306-bib-0013" ref-type="ref">13</xref> Besides Li<sub>3</sub>N, many Li&#x02010;containing nitrides that are stable against Li metal, e.g., Li<sub>3</sub>AlN<sub>2</sub>, Li<sub>5</sub>SiN<sub>3</sub>, Li<sub>3</sub>BN<sub>2</sub>, LiMgN, LiCaN, Li<sub>2</sub>HfN<sub>2</sub>, Li<sub>3</sub>ScN<sub>2</sub>, Li<sub>2</sub>ZrN<sub>2</sub>, Li<sub>5</sub>TiN<sub>3</sub>, Li<sub>4</sub>TaN<sub>3</sub>, Li<sub>7</sub>TaN<sub>4</sub>, Li<sub>7</sub>NbN<sub>4</sub>, Li<sub>6</sub>WN<sub>4</sub>, and Li<sub>7</sub>VN<sub>4</sub>, may also be used as buffer layers on Li metal anode. In addition, developing new materials, such as Li<sub>18</sub>P<sub>6</sub>N<sub>16</sub> nitridophosphate,<xref rid="advs306-bib-0045" ref-type="ref">45</xref> may also be a promising direction.</p></list-item><list-item><label>(2)</label><p>
+Our results also suggest that high&#x02010;dose nitrogen doping in materials can lead to in situ spontaneous passivation against Li metal. Surface modification techniques such as nitrogen ion/plasma treatment and other nitriding techniques can locally enrich nitrogen content on the surfaces of the material. The nitrogen&#x02010;rich surface put into contact with Li metal would form nitride passivation interphase layers and woudl be transformed into a Li&#x02010;stable interface. For example, if one can introduce sufficient amount of N into the surface region of Al<sub>2</sub>O<sub>3</sub> to the composition range <italic>x</italic>
+<sub>N</sub> &#x02265; <italic>x</italic>
+<sub>Al</sub>, a passivation interphase of Li<sub>3</sub>AlN<sub>2</sub>/AlN and Li<sub>2</sub>O would form (Figure <xref rid="advs306-fig-0005" ref-type="fig">5</xref>). The necessary nitrogen content and composition to passivate each cation is provided in our calculations (Figure <xref rid="advs306-fig-0006" ref-type="fig">6</xref>, Table&#x000a0;<xref rid="advs306-tbl-0002" ref-type="table-wrap">2</xref>; Figure S1, Supporting Information). Various experimental approaches can be used to introduce nitrogen into the material and to stabilize the material interfaces against Li metal. For example, applying nitrogen&#x02010;doped thin films on Li metal anodes has shown to improve Li metal stability and to inhibit lithium dendrite.<xref rid="advs306-bib-0046" ref-type="ref">46</xref> Multiple studies also demonstrated nitrogen doping on carbon&#x02010;based anode materials greatly improves the cycling stability.<xref rid="advs306-bib-0047" ref-type="ref">47</xref>, <xref rid="advs306-bib-0048" ref-type="ref">48</xref>, <xref rid="advs306-bib-0049" ref-type="ref">49</xref>
+</p></list-item><list-item><label>(3)</label><p>
+Another way to locally enrich nitrogen is introducing Li<sub>3</sub>N to further react at the interface and to form a stable SEI layer. Li<sub>3</sub>N may be introduced as a coating layer or by nitriding Li metal. For example, Li<sub>3</sub>N can react with Al<sub>2</sub>O<sub>3</sub> at the contact interface and form stable SEI consisting Li<sub>3</sub>AlN<sub>2</sub> and Li<sub>2</sub>O through an exothermic reaction, Al<sub>2</sub>O<sub>3</sub> + 4 Li<sub>3</sub>N &#x02192; 2 Li<sub>3</sub>AlN<sub>2</sub> + 3 Li<sub>2</sub>O (&#x00394;<italic>H</italic> = &#x02212;5.76 eV or &#x02212;556 kJ mol<sup>&#x02212;1</sup>). A similar strategy was demonstrated on Li metal protection by Visco et al.<xref rid="advs306-bib-0011" ref-type="ref">11</xref>
+</p></list-item><list-item><label>(4)</label><p>
+In addition, mixing nitrogen&#x02010;containing compounds, such as nitride, nitrite, and nitrate, into the materials can also stabilize the interface. For example, Al<sub>2</sub>O<sub>3</sub> mixed with LiNO<sub>3</sub> may also form an SEI of Li<sub>3</sub>AlN<sub>2</sub> and Li<sub>2</sub>O in contact with Li through an exothermic reaction Al<sub>2</sub>O<sub>3</sub> + 4 LiNO<sub>3</sub> + 32 Li &#x02192; 2 Li<sub>3</sub>AlN<sub>2</sub> + 15 Li<sub>2</sub>O (&#x00394;<italic>H</italic> = &#x02212;58.20 eV or &#x02212;5615 kJ mol<sup>&#x02212;1</sup>). A similar strategy of using nitrogen&#x02010;containing additives in liquid electrolytes was demonstrated in forming stable SEI layer on Li metal anode.<xref rid="advs306-bib-0050" ref-type="ref">50</xref>, <xref rid="advs306-bib-0051" ref-type="ref">51</xref>, <xref rid="advs306-bib-0052" ref-type="ref">52</xref>, <xref rid="advs306-bib-0053" ref-type="ref">53</xref>, <xref rid="advs306-bib-0054" ref-type="ref">54</xref> For example, LiNO<sub>3</sub> as additive was reported to significantly improve the cyclability and coulombic efficiency of Li metal anode by forming an SEI containing lithium nitride and oxynitrides.<xref rid="advs306-bib-0055" ref-type="ref">55</xref>, <xref rid="advs306-bib-0056" ref-type="ref">56</xref>, <xref rid="advs306-bib-0057" ref-type="ref">57</xref> In agreement with our prediction, high concentration of LiNO<sub>3</sub> is needed to achieve high nitrogen content and to form a stable SEI.<xref rid="advs306-bib-0052" ref-type="ref">52</xref> In addition, other nitrogen&#x02010;containing compounds, such as cyanide and cyanate, are demonstrated for nitriding metals. Novel nitrogen&#x02010;containing compounds may be developed for nitriding materials in lithium batteries.</p></list-item></list>
+</p><p>While our computation demonstrated the thermodynamic origin of using nitrides and rich nitrogen content to stabilize Li metal anode, experimental techniques to realize these new strategies in lithium batteries may need further study and to address multiple potential challenges. First, nitride buffer coating layer is desired to be thin (&#x02248;10 nm), dense, and uniform, to achieve low interfacial resistance and good passivation.<xref rid="advs306-bib-0058" ref-type="ref">58</xref> Applying such coating may requires thin&#x02010;film&#x02010;based techniques, such as sputtering, physical/chemical vapor deposition, atomic layer deposition, and plasma nitriding, which may not be cost competitive.<xref rid="advs306-bib-0059" ref-type="ref">59</xref> In addition, some nitrides may be moisture or air sensitive,<xref rid="advs306-bib-0058" ref-type="ref">58</xref> which requires additional protection during manufacturing and processing. Gas nitriding techniques based on nitrogen rich gas, such as ammonia, may be an economic and scalable approach as demonstrated in the nitriding of metals.<xref rid="advs306-bib-0059" ref-type="ref">59</xref> However, ammonia treatment may induce H into the materials, which may be detrimental for the properties of electrolytes or electrodes. Experimental techniques to economically coat nitride layers and to effectively dope high nitrogen content at the interface need further research and development.</p><p>The aforementioned strategies of using nitrogen anion chemistry to stabilize Li metal anode may offer multiple additional advantages. The thermodynamically favorable lithiation reactions provide interfacial wetting, which would promote interfacial contacts.<xref rid="advs306-bib-0023" ref-type="ref">23</xref>, <xref rid="advs306-bib-0029" ref-type="ref">29</xref>, <xref rid="advs306-bib-0060" ref-type="ref">60</xref> Moreover, a fraction of nitrogen may be lithiated to form Li<sub>3</sub>N, a good ionic conductor, as part of the interphase to facilitate interfacial Li ion transport. In addition, many nitrides exhibit good tolerance to stress, which is a desirable mechanical property for stable interfacial layer during cycling and for suppressing Li dendrite growth.<xref rid="advs306-bib-0059" ref-type="ref">59</xref>, <xref rid="advs306-bib-0061" ref-type="ref">61</xref>, <xref rid="advs306-bib-0062" ref-type="ref">62</xref>, <xref rid="advs306-bib-0063" ref-type="ref">63</xref>, <xref rid="advs306-bib-0064" ref-type="ref">64</xref>, <xref rid="advs306-bib-0065" ref-type="ref">65</xref> Therefore, the formation of stable SEI layer using nitride anion chemistry provides good stability against Li metal, reduces interfacial resistance, and may mechanically suppress Li dendrite formation. High nitrogen content as predicted by our calculations (Figure <xref rid="advs306-fig-0006" ref-type="fig">6</xref> and Table <xref rid="advs306-tbl-0002" ref-type="table-wrap">2</xref>) is necessary to form phase equilibria of only passivating phases and to completely inhibit the formation of reduced metallic phases, while a lower nitrogen content may still retard interfacial degradation and benefit the performance of Li metal anode as a result of kinetic stabilization.</p><p>The limitations of using the thermodynamic scheme to predict interfacial phenomena should be noted as follows. In this study, we approximated the interphase as the phase equilibria, which are the most thermodynamically favorable states, whereas kinetics of reaction and diffusion are not considered. While kinetics and diffusion play crucial roles in the reactions at the interfaces, the thermodynamics provide an ultimate boundary of stability. Given facile Li diffusion, it is expected the phase equilibria would form at the immediate contact with Li metal, as demonstrated in previous in situ XPS study.<xref rid="advs306-bib-0019" ref-type="ref">19</xref>, <xref rid="advs306-bib-0024" ref-type="ref">24</xref>, <xref rid="advs306-bib-0025" ref-type="ref">25</xref>, <xref rid="advs306-bib-0026" ref-type="ref">26</xref>, <xref rid="advs306-bib-0030" ref-type="ref">30</xref> Despite possible kinetic or diffusional limitations for such reactions, the thermodynamic driving force would always exist for forming the most favorable phase equilibria. These decomposition reactions may have a significant impact on the long&#x02010;term stability of the battery. It is possible that the formed interphase layers are different from thermodynamic equilibria. For example, some phases that are not stable against lithium metal may form due to kinetic stabilization. In addition, kinetic limitation of the lithiation reduction at the interface may lead to the formation of intermediate decomposition products, which may be passivating to slow down further degradation.<xref rid="advs306-bib-0030" ref-type="ref">30</xref> As a result of such kinetic effects, some intermediate decomposition products or less than adequate nitrogen doping may still improve the stability at Li metal interfaces. Nevertheless, designing the interface with thermodynamic intrinsic stability against Li metal is still desired to realize long&#x02010;term stability, good cyclability, and high coulombic efficiency of the lithium battery.</p><p>Additional approximations made in our computation scheme and their potential impact are noted as follows. We used the mixture of bulk phase properties to approximate the interphase property, and did not consider the microstructures of interphase. For example, if the formed electronic&#x02010;conducting phases are not percolating from Li metal to electrolyte, the overall interphase layer would still be passivating. The effects of microstructures, local off&#x02010;stoichiometry, defects accumulation, and kinetically stabilized metastable phases, which were not considered in our calculations, may also impact interphase properties and passivation effects. In addition, our scheme relies on known phases to predict Li reduction products of materials. There may be errors in the predicted phase equilibria if some phases that exist in nature were not included. This scenario is more likely in nitride systems, which have been relatively less studied than oxides. In addition, due to the lack of available electronic conductivity data of many materials, we used a simple cutoff based on density functional theory (DFT) calculated band gap and the valence states of metal cations to judge whether a phase is electronic conductive or insulating. While the trend of the nitride stability is captured, using experimentally measured electronic conductivity would be more reliable in estimating the interphase properties. Some passivating interphase may still have a low electronic conductivity leading to a slow interphase layer growth and an impedance increase during cycling or over time. For example, while the SEI layer on graphite anode in commercial lithium ion battery is well accepted as a passivation film, Dahn and co&#x02010;workers showed slow growth of SEI and continuous lithium loss.<xref rid="advs306-bib-0066" ref-type="ref">66</xref>, <xref rid="advs306-bib-0067" ref-type="ref">67</xref> The Li&#x02010;compatible solid electrolyte Li<sub>7</sub>P<sub>3</sub>S<sub>11</sub>, also shows a slow interphase impedance increase over time.<xref rid="advs306-bib-0030" ref-type="ref">30</xref> Nevertheless, these passivating interphases have significantly better stability than nonpassivating interphases, and provide improved cyclability and battery performance.<xref rid="advs306-bib-0026" ref-type="ref">26</xref>
+</p></sec><sec id="advs306-sec-0090"><label>4</label><title>Conclusion</title><p>In this study, our computation revealed that material stability against lithium metal is governed by cation and anion chemistry. Metal cations in oxides, sulfides, and fluorides are usually reduced by lithium metal, leading to poor stability against lithium metal. We discovered that nitride anion chemistry shows unique stability against Li metal. In general, metal nitrides have a significantly lower reduction potential than oxides, sulfides, and fluorides, and many nitrides are thermodynamically stable against Li metal. On the basis of this chemistry knowledge, we suggest new strategies to form stable SEI on Li metal anode. Many nitrides that have intrinsic Li metal stability can be used as buffer layers to protect materials against Li metal. In addition, high&#x02010;dose nitrogen doping and nitrogen enriching at the interface can lead to spontaneous formation of a stable, passivating SEI on Li metal, transforming a lithium unstable interface into a lithium&#x02010;stable interface. Specifically, many cations, such as Mg, Ca, B, Al, Zr, V, W, Si, Ti, Nb, and Ta, can be protected in nitride anion chemistry systems at sufficiently high nitrogen content. However, some cations, such as Ge, Sn, Ga, and Zn, are always reduced by Li metal regardless of anion chemistry and composition. Our results provide guiding principles for the selection, design, and discovery of materials with Li metal stability, and predict interfacial engineering strategies to stabilize Li metal anodes in lithium batteries.</p></sec><sec id="advs306-sec-0100"><label>5</label><title>Experimental Section</title><p>Most compounds were from the Materials Project (MP)<xref rid="advs306-bib-0068" ref-type="ref">68</xref> and Inorganic Crystal Structure Database, and 21 additional lithium ternary compounds were predicted using substitution prediction algorithm developed by Hautier et al.<xref rid="advs306-bib-0069" ref-type="ref">69</xref> (Details are provided in the Supporting Information.) The energies of most materials were obtained from the MP database. For materials that are not available in the MP database, DFT computation based on Perdew&#x02013;Burke&#x02013;Ernzerhof generalized gradient approximation (GGA) functionals<xref rid="advs306-bib-0070" ref-type="ref">70</xref> described by the projector augmented&#x02010;wave approach<xref rid="advs306-bib-0071" ref-type="ref">71</xref> as implemented in the Vienna Ab initio Simulation Package<xref rid="advs306-bib-0072" ref-type="ref">72</xref> were performed. The parameters of DFT calculations, such as the plane&#x02010;wave energy cutoff and <italic>k</italic>&#x02010;points density, were consistent with those used for the MP.<xref rid="advs306-bib-0073" ref-type="ref">73</xref> The energy correction schemes for transition metal, O, S, N, and F elements were applied as in the MP.<xref rid="advs306-bib-0074" ref-type="ref">74</xref>, <xref rid="advs306-bib-0075" ref-type="ref">75</xref> The calculated reaction energies and voltages were based on DFT energies as in previous studies,<xref rid="advs306-bib-0020" ref-type="ref">20</xref>, <xref rid="advs306-bib-0076" ref-type="ref">76</xref> where the contributions of <italic>PV</italic> terms and entropy terms were neglected.</p><p>The electrochemical stability of materials was investigated using the same method as in the previous studies.<xref rid="advs306-bib-0020" ref-type="ref">20</xref>, <xref rid="advs306-bib-0022" ref-type="ref">22</xref>, <xref rid="advs306-bib-0029" ref-type="ref">29</xref> The phase diagram was constructed by the convex hull of the energies of all phases in given composition space (e.g., Li&#x02014;M&#x02014;X) using <italic>pymatgen</italic>.<xref rid="advs306-bib-0077" ref-type="ref">77</xref> As a result, only the lowest energy (thermodynamically most favorable) phases for any given composition are presented in the phase diagram. As in our previous study, the applied electrostatic potential &#x003c6; was considered in Li chemical potential as<xref rid="advs306-bib-0022" ref-type="ref">22</xref>, <xref rid="advs306-bib-0029" ref-type="ref">29</xref>
+<disp-formula id="advs306-disp-0007"><label>(7)</label><mml:math id="nlm-math-7"><mml:mrow><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02009;</mml:mo><mml:mrow><mml:mfenced><mml:mi>&#x003d5;</mml:mi></mml:mfenced></mml:mrow><mml:mo>&#x02009;</mml:mo><mml:mo>=</mml:mo><mml:mo>&#x02009;</mml:mo><mml:msubsup><mml:mi>&#x003bc;</mml:mi><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mn>0</mml:mn></mml:msubsup><mml:mo>&#x02009;</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mo>&#x02009;</mml:mo><mml:mi>e</mml:mi><mml:mi>&#x003d5;</mml:mi></mml:mrow></mml:math></disp-formula>Thermodynamic phase equilibria, i.e., the phases with the lowest energy at given composition, as a function of different potentials were obtained from grand potential phase diagrams at varying Li chemical potential.<xref rid="advs306-bib-0077" ref-type="ref">77</xref>
+</p><p>Due to the lack of electronic conductivity data from other sources, the valence state of transition metal cations and the band gap calculated in GGA were used to judge whether a phase is electronic insulating. Phases that have transition metal cations at their highest valence state and that have a calculated band gap wider than 0.7 eV in GGA are considered electronic insulating. Though the band gap calculated in GGA was systematically underestimated, cut&#x02010;off value was chosen as 0.7 eV, which was the GGA calculated gap of Li<sub>3</sub>P, a known poor electronic conductor.<xref rid="advs306-bib-0026" ref-type="ref">26</xref>, <xref rid="advs306-bib-0078" ref-type="ref">78</xref>
+</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-4-na-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs306-sec-0110"><title>Acknowledgements</title><p>The authors acknowledge the A. James Clark School of Engineering, University of Maryland. This research used computational facilities from the University of Maryland supercomputing resources, the Maryland Advanced Research Computing Center (MARCC), and the Extreme Science and Engineering Discovery Environment (XSEDE) supported by the National Science Foundation Award No. DMR150038.</p></ack><ref-list id="advs306-bibl-0001"><ref id="advs306-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs306-cit-0001">
+<string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Nasybulin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>513</fpage>.</mixed-citation></ref><ref id="advs306-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs306-cit-0002">
+<string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1600811</fpage>.</mixed-citation></ref><ref id="advs306-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs306-cit-0003">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <source>Nature</source>
+<year>2001</year>, <volume>414</volume>, <fpage>359</fpage>.<pub-id pub-id-type="pmid">11713543</pub-id></mixed-citation></ref><ref id="advs306-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs306-cit-0004">
+<string-name>
+<given-names>M. S.</given-names>
+<surname>Whittingham</surname>
+</string-name>, <source>Proc. IEEE</source>
+<year>2012</year>, <volume>100</volume>, <fpage>1518</fpage>.</mixed-citation></ref><ref id="advs306-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs306-cit-0005">
+<string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Zinigrad</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Teller</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2002</year>, <volume>148</volume>, <fpage>405</fpage>.</mixed-citation></ref><ref id="advs306-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs306-cit-0006">
+<string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>4303</fpage>.<pub-id pub-id-type="pmid">15669157</pub-id></mixed-citation></ref><ref id="advs306-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs306-cit-0007">
+<string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11503</fpage>.<pub-id pub-id-type="pmid">25351820</pub-id></mixed-citation></ref><ref id="advs306-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs306-cit-0008">
+<string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, <volume>3</volume>, <fpage>1500213</fpage>.</mixed-citation></ref><ref id="advs306-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs306-cit-0009">
+<string-name>
+<given-names>E.</given-names>
+<surname>Peled</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1979</year>, <volume>126</volume>, <fpage>2047</fpage>.</mixed-citation></ref><ref id="advs306-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs306-cit-0010">
+<string-name>
+<given-names>M.</given-names>
+<surname>Gauthier</surname>
+</string-name>, <string-name>
+<given-names>T. J.</given-names>
+<surname>Carney</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Grimaud</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Giordano</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Pour</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;H.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Fenning</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Lux</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Paschos</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Bauer</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Maglia</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lupart</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lamp</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao&#x02010;Horn</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>4653</fpage>.<pub-id pub-id-type="pmid">26510477</pub-id></mixed-citation></ref><ref id="advs306-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs306-cit-0011">
+<string-name>
+<given-names>S.</given-names>
+<surname>Visco</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Nimon</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Petrov</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Pridatko</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Goncharenko</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Nimon</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>De Jonghe</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Volfkovich</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bograchev</surname>
+</string-name>, <source>J. Solid State Electrochem.</source>
+<year>2014</year>, <volume>18</volume>, <fpage>1443</fpage>.</mixed-citation></ref><ref id="advs306-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs306-cit-0012">
+<string-name>
+<given-names>Y. J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>W. Q.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. D.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Tu</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2015</year>, <volume>277</volume>, <fpage>304</fpage>.</mixed-citation></ref><ref id="advs306-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs306-cit-0013">
+<string-name>
+<given-names>M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>8091</fpage>.</mixed-citation></ref><ref id="advs306-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs306-cit-0014">
+<string-name>
+<given-names>G.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Chem. Commun.</source>
+<year>2014</year>, <volume>50</volume>, <fpage>14209</fpage>.</mixed-citation></ref><ref id="advs306-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs306-cit-0015">
+<string-name>
+<given-names>N. W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2016</year>, <volume>4</volume>, <fpage>1600400</fpage>.</mixed-citation></ref><ref id="advs306-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs306-cit-0016">
+<string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Dudney</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1401408</fpage>.</mixed-citation></ref><ref id="advs306-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs306-cit-0017">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>961</fpage>.<pub-id pub-id-type="pmid">25108613</pub-id></mixed-citation></ref><ref id="advs306-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs306-cit-0018">
+<string-name>
+<given-names>J.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Electrochem. Commun.</source>
+<year>2015</year>, <volume>51</volume>, <fpage>59</fpage>.</mixed-citation></ref><ref id="advs306-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs306-cit-0019">
+<string-name>
+<given-names>A.</given-names>
+<surname>Schw&#x000f6;bel</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Hausbrand</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Jaegermann</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2015</year>, <volume>273</volume>, <fpage>51</fpage>.</mixed-citation></ref><ref id="advs306-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs306-cit-0020">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>15</fpage>.</mixed-citation></ref><ref id="advs306-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs306-cit-0021">
+<string-name>
+<given-names>F.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Gaskell</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>3473</fpage>.<pub-id pub-id-type="pmid">25925023</pub-id></mixed-citation></ref><ref id="advs306-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs306-cit-0022">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>23685</fpage>.<pub-id pub-id-type="pmid">26440586</pub-id></mixed-citation></ref><ref id="advs306-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs306-cit-0023">
+<string-name>
+<given-names>F.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1501590</fpage>.</mixed-citation></ref><ref id="advs306-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs306-cit-0024">
+<string-name>
+<given-names>P.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Busche</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Reich</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Adelhelm</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>21064</fpage>.</mixed-citation></ref><ref id="advs306-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs306-cit-0025">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kr&#x000fc;ger</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2015</year>, <volume>278</volume>, <fpage>98</fpage>.</mixed-citation></ref><ref id="advs306-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs306-cit-0026">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Randau</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtwei&#x000df;</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J. r.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2400</fpage>.</mixed-citation></ref><ref id="advs306-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs306-cit-0027">
+<string-name>
+<given-names>S.</given-names>
+<surname>Stramare</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Thangadurai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Weppner</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2003</year>, <volume>15</volume>, <fpage>3974</fpage>.</mixed-citation></ref><ref id="advs306-bib-0028"><label>28</label><mixed-citation publication-type="book" id="advs306-cit-0028">
+<string-name>
+<given-names>G. G.</given-names>
+<surname>Amatucci</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Pereira</surname>
+</string-name>, in <source>Lithium Batteries: Science and Technology</source> (Eds: <person-group person-group-type="editor"><name><surname>Nazri</surname><given-names>G.&#x02010;A.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Pistoia</surname><given-names>G.</given-names></name></person-group>), <publisher-name>Springer</publisher-name>, <publisher-loc>Boston, MA</publisher-loc>
+<year>2003</year>, p. <fpage>247</fpage>.</mixed-citation></ref><ref id="advs306-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs306-cit-0029">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>3253</fpage>.</mixed-citation></ref><ref id="advs306-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs306-cit-0030">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Busche</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2016</year>, <volume>286</volume>, <fpage>24</fpage>.</mixed-citation></ref><ref id="advs306-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs306-cit-0031">
+<string-name>
+<given-names>R.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hata</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kawamoto</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Irie</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2000</year>, <volume>130</volume>, <fpage>97</fpage>.</mixed-citation></ref><ref id="advs306-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs306-cit-0032">
+<string-name>
+<given-names>R.</given-names>
+<surname>Marom</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Amalraj</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Leifer</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Jacob</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <source>J. Mater. Chem.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>9938</fpage>.</mixed-citation></ref><ref id="advs306-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs306-cit-0033">
+<string-name>
+<given-names>X.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ahn</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2011</year>, <volume>23</volume>, <fpage>3911</fpage>.<pub-id pub-id-type="pmid">21786345</pub-id></mixed-citation></ref><ref id="advs306-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs306-cit-0034">
+<string-name>
+<given-names>H.&#x02010;K.</given-names>
+<surname>Jing</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;L.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>G.&#x02010;R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;P.</given-names>
+<surname>Gao</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>12213</fpage>.</mixed-citation></ref><ref id="advs306-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs306-cit-0035">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N. S.</given-names>
+<surname>Hudak</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Huber</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Limmer</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Sullivan</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2011</year>, <volume>11</volume>, <fpage>4188</fpage>.<pub-id pub-id-type="pmid">21875099</pub-id></mixed-citation></ref><ref id="advs306-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs306-cit-0036">
+<string-name>
+<given-names>H.</given-names>
+<surname>Senoh</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kageyama</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sakaebe</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nakanishi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ohta</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sakai</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yasuda</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2010</year>, <volume>195</volume>, <fpage>8327</fpage>.</mixed-citation></ref><ref id="advs306-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs306-cit-0037">
+<string-name>
+<given-names>W. M.</given-names>
+<surname>Yim</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Stofko</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Zanzucchi</surname>
+</string-name>, <string-name>
+<given-names>J. I.</given-names>
+<surname>Pankove</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ettenberg</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Gilbert</surname>
+</string-name>, <source>J. Appl. Phys.</source>
+<year>1973</year>, <volume>44</volume>, <fpage>292</fpage>.</mixed-citation></ref><ref id="advs306-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs306-cit-0038">
+<string-name>
+<given-names>H.</given-names>
+<surname>Yamane</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kikkawa</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Koizumi</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>1985</year>, <volume>15</volume>, <fpage>51</fpage>.</mixed-citation></ref><ref id="advs306-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs306-cit-0039">
+<string-name>
+<given-names>U. V.</given-names>
+<surname>Alpen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rabenau</surname>
+</string-name>, <string-name>
+<given-names>G. H.</given-names>
+<surname>Talat</surname>
+</string-name>, <source>Appl. Phys. Lett.</source>
+<year>1977</year>, <volume>30</volume>, <fpage>621</fpage>.</mixed-citation></ref><ref id="advs306-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs306-cit-0040">
+<string-name>
+<given-names>N. J.</given-names>
+<surname>Dudney</surname>
+</string-name>, <source>Mater. Sci. Eng., B</source>
+<year>2005</year>, <volume>116</volume>, <fpage>245</fpage>.</mixed-citation></ref><ref id="advs306-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs306-cit-0041">
+<string-name>
+<given-names>M. H.</given-names>
+<surname>Braga</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Ferreira</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Stockhausen</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Oliveira</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>El&#x02010;Azab</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2014</year>, <volume>2</volume>, <fpage>5470</fpage>.</mixed-citation></ref><ref id="advs306-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs306-cit-0042">
+<string-name>
+<given-names>L. J.</given-names>
+<surname>Miara</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Richards</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>20338</fpage>.</mixed-citation></ref><ref id="advs306-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs306-cit-0043">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Seino</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ota</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Takada</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hayashi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tatsumisago</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>627</fpage>.</mixed-citation></ref><ref id="advs306-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs306-cit-0044">
+<string-name>
+<given-names>E.</given-names>
+<surname>Rangasamy</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gobet</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Pilar</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Sahu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Greenbaum</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liang</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2015</year>, <volume>137</volume>, <fpage>1384</fpage>.<pub-id pub-id-type="pmid">25602621</pub-id></mixed-citation></ref><ref id="advs306-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs306-cit-0045">
+<string-name>
+<given-names>E.&#x02010;M.</given-names>
+<surname>Bertschler</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Dietrich</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Schnick</surname>
+</string-name>, <source>Chem. &#x02010; Eur. J.</source>
+<year>2016</year>, <volume>23</volume>, <fpage>2185</fpage>.</mixed-citation></ref><ref id="advs306-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs306-cit-0046">
+<string-name>
+<given-names>Y.&#x02010;j.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;q.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;l.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;h.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;d.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;p.</given-names>
+<surname>Tu</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>15597</fpage>.</mixed-citation></ref><ref id="advs306-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs306-cit-0047">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Electrochem. Commun.</source>
+<year>2011</year>, <volume>13</volume>, <fpage>822</fpage>.</mixed-citation></ref><ref id="advs306-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs306-cit-0048">
+<string-name>
+<given-names>L.</given-names>
+<surname>Qie</surname>
+</string-name>, <string-name>
+<given-names>W. M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z. H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q. G.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L. X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W. X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>2047</fpage>.<pub-id pub-id-type="pmid">22422374</pub-id></mixed-citation></ref><ref id="advs306-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs306-cit-0049">
+<string-name>
+<given-names>A. L. M.</given-names>
+<surname>Reddy</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Srivastava</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Gowda</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gullapalli</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dubey</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Ajayan</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>6337</fpage>.<pub-id pub-id-type="pmid">20931996</pub-id></mixed-citation></ref><ref id="advs306-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs306-cit-0050">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>70</volume>, <fpage>344</fpage>.</mixed-citation></ref><ref id="advs306-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs306-cit-0051">
+<string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Ran</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2016</year>, <volume>3</volume>, <fpage>77</fpage>.</mixed-citation></ref><ref id="advs306-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs306-cit-0052">
+<string-name>
+<given-names>D.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Qu</surname>
+</string-name>, <source>ChemSusChem</source>
+<year>2016</year>, <volume>9</volume>, <fpage>2348</fpage>.<pub-id pub-id-type="pmid">27535337</pub-id></mixed-citation></ref><ref id="advs306-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs306-cit-0053">
+<string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Pollak</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Elazari</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Salitra</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Kelley</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Affinito</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2009</year>, <volume>156</volume>, <fpage>A694</fpage>.</mixed-citation></ref><ref id="advs306-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs306-cit-0054">
+<string-name>
+<given-names>S.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Diao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Hong</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>246</volume>, <fpage>840</fpage>.</mixed-citation></ref><ref id="advs306-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs306-cit-0055">
+<string-name>
+<given-names>S.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Diao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Hong</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>83</volume>, <fpage>78</fpage>.</mixed-citation></ref><ref id="advs306-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs306-cit-0056">
+<string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>7436</fpage>.<pub-id pub-id-type="pmid">26081242</pub-id></mixed-citation></ref><ref id="advs306-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs306-cit-0057">
+<string-name>
+<given-names>A.</given-names>
+<surname>Jozwiuk</surname>
+</string-name>, <string-name>
+<given-names>B. B.</given-names>
+<surname>Berkes</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wei&#x000df;</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sommer</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Brezesinski</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>2603</fpage>.</mixed-citation></ref><ref id="advs306-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs306-cit-0058">
+<string-name>
+<given-names>N.</given-names>
+<surname>Tapia&#x02010;Ruiz</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Segal&#x000e9;s</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Gregory</surname>
+</string-name>, <source>Coord. Chem. Rev.</source>
+<year>2013</year>, <volume>257</volume>, <fpage>1978</fpage>.</mixed-citation></ref><ref id="advs306-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="advs306-cit-0059">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Fan</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2016</year>, <volume>3</volume>, <fpage>1500286</fpage>
+</mixed-citation></ref><ref id="advs306-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="advs306-cit-0060">
+<string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Lacey</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>12258</fpage>.<pub-id pub-id-type="pmid">27570205</pub-id></mixed-citation></ref><ref id="advs306-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="advs306-cit-0061">
+<string-name>
+<given-names>T.</given-names>
+<surname>Czerwiec</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Renevier</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Michel</surname>
+</string-name>, <source>Surf. Coat. Technol.</source>
+<year>2000</year>, <volume>131</volume>, <fpage>267</fpage>.</mixed-citation></ref><ref id="advs306-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="advs306-cit-0062">
+<string-name>
+<given-names>C.</given-names>
+<surname>Monroe</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Newman</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2005</year>, <volume>152</volume>, <fpage>A396</fpage>.</mixed-citation></ref><ref id="advs306-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="advs306-cit-0063">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Schmidt</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Garcia&#x02010;Mendez</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Herbert</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Dudney</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Wolfenstine</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Siegel</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2015</year>, <volume>28</volume>, <fpage>197</fpage>.</mixed-citation></ref><ref id="advs306-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="advs306-cit-0064">
+<string-name>
+<given-names>E. G.</given-names>
+<surname>Herbert</surname>
+</string-name>, <string-name>
+<given-names>W. E.</given-names>
+<surname>Tenhaeff</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Dudney</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Pharr</surname>
+</string-name>, <source>Thin Solid Films</source>
+<year>2011</year>, <volume>520</volume>, <fpage>413</fpage>.</mixed-citation></ref><ref id="advs306-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="advs306-cit-0065">
+<string-name>
+<given-names>G. D.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mitomo</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nishimura</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sakuma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ikuhara</surname>
+</string-name>, <source>J. Am. Ceram. Soc.</source>
+<year>2000</year>, <volume>83</volume>, <fpage>841</fpage>.</mixed-citation></ref><ref id="advs306-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="advs306-cit-0066">
+<string-name>
+<given-names>N. N.</given-names>
+<surname>Sinha</surname>
+</string-name>, <string-name>
+<given-names>T. H.</given-names>
+<surname>Marks</surname>
+</string-name>, <string-name>
+<given-names>H. M.</given-names>
+<surname>Dahn</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Burns</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Coyle</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Dahn</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Dahn</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2012</year>, <volume>159</volume>, <fpage>A1672</fpage>.</mixed-citation></ref><ref id="advs306-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="advs306-cit-0067">
+<string-name>
+<given-names>A. J.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>H. M.</given-names>
+<surname>Dahn</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Burns</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Dahn</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2012</year>, <volume>159</volume>, <fpage>A705</fpage>.</mixed-citation></ref><ref id="advs306-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="advs306-cit-0068">
+<string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Richards</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dacek</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cholia</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gunter</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Skinner</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Persson</surname>
+</string-name>, <source>APL Mater.</source>
+<year>2013</year>, <volume>1</volume>, <fpage>011002</fpage>.</mixed-citation></ref><ref id="advs306-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="advs306-cit-0069">
+<string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fischer</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Ehrlacher</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>Inorg. Chem.</source>
+<year>2010</year>, <volume>50</volume>, <fpage>656</fpage>.<pub-id pub-id-type="pmid">21142147</pub-id></mixed-citation></ref><ref id="advs306-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="advs306-cit-0070">
+<string-name>
+<given-names>J. P.</given-names>
+<surname>Perdew</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ernzerhof</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Burke</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>1996</year>, <volume>105</volume>, <fpage>9982</fpage>.</mixed-citation></ref><ref id="advs306-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="advs306-cit-0071">
+<string-name>
+<given-names>P. E.</given-names>
+<surname>Bl&#x000f6;chl</surname>
+</string-name>, <source>Phys. Rev. B</source>
+<year>1994</year>, <volume>50</volume>, <fpage>17953</fpage>.</mixed-citation></ref><ref id="advs306-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="advs306-cit-0072">
+<string-name>
+<given-names>G.</given-names>
+<surname>Kresse</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Furthm&#x000fc;ller</surname>
+</string-name>, <source>Phys. Rev. B</source>
+<year>1996</year>, <volume>54</volume>, <fpage>11169</fpage>.</mixed-citation></ref><ref id="advs306-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="advs306-cit-0073">
+<string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ping Ong</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Fischer</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Mueller</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>Comput. Mater. Sci.</source>
+<year>2011</year>, <volume>50</volume>, <fpage>2295</fpage>.</mixed-citation></ref><ref id="advs306-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="advs306-cit-0074">
+<string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Maxisch</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>Phys. Rev. B: Condens. Matter Mater. Phys.</source>
+<year>2006</year>, <volume>73</volume>, <fpage>195107</fpage>.</mixed-citation></ref><ref id="advs306-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="advs306-cit-0075">
+<string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Fischer</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>Phys. Rev. B: Condens. Matter Mater. Phys.</source>
+<year>2011</year>, <volume>84</volume>, <fpage>045115</fpage>.</mixed-citation></ref><ref id="advs306-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="advs306-cit-0076">
+<string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2008</year>, <volume>20</volume>, <fpage>1798</fpage>.</mixed-citation></ref><ref id="advs306-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="advs306-cit-0077">
+<string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Richards</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kocher</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cholia</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gunter</surname>
+</string-name>, <string-name>
+<given-names>V. L.</given-names>
+<surname>Chevrier</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source>Comput. Mater. Sci.</source>
+<year>2013</year>, <volume>68</volume>, <fpage>314</fpage>.</mixed-citation></ref><ref id="advs306-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="advs306-cit-0078">
+<string-name>
+<given-names>G.</given-names>
+<surname>Nazri</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>1989</year>, <volume>34</volume>, <fpage>97</fpage>.</mixed-citation></ref></ref-list></back></article>

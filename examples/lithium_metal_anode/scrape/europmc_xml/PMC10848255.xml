@@ -1,0 +1,619 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem C Nanomater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem C Nanomater Interfaces</journal-id><journal-id journal-id-type="publisher-id">jy</journal-id><journal-id journal-id-type="coden">jpccck</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry. C, Nanomaterials and Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1932-7447</issn><issn pub-type="epub">1932-7455</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">10848255</article-id><article-id pub-id-type="doi">10.1021/acs.jpcc.2c07838</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Inorganic Solid
+Electrolyte Interphase Engineering
+Rationales Inspired by Hexafluorophosphate Decomposition Mechanisms</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4787-7331</contrib-id><name><surname>Kuai</surname><given-names>Dacheng</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2358-3910</contrib-id><name><surname>Balbuena</surname><given-names>Perla B.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemical Engineering, <institution>Texas A&#x00026;M University</institution>, College Station, Texas 77843, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Chemistry, <institution>Texas A&#x00026;M University</institution>, College Station, Texas 77843, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Materials Science and Engineering, <institution>Texas
+A&#x00026;M University</institution>, College Station, Texas 77843, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>balbuena@tamu.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>01</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>02</day><month>02</month><year>2023</year></pub-date><volume>127</volume><issue>4</issue><fpage>1744</fpage><lpage>1751</lpage><history><date date-type="received"><day>07</day><month>11</month><year>2022</year></date><date date-type="rev-recd"><day>30</day><month>12</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2023 American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp2c07838_0006" id="ab-tgr1"/></p><p>Solid electrolyte interphase (SEI) engineering is an
+efficient
+approach to enhancing the cycling performance of lithium metal batteries.
+Lithium hexafluorophosphate (LiPF<sub>6</sub>) is a popular electrolyte
+salt. Mechanistic insights into its degradation pathways near the
+lithium metal anode are critical in modifying the battery electrolyte
+and SEI. In this work, we elucidate plausible reaction pathways in
+multiple representative electrolyte systems. Through ab initio molecular
+dynamics simulations, lithiation and electron transfer are identified
+as the triggering factors for LiPF<sub>6</sub> degradation. Meanwhile,
+we find that lithium morphology and charge distribution substantially
+impact the interfacial dissociation pathways. Thermodynamic evaluation
+of the solvation effects shows that higher electrolyte dielectric
+constant and lithiation extent profoundly assist the LiPF<sub>6</sub> decomposition. These findings offer quantitative thermodynamic and
+electronic structure information, which promotes rational SEI engineering
+and electrolyte tuning for lithium metal anode performance enhancement.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>U.S. Department of Energy</institution><institution-id institution-id-type="doi">10.13039/100000015</institution-id></institution-wrap></funding-source><award-id>DE-AC02-05CH11357</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jp2c07838</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jp2c07838</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Current commercially available lithium-ion
+batteries are approaching
+their theoretical limits, while the electronics market still urges
+further energy capacity extension.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> The
+lithium metal battery (LMB) is a promising technical route for next-generation
+energy storage devices.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> The cycling efficiency
+and safety risk control on the battery anode are the primary technical
+obstacles that hinder LMB commercialization.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Solid electrolyte interphase (SEI) formed on the anode surface regulates
+Li<sup>+</sup> ion migration and deposition, which is critical in
+minimizing lithium dendrite and whisker formation.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Therefore, the battery&#x02019;s electrochemical performance
+is tightly bonded with SEI morphology and composition.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup></p><p>Fluorination has been suggested as an efficient strategy
+in battery
+electrolytes and SEI engineering.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> The
+fluorine-containing electrolyte components, such as LiPF<sub>6</sub>, lithium bis(fluorosulfonyl)imide (LiFSI), and fluoroethylene carbonate
+(FEC), experience decomposition and yield lithium fluoride nanoparticles
+in SEI. However, the SEI internal structures are notoriously complex
+to resolve due to their fragility and chemical reactiveness.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> So far, only limited while expensive techniques
+such as cryo-electron microscopy are able to precisely probe the spatial
+distributions of SEI nanostructures, where battery disassembly is
+mandatory.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> In addition, the electrolyte
+species also alter the solvation environment, which profoundly impacts
+the thermochemistry and kinetics of SEI formation reactions.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> Aside from the designing principles based on empirical concepts,
+theoretical approaches are expected to envision the electrolyte&#x02013;electrode
+interfacial chemistry and ion transport mechanisms.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> Hereby, we study the reactions resulting in prevalent
+inorganic components in SEI from LiPF<sub>6</sub>-based electrolytes.
+The quantitative understanding of the reaction thermodynamics may
+enable future multiscale simulations of the SEI formation processes.</p><p>It is inherently challenging to characterize the electrode&#x02013;electrolyte
+interfacial chemistry at the nanoscale.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> The SEI grows in such a highly reductive and salty environment.
+Despite limited experimental data available to precisely elucidate
+the SEI composition and formation mechanisms, many proposals depict
+plausible scenarios in generating SEI of LMB.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> Hexafluorophosphate
+degradation is recognized as the primary contributor to the LiF in
+SEI based on this electrolyte chemistry, while few reports denote
+the destination of phosphorus. A trace amount of moisture in battery
+electrolyte can cause hydrolysis of PF<sub>6</sub><sup>&#x02013;</sup>, yielding POF<sub>3</sub> and its derivatives as detected in spectroscopic
+analysis.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> Further information regarding the direct
+PF<sub>6</sub><sup>&#x02013;</sup> decomposition and reduction without
+water participation is less reported in the experimental work. The
+characterization of interfacial chemistry is particularly challenging
+in accessing delicate nanoscale surfaces.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> First principles simulation is compelling in predicting the molecular
+behavior at the metal&#x02013;liquid interface, which is fragile to
+atmospheric interruptions.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Ab initio
+molecular dynamics (AIMD) successfully predicts the stabilities and
+reductive dissociation of electrolyte solvents near metallic surfaces.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup></p><p>The LiPF<sub>6</sub> degradation chemistry near the anode
+shows
+unique features. The phosphorous element usually demonstrates a singlet
+electronic state in stable compounds. However, some reported atomic
+charge analysis on the AIMD simulation shows that this rule may not
+apply to all cases in the LiPF<sub>6</sub> decomposition near lithium
+battery anode surfaces. Martinez de la Hoz et al. identified the plausible
+oxidation state pathway on the silicone anode surface, where the equilibrium
+charge state of phosphorous was identified to be &#x02212;1.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> A fully reduced phosphorous reduction product
+was found in the lithium metal case.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Both
+these scenarios require continuous electron uptake.</p><p>Ether-based
+electrolytes are mainly composed of dimethoxyethane
+(DME) and 1,3-dioxolane (DOL), with moderate dielectric constants
+(&#x003b5;) varying from 4 to 10.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> High
+salt concentration is mandatory in maintaining the integrity of ether
+solvents in high voltages, despite their compatibility with lithium
+metal.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> The commonly used carbonate solvents, including
+ethylene carbonate (EC), propylene carbonate (PC), and vinylene carbonate
+(VC), create a solvation environment with much higher dielectric constants
+and unique solvation structures.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> In the
+electrolyte environment with a positive dielectric constant, the direct
+electron tunneling probability decays exponentially with respect to
+particle&#x02013;metal-surface distance. Consequently, electron-induced
+reactions usually occur via complex charge transport mechanisms that
+manipulate the corresponding redox reaction rate.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> The ion&#x02013;solvent interactions are one of the most
+important factors in bottom-up LMB development.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> The beginning stages of phase separation and ionic nucleation
+in forming SEI have been reported in previous molecular dynamics (MD)
+and AIMD studies.<sup><xref ref-type="bibr" rid="ref27">27</xref>&#x02212;<xref ref-type="bibr" rid="ref29">29</xref></sup> A longer simulation time scale may compensate for
+this issue by implementing high-quality ab initio thermodynamic information
+in kinetic Monte Carlo (kMC) simulations.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> Beyond elucidating the underlying chemical processes, we aim to
+contribute toward data-driven LMB electrolyte and SEI engineering
+from the electrolyte solvation and anode morphology perspectives.</p></sec><sec id="sec2"><title>Computational Methods</title><p>After creating a vacuum slab
+on top of the Li metal crystal surface
+structure, the initial configurations for AIMD were obtained by packing
+the geometry-optimized structures of electrolyte species in the vacuum
+space based on the Amorphous Cell Packing module in Materials Studio
+v8. In the selected configuration, relative positions of hexafluorophosphate
+particles were verified to include both the following conditions:
+(1) close contact to the Li metal surface and (2) dissolved in electrolyte
+while the mass center is at least 5 &#x000c5; away from the lithium surface.
+The molar ratios of each species and the system density were further
+assessed to be consistent with the experimental macroscopic properties.
+The AIMD simulations were performed via VASP 5.4.4.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The Perdew&#x02013;Burke&#x02013;Ernzerhof (PBE) functional
+was used to describe the electron exchange and correlation energies
+within the generalized gradient approximation (GGA).<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Electron&#x02013;ion interactions were considered within
+the projector augmented wave (PAW) pseudopotentials.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> The plane waves were extended to a cutoff energy of 520 eV. The
+simulations were based on an NVT ensemble at 300 K with 1-fs time
+step. DFT-D3 method of Grimme with the zero-damping function was implemented
+to correct van der Waals interaction terms.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> The atomic Bader charges were analyzed based on the grid-based method
+developed by Henkelman et al.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup></p><p>Molecular
+modeling was primarily conducted on the Gaussian16 package.
+All intermediate structures were optimized to their local minimum
+without imaginary vibration mode, and the corresponding free energy
+values were converted to the standard state of 1 M. M06-2X/aug-cc-pVDZ
+level of theory was employed based on the benchmark results previously
+reported by Han et al.<sup><xref ref-type="bibr" rid="ref37">37</xref>&#x02212;<xref ref-type="bibr" rid="ref39">39</xref></sup> Solvation effects were evaluated based on the implicit
+solvation model based on density (SMD).<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> Empirical dispersion interactions were introduced in calculations.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup></p></sec><sec id="sec3"><title>Results and Discussion</title><p>We initially estimate the degradation
+energetics of LiPF<sub>6</sub> with different spin states at the molecular
+level, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Table S1</ext-link> in SI. The
+only free energy barrier
+exists at the first P&#x02013;F cleavage process. However, the real
+SEI formation environment is much more complex than this simple model.
+As an example of the complexity of interfacial reactions, it has been
+reported that the solvent&#x02013;reactant interactions at the air&#x02013;liquid
+interface can profoundly alter the reaction thermodynamic profile,
+and such impact varies under different dielectric environments.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Similarly, many factors, including metal&#x02013;electrolyte
+interfacial effects, solvation effects, charge transport, and lithium
+coordination, contribute to the LiPF<sub>6</sub> degradation reactions.
+Here, we apply AIMD simulations to elucidate the interfacial decomposition
+reactions and further quantitatively evaluate the key conditions at
+the molecular level.</p><sec id="sec3.1"><title>Lithiation and Electron-Tunneling-Induced Salt Degradation</title><p>We perform AIMD simulations to reveal the ultrafast decomposition
+of LiPF<sub>6</sub> in different electrolyte systems. The initial
+configuration contained PF<sub>6</sub><sup>&#x02013;</sup> structures
+with different lithium coordination degrees and distances to the lithium
+metal surface. The time scale required for salt degradation varies
+in different solvation environments. In the cyclic carbonate-solvated
+system (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>),
+the PF<sub>6</sub><sup>&#x02013;</sup> structures close to the lithium
+metal surface easily decompose within 2 ps of simulation time. Following
+such an event, the EC and VC structures disintegrate into carbonyl/carbon
+monoxide and ethylene di-carbonate (EDC). The solvent degradation
+pathways have been investigated in many systematic works.<sup><xref ref-type="bibr" rid="ref42">42</xref>&#x02212;<xref ref-type="bibr" rid="ref45">45</xref></sup> In addition to the complete degradation at the electrolyte&#x02013;metal
+interface, we also observe the partial dissociation phenomenon of
+[Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> complex, which is located
+15 &#x000c5; from the lithium metal surface and 8 &#x000c5; from the top
+periodic boundary of the <italic>x</italic>&#x02013;<italic>y</italic> plane in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> (blue-circled). Such a process is reproducible in other solvent
+systems, such as DME-DOL. The rearranged structure resembles a seesaw-shaped
+PF<sub>4</sub> coordinated with a rhombic Li<sub>2</sub>F<sub>2</sub> complex. Throughout the P&#x02013;F cleavage and rearrangement processes,
+chronological Bader charge analysis (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figure S1</ext-link> for details) indicates no charge variation occurring on
+neighbor electrolyte species or He; only Li and PF<sub>6</sub> clusters
+are involved in the charge transport without direct contact. Therefore,
+we suggest that such charge transfer-driven partial decomposition
+may be caused by electron tunneling from lithium metal to the dual-lithiated
+cation.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>AIMD simulation of LiPF<sub>6</sub> decomposition on and near lithium
+metal surface. The initial electrolyte configuration is composed of
+3 Li<sup>+</sup>, 3 PF<sub>6</sub><sup>&#x02013;</sup>, 18 EC, and
+1 VC structures, with a density of 1.3 g/mL. The coordinates of the
+top-layer He atoms (dark gray) are fixed to refrain electrolyte molecular
+movement from contacting the lithium layer repeated in the <italic>z</italic>-direction due to periodic boundary conditions. Some cluster
+structures are rotated for a clear perspective. Color scheme: He (gray
+ball); C (gray dash); H (white dash); O (red dash); Li (purple ball);
+P (tan ball); F (cyan ball).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp2c07838_0002" id="gr1" position="float"/></fig><p>Moreover, such partial dissociation highly depends
+on the dual-lithium
+coordination to hexafluorophosphate and on the cluster charge state.
+Specifically, in the comparable configuration without extra &#x0201c;free&#x0201d;
+Li<sup>+</sup> available in the neighboring region of LiPF<sub>6</sub> or PF<sub>6</sub><sup>&#x02013;</sup>, the partial dissociation does
+not occur in the corresponding AIMD simulations. With dual lithiation,
+the P&#x02013;F cleavage ceases after the [Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> cluster receives an electron from Li metal and becomes
+negatively charged. We also compute Li<sup>+</sup> affinity energetics
+of different electrolyte species (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figure S2</ext-link>) and find that the lithiation free energies for the formation of
+[Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> and [solvent-Li]<sup>+</sup> adduct are close to each other. Therefore, the population ratio
+of [Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> cluster is equivalent
+to that of the solvated Li<sup>+</sup> in concentrated electrolytes.
+The [Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> partial decomposition
+depicted above should be a non-negligible event during LMB fabrication.</p><p>We further analyze the Li-coordination&#x02019;s impacts on the
+electronic structure of [PF<sub>6</sub>]<italic><sup>x</sup></italic> species. Previous studies have shown that lithiation reconstructs
+common electrolyte solvent molecules&#x02019; HOMO and LUMO structures.<sup><xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> As suggested in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,b, P&#x02013;F bonding has strong covalency in PF<sub>6</sub><sup>&#x02013;</sup> anion and neutral LiPF<sub>6</sub> molecule,
+while the bond length is slightly extended due to the lithium coordination.
+When two lithium atoms are coordinated, some particular P&#x02013;F
+bonds demonstrate ionic properties, as the electronic Laplacian planar
+plot indicates. The P&#x02013;F distance (dashed bonds in 2d and 2e)
+also extends from 1.7 to 2.0 &#x000c5;. Meanwhile, it is interesting
+to notice that the Li&#x02013;P interaction shows positive Laplacian
+in the anionic cluster, suggesting covalent interactions between Li
+and P atoms, unlike the ionic Li&#x02013;F cases. Therefore, high-level
+lithiation destabilizes the electronic configuration in [PF<sub>6</sub>]<italic><sup>x</sup></italic> structure.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Geometry (left), electron
+density (middle), and electronic Laplacian
+(right) analysis of Li<sub>2</sub>PF<sub>6</sub> clusters, including
+the optimized geometries of [PF<sub>6</sub>]<sup>&#x02212;</sup> (a)
+LiPF<sub>6</sub> (b), [Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> (c),
+as well as the [Li<sub>2</sub>PF<sub>6</sub>]<sup>&#x02212;</sup> structures
+(d, e) retrieved from AIMD simulations.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> All of the electronic structure figures are plotted based on the
+planes determined by labeled atoms. Atomic color coding in structural
+geometries is identical to <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. The rainbow color scale is labeled on the left (electron
+density) and right (Laplacian) sides of each diagram, where red indicates
+positive, and blue indicates zero/negative values.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp2c07838_0003" id="gr2" position="float"/></fig><p>The semi-equilibrium geometry of [Li<sub>2</sub>PF<sub>6</sub>]<italic><sup>x</sup></italic> cluster, as described
+in <xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref> and <xref rid="fig2" ref-type="fig">2</xref>, is reproducible
+in AIMD simulations of both electrolyte systems of cyclic carbonate
+and ether solvents and is able to maintain its integrity within the
+feasible simulation time range (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figures S1 and S3</ext-link> for additional details). Based on Mulliken charge analysis
+of the two anionic [Li<sub>2</sub>PF<sub>6</sub>]<sup>&#x02212;</sup> structures, the partial charges of Li<sub>2</sub>F<sub>2</sub> moieties
+are generally neutral while the rest of the PF<sub>4</sub> substructures
+occupy most of the negative charge density (&#x02212;0.83 and &#x02212;0.87,
+respectively). Current computing power limits AIMD from probing the
+final chemical forms of the partially dissociated [Li<sub>2</sub>PF<sub>6</sub>]<italic><sup>x</sup></italic> cluster. Over a longer time
+scale, such species may either (a) join undissociated PF<sub>6</sub><sup>&#x02013;</sup> anions and serve as ionic carriers in liquid
+electrolyte or (b) further decompose and become part of SEI. The close&#x02013;shell
+[PF<sub>4</sub>]<sup>&#x02212;</sup> anion generated from Li1-F3 cleavage
+has a smaller diameter than the unreacted [PF<sub>6</sub>]<sup>&#x02212;</sup> and is thus expected to have a higher diffusion coefficient. From
+the battery electrolyte and SEI engineering perspective, the PF<sub>6</sub><sup>&#x02013;</sup> partial degradation near the anode material
+can lead to electrolyte ionic conductivity properties that differentiate
+from the direct measurement of pure LiPF<sub>6</sub> solution. Meanwhile,
+the electrolyte dielectric constant not only impacts the solvation
+of ionic species but also influences the electron transport rate from
+the metallic surface, determining the quantities of corresponding
+products.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> For instance, it requires less than 1 ps
+in ether electrolytes (lower &#x003b5;) to obtain the metastable [Li<sub>2</sub>PF<sub>6</sub>]<sup>&#x02212;</sup> structure, while the equivalent
+process takes more than 2 ps in the carbonate system (higher &#x003b5;).
+The Bader charge analysis of both systems (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figure S5</ext-link>) further confirms that such reductive dissociation results
+in significant charge variations on the lithium metal surface. Therefore,
+future LMB development could also benefit from the real-time analysis
+of electrolyte composition in working conditions.</p></sec><sec id="sec3.2"><title>Lithium Metal Surface Morphology</title><p>The lithium surface
+facet was found to be contributive to the electrolyte carbonate solvent
+defluorination thermodynamic pathways.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> The surface Li&#x02013;Li distances vary from 3.51 &#x000c5; (100),
+3.04 &#x000c5; (110), to 4.96 &#x000c5; (111), depending on the facets.
+The degradation energy profile of LiPF<sub>6</sub> also shows a significant
+mechanistic correlation with the regional metal surface structure.</p><p>We perform AIMD simulations on hexafluorophosphate species with
+different initial lithiation statuses. Background charge of opposite
+sign is applied to PF<sub>6</sub><sup>&#x02013;</sup>-containing slabs
+(a) and (b) as no counter ion is included. Bader charge analysis of
+the initial configurations shows that the PF<sub>6</sub> clusters
+in both cases have &#x02212;1.1 e equivalent charges, while lithium
+atoms representing bulk structures are generally neutral. Comparing <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a&#x02013;c,b&#x02013;d,
+charge-neutral LiPF<sub>6</sub> demonstrates faster interfacial adsorption
+and dissociation than PF<sub>6</sub><sup>&#x02013;</sup> anion in equivalent
+Li facets. Mulliken charge analysis shows that lithium coordination
+&#x0201c;pushes&#x0201d; electron density to the fluorine atoms on the
+opposite side. In other words, the bare fluorine atoms are more electronegative
+than the Li-coordinated ones in a hexafluorophosphate cluster. The
+uneven internal charge distribution of LiPF<sub>6</sub> is mainly
+responsible for the increased degradation rate.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Energy profile of the
+hexafluorophosphate dissociation on different
+lithium metal facets retrieved from AIMD simulations. Important events
+are labeled with (a), (b), (c), and (d). The background charge of
+configurations (a) and (b) are both &#x02212;1 e, while panels (c)
+and (d) are neutral. Atomic color coding is consistent with <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp2c07838_0004" id="gr3" position="float"/></fig><p>Based on the time required to reach comparable
+equilibrium, the
+hexafluorophosphate dissociation on Li(110) is slightly faster than
+that on Li(100), which has longer Li&#x02013;Li distances. The first
+significant energy relaxation is a consequence of the hexafluorophosphate
+adsorption to the metal interface. Anionic hexafluorophosphate species
+can form more than four binding sites with the lithium metal surfaces
+before dissociation. When PF<sub>6</sub><sup>&#x02013;</sup> approaches
+the Li(100) surface, five F atoms simultaneously coordinate with neighboring
+Li atoms in 1 ps. PF<sub>6</sub><sup>&#x02013;</sup> maintains its
+geometric integrity longer until adsorbing to the Li(110) facet after
+approximately 3.5 ps. Comparatively, the charge-neutral LiPF<sub>6</sub> allows three fluorine atoms to bind with interfacial Li atoms upon
+adsorption. Thus, given the impact of salt concentration and solvent
+chemistry on the electrolyte structure at the Li metal/electrolyte
+interface, we expect that the observed significant chemical difference
+in the interactions of the anion with the surface highlighted here
+would influence the SEI properties derived from each electrolyte.</p><p>The differences in adsorption patterns result in the facet-dependency
+of fluorophosphate decomposition pathways. In Li(100) configurations,
+anionic PF<sub>6</sub><sup>&#x02013;</sup> experiences one-by-one sequential
+P&#x02013;F bond cleavages (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a), while two fluorine atoms simultaneously cleave
+from the LiPF<sub>6</sub> structure (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c). A similar two-atom dissociation happens
+to PF<sub>6</sub><sup>&#x02013;</sup> on Li(110) (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b), while three fluoride anions
+leave the phosphorous center of LiPF<sub>6</sub> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d). It is worth noting that
+at least two Li atoms are coordinated with the dissociated F atom
+in all of the dissociation events.</p><p>Based on our findings, anode
+metal surface modifications could
+be a rational strategy in SEI engineering. The Li&#x02013;Li distances
+and surface charge distributions profoundly influence the SEI growing
+rate. Therefore, delicate modifications, including doping and chemical
+pretreatment, may tune the SEI to ideal structures and functional
+performance.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup></p><p>Combined with the
+electronic structure evidence in the <xref rid="sec1" ref-type="other">Introduction</xref> section, we can conclude that hexafluorophosphate
+degradation requires multiple (at least three) lithium coordinations
+to fluorine atoms. The semi-covalent Li&#x02013;P interaction destabilizes
+P&#x02013;F bonds and induces further charge transfer from nearby electron-rich
+lithium atoms. The accumulated negative charges further result in
+P&#x02013;F bond cleavages. We compute the energy profile at the molecular
+level to quantitatively evaluate the impacts of lithiation and solvation
+in the decomposition pathway.</p></sec><sec id="sec3.3"><title>Hexafluorophosphate Degradation Pathway and Solvation&#x02019;s
+Role in Thermodynamic Profiles</title><p>To further understand the
+LiPF<sub>6</sub> decomposition reaction mechanism in the electrolyte,
+we investigate the energy profiles in different solvation systems.
+The Bader charge analysis of key time points in hexafluorophosphate
+degradation AIMD (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figures S3&#x02013;S4</ext-link> in
+the Supporting Information) demonstrates two necessary steps for P&#x02013;F
+bond cleavages: (1) lithium coordination; (2) [PF<italic><sub>x</sub></italic>]<sup><italic>y</italic>&#x02212;</sup> cluster receives
+external electron(s). Based on these criteria, we propose a plausible
+reaction mechanism that includes electron uptake followed by P&#x02013;F
+bond cleavage. We also investigate the lithium bonding&#x02019;s thermodynamic
+role in such processes. In addition to the implicit SMD model, which
+mimics the DME-DOL electrolyte (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>), we also obtain the free energy surface of the identical
+reaction pathway in higher dielectric constant and in gas-phase conditions
+shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figures S3</ext-link> in the SI. Such a thermodynamic
+analysis of the primary SEI fluorination reaction in different solvation
+environments benefits a quantitative understanding of the reaction
+pathway and promotes rational electrolyte tuning in future work.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Free energy
+profile of LiPF<sub>6</sub> degradation computed in
+SMD (&#x003b5; = 7.4). The red, purple, blue, and gray curves stand
+for nonlithiated, mono-lithiated, bi-lithiated, and tri-lithiated
+species, respectively. The relative free energies are labeled in kcal/mol,
+so are the enthalpy values in parenthesis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp2c07838_0005" id="gr4" position="float"/></fig><p>To model the complex solution&#x02013;metal interfacial
+reactions,
+the relative energetics of each species are calculated with respect
+to LiPF<sub>6</sub>, Li<sup>+</sup>, Li(0), and F<sup>&#x02013;</sup> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). This
+method provides rich information in understanding the stepwise energy
+barriers while being conservative in evaluating the exergonicity and
+exothermicity, especially when the generated particles embed into
+the solid surface. The largest free energy uphill is found at the
+electron-receiving step in forming the closed-shell PF<sub>4</sub> structures. Lithiation does not show any thermodynamic assistance
+in this step, while the thermochemistry is particularly favorable
+in the later reaction stages when more lithium cations bind with the
+intermediates. This is consistent with the AIMD finding that the dissociation
+progress is significantly faster after two P&#x02013;F bonds are cleaved. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> shows that the nonlithiated
+pathway is unfeasible in the medium-dielectric environment, and the
+singly lithiated one is reluctant to proceed. The thermochemistry
+is generally favorable when at least two lithium atoms are coordinated.
+Therefore, the lithiation of [PF<italic><sub>x</sub></italic>]<sup><italic>y</italic>&#x02212;</sup> intermediate induces charge transfer
+and plays an assistive role in P&#x02013;F bond breaking.</p><p>We
+find that the transition states for P&#x02013;F cleavages do
+not form significant thermodynamic obstacles; the electron uptake
+steps hinder the degradation instead. Note that compared with free
+energy, the enthalpy change in each stage is generally more positive/less
+negative, indicating that the dissociation progress is primarily entropy-driven.
+When the decomposition finishes and the initial SEI layer forms, the
+entropy reaches a local maximum. Besides the energy increase in generating
+the corresponding open-shell [PF<italic><sub>x</sub></italic>]<sup><italic>y</italic>&#x02212;</sup> structures, charge transfer would
+be more sophisticated after the metallic surface is passivated.</p><p>We also assess solvation effects&#x02019; role in hexafluorophosphate
+degradation. In the gas phase, where the dielectric constant is zero,
+the reaction shows a clear increasing trend in the free energy surface
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figure S6a</ext-link>). Such a pattern is completely
+inverted in high-dielectric-constant solvation conditions. As shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">Figure S6c</ext-link>, with a solvation environment
+comparable to the EC&#x02013;VC electrolyte, the energy barrier for
+generating PF<sub>4</sub> is significantly lower than that in DME-DOL.
+In addition, the following P&#x02013;F dissociation steps are thermodynamically
+favorable in all of the lithiation conditions. The free energy uphill
+of all steps after generating the low-spin PF<sub>4</sub> species
+is significantly lower than the corresponding medium-dielectric scenario.</p><p>The solvation effects play two significant roles in the initial
+layer formation reactions of SEI. One is hindering direct electron
+tunneling between lithiated hexafluorophosphate species and lithium
+metal, and the other is creating a stabilizing solvation shell for
+intermediates in salt degradation. Thus, both the ionic conductivities
+and viscosity are altered together with the SEI formation kinetics
+and morphology when tuning the LMB liquid electrolyte. In the meantime,
+because the dissociation reaction rates are strongly correlated with
+the dielectric environment, people may rationally design the reagents
+for artificial SEI construction to control the ratios and distributions
+of different SEI components based on the criteria we present in this
+work.</p></sec></sec><sec id="sec4"><title>Conclusions</title><p>This work showcases the complex chemical
+interactions among LiPF<sub>6</sub>, electrolyte solvent, and lithium
+metal. The hexafluorophosphate
+structures that directly contact the Li metal surface easily experience
+further lithiation at the electrolyte&#x02013;lithium&#x02013;metal
+interface, where electrons are available for further reduction. The
+early-stage pathways and reaction rates of such interfacial dissociations
+are dependent on the regional lithium metal morphology. According
+to the continuum modeling, strong solvation effects and high lithiation
+degrees are assistive toward the decomposition thermochemistry. Energy
+barriers are flatter in a higher dielectric environment. In the solution
+phase, the electrolyte-dissolved hexafluorophosphate species is partially
+protected from complete degradation by limited lithiation and charge-transfer
+rates. Nonetheless, the dual-lithiated species [Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> can still be incompletely reduced via electron
+tunneling without being adsorbed to the lithium surface. This partial
+decomposition is caused by elevated ionicity and destabilized electronic
+configurations of P&#x02013;F bonding properties in the reduced and
+multilithiated structures.</p><p>The interfacial LiPF<sub>6</sub> degradation
+rate is associated
+with the porosity and density of the SEI initial layer. Techniques,
+including the surface modification for Li(110) facet exposure and
+pretreatments using high-dielectric LiPF<sub>6</sub>-containing solutions,
+would benefit the formation of a dense LiF layer on lithium metal.
+The detailed mechanistic and thermodynamic information can be incorporated
+into coarse-grained kMC simulations for the understanding of SEI evolution
+processes on a larger time and length scale.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.jpcc.2c07838?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.jpcc.2c07838</ext-link>.<list id="silist" list-type="simple"><list-item><p>Details of charge distribution, atomic coordinates,
+energetics, etc. are available in the docx file. This information
+includes a stepwise free energy table for LiPF<sub>6</sub> dissociation;
+chronological Bader charge analysis of the electron-tunneling-induced
+[Li<sub>2</sub>PF<sub>6</sub>]<sup>+</sup> partial dissociation; lithium
+cation affinity energetics; Bader charge analysis of key AIMD frames
+of DME-DOL-solvated system; chronological Bader charge analysis of
+[LiPF<sub>6</sub>] and [PF<sub>6</sub>]<sup>&#x02212;</sup> interfacial
+degradations; significant events in forming metastable [Li<sub>2</sub>PF<sub>6</sub>]<sup>&#x02212;</sup> structures in EC&#x02013;VC and
+DME-DOL electrolytes; free energy profiles of LiPF6 decomposition
+in different implicit solvation environments; detailed energetics
+of species involved in LiPF6 decomposition pathways; and Cartesian
+coordinates of important structures (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpcc.2c07838/suppl_file/jp2c07838_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp2c07838_si_001.pdf"><caption><p>jp2c07838_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-2"><title>Author Contributions</title><p>The manuscript
+was written through contributions of all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="funding-statement" id="notes-3"><p>US Department
+of Energy Contract DE-AC02-05CH11357.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e771-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors
+acknowledge the Assistant Secretary for Energy
+Efficiency and Renewable Energy, Office of Vehicle Technologies of
+the US Department of Energy, through the US-Germany Cooperation on
+Energy Storage under Contract DE-AC02-05CH11357. Computational resources
+from the Texas A&#x00026;M University High Performance Research Computing
+are gratefully acknowledged. The valuable discussions with Dr. Ulrike
+Krewer and Janika Wagner are appreciated.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>SEI</term><def><p>solid
+electrolyte interphase</p></def></def-item><def-item><term>LiPF<sub>6</sub></term><def><p>lithium
+hexafluorophosphate</p></def></def-item><def-item><term>LMB</term><def><p>lithium metal battery</p></def></def-item><def-item><term>LiFSI</term><def><p>bis(fluorosulfonyl)imide</p></def></def-item><def-item><term>FEC</term><def><p>fluoroethylene carbonate</p></def></def-item><def-item><term>AIMD</term><def><p>ab initio molecular dynamics</p></def></def-item><def-item><term>DME</term><def><p>dimethoxyethane</p></def></def-item><def-item><term>DOL</term><def><p>1,3-dioxolane</p></def></def-item><def-item><term>&#x003b5;</term><def><p>dielectric
+constants</p></def></def-item><def-item><term>EC</term><def><p>ethylene
+carbonate</p></def></def-item><def-item><term>PC</term><def><p>propylene
+carbonate</p></def></def-item><def-item><term>VC</term><def><p>vinylene
+carbonate</p></def></def-item><def-item><term>MD</term><def><p>molecular
+dynamics</p></def></def-item><def-item><term>kMC</term><def><p>kinetic
+Monte Carlo</p></def></def-item><def-item><term>EDC</term><def><p>ethylene di-carbonate</p></def></def-item><def-item><term>SMD</term><def><p>solvation model based on density</p></def></def-item><def-item><term>PBE</term><def><p>Perdew&#x02013;Burke&#x02013;Ernzerhof</p></def></def-item><def-item><term>GGA</term><def><p>generalized gradient
+approximation</p></def></def-item><def-item><term>PAW</term><def><p>projector augmented wave</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>Promise and Reality of Post-Lithium-Ion Batteries with
+High Energy Densities</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16013</elocation-id><pub-id pub-id-type="doi">10.1038/natrevmats.2016.13</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Kong</surname><given-names>X.</given-names></name>; <name><surname>Kim</surname><given-names>S. C.</given-names></name>; <name><surname>Boyle</surname><given-names>D. T.</given-names></name>; <name><surname>Qin</surname><given-names>J.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Liquid Electrolyte: The Nexus of Practical Lithium
+Metal Batteries</article-title>. <source>Joule</source>
+<year>2022</year>, <volume>6</volume>, <fpage>588</fpage>&#x02013;<lpage>616</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2021.12.018</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Bresser</surname><given-names>D.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>; et al. <article-title>The Passivity of Lithium
+Electrodes in Liquid Electrolytes for Secondary Batteries</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2021</year>, <volume>6</volume>, <fpage>1036</fpage>&#x02013;<lpage>1052</lpage>. <pub-id pub-id-type="doi">10.1038/s41578-021-00345-5</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Jang</surname><given-names>E. K.</given-names></name>; <name><surname>Ahn</surname><given-names>J.</given-names></name>; <name><surname>Yoon</surname><given-names>S.</given-names></name>; <name><surname>Cho</surname><given-names>K. Y.</given-names></name>
+<article-title>High Dielectric, Robust Composite
+Protective Layer for Dendrite-Free and Lipf6 Degradation-Free Lithium
+Metal Anode</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <elocation-id>1905078</elocation-id><pub-id pub-id-type="doi">10.1002/adfm.201905078</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Peled</surname><given-names>E.</given-names></name>; <name><surname>Menkin</surname><given-names>S.</given-names></name>
+<article-title>Review&#x02014;SEI: Past, Present and Future</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume>, <fpage>A1703</fpage>&#x02013;<lpage>A1719</lpage>. <pub-id pub-id-type="doi">10.1149/2.1441707jes</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Rudnicki</surname><given-names>P. E.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; et al. <article-title>Rational Solvent Molecule
+Tuning for High-Performance Lithium Metal Battery Electrolytes</article-title>. <source>Nat. Energy</source>
+<year>2022</year>, <volume>7</volume>, <fpage>94</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-021-00962-y</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Pei</surname><given-names>A.</given-names></name>; et al. <article-title>Atomic Structure of Sensitive Battery Materials
+and Interfaces Revealed by Cryo-Electron Microscopy</article-title>. <source>Science</source>
+<year>2017</year>, <volume>358</volume>, <fpage>506</fpage>&#x02013;<lpage>510</lpage>. <pub-id pub-id-type="doi">10.1126/science.aam6014</pub-id>.<pub-id pub-id-type="pmid">29074771</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Viswanathan</surname><given-names>V.</given-names></name>
+<article-title>Not All Fluorination
+Is the Same: Unique Effects of
+Fluorine Functionalization of Ethylene Carbonate for Tuning Solid-Electrolyte
+Interphase in Li Metal Batteries</article-title>. <source>Langmuir</source>
+<year>2020</year>, <volume>36</volume>, <fpage>11450</fpage>&#x02013;<lpage>11466</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.0c01652</pub-id>.<pub-id pub-id-type="pmid">32914986</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Hobold</surname><given-names>G. M.</given-names></name>; <name><surname>Lopez</surname><given-names>J.</given-names></name>; <name><surname>Guo</surname><given-names>R.</given-names></name>; <name><surname>Minafra</surname><given-names>N.</given-names></name>; <name><surname>Banerjee</surname><given-names>A.</given-names></name>; <name><surname>Shirley Meng</surname><given-names>Y.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>; <name><surname>Gallant</surname><given-names>B. M.</given-names></name>
+<article-title>Moving Beyond 99.9%
+Coulombic Efficiency for Lithium Anodes in Liquid Electrolytes</article-title>. <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>951</fpage>&#x02013;<lpage>960</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-021-00910-w</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Tarascon</surname><given-names>J. M.</given-names></name>; <name><surname>Armand</surname><given-names>M.</given-names></name>
+<article-title>Issues and Challenges
+Facing Rechargeable Lithium Batteries</article-title>. <source>Nature</source>
+<year>2001</year>, <volume>414</volume>, <fpage>359</fpage>&#x02013;<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1038/35104644</pub-id>.<pub-id pub-id-type="pmid">11713543</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Kuai</surname><given-names>D.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Solvent Degradation and Polymerization in the Li-Metal
+Battery: Organic-Phase Formation in Solid-Electrolyte Interphases</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2022</year>, <volume>14</volume>, <fpage>2817</fpage>&#x02013;<lpage>2824</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c20487</pub-id>.<pub-id pub-id-type="pmid">34994191</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Shi</surname><given-names>S.</given-names></name>; <name><surname>Lu</surname><given-names>P.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Qi</surname><given-names>Y.</given-names></name>; <name><surname>Hector</surname><given-names>L. G.</given-names><suffix>Jr.</suffix></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Harris</surname><given-names>S. J.</given-names></name>
+<article-title>Direct Calculation of Li-Ion Transport
+in the Solid Electrolyte Interphase</article-title>. <source>J. Am.
+Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>15476</fpage>&#x02013;<lpage>15487</lpage>. <pub-id pub-id-type="doi">10.1021/ja305366r</pub-id>.<pub-id pub-id-type="pmid">22909233</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>R.</given-names></name>; et al. <article-title>Capturing the Swelling of Solid-Electrolyte
+Interphase in Lithium Metal Batteries</article-title>. <source>Science</source>
+<year>2022</year>, <volume>375</volume>, <fpage>66</fpage>&#x02013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1126/science.abi8703</pub-id>.<pub-id pub-id-type="pmid">34990230</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Qian</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>S.</given-names></name>; <name><surname>Zou</surname><given-names>X.</given-names></name>; et al. <article-title>How Electrolyte
+Additives Work in Li-Ion Batteries</article-title>. <source>Energy Storage
+Mater.</source>
+<year>2019</year>, <volume>20</volume>, <fpage>208</fpage>&#x02013;<lpage>215</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2018.11.015</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Yu</surname><given-names>Y.</given-names></name>; <name><surname>Karayaylali</surname><given-names>P.</given-names></name>; <name><surname>Katayama</surname><given-names>Y.</given-names></name>; <name><surname>Giordano</surname><given-names>L.</given-names></name>; <name><surname>Gauthier</surname><given-names>M.</given-names></name>; <name><surname>Maglia</surname><given-names>F.</given-names></name>; <name><surname>Jung</surname><given-names>R.</given-names></name>; <name><surname>Lund</surname><given-names>I.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Coupled Lipf6
+Decomposition and Carbonate Dehydrogenation Enhanced by Highly Covalent
+Metal Oxides in High-Energy Li-Ion Batteries</article-title>. <source>J. Phys. Chem. C.</source>
+<year>2018</year>, <volume>122</volume>, <fpage>27368</fpage>&#x02013;<lpage>27382</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.8b07848</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Kuai</surname><given-names>D.</given-names></name>; <name><surname>Cheng</surname><given-names>H.</given-names></name>; <name><surname>Kuan</surname><given-names>K.-Y.</given-names></name>; <name><surname>Yan</surname><given-names>X.</given-names></name>
+<article-title>Accelerated Five-Component
+Spiro-Pyrrolidine Construction at the Air&#x02013;Liquid Interface</article-title>. <source>Chem. Commun.</source>
+<year>2021</year>, <volume>57</volume>, <fpage>3757</fpage>&#x02013;<lpage>3760</lpage>. <pub-id pub-id-type="doi">10.1039/D1CC00574J</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Yao</surname><given-names>N.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Fu</surname><given-names>Z.-H.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Applying Classical,
+Ab Initio, and Machine-Learning Molecular Dynamics Simulations to
+the Liquid Electrolyte for Rechargeable Batteries</article-title>. <source>Chem. Rev.</source>
+<year>2022</year>, <volume>122</volume>, <fpage>10970</fpage>&#x02013;<lpage>11021</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.1c00904</pub-id>.<pub-id pub-id-type="pmid">35576674</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Dhattarwal</surname><given-names>H. S.</given-names></name>; <name><surname>Kuo</surname><given-names>J.-L.</given-names></name>; <name><surname>Kashyap</surname><given-names>H. K.</given-names></name>
+<article-title>Mechanistic
+Insight on the Stability
+of Ether and Fluorinated Ether Solvent-Based Lithium Bis(Fluoromethanesulfonyl)
+Electrolytes near Li Metal Surface</article-title>. <source>J. Phys.
+Chem. C.</source>
+<year>2022</year>, <volume>126</volume>, <fpage>8953</fpage>&#x02013;<lpage>8963</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.2c02323</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Yamijala</surname><given-names>S. S. R. K.
+C.</given-names></name>; <name><surname>Kwon</surname><given-names>H.</given-names></name>; <name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Wong</surname><given-names>B. M.</given-names></name>
+<article-title>Stability of Calcium
+Ion Battery Electrolytes: Predictions from Ab Initio Molecular Dynamics
+Simulations</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <fpage>13114</fpage>&#x02013;<lpage>13122</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.0c21716</pub-id>.<pub-id pub-id-type="pmid">33719385</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Martinez
+de la Hoz</surname><given-names>J. M.</given-names></name>; <name><surname>Soto</surname><given-names>F. A.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Effect of the Electrolyte
+Composition on Sei Reactions at Si Anodes of Li-Ion Batteries</article-title>. <source>J. Phys. Chem. C.</source>
+<year>2015</year>, <volume>119</volume>, <fpage>7060</fpage>&#x02013;<lpage>7068</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b01228</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Galvez-Aranda</surname><given-names>D. E.</given-names></name>; <name><surname>Seminario</surname><given-names>J. M.</given-names></name>
+<article-title>Li-Metal Anode in a Conventional Li-Ion Battery Electrolyte:
+Solid Electrolyte Interphase Formation Using Ab Initio Molecular Dynamics</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2022</year>, <volume>169</volume>, <elocation-id>030502</elocation-id><pub-id pub-id-type="doi">10.1149/1945-7111/ac55c8</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Yao</surname><given-names>N.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Shen</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Fu</surname><given-names>Z.-H.</given-names></name>; <name><surname>Ma</surname><given-names>X.-X.</given-names></name>; <name><surname>Zhang</surname><given-names>X.-Q.</given-names></name>; <name><surname>Li</surname><given-names>B.-Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>An Atomic
+Insight into the Chemical Origin and Variation of Dielectric Constant
+in Liquid Electrolytes</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>21473</fpage>&#x02013;<lpage>21478</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202107657</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Zou</surname><given-names>L.</given-names></name>; <name><surname>Jiao</surname><given-names>S.</given-names></name>; et al. <article-title>High-Concentration Ether
+Electrolytes for Stable
+High-Voltage Lithium Metal Batteries</article-title>. <source>ACS Energy
+Lett.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>896</fpage>&#x02013;<lpage>902</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.9b00381</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Jiao</surname><given-names>S.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Cao</surname><given-names>R.</given-names></name>; et al. <article-title>Stable Cycling of High-Voltage Lithium Metal
+Batteries in Ether Electrolytes</article-title>. <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>739</fpage>&#x02013;<lpage>746</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-018-0199-8</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Rostkier-Edelstein</surname><given-names>D.</given-names></name>; <name><surname>Urbakh</surname><given-names>M.</given-names></name>; <name><surname>Nitzan</surname><given-names>A.</given-names></name>
+<article-title>Electron Tunneling
+through a Dielectric
+Barrier</article-title>. <source>J. Chem. Phys.</source>
+<year>1994</year>, <volume>101</volume>, <fpage>8224</fpage>&#x02013;<lpage>8237</lpage>. <pub-id pub-id-type="doi">10.1063/1.468207</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Atomic Insights into the Fundamental Interactions in Lithium Battery
+Electrolytes</article-title>. <source>Acc. Chem. Res.</source>
+<year>2020</year>, <volume>53</volume>, <fpage>1992</fpage>&#x02013;<lpage>2002</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.0c00412</pub-id>.<pub-id pub-id-type="pmid">32883067</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Shao</surname><given-names>Y.</given-names></name>; <name><surname>Lozano</surname><given-names>T.</given-names></name>; et al. <article-title>Failure Mechanism for
+Fast-Charged Lithium Metal Batteries with Liquid Electrolytes</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1400993</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201400993</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Ospina-Acevedo</surname><given-names>F.</given-names></name>; <name><surname>Guo</surname><given-names>N.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Lithium
+Oxidation and Electrolyte Decomposition at
+Li-Metal/Liquid Electrolyte Interfaces</article-title>. <source>J. Mater.
+Chem. A</source>
+<year>2020</year>, <volume>8</volume>, <fpage>17036</fpage>&#x02013;<lpage>17055</lpage>. <pub-id pub-id-type="doi">10.1039/D0TA05132B</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Perez
+Beltran</surname><given-names>S.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Sei Formation Mechanisms and Li+
+Dissolution in Lithium Metal Anodes: Impact of the Electrolyte Composition
+and the Electrolyte-to-Anode Ratio</article-title>. <source>J. Power
+Sources</source>
+<year>2022</year>, <volume>551</volume>, <fpage>232203</fpage>&#x02013;<lpage>232210</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2022.232203</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Spotte-Smith</surname><given-names>E. W. C.</given-names></name>; <name><surname>Kam</surname><given-names>R. L.</given-names></name>; <name><surname>Barter</surname><given-names>D.</given-names></name>; <name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Hou</surname><given-names>T.</given-names></name>; <name><surname>Dwaraknath</surname><given-names>S.</given-names></name>; <name><surname>Blau</surname><given-names>S. M.</given-names></name>; <name><surname>Persson</surname><given-names>K. A.</given-names></name>
+<article-title>Toward
+a Mechanistic
+Model of Solid&#x02013;Electrolyte Interphase Formation and Evolution
+in Lithium-Ion Batteries</article-title>. <source>ACS Energy Lett.</source>
+<year>2022</year>, <volume>7</volume>, <fpage>1446</fpage>&#x02013;<lpage>1453</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.2c00517</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Kresse</surname><given-names>G.</given-names></name>; <name><surname>Hafner</surname><given-names>J.</given-names></name>
+<article-title>Ab Initio Molecular
+Dynamics for Liquid Metals</article-title>. <source>Phys. Rev. B</source>
+<year>1993</year>, <volume>47</volume>, <fpage>558</fpage>&#x02013;<lpage>561</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.47.558</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Perdew</surname><given-names>J. P.</given-names></name>; <name><surname>Burke</surname><given-names>K.</given-names></name>; <name><surname>Ernzerhof</surname><given-names>M.</given-names></name>
+<article-title>Generalized
+Gradient Approximation
+Made Simple</article-title>. <source>Phys. Rev. Lett.</source>
+<year>1996</year>, <volume>77</volume>, <fpage>3865</fpage>&#x02013;<lpage>3868</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevLett.77.3865</pub-id>.<pub-id pub-id-type="pmid">10062328</pub-id>
+</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Bl&#x000f6;chl</surname><given-names>P. E.</given-names></name>
+<article-title>Projector
+Augmented-Wave Method</article-title>. <source>Phys. Rev. B</source>
+<year>1994</year>, <volume>50</volume>, <fpage>17953</fpage>&#x02013;<lpage>17979</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.50.17953</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Kresse</surname><given-names>G.</given-names></name>; <name><surname>Joubert</surname><given-names>D.</given-names></name>
+<article-title>From Ultrasoft Pseudopotentials
+to the Projector Augmented-Wave
+Method</article-title>. <source>Phys. Rev. B</source>
+<year>1999</year>, <volume>59</volume>, <fpage>1758</fpage>&#x02013;<lpage>1775</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.59.1758</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Ehrlich</surname><given-names>S.</given-names></name>; <name><surname>Moellmann</surname><given-names>J.</given-names></name>; <name><surname>Reckien</surname><given-names>W.</given-names></name>; <name><surname>Bredow</surname><given-names>T.</given-names></name>; <name><surname>Grimme</surname><given-names>S.</given-names></name>
+<article-title>System-Dependent
+Dispersion Coefficients for the Dft-D3 Treatment of Adsorption Processes
+on Ionic Surfaces</article-title>. <source>ChemPhysChem</source>
+<year>2011</year>, <volume>12</volume>, <fpage>3414</fpage>&#x02013;<lpage>3420</lpage>. <pub-id pub-id-type="doi">10.1002/cphc.201100521</pub-id>.<pub-id pub-id-type="pmid">22012803</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Tang</surname><given-names>W.</given-names></name>; <name><surname>Sanville</surname><given-names>E.</given-names></name>; <name><surname>Henkelman</surname><given-names>G.</given-names></name>
+<article-title>A Grid-Based
+Bader Analysis Algorithm
+without Lattice Bias</article-title>. <source>J. Phys.: Condens. Matter</source>
+<year>2009</year>, <volume>21</volume>, <elocation-id>084204</elocation-id><pub-id pub-id-type="doi">10.1088/0953-8984/21/8/084204</pub-id>.<pub-id pub-id-type="pmid">21817356</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Dunning</surname><given-names>T. H.</given-names><suffix>Jr.</suffix></name>
+<article-title>Gaussian Basis
+Sets for Use in Correlated Molecular
+Calculations. I. The Atoms Boron through Neon and Hydrogen</article-title>. <source>J. Chem. Phys.</source>
+<year>1989</year>, <volume>90</volume>, <fpage>1007</fpage>&#x02013;<lpage>1023</lpage>. <pub-id pub-id-type="doi">10.1063/1.456153</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Woon</surname><given-names>D. E.</given-names></name>; <name><surname>T</surname><given-names>H.
+D.</given-names><suffix>Jr.</suffix></name>
+<article-title>Gaussian Basis Sets for Use in Correlated
+Molecular Calculations. Iii. The Atoms Aluminum through Argon</article-title>. <source>J. Chem. Phys.</source>
+<year>1993</year>, <volume>98</volume>, <fpage>1358</fpage>&#x02013;<lpage>1371</lpage>. <pub-id pub-id-type="doi">10.1063/1.464303</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Zheng</surname><given-names>Y.</given-names></name>; <name><surname>Guo</surname><given-names>N.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Calculated Reduction
+Potentials of Electrolyte Species in Lithium&#x02013;Sulfur Batteries</article-title>. <source>J. Phys. Chem. C</source>
+<year>2020</year>, <volume>124</volume>, <fpage>20654</fpage>&#x02013;<lpage>20670</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.0c04173</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Marenich</surname><given-names>A. V.</given-names></name>; <name><surname>Cramer</surname><given-names>C. J.</given-names></name>; <name><surname>Truhlar</surname><given-names>D. G.</given-names></name>
+<article-title>Universal Solvation Model Based on
+Solute Electron Density and on a Continuum Model of the Solvent Defined
+by the Bulk Dielectric Constant and Atomic Surface Tensions</article-title>. <source>J. Phys. Chem. B</source>
+<year>2009</year>, <volume>113</volume>, <fpage>6378</fpage>&#x02013;<lpage>6396</lpage>. <pub-id pub-id-type="doi">10.1021/jp810292n</pub-id>.<pub-id pub-id-type="pmid">19366259</pub-id>
+</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Grimme</surname><given-names>S.</given-names></name>; <name><surname>Antony</surname><given-names>J.</given-names></name>; <name><surname>Ehrlich</surname><given-names>S.</given-names></name>; <name><surname>Krieg</surname><given-names>H.</given-names></name>
+<article-title>A Consistent and Accurate
+Ab Initio Parametrization of Density Functional Dispersion Correction
+(Dft-D) for the 94 Elements H-Pu</article-title>. <source>J. Chem. Phys.</source>
+<year>2010</year>, <volume>132</volume>, <elocation-id>154104</elocation-id><pub-id pub-id-type="doi">10.1063/1.3382344</pub-id>.<pub-id pub-id-type="pmid">20423165</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Nakamura</surname><given-names>S.</given-names></name>; <name><surname>Ue</surname><given-names>M.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Theoretical Studies
+to Understand Surface Chemistry on Carbon Anodes for Lithium-Ion Batteries:
+Reduction Mechanisms of Ethylene Carbonate</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2001</year>, <volume>123</volume>, <fpage>11708</fpage>&#x02013;<lpage>11718</lpage>. <pub-id pub-id-type="doi">10.1021/ja0164529</pub-id>.<pub-id pub-id-type="pmid">11716728</pub-id>
+</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Nakamura</surname><given-names>S.</given-names></name>; <name><surname>Tasaki</surname><given-names>K.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Theoretical Studies
+to Understand Surface Chemistry on Carbon Anodes for Lithium-Ion Batteries:
+How Does Vinylene Carbonate Play Its Role as an Electrolyte Additive?</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2002</year>, <volume>124</volume>, <fpage>4408</fpage>&#x02013;<lpage>4421</lpage>. <pub-id pub-id-type="doi">10.1021/ja017073i</pub-id>.<pub-id pub-id-type="pmid">11960470</pub-id>
+</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Leung</surname><given-names>K.</given-names></name>; <name><surname>Budzien</surname><given-names>J. L.</given-names></name>
+<article-title>Ab Initio Molecular
+Dynamics Simulations of the Initial
+Stages of Solid&#x02013;Electrolyte Interphase Formation on Lithium
+Ion Battery Graphitic Anodes</article-title>. <source>Phys. Chem. Chem.
+Phys.</source>
+<year>2010</year>, <volume>12</volume>, <fpage>6583</fpage>&#x02013;<lpage>6586</lpage>. <pub-id pub-id-type="doi">10.1039/b925853a</pub-id>.<pub-id pub-id-type="pmid">20502786</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Olguin</surname><given-names>M.</given-names></name>; <name><surname>Spear</surname><given-names>C. E.</given-names></name>; <name><surname>Leiter</surname><given-names>K. W.</given-names></name>; <name><surname>Knap</surname><given-names>J.</given-names></name>
+<article-title>Towards High
+Throughput Screening of Electrochemical Stability of Battery Electrolytes</article-title>. <source>Nanotechnology</source>
+<year>2015</year>, <volume>26</volume>, <elocation-id>354003</elocation-id><pub-id pub-id-type="doi">10.1088/0957-4484/26/35/354003</pub-id>.<pub-id pub-id-type="pmid">26266636</pub-id>
+</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>H.-R.</given-names></name>; <name><surname>Shen</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>The Origin of the Reduced
+Reductive Stability of Ion&#x02013;Solvent Complexes on Alkali and
+Alkaline Earth Metal Anodes</article-title>. <source>Angew. Chem., Int.
+Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>16643</fpage>&#x02013;<lpage>16647</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201809203</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Zhou</surname><given-names>Q.</given-names></name>; <name><surname>Qi</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Hu</surname><given-names>W.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>
+<article-title>Unveiling
+the Role of Li<sup>+</sup> Solvation Structures with Commercial Carbonates
+in the Formation
+of Solid Electrolyte Interphase for Lithium Metal Batteries</article-title>. <source>Small Methods</source>
+<year>2021</year>, <volume>5</volume>, <elocation-id>2100441</elocation-id><pub-id pub-id-type="doi">10.1002/smtd.202100441</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Winkler</surname><given-names>J. R.</given-names></name>; <name><surname>Gray</surname><given-names>H. B.</given-names></name>
+<article-title>Long-Range Electron
+Tunneling</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume>, <fpage>2930</fpage>&#x02013;<lpage>2939</lpage>. <pub-id pub-id-type="doi">10.1021/ja500215j</pub-id>.<pub-id pub-id-type="pmid">24499470</pub-id>
+</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Lu</surname><given-names>T.</given-names></name>; <name><surname>Chen</surname><given-names>F.</given-names></name>
+<article-title>Multiwfn: A Multifunctional Wavefunction Analyzer</article-title>. <source>J. Comput. Chem.</source>
+<year>2012</year>, <volume>33</volume>, <fpage>580</fpage>&#x02013;<lpage>592</lpage>. <pub-id pub-id-type="doi">10.1002/jcc.22885</pub-id>.<pub-id pub-id-type="pmid">22162017</pub-id>
+</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Fu</surname><given-names>L. J.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Wu</surname><given-names>Y. P.</given-names></name>; <name><surname>Rahm</surname><given-names>E.</given-names></name>; <name><surname>Holze</surname><given-names>R.</given-names></name>; <name><surname>Wu</surname><given-names>H. Q.</given-names></name>
+<article-title>Surface
+Modifications of Electrode Materials for Lithium Ion Batteries</article-title>. <source>Solid State Sci.</source>
+<year>2006</year>, <volume>8</volume>, <fpage>113</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1016/j.solidstatesciences.2005.10.019</pub-id>.</mixed-citation></ref></ref-list></back></article>

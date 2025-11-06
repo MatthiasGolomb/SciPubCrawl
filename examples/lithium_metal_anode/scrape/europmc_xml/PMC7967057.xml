@@ -1,0 +1,1519 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7967057</article-id><article-id pub-id-type="doi">10.1002/advs.202003240</article-id><article-id pub-id-type="publisher-id">ADVS2307</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>High&#x02010;Efficacy and Polymeric Solid&#x02010;Electrolyte Interphase for Closely Packed Li Electrodeposition</article-title></title-group><contrib-group><contrib id="advs2307-cr-0001" contrib-type="author"><name><surname>Li</surname><given-names>Siyuan</given-names></name><xref ref-type="aff" rid="advs2307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2307-cr-0002" contrib-type="author"><name><surname>Liu</surname><given-names>Qilei</given-names></name><xref ref-type="aff" rid="advs2307-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs2307-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Weidong</given-names></name><xref ref-type="aff" rid="advs2307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2307-cr-0004" contrib-type="author"><name><surname>Fan</surname><given-names>Lei</given-names></name><xref ref-type="aff" rid="advs2307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2307-cr-0005" contrib-type="author"><name><surname>Wang</surname><given-names>Xinyang</given-names></name><xref ref-type="aff" rid="advs2307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2307-cr-0006" contrib-type="author"><name><surname>Wang</surname><given-names>Xiao</given-names></name><xref ref-type="aff" rid="advs2307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2307-cr-0007" contrib-type="author"><name><surname>Shen</surname><given-names>Zeyu</given-names></name><xref ref-type="aff" rid="advs2307-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2307-cr-0008" contrib-type="author"><name><surname>Zang</surname><given-names>Xiaoxian</given-names></name><xref ref-type="aff" rid="advs2307-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs2307-cr-0009" contrib-type="author"><name><surname>Zhao</surname><given-names>Yu</given-names></name><xref ref-type="aff" rid="advs2307-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs2307-cr-0010" contrib-type="author"><name><surname>Ma</surname><given-names>Fuyuan</given-names></name><xref ref-type="aff" rid="advs2307-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs2307-cr-0011" contrib-type="author" corresp="yes"><name><surname>Lu</surname><given-names>Yingying</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9713-8441</contrib-id><xref ref-type="aff" rid="advs2307-aff-0001">
+<sup>1</sup>
+</xref><address><email>yingyinglu@zju.edu.cn</email></address></contrib></contrib-group><aff id="advs2307-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Chemical Engineering</named-content>
+<named-content content-type="organisation-division">Institute of Pharmaceutical Engineering</named-content>
+<named-content content-type="organisation-division">College of Chemical and Biological Engineering</named-content>
+<institution>Zhejiang University</institution>
+<city>Hangzhou</city>
+<postal-code>310027</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2307-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute of Chemical Process Systems Engineering</named-content>
+<named-content content-type="organisation-division">School of Chemical Engineering</named-content>
+<institution>Dalian University of Technology</institution>
+<city>Dalian</city>
+<postal-code>116024</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2307-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Solar Energy Utilization &#x00026; Energy Saving Technology of Zhejiang Province</named-content>
+<institution>Zhejiang Energy R&#x00026;D Institute Co., Ltd.</institution>
+<city>Hangzhou</city>
+<postal-code>311121</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>yingyinglu@zju.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>1</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2021</year></pub-date><volume>8</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/advs.v8.6</issue-id><elocation-id>2003240</elocation-id><history><date date-type="rev-recd"><day>23</day><month>11</month><year>2020</year></date><date date-type="received"><day>24</day><month>8</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Wiley&#x02010;VCH GmbH<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-8-2003240.pdf"/><abstract><title>Abstract</title><p>The industrial application of lithium metal anode requires less side reaction between active lithium and electrolyte, which demands the sustainability of the electrolyte&#x02010;induced solid&#x02010;electrolyte interface. Here, through a new diluted lithium difluoro(oxalato)borate&#x02010;based (LiDFOB) high concentration electrolyte system, it is found that the oxidation behavior of aggregated LiDFOB salt has a great impact on solid&#x02010;electrolyte interphase (SEI) formation and Li reversibility. Under the operation window of Cu/LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub> full cells (rather than Li/Cu configuration), a polyether/coordinated borate containing solid&#x02010;electrolyte interphase with inner Li<sub>2</sub>O crystalline can be observed with the increasing concentration of salt, which can be ascribed to the reaction between aggregated electron&#x02010;deficient borate species and electron&#x02010;rich alkoxide SEI components. The high Li reversibility (99.34%) and near&#x02010;theoretical lithium deposition enable the stable cycling of LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub>/Li cells (<italic>N</italic>/<italic>P</italic> &#x0003c; 2, 350&#x000a0;Wh kg<sup>&#x02212;1</sup>) under high cutoff voltage condition of 4.6 V&#x000a0;and lean electrolyte condition (<italic>E</italic>/<italic>C</italic> &#x02248; 3.2&#x000a0;g Ah<sup>&#x02212;1</sup>).</p></abstract><abstract id="advs2307-abs-0001" abstract-type="graphical"><p>High&#x02010;efficacy and polymeric solid&#x02010;electrolyte interphase is in situ formed on lithium metal anode by using a new diluted lithium difluoro(oxalato)borate&#x02010;based (LiDFOB) high&#x02010;concentration electrolyte. The outer SEI layer is an amorphous polyether/tri&#x02010;coordinated borate polymeric organic phase, while the inner layer contains robust Li<sub>2</sub>O inorganic crystalline. As&#x02010;fabricated cells deliver a high Li reversibility of 99.34% and long full&#x02010;cell lifetime under &#x02248;350&#x000a0;Wh kg<sup>&#x02212;1</sup>.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ADVS-8-2003240-g002.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs2307-kwd-0001">anode&#x02010;free configuration</kwd><kwd id="advs2307-kwd-0002">high&#x02010;efficacy</kwd><kwd id="advs2307-kwd-0003">LiDFOB salt</kwd><kwd id="advs2307-kwd-0004">practical Li&#x02010;metal batteries</kwd><kwd id="advs2307-kwd-0005">solid&#x02010;electrolyte interface</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>22022813</award-id><award-id>21878268</award-id></award-group><award-group id="funding-0002"><funding-source>National Key R&#x00026;D Program of China</funding-source><award-id>2018YFA0209600</award-id></award-group><award-group id="funding-0003"><funding-source>Leading Innovative and Entrepreneur Team Introduction Program of Zhejiang</funding-source><award-id>2019R01006</award-id></award-group><award-group id="funding-0004"><funding-source>Key R&#x00026;D Program of Zhejiang Province</funding-source><award-id>2019C01155</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="10"/><word-count count="7343"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 17, 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.9 mode:remove_FC converted:17.03.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs2307-cit-0045">
+<string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <article-title>High&#x02010;Efficacy and Polymeric Solid&#x02010;Electrolyte Interphase for Closely Packed Li Electrodeposition</article-title>. <source xml:lang="en">Adv. Sci.</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>2003240</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202003240</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs2307-sec-0010"><label>1</label><title>Introduction</title><p>The emerging electric vehicles and large grids require advanced high&#x02010;energy&#x02010;density rechargeable batteries to utilize aggressive cathode and anode.<sup>[</sup>
+<xref rid="advs2307-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="advs2307-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="advs2307-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="advs2307-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>
+<sup>]</sup> Lithium metal is considered to be one of the promising anode materials due to its high theoretical specific capacity (3860&#x000a0;mA h g<sup>&#x02212;1</sup>) and the most negative electrochemical potential (&#x02212;3.04&#x000a0;V vs standard hydrogen electrode).<sup>[</sup>
+<xref rid="advs2307-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="advs2307-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="advs2307-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>
+<sup>]</sup> Replacing graphite with lithium metal anode to pair with high voltage/high capacity cathode e.g. Ni&#x02010;rich LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub> (NCM811) and high&#x02010;voltage LiCoO<sub>2</sub> (LCO) can improve cell energy density to 400&#x000a0;Wh kg<sup>&#x02212;1</sup>.<sup>[</sup>
+<xref rid="advs2307-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="advs2307-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>
+<sup>]</sup>
+</p><p>However, it is still a great challenge to commercialize lithium metal batteries (LMBs) because of its unstable cycling. The intrinsic lowest redox potential of Li brings a higher reactivity, leading to uncontrolled interfacial reactions and unstable solid&#x02010;electrolyte interphase (SEI).<sup>[</sup>
+<xref rid="advs2307-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>
+<sup>]</sup> The poor SEI layer induces further whisker&#x02010;like, high&#x02010;tortuosity Li deposition, where internal Li is more likely to lose electronic connection while stripping, rendering a low coulombic efficiency (CE).<sup>[</sup>
+<xref rid="advs2307-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>
+<sup>]</sup> In order to achieve the same lifetime compared to graphite&#x02010;based cells, a high CE of &#x0003e;99.9%&#x000a0;is required on Li metal side in LMBs to guarantee the adequate lithium source during cycling.<sup>[</sup>
+<xref rid="advs2307-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>
+<sup>]</sup> Although lots of modifications have been made in the early stage, such as 3D skeleton, artificial interface layer, electrolyte additives and solid&#x02010;state electrolyte, etc., none of them can maintain a high CE due to the continuous reaction between active Li and electrolyte.<sup>[</sup>
+<xref rid="advs2307-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="advs2307-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="advs2307-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="advs2307-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="advs2307-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>
+<sup>]</sup> Especially under the practical condition including limited negative to positive electrode capacity ratio (<italic>N</italic>/<italic>P</italic> ratio) and small electrolyte weight to cathode capacity ratio (<italic>E</italic>/<italic>C</italic> ratio), the large volume change and additive exhaustion lessen the lifespan of practical Li metal batteries to 30 cycles. Therefore, it is significant to minimize the irreversible lithium loss in every cycle by the rational design of the electrode/electrolyte interface, for which the electrolyte&#x02010;induced SEI layer needs to be carefully modified.</p><p>An ideal SEI film must be able to be reused during the cycling to reduce the formation of new SEI and the consumption of necessary resources (active lithium, electrolyte, etc.). Improving the uniformity of SEI (e.g., Li<sub>2</sub>O&#x02010;amorphous double&#x02010;layer structure SEI) can facilitate even local current buildup. In addition, boosting mechanical strength and ductility enables the electrode to endure the large volume expansion during cycling.<sup>[</sup>
+<xref rid="advs2307-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="advs2307-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Rational designing of in situ formed SEI always involved in modifying electrolyte components or additives, in which some functional additives like LiNO<sub>3</sub>, Cs<sup>+</sup>, SnTFSI are considered to be a good way to improve CE temporarily, whereas the additive exhaustion needs to be concerned in lean condition.<sup>[</sup>
+<xref rid="advs2307-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="advs2307-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="advs2307-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="advs2307-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="advs2307-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="advs2307-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Therefore, adjusting the solvent components and concentration of lithium salts to improve the stability of SEI becomes a new approach toward high&#x02010;voltage/long&#x02010;lifespan LMBs. For example, constructing an all&#x02010;fluorinated electrolyte, LiDFOB&#x02010;LiBF<sub>4</sub> dual&#x02010;salt electrolyte or highly concentrated electrolyte.<sup>[</sup>
+<xref rid="advs2307-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="advs2307-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="advs2307-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="advs2307-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>
+<sup>]</sup> Recently, the LiFSI containing concentrated electrolyte is demonstrated to obtain a high CE of &#x0003e;98.5% at Li/Cu configuration. The concentrated lithium salt can reduce the effect of convective mass transfer as well as the number of free solvent molecules, forming a dense, F&#x02010;dominated decomposition. Additionally, finding new ways to modify the in situ SEI, like developing a polymer&#x02010;like organic phase, is also critical for basic research and industrialization, which has been rarely reported.</p><p>Conventional electrolyte&#x02010;reduction SEI generally consists of two layers, including the inner inorganic layer close to the Li surface (such as Li<sub>2</sub>O, LiF, LiOH, and Li<sub>2</sub>CO<sub>3</sub>) and outer organic layer with higher oxidation states (such as ROCO<sub>2</sub>Li, ROLi, and LiR), which always show a mosaic&#x02010;like structure and low sustainability during long cycling (<bold>Figure</bold>&#x000a0;<xref rid="advs2307-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>).<sup>[</sup>
+<xref rid="advs2307-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>
+<sup>]</sup> Herein, we report an high&#x02010;efficacy, polymer&#x02010;like SEI for highly stable Li metal anodes by utilizing a new diluted high concentration lithium difluoro(oxalato)borate/1,2&#x02010;dimethoxyethane/1,1,2,2&#x02010;tetrafluoroethyl&#x02010;2,2,3,3&#x02010;tetrafluoropropylether (LiDFOB/DME/HFE) electrolyte under full cell configuration (2.8&#x02013;4.4 V).&#x000a0;LiDFOB salt undergoes different decomposition mechanisms under conditions of Li/Cu and LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub>/Cu (denoted as NCM/Cu) due to the different operating voltage windows. Through DFT calculation, concentrated LiDFOB salts tend to be oxidized to form electron&#x02010;deficient B products under high voltage condition, and further react with the electron&#x02010;rich components (RO&#x02010;Li, alkyl carbonates) in conventional SEI to form polyether/tri&#x02010;coordinated borates polymeric organic phase (Figure&#x000a0;<xref rid="advs2307-fig-0001" ref-type="fig">1b</xref>). Cryoelectron microscopy observation reveals that the SEI consists of two layers, in which the outer layer is an amorphous polymeric organic phase and the inner side is Li<sub>2</sub>O crystallization. This sustainable and robust SEI can be reused during lithium plating/stripping, exhibiting an ultrahigh coulombic efficiency of 99.34% during 40&#x02013;110 cycles in NCM/Cu configuration. The high Li reversibility enables excellent cycling of Li/LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> for 129 cycles with 80% capacity retention under highly challenging conditions (&#x02248;350&#x000a0;Wh kg<sup>&#x02212;1</sup> at cell&#x02010;level, cathode loading &#x0003e;4.5&#x02009;mAh&#x02009;cm<sup>&#x02212;2</sup>,&#x000a0;negative to positive electrode capacity ratio of 2.0 and electrolyte weight to cathode capacity ratio of 3.2&#x02009;g&#x02009;Ah<sup>&#x02212;1</sup>).</p><fig fig-type="Figure" xml:lang="en" id="advs2307-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Property of high&#x02010;efficacy SEI induced by 5 <sc>m</sc> LiDFOB/DME/HFE (5 <sc>m</sc> DE) electrolyte under NCM/Cu configuration and its Li reversibility. a,b) Schemes of conventional electrolyte&#x02010;reduction monomer SEI layer and high&#x02010;efficacy polyether&#x02010;like SEI. c,d) Li reversibility in Li/Cu and NCM/Cu configuration of three typical electrolytes (note: CE in NCM/Cu will be a more reliable indicator for true Li reversibility in full cell operation). e) Voltage curves of NCM/Cu cell using 5 <sc>m</sc> DE electrolyte during 40th&#x02013;80th cycles. f) Summary of Li reversibility of state&#x02010;of&#x02010;the&#x02010;art electrolyte system. g) Experimental reduction and oxidation potential of various electrolyte components reported in the literature.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-8-2003240-g001"/></fig></sec><sec id="advs2307-sec-0020"><label>2</label><title>The Li Reversibility of Diluted LiDFOB&#x02010;Based Electrolyte in NCM/Cu Configuration</title><p>Columbic efficiency is an important indicator for long lifetime cycling. In this part, we found that 1) CE in NCM/Cu will be a more reliable indicator for true Li reversibility in full cell operation, especially for LiDFOB&#x02010;based electrolyte, whose oxidation behavior can regulate the SEI layer on Li metal. 2) Revealed by NCM/Cu cell, high concentration of LiDFOB is a good method to improve the Li reversibility in ester, ether and phosphate&#x02010;based electrolyte. Considering the maximum solubility of LiDFOB in DME is 7 <sc>m</sc> (Figure S1, Supporting Information), three different concentrations of 1 , 3 , and 5 <sc>m</sc> LiDFOB/DME solutions were prepared, among which 3 and 5 <sc>m</sc> solutions were diluted by HFE cosolvent to 1 <sc>m</sc> (denoted as 5 and 3 <sc>m</sc> diluted electrolyte, DE) to obtain a better separator wettability. The corresponding viscosity data of different electrolytes are listed in Table S1 (Supporting Information). Five kinds of electrolytes containing 1 <sc>m</sc> LiPF<sub>6</sub> in EC/DEC (v:v = 1:1), 1 <sc>m</sc> LiPF<sub>6</sub> in FEC/EMC (v:v = 3:7), 1 <sc>m</sc> LiDFOB in DME, 3 <sc>m</sc> DE and 5 <sc>m</sc> DE were first examined to evaluate the disparity of their Li reversibility between Li/Cu and NCM/Cu cell. Considering the anode&#x02010;free property of NCM/Cu, the Coulombic inefficiency (CI, CI = 1&#x02010;CE) in full cell can be attributed to the irreversible Li loss in forming SEI, CEI and dead lithium. Therefore, it is reasonable to regard the CE in NCM/Cu as lithium reversibility. Two conventional LiPF<sub>6</sub>&#x02010;based electrolytes show similar CE in both Li/Cu and NCM/Cu cells. For EC/DEC, CE in cells show a rapid drop below &#x02248;80% within 20 cycles owing to the low Li utilization in SEI (Figure&#x000a0;<xref rid="advs2307-fig-0001" ref-type="fig">1c</xref>,<xref rid="advs2307-fig-0001" ref-type="fig">d</xref>). Adding FEC into carbonate electrolyte will improve the Li utilization. However, the average CE in both Li/Cu and NCM/Cu is still inadequate for practical application (&#x02248;92&#x02013;94%). Interestingly, the situation becomes different for LiDFOB&#x02010;based electrolytes. LiDFOB/DME electrolyte without dilution exhibits the ultralow CE in Li/Cu cell due to the poor stability of solvent against Cu foils. Adding the co&#x02010;solvent HFE can promote the electrolyte stability, which is reflected by improving CE to 92% in 3 <sc>m</sc> DE and 5 <sc>m</sc> DE (Figure S2, Supporting Information). However, this kind of CE does not meet the requirements for commercialization (e.g., CE &#x0003e; 99.9% for graphite). The corresponding voltage curves are presented in Figure S3 (Supporting Information). When NCM/Cu configuration is used, the 5 <sc>m</sc> DE electrolyte displays an increasing CE to 99% in 40 cycles and maintains an average Li reversibility of &#x02248;99.34% in the following 70 cycles (Figure&#x000a0;<xref rid="advs2307-fig-0001" ref-type="fig">1d</xref>). The tremendous improvement can be attributed to the oxidation behavior of concentrated LiDFOB, which will be introduced later. Different concentration of LiDFOB/DME/HFE electrolytes are also detected in NCM/Cu cell and an improved CE of &#x02248;94% and &#x02248;96% can be observed (Figure S4, Supporting Information). The detailed voltage curves of different electrolytes in NCM/Cu are displayed in Figure&#x000a0;<xref rid="advs2307-fig-0001" ref-type="fig">1e</xref> and Figure S5 (Supporting Information). With 5 <sc>m</sc> DE electrolyte, the cell shows high Li reversibilities of 99.19%, 99.65%, 99.38%, and 99.43% in 40th, 60th, 70th, and 80th cycles, respectively. The normalized cycling performance of anode&#x02010;free NCM/Cu cell using 5 <sc>m</sc> DE is shown in Figure S6 (Supporting Information), which is one of the best reported cycling stabilities with anode&#x02010;free configuration, high areal capacity and high current density. Apart from ether, this high concentration LiDFOB&#x02010;based method can be further used in ester and phosphate&#x02010;based electrolyte, as displayed in Note S1 in the Supporting Information. This result also proves that, compared with conventional LiPF<sub>6</sub>&#x02010;based electrolyte, the CE in Li/Cu cell is not completely equal to the utilization rate of lithium in the actual full battery cycling, which demonstrates that the aggregate LiDFOB can regulate the Li deposition under the voltage window of NCM/Cu. The detailed CEs of different electrolyte system are listed in Figure&#x000a0;<xref rid="advs2307-fig-0001" ref-type="fig">1f</xref>. Although the prevailing view is that using LiNO<sub>3</sub> additive is beneficial to CE improvement, the average CE of this method remains only &#x02248;98.5%, which cannot meet the requirement of commercialization.<sup>[</sup>
+<xref rid="advs2307-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="advs2307-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>
+<sup>]</sup> LiFSI&#x02010;based high concentration electrolyte further breaks through the target of 99% while LiDFOB/LiBF<sub>4</sub> dual&#x02010;salt electrolyte show an ultrahigh CE above 99.6% for 200 cycles.<sup>[</sup>
+<xref rid="advs2307-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>, <xref rid="advs2307-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="advs2307-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="advs2307-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="advs2307-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>
+<sup>]</sup> Before being applied in full cell, the major difference between Li/Cu and NCM/Cu cells should be explained. The current Li/Cu measurement is conducted based on the voltage window of 0&#x02013;1&#x000a0;V, in which most of electrolyte components are reduced before LiDFOB salt, forming a solvent/salt&#x02010;reduced SEI. However, the voltage window is widened to 2.8&#x02013;4.4&#x000a0;V in NCM/Cu condition, where the oxidation effect of lithium salts on anode should be taken into account (Figure&#x000a0;<xref rid="advs2307-fig-0001" ref-type="fig">1g</xref>).</p></sec><sec id="advs2307-sec-0030"><label>3</label><title>Polyether&#x02010;Like Solid&#x02010;Electrolyte Interphase and Solvation Structure</title><p>The different behaviors in Li/Cu and NCM/Cu configuration imply that LiDFOB salt may exhibits different decomposition mechanisms in oxidation and reduction processes, which further influence the property of SEI layer. Under the low voltage window of 0&#x02013;1&#x000a0;V, LiDFOB prefer to get the electron from Li metal and exhibits a B&#x02014;O or B&#x02014;F bond&#x02010;cleavage behavior, forming an low&#x02010;energy electron&#x02010;rich species and LiF (Figure S7, Supporting Information), which is consistent with the observation of Lucht and co&#x02010;workers that nanostructured LiF particles is generated resulting from the presence of oxalate based capping agents.<sup>[</sup>
+<xref rid="advs2307-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="advs2307-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="advs2307-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>
+<sup>]</sup> However, when electrochemical window broadens to 2.8&#x02013;4.4 V,&#x000a0;the oxidation of LiDFOB and further reaction become the main step of SEI formation. The compound can easily lose an electron on the NCM cathode surface at high potentials (oxidation potential of LiDFOB is &#x02248;4.3&#x000a0;V vs Li/Li<sup>+</sup>). The LiDFOB rings opening, and forms an electron&#x02010;deficient difluoroborane species (or radical), which subsequently react with the electron&#x02010;rich alkoxides (e.g., LiOCH<sub>2</sub>CH<sub>2</sub>OLi, a probable SEI film component in ether) or carbonates in SEI to form a &#x02013;(BOR&#x02013;O&#x02013;CH<sub>2</sub>&#x02013;CH<sub>2</sub>&#x02013;O)<italic><sub>n</sub>&#x02013;</italic> like polymeric component (<bold>Figure</bold>&#x000a0;<xref rid="advs2307-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>).<sup>[</sup>
+<xref rid="advs2307-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="advs2307-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="advs2307-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref>
+<sup>]</sup> In this work, we just calculate the ligand exchange reactions through different B&#x02013;F or B&#x02013;O cleavage pathway using lithium ethoxide as routine SEI substance from a thermodynamic point of view. As shown in Figure&#x000a0;<xref rid="advs2307-fig-0002" ref-type="fig">2b</xref>, energy absorption is essential for the first B&#x02013;O ring opening, which means the external energy like high voltage electric field may be necessary for further reaction. After that, difluoroborane species can easily react with lithium ethoxide, reflecting as the decrease of Gibbs free energy in both B&#x02013;F and B&#x02013;O cleavage pathway. Moreover, the B&#x02014;O bond cleavage further forms 2CO<sub>2</sub>, which is more preferable than B&#x02013;F pathway due to the larger Gibbs free energy drop.<sup>[</sup>
+<xref rid="advs2307-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>
+<sup>]</sup> It is assumed that the as&#x02010;formed oligomeric and polymer species in the SEI makes the surface film elastic, which is beneficial for uniform Li deposition and dendrite suppression.</p><fig fig-type="Figure" xml:lang="en" id="advs2307-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Possible reaction mechanism and solvation structure. a) Proposed oxidative decomposition and condensation polymerization of LiDFOB with alkoxides in NCM/Cu cell at electrochemical window of 2.8&#x02013;4.4 V.&#x000a0;b) Thermodynamic trend of the reaction of LiDFOB oxidation products with electron&#x02010;rich alkoxides through DFT calculation. c) ATR&#x02010;FTIR spectra of SEI residues induced by different electrolytes on Cu foils. d) NMR spectra collected from SEIs generated in electrolyte solutions of 1&#x02009;<sc>m</sc> LiPF<sub>6</sub> in FEC/EMC, 5 <sc>m</sc> DE/NCMCu, 5 <sc>m</sc> DE/LiCu, 3 <sc>m</sc> DE/NCMCu after 30 cycles and PEO&#x02010;40000: <sup>1</sup>H NMR, DMSO&#x02010;d<sub>6</sub>. e) Raman spectra of different solvents and electrolytes. f) The scheme of the solvation structure in the 5 <sc>m</sc> LiDFOB/DME/HFE.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-8-2003240-g007"/></fig><p>The detailed decomposition products in different configurations were further detected by ATR&#x02010;FTIR measurement (Figure&#x000a0;<xref rid="advs2307-fig-0002" ref-type="fig">2c</xref>; Figure S8, Supporting Information). Before the test, the electrodes were carefully washed with DME solution and dried in vacuum for several hours to ensure that the detected peaks fully come from the components in SEI layer rather than remaining residue. According to the DFT calculation, LiDFOB salt prefers to lose F atom to form LiF under reduction condition while it will react with electron&#x02010;rich components like ROLi to form organic products under oxidation condition, which shows different characteristic peaks in FTIR spectra. In 5 <sc>m</sc> DE/LiCu configuration, the peaks located in 1750 and 1660 cm<sup>&#x02212;1</sup> can be ascribed to the C=O stretching vibrations. Meanwhile, a board peak from 900 to 1000 cm<sup>&#x02212;1</sup> can be attributed to the B&#x02010;containing decomposition product of LiDFOB in the SEI layer. The similar peaks are also observed in 1 <sc>m</sc> LiDFOB/DME NCM/Cu configuration except the obvious dual&#x02010;peak in 2925&#x02013;2850 cm<sup>&#x02212;1</sup>, which corresponds to the &#x02013;CH<sub>2</sub>&#x02013; stretching vibration from some accumulated dimer or oligomer SEI residue. The characteristic peaks in 5 <sc>m</sc> DE/NCMCu configuration become more obvious due to the decomposition of LiDFOB in high&#x02010;voltage condition. As can be seen in Figure&#x000a0;<xref rid="advs2307-fig-0002" ref-type="fig">2c</xref>, B&#x02013;O&#x02013;R and B&#x02013;F linkages (1020 and 1090 cm<sup>&#x02212;1</sup>) related to tri&#x02010;coordinated borates in SEI become more intensive, reflecting that electron&#x02010;deficient B species will react with other SEI components like lithium semicarbonates or lithium alkoxide to form stable polymer. The direct evidence is that the peaks in &#x02248;1200 cm<sup>&#x02212;1</sup> of C&#x02013;O in aliphatic ethers can be clearly observed, which can only be detected in high&#x02010;concentration LiDFOB electrolyte.<sup>[</sup>
+<xref rid="advs2307-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>
+<sup>]</sup> Considering that the organic species with small molecular weight has been completely removed, the remaining C&#x02013;O, &#x02013;CH<sub>2</sub>&#x02013;, and tri&#x02010;coordinated B species can be ascribed to the highly polymerized B crosslink polyether in SEI, which is in accordance with the presence of &#x02013;(CH<sub>2</sub>&#x02013;CH<sub>2</sub>&#x02013;O)<italic><sub>n</sub></italic>&#x02013; and B&#x02010;O species in XPS test. It is likely that with the increase of salt concentration, the concentration of reactive B species also increases in the solution, improving the polymer feature of SEI.</p><p>Solution <sup>1</sup>H NMR spectra of SEIs from different electrolyte are shown in Figure&#x000a0;<xref rid="advs2307-fig-0002" ref-type="fig">2d</xref>. In conventional carbonated&#x02010;based electrolyte, the monomeric SEI components of lithium ethylene monocarbonate (LEMC), ethylene glycol bis(methyl carbonate) (EGBMC) and residual solvent (methyl, MeOH and ethylene glycol, EG) can be easily observed, which offer low Li<sup>+</sup> diffusion and weak mechanical strength.<sup>[</sup>
+<xref rid="advs2307-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>
+<sup>]</sup> The SEIs formed in LiDFOB&#x02010;based ether electrolyte become more similar, while a small peak located in &#x02248;3.47&#x000a0;ppm appears in 5 <sc>m</sc> DE electrolyte under NCM/Cu configuration, which cannot be found in Li/Cu configuration. We further perform the spectra of polyethylene oxide (PEO) and found out the same peak around &#x02248;3.48&#x000a0;ppm, attributing to the H atoms in &#x02013;(CH<sub>2</sub>&#x02013;CH<sub>2</sub>&#x02013;O)<italic><sub>n</sub></italic>&#x02013; segment. As a result, the polyether character in SEI of 5 <sc>m</sc> DE NCM/Cu configuration is determined. This kind of polymeric SEI makes the interface more elastic to reducing the direct contact between deposited Li and electrolyte, thus improving the Li reversibility.</p><p>To confirm the solvation structure of 5 <sc>m</sc> DE, Raman spectra of electrolytes with different salt concentration in pure DME or DME/HFE mixtures are carried out. As shown in Figure&#x000a0;<xref rid="advs2307-fig-0002" ref-type="fig">2e</xref>, the vibration bonds of O&#x02013;CH<sub>3</sub> in free DME appear at 850 and 820 cm<sup>&#x02212;1</sup>. With the amount of LiDFOB increasing, the DME molecules prefer to coordinate with Li<sup>+</sup> to form a LiDFOB&#x02010;DME pairs, reflecting as the diminishing peak of free DME and appearance of Li<sup>+</sup>&#x02010;coordinated DME (&#x02248;875 cm<sup>&#x02212;1</sup>). After adding co&#x02010;solvent of HFE, the characteristic peak of Li<sup>+</sup>&#x02010;coordinated DME can still be observed without free DME generation, indicating that the solvation structure has been well preserved (Figure&#x000a0;<xref rid="advs2307-fig-0002" ref-type="fig">2f</xref>).</p><p>The large differences of SEI in Li/Cu and NCM/Cu configuration are further studied using X&#x02010;ray photoelectron microscopy (XPS) and cryoelectron microscopy (Cryo&#x02010;EM). XPS depth profiling analysis on Li metal anode was performed to understand the detailed SEI formation under different electrochemical window. As shown in <bold>Figure</bold>&#x000a0;<xref rid="advs2307-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>,<xref rid="advs2307-fig-0003" ref-type="fig">e</xref>, the in&#x02010;depth C 1s XPS spectra for both systems present three peaks including carbonyl group (<underline underline-style="single">C</underline>=O, 289.0&#x000a0;eV), polyether carbon (<underline underline-style="single">C</underline>&#x02013;O, 286.5&#x000a0;eV) and hydrocarbon (<underline underline-style="single">C</underline>&#x02013;H/<underline underline-style="single">C</underline>&#x02013;<underline underline-style="single">C</underline>, 284.5&#x000a0;eV), respectively. However, the SEI cycled in NCM/Cu cell contains higher content of (&#x02013;<underline underline-style="single">C</underline>H<sub>2</sub>&#x02013;<underline underline-style="single">C</underline>H<sub>2</sub>&#x02013;O&#x02013;)<italic><sub>n</sub></italic> species, reflecting as a more obvious peak of polyether carbon in surface and subsequent etching, which indicates that the polymeric species exists in the entire SEI. The polymeric feature of NCMCu&#x02010;SEI is also demonstrated in O 1s XPS spectra. The SEI cycled in Li/Cu cells consists of C=<underline underline-style="single">O</underline> (531.7&#x000a0;eV) and R<underline underline-style="single">O</underline>&#x02013;Li (530.5&#x000a0;eV) species with neglectable B&#x02013;O signal, indicating that the organic phase in LiCu&#x02010;SEI is mostly derived from the decomposition of DME. As a comparison, the lower peak of R<underline underline-style="single">O</underline>&#x02013;Li and new peak of B&#x02013;<underline underline-style="single">O</underline> and (&#x02013;CH<sub>2</sub>&#x02013;CH<sub>2</sub>&#x02013;<underline underline-style="single">O</underline>&#x02013;)<italic><sub>n</sub></italic> can be clearly observed in NCMCu&#x02010;SEI, which can be attributed to the reactions between electron&#x02010;deficient B and electron&#x02010;rich species like RO&#x02013;Li (Figure&#x000a0;<xref rid="advs2307-fig-0003" ref-type="fig">3b</xref>,<xref rid="advs2307-fig-0003" ref-type="fig">f</xref>). Moreover, after etching for 5&#x000a0;min, a small peak of M&#x02013;<underline underline-style="single">O</underline> arises in NCMCu&#x02010;SEI (528.5&#x000a0;eV), showing the existence of metal oxides in deeper SEI. The B 1s and F 1s spectra reveal the different decomposition product of LiDFOB in different operation voltage. In LiCu&#x02010;SEI, only the high peak of Li<underline underline-style="single">F</underline> (684.9&#x000a0;eV) and Li&#x02013;<underline underline-style="single">B</underline>&#x02013;O (&#x02248;191.8&#x000a0;eV) can be observed in all depth while the additional peaks of <underline underline-style="single">F</underline>&#x02013;B (687.0&#x000a0;eV) and <underline underline-style="single">B</underline>&#x02013;F (&#x02248;194.0&#x000a0;eV) can both be detected in NCMCu&#x02010;SEI (Figure&#x000a0;<xref rid="advs2307-fig-0003" ref-type="fig">3c</xref>,<xref rid="advs2307-fig-0003" ref-type="fig">d</xref>,<xref rid="advs2307-fig-0003" ref-type="fig">g</xref>,<xref rid="advs2307-fig-0003" ref-type="fig">h</xref>). These results are also in accordance with the mechanism we proposed above.</p><fig fig-type="Figure" xml:lang="en" id="advs2307-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Characterizations of cycled Li anode using 5 <sc>m</sc> LiDFOB/DME/HFE system. a,e) C 1s; b,f) O 1s; c,g) F 1s; d,h) B 1s XPS spectra of the Li anode in Li/Cu and NCM/Cu configuration after 30 cycles.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-8-2003240-g004"/></fig></sec><sec id="advs2307-sec-0040"><label>4</label><title>Electrode Interface Analysis and Li Electrodeposition Morphology</title><p>High&#x02010;resolution cryoelectron microscopy (cryo&#x02010;EM) was conducted to reveal the veil of SEI layer formed on the Li metal anode. The naturally formed SEI is made up of an amorphous organic phase with several crystalline randomly buried inside, which is generally nonhomogeneous with respect to both thickness and composition named mosaic&#x02010;like SEI. The composition and structure of SEI produced by different electrolytes are different, which will further induce the degradations of various performance of the Li metal anode. As shown in <bold>Figure</bold>&#x000a0;<xref rid="advs2307-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>, the deposited lithium of 5 <sc>m</sc> DE NCM/Cu cell shows a large granular size more than 10&#x000a0;&#x000b5;m with less tortuosity, which provides a good structural electronic connection while deposition compared with the one of FEC/EMC (Figure S9, Supporting Information). The thickness of as&#x02010;formed SEI layer is about 30&#x000a0;nm. The outer layer with amorphous structure comprises high molecular weight polyether and tri&#x02010;coordinated B species while inner layer shows a Li<sub>2</sub>O &#x02329;111&#x0232a;&#x000a0;crystalline structure (Figure&#x000a0;<xref rid="advs2307-fig-0004" ref-type="fig">4b</xref>,<xref rid="advs2307-fig-0004" ref-type="fig">c</xref>). The scheme and detailed information of SEI are shown in Figure&#x000a0;<xref rid="advs2307-fig-0004" ref-type="fig">4d</xref> and Figure S10 (Supporting Information), which is consistent with the observation of XPS and ATR&#x02010;FTIR. The increasing concentration of LiDFOB salt will force the oxidation byproduct of DFOB<sup>&#x02212;</sup> anion into the inner&#x02010;Helmholtz layer to compete with solvent molecules, therefore the proportion of inorganic substances in inner SEI increase. This kind of multilayer SEI structure offers two merits for uniform Li ions transportation. 1) The outer organic polyether layer can provide rapid Li&#x02010;ion diffusion through local motion of polymer segments (like PEO) as well as flexibility to endure the large expansion. 2) The inner Li<sub>2</sub>O inorganic crystalline can directly prevent the electron tunneling from anode to electrolyte, further suppressing the electrochemical reduction of electrolyte components. In Li/Cu configuration, due to the low operation voltage, DFOB anion partially reduces with little polymeric ability, reflecting as an amorphous C=O, RO&#x02010;Li based organic SEI with little Li<sub>2</sub>O crystal (Figure&#x000a0;<xref rid="advs2307-fig-0004" ref-type="fig">4e</xref>,<xref rid="advs2307-fig-0004" ref-type="fig">f</xref>). This is the reason why 5 <sc>m</sc> DE shows different Li reversibility in Li/Cu and NCM/Cu configurations. This kind of NCMCu&#x02010;SEI also has large difference from the conventional solvent&#x02010;based SEI under low lithium salts concentration (e.g., 1 <sc>m</sc> LiPF<sub>6</sub> in FEC/EMC), as shown in Figure&#x000a0;<xref rid="advs2307-fig-0004" ref-type="fig">4g</xref>,<xref rid="advs2307-fig-0004" ref-type="fig">h</xref>. The SEI formed in FEC/EMC system also shows a dual&#x02010;layer structure with outer Li<sub>2</sub>O and inner amorphous layer (mainly LEMC and other monocarbonate), which manifests as an opposite structure compared with that formed in 5 <sc>m</sc> DE electrolyte, indicating that the organic phase of SEI with polyether property is the main factor for reversible Li electrodeposition.</p><fig fig-type="Figure" xml:lang="en" id="advs2307-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Observation of cathode electrolyte interface (CEI) and solid&#x02010;electrolyte interface (SEI). a&#x02013;d) Nanostructure of deposited Li with high&#x02010;efficacy SEI in 5 <sc>m</sc> LiDFOB/DME/HFE, NCM/Cu configuration imaged by cryo&#x02010;EM. e,f) Amorphous monomer organic SEI layer in 5 <sc>m</sc> LiDFOB/DME/HFE, Li/Cu configuration. g,h) Conventional dual&#x02010;layer SEI layer in FEC/EMC system in Li/Cu configuration. i) HRTEM images and j&#x02013;l) XPS spectra of NCM811 cycled in 5 <sc>m</sc> LiDFOB/DME/HFE electrolyte.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-8-2003240-g005"/></fig><p>High&#x02010;resolution transmission electron microscopy (HRTEM) and XPS were carried out to probe the CEI structure formed on the NCM811 cathode in different electrolyte. Compared with pristine cathode with ordered rhombohedral phase, the cathode cycled in FEC/EMC electrolyte shows a rough and fuzzy surface with thin CEI covered (Figure S11, Supporting Information). Two kinds of lattice spacing of 4.73 and 2.37 &#x000c5; are observed, which correspond to the &#x02329;003&#x0232a;&#x000a0;plane of initial layered structure and &#x02329;111&#x0232a;&#x000a0;plane of NiO rock&#x02010;salt phase, reflecting an irreversible structural degradation from Ni<sup>4+</sup> to Ni<sup>2+</sup> under high voltage charging. As a comparison, a conformal and amorphous CEI with a thickness of &#x02248;4&#x000a0;nm is observed after cycling in 5 <sc>m</sc> DE electrolyte, which facilitates cathode protection (Figure&#x000a0;<xref rid="advs2307-fig-0004" ref-type="fig">4i</xref>). XPS spectra show that the CEI formed in 5 <sc>m</sc> DE contains higher B&#x02013;F and C=O species due to the decomposition of LiDFOB (Figure&#x000a0;<xref rid="advs2307-fig-0004" ref-type="fig">4j</xref>&#x02013;<xref rid="advs2307-fig-0004" ref-type="fig">l</xref>).</p><p>The morphology of deposited Li metal in different electrolytes was identified utilizing scanning electron microscopy (SEM) technique. The NCM/Cu cells with different electrolytes were first charged to 4.4&#x000a0;V to obtain a 5&#x000a0;mA h cm<sup>&#x02212;2</sup> deposited Li in first cycle. The cross&#x02010;sectional images of deposited Li in FEC/EMC and EC/DEC electrolyte are shown in <bold>Figure</bold>&#x000a0;<xref rid="advs2307-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref> and Figure S12 (Supporting Information), that the thicknesses are almost twice compared to theoretical value (25 and 47.7&#x000a0;&#x000b5;m for FEC/EMC, and 68.4&#x000a0;&#x000b5;m for EC/DEC). Top&#x02010;view SEM images show the porous and dendritic morphology with high tortuosity in both electrolyte system, indicating loose structure with large void in deposited Li (Figure&#x000a0;<xref rid="advs2307-fig-0005" ref-type="fig">5d</xref>). It also means that the small molecular weight species of C&#x02013;H and aliphatic C&#x02013;O&#x02013;C cannot effectively protect the Li electrodeposition due to its low mechanical strength and uneven ionic flux. Although the lithium electrodeposition becomes larger in Li/Cu cell using 5 <sc>m</sc> DE, the increasing thickness of 45.1&#x000a0;&#x000b5;m can still be observed due to the poor SEI composition. The conditions become different in NCM/Cu cell with the increasing concentration of LiDFOB. The thickness of deposited Li decreases to 43.5 and 35.0&#x000a0;&#x000b5;m in 1 and 3 <sc>m</sc> LiDFOB/DME system. When 5 <sc>m</sc> DE is used, the thickness of electrode further decreases to 26.8&#x000a0;&#x000b5;m (Figure&#x000a0;<xref rid="advs2307-fig-0005" ref-type="fig">5b</xref>,<xref rid="advs2307-fig-0005" ref-type="fig">c</xref>), which is very close to the theoretical value of 25 &#x000b5;m, reflecting that the polymeric SEI layer induces tight deposition of lithium grain. The top&#x02010;view SEM image demonstrates the view that lithium particles grow compactly together to form a flat and seamless interface (Figure&#x000a0;<xref rid="advs2307-fig-0005" ref-type="fig">5e</xref>,<xref rid="advs2307-fig-0005" ref-type="fig">f</xref>; Figure S13, Supporting Information). As shown in Figure S14 (Supporting Information), after long&#x02010;time cycling in NCM/Cu, lithium metal is completely stripped away, and the SEI collapses without obvious crack. It is this excellent integrity that enables the lithium plate into SEI again in next cycle, thereby reducing the generation of new SEI and improving the reversibility of lithium.</p><fig fig-type="Figure" xml:lang="en" id="advs2307-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Deposition morphologies of 5 mAh cm<sup>&#x02212;2</sup> Li using different electrolytes in NCM/Cu configuration. Cross&#x02010;sectional and top&#x02010;view images of deposited Li in a,d) FEC/EMC system. b,e) 1 <sc>m</sc> LiDFOB/DME system. c,f) 5 <sc>m</sc> LiDFOB/DME/HFE system.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-8-2003240-g003"/></fig></sec><sec id="advs2307-sec-0050"><label>5</label><title>Battery Cycling Performance under Harsh Condition</title><p>To prove the superiority of high&#x02010;efficacy SEI in practical condition, the requirements like high cycling current density (&#x0003e;0.3 C), high&#x02010;voltage (&#x0003e;4.3&#x000a0;V), high&#x02010;areal&#x02010;capacity (&#x0003e;4 mAh cm<sup>&#x02212;2</sup>), lean electrolyte (<italic>E</italic>/<italic>C</italic> &#x0003c; 3&#x000a0;g Ah<sup>&#x02212;1</sup>), and ultrathin Li foils (<italic>N</italic>/<italic>P</italic> &#x0003c; 2) should be met to increase energy density to 300&#x000a0;Wh kg<sup>&#x02212;1</sup>. Low <italic>N</italic>/<italic>P</italic> (negative to positive electrode capacity ratio) and <italic>E</italic>/<italic>C</italic> (electrolyte weight to cathode capacity ratio) are two significant indicators for high&#x02010;energy density. However, few strategies have met these requirements due to the irreversible Li loss in harsh condition. Especially under high cathode loading with high current density, the deposition morphology is closely related to the quality of SEI. In full cell test, we utilize limited Li source of 9.02 mAh cm<sup>&#x02212;2</sup> (Figure S15, Supporting Information) to pair with aggressive cathode NCM811 (active mass loading: 21.5&#x000a0;mg, &#x02248;5 mAh cm<sup>&#x02212;2</sup>) under lean electrolyte and &#x02265;4.3 V&#x000a0;condition to evaluate the Li utilization and high&#x02010;voltage durability. As&#x02010;fabricated cells show a high energy density of &#x02248;350&#x000a0;Wh kg<sup>&#x02212;1</sup> based on the mass of all cell components (Table S2, Supporting Information), which is promising to be utilized in electrical vehicles.</p><p>First, the cells with a medium cathode areal loading of &#x02248;2.4 mAh cm<sup>&#x02212;2</sup>, thin Li anode, and excess electrolyte were assembled (<italic>N</italic>/<italic>P</italic> &#x02248; 3.76, <bold>Figure</bold>&#x000a0;<xref rid="advs2307-fig-0006" ref-type="fig">
+<bold>6</bold>a</xref>). The cells using conventional EC/DEC and FEC/EMC show short stable lifetime of 50 and 140 cycles, after which a sudden capacity drop can be observed due to the exhaustion of active Li. In contrast, the cell cycled in 5 <sc>m</sc> DE offers an 80% capacity retention after 303 cycles along with small cell overpotential increase (Figure&#x000a0;<xref rid="advs2307-fig-0006" ref-type="fig">6b</xref>). The condition becomes more serious when <italic>N</italic>/<italic>P</italic> ratio decreases to 1.82. As shown in Figure&#x000a0;<xref rid="advs2307-fig-0006" ref-type="fig">6c</xref>, the cell using EC/DEC electrolyte can only survive ten cycles at 0.3C charge/0.5C discharge rate before a sudden failure occurs. Adding FEC into carbonated electrolyte can improve the electrode/electrolyte stability and Li reversibility, reflecting as a prolonged lifespan of 80 cycles. However, the decreasing CE (&#x0003c;97% after 65th cycle) suggests the depletion of active Li in electrode, which was further demonstrated by cross&#x02010;sectional SEM (Figure S16a, Supporting Information). Impressively, the cell using 5 <sc>m</sc> DE exhibits a ultralong lifetime for more than 220 cycles without sudden drop (Figure S17a, Supporting Information), indicating a high Li utilization as well as less side reactions. To probe the electrode evolution after cycling, the cells were disassembled and washed with DME solution to remove the impurity. The Li anode cycling in FEC/EMC system shows a large volume expansion from 45 to 187.1&#x000a0;&#x000b5;m while the one cycling in 5 <sc>m</sc> DE just increases to 67.6&#x000a0;&#x000b5;m (Figure S16b, Supporting Information). The fine morphology stability may be attributed to the compact Li deposition behavior brought by B&#x02010;O based polymeric SEI layer. In addition, the cells using different concentration LiDFOB were also performed, as shown in Figure S17b (Supporting Information). The cycling performance is improved with the increase of salt concentration, which can be reflected by an enhanced and stable CE in full cell. It is worth noting that directly using high&#x02010;concentration LiDFOB electrolyte (5 <sc>m</sc> HCE) without diluting will bring even worse result than conventional FEC/EMC electrolyte, which may be related to the low Li<sup>+</sup> transport kinetic brought by poor separator wettability and severe side reaction between excess LiDFOB and lithium metal. The estimate Li reversibility of different electrolytes is listed in Figure&#x000a0;<xref rid="advs2307-fig-0006" ref-type="fig">6d</xref>, from which the Li anode cycled in 5 <sc>m</sc> DE electrolyte with polymeric SEI offers the highest CE of 98.9% under such a high current density and areal capacity.</p><fig fig-type="Figure" xml:lang="en" id="advs2307-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Electrochemical behavior of high&#x02010;voltage Li/NCM811 cells under harsh condition. a) Cycling performance of Li/NCM811 cells in three electrolytes with an <italic>N</italic>/<italic>P</italic> &#x02248; 3.76 (9 mAh cm<sup>&#x02212;2</sup> Li, 30&#x000a0;&#x000b5;L electrolyte) and b) corresponding voltage profiles of 5 <sc>m</sc> DE electrolyte sample. c) Cycling performance of Li/NCM811 cells in three electrolytes with an <italic>N</italic>/<italic>P</italic> &#x02248; 1.82 under 0.3C charge, 0.5C discharge condition. d) Calculated Li reversibility through full cell cycling performance in different electrolytes. e) 4.6&#x000a0;V cutoff voltage test for ether&#x02010;based and carbonate&#x02010;based electrolyte (9 mAh cm<sup>&#x02212;2</sup> Li, 30&#x000a0;&#x000b5;L electrolyte). f) &#x02248;350&#x000a0;Wh kg<sup>&#x02212;1</sup> coin cell prototype using low <italic>E</italic>/<italic>C</italic> ratio of 3.2&#x000a0;g Ah<sup>&#x02212;1</sup>.</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-8-2003240-g006"/></fig><p>The 4.6 V&#x000a0;cutoff charge voltage was performed to evaluate the stability of LiDFOB&#x02010;based ether electrolyte (Figure&#x000a0;<xref rid="advs2307-fig-0006" ref-type="fig">6e</xref>; Figure S18, Supporting Information). High cutoff voltage often gives rise to oxidative decomposition of conventional electrolytes, especially for the electron&#x02010;rich ethers. In electrolyte with low salt concentration of 1 <sc>m</sc> LiDFOB, large quantity of free DME molecules will decompose on cathode when the voltage exceeds 4.2 V,&#x000a0;reflecting as a low CE in full cell (&#x02248;98%) and fast capacity degradation within 30 cycles. Fluorinated carbonated electrolyte possesses high voltage endurance due to the presence of electron withdrawing F groups, exhibiting a highest CE of 99.55% within 60 cycles. As a comparison, 5 <sc>m</sc> DE shows a lifetime of more than 160 cycles with an average CE of 99.23%, indicating that the coordinated DME molecules are stable under high voltage condition.</p><p>More impressively, when the amount of electrolyte decreases to industrial standard of 3.2&#x000a0;g Ah<sup>&#x02212;1</sup>, the lifetime of cell using FEC/EMC electrolyte largely decreases to 38 cycles with 80% capacity retention. Such fast decay can be ascribed to electrolyte exhaustion caused by severe SEI formation between reactive electrolyte and fresh lithium metal. In contrast, the cell using 5 <sc>m</sc> DE possesses a long lifespan more than 129 cycles with a high energy density of &#x02248;350&#x000a0;Wh kg<sup>&#x02212;1</sup> under 0.3C charge/discharge condition (Figure&#x000a0;<xref rid="advs2307-fig-0006" ref-type="fig">6f</xref>; Figure S19, Supporting Information). This result is one of the best battery performances up to date under practical conditions when compared with other literature (Table S3, Supporting Information), indicating an outstanding sustainability of such high&#x02010;efficacy SEI for longtime operation.</p></sec><sec id="advs2307-sec-0060"><label>6</label><title>Conclusion</title><p>In this work, an electrolyte&#x02010;derived polyether/coordinated borates containing SEI has been conducted by using 5 <sc>m</sc> LiDFOB/DME/HFE electrolyte at full cell condition. We found that the CE in Li/Cu cell is not completely equal to the utilization rate of lithium in the actual full battery cycling, which is also related to oxidation potential of electrolyte components. The detailed oxidation mechanism of concentrated LiDFOB on lithium metal anode has been investigated by DFT calculation and experiment. Under high voltage conditions, LiDFOB salts are oxidized to form electron&#x02010;deficient B species and further coordinate with other anions to induce cross&#x02010;linking reactions. Cryoelectron microscopy, NMR, XPS, and ATR&#x02010;FTIR observations reveals that the outer SEI layer is an amorphous polyether/tri&#x02010;coordinated borates polymeric organic phase, while the inner layer is a robust inorganic crystalline with Li<sub>2</sub>O lattice. It is this sustainable and robust SEI that offers a high Li reversibility in both NCM/Cu cells and full cells. In the harsh conditions of high cutoff voltage of 4.4 V&#x000a0;and low <italic>N</italic>/<italic>P</italic> (2.0) and <italic>E</italic>/<italic>C</italic> (3.2&#x000a0;g Ah<sup>&#x02212;1</sup>) ratios, the cells using diluted electrolyte show the impressive performance with 98.9% Li reversibility. Our vital findings provide an innovative way to manipulate the organic phase in SEI for high&#x02010;performance lithium metal&#x02010;based batteries.</p></sec><sec id="advs2307-sec-0070"><label>7</label><title>Experimental Section</title><sec id="advs2307-sec-0080"><sec id="advs2307-sec-0090"><sec id="advs2307-sec-0100"><title>Simulation Details</title><p>The reaction mechanism was studied through density functional theory (DFT) calculations using the Gaussian 09W software (<ext-link ext-link-type="uri" xlink:href="http://gaussian.com/">http://gaussian.com/</ext-link>). The Gibbs free energy <italic>G</italic> of each compound in reactions is a sum of the thermal correction to Gibbs free energy <italic>Gcorr</italic> and electronic energy <italic>E</italic>. <italic>Gcorr</italic> was obtained by the structure optimization and frequency analysis using the B3LYP functional method and the 6&#x02013;31g(d) basis set, as well as the frequency correction factor 0.977, temperature 303.15&#x02005;K and SMD solvation model for DME environment with the static dielectric constant eps&#x02005; = &#x02005;7.2 and dynamic dielectric constant epsinf&#x02005; = &#x02005;1.9033. <italic>E</italic> was obtained through the calculations of single point energy using the same DME solvation environment, M062X functional method and 6&#x02013;311g(d,p) basis set.</p></sec><sec id="advs2307-sec-0110"><title>Materials</title><p>Ultrathin Li metal foil of 9.02&#x000a0;mA h cm<sup>&#x02212;2</sup> was purchased from China Energy Lithium Co., Ltd. LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub> cathode (NCM811: conductive carbon: polyvinylidene fluoride binder, PVDF = 97:2:1, by weigh) was supplied by SAIC Motor Passenger Vehicle Corporation with a cathode loading about &#x02248;4 and 5 mAh cm<sup>&#x02212;2</sup>. Lithium difluoro(oxalato)borate (LiDFOB), lithium hexafluorophosphate (LiPF<sub>6</sub>), fluoroethylene carbonate (FEC), ethyl methyl carbonate (EMC), 1,2&#x02010;dimethoxyethane (DME) were bought from DodoChem. 1,1,2,2&#x02010;Tetrafluoroethyl&#x02010;2,2,3,3&#x02010;tetrafluoropropylether (HFE) was bought from TCI (Shanghai) Development Co., Ltd. To prepare the diluted 5 <sc>m</sc> LiDFOB DE electrolyte, 715&#x000a0;mg LiDFOB was first put into 1&#x000a0;mL DME to form a transparent solution, after which 4&#x000a0;mL HFE was carefully added into the solution. To prepare the diluted 3 <sc>m</sc> LiDFOB DE electrolyte, 429&#x000a0;mg LiDFOB was first put into 1&#x000a0;mL DME to form a transparent solution, after which 2&#x000a0;mL HFE was carefully added into the solution.</p></sec><sec id="advs2307-sec-0120"><title>Electrochemical Measurement</title><p>LAND electrochemical testing system and Solartron Analytical Electrochemical Workstation were used to study the electrochemical performance of lithium metal&#x02010;based cells. The NCM811/Li cells were cycled to the cutoff voltage of 4.3, 4.4 and 4.6 V&#x000a0;(vs Li/Li<sup>+</sup>), respectively. All the cells are fabricated in the Argon&#x02010;fill glovebox with H<sub>2</sub>O and O<sub>2</sub> &#x0003c;&#x000a0;0.1 ppm.&#x000a0;For the cells cycled under the harsh condition of 350&#x000a0;Wh kg<sup>&#x02212;1</sup>, 11&#x000a0;&#x000b5;L electrolyte was added into each cell. A rest step of 2&#x000a0;min was added after each charge process under lean electrolyte conditions. Li/Cu cells were prepared by using Cu foils as counter electrode and cycled at 0&#x02013;2&#x000a0;V for five cycles to fully remove the contamination, after which a fixed amount of Li was plated on Cu electrode and stripped until the cutoff voltage increased to 1&#x000a0;V. NCM/Cu cells were prepared by using Cu foils and NCM811 (&#x02248;4&#x000a0;mA h cm<sup>&#x02212;2</sup>) as electrode and cycled at 2.8&#x02013;4.4 V.</p></sec><sec id="advs2307-sec-0130"><title>Characterization</title><p>The&#x000a0;surface&#x000a0;composition was confirmed by X&#x02010;ray photoelectron spectroscopy (ESCALAB 250Xi, Thermo Fisher Scientific Inc., USA). The morphologies of lithium anode were analyzed by SEM SU&#x02010;8010 (Hitachi) at 5&#x000a0;kV. High&#x02010;Resolution Transmission Electron Microscope was performed on JEM&#x02010;2100 at 200&#x000a0;kV. The Cryoelectron microscopy was carried out on Talos F200C 200&#x000a0;kV. Attenuated total reflection Flourier transformed infrared spectroscopy (ATR&#x02010;FTIR) was carried out on Nicolet5700. Raman spectra were carried out on ThermoFisher DXR SmartRaman. 1H&#x02010;NMR spectra were performed on a 600 MHz&#x000a0;DirectDrive2 spectrometer. Before test, the SEI residue from four disks was washed with DME solution and peeled off into glass bottle and dried for 12 h under 45&#x000a0;&#x000b0;C and 3 h in vacuum. Thereafter, DMSO&#x02010;d<sub>6</sub> solution was added and heated under 40&#x000a0;&#x000b0;C for 1 h to dissolve SEI.</p></sec></sec></sec></sec><sec sec-type="COI-statement" id="advs2307-sec-0150"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="advs2307-sec-0160"><title>Author Contributions</title><p>S.&#x02010;Y.L. and Y.&#x02010;Y.L. conceived the idea and designed the experiments. S.&#x02010;Y.L. and Q.&#x02010;L.L. performed the DFT calculation. All authors contributed in preparing the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-8-2003240-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs2307-sec-0140"><title>Acknowledgements</title><p>The authors owe their gratitude to Center of Cryo&#x02010;Electron Microscopy (CCEM), Zhejiang University, for the technical assistance on Cryo&#x02010;EM. The authors also thank Na Zheng at State Key Laboratory&#x000a0;of Chemical Engineering in Zhejiang University for performing SEM and Raman, Yangfan Lu at school of Materials Science and Engineering in Zhejiang University for performing XPS, and Dr. Shuyang Da majored in Foreign Language and Literature at school of International Studies in Zhejiang University for English polishing. The authors acknowledge financial support from the Natural Science Foundation of China (22022813, 21878268), the National Key R&#x00026;D Program of China (2018YFA0209600), the Leading Innovative and Entrepreneur Team Introduction Program of Zhejiang (2019R01006), and the Key R&#x00026;D Program of Zhejiang Province (2019C01155).</p></ack><ref-list id="advs2307-bibl-0001"><ref id="advs2307-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs2307-cit-0001">
+<string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source xml:lang="en">Nature</source>
+<year>2008</year>, <volume>451</volume>, <fpage>652</fpage>.<pub-id pub-id-type="pmid">18256660</pub-id></mixed-citation></ref><ref id="advs2307-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs2307-cit-0002">
+<string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Chem. Rev.</source>
+<year>2017</year>, <volume>117</volume>, <elocation-id>10403</elocation-id>.<pub-id pub-id-type="pmid">28753298</pub-id></mixed-citation></ref><ref id="advs2307-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs2307-cit-0003">
+<string-name>
+<given-names>M. D.</given-names>
+<surname>Tikekar</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Choudhury</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16114</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs2307-cit-0004">
+<string-name>
+<given-names>C.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Whittingham</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>551</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0005"><label>5</label><mixed-citation publication-type="book" id="advs2307-cit-0005">
+<string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, in <source xml:lang="en">Encyclopedia of Inorganic and Bioinorganic Chemistry</source>, (Ed: <person-group person-group-type="editor"><string-name>
+<given-names>R.A.</given-names>
+<surname>Scott</surname>
+</string-name></person-group>), <year>2020</year>. <pub-id pub-id-type="doi">10.1002/9781119951438.eibc2677</pub-id>
+</mixed-citation></ref><ref id="advs2307-bib-0006"><label>6</label><mixed-citation publication-type="book" id="advs2307-cit-0006">
+<string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <source xml:lang="en">Lithium Metal Anodes and Rechargeable Lithium Metal Batteries</source>, <publisher-name>Springer International Publishing</publisher-name>, <publisher-loc>Switzerland</publisher-loc>
+<year>2017</year>.</mixed-citation></ref><ref id="advs2307-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs2307-cit-0007">
+<string-name>
+<given-names>D.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>194</fpage>.<pub-id pub-id-type="pmid">28265117</pub-id></mixed-citation></ref><ref id="advs2307-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs2307-cit-0008">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Dufek</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Khalifah</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Liaw</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>V. R.</given-names>
+<surname>Subramanian</surname>
+</string-name>, <string-name>
+<given-names>M. F.</given-names>
+<surname>Toney</surname>
+</string-name>, <string-name>
+<given-names>V. V.</given-names>
+<surname>Viswanathan</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Whittingham</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>180</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs2307-cit-0009">
+<string-name>
+<given-names>C.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">Nat. Nanotechnol.</source>
+<year>2019</year>, <volume>14</volume>, <fpage>594</fpage>.<pub-id pub-id-type="pmid">31036907</pub-id></mixed-citation></ref><ref id="advs2307-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs2307-cit-0010">
+<string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>14935</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs2307-cit-0011">
+<string-name>
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J. Z.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Alvarado</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Schroeder</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ceja</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <source xml:lang="en">Nature</source>
+<year>2019</year>, <volume>572</volume>, <fpage>511</fpage>.<pub-id pub-id-type="pmid">31435056</pub-id></mixed-citation></ref><ref id="advs2307-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs2307-cit-0012">
+<string-name>
+<given-names>W.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lopez</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao&#x02010;Horn</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2020</year>, <volume>13</volume>, <fpage>212</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs2307-cit-0013">
+<string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <elocation-id>1808847</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs2307-cit-0014">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Yun</surname>
+</string-name>, <string-name>
+<given-names>Y. B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>Q. H.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>6932</fpage>.<pub-id pub-id-type="pmid">27219349</pub-id></mixed-citation></ref><ref id="advs2307-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs2307-cit-0015">
+<string-name>
+<given-names>T. T.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>N. W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <elocation-id>1700389</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs2307-cit-0016">
+<string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;T.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Chem</source>
+<year>2017</year>, <volume>2</volume>, <fpage>258</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs2307-cit-0017">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">Nano Energy</source>
+<year>2020</year>, <volume>69</volume>, <elocation-id>104387</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs2307-cit-0018">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>664</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs2307-cit-0019">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;M.</given-names>
+<surname>Joubert</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Chin</surname>
+</string-name>, <string-name>
+<given-names>A. L.</given-names>
+<surname>Koh</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Perrino</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Butz</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>2017</year>, <volume>358</volume>, <fpage>506</fpage>.<pub-id pub-id-type="pmid">29074771</pub-id></mixed-citation></ref><ref id="advs2307-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs2307-cit-0020">
+<string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Graff</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P. V.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>4450</fpage>.<pub-id pub-id-type="pmid">23448508</pub-id></mixed-citation></ref><ref id="advs2307-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs2307-cit-0021">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Choudhury</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Zachman</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Kourkoutis</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>310</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs2307-cit-0022">
+<string-name>
+<given-names>S. J.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>X. C.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z. Z.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>W. P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T. T.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>131</volume>, <fpage>7884</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs2307-cit-0023">
+<string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <elocation-id>14055</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs2307-cit-0024">
+<string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>3252</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs2307-cit-0025">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Jie</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jiao</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>3505</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs2307-cit-0026">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2020</year>, <volume>13</volume>, <fpage>1788</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs2307-cit-0027">
+<string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S. C.</given-names>
+<surname>Liou</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Nat. Nanotechnol.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>715</fpage>.<pub-id pub-id-type="pmid">30013215</pub-id></mixed-citation></ref><ref id="advs2307-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs2307-cit-0028">
+<string-name>
+<given-names>R.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Genovese</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Louli</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hames</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name>
+<given-names>I. G.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Dahn</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>683</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs2307-cit-0029">
+<string-name>
+<given-names>X.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Burton</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>B. E.</given-names>
+<surname>Matthews</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B. W.</given-names>
+<surname>Arey</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>1662</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs2307-cit-0030">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Amirmaleki</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Codirenzi</surname>
+</string-name>, <string-name>
+<given-names>L. V.</given-names>
+<surname>Goncharova</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Filleter</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source xml:lang="en">Matter</source>
+<year>2019</year>, <volume>1</volume>, <fpage>1215</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs2307-cit-0031">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Nix</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>3656</fpage>.<pub-id pub-id-type="pmid">30194431</pub-id></mixed-citation></ref><ref id="advs2307-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs2307-cit-0032">
+<string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Chem</source>
+<year>2018</year>, <volume>4</volume>, <fpage>174</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs2307-cit-0033">
+<string-name>
+<given-names>M.</given-names>
+<surname>Genovese</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Louli</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Taskovic</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Dahn</surname>
+</string-name>, <year>2019</year>, <volume>166</volume>, <elocation-id>A3342</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs2307-cit-0034">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Murugesan</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>674</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs2307-cit-0035">
+<string-name>
+<given-names>X.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Burton</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schroeder</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Alvarado</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">Chem</source>
+<year>2018</year>, <volume>4</volume>, <fpage>1877</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs2307-cit-0036">
+<string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6362</fpage>.<pub-id pub-id-type="pmid">25698340</pub-id></mixed-citation></ref><ref id="advs2307-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs2307-cit-0037">
+<string-name>
+<given-names>S.</given-names>
+<surname>Jurng</surname>
+</string-name>, <string-name>
+<given-names>Z. L.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Lucht</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2018</year>, <volume>11</volume>, <fpage>2600</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs2307-cit-0038">
+<string-name>
+<given-names>A.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Lucht</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;H.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Abraham</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2009</year>, <volume>156</volume>, <fpage>A318</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs2307-cit-0039">
+<string-name>
+<given-names>M.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xing</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Lucht</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>6794</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs2307-cit-0040">
+<string-name>
+<given-names>T.</given-names>
+<surname>Schedlbauer</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kr&#x000fc;ger</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Schmitz</surname>
+</string-name>, <string-name>
+<given-names>R. W.</given-names>
+<surname>Schmitz</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Schreiner</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Gores</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Passerini</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2013</year>, <volume>92</volume>, <fpage>102</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs2307-cit-0041">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bettge</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Abraham</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2012</year>, <volume>159</volume>, <elocation-id>A2109</elocation-id>.</mixed-citation></ref><ref id="advs2307-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs2307-cit-0042">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Cresce</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schroeder</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2019</year>, <volume>17</volume>, <fpage>366</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs2307-cit-0043">
+<string-name>
+<given-names>S.</given-names>
+<surname>Jiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Adams</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>739</fpage>.</mixed-citation></ref><ref id="advs2307-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs2307-cit-0044">
+<string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Menakath</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P. Y.</given-names>
+<surname>Zavalij</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Gaskell</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Iuga</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>B. W.</given-names>
+<surname>Eichhorn</surname>
+</string-name>, <source xml:lang="en">Nat. Chem.</source>
+<year>2019</year>, <volume>11</volume>, <fpage>789</fpage>.<pub-id pub-id-type="pmid">31427766</pub-id></mixed-citation></ref></ref-list></back></article>

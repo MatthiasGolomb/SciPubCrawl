@@ -1,0 +1,1348 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs11607" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12097123</article-id><article-id pub-id-type="pmid">40138201</article-id>
+<article-id pub-id-type="doi">10.1002/advs.202416426</article-id><article-id pub-id-type="publisher-id">ADVS11607</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject><subj-group subj-group-type="heading"><subject>Editor's Choice</subject></subj-group></subj-group></article-categories><title-group><article-title>Taming Lithium Nucleation and Growth on Cu Current Collector by Electrochemical Activation of ZnF<sub>2</sub> Layer</article-title></title-group><contrib-group><contrib id="advs11607-cr-0001" contrib-type="author"><name><surname>Nguyen</surname><given-names>Viet Phuong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7727-2499</contrib-id><xref rid="advs11607-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11607-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs11607-cr-0002" contrib-type="author"><name><surname>Shim</surname><given-names>Hyung Cheoul</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5275-8671</contrib-id><xref rid="advs11607-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs11607-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs11607-cr-0003" contrib-type="author"><name><surname>Byeon</surname><given-names>Young&#x02010;Woon</given-names></name><xref rid="advs11607-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs11607-cr-0004" contrib-type="author"><name><surname>Kim</surname><given-names>Jae&#x02010;Hyun</given-names></name><xref rid="advs11607-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11607-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs11607-cr-0005" contrib-type="author" corresp="yes"><name><surname>Lee</surname><given-names>Seung&#x02010;Mo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0732-4473</contrib-id><xref rid="advs11607-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11607-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>sm.lee@kimm.re.kr</email></address></contrib></contrib-group><aff id="advs11607-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Nanomechatronics</named-content>
+<institution>University of Science and Technology (UST)</institution>
+<named-content content-type="street">217 Gajeong&#x02010;ro</named-content>
+<city>Daejeon</city>
+<postal-code>34113</postal-code>
+<country country="KR">Republic of Korea</country>
+</aff><aff id="advs11607-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nanomechanics</named-content>
+<institution>Korea Institute of Machinery &#x00026; Materials (KIMM)</institution>
+<named-content content-type="street">156 Gajeongbuk&#x02010;ro</named-content>
+<city>Daejeon</city>
+<postal-code>34103</postal-code>
+<country country="KR">Republic of Korea</country>
+</aff><aff id="advs11607-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Advanced Analysis and Data Center</named-content>
+<institution>Korea Institute of Science and Technology (KIST)</institution>
+<city>Seoul</city>
+<postal-code>02792</postal-code>
+<country country="KR">Republic of Korea</country>
+</aff><aff id="advs11607-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Materials Science and Semiconductor Engineering</named-content>
+<institution>University of Ulsan, 93 Daehak&#x02010;ro, Nam&#x02010;gu</institution>
+<city>Ulsan</city>
+<postal-code>44610</postal-code>
+<country country="KR">Republic of Korea</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>sm.lee@kimm.re.kr</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>3</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><volume>12</volume><issue seq="610">19</issue><issue-id pub-id-type="doi">10.1002/advs.v12.19</issue-id><elocation-id>2416426</elocation-id><history>
+<date date-type="rev-recd"><day>14</day><month>2</month><year>2025</year></date>
+<date date-type="received"><day>07</day><month>12</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-12-2416426.pdf"/><abstract><title>Abstract</title><p>Lithium&#x02010;metal anodes are essential for the advancement of next&#x02010;generation batteries. However, their practical use is largely hindered by the uncontrollable growth of dendrites and intricate problems associated with fabricating anodes that meet capacity requirements. Here, it is demonstrated that an ultrathin ZnF<sub>2</sub> layer deposited on the copper foil can produce a novel and efficient current collector to address these challenges. It is observed that ZnF<sub>2</sub> can be transformed into LiZn alloy and LiF salt in one step by simple electrochemical activation. The resulting LiZn alloy exhibits high lithiophilicity, which reduces overpotential and promotes uniform lithium nucleation, while the LiF salt enhances the solid electrolyte interphase, ensuring uniform lithium growth. This synergistic effect led to a dendrite&#x02010;free, densely packed lithium anode with an extended lifespan, achieving over 900&#x000a0;h in symmetric cells at a high current density of 3&#x000a0;mA cm<sup>&#x02212;2</sup> and a high cut&#x02010;off capacity of 3 mAh cm<sup>&#x02212;2</sup>. Furthermore, full cells utilizing the lithium anode (Li capacity of 6 mAh cm<sup>&#x02212;2</sup>) paired with LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> cathodes (mass loading of 11.5&#x000a0;mg cm<sup>&#x02212;2</sup>) demonstrates drastically improved rate capability and excellent cycling stability. This approach holds great promise for developing safer and more efficient lithium&#x02010;metal&#x02010;based batteries for future energy storage solutions.</p></abstract><abstract id="advs11607-abs-0001" abstract-type="graphical"><p>Through a single&#x02010;step electrochemical activation process, the ultrathin ZnF<sub>2</sub> layer deposits on a Cu current collector can be transformed into lithiophilic LiZn alloy and LiF salt that can effectively regulate Li nucleation and growth.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-12-2416426-g002.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs11607-kwd-0001">current collector</kwd><kwd id="advs11607-kwd-0002">dendrite</kwd><kwd id="advs11607-kwd-0003">LiF&#x02010;rich SEI</kwd><kwd id="advs11607-kwd-0004">lithiophilic</kwd><kwd id="advs11607-kwd-0005">lithium&#x02010;metal battery</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Korea Institute of Machinery and Materials
+</institution><institution-id institution-id-type="doi">10.13039/501100003701</institution-id></institution-wrap></funding-source><award-id>NK255F</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Research Council of Science &#x00026; Technology
+</institution><institution-id institution-id-type="doi">10.13039/501100008783</institution-id></institution-wrap></funding-source><award-id>2710024139</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="9"/><word-count count="5015"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 22, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.6 mode:remove_FC converted:22.05.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs11607-cit-0001">
+<string-name>
+<given-names>V. P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>H. C.</given-names>
+<surname>Shim</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;W.</given-names>
+<surname>Byeon</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;M.</given-names>
+<surname>Lee</surname>
+</string-name>, <article-title>Taming Lithium Nucleation and Growth on Cu Current Collector by Electrochemical Activation of ZnF<sub>2</sub> Layer</article-title>. <source>Adv. Sci.</source>
+<year>2025</year>, <volume>12</volume>, <elocation-id>2416426</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202416426</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs11607-sec-0010"><label>1</label><title>Introduction</title><p>Lithium metal battery that uses metallic lithium (Li) as an anode is likely to be the next generation of energy storage systems.<sup>[</sup>
+<xref rid="advs11607-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> Those could include Li&#x02010;metal, Li&#x02010;sulfur, and Li&#x02010;air batteries. To construct these batteries, commercial thick Li foil (over 100&#x000a0;&#x000b5;m, corresponding to a highly overloaded capacity of more than 20 mAh cm<sup>&#x02212;2</sup>) is typically utilized because it is hard and expensive to reduce the thickness of Li foil to less than 50&#x000a0;&#x000b5;m with current technology.<sup>[</sup>
+<xref rid="advs11607-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs11607-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs11607-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> This means that a large excess amount of Li is not utilized, consequently reducing the gravimetric and volumetric capacities significantly. To produce thin Li anodes, roll pressing, molten Li process, and electrodeposition methods are currently being developed.<sup>[</sup>
+<xref rid="advs11607-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs11607-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> Among these, electrodeposition can control the thickness of the Li anode more accurately.<sup>[</sup>
+<xref rid="advs11607-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> Unfortunately, this method has faced critical challenges related to the morphology of deposited Li and the stability of the solid electrolyte interphase (SEI) layer,<sup>[</sup>
+<xref rid="advs11607-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> waiting for an effective technical solution.</p><p>Copper (Cu) is widely used as a current collector (CC) and host for Li deposition due to its excellent electrical conductivity and mechanical stability.<sup>[</sup>
+<xref rid="advs11607-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs11607-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="advs11607-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs11607-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> However, its inherent lithiophobicity, characterized by a high nucleation barrier, results in spatially inhomogeneous Li nucleation at the initial deposition stage.<sup>[</sup>
+<xref rid="advs11607-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="advs11607-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs11607-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs11607-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> This non&#x02010;uniform nucleation could cause subsequent non&#x02010;uniform Li growth. Furthermore, bare Cu cannot facilitate the uniformity of SEI to homogenize the Li&#x02010;ion flux.<sup>[</sup>
+<xref rid="advs11607-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> Consequently, Li tends to grow on Cu vertically rather than planarly, leading to uncontrollable dendritic Li growth during cycling, limited cycle life, and fast capacity decay of the Li&#x02010;metal anode.<sup>[</sup>
+<xref rid="advs11607-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="advs11607-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs11607-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup>
+</p><p>The stability of Li&#x02010;metal anodes is largely determined by two key factors: the Li&#x02010;attracting properties (lithiophilicity) of the Cu CC and the durability of the SEI layer.<sup>[</sup>
+<xref rid="advs11607-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="advs11607-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> Researchers have ceaselessly pursued various strategies to improve Li&#x02010;metal anode performance.<sup>[</sup>
+<xref rid="advs11607-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs11607-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="advs11607-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs11607-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="advs11607-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs11607-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="advs11607-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs11607-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs11607-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs11607-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> These efforts include enhancing the lithiophilicity of Cu CCs, creating artificial SEI layers, modifying electrode/separator interfaces, and developing novel electrolytes and additives. However, these approaches typically address only one aspect of the problem&#x02013;either improving Cu's lithiophilicity or strengthening the SEI layer&#x02013;but rarely tackle both issues simultaneously. As a result, they have fallen short of fully stabilizing Li&#x02010;metal anodes. Therefore, once a method is developed to simultaneously address both the Li dendrite formation and SEI stability challenges, it would undoubtedly be a technological breakthrough.</p><p>Here, we report a facile way to enhance the lithiophilicity of the Cu CC and facilitate the formation of a robust SEI layer in a one&#x02010;shot. We observed that the ultrathin ZnF<sub>2</sub> layer directly deposited on the Cu foil is in situ converted to LiZn alloy and LiF salt during the preliminary discharging process (i.e., (LiF&#x02010;LiZn)/Cu). The resulting LiZn alloy showed high lithiophilicity, thereby significantly reducing overpotential and homogenizing Li nucleation. Concurrently, the LiF salt reinforced the SEI to homogenize Li&#x02010;ion flux, thereby ensuring the uniformity of Li growth. Thanks to the synergistic effect, a dendrite&#x02010;free and dense Li anode with a long lifespan was readily realized. Full cells utilizing our Li anode exhibited significantly enhanced rate capability and cycling stability, showcasing the promising potential of our simple approach in stabilizing the Li anode.</p></sec><sec id="advs11607-sec-0020"><label>2</label><title>Preparation of ZnF<sub>2</sub>/Cu and Its Electrochemical Activation</title><p>We recognized that the pretreatment of the commercial Cu foil before use is highly needed because the inherent lithiophobic nature of Cu causes uneven Li nucleation, leading to significant growth of Li dendrites (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S1</xref>, Supporting Information). Motivated by this, we hypothesized that the Li hosting ability of Cu foil could be enhanced by coating it with a suitable material that could simultaneously reduce the nucleation overpotential and regulate Li growth. Based on this hypothesis, we turned our attention to ZnF<sub>2</sub> because it contains lithiophilic Zn and useful F for LiF formation.<sup>[</sup>
+<xref rid="advs11607-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs11607-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> To impeccably deposit a thin and conformal ZnF<sub>2</sub> layer on Cu foil (i.e., ZnF<sub>2</sub>/Cu), we employed atomic layer deposition (ALD).<sup>[</sup>
+<xref rid="advs11607-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="advs11607-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> We hypothesized that electrochemical activation might be able to allow ZnF<sub>2</sub> to be transformed into LiZn alloy and LiF salt, respectively, to induce uniform Li nucleation/growth and enhance the stability of the SEI layer (<bold>Figure</bold>&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">
+<bold>1</bold>A</xref>). In the following sections, we will show that our hypothesis was correct.</p><fig position="float" fig-type="Figure" id="advs11607-fig-0001"><label>Figure 1</label><caption><p>Proposed modification method of Cu current collector. A) Schematic Illustration of uniform Li deposition on Cu current collector triggered by ultrathin ZnF<sub>2</sub> layer prepared by ALD. Electrochemical activation transformed the ZnF<sub>2</sub> layer into LiZn alloy and LiF salt, both promoting favorable Li nucleation and growth (See the text for details). B) Optical and SEM images of raw Cu and ZnF<sub>2</sub> deposited Cu current collector, i.e., ZnF<sub>2</sub>/Cu, respectively. C,D) Bright&#x02010;field and dark&#x02010;field TEM images along with corresponding EDX mappings of Cu, Zn, and F elements, respectively. E) XRD pattern. F,G) XPS spectra of Zn 2p and F 1s, respectively. H) Discharging profiles of Li&#x02551;Cu and Li&#x02551;ZnF<sub>2</sub>/Cu cells to lead to electrochemical activation. The digital photos and SEM images of activated bare Cu and ZnF<sub>2</sub>/Cu current collectors are seen in the insets.</p></caption><graphic xlink:href="ADVS-12-2416426-g005" position="anchor" id="jats-graphic-3"/></fig><p>The ZnF<sub>2</sub>/Cu samples with different ZnF<sub>2</sub> layer thicknesses were prepared by adjusting the number of ALD cycles. After thorough characterizations, we determined the optimal thickness of the ZnF<sub>2</sub> layer (&#x02248;50&#x000a0;nm by 625 ALD cycles, see the details in the Experimental Section). As shown in Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1B</xref>, the reddish&#x02010;brown color of the Cu foil deepened after ZnF<sub>2</sub> ALD, while the morphology of the Cu foil remained nearly unchanged. The cross&#x02010;section transmission electron microscope (TEM) image exhibited a thin ZnF<sub>2</sub> layer uniformly covering the Cu foil (Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1C</xref>; Figure <xref rid="advs11607-supinfo-0001" ref-type="">S2</xref>, Supporting Information). An interplanar distance of 0.21 &#x000c5; observed in the high&#x02010;resolution TEM (HRTEM) image could be attributed to the (201) plane of ZnF<sub>2</sub>, verifying the formation of ZnF<sub>2</sub>. The energy&#x02010;dispersive X&#x02010;ray spectroscopy (EDX) analyses indicated a uniform distribution of Zn and F on the Cu surface (Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1D</xref>; Figure <xref rid="advs11607-supinfo-0001" ref-type="">S3</xref>, Supporting Information). The crystal structure and the composition of the ZnF<sub>2</sub> layer were then analyzed by X&#x02010;ray diffraction (XRD) and X&#x02010;ray photoelectron spectroscopy (XPS). The appearance of the ZnF<sub>2</sub> peaks in the XRD patterns, and the Zn and F peaks in the XPS spectra confirmed the presence of a ZnF<sub>2</sub> layer on the Cu foil once more. (Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1E</xref>; Figure <xref rid="advs11607-supinfo-0001" ref-type="">S4</xref>, Supporting Information). Notably, the characteristic peak of Cu could not be observed in the XPS survey scan of ZnF<sub>2</sub>/Cu, implying the perfect coverage of the ZnF<sub>2</sub>. Moreover, the difference between the binding energies of Zn 2p<sub>3/2</sub> (1022.5&#x000a0;eV) and 2p<sub>1/2</sub> (1045.6&#x000a0;eV) was calculated to be 23.1&#x000a0;eV, consistent with the values for Zn<sup>2+</sup> (Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1F</xref>).<sup>[</sup>
+<xref rid="advs11607-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> In the F 1s spectrum, the peak centered at 685.8&#x000a0;eV could be assigned to the F&#x02500;Zn bonds (Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1G</xref>).<sup>[</sup>
+<xref rid="advs11607-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> These results firmly demonstrated that the ultrathin ZnF<sub>2</sub> layer was successfully deposited on the surface of Cu foil.</p><p>To electrochemically activate this ZnF<sub>2</sub>/Cu, we assembled coin cells using ZnF<sub>2</sub>/Cu paired with Li foil. Then, the coin cells were discharged to 0.01&#x000a0;V and operated 5 cycles between 0.01 and 1.0&#x000a0;V (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S5</xref>, Supporting Information). We observed that unlike the Li&#x02551;Cu cell showing a rapid voltage drop, the Li&#x02551;ZnF<sub>2</sub>/Cu cell exhibits a long plateau at 0.4&#x000a0;V, presumably due to the lithiation of ZnF<sub>2</sub> (Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1H</xref>). After this operation, we disassembled these cells for further analysis. We observed that the color of the bare Cu electrode remains nearly unchanged, while the ZnF<sub>2</sub>/Cu becomes black (digital photos in Figure&#x000a0;<xref rid="advs11607-fig-0001" ref-type="fig">1H</xref>). This indicated that noticeable changes likely occur on the surfaces of the ZnF<sub>2</sub>/Cu during this electrochemical reaction. As can be seen in the scanning electron microscope (SEM) images, only a few spots appeared on the activated bare Cu electrode, likely due to the decomposition of the electrolyte. In contrast, the surface of the activated ZnF<sub>2</sub>/Cu was fully and uniformly covered by likely the products of the in situ electrochemical reactions between ZnF<sub>2</sub> and Li<sup>+</sup> ions.</p><p>To validate what occurred in the ZnF<sub>2</sub>/Cu during this electrochemical activation, first, the time&#x02010;of&#x02010;flight secondary&#x02010;ion mass spectrometry (ToF&#x02010;SIMS) analysis was performed. The results showed that F<sup>&#x02212;</sup> is not only distributed in the Zn<sup>&#x02212;</sup> area but also evenly spreads throughout the entire buffer layer on the activated ZnF<sub>2</sub>/Cu (<bold>Figure</bold>
+<xref rid="advs11607-fig-0002" ref-type="fig">
+<bold>2</bold>A</xref>). The F<sup>&#x02212;</sup> signals likely come from the F&#x02010;enriched species formed by the reaction between ZnF<sub>2</sub> and Li<sup>+</sup>, and from the electrolyte. The XPS depth profiling further identified the compounds containing the F<sup>&#x02212;</sup>. The F&#x02500;Li peaks were detected, confirming the formation of LiF salt (Figure&#x000a0;<xref rid="advs11607-fig-0002" ref-type="fig">2B</xref>). The LiF salts on the activated bare Cu electrode appear to have been generated by the electrolyte decomposition. Meanwhile, the reaction between ZnF<sub>2</sub> and Li<sup>+</sup> seemed to have significantly enriched the LiF content in the buffer layer on the activated ZnF<sub>2</sub>/Cu, as evidenced by the strong F&#x02500;Li peak. The characteristic peaks of Zn 2p were shifted to the lower binding energy compared to the initial values because most Zn<sup>2+</sup> in ZnF<sub>2</sub> was reduced to Zn<sup>0</sup> in LiZn (Figure&#x000a0;<xref rid="advs11607-fig-0002" ref-type="fig">2C</xref>). TEM analysis provided additional information on the substances generated by the electrochemical activation of ZnF<sub>2</sub>/Cu. Figure&#x000a0;<xref rid="advs11607-fig-0002" ref-type="fig">2D,E</xref> shows the HRTEM images, selective area electron diffraction (SAED) patterns, and the plot of D&#x02010;spacing against electron diffraction intensity measured at different positions of the activated ZnF<sub>2</sub>/Cu, respectively. Near the interface between Cu and ZnF<sub>2</sub>, the signal of LiZn was dominant (P1), and in the intermediate region (P2), both LiZn and LiF were detected. At the end region of the buffer layer (P3), the LiF signal was dominant. These findings were further corroborated by EDX, which detected corresponding Zn and F element signals (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S6</xref>, Supporting Information). This additional analysis reinforces the observed gradient in composition across the interface. These ToF&#x02010;SIMS, XPS, and TEM data indicated that in the buffer layer, the LiF and LiZn are distributed rather unevenly with regional selectivity (Figure&#x000a0;<xref rid="advs11607-fig-0002" ref-type="fig">2F</xref>). Our analysis strongly indicated that the ultrathin ZnF<sub>2</sub> on the Cu CC undergoes in situ conversion, forming a (LiF&#x02010;LiZn)/Cu composite likely through the following electrochemical reaction: ZnF<sub>2</sub> + 3Li<sup>+</sup> + 3e<sup>&#x02212;</sup> &#x02192; LiZn + 2LiF.</p><fig position="float" fig-type="Figure" id="advs11607-fig-0002"><label>Figure 2</label><caption><p>Analysis to monitor the change of ZnF<sub>2</sub>/Cu after electrochemical activation. A) ToF&#x02010;SIMS depth profile showing the distribution of F<sup>&#x02212;</sup> and Zn<sup>&#x02212;</sup> in the electrochemically activated ZnF<sub>2</sub>/Cu. The inset is a 3D reconstruction of Zn<sup>&#x02212;</sup> distribution in activated ZnF<sub>2</sub>/Cu. B,C) High&#x02010;resolution XPS spectrum of F 1s and Zn 2p after activation, respectively. D) HRTEM images and corresponding SAED patterns measured at different positions (P1, P2, and P3) of the activated ZnF<sub>2</sub>/Cu. E) The plot of D&#x02010;spacing against electron diffraction intensity at P1, P2, and P3, respectively. F) HRTEM image of the activated ZnF<sub>2</sub>/Cu and presumable distribution of LiF and LiZn in the buffer layer.</p></caption><graphic xlink:href="ADVS-12-2416426-g003" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="advs11607-sec-0030"><label>3</label><title>Li Deposition Behavior on the (LiF&#x02010;LiZn)/Cu CC</title><p>The advantages of the in situ formed LiZn alloy and LiF salt in regulating the Li nucleation and growth were evaluated by electrodeposition of Li at various current densities and capacities. As shown in <bold>Figure</bold>
+<xref rid="advs11607-fig-0003" ref-type="fig">
+<bold>3</bold>A</xref>, at a current density of 1&#x000a0;mA cm<sup>&#x02212;2</sup>, the overpotential of Li nucleation on the (LiF&#x02010;LiZn)/Cu CC was recorded as 11&#x000a0;mV. This value remained nearly unchanged even after 200 cycles of Li plating/stripping (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S7</xref>, Supporting Information) and was significantly lower than that on bare Cu (79&#x000a0;mV). Even when the current density increased to 3&#x000a0;mA cm<sup>&#x02212;2</sup>, the (LiF&#x02010;LiZn)/Cu CC electrode still exhibited a lower overpotential (Figure&#x000a0;<xref rid="advs11607-fig-0003" ref-type="fig">3B</xref>). The significant reduction of the overpotential could be attributed to the improved lithiophilicity of the (LiF&#x02010;LiZn)/Cu CC.<sup>[</sup>
+<xref rid="advs11607-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="advs11607-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> Indeed, the results of theoretical calculations showed that the adsorption energy of Li on LiZn alloy was considerably higher than that on bare Cu (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S8</xref>, Supporting Information), testifying to the high affinity between Li<sup>+</sup> ions and LiZn alloy.<sup>[</sup>
+<xref rid="advs11607-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> Furthermore, we observed that on the bare Cu CC, Li plating/stripping lasted only 65 cycles, likely due to the formation of Li dendrites, which eventually transformed into inactive Li (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S9</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs11607-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs11607-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> In contrast, the (LiF&#x02010;LiZn)/Cu CC could enable stable Li plating/stripping with the average Coulombic efficiency (CE) of 99.2% for more than 200 cycles at 1&#x000a0;mA cm<sup>&#x02212;2</sup> with a cut&#x02010;off capacity of 2 mAh cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="advs11607-fig-0003" ref-type="fig">3C</xref>). The initial CE of Li plating/stripping on the (LiF&#x02010;LiZn)/Cu CC was also found to be improved, indicating enhanced reversibility. When the current density and cut&#x02010;off capacity increased to 3&#x000a0;mA cm<sup>&#x02212;2</sup> and 3 mAh cm<sup>&#x02212;2</sup>, respectively, the CE was as high as 98.4% for more than 150 cycles (Figure&#x000a0;<xref rid="advs11607-fig-0003" ref-type="fig">3D</xref>). Even at a higher current density of 5&#x000a0;mA cm<sup>&#x02212;2</sup>, (LiF&#x02010;LiZn)/Cu demonstrated excellent reversibility of Li plating/stripping (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S10</xref>, Supporting Information). The voltage hysteresis of the Li plating/stripping on the (LiF&#x02010;LiZn)/Cu CC was found to be greatly reduced (Figures <xref rid="advs11607-supinfo-0001" ref-type="">S11</xref> and <xref rid="advs11607-supinfo-0001" ref-type="">S12</xref>, Supporting Information). The roles of the in situ formed LiZn alloy and LiF&#x02010;enriched SEI in regulating the Li nucleation and growth were further disclosed by the morphologies of Li deposition with different capacities at a current density of 1&#x000a0;mA cm<sup>&#x02212;2</sup>. The SEM images in Figure&#x000a0;<xref rid="advs11607-fig-0003" ref-type="fig">3E</xref> showed that Li nuclei on the lithiophobic Cu CC surface are unevenly distributed. Due to the tip effect, Li<sup>+</sup> ions likely tended to deposit at the exiting Li nuclei.<sup>[</sup>
+<xref rid="advs11607-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> Further, Li deposition led to the formation of elongated and whisker&#x02010;like dendrites and loose structures with numerous voids. At a capacity of 6 mAh cm<sup>&#x02212;2</sup>, the thickness of Li deposited on the bare Cu CC was measured to be &#x02248;42&#x000a0;&#x000b5;m. Meanwhile, the morphology of Li deposited on the (LiF&#x02010;LiZn)/Cu CC was completely different (Figure&#x000a0;<xref rid="advs11607-fig-0003" ref-type="fig">3F</xref>). Thanks to the uniform distribution of highly lithiophilic LiZn alloy that acted as preferential nucleation seeds, Li nuclei likely formed in the form of the film without random agglomeration. Subsequently, the LiF&#x02010;enriched SEI regulated the Li&#x02010;ion flux, resulting in homogeneous and dense Li growth. Therefore, at a capacity of 6 mAh cm<sup>&#x02212;2</sup>, Li deposited on the (LiF&#x02010;LiZn)/Cu CC had a thickness of just &#x02248;34&#x000a0;&#x000b5;m, which was much smaller than that on the bare Cu CC. Furthermore, upon complete Li stripping, the (LiF&#x02010;LiZn)/Cu CC surface maintained pristine cleanliness, whereas random Li agglomeration persisted on the bare Cu CC (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S13</xref>, Supporting Information). So far, we have provided a clear mechanistic understanding of how pre&#x02010;deposited metal fluorides are transformed and subsequently influence Li deposition, offering new insights into interfacial engineering for next&#x02010;generation Li&#x02010;metal anodes.</p><fig position="float" fig-type="Figure" id="advs11607-fig-0003"><label>Figure 3</label><caption><p>Li deposition on bare Cu and ZnF<sub>2</sub>/Cu current collectors. A,B) Voltage profiles of Li plating showing the nucleation overpotentials at current densities of 1 and 3&#x000a0;mA cm<sup>&#x02212;2</sup> on bare Cu and (LiF&#x02010;LiZn)/Cu, respectively. C,D) Coulombic efficiency of Li plating/stripping at current densities of 1 and 3&#x000a0;mA cm<sup>&#x02212;2</sup> and cut&#x02010;off capacities of 2 and 3 mAh cm<sup>&#x02212;2</sup>, respectively. E,F) Morphologies and thicknesses of Li deposited on bare Cu and (LiF&#x02010;LiZn)/Cu, respectively.</p></caption><graphic xlink:href="ADVS-12-2416426-g004" position="anchor" id="jats-graphic-7"/></fig></sec><sec id="advs11607-sec-0040"><label>4</label><title>Probing the Cycling Stability</title><p>The cycling stability of the Li/(LiF&#x02010;LiZn)/Cu electrode (Figure&#x000a0;<xref rid="advs11607-fig-0003" ref-type="fig">3F</xref>, Li capacity of 6 mAh cm<sup>&#x02212;2</sup>) was investigated using symmetric cells and compared with that of the Li/Cu counterpart (Figure&#x000a0;<xref rid="advs11607-fig-0003" ref-type="fig">3E</xref>). The symmetric cells with the Li/(LiF&#x02010;LiZn)/Cu electrodes exhibited steady cyclability over 1000&#x000a0;h with a small voltage hysteresis of 17&#x000a0;mV at the 1&#x000a0;mA cm<sup>&#x02212;2</sup> and 1 mAh cm<sup>&#x02212;2</sup> (<bold>Figure</bold>&#x000a0;<xref rid="advs11607-fig-0004" ref-type="fig">
+<bold>4</bold>A</xref>). In sharp contrast, the symmetric cells with the Li/Cu electrode could work for a short time due to a gradual increase in voltage hysteresis. Astonishingly, when the current density and the cut&#x02010;off capacity were adjusted up to 3&#x000a0;mA cm<sup>&#x02212;2</sup> and 3 mAh cm<sup>&#x02212;2</sup>, the excellent stability of the Li/(LiF&#x02010;LiZn)/Cu electrode was well maintained, showing the promise for the application in fast&#x02010;charging Li&#x02010;metal battery. The Li/(LiF&#x02010;LiZn)/Cu electrode could stably cycle with a voltage hysteresis of &#x02248;25&#x000a0;mV, while the other exhibited seriously reduced cycle life (Figure&#x000a0;<xref rid="advs11607-fig-0004" ref-type="fig">4B</xref>). Interestingly, the symmetric cells with the Li/(LiF&#x02010;LiZn)/Cu electrodes were still able to work well at extremely high current densities of 5 and 10&#x000a0;mA cm<sup>&#x02212;2</sup> (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S14</xref>, Supporting Information). The cycling stability of the Li/(LiF&#x02010;LiZn)/Cu electrode was comparable to or even outperformed previously reported data (Table <xref rid="advs11607-supinfo-0001" ref-type="">S1</xref>, Supporting Information). Electrochemical impedance spectroscopy (EIS) was conducted to examine the interface resistance of the electrodes. The cell using Li/(LiF&#x02010;LiZn)/Cu electrodes displayed a much lower charge transfer resistance than the one using Li/Cu electrodes (Figure&#x000a0;<xref rid="advs11607-fig-0004" ref-type="fig">4C</xref>). The largely reduced charge transfer resistance of the cell using Li/(LiF&#x02010;LiZn)/Cu electrodes could be attributed to the LiF&#x02010;enriched SEI layer. To better understand the electrochemical stability, the morphology evolution of these electrodes was further investigated. As shown in Figure&#x000a0;<xref rid="advs11607-fig-0004" ref-type="fig">4D</xref>, the Li/Cu electrode presented a rough surface entirely enveloped by irregular, whisker&#x02010;shaped Li dendrites, accompanied by extensive gaps that exposed a loose and porous structure. These Li dendrites substantially augmented the surface area of deposited Li metal, causing continuous electrolyte consumption to form passivation layers and decayed cyclability. However, in the case of the Li/(LiF&#x02010;LiZn)/Cu electrode, a clean surface without Li dendrites and dense structure was well preserved (Figure&#x000a0;<xref rid="advs11607-fig-0004" ref-type="fig">4E</xref>), explaining its excellent cycling stability. Given the capability of working at high current densities and long&#x02010;term cycling performance, Li/(LiF&#x02010;LiZn)/Cu could be regarded as an appealing anode for LMB applications.</p><fig position="float" fig-type="Figure" id="advs11607-fig-0004"><label>Figure 4</label><caption><p>Stability of the Li&#x02010;metal anode. A,B) Long&#x02010;term cycling performance of symmetric cells at current densities of 1 and 3&#x000a0;mA cm<sup>&#x02212;2</sup> and cut&#x02010;off capacities of 1 and 3 mAh cm<sup>&#x02212;2</sup>, respectively. C) EIS plots of symmetric cells after 10 cycles. D,E) SEM images Li/Cu and Li/(LiF&#x02010;LiZn)/Cu, respectively, after the cycling test.</p></caption><graphic xlink:href="ADVS-12-2416426-g001" position="anchor" id="jats-graphic-9"/></fig></sec><sec id="advs11607-sec-0050"><label>5</label><title>Full Battery Performance</title><p>We probed the electrochemical performance of the high&#x02010;voltage full&#x02010;cell composed of Li/(LiF&#x02010;LiZn)/Cu as an anode and a LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC) as a cathode (i.e., Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC cell). The Li/Cu&#x02551;NMC cell was also assembled for comparative study. The mass loading of NMC was 11.5&#x000a0;mg cm<sup>&#x02212;2</sup>, and the capacity of pre&#x02010;deposited Li was 6 mAh cm<sup>&#x02212;2</sup>. The negative&#x02010;to&#x02010;positive (N/P) capacity ratio was calculated to be 2.7. The rate capability of these two cells is shown in <bold>Figure</bold>
+<xref rid="advs11607-fig-0005" ref-type="fig">
+<bold>5</bold>A</xref>. At a low current density of 0.1&#x000a0;mA cm<sup>&#x02212;2</sup>, both two cells delivered similar capacities. However, as the current density increases, the Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC cell exhibited significantly higher capacities than the Li/Cu&#x02551;NMC cell. At a high current density of 5&#x000a0;mA cm<sup>&#x02212;2</sup>, the Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC cell still delivered a high discharge capacity of 1.55 mAh cm<sup>&#x02212;2</sup>, while the capacity of the Li/Cu&#x02551;NMC cell quickly dropped to 0.73 mAh cm<sup>&#x02212;2</sup>. The enhanced rate capability of the Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC cell could be attributed to the superior kinetic properties of the Li/(LiF&#x02010;LiZn)/Cu anode, particularly when operating at high current densities. In addition, the charge and discharge plateau of the Li/Cu&#x02551;NMC cell almost disappeared, accompanied by a large hysteresis voltage (Figure&#x000a0;<xref rid="advs11607-fig-0005" ref-type="fig">5B</xref>). In contrast, the Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC cell well maintained the characteristic shape of the charge&#x02013;discharge curves (Figure&#x000a0;<xref rid="advs11607-fig-0005" ref-type="fig">5C</xref>) and showed better cycling stability compared to the Li/Cu&#x02551;NMC cell (Figure&#x000a0;<xref rid="advs11607-fig-0005" ref-type="fig">5D</xref>; Figure <xref rid="advs11607-supinfo-0001" ref-type="">S15</xref>, Supporting Information). After 200 cycles at 1&#x000a0;mA cm<sup>&#x02212;2</sup>, the capacity retention of the Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC cell was calculated to be 81%, along with well&#x02010;maintained charge&#x02013;discharge plateaus during repeated cycling. Conversely, the Li/Cu&#x02551;NMC cell operated only &#x02248;60 cycles before a rapid capacity drop. Even more encouragingly, the &#x0201c;anode&#x02010;less&#x0201d; cell utilizing the Li/(LiF&#x02010;LiZn)/Cu anode, with only 2 mAh cm<sup>&#x02212;2</sup> of pre&#x02010;deposited Li (N/P ratio reduced to 0.9), operated stably, achieving capacity retention of 88% after 50 cycles (Figure&#x000a0;<xref rid="advs11607-fig-0005" ref-type="fig">5E</xref>; Figure <xref rid="advs11607-supinfo-0001" ref-type="">S16</xref>, Supporting Information). This result indicated the excellent potential of Li/(LiF&#x02010;LiZn)/Cu for enabling high&#x02010;performance &#x0201c;anode&#x02010;less&#x0201d; Li batteries.</p><fig position="float" fig-type="Figure" id="advs11607-fig-0005"><label>Figure 5</label><caption><p>Electrochemical performance of the Li&#x02010;metal full cells. A) Rate capability of different Li&#x02551;NMC full cells. B,C) Discharge and charge voltage profiles of Li/Cu&#x02551;NMC and Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC full cells, respectively, at various current densities. D) Long&#x02010;term cycling performance of different Li&#x02551;NMC full cells. E) Cycling performance of the Li/(LiF&#x02010;LiZn)/Cu&#x02551;NMC &#x0201c;anode&#x02010;less&#x0201d; cell with the N/P ratio of 0.9. F) Long&#x02010;term cycling performance of the Li/(LiF&#x02010;LiZn)/Cu&#x02551;S and Li/Cu&#x02551;S full cells. G) Discharge and charge voltage profiles of the Li/(LiF&#x02010;LiZn)/Cu&#x02551;S full cell at the 1st and 100th cycle.</p></caption><graphic xlink:href="ADVS-12-2416426-g006" position="anchor" id="jats-graphic-11"/></fig><p>The Li anode is also known to be a critical component that directly affects the performance of lithium&#x02010;sulfur batteries.<sup>[</sup>
+<xref rid="advs11607-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="advs11607-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="advs11607-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> Therefore, to further verify the applicability of the (LiF&#x02010;LiZn)/Cu CC, we also assembled a cell using the Li/(LiF&#x02010;LiZn)/Cu as an anode and a high&#x02010;capacity S as a cathode. To restrain the shuttle effect of lithium polysulfides and promote conversion reactions, we employed MXene&#x02010;driven TiO<sub>2</sub>/TiS<sub>2</sub> as a sulfur host (Figure <xref rid="advs11607-supinfo-0001" ref-type="">S17</xref>, Supporting Information), whose high performance had been already proven in the previous study.<sup>[</sup>
+<xref rid="advs11607-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> The mass loading of S was as high as 5.0&#x000a0;mg cm<sup>&#x02212;2</sup>, and the capacity of pre&#x02010;deposited Li was 6 mAh cm<sup>&#x02212;2</sup>. The lithium&#x02010;sulfur battery full cell initially reached a high capacity of 4.79 mAh cm<sup>&#x02212;2</sup>. Because of the high stability of both the anode and cathode, the discharge capacity of the cell using the Li/(LiF&#x02010;LiZn)/Cu anode was recorded to be up to 3.80 mAh cm<sup>&#x02212;2</sup> together with a capacity retention of 79% (Figure&#x000a0;<xref rid="advs11607-fig-0005" ref-type="fig">5F,G</xref>). These results confirmed that our current collector could enable the enhanced rate capability and cycling stability of not only high&#x02010;voltage full cells using intercalation cathodes but also high&#x02010;capacity full cells using conversion cathodes.</p></sec><sec id="advs11607-sec-0060"><label>6</label><title>Conclusion</title><p>In summary, we demonstrated that the ultrathin ZnF<sub>2</sub> layer deposited on the Cu current collector can be converted into LiZn alloy and LiF salt in a single step by simple electrochemical activation (ZnF<sub>2</sub> + 3Li<sup>+</sup> + 3e<sup>&#x02212;</sup> &#x02192; LiZn + 2LiF). From these reactions, the raw Cu foil was directly transformed into a new type of current collector in the form of (LiF&#x02010;LiZn)/Cu. The LiZn alloy significantly reduced overpotential and promoted uniform Li nucleation due to its remarkable lipophilicity. Meanwhile, the LiF salt reinforced the SEI, regulating Li<sup>+</sup> flux and ensuring uniform Li growth. The synergistic effects created by LiZn and LiF effectively prevented the formation of unwanted Li dendrites while stabilizing the Li anode structure during electrochemical cycling. Consequently, the newly developed Li/(LiF&#x02010;LiZn)/Cu anode exhibited exceptional rate capability and cycling stability, showcasing superior performance in both high&#x02010;voltage and high&#x02010;capacity cells. This simple and feasible strategy is expected to offer great potential for the advancement of next&#x02010;generation Li&#x02010;metal&#x02010;based battery systems.</p></sec><sec sec-type="COI-statement" id="advs11607-sec-0080"><title>Conflict of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs11607-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="advs11607-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-12-2416426-s001.pdf"/></supplementary-material></sec></body><back><ack id="advs11607-sec-0070"><title>Acknowledgements</title><p>The authors would like to acknowledge the financial support from the National Research Council of Science &#x00026; Technology (NST) grant by the Korean government (MSIT) (No. 2710024139), and the internal research program of the Korea Institute of Machinery and Materials (NK255F).</p></ack><sec sec-type="data-availability" id="advs11607-sec-0100"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs11607-bibl-0001"><ref id="advs11607-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs11607-cite-0001">
+<string-name>
+<given-names>D.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>194</fpage>.<pub-id pub-id-type="pmid">28265117</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs11607-cite-0002">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Gray</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y. C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>T. E.</given-names>
+<surname>Mallouk</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>384</fpage>.<pub-id pub-id-type="pmid">30858569</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs11607-cite-0003">
+<string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>D. T.</given-names>
+<surname>Boyle</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L. S.</given-names>
+<surname>de Vasconcelos</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Matsumoto</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Motohashi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nakayama</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>790</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs11607-cite-0004">
+<string-name>
+<given-names>J. I.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Park</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1803722</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs11607-cite-0005">
+<string-name>
+<given-names>J.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>J. Mater. Chem. A.</source>
+<year>2024</year>, <volume>12</volume>, <elocation-id>18127</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs11607-cite-0006">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Carbon Neutral.</source>
+<year>2024</year>, <volume>3</volume>, <fpage>647</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs11607-cite-0007">
+<string-name>
+<given-names>P.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater. Technol.</source>
+<year>2020</year>, <volume>5</volume>, <elocation-id>1900806</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs11607-cite-0008">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Ouyang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Muqaddas</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <elocation-id>2407648</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs11607-cite-0009">
+<string-name>
+<given-names>P.</given-names>
+<surname>Molaiyan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Abdollahifar</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Boz</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Beutl</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Krammer</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tron</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Romio</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ricci</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Adelung</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kwade</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Lassi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Paolella</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2024</year>, <volume>34</volume>, <elocation-id>2311301</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs11607-cite-0010">
+<string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lai</surname>
+</string-name>, <source>EcoEnergy</source>
+<year>2024</year>, <volume>2</volume>, <fpage>311</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs11607-cite-0011">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhan</surname>
+</string-name>, <source>ChemPhysChem</source>
+<year>2024</year>, <volume>25</volume>, <elocation-id>202400007</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs11607-cite-0012">
+<string-name>
+<given-names>B.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bonakdarpour</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Sto&#x00161;evski</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Wilkinson</surname>
+</string-name>, <source>Prog. Mater. Sci.</source>
+<year>2022</year>, <volume>130</volume>, <elocation-id>100996</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs11607-cite-0013">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Ai</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2023</year>, <volume>10</volume>, <elocation-id>2301288</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs11607-cite-0014">
+<string-name>
+<given-names>S.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ming</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>L. Z.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2019</year>, <volume>19</volume>, <fpage>1832</fpage>.<pub-id pub-id-type="pmid">30633522</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs11607-cite-0015">
+<string-name>
+<given-names>S.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <source>Small</source>
+<year>2020</year>, <volume>16</volume>, <elocation-id>1905620</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs11607-cite-0016">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojas</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A. T.</given-names>
+<surname>Ngo</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2020</year>, <volume>5</volume>, <fpage>534</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs11607-cite-0017">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>J. Z.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Olguin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>E. S.</given-names>
+<surname>Sablina</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Rustomji</surname>
+</string-name>, <string-name>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>High</surname>
+</string-name>, <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>1986</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs11607-cite-0018">
+<string-name>
+<given-names>F.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Huguet</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Deabate</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2020</year>, <volume>73</volume>, <elocation-id>104746</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs11607-cite-0019">
+<string-name>
+<given-names>S.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2023</year>, <volume>17</volume>, <elocation-id>20689</elocation-id>.<pub-id pub-id-type="pmid">37796083</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs11607-cite-0020">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Sheng</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Lou</surname>
+</string-name>, <source>Science</source>
+<year>2022</year>, <volume>375</volume>, <fpage>739</fpage>.<pub-id pub-id-type="pmid">35175797</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs11607-cite-0021">
+<string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16010</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs11607-cite-0022">
+<string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>W. Y.</given-names>
+<surname>Lai</surname>
+</string-name>, <source>EcoMat.</source>
+<year>2024</year>, <volume>6</volume>, <elocation-id>e12478</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs11607-cite-0023">
+<string-name>
+<given-names>S. T.</given-names>
+<surname>Oyakhire</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D. T.</given-names>
+<surname>Boyle</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>de Paula</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Bent</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>2002736</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs11607-cite-0024">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L. V.</given-names>
+<surname>Goncharova</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>T. K.</given-names>
+<surname>Sham</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2021</year>, <volume>14</volume>, <fpage>4085</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs11607-cite-0025">
+<string-name>
+<given-names>S.</given-names>
+<surname>Abdul Ahad</surname>
+</string-name>, <string-name>
+<given-names>T. E.</given-names>
+<surname>Adegoke</surname>
+</string-name>, <string-name>
+<given-names>K. M.</given-names>
+<surname>Ryan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Geaney</surname>
+</string-name>, <source>Small</source>
+<year>2023</year>, <volume>19</volume>, <elocation-id>2207902</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs11607-cite-0026">
+<string-name>
+<given-names>L.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>483</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs11607-cite-0027">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>You</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2103972</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs11607-cite-0028">
+<string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>W. Y.</given-names>
+<surname>Lai</surname>
+</string-name>, <source>Research</source>
+<year>2023</year>, <volume>6</volume>, <fpage>0267</fpage>.<pub-id pub-id-type="pmid">38434242</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs11607-cite-0029">
+<string-name>
+<given-names>L.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Feng</surname>
+</string-name>, <source>Chem. Eng. J.</source>
+<year>2022</year>, <volume>442</volume>, <elocation-id>136243</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs11607-cite-0030">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Chem. Soc. Rev.</source>
+<year>2021</year>, <volume>50</volume>, <fpage>3889</fpage>.<pub-id pub-id-type="pmid">33523063</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs11607-cite-0031">
+<string-name>
+<given-names>K. H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Sanchez</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Kazyak</surname>
+</string-name>, <string-name>
+<given-names>A. L.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name>
+<given-names>N. P.</given-names>
+<surname>Dasgupta</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1802534</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs11607-cite-0032">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Luan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Lou</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2023</year>, <volume>62</volume>, <elocation-id>2312145</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs11607-cite-0033">
+<string-name>
+<given-names>G.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhi</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2210051</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs11607-cite-0034">
+<string-name>
+<given-names>V. P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>I. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. C.</given-names>
+<surname>Shim</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Yuk</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2022</year>, <volume>46</volume>, <fpage>542</fpage>.</mixed-citation></ref><ref id="advs11607-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs11607-cite-0035">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Meyerson</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Rodriguez</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kawashima</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Weeks</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Henkelman</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Heller</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>C. B. Li</given-names>
+<surname>Mullins</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <fpage>9985</fpage>.<pub-id pub-id-type="pmid">33591714</pub-id>
+</mixed-citation></ref><ref id="advs11607-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs11607-cite-0036">
+<string-name>
+<given-names>M.</given-names>
+<surname>Abdollahifar</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Paolella</surname>
+</string-name>, <source>Batter. Supercaps</source>
+<year>2024</year>, <elocation-id>202400505</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs11607-cite-0037">
+<string-name>
+<given-names>E.</given-names>
+<surname>Adhitama</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Demelash</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Brake</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Arifiadi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Vahnstiege</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Javed</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wiemers&#x02010;Meyer</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Placke</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2024</year>, <volume>14</volume>, <elocation-id>2303468</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs11607-cite-0038">
+<string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2022</year>, <volume>10</volume>, <elocation-id>15161</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs11607-cite-0039">
+<string-name>
+<given-names>V. P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>H. C.</given-names>
+<surname>Shim</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Yuk</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2023</year>, <volume>33</volume>, <elocation-id>2303503</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs11607-cite-0040">
+<string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>132</volume>, <elocation-id>10821</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs11607-cite-0041">
+<string-name>
+<given-names>V. P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Mater. Today Energy</source>
+<year>2023</year>, <volume>38</volume>, <elocation-id>101451</elocation-id>.</mixed-citation></ref><ref id="advs11607-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs11607-cite-0042">
+<string-name>
+<given-names>V. P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qureshi</surname>
+</string-name>, <string-name>
+<given-names>H. C.</given-names>
+<surname>Shim</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Yuk</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Small Struct.</source>
+<year>2024</year>, <volume>5</volume>, <elocation-id>2400196</elocation-id>.</mixed-citation></ref></ref-list></back></article>

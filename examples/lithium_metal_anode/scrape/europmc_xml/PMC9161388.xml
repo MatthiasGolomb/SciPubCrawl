@@ -1,0 +1,634 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">9161388</article-id><article-id pub-id-type="doi">10.1021/acsomega.2c00861</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>-Hybridized
+Gel Polymer Cathode and Gel Polymer Electrolyte Containing a Sulfolane-Based
+Highly Concentrated Electrolyte for the Fabrication of a 5 V Class
+of Flexible Lithium Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Wang</surname><given-names>Binshen</given-names></name><xref rid="aff3" ref-type="aff">&#x02021;</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-2" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Liu</surname><given-names>Jiali</given-names></name><xref rid="aff2" ref-type="aff">&#x000a7;</xref><xref rid="notes-2" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Ock</surname><given-names>Ji-young</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Motoyoshi</surname><given-names>Ryo</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Li</surname><given-names>Shanglin</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4684-5717</contrib-id><name><surname>Ueno</surname><given-names>Kazuhide</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9622-4345</contrib-id><name><surname>Dokko</surname><given-names>Kaoru</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Tsuzuki</surname><given-names>Seiji</given-names></name><xref rid="aff2" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath9"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4092-6150</contrib-id><name><surname>Watanabe</surname><given-names>Masayoshi</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemistry and Life Science, <institution>Yokohama
+National University</institution>, 79-5 Tokiwadai, Hodogaya-ku, Yokohama 240-8501, <country>Japan</country></aff><aff id="aff2"><label>&#x000a7;</label>Advanced
+Chemical Energy Research Center, Institute of Advanced Sciences, <institution>Yokohama National University</institution>, 79-5 Tokiwadai, Hodogaya-ku, Yokohama 240-8501, <country>Japan</country></aff><aff id="aff3"><label>&#x02021;</label>Institute
+of New Energy and Low-Carbon Technology, <institution>Sichuan University</institution>, Chengdu, Sichuan 610207, <country>People&#x02019;s Republic of China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>mwatanab@ynu.ac.jp</email>.</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>05</month><year>2022</year></pub-date><pub-date pub-type="collection"><day>31</day><month>05</month><year>2022</year></pub-date><volume>7</volume><issue>21</issue><fpage>17732</fpage><lpage>17740</lpage><history><date date-type="received"><day>12</day><month>02</month><year>2022</year></date><date date-type="accepted"><day>27</day><month>04</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2022 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c00861_0006" id="ab-tgr1"/></p><p>The design and fabrication
+of lithium secondary batteries with
+a high energy density and shape flexibility are essential for flexible
+and wearable electronics. In this study, we fabricated a high-voltage
+(5 V class) flexible lithium polymer battery using a lithium nickel
+manganese oxide (LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>)
+cathode. A LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>-hybridized
+gel polymer cathode (GPC) and a gel polymer electrolyte (GPE) membrane,
+both containing a sulfolane (SL)-based highly concentrated electrolyte
+(HCE), enabled the fabrication of a polymer battery by simple lamination
+with a metallic lithium anode, where the injection of the electrolyte
+solution was not required. GPC with high flexibility has a hierarchically
+continuous three-dimensional porous architecture, which is advantageous
+for forming continuous ion-conduction paths. The GPE membrane has
+significant ionic conductivity enough for reliable capacity delivery.
+Therefore, the fabricated lithium polymer pouch cells demonstrated
+excellent capacity retention under continuous deformation conditions.
+This study provides a promising strategy for the fabrication of scalable
+and flexible 5 V class batteries using GPC and GPE containing SL-based
+HCE.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Advanced Low Carbon Technology Research and Development Program</institution><institution-id institution-id-type="doi">10.13039/501100009027</institution-id></institution-wrap></funding-source><award-id>JPMJAL1301</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao2c00861</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao2c00861</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Rapid
+technological innovation and growing market demand for flexible
+electronic devices, such as roll-up displays, wearable electronic
+products, and smart electronics, require the development of reliable
+and highly effective power sources.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Lithium-ion
+batteries (LIBs) have been established as state-of-the-art power sources
+for portable electronics. In recent decades, significant progress
+has been achieved in the fabrication of flexible LIBs based on custom-designed
+materials.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> In particular, electrodes based on advanced carbon-based
+materials, such as carbon nanotubes,<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> nanofibers,<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> and graphene,<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> are used for flexibility. However, for practical
+applications, viable production processes using procurable and economical
+materials are of great importance. Concomitantly, the attainable energy
+density of the fabricated flexible LIBs determines their application
+prospects.</p><p>Cobalt-free spinel structured lithium nickel manganese
+oxide (LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>, LNMO) is a
+potential cathode
+owing to its ultrahigh working voltage of 4.7 V versus Li/Li<sup>+</sup>, a large theoretical capacity of 147 mAh g<sup>&#x02013;1</sup>,
+and a relatively low cost.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> Based on the mass of the active material, LNMO can provide a high
+energy density of 690 Wh kg<sup>&#x02013;1</sup>, which is 20% and
+30% higher than that of conventional cathode materials, LiCoO<sub>2</sub> and LiFePO<sub>4</sub>, respectively.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> However, the application of this cathode material for practical
+energy storage is challenging and stymied by the decomposition of
+conventional carbonate-based electrolyte.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> In particular, the carbonate-based electrolytes suffer from oxidative
+decomposition at operating voltages above 4.4 V, which leads to fading
+cyclic performance and safety concerns of LIBs. Furthermore, LiPF<sub>6</sub> easily decomposes to form HF in the presence of water at
+a high voltage. Trace amounts of HF may accelerate the dissolution
+of the transition metal, causing a structural collapse of the LNMO
+electrode.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> Therefore, selecting a suitable
+electrolyte is crucial for the practical application of LNMO-based
+batteries.</p><p>Ionic liquids (ILs) are defined as molten salts having
+melting
+points lower than 100 &#x000b0;C. Due to their characteristic properties
+such as nonvolatility, high thermal stability, and high ionic conductivity,
+well-designed ILs could meet the rigorous demands/criteria of electrolyte
+applications in Li/Na-ion batteries, Li-sulfur batteries, Li-oxygen
+batteries, and so on.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> We previously reported
+that equimolar mixtures of Li salts and certain glymes form room temperature
+liquids with high thermal and electrochemical stabilities, low flammability,
+and a negligible vapor pressure similar to typical ILs, classified
+as solvate ionic liquids (SILs).<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref27">27</xref></sup> The glyme-based SILs exhibit
+several remarkable properties, in addition to IL-resembling properties,
+such as oxidation stability enhancement of the solvent (glymes) by
+coordinating with Li<sup>+</sup>,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> low
+solubility toward ionic materials owing to the negligible activity
+of free solvent,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> and unique electrochemical
+reactions due to the instability of the solvate ions, as observed
+reversible electrochemical intercalation of graphite in the absence
+of solid electrolyte interphase (SEI) forms such as ethylene carbonate.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Subsequently, the concept of SILs has been extended
+to highly concentrated electrolytes (HCEs) with unique physicochemical
+properties using Li salts and various solvents.<sup><xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup> In certain
+HCEs, significant electrochemical phenomena are reported, including
+high reversibility of lithium deposition/stripping without lithium
+dendrite formation<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> and fast electrochemical
+reactions of electrode active materials.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Among HCEs, sulfolane (SL)-based HCEs exhibit unconventionally high
+Li<sup>+</sup>-transference number owing to the highest diffusivity
+of Li<sup>+</sup> among the chemical species in the electrolytes (Li<sup>+</sup>, anion, and SL), which indicates a significant contribution
+of the Li<sup>+</sup> hopping conduction by the ligand (anion and
+SL) exchange reactions.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> The SL-based HCEs have
+been successfully applied in Li-LiCoO<sub>2</sub><sup><xref ref-type="bibr" rid="ref33">33</xref></sup> and Li-sulfur cells.<sup><xref ref-type="bibr" rid="ref34">34</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> The high oxidative stability
+of SL effectuates the SL-based HCEs suitable for electrolytes of high-voltage
+cathode materials.<sup><xref ref-type="bibr" rid="ref37">37</xref>&#x02212;<xref ref-type="bibr" rid="ref40">40</xref></sup> Further, the main capacity fading mechanism of LNMO-based LIBs is
+the oxidative decomposition of the electrolytes; however, for LIBs
+using high-nickel LiNi<sub><italic>x</italic></sub>Mn<sub><italic>y</italic></sub>Co<sub><italic>z</italic></sub>O<sub>2</sub>, another
+high-voltage cathode material, solvation-driven degradation mechanism
+by the dissolution of the transition metals is predominant.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup></p><p>In this study, we fabricated a gel polymer
+cathode (GPC) by incorporating
+an SL-based HCE and a fluorinated polymer into a LNMO cathode. The
+electrochemical performance of GPC demonstrated favorable cyclability
+and rate capability. Furthermore, a gel polymer electrolyte (GPE)
+membrane was successfully prepared by combining a SL-based HCE and
+a fluorinated polymer, which exhibited favorable mechanical stability.
+Considering the advantages of GPC and GPE, a high output voltage pouch
+cell (&#x0223c;4.7 V) was fabricated by laminating them using a lithium
+metal anode. The cell delivered stable discharge capacities under
+continuous bending, which demonstrated its high flexibility. The flexible
+battery utilizing GPC and GPE may provide a new perspective for future
+wearable electronics.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Materials</title><p>LNMO powder was synthesized
+according to the previous studies.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> It
+is widely accepted that the synthesis procedures for disordered LNMO
+(<italic>Fd</italic>&#x00033;&#x00305;<italic>m</italic>) and ordered LNMO (<italic>P</italic>4<sub>3</sub>32) are different. Our proposed method is
+similar to the procedures to synthesize the disordered LNMO, that
+is, calcination in the air followed by annealing.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> The prepared LNMO was characterized by X-ray diffraction
+(XRD, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S1</ext-link>), revealing its pure phase
+ascribed to the cubic spinel structure with space group of <italic>Fd</italic>&#x00033;&#x00305;<italic>m</italic> (JCPDF #80-2183).<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> Acetylene black (AB) was obtained from Denka
+Co., Ltd. (Japan). <italic>N</italic>-Methyl-2-pyrrolidone (NMP) was
+purchased from Wako Pure Chemical Corp. (Japan). Poly(vinylidene fluoride)
+(PVDF, Solef 5130) and poly(vinylidene fluoride-<italic>co</italic>-hexafluoropropylene) (PVDF-HFP, Kynar flex 2801) were provided by
+Solvay (Belgium) and Arkema (France), respectively. Battery-grade
+lithium bis(trifluoromethanesulfonyl)amide (Li[TFSA]) was obtained
+from Solvay, Japan. Battery-grade SL was purchased from Kishida Chemical
+(Japan). HCE, [Li(SL)<sub>2</sub>][TFSA], was prepared by mixing Li[TFSA]
+and SL at a molar ratio of 1:2 at 60 &#x000b0;C, overnight in an Ar-filled
+glovebox to obtain a homogeneous liquid.</p></sec><sec id="sec2.2"><label>2.2</label><title>Preparation
+of GPC Containing LNMO</title><p>To make LNMO-GPCs, a slurry comprising
+67.2 wt % LNMO, 6.4 wt % AB,
+6.4 wt % PVDF, and 20 wt % [Li(SL)<sub>2</sub>][TFSA] electrolyte
+in NMP was prepared. The viscous slurry was coated onto a carbon-coated
+aluminum foil current collector using the doctor blade technique.
+After solvent drying, LNMO-GPC was cut into disks with diameters of
+16 mm and rectangles with a length of 45 mm and a width of 37 mm to
+assemble 2032-type coin cells and flexible pouch cells, respectively,
+and dried under vacuum at 70 &#x000b0;C for 12 h. The thickness of LNMO-GPC
+was &#x0223c;30 &#x003bc;m, and the density of LNMO-GPC was &#x0223c;1.5
+g cm<sup>&#x02013;3</sup>. The mass-loading of the active material
+in the LNMO-GPC was &#x0223c;3.0 mg cm<sup>&#x02013;2</sup>.</p></sec><sec id="sec2.3"><label>2.3</label><title>Electrochemical Tests for Coin Cell</title><p>The electrolyte,
+[Li(SL)<sub>2</sub>][TFSA] (120 &#x003bc;L), was soaked
+in a glass filter separator (GA-55, Advantec, Japan) with a diameter
+of 17 mm. A Li metal foil (Honjo Metal, Japan) with a thickness of
+200 &#x003bc;m and a diameter of 16 mm was used as the anode. The coin
+cells were assembled inside an argon-filled glovebox, where both the
+moisture and the oxygen content levels were maintained below 0.3 ppm.
+Galvanostatic charge and discharge tests of the cells were performed
+at 30 &#x000b0;C using a Nagano BTS-2004 battery testing system (Japan).
+The voltage range was 3.4&#x02013;4.9 V, and the 1 C rate was set at
+147 mA g<sup>&#x02013;1</sup>.</p></sec><sec id="sec2.4"><label>2.4</label><title>Characterization</title><p>X-ray diffraction
+(XRD) analyses were performed on a Rigaku RINT-2000 diffractometer
+with Cu <italic>K</italic>&#x003b1; radiation (&#x003bb; = 1.5418 &#x000c5;).
+The morphology and elemental distribution of the samples were observed
+by field-emission scanning electron microscopy (FE-SEM, SU8000, Hitachi
+High-Technologies, Japan) and energy-dispersive X-ray spectroscopy
+(EDX), respectively. Tensile tests were performed on a Shimadzu EZ-LX
+(Shimadzu, Japan) equipped with a 10 N load cell for rectangular samples
+at a strain rate of 1 cm min<sup>&#x02013;1</sup>. Linear sweep voltammetry
+(LSV) experiments were performed using an electrochemical analyzer
+(VMP3, Biologic, France) at a scan rate of 1 mV s<sup>&#x02013;1</sup> at 30 &#x000b0;C, based on a three-electrode cell (stainless steel
+as the working electrode and Li metal as the counter and reference
+electrodes). Electrochemical impedance spectroscopy (EIS) measurements
+were performed using a ModuLab XM (Solartron Analytical, U.K.) in
+the frequency range of 1 MHz to 0.01 Hz with a voltage amplitude of
+10 mV.</p></sec><sec id="sec2.5"><label>2.5</label><title>Preparation of GPE Membrane</title><p>The chemicals
+for the preparation of the GPE membrane, 70 wt % [Li(SL)<sub>2</sub>][TFSA] (0.250 g) and 30 wt % PVDF-HFP (0.107 g), were dissolved
+in acetone (3.6 mL) and stirred in a vial for 1 h at room temperature.
+The solution was then transferred to a flat Petri dish with a diameter
+of 80 mm, placed in a dry chamber (dew point &#x0003c; &#x02212;60 &#x000b0;C),
+and dried at room temperature overnight. Thereafter, the GPE membrane
+was obtained by drying overnight at 70 &#x000b0;C under vacuum. Thickness
+of the GPE was measured using a thickness gauge (PG-01, TECLOCK, Japan).</p></sec><sec id="sec2.6"><label>2.6</label><title>Fabrication of Flexible LNMO-Li Polymer Pouch
+Cell</title><p>For a pouch cell, two layers of GPC, two layers of GPE
+membranes, and one layer of anode coated with Li metal on both sides
+of the Cu foil (Li thickness = 20 &#x003bc;m, Honjo Metal) was laminated
+using a layer-by-layer process in a dry chamber (dew point &#x0003c; &#x02212;60
+&#x000b0;C). The mass loading of the active LNMO was similar to that
+of the coin cell. The dimensions (length [mm] &#x000d7; width [mm]) of
+the GPC, GPE membrane, and anode were 45 &#x000d7; 37, 49 &#x000d7; 43,
+and 49 &#x000d7; 41, respectively. A few drops of [Li(SL)<sub>2</sub>][TFSA] were added between the GPC/GPE membrane and the anode/GPE
+membrane to slightly wet the electrodes to ensure firm contact. Aluminum
+and nickel strips were attached to the sides of the cathode and anode,
+respectively, as electrode tabs. Finally, the cell core was packaged
+in a flexible aluminum plastic film bag using an edge-bonding machine.</p></sec><sec id="sec2.7"><label>2.7</label><title>Computational Methods</title><p><italic>Gaussian
+16</italic> program<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> was used for the
+DFT calculations. The HOMO energy levels of SL and the SL-(Li[TFSA])<sub>2</sub> complex were calculated at the B3LYP/6-311G** level using
+optimized geometries at the same level. The geometry of the complex
+in the crystal structure<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> was used for
+the initial geometry of the geometry optimization.</p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>HCE-Based LNMO-GPC</title><p>LNMO-GPC was fabricated
+using a slurry comprising LNMO, AB, PVDF, and a highly concentrated
+[Li(SL)<sub>2</sub>][TFSA] electrolyte in NMP (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a). The viscous slurry was bladed onto a
+carbon-coated aluminum foil current collector and dried to form a
+uniform film over a large area. This solution-based preparation method
+and its compatibility with roll-to-roll coating render this system
+readily scalable for large-area electrode films.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> The morphology of LNMO-GPC was examined by SEM. As shown
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b, GPC showed
+a relatively smooth surface consisting of a hierarchically continuous
+three-dimensional (3D) porous foam-like network, and the diameters
+of the holes in the GPC were approximately 2 &#x003bc;m. Furthermore,
+the SEM images indicated the coexistence of nanosized pores on the
+surface, which were generated by the packing of conductive carbon
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). This 3D
+interconnected structure was advantageous for electrolyte penetration
+when a liquid electrolyte was used with GPC, promoting the transportation
+of ions for LNMO-GPC. In addition, uniform coverage of GPE on LNMO
+particles was observed without exposure to the typical crystallization
+edge observed in the newly prepared sample (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S2</ext-link>). Elemental mapping was conducted to evaluate the distribution
+of the components in GPC. As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d&#x02013;k, the homogeneous distribution
+of Ni, Mn, O, C, N, S, and F was confirmed by SEM-EDX. This indicates
+that GPC did not induce agglomeration of the components. In particular,
+the uniform distribution of N, S, and F illustrated that the LNMO
+particles were surrounded by GPE containing the highly concentrated
+[Li(SL)<sub>2</sub>][TFSA] electrolyte.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Schematic of the
+fabrication process, (b&#x02013;d) SEM images,
+(e) nickel, (f) manganese, (g) oxygen, (h) carbon, (i) nitrogen, (j)
+sulfur, and (k) fluorine elemental mappings of LNMO-GPC.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c00861_0001" id="gr1" position="float"/></fig><p>Coin-type LNMO-Li half-cells were assembled using [Li(SL)<sub>2</sub>][TFSA] as the liquid electrolyte and GA-55 as the separator
+to evaluate
+the electrochemical stability of LNMO-GPC. The cell displayed two
+characteristic voltage plateaus: a long and significant voltage plateau
+at &#x0223c;4.7 V originating from the Ni<sup>2+/4+</sup> redox processes,
+and a short voltage plateau at &#x0223c;4.0 V attributed to the Mn<sup>3+/4+</sup> redox reaction (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a).<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> The charging curve
+of our material (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) coincides with that of the disordered LNMO materials.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Moreover, the XRD pattern of disordered (<italic>Fd</italic>&#x00033;&#x00305;<italic>m</italic>) LNMO agrees with that of our
+material (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S1</ext-link>).<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> These results suggest that our LNMO material can be assigned as
+a disordered (<italic>Fd</italic>&#x00033;&#x00305;<italic>m</italic>) LNMO.
+The initial specific discharge capacity at 0.1 C was 128 mAh g<sup>&#x02013;1</sup>. With an increase in the current density to 0.2 and
+0.5 C, a decrease in plateau voltage was observed with discharge capacities
+of 120 and 90 mAh g<sup>&#x02013;1</sup>, respectively. However, the
+capacity contributions of the Ni<sup>2+/4+</sup> plateaus were high,
+and the well-defined Mn<sup>3+/4+</sup> plateaus under a high current
+density represented the stable structure of the GPC. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b displays the rate capability
+of the cell, indicating the stable cycling performance of GPC at different
+charge/discharge rates (the charge and discharge rates are the same).
+Remarkably, when the current density returned to 0.1 C, 99% of the
+original capacity was recovered, indicating the resilience of the
+GPC. In addition, the high stability and robustness of for long-term
+cycling are crucial for GPC. Galvanostatic charge/discharge measurements
+at 0.2 C were conducted (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), and after 100 cycles, the capacity retention relative
+to the initial capacity was 86.1%, which corresponded to an average
+capacity decay of 0.14% per cycle.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Initial charge&#x02013;discharge curves,
+(b) rate performance,
+and (c) cycling performance at 0.2 C rate for LNMO-GPC in a half-cell
+(LNMO-GPC&#x02225;Li; 1C corresponds to 147 mAh g<sup>&#x02013;1</sup>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c00861_0002" id="gr2" position="float"/></fig><p>The high durability of the cycling
+test mainly comes from the oxidative
+stability of [Li(SL)<sub>2</sub>][TFSA]. As described in the <xref rid="sec1" ref-type="other">Introduction</xref>, most solvents are coordinated to Li<sup>+</sup>, and trace amounts of free (uncoordinated) solvents remain
+in HCEs. The HOMO level of the Li<sup>+</sup>-coordinated solvents
+tends to decrease because of the strong positive electric potential
+of the Li<sup>+</sup> ion, leading to the enhancement of the oxidation
+stability of the coordinated solvent.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Meanwhile, SL-based electrolytes have relatively high oxidation
+stabilities.<sup><xref ref-type="bibr" rid="ref37">37</xref>&#x02212;<xref ref-type="bibr" rid="ref40">40</xref></sup> We previously reported the liquid structures of [Li(SL)<sub>2</sub>][TFSA],<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> where the two oxygen atoms
+of the SL sulfonyl group coordinated to two different neighboring
+Li ions and TFSA anions form ionic clusters with Li ions, in other
+words, the SL- and anion-bridged, chainlike Li-ion coordination structure.
+Therefore, the Li<sup>+</sup>-coordinated SL should exhibit higher
+oxidation stability than the free SL that is known to be antioxidative.
+To confirm the change in the electronic state of SL owing to the coordination
+with Li<sup>+</sup>, the optimized structures of SL and SL-(Li[TFSA])<sub>2</sub> complex were calculated. The initial geometries of the complexes
+used for geometry optimization were prepared based on their crystal
+structures.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S3</ext-link>, the two oxygen atoms of SL are coordinated to different
+Li<sup>+</sup> ions in the optimized structure (B3LYP/6-311G** level).
+The optimized structure in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S3</ext-link> is
+similar to that of the crystalline SL-Li[TFSA] complex.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> The HOMO energy levels of SL were calculated
+for the isolated SL molecule and the SL-(Li[TFSA])<sub>2</sub> complex
+at the B3LYP/6-311G** level using the optimized structures at the
+same level, and the results are summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Table S1</ext-link>. As was the case in the glyme&#x02013;LiTFSA complexes,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> a distinct decrease was observed in the HOMO
+energy levels of SL by the coordination to Li<sup>+</sup> (compared
+with the uncoordinated free solvent). As Li<sup>+</sup> has a positive
+charge, the electric potential around the SL coordinated to Li<sup>+</sup> is high. The high electric potential stabilizes the electrons
+of SL, resulting in a low HOMO energy level. The lowering of the HOMO
+energy level leads to a favorable oxidation stability.</p><p>However,
+the SL-based HCEs are reductively unstable in contact
+with Li metal, as revealed by first-principles molecular dynamics
+simulations.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> We demonstrated that SL
+was reductively decomposed to generate tetrahydrothiophene and concurrently
+formed Li<sub>2</sub>O on the anode surface.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> However, the Coulombic efficiency approached nearly 100% when the
+cycle number increased (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), suggesting that an effective SEI was formed during the
+initial cycles, preventing further reductive decomposition of the
+electrolyte in the extended cycles. In this experiment, thick GA55
+separators were used, where a large amount of electrolyte was preserved.
+A large amount of electrolyte in GA55 may contribute to the formation
+of the SEI and to the high cycling performance shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c.</p></sec><sec id="sec3.2"><label>3.2</label><title>HCE-Based
+GPE Membrane</title><p>Currently,
+most of the reported flexible LIBs employ carbonate-based liquid electrolytes.
+GPEs are promising replacements for liquid electrolytes, with the
+advantages of suppressed internal shorting, no leakage of liquid electrolytes,
+and less flammability.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> An applicable
+method to obtain mechanically reliable GPEs should be explored. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a shows a schematic
+of the fabrication process of the GPE membrane. The precursors comprising
+HCE, [Li(SL)<sub>2</sub>][TFSA], and the PVDF-HFP polymer were dissolved
+in acetone. After evaporation of the solvent, the GPE membrane was
+obtained because of the partial crystallinity of PVDF-HFP, which served
+as cross-linking points for the membranes. The photograph shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b demonstrates that
+the membrane was a transparent solid and flexible enough for direct
+handling. Furthermore, the membrane could be controlled to have a
+uniform thickness of 35 &#x003bc;m. Burning test results showed that
+the GPE membrane had considerable flame retardancy (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S4</ext-link>). The obtained membrane had a smooth surface morphology,
+as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S5a,b</ext-link>, which contained
+a few parts of the rumples. The rumples appeared to originate from
+the partially crystalline nature of PVDF-HFP. Thereafter, the distribution
+of [Li(SL)<sub>2</sub>][TFSA] and PVDF-HFP in the GPE membrane was
+examined using SEM-EDX elemental mapping (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S5c&#x02013;h</ext-link>). The distribution of carbon, nitrogen, oxygen,
+sulfur, and fluorine elements was uniform on the scale of 10&#x02013;100
+&#x003bc;m, which was consistent with the morphology of the LNMO gel
+polymer electrode.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Schematic of the fabrication process, (b) photograph
+of [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP GPE membrane, (c) tensile stress&#x02013;strain
+curves for [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP GPE.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c00861_0003" id="gr3" position="float"/></fig><p>We have already reported the electrochemical properties of
+GPE
+comprising [Li(SL)<sub>2</sub>][TFSA] and PVDF-HFP.<sup><xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup> The ionic conductivity and Li<sup>+</sup>-transference number, estimated
+by the Bruce&#x02013;Vincent method,<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> at
+30 &#x000b0;C is 1.5 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> and 0.65, respectively.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> To evaluate
+the mechanical properties of the obtained GPE membrane, stress&#x02013;strain
+measurements were performed. The tensile stress&#x02013;strain curves
+are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c, and the tensile strength and maximal strain are summarized in
+the inset. Remarkably, the obtained GPE membrane can sustain a fracture
+stress of 3.1 MPa at a maximal strain of 186%, which was higher than
+that of some previously reported ion gel electrolytes.<sup><xref ref-type="bibr" rid="ref51">51</xref>&#x02212;<xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>Previous studies on SL-based electrolytes demonstrated their
+oxidative
+decomposition threshold &#x0003e;5 V versus Li/Li<sup>+</sup>.<sup><xref ref-type="bibr" rid="ref37">37</xref>&#x02212;<xref ref-type="bibr" rid="ref39">39</xref></sup> The oxidative stability of the SL-containing GPE membrane was experimentally
+evaluated by LSV. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S6</ext-link> demonstrates
+the high oxidation stability of the [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP
+GPE membrane approaching 5 V, which reflects the HOMO level calculation
+(vide supra) and confirms the high antioxidation capability of GPE.</p></sec><sec id="sec3.3"><label>3.3</label><title>Flexible LNMO-Li Polymer Pouch Cell</title><p>After
+studying the basic performance of LNMO-GPC and the fundamental
+characterization of the GPE membrane, pouch-type cells were assembled
+to verify their practical utility. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a depicts the inner structure of the prepared
+pouch cell, which comprises two sheets of a single coated LNMO-GPC,
+two sheets of [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP GPE membranes with
+a thickness of 35 &#x003bc;m, and one sheet of both-side-covered lithium
+anode on a Cu foil. After five initial charge&#x02013;discharge cycles
+at the flat state to stabilize the pouch cell, the typical charge&#x02013;discharge
+curves showed two well-defined plateaus of Ni<sup>2+/4+</sup> and
+Mn<sup>3+/4+</sup>, with a discharge capacity of 116 mAh g<sup>&#x02013;1</sup> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b). Then,
+the pouch cell underwent repeated 90&#x000b0; bending and immediate recovery
+to a flat state to simulate its application to flexible devices. The
+measurement itself in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b was conducted under flat state. The external deformation
+resulted in a minimal increase in the capacities of 121, 124, and
+125 mAh g<sup>&#x02013;1</sup> after 50, 100, and 500 bending cycles,
+respectively. The increased capacities may be due to the firmer contact
+between the LNMO-GPC and GPE membranes by external bending.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) Schematic
+of the flexible pouch cell, (b) charge and discharge
+curves of the flexible cell at 0.05 C after activation of five charge&#x02013;discharge
+cycles at flat state and then after 50, 100, and 500 bending cycles
+between 0&#x02013;90&#x000b0; (1 C corresponds to 147 mAh g<sup>&#x02013;1</sup>), (c) SEM image of surface, and (d) cross-sectional SEM image of
+LNMO-GPC after 500 bending cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c00861_0004" id="gr4" position="float"/></fig><p>To explore the effect of bending on the mechanical stability, the
+LNMO-GPC and GPE membranes were characterized by SEM by observing
+the structural changes after 500 bending cycles. As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c, the 3D porous
+structures were retained for LNMO-GPC, and no obvious collapse was
+observed. The cross-sectional SEM image shows the firm contact between
+the GPC layer and the carbon-coated aluminum current collector after
+prolonged bending (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d). No change in the elemental distribution of LNMO-GPC after
+500 bending cycles was observed (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S7</ext-link>), suggesting its good mechanical stability. In addition, SEM characterization
+of the GPE membrane after 500 bending cycles was conducted to observe
+the morphological changes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">Figure S8</ext-link>).
+Although the membrane exhibited more rumples and wrinkles after extended
+bending, the homogeneous elemental distribution remained unchanged.</p><p>Furthermore, EIS measurements were performed under different bending
+states (flat, 90&#x000b0;, and 180&#x000b0; bending and rolling). Nyquist
+plots of the flexible pouch cells with different bending states measured
+in the fully charged state (4.9 V vs Li anode) are shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a. The Nyquist plots
+exhibit two overlapped semicircles in all spectra under different
+bending conditions. The equivalent circuit used to interpret the plots
+is shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> where R1 is the electrolyte resistance.
+The first semicircle from high frequency to midfrequency, denoted
+as the parallel combination of R2 and CPE1 (100 Hz to 100 kHz), originates
+from the interfacial impedance at the Li metal anode|GPE. Similar
+semicircles at a similar characteristic frequency were observed for
+a Li|GPE|Li symmetrical cell and a Li|GPE|LiCoO<sub>2</sub> cell.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> The second semicircle from midfrequency to low
+frequency, denoted as the parallel combination of R3 and CPE2 (1&#x02013;100
+Hz), could be attributed to the charge transfer processes between
+the LNMO active particle and the electrolyte, as seen at the GPE|LiCoO<sub>2</sub> interface.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> The low-frequency
+spur can be attributed to the diffusion-limiting impedance, designated
+by Ws1. A comparison of the EIS spectra of the cells under different
+bending conditions showed that the interfacial resistances (R1 and
+R2) were almost constant, verifying the strong adhesion between the
+current collector/GPC coating layer/GPE/Li anode interfaces. In addition,
+the electrolyte resistance (R1) remained unchanged, which also supported
+stable interfaces. These results support that the intimate contact
+between the electrolyte, LNMO particles, and conductive carbon through
+the PVDF binder may have been formed by this simple solution-based
+preparation method, which ensures a stable ionic/electronic conductivity
+for the electrode.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a) Nyquist plots of the flexible cell under different
+bending
+states at the cell voltage of 4.9 V, (b) equivalent circuit used for
+simulating the experimental impedance data, (c) demonstration of the
+flexible cell connected in series with a red LED, and (d) cycle performance
+of the flexible cell cycled at 0.05 C under flat and bending states
+(1 C corresponds to 147 mAh g<sup>&#x02013;1</sup>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c00861_0005" id="gr5" position="float"/></fig><p>To demonstrate the flexibility of the cell, bending tests
+were
+performed via a connection in series with a light-emitting diode (LED).
+As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c, after the initial charging to 100% SOC, the fabricated cell lit
+an LED continuously under a flat state and continued to operate even
+under a 90&#x000b0; bending state. When the cell was further subjected
+to 180&#x000b0; bending and rolling, the brightness of the LED remained
+unchanged. The cycling performance under various bending conditions
+was monitored (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d). The discharge capacity and Coulombic efficiency remained almost
+unchanged. After the stress was removed (flat state), a discharge
+capacity of 115 mAh g<sup>&#x02013;1</sup> was maintained. The Coulombic
+efficiency of the pouch cell during the cycling test was stabilized
+above 90%, which was slightly lower than the corresponding value of
+approximately 100% for the coin cell with the liquid electrolyte (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c). Although the
+same areal LNMO loading (&#x0223c;3 mg cm<sup>&#x02013;2</sup>) cathode
+was used in the pouch cell and the coin cell, the electrolytes in
+the coil and pouch cells are different, that is, liquid electrolyte
+and GPE, respectively. The ionic conductivity is reduced from 4.2
+&#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> for the liquid
+electrolyte to 1.5 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> for the GPE owing to the gelation.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> Further,
+the actual current enhanced from 0.18 to 0.73 mA owing to the increase
+in the electrode area for the pouch cell. These variations may lead
+to a large overpotential and undesired side reactions on the anode
+side, which causes the difference in the Coulombic efficiency between
+the pouch and coin cells.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> We believe
+that lithium anode protection in our future study would circumvent
+this limitation for the 5 V class flexible lithium polymer battery.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusion</title><p>The present study demonstrated
+a flexible lithium polymer battery
+comprising GPC and GPE. A SL-based HCE was incorporated in both the
+LNMO-GPC and GPE membranes because of its high oxidative stability.
+The lithium polymer battery fabricated by simple lamination of GPC,
+GPE, and lithium metal anode could be bent for more than 500 bending
+cycles between 0 and 90&#x000b0; without any apparent capacity decay,
+as implied by the lack of morphological change and because of the
+strong adhesion between the current collector/GPC coating layer/GPE/Li
+anode interfaces. The fabricated 5 V class lithium polymer battery
+exhibited stable electrochemical behavior during continuous bending,
+which was confirmed by EIS measurements. The present study provides
+a new perspective on flexible batteries for future wearable electronics.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.2c00861?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.2c00861</ext-link>.<list id="silist" list-type="simple"><list-item><p>XRD pattern and SEM image
+of synthesized LNMO powder,
+optimized structure and HOMO energy level of SL and SL-(Li[TFSA])<sub>2</sub> complex, burning test results of the [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP
+GPE membrane, SEM images and elemental mappings of the [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP GPE membrane, LSV curve of the [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP GPE membrane, SEM images and elemental mappings
+of LNMO-GPC after 500 bending cycles, and [Li(SL)<sub>2</sub>][TFSA]/PVDF-HFP
+GPE membrane after 500 bending cycles (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c00861/suppl_file/ao2c00861_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c00861_si_001.pdf"><caption><p>ao2c00861_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-2"><title>Author Contributions</title><p><sup>#</sup> B.W. and J.L.
+contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="notes-3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This research
+was supported in part by the Japan Science and
+Technology Agency (JST) ALCA-SPRING, Grant Number JPMJAL1301, Japan.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Cheng</surname><given-names>H.-M.</given-names></name>
+<article-title>Progress in Flexible Lithium Batteries and Future Prospects</article-title>. <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>1307</fpage>&#x02013;<lpage>1338</lpage>. <pub-id pub-id-type="doi">10.1039/C3EE43182G</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Wang</surname><given-names>J.-L.</given-names></name>; <name><surname>Hassan</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>J.-W.</given-names></name>; <name><surname>Yu</surname><given-names>S.-H.</given-names></name>
+<article-title>Nanowire Assemblies
+for Flexible Electronic Devices: Recent Advances and Perspectives</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>1803430</fpage><pub-id pub-id-type="doi">10.1002/adma.201803430</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>R.</given-names></name>; <name><surname>Guo</surname><given-names>Z.</given-names></name>; <name><surname>Xiao</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Luo</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>
+<article-title>Emerging Two-Dimensional
+Noncarbon Nanomaterials for
+Flexible Lithium-Ion Batteries: Opportunities and Challenges</article-title>. <source>J. Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>25227</fpage>&#x02013;<lpage>25246</lpage>. <pub-id pub-id-type="doi">10.1039/C9TA09377J</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Zeng</surname><given-names>L.</given-names></name>; <name><surname>Qiu</surname><given-names>L.</given-names></name>; <name><surname>Cheng</surname><given-names>H.-M.</given-names></name>
+<article-title>Towards the Practical Use of Flexible Lithium Ion Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>23</volume>, <fpage>434</fpage>&#x02013;<lpage>438</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.04.019</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Chen</surname><given-names>D.</given-names></name>; <name><surname>Lou</surname><given-names>Z.</given-names></name>; <name><surname>Jiang</surname><given-names>K.</given-names></name>; <name><surname>Shen</surname><given-names>G.</given-names></name>
+<article-title>Device Configurations
+and Future
+Prospects of Flexible/Stretchable Lithium-Ion Batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2018</year>, <volume>28</volume>, <fpage>1805596</fpage><pub-id pub-id-type="doi">10.1002/adfm.201805596</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Chen</surname><given-names>R.</given-names></name>; <name><surname>Xue</surname><given-names>X.</given-names></name>; <name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Kong</surname><given-names>W.</given-names></name>; <name><surname>Lin</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>T.</given-names></name>; <name><surname>Jin</surname><given-names>Z.</given-names></name>
+<article-title>Intermetallic
+SnSb Nanodots Embedded in Carbon Nanotubes Reinforced
+Nanofabric Electrodes with High Reversibility and Rate Capability
+for Flexible Li-Ion Batteries</article-title>. <source>Nanoscale</source>
+<year>2019</year>, <volume>11</volume>, <fpage>13282</fpage>&#x02013;<lpage>13288</lpage>. <pub-id pub-id-type="doi">10.1039/C9NR04645C</pub-id>.<pub-id pub-id-type="pmid">31287474</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Mu</surname><given-names>K. W.</given-names></name>; <name><surname>Liu</surname><given-names>K. X.</given-names></name>; <name><surname>Wang</surname><given-names>Z. Y.</given-names></name>; <name><surname>Zanman</surname><given-names>S.</given-names></name>; <name><surname>Yin</surname><given-names>Y. H.</given-names></name>; <name><surname>Liu</surname><given-names>X. B.</given-names></name>; <name><surname>Li</surname><given-names>Y. S.</given-names></name>; <name><surname>Xia</surname><given-names>B. Y.</given-names></name>; <name><surname>Wu</surname><given-names>Z. P.</given-names></name>
+<article-title>An Electrolyte-Phobic
+Carbon Nanotube Current Collector for High-Voltage Foldable Lithium-Ion
+Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2020</year>, <volume>8</volume>, <fpage>19444</fpage>&#x02013;<lpage>19453</lpage>. <pub-id pub-id-type="doi">10.1039/D0TA06853E</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>He</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Shan</surname><given-names>Z.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>; <name><surname>Bakenov</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>
+<article-title>All-Purpose Electrode
+Design of Flexible Conductive Scaffold Toward High-Performance Li&#x02013;S
+Batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <fpage>2000613</fpage><pub-id pub-id-type="doi">10.1002/adfm.202000613</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>T.</given-names></name>; <name><surname>Shen</surname><given-names>T.</given-names></name>; <name><surname>Sun</surname><given-names>S.</given-names></name>; <name><surname>Hou</surname><given-names>Y.</given-names></name>
+<article-title>Free-Standing, Foldable
+V<sub>2</sub>O<sub>3</sub>/Multichannel Carbon Nanofibers Electrode
+for Flexible Li-Ion Batteries with Ultralong Lifespan</article-title>. <source>Small</source>
+<year>2020</year>, <volume>16</volume>, <fpage>2005302</fpage><pub-id pub-id-type="doi">10.1002/smll.202005302</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Kim</surname><given-names>S. D.</given-names></name>; <name><surname>Sarkar</surname><given-names>A.</given-names></name>; <name><surname>Ahn</surname><given-names>J.-H.</given-names></name>
+<article-title>Graphene-Based
+Nanomaterials for
+Flexible and Stretchable Batteries</article-title>. <source>Small</source>
+<year>2021</year>, <volume>17</volume>, <fpage>2006262</fpage><pub-id pub-id-type="doi">10.1002/smll.202006262</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Shen</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>K.</given-names></name>; <name><surname>Lv</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>T.</given-names></name>; <name><surname>Wei</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>
+<article-title>Highly-Safe
+and Ultra-Stable All-Flexible Gel Polymer Lithium Ion Batteries Aiming
+for Scalable Applications</article-title>. <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>1904281</fpage><pub-id pub-id-type="doi">10.1002/aenm.201904281</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Zeng</surname><given-names>L.</given-names></name>; <name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>; <name><surname>Cheng</surname><given-names>H.-M.</given-names></name>; <name><surname>Qiu</surname><given-names>L.</given-names></name>
+<article-title>Integrated
+Paper-Based Flexible Li-Ion Batteries Made by a Rod Coating Method</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>46776</fpage>&#x02013;<lpage>46782</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b15866</pub-id>.<pub-id pub-id-type="pmid">31755259</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Zhong</surname><given-names>Q.</given-names></name>; <name><surname>Bonakdarpour</surname><given-names>A.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Gao</surname><given-names>Y.</given-names></name>; <name><surname>Dahn</surname><given-names>J. R.</given-names></name>
+<article-title>Synthesis
+and Electrochemistry of LiNi<sub>x</sub>Mn<sub>2-x</sub>O<sub>4</sub></article-title>. <source>J. Electrochem. Soc.</source>
+<year>1997</year>, <volume>144</volume>, <fpage>205</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1149/1.1837386</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Santhanam</surname><given-names>R.</given-names></name>; <name><surname>Rambabu</surname><given-names>B.</given-names></name>
+<article-title>Research Progress in
+High Voltage Spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Material</article-title>. <source>J.
+Power Sources</source>
+<year>2010</year>, <volume>195</volume>, <fpage>5442</fpage>&#x02013;<lpage>5451</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.03.067</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Alvarado</surname><given-names>J.</given-names></name>; <name><surname>Schroeder</surname><given-names>M. A.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Gobrogge</surname><given-names>E.</given-names></name>; <name><surname>Olguin</surname><given-names>M.</given-names></name>; <name><surname>Ding</surname><given-names>M. S.</given-names></name>; <name><surname>Gobet</surname><given-names>M.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>
+<article-title>A Carbonate-Free, Sulfone-Based Electrolyte
+for High-Voltage Li-Ion Batteries</article-title>. <source>Mater. Today</source>
+<year>2018</year>, <volume>21</volume>, <fpage>341</fpage>&#x02013;<lpage>353</lpage>. <pub-id pub-id-type="doi">10.1016/j.mattod.2018.02.005</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Rath</surname><given-names>P. C.</given-names></name>; <name><surname>Wu</surname><given-names>C.-J.</given-names></name>; <name><surname>Patra</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Lee</surname><given-names>T.-C.</given-names></name>; <name><surname>Yeh</surname><given-names>T.-J.</given-names></name>; <name><surname>Chang</surname><given-names>J. K.</given-names></name>
+<article-title>Hybrid Electrolyte
+Enables Safe and
+Practical 5 V LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>16516</fpage>&#x02013;<lpage>16525</lpage>. <pub-id pub-id-type="doi">10.1039/C9TA04147H</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Lee</surname><given-names>H. J.</given-names></name>; <name><surname>Brown</surname><given-names>Z.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Fawdon</surname><given-names>J.</given-names></name>; <name><surname>Song</surname><given-names>W.</given-names></name>; <name><surname>Lee</surname><given-names>J. H.</given-names></name>; <name><surname>Ihli</surname><given-names>J.</given-names></name>; <name><surname>Pasta</surname><given-names>M.</given-names></name>
+<article-title>Ordered LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Cathode in Bis(fluorosulfonyl)imide-Based
+Ionic Liquid Electrolyte: Importance of the Cathode&#x02013;Electrolyte
+Interphase</article-title>. <source>Chem. Mater.</source>
+<year>2021</year>, <volume>33</volume>, <fpage>1238</fpage>&#x02013;<lpage>1248</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.0c04014</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Pan</surname><given-names>D.</given-names></name>; <name><surname>Yi</surname><given-names>S.</given-names></name>; <name><surname>Gao</surname><given-names>L.</given-names></name>; <name><surname>He</surname><given-names>G.</given-names></name>; <name><surname>Zhao</surname><given-names>H.</given-names></name>; <name><surname>Yu</surname><given-names>C.</given-names></name>; <name><surname>Bai</surname><given-names>Y.</given-names></name>
+<article-title>Constructing Tri-Functional
+Modification for Spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> via Fast Ion Conductor</article-title>. <source>J. Power Sources</source>
+<year>2020</year>, <volume>450</volume>, <fpage>227677</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2019.227677</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Sandaruwan</surname><given-names>R. D. L.</given-names></name>; <name><surname>Cong</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>
+<article-title>Tackling the
+Interfacial Issues of Spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> by Room-Temperature Spontaneous Dediazonation Reaction</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <fpage>13264</fpage>&#x02013;<lpage>13272</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c00204</pub-id>.<pub-id pub-id-type="pmid">33687207</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Tan</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Pan</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>L.</given-names></name>; <name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Zheng</surname><given-names>F.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>
+<article-title>Optimizing
+Interphase Structure to Enhance Electrochemical Performance of High
+Voltage LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Cathode via
+Anhydride Additives</article-title>. <source>Chem. Eng. J.</source>
+<year>2021</year>, <volume>410</volume>, <fpage>128422</fpage><pub-id pub-id-type="doi">10.1016/j.cej.2021.128422</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Tan</surname><given-names>C.</given-names></name>; <name><surname>Cui</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Pan</surname><given-names>Q.</given-names></name>; <name><surname>Zheng</surname><given-names>F.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>
+<article-title>Stabilized Cathode
+Interphase for Enhancing Electrochemical Performance of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>-Based Lithium-Ion Battery via cis-1,2,3,6-Tetrahydrophthalic
+Anhydride</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <fpage>18314</fpage>&#x02013;<lpage>18323</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c01979</pub-id>.<pub-id pub-id-type="pmid">33823584</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Pieczonka</surname><given-names>N. P. W.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Lu</surname><given-names>P.</given-names></name>; <name><surname>Olson</surname><given-names>K. L.</given-names></name>; <name><surname>Moote</surname><given-names>J.</given-names></name>; <name><surname>Powell</surname><given-names>B. R.</given-names></name>; <name><surname>Kim</surname><given-names>J.-H.</given-names></name>
+<article-title>Understanding
+Transition-Metal Dissolution
+Behavior in LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> High-Voltage
+Spinel for Lithium Ion Batteries</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>15947</fpage>&#x02013;<lpage>15957</lpage>. <pub-id pub-id-type="doi">10.1021/jp405158m</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Thomas</surname><given-names>M. L.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Yasuda</surname><given-names>T.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>
+<article-title>Application of Ionic
+Liquids to Energy Storage and Conversion Materials
+and Devices</article-title>. <source>Chem. Rev.</source>
+<year>2017</year>, <volume>117</volume>, <fpage>7190</fpage>&#x02013;<lpage>7239</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.6b00504</pub-id>.<pub-id pub-id-type="pmid">28084733</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Thomas</surname><given-names>M. L.</given-names></name>
+<article-title>From Ionic Liquids
+to Solvate Ionic Liquids: Challenges and Opportunities for Next Generation
+Battery Electrolytes</article-title>. <source>Bull. Chem. Soc. Jpn.</source>
+<year>2018</year>, <volume>91</volume>, <fpage>1660</fpage>&#x02013;<lpage>1682</lpage>. <pub-id pub-id-type="doi">10.1246/bcsj.20180216</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Yoshida</surname><given-names>K.</given-names></name>; <name><surname>Nakamura</surname><given-names>M.</given-names></name>; <name><surname>Kazue</surname><given-names>Y.</given-names></name>; <name><surname>Tachikawa</surname><given-names>N.</given-names></name>; <name><surname>Tsuzuki</surname><given-names>S.</given-names></name>; <name><surname>Seki</surname><given-names>S.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Oxidative-Stability
+Enhancement and Charge Transport Mechanism in Glyme-Lithium Salt Equimolar
+Complexes</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>13121</fpage>&#x02013;<lpage>13129</lpage>. <pub-id pub-id-type="doi">10.1021/ja203983r</pub-id>.<pub-id pub-id-type="pmid">21774493</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Tachikawa</surname><given-names>N.</given-names></name>; <name><surname>Yamauchi</surname><given-names>K.</given-names></name>; <name><surname>Tsuchiya</surname><given-names>M.</given-names></name>; <name><surname>Yamazaki</surname><given-names>A.</given-names></name>; <name><surname>Takashima</surname><given-names>E.</given-names></name>; <name><surname>Park</surname><given-names>J.-W.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Seki</surname><given-names>S.</given-names></name>; <name><surname>Serizawa</surname><given-names>N.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Solvate Ionic Liquid Electrolyte
+for Li-S Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2013</year>, <volume>160</volume>, <fpage>A1304</fpage>&#x02013;<lpage>A1310</lpage>. <pub-id pub-id-type="doi">10.1149/2.111308jes</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Moon</surname><given-names>H.</given-names></name>; <name><surname>Tatara</surname><given-names>R.</given-names></name>; <name><surname>Mandai</surname><given-names>T.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Yoshida</surname><given-names>K.</given-names></name>; <name><surname>Tachikawa</surname><given-names>N.</given-names></name>; <name><surname>Yasuda</surname><given-names>T.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Mechanism
+of Li Ion Desolvation at the Interface of Graphite Electrode and Glyme&#x02013;Li
+Salt Solvate Ionic Liquids</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>20246</fpage>&#x02013;<lpage>20256</lpage>. <pub-id pub-id-type="doi">10.1021/jp506772f</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Yamada</surname><given-names>A.</given-names></name>
+<article-title>Review&#x02014;Superconcentrated
+Electrolytes for Lithium
+Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>A2406</fpage>&#x02013;<lpage>A2423</lpage>. <pub-id pub-id-type="doi">10.1149/2.0041514jes</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Lochala</surname><given-names>J. A.</given-names></name>; <name><surname>Kwok</surname><given-names>A.</given-names></name>; <name><surname>Deng</surname><given-names>Z. D.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>
+<article-title>Research Progress
+Towards Understanding the Unique Interfaces Between Concentrated Electrolytes
+and Electrodes for Energy Storage Applications</article-title>. <source>Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <fpage>1700032</fpage><pub-id pub-id-type="doi">10.1002/advs.201700032</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Ugata</surname><given-names>Y.</given-names></name>; <name><surname>Shigenobu</surname><given-names>K.</given-names></name>; <name><surname>Tatara</surname><given-names>R.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>
+<article-title>Solvate Electrolytes
+for Li and Na Batteries: Structures, Transport
+Properties, and Electrochemistry</article-title>. <source>Phys. Chem.
+Chem. Phys.</source>
+<year>2021</year>, <volume>23</volume>, <fpage>21419</fpage>&#x02013;<lpage>21436</lpage>. <pub-id pub-id-type="doi">10.1039/D1CP02946K</pub-id>.<pub-id pub-id-type="pmid">34550122</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Qian</surname><given-names>J.</given-names></name>; <name><surname>Henderson</surname><given-names>W. A.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Bhattacharya</surname><given-names>P.</given-names></name>; <name><surname>Engelhard</surname><given-names>M.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>High Rate
+and Stable
+Cycling of Lithium Metal Anode</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6362</fpage><pub-id pub-id-type="doi">10.1038/ncomms7362</pub-id>.<pub-id pub-id-type="pmid">25698340</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Furukawa</surname><given-names>K.</given-names></name>; <name><surname>Sodeyama</surname><given-names>K.</given-names></name>; <name><surname>Kikuchi</surname><given-names>K.</given-names></name>; <name><surname>Yaegashi</surname><given-names>M.</given-names></name>; <name><surname>Tateyama</surname><given-names>Y.</given-names></name>; <name><surname>Yamada</surname><given-names>A.</given-names></name>
+<article-title>Unusual Stability
+of Acetonitrile-Based
+Superconcentrated Electrolytes for Fast-Charging Lithium-Ion Batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume>, <fpage>5039</fpage>&#x02013;<lpage>5046</lpage>. <pub-id pub-id-type="doi">10.1021/ja412807w</pub-id>.<pub-id pub-id-type="pmid">24654781</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>D.</given-names></name>; <name><surname>Ugata</surname><given-names>Y.</given-names></name>; <name><surname>Thomas</surname><given-names>M. L.</given-names></name>; <name><surname>Tsuzuki</surname><given-names>S.</given-names></name>; <name><surname>Shinoda</surname><given-names>W.</given-names></name>; <name><surname>Hashimoto</surname><given-names>K.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Umebayashi</surname><given-names>Y.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Direct Evidence for Li Ion Hopping Conduction in Highly
+Concentrated Sulfolane-Based Liquid Electrolytes</article-title>. <source>J. Phys. Chem. B</source>
+<year>2018</year>, <volume>122</volume>, <fpage>10736</fpage>&#x02013;<lpage>10745</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcb.8b09439</pub-id>.<pub-id pub-id-type="pmid">30403858</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Nakanishi</surname><given-names>A.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>D.</given-names></name>; <name><surname>Ugata</surname><given-names>Y.</given-names></name>; <name><surname>Matsumae</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Thomas</surname><given-names>M. L.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Sulfolane-Based Highly
+Concentrated Electrolytes of Lithium Bis(trifluoromethanesulfonyl)amide:
+Ionic Transport, Li-Ion Coordination, and Li&#x02013;S Battery Performance</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume>, <fpage>14229</fpage>&#x02013;<lpage>14238</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.9b02625</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Tamate</surname><given-names>R.</given-names></name>; <name><surname>Saruwatari</surname><given-names>A.</given-names></name>; <name><surname>Nakanishi</surname><given-names>A.</given-names></name>; <name><surname>Matsumae</surname><given-names>Y.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Excellent
+Dispersibility of Single-Walled
+Carbon Nanotubes in Highly Concentrated Electrolytes and Application
+to Gel Electrode for Li-S Batteries</article-title>. <source>Electrochem.
+Commun.</source>
+<year>2019</year>, <volume>109</volume>, <fpage>106598</fpage><pub-id pub-id-type="doi">10.1016/j.elecom.2019.106598</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Marium</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Towards Practical
+Cells: Combined Use of Titanium Black
+as a Cathode Additive and Sparingly Solvating Electrolyte for High-Energy-Density
+Lithium-Sulfur Batteries</article-title>. <source>Sustain. Energy Fuels</source>
+<year>2021</year>, <volume>5</volume>, <fpage>1821</fpage>&#x02013;<lpage>1831</lpage>. <pub-id pub-id-type="doi">10.1039/D1SE00042J</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Angell</surname><given-names>C. A.</given-names></name>
+<article-title>Sulfone-Based Electrolytes
+for Lithium-Ion Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2002</year>, <volume>149</volume>, <fpage>A920</fpage>&#x02013;<lpage>A926</lpage>. <pub-id pub-id-type="doi">10.1149/1.1483866</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Abouimrane</surname><given-names>A.</given-names></name>; <name><surname>Belharouak</surname><given-names>I.</given-names></name>; <name><surname>Amine</surname><given-names>K.</given-names></name>
+<article-title>Sulfone-Based Electrolytes for High-Voltage
+Li-Ion Batteries</article-title>. <source>Electrochem. Commun.</source>
+<year>2009</year>, <volume>11</volume>, <fpage>1073</fpage>&#x02013;<lpage>1076</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2009.03.020</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Xue</surname><given-names>L.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Lee</surname><given-names>S.-Y.</given-names></name>; <name><surname>Angell</surname><given-names>C. A.</given-names></name>
+<article-title>Enhanced Performance
+of Sulfone-Based Electrolytes at Lithium Ion Battery Electrodes, Including
+the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> High Voltage Cathode</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>262</volume>, <fpage>123</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.03.099</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>High-Voltage Liquid
+Electrolytes for Li Batteries: Progress and Perspectives</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2021</year>, <volume>50</volume>, <fpage>10486</fpage>&#x02013;<lpage>10566</lpage>. <pub-id pub-id-type="doi">10.1039/D1CS00450F</pub-id>.<pub-id pub-id-type="pmid">34341815</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Su</surname><given-names>C.-C.</given-names></name>; <name><surname>He</surname><given-names>M.</given-names></name>; <name><surname>Amine</surname><given-names>R.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Rojas</surname><given-names>T.</given-names></name>; <name><surname>Cheng</surname><given-names>L.</given-names></name>; <name><surname>Ngo</surname><given-names>A. T.</given-names></name>; <name><surname>Amine</surname><given-names>K.</given-names></name>
+<article-title>Unveiling Decaying
+Mechanism Through Quantitative Structure-Activity Relationship in
+Electrolytes for Lithium-Ion Batteries</article-title>. <source>Nano
+Energy</source>
+<year>2021</year>, <volume>83</volume>, <fpage>105843</fpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2021.105843</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>L.</given-names></name>; <name><surname>Yu</surname><given-names>W.</given-names></name>; <name><surname>Yu</surname><given-names>A.</given-names></name>
+<article-title>Effect of Fluoroethylene
+Carbonate as an Electrolyte Solvent in the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> Cell</article-title>. <source>J. Alloys. Compd.</source>
+<year>2020</year>, <volume>812</volume>, <fpage>152064</fpage><pub-id pub-id-type="doi">10.1016/j.jallcom.2019.152064</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kim</surname><given-names>J.-H.</given-names></name>; <name><surname>Myung</surname><given-names>S.-T.</given-names></name>; <name><surname>Yoon</surname><given-names>C. S.</given-names></name>; <name><surname>Kang</surname><given-names>S. G.</given-names></name>; <name><surname>Sun</surname><given-names>Y.-K.</given-names></name>
+<article-title>Comparative
+Study of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4-&#x003b4;</sub> and LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Cathodes Having
+Two Crystallographic Structures: <italic>Fd</italic>&#x00033;&#x00305;m and <italic>P</italic>4<sub>3</sub>32</article-title>. <source>Chem. Mater.</source>
+<year>2004</year>, <volume>16</volume>, <fpage>906</fpage>&#x02013;<lpage>914</lpage>. <pub-id pub-id-type="doi">10.1021/cm035050s</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="computer-program" id="cit44"><person-group person-group-type="allauthors"><name><surname>Frisch</surname><given-names>M. J.</given-names></name>; <name><surname>Trucks</surname><given-names>G. W.</given-names></name>; <name><surname>Schlegel</surname><given-names>H. B.</given-names></name>; <name><surname>Scuseria</surname><given-names>G. E.</given-names></name>; <name><surname>Robb</surname><given-names>M. A.</given-names></name>; <name><surname>Cheeseman</surname><given-names>J. R.</given-names></name>; <name><surname>Scalmani</surname><given-names>G.</given-names></name>; <name><surname>Barone</surname><given-names>V.</given-names></name>; <name><surname>Petersson</surname><given-names>G. A.</given-names></name>; <name><surname>Nakatsuji</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Caricato</surname><given-names>M.</given-names></name>; <name><surname>Marenich</surname><given-names>A. V.</given-names></name>; <name><surname>Bloino</surname><given-names>J.</given-names></name>; <name><surname>Janesko</surname><given-names>B. G.</given-names></name>; <name><surname>Gomperts</surname><given-names>R.</given-names></name>; <name><surname>Mennucci</surname><given-names>B.</given-names></name>; <name><surname>Hratchian</surname><given-names>H. P.</given-names></name>; <name><surname>Ortiz</surname><given-names>J. V.</given-names></name>; <name><surname>Izmaylov</surname><given-names>A. F.</given-names></name>; <name><surname>Sonnenberg</surname><given-names>J. L.</given-names></name>; <name><surname>Williams-Young</surname><given-names>D.</given-names></name>; <name><surname>Ding</surname><given-names>F.</given-names></name>; <name><surname>Lipparini</surname><given-names>F.</given-names></name>; <name><surname>Egidi</surname><given-names>F.</given-names></name>; <name><surname>Goings</surname><given-names>J.</given-names></name>; <name><surname>Peng</surname><given-names>B.</given-names></name>; <name><surname>Petrone</surname><given-names>A.</given-names></name>; <name><surname>Henderson</surname><given-names>T.</given-names></name>; <name><surname>Ranasinghe</surname><given-names>D.</given-names></name>; <name><surname>Zakrzewski</surname><given-names>V. G.</given-names></name>; <name><surname>Gao</surname><given-names>J.</given-names></name>; <name><surname>Rega</surname><given-names>N.</given-names></name>; <name><surname>Zheng</surname><given-names>G.</given-names></name>; <name><surname>Liang</surname><given-names>W.</given-names></name>; <name><surname>Hada</surname><given-names>M.</given-names></name>; <name><surname>Ehara</surname><given-names>M.</given-names></name>; <name><surname>Toyota</surname><given-names>K.</given-names></name>; <name><surname>Fukuda</surname><given-names>R.</given-names></name>; <name><surname>Hasegawa</surname><given-names>J.</given-names></name>; <name><surname>Ishida</surname><given-names>M.</given-names></name>; <name><surname>Nakajima</surname><given-names>T.</given-names></name>; <name><surname>Honda</surname><given-names>Y.</given-names></name>; <name><surname>Kitao</surname><given-names>O.</given-names></name>; <name><surname>Nakai</surname><given-names>H.</given-names></name>; <name><surname>Vreven</surname><given-names>T.</given-names></name>; <name><surname>Throssell</surname><given-names>K.</given-names></name>; <name><surname>Montgomery</surname><given-names>J. A.</given-names><suffix>Jr.</suffix></name>; <name><surname>Peralta</surname><given-names>J. E.</given-names></name>; <name><surname>Ogliaro</surname><given-names>F.</given-names></name>; <name><surname>Bearpark</surname><given-names>M. J.</given-names></name>; <name><surname>Heyd</surname><given-names>J. J.</given-names></name>; <name><surname>Brothers</surname><given-names>E. N.</given-names></name>; <name><surname>Kudin</surname><given-names>K. N.</given-names></name>; <name><surname>Staroverov</surname><given-names>V. N.</given-names></name>; <name><surname>Keith</surname><given-names>T. A.</given-names></name>; <name><surname>Kobayashi</surname><given-names>R.</given-names></name>; <name><surname>Normand</surname><given-names>J.</given-names></name>; <name><surname>Raghavachari</surname><given-names>K.</given-names></name>; <name><surname>Rendell</surname><given-names>A. P.</given-names></name>; <name><surname>Burant</surname><given-names>J. C.</given-names></name>; <name><surname>Iyengar</surname><given-names>S. S.</given-names></name>; <name><surname>Tomasi</surname><given-names>J.</given-names></name>; <name><surname>Cossi</surname><given-names>M.</given-names></name>; <name><surname>Millam</surname><given-names>J. M.</given-names></name>; <name><surname>Klene</surname><given-names>M.</given-names></name>; <name><surname>Adamo</surname><given-names>C.</given-names></name>; <name><surname>Cammi</surname><given-names>R.</given-names></name>; <name><surname>Ochterski</surname><given-names>J. W.</given-names></name>; <name><surname>Martin</surname><given-names>R. L.</given-names></name>; <name><surname>Morokuma</surname><given-names>K.</given-names></name>; <name><surname>Farkas</surname><given-names>O.</given-names></name>; <name><surname>Foresman</surname><given-names>J. B.</given-names></name>; <name><surname>Fox</surname><given-names>D. J.</given-names></name></person-group><source>Gaussian 16</source>, Revision A.03; <publisher-name>Gaussian, Inc.</publisher-name>, <publisher-loc>Wallingford CT</publisher-loc>, <year>2016</year>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Yu</surname><given-names>G.</given-names></name>; <name><surname>Pan</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>N.</given-names></name>; <name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Stable Li-Ion Battery Anodes by In-Situ Polymerization of Conducting
+Hydrogel to Conformally Coat Silicon Nanoparticles</article-title>. <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>1943</fpage><pub-id pub-id-type="doi">10.1038/ncomms2941</pub-id>.<pub-id pub-id-type="pmid">23733138</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Kaneko</surname><given-names>T.</given-names></name>; <name><surname>Sodeyama</surname><given-names>K.</given-names></name>
+<article-title>First-Principles Molecular
+Dynamics Study for S-O Bond
+Dissociation of Sulfolane on Li-Metal Negative Electrode</article-title>. <source>Chem. Phys. Lett.</source>
+<year>2021</year>, <volume>762</volume>, <fpage>138199</fpage><pub-id pub-id-type="doi">10.1016/j.cplett.2020.138199</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Ugata</surname><given-names>Y.</given-names></name>; <name><surname>Tatara</surname><given-names>R.</given-names></name>; <name><surname>Mandai</surname><given-names>T.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>
+<article-title>Understanding the Reductive Decomposition of Highly Concentrated
+Li Salt/Sulfolane Electrolytes during Li Deposition and Dissolution</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2021</year>, <volume>4</volume>, <fpage>1851</fpage>&#x02013;<lpage>1859</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c02961</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Ock</surname><given-names>J.-Y.</given-names></name>; <name><surname>Fujishiro</surname><given-names>M.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>
+<article-title>Electrochemical
+Properties of Poly(vinylidene fluoride-<italic>co</italic>-hexafluoropropylene)
+Gel Electrolytes with High-Concentration Li Salt/Sulfolane for Lithium
+Batteries</article-title>. <source>Electrochemistry</source>
+<year>2021</year>, <volume>89</volume>, <fpage>567</fpage>&#x02013;<lpage>572</lpage>. <pub-id pub-id-type="doi">10.5796/electrochemistry.21-00086</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Ock</surname><given-names>J.-Y.</given-names></name>; <name><surname>Fujishiro</surname><given-names>M.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Kawamura</surname><given-names>I.</given-names></name>; <name><surname>Tatara</surname><given-names>R.</given-names></name>; <name><surname>Hashimoto</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>
+<article-title>Transport Properties
+of Flexible Composite Electrolytes Composed of Li<sub>1.5</sub>Al<sub>0.5</sub>Ti<sub>1.5</sub>(PO<sub>4</sub>)<sub>3</sub> and a Poly(vinylidene
+fluoride-co-hexafluoropropylene) Gel Containing a Highly Concentrated
+Li[N(SO<sub>2</sub>CF<sub>3</sub>)<sub>2</sub>]/Sulfolane Electrolyte</article-title>. <source>ACS Omega</source>
+<year>2021</year>, <volume>6</volume>, <fpage>16187</fpage>&#x02013;<lpage>16193</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.1c02161</pub-id>.<pub-id pub-id-type="pmid">34179664</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Evans</surname><given-names>J.</given-names></name>; <name><surname>Vincent</surname><given-names>C. A.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Electrochemical
+Measurement of Transference
+Numbers in Polymer Electrolytes</article-title>. <source>Polymer</source>
+<year>1987</year>, <volume>28</volume>, <fpage>2324</fpage>&#x02013;<lpage>2328</lpage>. <pub-id pub-id-type="doi">10.1016/0032-3861(87)90394-6</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Fu</surname><given-names>J.</given-names></name>; <name><surname>Lu</surname><given-names>Q.</given-names></name>; <name><surname>Shi</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Dong</surname><given-names>L.</given-names></name>; <name><surname>Xu</surname><given-names>Y.</given-names></name>; <name><surname>Jia</surname><given-names>R.</given-names></name>
+<article-title>Cross-Linked
+Polymeric Ionic Liquids Ion Gel Electrolytes
+by In Situ Radical Polymerization</article-title>. <source>Chem. Eng.
+J.</source>
+<year>2019</year>, <volume>378</volume>, <fpage>122245</fpage><pub-id pub-id-type="doi">10.1016/j.cej.2019.122245</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Kim</surname><given-names>C. S.</given-names></name>; <name><surname>Oh</surname><given-names>S. M.</given-names></name>
+<article-title>Spectroscopic and
+Electrochemical Studies of PMMA-Based Gel Polymer
+Electrolytes Modified with Interpenetrating Networks</article-title>. <source>J. Power Sources</source>
+<year>2002</year>, <volume>109</volume>, <fpage>98</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-7753(02)00055-1</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Gayet</surname><given-names>F.</given-names></name>; <name><surname>Viau</surname><given-names>L.</given-names></name>; <name><surname>Leroux</surname><given-names>F.</given-names></name>; <name><surname>Monge</surname><given-names>S.</given-names></name>; <name><surname>Robin</surname><given-names>J.-J.</given-names></name>; <name><surname>Vioux</surname><given-names>A.</given-names></name>
+<article-title>Polymer Nanocomposite Ionogels, High-Performance
+Electrolyte Membranes</article-title>. <source>J. Mater. Chem.</source>
+<year>2010</year>, <volume>20</volume>, <fpage>9456</fpage>&#x02013;<lpage>9462</lpage>. <pub-id pub-id-type="doi">10.1039/c000033g</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Rana</surname><given-names>H. H.</given-names></name>; <name><surname>Park</surname><given-names>J. H.</given-names></name>; <name><surname>Gund</surname><given-names>G. S.</given-names></name>; <name><surname>Park</surname><given-names>H. S.</given-names></name>
+<article-title>Highly Conducting,
+Extremely Durable, Phosphorylated Cellulose-Based Ionogels for Renewable
+Flexible Supercapacitors</article-title>. <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>25</volume>, <fpage>70</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.10.030</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Huang</surname><given-names>J.-Q.</given-names></name>; <name><surname>Li</surname><given-names>P.</given-names></name>; <name><surname>Zhu</surname><given-names>L.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>S.-T.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>The Gap between
+Long Lifespan Li-S Coin and Pouch Cells; The Imporatnce of Lithium
+Metal Anode Protection</article-title>. <source>Energy Storage Materials</source>
+<year>2017</year>, <volume>6</volume>, <fpage>18</fpage>&#x02013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2016.09.003</pub-id>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1204 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6145423</article-id><article-id pub-id-type="doi">10.1002/advs.201700934</article-id><article-id pub-id-type="publisher-id">ADVS744</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Simultaneous Suppression of the Dendrite Formation and Shuttle Effect in a Lithium&#x02013;Sulfur Battery by Bilateral Solid Electrolyte Interface</article-title></title-group><contrib-group><contrib id="advs744-cr-0001" contrib-type="author"><name><surname>Fan</surname><given-names>Ling</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4813-3895</contrib-id><xref ref-type="aff" rid="advs744-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs744-cr-0002" contrib-type="author"><name><surname>Chen</surname><given-names>Suhua</given-names></name><xref ref-type="aff" rid="advs744-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs744-cr-0003" contrib-type="author"><name><surname>Zhu</surname><given-names>Jingyi</given-names></name><xref ref-type="aff" rid="advs744-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs744-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs744-cr-0004" contrib-type="author"><name><surname>Ma</surname><given-names>Ruifang</given-names></name><xref ref-type="aff" rid="advs744-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs744-cr-0005" contrib-type="author"><name><surname>Li</surname><given-names>Shuping</given-names></name><xref ref-type="aff" rid="advs744-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs744-cr-0006" contrib-type="author"><name><surname>Podila</surname><given-names>Ramakrishna</given-names></name><xref ref-type="aff" rid="advs744-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs744-cr-0007" contrib-type="author" corresp="yes"><name><surname>Rao</surname><given-names>Apparao M.</given-names></name><address><email>arao@clemson.edu</email></address><xref ref-type="aff" rid="advs744-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs744-cr-0008" contrib-type="author"><name><surname>Yang</surname><given-names>Gongzheng</given-names></name><xref ref-type="aff" rid="advs744-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="advs744-cr-0009" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Chengxin</given-names></name><address><email>wchengx@mail.sysu.edu.cn</email></address><xref ref-type="aff" rid="advs744-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="advs744-cr-0010" contrib-type="author"><name><surname>Liu</surname><given-names>Qian</given-names></name><xref ref-type="aff" rid="advs744-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs744-cr-0011" contrib-type="author"><name><surname>Xu</surname><given-names>Zhi</given-names></name><xref ref-type="aff" rid="advs744-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="advs744-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="advs744-cr-0012" contrib-type="author"><name><surname>Yuan</surname><given-names>Lixia</given-names></name><xref ref-type="aff" rid="advs744-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs744-cr-0013" contrib-type="author"><name><surname>Huang</surname><given-names>Yunhui</given-names></name><xref ref-type="aff" rid="advs744-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs744-cr-0014" contrib-type="author" corresp="yes"><name><surname>Lu</surname><given-names>Bingan</given-names></name><address><email>luba2012@hnu.edu.cn</email></address><xref ref-type="aff" rid="advs744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs744-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="advs744-aff-0007">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="advs744-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Physics and Electronics</named-content>
+<institution>Hunan University</institution>
+<named-content content-type="city">Changsha</named-content>
+<named-content content-type="post-code">410082</named-content>
+<country country="CN">China</country>
+</aff><aff id="advs744-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Physics and Astronomy</named-content>
+<named-content content-type="organisation-division">Clemson Nanomaterials Institute</named-content>
+<institution>Clemson University</institution>
+<named-content content-type="city">Clemson</named-content>
+<named-content content-type="country-part">SC</named-content>
+<named-content content-type="post-code">29634</named-content>
+<country country="US">USA</country>
+</aff><aff id="advs744-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Mechanical and Aerospace Engineering</named-content>
+<institution>New York University</institution>
+<named-content content-type="city">Brooklyn</named-content>
+<named-content content-type="country-part">NY</named-content>
+<named-content content-type="post-code">11201</named-content>
+<country country="US">USA</country>
+</aff><aff id="advs744-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Key Laboratory for Advanced Battery Materials and System (MOE)</named-content>
+<named-content content-type="organisation-division">School of Materials Science and Engineering</named-content>
+<institution>Huazhong University of Science and Technology</institution>
+<named-content content-type="city">Wuhan</named-content>
+<named-content content-type="country-part">Hubei</named-content>
+<named-content content-type="post-code">43004</named-content>
+<country country="CN">China</country>
+</aff><aff id="advs744-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">School of Materials Science and Engineering</named-content>
+<institution>Sun Yat&#x02010;sen University</institution>
+<named-content content-type="city">Guangzhou</named-content>
+<named-content content-type="post-code">510275</named-content>
+<country country="CN">China</country>
+</aff><aff id="advs744-aff-0006">
+<label><sup>6</sup></label>
+<institution>2D Material Technology Company Limited</institution>
+<named-content content-type="street">Wing Lok Street, Sheung Wan</named-content>
+<named-content content-type="city">Hong Kong</named-content>
+<named-content content-type="post-code">999077</named-content>
+<country country="CN">China</country>
+</aff><aff id="advs744-aff-0007">
+<label><sup>7</sup></label>
+<institution>Fujian Strait Research Institute of Industrial Graphene Technologies</institution>
+<named-content content-type="city">Jinjiang</named-content>
+<named-content content-type="country-part">Fujian</named-content>
+<named-content content-type="post-code">362200</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>arao@clemson.edu</email>, <email>wchengx@mail.sysu.edu.cn</email>, <email>luba2012@hnu.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>7</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2018</year></pub-date><volume>5</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/advs.v5.9</issue-id><elocation-id>1700934</elocation-id><history><date date-type="received"><day>27</day><month>11</month><year>2017</year></date><date date-type="rev-recd"><day>29</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-5-1700934.pdf"/><abstract><title>Abstract</title><p>Although the reversible and inexpensive energy storage characteristics of the lithium&#x02013;sulfur (Li&#x02010;S) battery have made it a promising candidate for electrical energy storage, the dendrite growth (anode) and shuttle effect (cathode) hinder its practical application. Here, it is shown that new electrolytes for Li&#x02010;S batteries promote the simultaneous formation of bilateral solid electrolyte interfaces on the sulfur&#x02010;host cathode and lithium anode, thus effectively suppressing the shuttle effect and dendrite growth. These high&#x02010;capacity Li&#x02010;S batteries with new electrolytes exhibit a long&#x02010;term cycling stability, ultrafast&#x02010;charge/slow&#x02010;discharge rates, super&#x02010;low self&#x02010;discharge performance, and a capacity retention of 94.9% even after a 130 d long storage. Importantly, the long cycle stability of these industrial grade high&#x02010;capacity Li&#x02010;S pouch cells with new electrolytes will provide the basis for creating robust energy dense Li&#x02010;S batteries with an extensive life cycle.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs744-kwd-0001">bilateral solid electrolyte interfaces</kwd><kwd id="advs744-kwd-0002">dendrite growth, lithium sulfur batteries</kwd><kwd id="advs744-kwd-0003">lithium sulfur pouch cells</kwd><kwd id="advs744-kwd-0004">shuttle effect</kwd><kwd id="advs744-kwd-0005">sulfur graphite full cells</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>51672078</award-id><award-id>21473052</award-id></award-group><award-group><funding-source>Hunan University State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body Independent Research Project</funding-source><award-id>71675004</award-id></award-group><award-group><funding-source>Hunan Youth Talents</funding-source><award-id>2016RS3025</award-id></award-group><award-group><funding-source>Foundation of State Key Laboratory of Coal Conversion</funding-source><award-id>J17&#x02010;18&#x02010;903</award-id></award-group><award-group><funding-source>EPSCoR/IDeA</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="9"/><word-count count="5985"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs744</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.9 mode:remove_FC converted:19.09.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs744-cit-0053">
+<string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Podila</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Rao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Adv. Sci.</source>
+<year>2018</year>, <volume>5</volume>, <elocation-id>1700934</elocation-id>
+<pub-id pub-id-type="doi">10.1002/advs.201700934</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs744-sec-0010"><label>1</label><title>Introduction</title><p>The high energy density, low cost, and the environmentally friendly nature of Li&#x02010;S batteries make them attractive for use in automotive or stationary electrical energy storage applications.<xref rid="advs744-bib-0001" ref-type="ref">1</xref>, <xref rid="advs744-bib-0002" ref-type="ref">2</xref>, <xref rid="advs744-bib-0003" ref-type="ref">3</xref>, <xref rid="advs744-bib-0004" ref-type="ref">4</xref>, <xref rid="advs744-bib-0005" ref-type="ref">5</xref>, <xref rid="advs744-bib-0006" ref-type="ref">6</xref>, <xref rid="advs744-bib-0007" ref-type="ref">7</xref> However, the severe shuttle effect and dendrite growth, and the inferior Coulombic efficiency that characterize these Li&#x02010;S batteries have greatly limited their lifespan.<xref rid="advs744-bib-0004" ref-type="ref">4</xref>, <xref rid="advs744-bib-0008" ref-type="ref">8</xref>, <xref rid="advs744-bib-0009" ref-type="ref">9</xref>, <xref rid="advs744-bib-0010" ref-type="ref">10</xref> Although much effort has been expended in the development of novel sulfur&#x02010;host electrodes,<xref rid="advs744-bib-0011" ref-type="ref">11</xref>, <xref rid="advs744-bib-0012" ref-type="ref">12</xref>, <xref rid="advs744-bib-0013" ref-type="ref">13</xref>, <xref rid="advs744-bib-0014" ref-type="ref">14</xref>, <xref rid="advs744-bib-0015" ref-type="ref">15</xref>, <xref rid="advs744-bib-0016" ref-type="ref">16</xref>, <xref rid="advs744-bib-0017" ref-type="ref">17</xref>, <xref rid="advs744-bib-0018" ref-type="ref">18</xref>, <xref rid="advs744-bib-0019" ref-type="ref">19</xref>, <xref rid="advs744-bib-0020" ref-type="ref">20</xref>, <xref rid="advs744-bib-0021" ref-type="ref">21</xref>, <xref rid="advs744-bib-0022" ref-type="ref">22</xref>, <xref rid="advs744-bib-0023" ref-type="ref">23</xref>, <xref rid="advs744-bib-0024" ref-type="ref">24</xref>, <xref rid="advs744-bib-0025" ref-type="ref">25</xref>, <xref rid="advs744-bib-0026" ref-type="ref">26</xref>, <xref rid="advs744-bib-0027" ref-type="ref">27</xref>, <xref rid="advs744-bib-0028" ref-type="ref">28</xref>, <xref rid="advs744-bib-0029" ref-type="ref">29</xref>, <xref rid="advs744-bib-0030" ref-type="ref">30</xref>, <xref rid="advs744-bib-0031" ref-type="ref">31</xref>, <xref rid="advs744-bib-0032" ref-type="ref">32</xref>, <xref rid="advs744-bib-0033" ref-type="ref">33</xref>, <xref rid="advs744-bib-0034" ref-type="ref">34</xref>, <xref rid="advs744-bib-0035" ref-type="ref">35</xref>, <xref rid="advs744-bib-0036" ref-type="ref">36</xref> separators,<xref rid="advs744-bib-0037" ref-type="ref">37</xref>, <xref rid="advs744-bib-0038" ref-type="ref">38</xref>, <xref rid="advs744-bib-0039" ref-type="ref">39</xref>, <xref rid="advs744-bib-0040" ref-type="ref">40</xref> and electrolytes<xref rid="advs744-bib-0041" ref-type="ref">41</xref>, <xref rid="advs744-bib-0042" ref-type="ref">42</xref>, <xref rid="advs744-bib-0043" ref-type="ref">43</xref>, <xref rid="advs744-bib-0044" ref-type="ref">44</xref>, <xref rid="advs744-bib-0045" ref-type="ref">45</xref> to resolve these issues, some of which are rather dangerous, the results have been at best minimal in improving current Li&#x02010;S battery technology. As a result, the cycling life and Coulombic efficiency of Li&#x02010;S batteries, especially in the high&#x02010;rate regime, are still far behind the state of the art in lithium&#x02010;ion battery technology.</p><p>It is well known that the solid electrolyte interface (SEI), which is a manifestation of the decomposition of electrolytes and solutes, functions as the passivation layer and is an important arbiter in the lifespan of a battery.<xref rid="advs744-bib-0046" ref-type="ref">46</xref> A high&#x02010;quality SEI can effectively protect the electrode while an inferior SEI gradually undermines the electrode performance. Although a unilateral SEI (in either the sulfur&#x02010;host cathode or lithium anode) was found effective in enhancing the performance of Li&#x02010;S batteries,<xref rid="advs744-bib-0047" ref-type="ref">47</xref>, <xref rid="advs744-bib-0048" ref-type="ref">48</xref> issues related to the dendrite growth and shuttle effect could not be resolved simultaneously.</p><p>Here we report for the first time the development of new electrolytes for Li&#x02010;S batteries that promote the simultaneous formation of the bilateral SEIs on both electrodes. We find that the bilateral SEI forms readily during the initial cycle, which then effectively prevents the shuttle effect on the sulfur&#x02010;host cathode and dendrite growth on the metal lithium anode (<bold>Figure</bold>
+<xref rid="advs744-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>). Compared to traditional electrolytes, the new electrolytes support ultralong cycling stability with a nearly &#x02248;100% Coulombic efficiency owing to the effectiveness of the bilateral SEI in limiting polysulfide dissolution and dendrite growth. For example, when using sulfur&#x02010;doped polyacrylonitrile (SPAN) as the cathode, the Li&#x02010;S batteries exhibit a high utilization of sulfur (over 80% at 0.15 C, 1 C = 1675 mA h g<sup>&#x02212;1</sup>|<sub>sulfur</sub>), superior rate performance, excellent Coulombic efficiency (&#x02248;100%), long cycling life (1000 cycles at 1 C and 2400 cycles at 7.5 C with capacity retention of 86.6% and 82.3%, respectively), outstanding ultrafast&#x02010;charge/slow&#x02010;discharge performance (charged within minutes and discharged for more than 10 h by lighting two light&#x02010;emitting diodes), and ultralow self&#x02010;discharge (cycled after storage for over 130 d with a capacity retention of 94.9%). More importantly, the industrial grade Li&#x02010;S pouch cells with 400 mA h capacity were constructed and cycled for 100 cycles with capacity retention of 67%.</p><fig fig-type="Figure" xml:lang="en" id="advs744-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Conception of a bilateral solid electrolyte interface (SEI). With the new electrolytes described in this study, the battery forms a bilateral SEI on the sulfur&#x02010;host cathode and the lithium anode. Even after hundreds of cycles, the robust bilateral SEI effectively suppresses the dendrite growth on the lithium anode and the shuttle effect on the sulfur host cathode. On the other hand, with traditional electrolytes, the sulfur host cathode will deteriorate or severe dendrite growth will occur on the lithium anode during repeated cycling.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-5-1700934-g001"/></fig></sec><sec id="advs744-sec-0020"><label>2</label><title>Results and Discussion</title><p>In this study, over 60 compositions of electrolytes were prepared for purposes of investigating the electrochemical performance of Li&#x02010;S batteries. First, a SPAN was prepared and used as the active material due to its facile synthesis method and scalable production. The characterization and analysis of SPAN are shown in Figure S1 (Supporting Information) and Note S1 (Supporting Information). The cycling stability and corresponding Coulombic efficiency of batteries with different traditional electrolyte compositions at the current density of 7.5 C are shown in Figure S2 (Supporting Information). It is obvious that the cycling stability of the batteries with ethylene carbonate (EC) or propylene carbonate (PC) is much superior to that of either dimethyl carbonate (DMC) or ethyl methyl carbonate (EMC). When cycling for 500 cycles at 1.5 C (<bold>Figure</bold>
+<xref rid="advs744-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>a), the batteries delivered a reversible capacity of 250, 637, 909, 1218, and 985 mA h g<sup>&#x02212;1</sup> with two traditional electrolytes (1 <sc>m</sc> lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) in dimethyl ether (DME): dioxolane (DOL) = 1:1, volume ratio, referred as TE&#x02010;I for traditional electrolyte&#x02010;I; and 1 <sc>m</sc> LiPF<sub>6</sub> in EC:DMC:EMC = 1:1:1, volume ratio, referred as TE&#x02010;II for traditional electrolyte&#x02010;II) and three new electrolyte (1 <sc>m</sc> Li(PF<sub>6</sub>)<sub>0.3</sub>(TFSI)<sub>0.7</sub> in EC<sub>0.1</sub>:DMC<sub>0.1</sub>:EMC<sub>0.1</sub>:DME<sub>0.35</sub>:DOL<sub>0.35</sub>, volume ratio, referred as NE&#x02010;I; 1 <sc>m</sc> LiTFSI in EC<sub>0.5</sub>DME<sub>0.25</sub>DOL<sub>0.25</sub>, volume ratio, referred as NE&#x02010;II; and 1 <sc>m</sc> LiTFSI in PC<sub>0.8</sub>DME<sub>0.1</sub>DOL<sub>0.1</sub>, volume ratio, referred as NE&#x02010;III), which corresponds to capacity retentions of 20.6, 71.5, 91.9, 99.2, and 84.5%, respectively. The charge/discharge profiles after the second cycle (Figure S3, Supporting Information) also provide evidence for the shuttle effect with the TE&#x02010;I electrolyte. The rate performances of the batteries also suggest the superior electrochemical performance of Li&#x02010;S batteries with new electrolytes (Figure S4, Supporting Information). The kinetic analyses were performed to understand the different rate characteristics of the five electrolytes (the kinetic analyses derived from the CV curves are presented in Figure S5, Supporting Information), which revealed that the Li<sup>+</sup> diffusion coefficient of the batteries with TE&#x02010;I, TE&#x02010;II, NE&#x02010;I, NE&#x02010;II, and NE&#x02010;III are 3.81 &#x000d7; 10<sup>&#x02212;9</sup>, 1.75 &#x000d7; 10<sup>&#x02212;8</sup>, 6.61 &#x000d7; 10<sup>&#x02212;9</sup>, 2.49 &#x000d7; 10<sup>&#x02212;8</sup>, and 1.02 &#x000d7; 10<sup>&#x02212;8</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>, respectively. The high Li<sup>+</sup> diffusion coefficient of NE&#x02010;II and NE&#x02010;III is beneficial and consistent with its rate performance. Furthermore, the electrochemical impedance spectroscopy in Figure S6 (Supporting Information) suggests that the impedance of batteries after cycling is much lower compared to fresh batteries, and is largely due to the formation of a stable SEI. As evident in Figure <xref rid="advs744-fig-0002" ref-type="fig">2</xref>b, even at a high current density of 7.5 C the battery with NE&#x02010;II electrolyte exhibited a favorable reversible capacity of 550 mA h g<sup>&#x02212;1</sup> after 2400 cycles, with superior capacity retention of 82.3% and a corresponding capacity fade of 0.0073%; and the battery delivered a reversible capacity of 940 mA h g<sup>&#x02212;1</sup> after 1000 cycles at 1 C with a capacity retention of 86.6%.</p><fig fig-type="Figure" xml:lang="en" id="advs744-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The electrochemical performance of new electrolytes in various cathode materials. a) Cycling stability of Li&#x02010;S batteries at 1.5 C, 42% sulfur content (SPAN&#x02010;42%). The batteries could deliver capacity of 250, 637, 909, 1218, and 985 mA h g<sup>&#x02212;1</sup> with TE&#x02010;I, TE&#x02010;II, NE&#x02010;I, NE&#x02010;II, and NE&#x02010;III electrolytes, corresponding to a capacity retention of 20.6%, 71.5%, 91.9%, 99.2%, and 84.5%, respectively. b) Long&#x02010;term cycling performance of Li&#x02010;S batteries (SPAN&#x02010;42%) with NE&#x02010;II at 1 C (1000 cycles) and 7.5 C (2400 cycles) with capacity retention of 86.6% and 82.3%, respectively. c) Cycling performance of Li&#x02010;S batteries with a porous carbon cathode with 40% sulfur content (PC@S) at 0. 5 C with TE&#x02010;I, TE&#x02010;II, and NE&#x02010;II electrolytes. d) Cycling stability of Li&#x02010;S batteries at 1.5 C, 62% sulfur content (SPAN&#x02010;62%) with TE&#x02010;I, TE&#x02010;II, and NE&#x02010;II electrolytes. e) Cycling performance of batteries at 0.5 C with Ketjen black cathode with 70% sulfur content (KB@S) and TE&#x02010;I and NE&#x02010;IV electrolytes.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-5-1700934-g002"/></fig><p>We also prepared a porous carbon @sulfur (PC@S, 40% sulfur content) electrode to investigate the effect of bilateral SEI (Figure <xref rid="advs744-fig-0002" ref-type="fig">2</xref>c), and found that the Coulombic efficiency of the battery with TE&#x02010;I was inferior due to the shuttle effect. To confirm that the superior property of the Li&#x02010;S battery is not due to the relatively low concentration of S in the SPAN and PC@S, we prepared SPAN samples with a higher sulfur content of 62% (SPAN&#x02010;62%). The cycling properties of the SPAN&#x02010;62% in TE&#x02010;I, TE&#x02010;II, and NE&#x02010;II electrolytes are shown in Figure <xref rid="advs744-fig-0002" ref-type="fig">2</xref>d, and the battery with NE&#x02010;II electrolyte exhibited a more stable cycle performance relative to that with TE&#x02010;I and TE&#x02010;II electrolytes. The enhanced performance of the battery with NE&#x02010;II is due to the formation of a bilateral SEI. In addition, a higher sulfur content cathode of Ketjen black @sulfur (KB@S, 70% sulfur content) was also prepared. We further found that by adding a 1% vinylene carbonate (VC) additive to TE&#x02010;I electrolyte (denoted as NE&#x02010;IV), the KB@S battery delivered more stable cycle performance relative to its performance in the absence of the VC additive (Figure <xref rid="advs744-fig-0002" ref-type="fig">2</xref>e). The data in Figure <xref rid="advs744-fig-0002" ref-type="fig">2</xref> collectively demonstrated the significant enhancement of electrochemical performance with new electrolytes. The bilateral SEI could protect both electrodes during subsequent cycling, and mitigate the dendrite growth and shuttle effect to further enhance the electrochemical performance. For convenience, the SPAN&#x02010;42% was used in subsequent studies to further investigate the influence of the new electrolytes.</p><p>To confirm the formation of the bilateral SEI, scanning electron microscopy (SEM) images of the SPAN and Li electrodes in their pristine state and after a single cycle in TE&#x02010;I, TE&#x02010;II, and NE&#x02010;I electrolytes were analyzed (see Figure S7, Supporting Information). Unlike the pristine electrodes of SPAN and Li anode, in TE&#x02010;I the SPAN electrodes exhibited few morphological changes while the Li anode became relatively smoother, indicating that while the TE&#x02010;I barely reacted with the SPAN electrode, an SEI was formed on the Li anode. Conversely, an SEI was observed on the SPAN electrode in TE&#x02010;II and the surface of the Li anode appeared rough, which could be interpreted as the formation of dendrites on the Li anode. Notably, when the NE&#x02010;I electrolyte was used, both the SPAN and Li electrodes became smoother relative to their respective morphologies in TE&#x02010;I and TE&#x02010;II, implying the formation of the bilateral SEI on both electrodes. Interestingly, even after 150 cycles the SPAN electrode clearly revealed the absence of the SEI with the TE&#x02010;I electrolyte as evidenced by its roughened electrode surface (<bold>Figure</bold>
+<xref rid="advs744-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>a). However, the SEI films that formed on the SPAN electrode in both the TE&#x02010;II (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>b) and NE&#x02010;I (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>c) electrolytes remained robust. For the Li anode with TE&#x02010;I (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>d) or TE&#x02010;II (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>e) electrolytes, both the shuttle effect and dendrite growth hindered batteries performance, while the Li surface coated with the NE&#x02010;I electrolyte remained smooth (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>f) due to the formation of the bilateral SEI on both electrodes. The side view of the Li anode also provides respective evidence for the shuttle effect and the dendrite growth with the TE&#x02010;I (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>g) and TE&#x02010;II (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>h) electrolytes, respectively. The thin lithium deposition (in the side view of the Li anode with NE&#x02010;I) reveals that the bilateral SEI can effectively suppress the dendrite formation and shuttle effect (Figure <xref rid="advs744-fig-0003" ref-type="fig">3</xref>i).</p><fig fig-type="Figure" xml:lang="en" id="advs744-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The morphology of electrodes after 150 cycles. a,d,g) Traditional electrolyte I (TE&#x02010;I). b,e,h) Traditional electrolyte II (TE&#x02010;II). c,f,i) New electrolyte I (NE&#x02010;I). Scale bars: a&#x02013;f,h) 50 &#x000b5;m; g,i) 100 &#x000b5;m. a&#x02013;c) Top view of the SPAN electrode which showed that it had roughened when TE&#x02010;I was used, while it remained intact with TE&#x02010;II and NE&#x02010;I due to the formation of SEI. d&#x02013;f) Top view of the Li anode which showed the dendrite growth when TE&#x02010;II was used and the shuttle effect with TE&#x02010;I, while it became smooth with NE&#x02010;I on account of the SEI on the Li anode. g&#x02013;i) Side view of the Li anode which showed that it remained ordered with TE&#x02010;I but crumbled with TE&#x02010;II, and became dense with NE&#x02010;I.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-5-1700934-g003"/></fig><p>The formation mechanism of unilateral SEI and bilateral SEI are consistent with density functional theory (DFT) calculations. The organic electrolytes used in Li&#x02010;S batteries were evaluated by comparing their highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO) energy levels with respect to the Fermi energy levels of the electrodes. According to the molecular orbital theory, the electrophilic/nucleophilic substitution is favored at the orbitals where the HOMO/LUMO charge density is high. In particular, the nucleophilic (easy to accept electrons)/electrophilic (easy to donate electrons) substitution occurs in the electrolyte whenever its LUMO/HOMO energy level is lower/higher than the Fermi level in the electrode. A DFT (with a level of B3LYP/6&#x02010;31G) based calculation was used to investigate the electronic structures of both the ether (DOL) and carbonate solvents (EC, DMC, EMC, PC). We determined that the HOMO and LUMO energy levels of carbonate solvents were lower than the corresponding energy levels for ether solvents, indicating that these carbonate solvents were necessary for the nucleophilic reactions, while the ether solvents involved in the electrophilic reactions (Figure S8, Supporting Information). Therefore, in a typical Li&#x02010;S battery with carbonate&#x02010;based electrolytes, the SEI will form principally on the sulfur&#x02010;host cathode; and with ether&#x02010;based electrolytes the SEI will be formed on the lithium anode (<bold>Figure</bold>
+<xref rid="advs744-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>a). Hence, to promote the simultaneous formation of a bilateral SEI on the sulfur&#x02010;host cathode and lithium anode, we combined the ether&#x02010;based solvents with carbonate&#x02010;based solvents in various proportions to identify an ideal electrolyte composition. With the new electrolyte compositions a bilateral SEI in an Li&#x02010;S battery can be readily formed during the initial cycle, which then effectively prevents the shuttle effect and dendrite growth, leading to an enhanced cycling stability. On the other hand, in Li&#x02010;S batteries that use traditional electrolytes, the absence of the bilateral SEI results in a serious battery deficiency caused by either the dendrite growth or the shuttle effect.</p><fig fig-type="Figure" xml:lang="en" id="advs744-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>a) Schematic of bilateral solid electrolyte interface. b&#x02013;g) XPS analyses of the surface of electrodes. b&#x02013;d) SPAN electrode. e&#x02013;g) Li anode.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-5-1700934-g004"/></fig><p>To verify the conjectured formation mechanism of the bilateral SEI, X&#x02010;ray photoelectron spectroscopy (XPS) was performed to quantify the SEI (TE&#x02010;I, TE&#x02010;II, and NE&#x02010;I as electrolytes) on SPAN and Li electrodes after a single cycle, and after 150 cycles. The high&#x02010;resolution C 1s, F 1s, and S 2p XPS spectra of the SPAN cathode after both a single cycle and 150 cycles in different electrolytes are shown in Figure <xref rid="advs744-fig-0004" ref-type="fig">4</xref>b&#x02013;d. The C 1s peak at &#x02248;286.5 eV (&#x02014;C&#x02014;O<sup>&#x02212;</sup>) is evident when the SPAN cathode was cycled in TE&#x02010;II and NE&#x02010;I electrolytes, signaling the formation of the SEI with the use of carbonate&#x02010;based electrolytes. With NE&#x02010;I, another peak located at &#x02248;287.8 eV due to the formation of S&#x02014;S&#x02014;C=O bonds is evident, which is a result of the polysulfide reaction with the carbonate electrolyte.<xref rid="advs744-bib-0049" ref-type="ref">49</xref> The single&#x02010;phase reaction in carbonate&#x02010;based solvent within the TE&#x02010;II prevented any obvious S&#x02014;S&#x02014;C=O bond formation, however. Furthermore, even after 150 cycles, the C 1s peaks remained nearly identical to that observed after the initial cycle, indicating a relative stability of the carbon bonds and providing further proof that the SEI was mainly formed during the initial cycle. Although the F 1s spectra (Figure <xref rid="advs744-fig-0004" ref-type="fig">4</xref>c) imply the decomposition of &#x02013;PF<sub>6</sub> in TE&#x02010;II due to the formation of LiF, no such evidence was found with TE&#x02010;I and NE&#x02010;I.<xref rid="advs744-bib-0050" ref-type="ref">50</xref> For the S 2p spectra (Figure <xref rid="advs744-fig-0004" ref-type="fig">4</xref>d), however, no peaks at 160&#x02013;165 eV were observed with TE&#x02010;II and NE&#x02010;I. Generally, the presence of these peaks signal the nucleophilic attack in carbonate electrolytes, which generates high valence sulfur species on the surface of the SPAN electrode. This scenario is consistent with that revealed by the C 1s spectra, and the reaction of polysulfides with carbonate electrolytes could further enhance the stability of SEI. A similar phenomenon characterizes the S 2p XPS of the SPAN electrode with both the NE&#x02010;II electrolyte and the KB@S cathode (Figure S9a,b, Supporting Information).</p><p>The high&#x02010;resolution C 1s, F 1s, and S 2p spectra in Figure <xref rid="advs744-fig-0004" ref-type="fig">4</xref>e&#x02013;g suggest the formation of the SEI in all electrolytes for the Li anode, which is confirmed by the C 1s spectra. Specially, the &#x02014;C&#x02014;O<sup>&#x02212;</sup> bond was enhanced after 150 cycles in NE&#x02010;I and TE&#x02010;I compared to that observed after a single cycle, which is attributed to the polymerization of the DOL. The F 1s spectra of the Li anode is similar to that of the SPAN cathode indicating a similar decomposition of both the &#x02013;PF<sub>6</sub> and the &#x02013;TFSI during cycling in the SPAN and Li electrodes. The S 2p spectra of Li anode shows a broad peak of Li<sub>2</sub>S<italic><sub>n</sub></italic> indicating a possible migration of polysulfides to the Li anode to form Li<sub>2</sub>S<italic><sub>n</sub></italic>, and the presence of the RO&#x02010;Li (alkoxy lithium) peak in the Li 1s spectra (Figure S9c, Supporting Information) of the Li anode after a single cycle suggests that the Li anodes undergo similar reaction in TE&#x02010;I and NE&#x02010;I.<xref rid="advs744-bib-0051" ref-type="ref">51</xref> After 150 cycles, the bond of RO&#x02010;Li in TE&#x02010;I and NE&#x02010;I electrolytes is weakened, but strengthened in TE&#x02010;II, a phenomenon attributed to the polymerization of DOL with RO&#x02010;Li in the TE&#x02010;I and NE&#x02010;I, consistent with the C 1s XPS. The bilateral SEI was observed to protect both electrodes during subsequent cycling, and mitigate the dendrite growth and shuttle effect which further enhanced the electrochemical performance. In contrast, only unilateral SEI formed on either the lithium anode or SPAN cathode with TE&#x02010;I or TE&#x02010;II, respectively, which resulted in a severe shuttle effect and/or dendrite growth with continuous cycling.</p><p>Most striking is the formation of the bilateral SEI during the initial discharge, as evident in the SEM images of both electrodes with the NE&#x02010;I electrolyte (Figure S10, Supporting Information). Furthermore, the ratio of initial charge capacity and the following discharge capacity with NE&#x02010;I was statistically &#x02248;1 (Figure S11, Supporting Information), implying that the initial charge capacity is almost equal to the following discharge capacity with essentially no capacity loss (no SEI formation) during the initial charge process.</p><p>For practical applications in electric vehicles, continuous usage of a battery for a long period of time (slow discharge) and full charge in a very short time (fast charge) are of great importance. Consequently, we evaluated the ultrafast charge/slow discharge characteristics of batteries with TE&#x02010;I, TE&#x02010;II, NE&#x02010;I, NE&#x02010;II, and NE&#x02010;III electrolytes. The cycling performance depicted in <bold>Figure</bold>
+<xref rid="advs744-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>a suggests a less than ideal configuration of batteries with TE&#x02010;I and TE&#x02010;II, as is evident from their poor Coulombic efficiency and low capacity, respectively. Remarkably, the NE&#x02010;I, NE&#x02010;II, and NE&#x02010;III electrolytes exhibited a superior performance due to their superior Li<sup>+</sup> diffusion coefficient and the absence of the shuttle effect. After 250 cycles of charge at 15 C and discharge at 0.15 C, the batteries still exhibited superior capacity retention and excellent Coulombic efficiency. A typical charge/discharge profile of a battery with NE&#x02010;II showed rapid charging (within 2 min at 15 C) and long duration discharge (for over 3 h at 0.15 C) rates (Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>b and the inset). Lastly, these batteries could be fully charged within minutes and power two LED for over 10 h (Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="advs744-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The electrochemical performance. a) Cycling performance of an Li&#x02010;S battery with a charging current of 15 C and a discharging current of 0.15 C. b) Typical discharge&#x02013;charge profiles of an Li&#x02010;S battery with NE&#x02010;II at a charging current of 15 C and a discharging current of 0.15 C. Inset: charge and discharge cycles. The Li&#x02010;S battery with a bilateral SEI could be fully charged in minutes and discharged for over 3 h. c) The battery could be fully charged within minutes and power two LEDs for over 10 h. d&#x02013;f) Charge/discharge storage properties of an Li&#x02010;S battery at 0.3 C. d) Long&#x02010;term cycling performance. e) The voltage&#x02013;time profile of an Li&#x02010;S battery which was intermittently cycled with varying durations of storage for over 65 d showed no obvious deterioration. f) Typical discharge&#x02013;charge profiles after storage for 480 h.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-5-1700934-g005"/></fig><p>A full cell was also assembled using lithiated graphite as the anode and the SPAN as the cathode and using the five electrolytes discussed in this study. As shown in Figure S12a (Supporting Information), during discharge the Li<sup>+</sup> in graphite is released and transferred to the SPAN electrode leading to Li<sub>2</sub>S formation, a process which is reversed during charging. The potential plateaus of Li&#x02010;S and the Li&#x02010;graphite half&#x02010;cells are &#x02248;2.0 and &#x02248;0.1 V, respectively (Figure S12b, Supporting Information) while that of the S&#x02010;graphite full cell is &#x02248;1.85 V. Although the cycling performance (Figure S12c, Supporting Information) of the full cells using different electrolytes at 0.75 C indicated a rapid decline in capacity with the use of TE&#x02010;I and TE&#x02010;II, the capacity remained robust with the NE&#x02010;I, NE&#x02010;II, and NE&#x02010;III electrolytes. For repeated discharge/charge cycles of more than 200 cycles at a current density of 0.75 C, the full cells using new electrolytes delivered a remarkable high reversible capacity over 1000 mA h g<sup>&#x02212;1</sup> with a capacity retention exceeding 80% (based on the second discharge). The typical discharge/charge profiles with NE&#x02010;I illustrated in Figure S13 (Supporting Information). Moreover, the Coulombic efficiency could reach &#x02248;100% after several cycles. A review of the literature indicates that this cycling stability of the full S&#x02010;graphite has thus far yielded the most superior performance. These findings and the kinetic analyses of the S&#x02010;graphite full cell (Figure S14 and Note S2, Supporting Information) clearly indicate the great potential of these S&#x02010;graphite (lithiated) full cells.</p><p>Although the new NE&#x02010;I, NE&#x02010;II, and NE&#x02010;III electrolytes exhibit superior electrochemical performance compared with their traditional TE&#x02010;I and TE&#x02010;II counterparts due to the formation of bilateral SEI (Figures <xref rid="advs744-fig-0002" ref-type="fig">2</xref> and <xref rid="advs744-fig-0003" ref-type="fig">3</xref>; Figures S7 and S15, Supporting Information), NE&#x02010;II was found superior to the other two given the higher Li<sup>+</sup> diffusion coefficient, discharge capacity, and capacity retention. Therefore, a detailed study of the electrochemical performance of NE&#x02010;II was undertaken to determine the reasons for this superiority. First, various mass loadings (ranging from 1.8 to 7.7 mg cm<sup>&#x02212;2</sup>) were created by controlling the thickness of the electrode materials. As shown in Figure S16 (Supporting Information), the cycling stability of batteries with different mass loadings at the current density of 0.75 C with NE&#x02010;II clearly indicated a capacity that remained stable for over 200 cycles with a Coulombic efficiency of nearly 100%. Further, when the electrode is composed of 90% active materials and a 10% binder with a mass loading of 10&#x02013;15 mg cm<sup>&#x02212;2</sup>, the battery still exhibited excellent electrochemical performance. A high&#x02010;capacity electrode over 1000 mA h g<sup>&#x02212;1</sup> at 0.15 C after 100 cycles is illustrated in Figure S17 (Supporting Information), which retains this quality even with electrodes subjected to pressures of 0 and 9 MPa. Given the critical importance of the electrolyte&#x02010;to&#x02010;sulfur ratio (E/S) for the practical application of Li&#x02010;S batteries, we investigated the effect of different E/S ratios during cycling.<xref rid="advs744-bib-0052" ref-type="ref">52</xref> We observed a slight difference in performance with a change in E/S ratio from 6:1 to 15:1 (Figure S18, Supporting Information), indicating that the E/S is not the limiting factor as long as the electrolyte could fully infiltrate the electrode.</p><p>As an additional test for the robustness of the Li&#x02010;S batteries discussed in this study, we evaluated their performance over a low temperature range from room temperature (&#x02248;25 &#x000b0;C) to &#x02248;4 &#x000b0;C (Figure S19, Supporting Information). Though the capacity of Li&#x02010;S battery decreased slightly at low temperatures, it could be recovered when the temperature returned to the room temperature, signifying its superior adaptability to a change in temperature. The typical charge/discharge profiles of the Li&#x02010;S battery at room temperature and 4 &#x000b0;C is illustrated in Figure S20 (Supporting Information).</p><p>A secondary criterion for realistic application of Li&#x02010;S batteries is their self&#x02010;discharge properties. As shown in Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>d, an Li&#x02010;S battery with NE&#x02010;II electrolyte was charged and discharged at 0.3 C for over 70 cycles. We interrupted the discharge process at the 12th cycle, disconnected the battery for 24 h before continuing with the discharging process (indicated by the up&#x02010;pointing red arrow in Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>d). A similar 24 h long interruption was also implemented during the 22nd charge cycle as indicated by the down&#x02010;pointing black arrow in Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>d. We observed no reduction/increase of the total discharge/charge capacities at the 12th/22nd cycles, indicating nearly zero self&#x02010;discharge of the battery during the 24 h interruption. Similar measurements were performed by disconnecting the battery for 120 and 480 h during the discharging or charging process, with no significant change in the total discharge/charge capacities observed (Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>d). In addition to interrupting the discharge of the Li&#x02010;S battery at the 52nd cycle for 480 h (Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>d), a decrease in temperature to 4 &#x000b0;C, followed by a return to room temperature was observed during the 63rd charge cycle. Further, when cycled and stored over a 65 d period (Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>e), the battery still delivered a reversible capacity of 1169 mA h g<sup>&#x02212;1</sup>, which corresponds to a capacity retention of 96.2% based on the capacity of second discharge. As indicated by the red discharge curve in Figure <xref rid="advs744-fig-0005" ref-type="fig">5</xref>f, no change was observed in capacity after a 480 h interruption of the discharging process, indicating an excellent storage capability due to the mitigation of the polysulfide shuttle.</p><p>A further cycling and storage of the battery for an additional 100 cycles (Figure S21a, Supporting Information) only resulted in a marginal degree of degradation, with a reversible capacity of 1153 mA h g<sup>&#x02212;1</sup>, and a capacity retention rate of 94.9% based on the capacity of the second discharge. At this point, the batteries were already cycled with a charge&#x02013;discharge interruption exceeding 130 d (Figure S21b, Supporting Information); such an excellent charge storage performance of Li&#x02010;S batteries is crucial for their practical application.</p><p>To further investigate the possibility of the Li&#x02010;S battery with a bilateral SEI for commercial applications, industrial grade Li&#x02010;S pouch cells based on NE&#x02010;II with a capacity of &#x02248;400 mA h were fabricated. The optical photograph of two tandem Li&#x02010;S pouch cells connected in series yielded an output voltage of 4.05 V that could power the light&#x02010;emitting diode (LED) display (<bold>Figure</bold>
+<xref rid="advs744-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>a). The typical charge/discharge profiles of the Li&#x02010;S pouch cells are depicted in Figure <xref rid="advs744-fig-0006" ref-type="fig">6</xref>b. The Li&#x02010;S pouch cells could deliver a reversible capacity of 407 mA h and maintain a reversible capacity of 342 mA h after 60 cycles, with a capacity retention of 84% (Figure <xref rid="advs744-fig-0006" ref-type="fig">6</xref>c). Notably, the Li&#x02010;S pouch cells still retained a capacity of 67% for a further 100 cycles.</p><fig fig-type="Figure" xml:lang="en" id="advs744-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Industrial grade Li&#x02010;S pouch cells with capacity around 400 mA h. a) Photograph of the LED array which reads &#x0201c;Li&#x02010;S.&#x0201d; The LED array was powered by two Li&#x02010;S pouch cells. b) Typical discharge&#x02013;charge profiles. c) Cycling stability for 100 cycles.</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-5-1700934-g006"/></fig></sec><sec id="advs744-sec-0030"><label>3</label><title>Conclusion</title><p>Through the use of new electrolytes we conceptualized and demonstrated the formation of a bilateral SEI which resulted in high&#x02010;performance Li&#x02010;S batteries for practical applications. The bilateral SEI simultaneously suppressed the growth of dendrites on the Li anode and the deterioration of the sulfur&#x02010;host cathode, leading to outstanding electrochemical performance. Furthermore, the Li&#x02010;S batteries exhibited high utilization of sulfur, superior rate performance, long cycle stability with &#x02248;100% Coulombic efficiency, and high performance of ultrafast&#x02010;charge/slow&#x02010;discharge, ultralow self&#x02010;discharge. The industrial grade high&#x02010;capacity Li&#x02010;S pouch cells also exhibited a stability of over a lengthy cycle, indicating methods to develop long lived Li&#x02010;S batteries with high energy and high power densities.</p></sec><sec id="advs744-sec-0050"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-1700934-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs744-sec-0040"><title>Acknowledgements</title><p>This work was financially supported by National Natural Science Foundation of China (Nos. 51672078 and 21473052) and Hunan University State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body Independent Research Project (No. 71675004), Hunan Youth Talents (2016RS3025), Foundation of State Key Laboratory of Coal Conversion (Grant No. J17&#x02010;18&#x02010;903). A.M.R. and R.P. acknowledge funding support through the SC EPSCoR/IDeA Program under Award #18&#x02010;SR03, and the NASA EPSCoR Program under Award #NNH17ZHA002C. Any opinions, findings, and conclusions or recommendations expressed are those of the authors and do not necessarily reflect those of the SC EPSCoR/IDeA Program.</p><p>Note: The Acknowledgements were updated on September 19, 2018 after initial online publication.</p></ack><ref-list id="advs744-bibl-0001"><ref id="advs744-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs744-cit-0001">
+<string-name>
+<given-names>X.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z. W.</given-names>
+<surname>Seh</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2016</year>, <volume>7</volume>, <fpage>11203</fpage>.<pub-id pub-id-type="pmid">27046216</pub-id></mixed-citation></ref><ref id="advs744-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs744-cit-0002">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Kwok</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16132</fpage>.</mixed-citation></ref><ref id="advs744-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs744-cit-0003">
+<string-name>
+<given-names>S.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source xml:lang="en">Acc. Chem. Res.</source>
+<year>2012</year>, <volume>45</volume>, <fpage>1759</fpage>.<pub-id pub-id-type="pmid">22953777</pub-id></mixed-citation></ref><ref id="advs744-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs744-cit-0004">
+<string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Su</surname>
+</string-name>, <source xml:lang="en">Acc. Chem. Res.</source>
+<year>2013</year>, <volume>46</volume>, <fpage>1125</fpage>.<pub-id pub-id-type="pmid">23095063</pub-id></mixed-citation></ref><ref id="advs744-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs744-cit-0005">
+<string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>1605160</fpage>.</mixed-citation></ref><ref id="advs744-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs744-cit-0006">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>You</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2017</year>, <volume>17</volume>, <fpage>5064</fpage>.<pub-id pub-id-type="pmid">28691822</pub-id></mixed-citation></ref><ref id="advs744-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs744-cit-0007">
+<string-name>
+<given-names>N.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2017</year>, <volume>17</volume>, <fpage>538</fpage>.<pub-id pub-id-type="pmid">27977209</pub-id></mixed-citation></ref><ref id="advs744-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs744-cit-0008">
+<string-name>
+<given-names>S.</given-names>
+<surname>Evers</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Acc. Chem. Res.</source>
+<year>2013</year>, <volume>46</volume>, <fpage>1135</fpage>.<pub-id pub-id-type="pmid">23054430</pub-id></mixed-citation></ref><ref id="advs744-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs744-cit-0009">
+<string-name>
+<given-names>Z. W.</given-names>
+<surname>Seh</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Chem. Soc. Rev.</source>
+<year>2016</year>, <volume>45</volume>, <fpage>5605</fpage>.<pub-id pub-id-type="pmid">27460222</pub-id></mixed-citation></ref><ref id="advs744-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs744-cit-0010">
+<string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ueno</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Dokko</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Watanabe</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1500117</fpage>.</mixed-citation></ref><ref id="advs744-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs744-cit-0011">
+<string-name>
+<given-names>S.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>N. H.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>18510</fpage>.<pub-id pub-id-type="pmid">23101502</pub-id></mixed-citation></ref><ref id="advs744-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs744-cit-0012">
+<string-name>
+<given-names>J.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Abruna</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>763</fpage>.<pub-id pub-id-type="pmid">23234561</pub-id></mixed-citation></ref><ref id="advs744-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs744-cit-0013">
+<string-name>
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>F. J.</given-names>
+<surname>Disalvo</surname>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Abruna</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>8801</fpage>.<pub-id pub-id-type="pmid">24007262</pub-id></mixed-citation></ref><ref id="advs744-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs744-cit-0014">
+<string-name>
+<given-names>S. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X. D.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>W. K.</given-names>
+<surname>Yeoh</surname>
+</string-name>, <string-name>
+<given-names>K. F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G. X.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>1301761</fpage>.</mixed-citation></ref><ref id="advs744-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs744-cit-0015">
+<string-name>
+<given-names>J. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>T. H.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>B. G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Min</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2014</year>, <volume>24</volume>, <fpage>5359</fpage>.</mixed-citation></ref><ref id="advs744-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs744-cit-0016">
+<string-name>
+<given-names>L. N.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name>
+<given-names>H. R.</given-names>
+<surname>Byon</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2014</year>, <volume>24</volume>, <fpage>2248</fpage>.</mixed-citation></ref><ref id="advs744-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs744-cit-0017">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shui</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H. K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. X.</given-names>
+<surname>Dou</surname>
+</string-name>, <string-name>
+<given-names>I. Y.</given-names>
+<surname>Jeon</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Baek</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dai</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2014</year>, <volume>8</volume>, <fpage>10920</fpage>.<pub-id pub-id-type="pmid">25290080</pub-id></mixed-citation></ref><ref id="advs744-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs744-cit-0018">
+<string-name>
+<given-names>Z. W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z. Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F. B.</given-names>
+<surname>Hao</surname>
+</string-name>, <string-name>
+<given-names>X. K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>R. H.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>L. W.</given-names>
+<surname>Yin</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2014</year>, <volume>24</volume>, <fpage>2500</fpage>.</mixed-citation></ref><ref id="advs744-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs744-cit-0019">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2015</year>, <volume>137</volume>, <fpage>12946</fpage>.<pub-id pub-id-type="pmid">26378475</pub-id></mixed-citation></ref><ref id="advs744-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs744-cit-0020">
+<string-name>
+<given-names>L.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhuo</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>5936</fpage>.<pub-id pub-id-type="pmid">26310671</pub-id></mixed-citation></ref><ref id="advs744-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs744-cit-0021">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Lou</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>8850</fpage>.<pub-id pub-id-type="pmid">26608228</pub-id></mixed-citation></ref><ref id="advs744-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs744-cit-0022">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>6926</fpage>.<pub-id pub-id-type="pmid">27229660</pub-id></mixed-citation></ref><ref id="advs744-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs744-cit-0023">
+<string-name>
+<given-names>L. C.</given-names>
+<surname>Gerber</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Frischmann</surname>
+</string-name>, <string-name>
+<given-names>F. Y.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>S. E.</given-names>
+<surname>Doris</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Scheuermann</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Helms</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2016</year>, <volume>16</volume>, <fpage>549</fpage>.<pub-id pub-id-type="pmid">26691496</pub-id></mixed-citation></ref><ref id="advs744-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs744-cit-0024">
+<string-name>
+<given-names>F.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Suo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2016</year>, <volume>16</volume>, <fpage>4521</fpage>.<pub-id pub-id-type="pmid">27322663</pub-id></mixed-citation></ref><ref id="advs744-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs744-cit-0025">
+<string-name>
+<given-names>S. N.</given-names>
+<surname>Talapaneni</surname>
+</string-name>, <string-name>
+<given-names>T. H.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Je</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Buyukcakir</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Coskun</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>3106</fpage>.</mixed-citation></ref><ref id="advs744-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs744-cit-0026">
+<string-name>
+<given-names>J.</given-names>
+<surname>Yoo</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>G. Y.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>K. H.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>C. K.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Kwak</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2016</year>, <volume>16</volume>, <fpage>3292</fpage>.<pub-id pub-id-type="pmid">27104986</pub-id></mixed-citation></ref><ref id="advs744-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs744-cit-0027">
+<string-name>
+<given-names>M.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>1495</fpage>.</mixed-citation></ref><ref id="advs744-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs744-cit-0028">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Strasser</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2014</year>, <volume>8</volume>, <fpage>9295</fpage>.<pub-id pub-id-type="pmid">25144303</pub-id></mixed-citation></ref><ref id="advs744-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs744-cit-0029">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L. X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Z. Q.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>Z. L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>1301473</fpage>.</mixed-citation></ref><ref id="advs744-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs744-cit-0030">
+<string-name>
+<given-names>G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Paek</surname>
+</string-name>, <string-name>
+<given-names>G. S.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>7760</fpage>.<pub-id pub-id-type="pmid">26182892</pub-id></mixed-citation></ref><ref id="advs744-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs744-cit-0031">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>3188</fpage>.</mixed-citation></ref><ref id="advs744-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs744-cit-0032">
+<string-name>
+<given-names>L. C.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F. J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nuli</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2012</year>, <volume>5</volume>, <fpage>6966</fpage>.</mixed-citation></ref><ref id="advs744-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs744-cit-0033">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>569</fpage>.<pub-id pub-id-type="pmid">25256595</pub-id></mixed-citation></ref><ref id="advs744-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs744-cit-0034">
+<string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>K. T.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2009</year>, <volume>8</volume>, <fpage>500</fpage>.<pub-id pub-id-type="pmid">19448613</pub-id></mixed-citation></ref><ref id="advs744-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs744-cit-0035">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Wei Seh</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Cha</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>McDowell</surname>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>1331</fpage>.<pub-id pub-id-type="pmid">23299881</pub-id></mixed-citation></ref><ref id="advs744-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs744-cit-0036">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kundu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cuisinier</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>4759</fpage>.<pub-id pub-id-type="pmid">25154399</pub-id></mixed-citation></ref><ref id="advs744-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs744-cit-0037">
+<string-name>
+<given-names>S.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16094</fpage>.</mixed-citation></ref><ref id="advs744-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs744-cit-0038">
+<string-name>
+<given-names>J.</given-names>
+<surname>Conder</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Forner&#x02010;Cuenca</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Gubler</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gubler</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Novak</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Trabesinger</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>18822</fpage>.<pub-id pub-id-type="pmid">27367443</pub-id></mixed-citation></ref><ref id="advs744-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs744-cit-0039">
+<string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Nath</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tikekar</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>5147</fpage>.</mixed-citation></ref><ref id="advs744-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs744-cit-0040">
+<string-name>
+<given-names>J. D.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zang</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Carbon</source>
+<year>2016</year>, <volume>101</volume>, <fpage>272</fpage>.</mixed-citation></ref><ref id="advs744-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs744-cit-0041">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qian</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2015</year>, <volume>8</volume>, <fpage>3181</fpage>.</mixed-citation></ref><ref id="advs744-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs744-cit-0042">
+<string-name>
+<given-names>M.</given-names>
+<surname>Safari</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Kwok</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">ACS Cent. Sci.</source>
+<year>2016</year>, <volume>2</volume>, <fpage>560</fpage>.<pub-id pub-id-type="pmid">27610417</pub-id></mixed-citation></ref><ref id="advs744-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs744-cit-0043">
+<string-name>
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1601392</fpage>.</mixed-citation></ref><ref id="advs744-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs744-cit-0044">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Read</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2012</year>, <volume>200</volume>, <fpage>77</fpage>.</mixed-citation></ref><ref id="advs744-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs744-cit-0045">
+<string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>224</fpage>.</mixed-citation></ref><ref id="advs744-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs744-cit-0046">
+<string-name>
+<given-names>J. P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Chou</surname>
+</string-name>, <string-name>
+<given-names>R. Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>W. X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H. K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D. Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S. X.</given-names>
+<surname>Dou</surname>
+</string-name>, <source xml:lang="en">Nano Energy</source>
+<year>2015</year>, <volume>18</volume>, <fpage>133</fpage>.</mixed-citation></ref><ref id="advs744-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs744-cit-0047">
+<string-name>
+<given-names>J. T.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Eom</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zdyrko</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yushin</surname>
+</string-name>, <source xml:lang="en">ACS Energy Lett.</source>
+<year>2016</year>, <volume>1</volume>, <fpage>373</fpage>.</mixed-citation></ref><ref id="advs744-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs744-cit-0048">
+<string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S. T.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2016</year>, <volume>327</volume>, <fpage>212</fpage>.</mixed-citation></ref><ref id="advs744-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs744-cit-0049">
+<string-name>
+<given-names>Y. H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Gaskell</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Cychosz</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Eichhorn</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2015</year>, <volume>25</volume>, <fpage>4312</fpage>.</mixed-citation></ref><ref id="advs744-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs744-cit-0050">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Miao</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>10372</fpage>.</mixed-citation></ref><ref id="advs744-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs744-cit-0051">
+<string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Pollak</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Elazari</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Salitra</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Kelley</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Affinito</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2009</year>, <volume>156</volume>, <fpage>A694</fpage>.</mixed-citation></ref><ref id="advs744-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs744-cit-0052">
+<string-name>
+<given-names>B. D.</given-names>
+<surname>McCloskey</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. Lett.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>4581</fpage>.<pub-id pub-id-type="pmid">26722800</pub-id></mixed-citation></ref></ref-list></back></article>

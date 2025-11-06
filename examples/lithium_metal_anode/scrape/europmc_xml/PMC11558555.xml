@@ -1,0 +1,479 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="publisher-id">ae</journal-id><journal-id journal-id-type="coden">aaemcq</journal-id><journal-title-group><journal-title>ACS Applied Energy Materials</journal-title></journal-title-group><issn pub-type="epub">2574-0962</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11558555</article-id><article-id pub-id-type="doi">10.1021/acsaem.4c02099</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>A
+Quasi-Solid-State Polymer Lithium&#x02013;Metal Battery
+with Minimal Excess Lithium, Ultrathin Separator, and High-Mass Loading
+NMC811 Cathode</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>Homann</surname><given-names>Gerrit</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes1" ref-type="notes">&#x02207;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8030-9187</contrib-id><name><surname>Wang</surname><given-names>Qing</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes1" ref-type="notes">&#x02207;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Liu</surname><given-names>Sufu</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Devincenti</surname><given-names>Antoine</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Karanth</surname><given-names>Pranav</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Weijers</surname><given-names>Mark</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0526-7081</contrib-id><name><surname>Mulder</surname><given-names>Fokko M.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Piesins</surname><given-names>Matiss</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Gouveia</surname><given-names>Tom</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath10"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5231-9150</contrib-id><name><surname>Ladam</surname><given-names>Alix</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Fantini</surname><given-names>Sebastien</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath12"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5003-1134</contrib-id><name><surname>Battaglia</surname><given-names>Corsin</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref><xref rid="aff6" ref-type="aff">#</xref></contrib><aff id="aff1"><label>&#x02020;</label><institution>Empa&#x02212;Swiss
+Federal Laboratories for Materials Science and Technology</institution>, &#x000dc;berlandstrasse 129, 8600 D&#x000fc;bendorf, <country>Switzerland</country></aff><aff id="aff2"><label>&#x02021;</label><institution>Delft
+University of Technology</institution>, Chemical Engineering
+Department, Van der Maasweg
+9, Delft 2629HZ, <country>The Netherlands</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>Sidrabe
+Vacuum</institution>, Krustpils Iela
+17, Riga 1073, <country>Latvia</country></aff><aff id="aff4"><label>&#x02225;</label><institution>Solvionic</institution>, 11 Chemin des Silos, Toulouse 31100, <country>France</country></aff><aff id="aff5"><label>&#x022a5;</label><institution>ETH
+Zurich</institution>, Department of Information Technology
+and Electrical Engineering, Gloriastrasse 35, 8092 Z&#x000fc;rich, <country>Switzerland</country></aff><aff id="aff6"><label>#</label>EPFL,
+School
+of Engineering, <institution>Institute of Materials</institution>, Station 7, 1015 Lausanne, <country>Switzerland</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>gerrit.homann@empa.ch</email>.</corresp></author-notes><pub-date pub-type="epub"><day>31</day><month>10</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>11</day><month>11</month><year>2024</year></pub-date><volume>7</volume><issue>21</issue><fpage>10037</fpage><lpage>10043</lpage><history><date date-type="received"><day>20</day><month>08</month><year>2024</year></date><date date-type="accepted"><day>24</day><month>10</month><year>2024</year></date><date date-type="rev-recd"><day>22</day><month>10</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_0007" id="ab-agr1"/></p><p>Solid-state batteries
+with lithium metal anodes are considered
+the next major technology leap with respect to today&#x02019;s lithium-ion
+batteries, as they promise a significant increase in energy density.
+Expectations for solid-state batteries from the automotive and aviation
+sectors are high, but their implementation in industrial production
+remains challenging. Here, we report a solid-state lithium&#x02013;metal
+battery enabled by a polymer electrolyte consisting of a poly(DMADAFSI)
+cationic polymer and LiFSI in Pyr<sub>13</sub>FSI as plasticizer.
+The polymer electrolyte is infiltrated and solidified in the pores
+of a commercial LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811) cathode with up to 2.8 mAh cm<sup>&#x02013;2</sup> nominal areal capacity and in the pores of a 25 &#x003bc;m thin commercial
+polypropylene separator. Cathode and separator are finally laminated
+into a cell in combination with a commercial 20 &#x003bc;m thin lithium
+metal anode. Our demonstration of a solid-state polymer battery cycling
+at full nominal capacity employing exclusively commercially available
+components available at industrial scale represents a critical step
+forward toward the commercialization of a competitive all-solid-state
+battery technology.</p></abstract><kwd-group><kwd>solid-state batteries</kwd><kwd>polymer</kwd><kwd>polymerized
+ionic liquid</kwd><kwd>thin lithium</kwd><kwd>high-mass-loading NMC811</kwd><kwd>infiltration</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>H2020 LEIT Advanced Materials</institution><institution-id institution-id-type="doi">10.13039/100010671</institution-id></institution-wrap></funding-source><award-id>875557</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ae4c02099</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ae4c02099</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Solid-state batteries employing solid
+electrolytes are projected
+to reach energy densities of &#x0003e;400 Wh kg<sup>&#x02013;1</sup> and
+&#x0003e;1200
+Wh L<sup>&#x02013;1</sup>, enabling long-distance electric road vehicles
+and short-haul electric aircrafts, respectively.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> Achieving such high energy densities is possible
+by combining a lithium metal anode (3860 mAh g<sup>&#x02013;1</sup>, 3.04 V vs Li<sup>+</sup>/Li<sup>0</sup>) and a nickel-rich layered
+oxide cathode, such as LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811, 200 mAh g<sup>&#x02013;1</sup>, when cycled
+to &#x0003e;4.3 V vs Li<sup>+</sup>/Li<sup>0</sup>). Essential for the
+operation
+of such a battery is a suitable solid electrolyte that not only possesses
+sufficiently high lithium-ion conductivity and low gravimetric density
+but also offers compatibility with the lithium anode and sufficient
+oxidative stability.<sup><xref ref-type="bibr" rid="ref6">6</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>We recently identified the polymer poly(diallyldimethylammonium)
+bis(fluorosulfonyl)imide (PDADMAFSI) and <italic>N</italic>-butyl-<italic>N</italic>-methylpyrrolidinium bis(trifluoromethylsulfonyl)imide
+(Pyr<sub>13</sub>FSI) as a plasticizer in combination with lithium
+bis(fluorosulfonyl)imide (LiFSI) as a lithium salt as a promising
+electrolyte for solid-state batteries compatible with lithium metal
+anodes and NMC811 cathodes, demonstrating an excellent capacity retention
+of 72% after 600 cycles to 4.4 V at 25 &#x000b0;C.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> With a room-temperature ion conductivity of &#x0223c;1 mS
+cm<sup>&#x02013;2</sup>, a gravimetric density of only 1.6 g cm<sup>&#x02013;3</sup>, and a projected cost of $80 kg<sup>&#x02013;1</sup> at 50 t annual production, this nonflammable polymer electrolyte
+is a strong contender for a competitive solid-state battery technology.</p><p>However, most solid-state lithium metal cells reported in the literature
+(including ours in ref (<xref ref-type="bibr" rid="ref9">9</xref>)) make use of prohibitively thick lithium metal anodes (&#x0003e;200 &#x003bc;m),
+to counter lithium inventory depletion during cycling, excessively
+thick separators (&#x0003e;100 &#x003bc;m for polymer electrolytes and often
+up to 1 mm thick for inorganic solid electrolytes such as sulfides,
+halides, oxides, and hydroborates<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup>), due to processing-related issues
+and/or to prevent/delay short circuiting of cells by lithium metal
+dendrites, and cathodes with relatively low areal capacity (&#x0223c;1
+mAh cm<sup>&#x02013;2</sup>), due to kinetic limitations and/or chemomechanical
+issues during discharge/charge cycling.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> To reach high energy density, it is of paramount importance to minimize
+the lithium metal anode thickness (also important for safety and cost),
+reduce the thickness of the separator between anode and cathode to
+a few tens of micrometers, and increase the areal capacity of the
+cathode to commercially viable values.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> These aspects are often neglected in solid-state cells reported
+in the scientific literature but are key for reaching high energy
+density and moving toward industrially relevant solid-state battery
+prototypes.</p><p>Here we demonstrate processes that enable the fabrication
+of solid-state
+lithium&#x02013;metal battery cells exclusively from commercially available
+components with an only 20 &#x003bc;m thick lithium metal anode, an
+infiltrated industry-standard, 25 &#x003bc;m thin, porous polypropylene
+separator, and an infiltrated industrially manufactured NMC811 cathode
+with areal capacities up to 2.8 mAh cm<sup>&#x02013;2</sup> providing
+a realistic blueprint for the manufacturing of competitive solid-state
+batteries at scale.</p></sec><sec id="sec2"><title>Experimental Section</title><p>Lithium metal was evaporated thermally in the form of a 20 &#x003bc;m
+thick uniform layer onto a 10 &#x003bc;m thick Cu current collector
+foil in an industrial roll-to-roll evaporation system under vacuum
+(&#x0003c;2 &#x000d7; 10<sup>&#x02013;5</sup> mbar) (Sidrabe Vacuum Ltd.).
+25 &#x003bc;m thick porous polypropylene separators (Celgard 2500, pore
+size 64 nm, porosity 55%) and 260 &#x003bc;m thick glass fiber separators
+(Whatman GF/A, pore size 1.6 &#x003bc;m, porosity 90%) were punched
+into discs with a diameter of 16 mm, dried in vacuum (&#x0003c;10<sup>&#x02013;3</sup> mbar) for 12 h, and soaked in a solution containing PDADMAFSI polymer
+(40 wt %) and 1 or 3 M LiFSI (purity 99.9%) in Pyr<sub>13</sub>FSI
+(60 wt %) as plasticizer (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a) in acetonitrile (electrolyte-to-solvent ratio 1:1
+by weight) (Solvionic) for 12 h, dried passively in a polytetrafluoroethylene
+(PTFE) dish, soaked for an additional 1 h, dried at 55 &#x000b0;C in
+vacuum (&#x0003c;10<sup>&#x02013;3</sup> mbar) for 12 h, and transferred
+into an argon-filled glovebox (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b). Commercial NMC811 electrodes with a nominal
+capacity of 1.0 mAh cm<sup>&#x02013;2</sup> (mass loading 6.3 mg cm<sup>&#x02013;2</sup>) (Custom Cells) and 2.8 mAh cm<sup>&#x02013;2</sup> (mass loading 16.1 mg cm<sup>&#x02013;2</sup>) (Lifun) were fixed
+on a glass plate and blade-coated with a solution containing PDADMAFSI
+polymer (40 wt %) and 1 or 3 M LiFSI (purity 99.9%) in Pyr<sub>13</sub>FSI (60 wt %) as plasticizer in propylene carbonate (electrolyte-to-solvent
+ratio 1:1 by weight) (Solvionic) using a blade-to-electrode gap of
+100 &#x003bc;m. The high solubility of PDADMAFSI in propylene carbonate
+and the low viscosity of propylene carbonate are critical for the
+infiltration of the polymer electrolyte into the pores of thick NMC811
+electrodes. Electrodes were subsequently dried at room temperature
+for 6 h in vacuum (&#x0003c;10<sup>&#x02013;3</sup> mbar) in the antechamber
+of an argon-filled glovebox. The low volatility of propylene carbonate
+prevents skin formation near the electrode surface during this step.
+Coating and drying were repeated and electrodes were then punched
+into discs with 12 mm diameter and dried at 55 &#x000b0;C in vacuum (&#x0003c;10<sup>&#x02013;3</sup> mbar) for 12 h, and transferred into an argon-filled
+glovebox (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). Cells were assembled using two-electrode coin cells (MTI R2032)
+by stacking either two lithium metal electrodes (Li||Li cells) separated
+by an infiltrated separator or a lithium metal electrode and an infiltrated
+NMC811 electrode (NMC811||Li) separated by an infiltrated separator.
+Mild stack pressure (estimated &#x0003c;0.2 MPa) is applied employing a
+1.5 mm thick stainless steel spacer disc with a diameter of 15 mm
+and a stainless steel spring with a height of 1.4 mm. Galvanostatic
+cycling was conducted on multichannel potentiostats (Li||Li cells
+on Biologic MPG2 and NMC811||Li on Biologic BCS) in a climate chamber
+set to 25 &#x000b0;C. The total ion conductivities of the polymer electrolytes
+were measured using electrochemical impedance spectroscopy conducted
+from 1 MHz to 1 Hz with a voltage amplitude of 10 mV (Novocontrol).
+Lithium-ion transference numbers <italic>t</italic><sub>Li<sup>+</sup></sub> were determined using the Bruce&#x02013;Vincent method subjecting
+the cells to a polarization of 10 mV and measuring the current response
+for 12 h.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Details concerning X-ray photoelectron
+spectroscopy (Thermo Scientific K-Alpha) and nuclear magnetic resonance
+(Bruker Ascend 500 MHz) measurements are provided in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Supporting Information</ext-link>.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Chemical structure
+of the components of the polymerized-ionic-liquid-based
+polymer electrolyte and photos of (b) a 20 &#x003bc;m thin lithium anode
+on a copper current collector, (c) an infiltrated 25 &#x003bc;m thick
+propylene separator, and (d) an infiltrated NMC811 electrode with
+a nominal areal capacity of 2.8 mAh cm<sup>&#x02013;2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_0001" id="gr1" position="float"/></fig></sec><sec id="sec3"><title>Results and Discussion</title><sec id="sec3.1"><title>Minimal Excess Lithium
+Enabled by Enhanced Coulombic Efficiency</title><p>For safety and cost
+reasons, it is imperative to move to solid-state
+batteries with a minimum of excess lithium. However, reducing the
+thickness of the lithium metal anode represents a formidable challenge
+because thick lithium masks and compensates lithium inventory losses
+during cycling. This is illustrated in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a (gray curve), where the voltage of a symmetric
+Li||Li cell consisting of two 20 &#x003bc;m thick lithium electrodes
+separated by a glass fiber separator infiltrated by the polymer electrolyte
+with 1 M LiFSI cycled at a current density of 0.1 mA cm<sup>&#x02013;2</sup> and with 0.1 mAh cm<sup>&#x02013;2</sup> transferred per half cycle
+starts to diverge already after 600 h, leading to cell failure shortly
+after 1000 h. For comparison, an analogous cell with 250 &#x003bc;m
+thick lithium electrodes, shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Figure S1</ext-link>, cycles stably for more than 1200 h with the cell voltage remaining
+below 100 mV. This is clear evidence that the consumption of lithium
+during cycling, caused by a low Coulombic efficiency, represents the
+main failure mode in the cell with thin lithium electrodes.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Lithium plating
+and stripping experiments in symmetric Li||Li cells
+at 25 &#x000b0;C. Comparison of (a) cell voltage and (b) average Coulombic
+efficiency between polymer electrolytes with 1 and 3 M LiFSI at 0.1
+mA cm<sup>&#x02013;2</sup> and 0.1 mAh cm<sup>&#x02013;2</sup> per half
+cycle.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_0002" id="gr2" position="float"/></fig><p>Increasing the salt concentration
+has been widely accepted as a
+viable approach to improve the Coulombic efficiency of lithium anodes
+in liquid-electrolyte batteries.<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> Inspired by this approach,
+we adopted a similar strategy for the polymer electrolyte. As a compromise
+between ion concentration and ion mobility, we increased the salt
+concentration from 1 to 3 M. As a consequence, the total ion conductivity
+of the polymer electrolyte at 25 &#x000b0;C decreases from 8.4 &#x000d7;
+10<sup>&#x02013;4</sup> to 5.8 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. In contrast, the lithium-ion transference number
+at 25 &#x000b0;C increases from 0.21 to 0.42,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> resulting in an overall increase in the lithium-ion conductivity
+from 1.8 &#x000d7; 10<sup>&#x02013;4</sup> to 2.5 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> as a consequence of the increased salt
+concentration as visualized in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Comparison of polymer electrolyte with 1 and 3 M LiFSI
+in terms
+of (a) total ion conductivity vs temperature and (b) total ion vs
+lithium-ion conductivity at 25 &#x000b0;C. Because the polymer electrolyte
+was infiltrated into a polypropylene separator (see <xref rid="sec3.2" ref-type="other">Ultrathin Commercial Separator That Also Benefits Coulombic Efficiency</xref>), measured effective conductivity values were scaled by a factor
+equal to the quotient of the polypropylene separator tortuosity of
+2.5 and porosity of 0.55,<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> resulting in conductivity
+values consistent with the values reported by some of us for freestanding
+polymer electrolyte sheets in ref (<xref ref-type="bibr" rid="ref9">9</xref>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_0003" id="gr3" position="float"/></fig><p>Moreover, the increase
+in LiFSI salt concentration leads to a remarkable
+improvement in cycling stability of the symmetric Li||Li cell with
+20 &#x003bc;m thick lithium electrodes, shown by the blue curve in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, achieving stable
+cycling for more than 5000 h. The overpotential remains below 100
+mV even after a cumulative charge transfer of 500 mAh cm<sup>&#x02013;2</sup>. This value largely exceeds the capacity of the 20 &#x003bc;m thick
+lithium reservoir layer provided at the start, corresponding to only
+4 mAh cm<sup>&#x02013;2</sup>.</p><p>The average Coulombic efficiency
+of lithium plating and stripping
+is determined according to eq 6 proposed by Adams et al.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> with 4 mAh cm<sup>&#x02013;2</sup> of excess
+lithium (<italic>Q</italic><sub>T</sub> in ref (<xref ref-type="bibr" rid="ref25">25</xref>), followed by repeated
+plating and stripping of 0.1 mAh cm<sup>&#x02013;2</sup> per half cycle
+(<italic>Q</italic><sub>C</sub> in ref (<xref ref-type="bibr" rid="ref25">25</xref>) for 600 h for the cell with 250 &#x003bc;m thick
+lithium (before the cell voltage diverges) and 5000 h for the cell
+with only 20 &#x003bc;m thick lithium (providing a lower bound for the
+average Coulombic efficiency, as the cell keeps cycling beyond the
+5000 h). Following this analysis, the Coulombic efficiency, graphically
+summarized in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b, improves from 89.3% to 98.4% when increasing the LiFSI salt concentration
+in the polymer electrolyte from 1 to 3 M, highlighting the much improved
+stability of lithium plating and stripping.</p><p>To understand the
+improved Coulombic efficiency, we employed X-ray
+photoelectron spectroscopy (XPS) to study the composition of the solid
+electrolyte interphase forming between the lithium metal anode and
+the 1 or 3 M LiFSI polymer electrolyte. The XPS survey spectra and
+atomic composition of the SEI as a function of etch time are shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Figure S2</ext-link>. The C 1s and O 1s spectra
+are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Figure S3</ext-link>. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b shows a comparison between
+the F 1s photoelectron spectra with a peak associated with LiF. While
+the F 1s peak intensity is comparable for both electrolytes directly
+after transfer into the ultrahigh vacuum chamber, the F 1s peak intensity
+increases rapidly as a function of argon-ion sputtering time for the
+3 M LiFSI electrolyte, indicating that the bulk of its solid electrolyte
+interphase is LiF rich. Conversely, from comparison of the S 2p photoelectron
+peak intensities in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c,d, we conclude that the Li<sub>2</sub>S content in the solid
+electrolyte interphase from the 3 M polymer electrolyte decreases
+from the surface toward the bulk, while the 1 M polymer electrolyte
+results in a solid electrolyte interphase with a relatively homogeneous
+composition depth profile.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>X-ray photoelectron spectra of the solid electrolyte
+interphase
+forming on the lithium metal anode in contact with polymer electrolyte
+with (a,c) 1 M LiFSI and (b,d) 3 M LiFSI.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_0004" id="gr4" position="float"/></fig><p>This trend is consolidated by magic-angle-spinning nuclear magnetic
+resonance spectroscopy, where a more intense peak corresponding to
+LiF is observed at a chemical shift of &#x02212;205 ppm for the polymer
+electrolyte with 3 M LiFSI (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Figure S4</ext-link>).
+Altogether, both XPS and NMR results indicate a solid electrolyte
+interphase richer in LiF in the case of the 3 M LiFSI containing polymer
+electrolyte, which improves the Coulombic efficiency. Ultimately it
+is not only the compositional profile and balance between LiF and
+other lithiated species but also its nanostructure that defines how
+a solid electrolyte interphase performs in the cell.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup></p></sec><sec id="sec3.2"><title>Ultrathin Commercial Separator That Also
+Benefits Coulombic
+Efficiency</title><p>As previously shown for cells with liquid electrolyte,
+the type of separator used can influence the morphology of the plated
+lithium.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Replacing the freestanding polymer
+electrolyte separator by a 260 &#x003bc;m thick glass fiber separator
+infiltrated with the polymer also proved effective in our previous
+study in delaying dendrite formation thanks to enhanced mechanical
+properties and tortuosity.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> However, reducing
+the separator thickness further is crucial to achieving competitive
+energy density at the cell level. We have thus selected a 25 &#x003bc;m
+thin porous polypropylene separator, commercially available as Celgard
+2500, as a candidate for this purpose.</p><p>Moreover, in order to
+pair thin lithium anodes with cathodes having commercially viable
+areal capacity, it is important to prevent lithium metal dendrite
+formation, which becomes more acute when a larger amount of charge
+is transferred per half cycle. In this study, we choose to increase
+the areal capacity transferred per half cycle from 0.1 mAh cm<sup>&#x02013;2</sup> to 2 mAh cm<sup>&#x02013;2</sup> while maintaining
+the current density at 0.1 mA cm<sup>&#x02013;2</sup>. The 2 mAh cm<sup>&#x02013;2</sup> corresponds to a representative minimal threshold
+for the areal cathode capacity of a commercially viable battery technology.</p><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a compares
+the cycling results with 2 mAh cm<sup>&#x02013;2</sup> transferred
+per half cycle for symmetric Li||Li cells with the 260 &#x003bc;m thick
+polymer-electrolyte-infiltrated glass fiber separator and a much thinner,
+only 25 &#x003bc;m thick, polymer-electrolyte-infiltrated polypropylene
+separator. As can be seen from inspection of <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, remarkably, the 25 &#x003bc;m thin infiltrated
+polypropylene separator is also capable of suppressing dendrite formation
+for more than 5000 h and results in an even more stable and overall
+significantly lower cell voltage during cycling. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b, the average Coulombic
+efficiency calculated according to ref (<xref ref-type="bibr" rid="ref25">25</xref>) over 5000 h of plating and stripping reaches
+97.8% for the 260 &#x003bc;m thick infiltrated glass fiber separator
+and 98.4% for the 25 &#x003bc;m thin infiltrated polypropylene separator.
+We emphasize again that these values represent merely a lower bound
+to the Coulombic efficiency, as the cells do not fail after 5000 h.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Lithium
+plating and stripping experiments of symmetric Li||Li cells
+at 25 &#x000b0;C. Comparison of (a) cell voltage and (b) average Coulombic
+efficiency between infiltrated glass fiber and infiltrated polypropylene
+separator infiltrated with 3 M LiFSI containing polymer electrolyte
+at 0.1 mA cm<sup>&#x02013;2</sup> and 2.0 mAh cm<sup>&#x02013;2</sup> per half cycle.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_0005" id="gr5" position="float"/></fig><p>On inspecting the insets
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, a clear
+difference in the shape of the voltage profiles
+is observed. The arcing voltage profile observed for the glass fiber
+separator can be related to mass transport limitations caused by the
+accumulation of electrolyte decomposition products, e.g. dead lithium
+or detached solid electrolyte interphase fragments, effectively increasing
+the tortuosity of lithium-ion diffusion at the interface.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> In contrast, the cell with the polypropylene separator shows a flatter
+voltage profile, which suggests denser, but mossy lithium forming
+between anode and electrolyte as observed also in scanning electron
+microscopy images after cycling and disassembly of our cells (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Figure S5</ext-link>).<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> Altogether,
+the cycling stability in Li||Li cells is clearly improved with the
+polypropylene separator, probably due to the smaller average pore
+size of the polypropylene separator (64 nm) in comparison to the glass
+fiber separator (1.6 &#x003bc;m), promoting uniform plating and stripping.
+As a consequence of the infiltration process, both separators exhibit
+a thin layer of excess polymer electrolyte on the top and bottom surfaces
+after soaking, preventing direct contact with the lithium metal.</p></sec><sec id="sec3.3"><title>High-Mass-Loading NMC811</title><p>We continue to demonstrate
+the attractiveness of the infiltration process in enabling NMC811||Li
+full cells by infiltrating our polymer electrolyte into commercial
+NMC811 electrodes (for process details, see the <xref rid="sec2" ref-type="other">Experimental
+Section</xref>). When pairing the thin lithium metal anode and the
+thin infiltrated polypropylene separator with an NMC811 cathode with
+1 mAh cm<sup>&#x02013;2</sup> areal loading, the cell with the 3 M
+LiFSI containing polymer electrolyte exhibits significant enhancement
+in rate capability at 25 &#x000b0;C compared to the cell with 1 M LIFSI,
+especially at rates exceeding C/5 as shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a. The cell with the 3 M LiFSI containing
+polymer delivers a capacity of up to 200 mAh g<sup>&#x02013;1</sup> when charged at C/10 to 4.4 V vs Li<sup>+</sup>/Li<sup>0</sup>,
+which is as good as the capacity achieved using a liquid reference
+electrolyte consisting of 3 M LiFSI in Pyr<sub>13</sub>FSI. This suggests
+excellent contact between the polymer electrolyte and the NMC811 cathode
+particles achieved by infiltration. It is interesting to note that
+the contact seems to improve further over time, resulting in even
+higher capacities in the C/10 recovery cycles (cycles 22&#x02013;24).
+As expected, the rate capability of the cells with the polymer electrolyte
+remains lower than that of the reference cell with the liquid electrolyte.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Cycling
+performance of NMC811||Li full cells cycled from 3.0 to
+4.4 V. (a) Galvanostatic C-rate experiment at 25 &#x000b0;C comparing
+cells with 1 and 3 M LiFSI containing polymer electrolyte against
+a cell with a benchmark 3 M LiFSI in Pyr<sub>13</sub>FSI liquid electrolyte.
+The polymer electrolyte was infiltrated into the NMC811 cathode and
+the Celgard separator, while a glass fiber separator was used for
+the cell with liquid electrolyte due to the poor wettability of Pyr<sub>13</sub>FSI on polypropylene. Long-term galvanostatic charge/discharge
+cycling of the cell with 3 M LiFSI containing polymer electrolyte
+at (b) C/5 with 1 mAh cm<sup>&#x02013;2</sup> cathode at 25 &#x000b0;C
+and (c) C/20 with 2.8 mAh cm<sup>&#x02013;2</sup> NMC811 cathode at
+25 and 55 &#x000b0;C. Dashed lines indicate nominal capacity values
+provided by the electrode suppliers.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_0006" id="gr6" position="float"/></fig><p>The evolution of the discharge capacity and Coulombic efficiency
+of NMC811||Li full cells with a 1.0 mAh cm<sup>&#x02013;2</sup> cathode
+during long-term galvanostatic cycling at C/5 is shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b. After a formation
+cycle with a low Coulombic efficiency of 74%, the average Coulombic
+efficiency over the subsequent 100 cycles is 99.92%, resulting in
+an excellent capacity retention of 92% after 100 cycles. With a capacity
+of 178 mAh g<sup>&#x02013;1</sup>, this cell also reaches the full
+nominal capacity of 1.0 mAh cm<sup>&#x02013;2</sup> specified by the
+electrode supplier (indicated by the dashed horizontal line).</p><p>In <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c we
+demonstrate that the infiltration process can also be applied successfully
+to an NMC811 cathode with a high, commercially relevant areal capacity
+of 2.8 mAh cm<sup>&#x02013;2</sup>. After 15 cycles at C/20, during
+which the contact between the cathode and the infiltrated electrolyte
+continues to improve, the discharge capacity reaches its maximum at
+174 mAh g<sup>&#x02013;1</sup>, which reaches the nominal capacity
+of 2.8 mAh cm<sup>&#x02013;2</sup> specified by the electrode supplier
+(indicated by the dashed horizontal line). While increasing the discharge
+rate capability of this cell remains a challenge at 25 &#x000b0;C, higher
+rates can be reached at 55 &#x000b0;C (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Figure S6</ext-link>). Higher capacities of up to 200 mAh g<sup>&#x02013;1</sup> can be
+reached at C/10 with decent cycling stability at 55 &#x000b0;C, as also
+shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c.</p><p>The combination of a 20 &#x003bc;m lithium metal anode on a 10 &#x003bc;m
+Cu foil with a 25 &#x003bc;m thick infiltrated polypropylene separator
+and a 2.8 mAh cm<sup>&#x02013;2</sup> infiltrated NMC811 cathode is
+projected to deliver an energy density on cell level &#x0003e;360 Wh kg<sup>&#x02013;1</sup> (see calculation in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">Supporting Information</ext-link>). Energy densities &#x0223c;400 Wh kg<sup>&#x02013;1</sup> are projected to be achievable with the same combination of components
+increasing the areal capacity of the cathode to 4.5 mAh cm<sup>&#x02013;2</sup>, which remains challenging but nevertheless a reasonable target.
+Alternatively, an energy density of &#x0223c;430 Wh kg<sup>&#x02013;1</sup> can also be reached for a lower areal capacity of the cathode of
+2.8 mAh cm<sup>&#x02013;2</sup> by eliminating the copper current collector
+and using the lithium metal anode as a current collector. Future efforts
+also have to focus on enabling such high areal capacities to be cycled
+at higher rates.</p></sec></sec><sec id="sec4"><title>Conclusion</title><p>In conclusion, we have
+demonstrated enhanced Coulombic efficiency
+by increasing the LiFSI concentration from 1 to 3 M in a polymerized
+ionic liquid electrolyte, which results in a more robust and LiF-richer
+solid electrolyte interphase as confirmed by XPS and NMR. We also
+showed the attractiveness of infiltrating the polymer into commercial
+polypropylene separators and high-mass-loading NMC811 electrodes,
+thereby enabling decent performance with light weight and simplified
+processing. Our proof-of-concept study shows that solid-state batteries
+incorporating lithium metal anodes and NMC811 cathodes with industrially
+relevant areal capacity can be assembled from components that are
+all commercially available at a scale that enables the transfer to
+a 50 MWh y<sup>&#x02013;1</sup> pilot solid-state battery manufacturing
+line.</p><p>While thin lithium metal anodes on copper foils, polypropylene
+separators, and NMC811 electrodes are already available from a number
+of commercial suppliers at market prices, the polymer electrolyte
+is projected to become available at volumes of 50 t y<sup>&#x02013;1</sup>, matching the 50 MWh y<sup>&#x02013;1</sup> cell production, at a
+cost of $80 kg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>Addressing and solving manufacturing challenges at scale are key
+for solid-state batteries to be adopted in battery gigafactories in
+the near future. In this respect, the infiltration and solidification
+of polymer electrolytes into commercial separators and commercial
+NMC811 cathodes represent additional steps in the manufacturing process.
+However, they can be integrated into existing separator and cathode
+manufacturing and cell assembly already established in battery gigafactories,
+thereby minimizing adoption barriers and financial risks when transitioning
+from the manufacturing of traditional lithium-ion batteries to the
+manufacturing of next-generation solid-state batteries.</p></sec></body><back><notes id="notes2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsaem.4c02099?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsaem.4c02099</ext-link>.<list id="silist" list-type="simple"><list-item><p>Additional details on
+methods, supporting electrochemistry,
+XPS, NMR figures and SEM images, and calculation of projected energy
+densities on cell level (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.4c02099/suppl_file/ae4c02099_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae4c02099_si_001.pdf"><caption><p>ae4c02099_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes1"><title>Author Contributions</title><p><sup>&#x02207;</sup> G.H. and Q.W. contributed equally to this
+paper.</p></notes><notes notes-type="COI-statement" id="notes3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was supported by funding
+from the European
+Union&#x02019;s Horizon 2020 research and innovation program for the
+Solidify project under grant agreement No. 875557. We thank Thibault
+Kl&#x000e4;y for taking the picture in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="weblink" id="cit1"><source>Strongly
+improved, highly performant and safe all solid state batteries
+for electric vehicles (RIA)</source>. | Programme | H2020 CORDIS |
+European Commission. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cordis.europa.eu/programme/id/H2020_LC-BAT-1-2019">https://cordis.europa.eu/programme/id/H2020_LC-BAT-1-2019</uri> (accessed 2024-08-20).</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Albertus</surname><given-names>P.</given-names></name>; <name><surname>Anandan</surname><given-names>V.</given-names></name>; <name><surname>Ban</surname><given-names>C.</given-names></name>; <name><surname>Balsara</surname><given-names>N.</given-names></name>; <name><surname>Belharouak</surname><given-names>I.</given-names></name>; <name><surname>Buettner-Garrett</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Daniel</surname><given-names>C.</given-names></name>; <name><surname>Doeff</surname><given-names>M.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Harris</surname><given-names>S. J.</given-names></name>; <name><surname>Herle</surname><given-names>S.</given-names></name>; <name><surname>Herbert</surname><given-names>E.</given-names></name>; <name><surname>Kalnaus</surname><given-names>S.</given-names></name>; <name><surname>Libera</surname><given-names>J. A.</given-names></name>; <name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Martin</surname><given-names>S.</given-names></name>; <name><surname>McCloskey</surname><given-names>B. D.</given-names></name>; <name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>; <name><surname>Nanda</surname><given-names>J.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>; <name><surname>Self</surname><given-names>E. C.</given-names></name>; <name><surname>Tepavcevic</surname><given-names>S.</given-names></name>; <name><surname>Wachsman</surname><given-names>E.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Westover</surname><given-names>A. S.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Yersak</surname><given-names>T.</given-names></name>
+<article-title>Challenges for and Pathways toward Li-Metal-Based All-Solid-State
+Batteries</article-title>. <source>ACS Energy Lett.</source>
+<year>2021</year>, <volume>6</volume> (<issue>4</issue>), <fpage>1399</fpage>&#x02013;<lpage>1404</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.1c00445</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Duffner</surname><given-names>F.</given-names></name>; <name><surname>Kronemeyer</surname><given-names>N.</given-names></name>; <name><surname>T&#x000fc;bke</surname><given-names>J.</given-names></name>; <name><surname>Leker</surname><given-names>J.</given-names></name>; <name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Schmuch</surname><given-names>R.</given-names></name>
+<article-title>Post-Lithium-Ion
+Battery Cell Production and Its Compatibility
+with Lithium-Ion Cell Production Infrastructure</article-title>. <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume> (<issue>2</issue>), <fpage>123</fpage>&#x02013;<lpage>134</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-020-00748-8</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>
+<article-title>Challenges in Speeding up Solid-State
+Battery Development</article-title>. <source>Nat. Energy</source>
+<year>2023</year>, <volume>8</volume> (<issue>3</issue>), <fpage>230</fpage>&#x02013;<lpage>240</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-023-01208-9</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Bills</surname><given-names>A.</given-names></name>; <name><surname>Sripad</surname><given-names>S.</given-names></name>; <name><surname>Fredericks</surname><given-names>W. L.</given-names></name>; <name><surname>Singh</surname><given-names>M.</given-names></name>; <name><surname>Viswanathan</surname><given-names>V.</given-names></name>
+<article-title>Performance
+Metrics Required of Next-Generation Batteries to Electrify Commercial
+Aircraft</article-title>. <source>ACS Energy Lett.</source>
+<year>2020</year>, <volume>5</volume> (<issue>2</issue>), <fpage>663</fpage>&#x02013;<lpage>668</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.9b02574</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Zhao</surname><given-names>Q.</given-names></name>; <name><surname>Stalin</surname><given-names>S.</given-names></name>; <name><surname>Zhao</surname><given-names>C.-Z.</given-names></name>; <name><surname>Archer</surname><given-names>L. A.</given-names></name>
+<article-title>Designing Solid-State
+Electrolytes for Safe</article-title>. <source>Energy-Dense Batteries.
+Nat. Rev. Mater.</source>
+<year>2020</year>, <volume>5</volume> (<issue>3</issue>), <fpage>229</fpage>&#x02013;<lpage>252</lpage>. <pub-id pub-id-type="doi">10.1038/s41578-019-0165-5</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Famprikis</surname><given-names>T.</given-names></name>; <name><surname>Canepa</surname><given-names>P.</given-names></name>; <name><surname>Dawson</surname><given-names>J. A.</given-names></name>; <name><surname>Islam</surname><given-names>M. S.</given-names></name>; <name><surname>Masquelier</surname><given-names>C.</given-names></name>
+<article-title>Fundamentals
+of Inorganic Solid-State Electrolytes for Batteries</article-title>. <source>Nat. Mater.</source>
+<year>2019</year>, <volume>18</volume> (<issue>12</issue>), <fpage>1278</fpage>&#x02013;<lpage>1291</lpage>. <pub-id pub-id-type="doi">10.1038/s41563-019-0431-3</pub-id>.<pub-id pub-id-type="pmid">31427742</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Nair</surname><given-names>J. R.</given-names></name>; <name><surname>Imholt</surname><given-names>L.</given-names></name>; <name><surname>Brunklaus</surname><given-names>G.</given-names></name>; <name><surname>Winter</surname><given-names>M.</given-names></name>
+<article-title>Lithium Metal Polymer
+Electrolyte Batteries: Opportunities and Challenges</article-title>. <source>Electrochem. Soc. Interface</source>
+<year>2019</year>, <volume>28</volume> (<issue>2</issue>), <fpage>55</fpage><pub-id pub-id-type="doi">10.1149/2.F05192if</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Fu</surname><given-names>C.</given-names></name>; <name><surname>Homann</surname><given-names>G.</given-names></name>; <name><surname>Grissa</surname><given-names>R.</given-names></name>; <name><surname>Rentsch</surname><given-names>D.</given-names></name>; <name><surname>Zhao</surname><given-names>W.</given-names></name>; <name><surname>Gouveia</surname><given-names>T.</given-names></name>; <name><surname>Falgayrat</surname><given-names>A.</given-names></name>; <name><surname>Lin</surname><given-names>R.</given-names></name>; <name><surname>Fantini</surname><given-names>S.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>
+<article-title>A Polymerized-Ionic-Liquid-Based Polymer Electrolyte
+with High Oxidative Stability for 4 and 5 V Class Solid-State Lithium
+Metal Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume> (<issue>27</issue>), <fpage>2200412</fpage><pub-id pub-id-type="doi">10.1002/aenm.202200412</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Cao</surname><given-names>D.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>; <name><surname>Natan</surname><given-names>A.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Xiang</surname><given-names>P.</given-names></name>; <name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>
+<article-title>Processing Strategies
+to Improve Cell-Level Energy Density of Metal Sulfide Electrolyte-Based
+All-Solid-State Li Metal Batteries and Beyond</article-title>. <source>ACS Energy Lett.</source>
+<year>2020</year>, <volume>5</volume> (<issue>11</issue>), <fpage>3468</fpage>&#x02013;<lpage>3489</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.0c01905</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Grissa</surname><given-names>R.</given-names></name>; <name><surname>Payandeh</surname><given-names>S.</given-names></name>; <name><surname>Heinz</surname><given-names>M.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>
+<article-title>Impact of
+Protonation on the Electrochemical Performance of Li7La3Zr2O12 Garnets</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume> (<issue>12</issue>), <fpage>14700</fpage>&#x02013;<lpage>14709</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.0c23144</pub-id>.<pub-id pub-id-type="pmid">33729745</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Braun</surname><given-names>H.</given-names></name>; <name><surname>Asakura</surname><given-names>R.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>
+<article-title>Hydroborate
+Solid-State Lithium Battery with High-Voltage NMC811 Cathode</article-title>. <source>ACS Energy Lett.</source>
+<year>2024</year>, <volume>9</volume> (<issue>2</issue>), <fpage>707</fpage>&#x02013;<lpage>714</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.3c02117</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Cheng</surname><given-names>X.-B.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Zhao</surname><given-names>C.-Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Toward Safe Lithium
+Metal Anode in Rechargeable Batteries: A Review</article-title>. <source>Chem. Rev.</source>
+<year>2017</year>, <volume>117</volume> (<issue>15</issue>), <fpage>10403</fpage>&#x02013;<lpage>10473</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.7b00115</pub-id>.<pub-id pub-id-type="pmid">28753298</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>
+<article-title>Reducing the Thickness of Solid-State Electrolyte Membranes for High-Energy
+Lithium Batteries</article-title>. <source>Energy Environ. Sci.</source>
+<year>2021</year>, <volume>14</volume> (<issue>1</issue>), <fpage>12</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1039/D0EE02241A</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Kravchyk</surname><given-names>K.
+V.</given-names></name>; <name><surname>Okur</surname><given-names>F.</given-names></name>; <name><surname>Kovalenko</surname><given-names>M. V.</given-names></name>
+<article-title>Break-Even Analysis of All-Solid-State
+Batteries with Li-Garnet Solid Electrolytes</article-title>. <source>ACS Energy Lett.</source>
+<year>2021</year>, <volume>6</volume> (<issue>6</issue>), <fpage>2202</fpage>&#x02013;<lpage>2207</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.1c00672</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Tian</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>
+<article-title>Review on
+Modeling for Chemo-Mechanical
+Behavior at Interfaces of All-Solid-State Lithium-Ion Batteries and
+Beyond</article-title>. <source>ACS Omega</source>
+<year>2022</year>, <volume>7</volume> (<issue>8</issue>), <fpage>6455</fpage>&#x02013;<lpage>6462</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.1c06793</pub-id>.<pub-id pub-id-type="pmid">35252641</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Homann</surname><given-names>G.</given-names></name>; <name><surname>Stolz</surname><given-names>L.</given-names></name>; <name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Kasnatscheew</surname><given-names>J.</given-names></name>
+<article-title>Elimination
+of &#x0201c;Voltage Noise&#x0201d; of Poly (Ethylene Oxide)-Based Solid
+Electrolytes in High-Voltage Lithium Batteries: Linear versus Network
+Polymers</article-title>. <source>iScience</source>
+<year>2020</year>, <volume>23</volume> (<issue>6</issue>), <elocation-id>101225</elocation-id><pub-id pub-id-type="doi">10.1016/j.isci.2020.101225</pub-id>.<pub-id pub-id-type="pmid">32563154</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Randau</surname><given-names>S.</given-names></name>; <name><surname>Weber</surname><given-names>D. A.</given-names></name>; <name><surname>K&#x000f6;tz</surname><given-names>O.</given-names></name>; <name><surname>Koerver</surname><given-names>R.</given-names></name>; <name><surname>Braun</surname><given-names>P.</given-names></name>; <name><surname>Weber</surname><given-names>A.</given-names></name>; <name><surname>Ivers-Tiff&#x000e9;e</surname><given-names>E.</given-names></name>; <name><surname>Adermann</surname><given-names>T.</given-names></name>; <name><surname>Kulisch</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>; <name><surname>Richter</surname><given-names>F. H.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Benchmarking the Performance
+of All-Solid-State Lithium Batteries</article-title>. <source>Nat. Energy</source>
+<year>2020</year>, <volume>5</volume> (<issue>3</issue>), <fpage>259</fpage>&#x02013;<lpage>270</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-020-0565-1</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Evans</surname><given-names>J.</given-names></name>; <name><surname>Vincent</surname><given-names>C. A.</given-names></name>
+<article-title>Conductivity and Transference Number
+Measurements on Polymer Electrolytes</article-title>. <source>Solid
+State Ion</source>
+<year>1988</year>, <volume>28&#x02013;30</volume>, <fpage>918</fpage>&#x02013;<lpage>922</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(88)90304-9</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Hobold</surname><given-names>G. M.</given-names></name>; <name><surname>Lopez</surname><given-names>J.</given-names></name>; <name><surname>Guo</surname><given-names>R.</given-names></name>; <name><surname>Minafra</surname><given-names>N.</given-names></name>; <name><surname>Banerjee</surname><given-names>A.</given-names></name>; <name><surname>Shirley Meng</surname><given-names>Y.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>; <name><surname>Gallant</surname><given-names>B. M.</given-names></name>
+<article-title>Moving beyond 99.9%
+Coulombic Efficiency for Lithium Anodes in Liquid Electrolytes. <italic>Nat</italic></article-title>. <source>Energy</source>
+<year>2021</year>, <volume>6</volume> (<issue>10</issue>), <fpage>951</fpage>&#x02013;<lpage>960</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-021-00910-w</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Yoon</surname><given-names>H.</given-names></name>; <name><surname>Howlett</surname><given-names>P. C.</given-names></name>; <name><surname>Best</surname><given-names>A. S.</given-names></name>; <name><surname>Forsyth</surname><given-names>M.</given-names></name>; <name><surname>MacFarlane</surname><given-names>D. R.</given-names></name>
+<article-title>Fast Charge/Discharge
+of Li Metal Batteries Using an Ionic Liquid Electrolyte</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2013</year>, <volume>160</volume> (<issue>10</issue>), <fpage>A1629</fpage><pub-id pub-id-type="doi">10.1149/2.022310jes</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Heist</surname><given-names>A.</given-names></name>; <name><surname>Lee</surname><given-names>S.-H.</given-names></name>
+<article-title>Improved Stability and Rate Capability of Ionic Liquid
+Electrolyte with High Concentration of LiFSI</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2019</year>, <volume>166</volume> (<issue>10</issue>), <fpage>A1860</fpage><pub-id pub-id-type="doi">10.1149/2.0381910jes</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Landesfeind</surname><given-names>J.</given-names></name>; <name><surname>Hattendorff</surname><given-names>J.</given-names></name>; <name><surname>Ehrl</surname><given-names>A.</given-names></name>; <name><surname>Wall</surname><given-names>W. A.</given-names></name>; <name><surname>Gasteiger</surname><given-names>H. A.</given-names></name>
+<article-title>Tortuosity
+Determination of Battery Electrodes and Separators by Impedance Spectroscopy</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2016</year>, <volume>163</volume> (<issue>7</issue>), <fpage>A1373</fpage><pub-id pub-id-type="doi">10.1149/2.1141607jes</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Lagadec</surname><given-names>M. F.</given-names></name>; <name><surname>Zahn</surname><given-names>R.</given-names></name>; <name><surname>Wood</surname><given-names>V.</given-names></name>
+<article-title>Designing Polyolefin Separators to
+Minimize the Impact of Local Compressive Stresses on Lithium Ion Battery
+Performance</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2018</year>, <volume>165</volume> (<issue>9</issue>), <fpage>A1829</fpage><pub-id pub-id-type="doi">10.1149/2.0041809jes</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Adams</surname><given-names>B. D.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Accurate
+Determination of Coulombic Efficiency for Lithium Metal Anodes and
+Lithium Metal Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume> (<issue>7</issue>), <fpage>1702097</fpage><pub-id pub-id-type="doi">10.1002/aenm.201702097</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Arano</surname><given-names>K.</given-names></name>; <name><surname>Begic</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>F.</given-names></name>; <name><surname>Rakov</surname><given-names>D.</given-names></name>; <name><surname>Mazouzi</surname><given-names>D.</given-names></name>; <name><surname>Gautier</surname><given-names>N.</given-names></name>; <name><surname>Kerr</surname><given-names>R.</given-names></name>; <name><surname>Lestriez</surname><given-names>B.</given-names></name>; <name><surname>Le Bideau</surname><given-names>J.</given-names></name>; <name><surname>Howlett</surname><given-names>P. C.</given-names></name>; <name><surname>Guyomard</surname><given-names>D.</given-names></name>; <name><surname>Forsyth</surname><given-names>M.</given-names></name>; <name><surname>Dupre</surname><given-names>N.</given-names></name>
+<article-title>Tuning the
+Formation and Structure of the Silicon Electrode/Ionic Liquid Electrolyte
+Interphase in Superconcentrated Ionic Liquids</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume> (<issue>24</issue>), <fpage>28281</fpage>&#x02013;<lpage>28294</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c06465</pub-id>.<pub-id pub-id-type="pmid">34114808</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Eftekharnia</surname><given-names>M.</given-names></name>; <name><surname>Hasanpoor</surname><given-names>M.</given-names></name>; <name><surname>Forsyth</surname><given-names>M.</given-names></name>; <name><surname>Kerr</surname><given-names>R.</given-names></name>; <name><surname>Howlett</surname><given-names>P. C.</given-names></name>
+<article-title>Toward
+Practical Li Metal Batteries: Importance of Separator Compatibility
+Using Ionic Liquid Electrolytes</article-title>. <source>ACS Appl. Energy
+Mater.</source>
+<year>2019</year>, <volume>2</volume> (<issue>9</issue>), <fpage>6655</fpage>&#x02013;<lpage>6663</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.9b01175</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Wood</surname><given-names>K. N.</given-names></name>; <name><surname>Noked</surname><given-names>M.</given-names></name>; <name><surname>Dasgupta</surname><given-names>N. P.</given-names></name>
+<article-title>Lithium Metal Anodes: Toward an Improved
+Understanding of Coupled Morphological, Electrochemical, and Mechanical
+Behavior</article-title>. <source>ACS Energy Lett.</source>
+<year>2017</year>, <volume>2</volume> (<issue>3</issue>), <fpage>664</fpage>&#x02013;<lpage>672</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.6b00650</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Calder&#x000f3;n</surname><given-names>C. A.</given-names></name>; <name><surname>Vizintin</surname><given-names>A.</given-names></name>; <name><surname>Bobnar</surname><given-names>J.</given-names></name>; <name><surname>Barraco</surname><given-names>D. E.</given-names></name>; <name><surname>Leiva</surname><given-names>E. P. M.</given-names></name>; <name><surname>Visintin</surname><given-names>A.</given-names></name>; <name><surname>Fantini</surname><given-names>S.</given-names></name>; <name><surname>Fischer</surname><given-names>F.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>
+<article-title>Lithium Metal
+Protection by a Cross-Linked Polymer Ionic Liquid and Its Application
+in Lithium Battery</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2020</year>, <volume>3</volume> (<issue>2</issue>), <fpage>2020</fpage>&#x02013;<lpage>2027</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.9b02309</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Chen</surname><given-names>K.-H.</given-names></name>; <name><surname>Wood</surname><given-names>K. N.</given-names></name>; <name><surname>Kazyak</surname><given-names>E.</given-names></name>; <name><surname>LePage</surname><given-names>W. S.</given-names></name>; <name><surname>Davis</surname><given-names>A. L.</given-names></name>; <name><surname>Sanchez</surname><given-names>A. J.</given-names></name>; <name><surname>Dasgupta</surname><given-names>N. P.</given-names></name>
+<article-title>Dead Lithium: Mass Transport Effects
+on Voltage, Capacity, and Failure of Lithium Metal Anodes</article-title>. <source>J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume> (<issue>23</issue>), <fpage>11671</fpage>&#x02013;<lpage>11681</lpage>. <pub-id pub-id-type="doi">10.1039/C7TA00371D</pub-id>.</mixed-citation></ref></ref-list></back></article>

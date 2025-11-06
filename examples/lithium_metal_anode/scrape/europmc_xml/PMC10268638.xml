@@ -1,0 +1,730 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">10268638</article-id><article-id pub-id-type="doi">10.1021/acsomega.2c07349</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Polyaspartate Polyurea-Based
+Solid Polymer Electrolyte
+with High Ionic Conductivity for the All-Solid-State Lithium-Ion Battery</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Bai</surname><given-names>Lu</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes-1" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9669-9343</contrib-id><name><surname>Wang</surname><given-names>Peng</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-1" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Li</surname><given-names>Chengyu</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><name><surname>Li</surname><given-names>Na</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Chen</surname><given-names>Xiaoqi</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Li</surname><given-names>Yantao</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Xiao</surname><given-names>Jijun</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Hebei
+Key Laboratory of Flexible Functional Materials, School of Materials
+Science and Engineering, <institution>Hebei University
+of Science and Technology</institution>, Shijiazhuang 050000, <country>China</country></aff><aff id="aff2"><label>&#x02021;</label>Institute
+of Energy Source, <institution>Hebei Academy of Sciences</institution>, Shijiazhuang 050052, <country>China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>wp390061130@126.com</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>linahuaxue@163.com</email>.</corresp><corresp id="cor3"><label>*</label>Email: <email>xiaojj@hebust.edu.cn</email>.</corresp></author-notes><pub-date pub-type="epub"><day>31</day><month>05</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>13</day><month>06</month><year>2023</year></pub-date><volume>8</volume><issue>23</issue><fpage>20272</fpage><lpage>20282</lpage><history><date date-type="received"><day>16</day><month>11</month><year>2022</year></date><date date-type="accepted"><day>11</day><month>04</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0011" id="ab-tgr1"/></p><p>The existing in situ preparation methods of solid polymer
+electrolytes
+(SPEs) often require the use of a solvent, which would lead to a complicated
+process and potential safety hazards. Therefore, it is urgent to develop
+a solvent-free in situ method to produce SPEs with good processability
+and excellent compatibility. Herein, a series of polyaspartate polyurea-based
+SPEs (PAEPU-based SPEs) with abundant <strike>(</strike>PO)<italic><sub>x</sub></italic>(EO)<italic><sub>y</sub></italic>(PO<strike>)</strike><italic><sub>z</sub></italic> segments and cross-linked
+structures were developed by systematically regulating the molar ratios
+of isophorone diisocyanate (IPDI) and isophorone diisocyanate trimer
+(tri-IPDI) in the polymer backbone and LiTFSI concentrations via an
+in situ polymerization method, which gave rise to good interfacial
+compatibility. Furthermore, the in situ-prepared PAEPU-SPE@D<sub>15</sub> based on the IPDI/tri-IPDI molar ratio of 2:1 and 15 wt % LiTFSI
+exhibits an improved ionic conductivity of 6.80 &#x000d7; 10<sup>&#x02013;5</sup> S/cm at 30 &#x000b0;C and could reach 10<sup>&#x02013;4</sup> orders
+of magnitude when the temperature was above 40 &#x000b0;C. The Li|LiFePO<sub>4</sub> battery based on PAEPU-SPE@D<sub>15</sub> had a wide electrochemical
+stability window of 5.18 V, demonstrating a superior interface compatibility
+toward LiFePO<sub>4</sub> and the lithium metal anode, exhibited a
+high discharge capacity of 145.7 mAh g<sup>&#x02013;1</sup> at the
+100th cycle and a capacity retention of 96.8%, and retained a coulombic
+efficiency of above 98.0%. These results showed that the PAEPU-SPE@D<sub>15</sub> system displayed a stable cycle performance, excellent rate
+performance, and high safety compared with PEO systems, indicating
+that the PAEPU-based SPE system may play a crucial role in the future.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>51904343</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Funds for Creative Research Groups of Hunan province</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>2020JJ1007</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Hebei Provincial School science and technology cooperation development fund support project</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>2020030477-2</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Science and Technology Program of Hunan Province</institution><institution-id institution-id-type="doi">10.13039/501100019081</institution-id></institution-wrap></funding-source><award-id>2019RS3002</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Hebei University</institution><institution-id institution-id-type="doi">10.13039/501100008047</institution-id></institution-wrap></funding-source><award-id>2021YWF11</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Natural Science Foundation of Hebei Province</institution><institution-id institution-id-type="doi">10.13039/501100003787</institution-id></institution-wrap></funding-source><award-id>E2021208031</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Natural Science Foundation of Hebei Province</institution><institution-id institution-id-type="doi">10.13039/501100003787</institution-id></institution-wrap></funding-source><award-id>B2021208069</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Natural Science Foundation of Hebei Province</institution><institution-id institution-id-type="doi">10.13039/501100003787</institution-id></institution-wrap></funding-source><award-id>225A4404D</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>52174287</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>5210011286</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao2c07349</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao2c07349</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Lithium-ion batteries
+(LIBs) have brought astonishing advancements
+and transformations in portable electronics and, more recently, electric
+vehicles during the past several decades.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> With
+the rapidly expanding market of electric vehicles, storage systems
+with high energy density are in strong demand.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> However, there are some serious
+safety issues such as short circuits, leakage, and combustion, even
+explosions, derived from the dendrite growth in liquid electrolytes.<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> Motivated by this challenge, many types of research such as solid-state
+inorganic electrolytes and solid polymer electrolytes (SPEs) have
+drawn significant attention.<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> The former mainly includes sulfide-based electrolytes and oxide-based
+electrolytes, which are brittle and have high interfacial resistance
+owing to poor contact with electrodes. In contrast, SPEs, blessed
+with a high flexibility and more safety, enable the application of
+a high-capacity Li&#x02013;metal anode in which the possibility of
+internal short-circuiting by the penetration of dendritic Li can be
+suppressed. Consequently, SPEs may be the ultimate path to the batteries
+of the future.<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup></p><p>Most polymers have been recently exploited
+to dissolve lithium
+salts in these polymers for constructing SPEs, such as poly(ethylene
+oxide) (PEO), polyacrylonitrile (PAN), poly(vinylidene fluoride) (PVDF),
+poly(methyl methacrylate) (PMMA), and so on, in order to effectively
+enhance the performance of solid polymer electrolytes.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> Especially, the SPE based on PEO is the most extensively investigated
+of polymer hosts for an efficient Li-salt dissolvability through the
+interaction of its ether oxygen bonds with cations. For all of the
+above reasons, numerous strategies have been reported to improve the
+ion conductivities of SPEs, including blocking<sup><xref ref-type="bibr" rid="ref27">27</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup> and grafting modification,<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> adding plasticizers,<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> polymer blending,<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> or forming the cross-networking.<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> Besides, many
+polymers containing abundant EO structure units have also been studied
+as matrices of SPEs.<sup><xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref43">43</xref></sup> In particular, the preparation methods of solid polymer electrolytes
+can influence the interface impedance. In addition to solution casting,<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> phase transformation,<sup><xref ref-type="bibr" rid="ref46">46</xref>&#x02212;<xref ref-type="bibr" rid="ref48">48</xref></sup> and electrostatic spinning,<sup><xref ref-type="bibr" rid="ref49">49</xref>,<xref ref-type="bibr" rid="ref50">50</xref></sup> many researchers also often use in situ polymerization,<sup><xref ref-type="bibr" rid="ref51">51</xref>&#x02212;<xref ref-type="bibr" rid="ref53">53</xref></sup> light curing methods,<sup><xref ref-type="bibr" rid="ref54">54</xref>,<xref ref-type="bibr" rid="ref55">55</xref></sup> and the scalable tape-casting
+method<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> to prepare solid polymer electrolytes.
+Zhao&#x02019;s research group<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> added the
+polymer matrix cellulose acetate (CA), the cross-linking agent poly(ethylene
+glycol diacrylate) (PEGDA), and the initiator AIBN to the liquid electrolyte,
+which consists of lithium hexafluorophosphate (LiPF<sub>6</sub>),
+ethylene carbonate (EC), and diethyl carbonate (DEC); then, the layered
+boron nitride (BN) filler was added to the above mixture, and a cross-linked
+gel polymer electrolyte (GPE) was prepared by in situ thermal polymerization.
+The cross-linked GPE exhibits good mechanical and electrochemical
+properties, with an ionic conductivity of 8.9 &#x000d7; 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> at 30 &#x000b0;C and an electrochemical stability
+window of 5.5 V. Drews et al.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> reported
+that the PIL brush-type GPE with PEtOx side chain was prepared by
+ultraviolet (UV) irradiation of a cationic vinylimidazolium-terminated
+poly(2-ethyl-2-oxazoline) (PEtOx) macromonomer and a multifunctional
+acrylic cross-linking agent dissolved in an organic electrolyte (LP30).
+In situ and ex situ preparation methods are used according to different
+characterizations, and the PIL brush GPE has good ionic conductivity,
+thermal properties, and electrochemical stability. Notwithstanding
+the organic solvents used in some systems of these gel electrolytes
+will be removed in subsequent operations,<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> the residual solvents may lead to side reactions with the electrodes.
+Apart from that, the residual organic solvents also increase the risk
+when working at higher temperatures, leading to safety issues that
+cannot be guaranteed. Consequently, it is necessary to develop a solvent-free
+solid electrolyte with EO structure.</p><p>Polyaspartate polyurea
+(PAEPU) is a kind of polymer rich in the
+ether oxygen group with good viscoelasticity and processing flexibility.
+The abundant ether oxygen groups endow it with a similar conduction
+mechanism to that of PEO. In addition, the raw materials are cheap
+and easy to obtain, and the preparation process of PAEPU is simple
+and does not need any organic solvent. These merits provide PAEPU
+the potential for use as a matrix of SPEs.</p><p>Herein, a solvent-free
+cross-linked PAEPU-based electrolyte with
+polyaspartic ester (PAE) and polyisocyanates as the main components
+was prepared by the in situ thermal polymerization method. Previously,
+the product of PAE and polyisocyanates was mostly used in the adhesive
+field,<sup><xref ref-type="bibr" rid="ref60">60</xref>&#x02212;<xref ref-type="bibr" rid="ref62">62</xref></sup> but its use as an electrolyte has been scarcely reported.
+However, the PAEPU-based SPE membrane is expected to function as a
+novel electrolyte due to the following features: (i) the abundant
+ether oxygen bonds and low crystallinity are in favor of the transport
+of Li<sup>+</sup>; (ii) formation of an integrated interface by in
+situ polymerization and strong adhesion to both electrodes; and (iii)
+the flexible and elastic properties can be tuned to accommodate the
+volume change originating from the anode. Besides, we are interested
+in a polymer matrix with a different cross-linking density; consequently,
+five different mole ratios of difunctional (isophorone diisocyanate
+(IPDI)) and trifunctional diisocyanate (isophorone diisocyanated trimer
+(tri-IPDI)), respectively, abbreviated as PAEPU-SPE@R<italic><sub>n</sub></italic>, are employed in this study. Here, R refers to A,
+B, C, D, and E, which reflect the different mole ratios of IPDI to
+tri-IPDI (the ratios are 0:1, 1:2, 1:1, 2:1, and 3:1, respectively),
+and n refers to the mass concentrations (0, 5, 15, and 25 wt %) of
+LiTFSI, which are based on the mass of PAE. The thermal and electrochemical
+properties of the solvent-free solid-state polymer electrolyte were
+systematically studied. The results show that the PAEPU-based SPE
+has good stability and a wide electrochemical stability window, and
+there is low interface impedance between the electrode and electrolyte
+due to the in situ polymerization method. Beyond the obvious benefits
+already discussed, the electrolytes show outstanding comprehensive
+properties, and the cells assembled with the electrolytes exhibit
+superior electrochemical performances.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Materials</title><p>Polyetheramine (ED2003 <italic>M</italic><sub>w</sub> &#x02248; 2000) was purchased from Shandong
+Mole Chemical Co., Ltd. Diethyl maleate (DM) was purchased from Guangzhou
+Yuanda New Material Co., Ltd. Isophorone diisocyanate (IPDI) was purchased
+from Wuhan Kanos Technology Co., Ltd. Isophorone diisocyanated homopolymer
+(IPDI-trimer) was purchased from Jining Huakai Resin Co., Ltd. Lithium
+bis(trifluoromethanesulfonyl)imide (LiTFSI) was purchased from Aladdin
+(Shanghai, China) and used as received. <italic>N</italic>-methylpyrrolidone
+(NMP), lithium iron phosphate (LiFePO<sub>4</sub>), poly(vinylidene
+fluoride) (PVDF), and carbon black (Super P) were procured from Guangdong
+Canrd New Energy Technology Co., Ltd.</p></sec><sec id="sec2.2"><label>2.2</label><title>Preparation of PAE</title><p>The PAE was synthesized
+through the Michael reaction using ED2003 and DM. Into a four-necked
+flask was added ED2003 (50 g, 0.025 mol) with stirring and using a
+thermometer; then, DM was added dropwise (8.61 g, 0.05 mol) under
+N<sub>2</sub> atmosphere; the temperature of the mixture was kept
+below 60 &#x000b0;C during the dripping process. Subsequently, the mixture
+was heated to 80 &#x000b0;C and stirred at this temperature for 24 h.</p></sec><sec id="sec2.3"><label>2.3</label><title>Preparation of PAEPU-Based SPEs</title><p>PAE
+was mixed with different contents of LiTFSI at 60 &#x000b0;C for 12 h
+to obtain the mixed solution of PAE/LiTFSI in a dried N<sub>2</sub> atmosphere. The PAE/LiTFSI mixture was reacted with a stoichiometric
+amount of polyisocyanates in a Teflon beaker by magnetic stirring
+for about 10 min. Subsequently, the final solution was cast onto a
+PP board using a scraper. After reacting in a dry environment at 60
+&#x000b0;C for at least 12 h, a series of soft and viscoelastic PAEPU-based
+SPEs was prepared. The thickness of PAEPU-based SPEs was about 150
+&#x003bc;m.</p><p>Different preparation processes were selected according
+to the characterization methods: (1) In order to carry out Fourier-transform
+infrared (FT-IR), scanning electron microscopy (SEM), energy dispersive
+X-ray spectroscopy (EDS), X-ray diffraction spectroscopy (XRD), differential
+scanning calorimetry (DSC), and thermogravimetric analysis (TGA) characterization,
+an evenly mixed electrolyte was coated on a dry flat polypropylene
+plate with a scraper, placed at room temperature for 5 h, and then
+transferred to a vacuum oven at 60 &#x000b0;C for 24 h; after curing,
+the electrolyte was transferred to a nonstick paper for storage. (2)
+For the rheological property test, the evenly mixed electrolyte was
+directly coated on the parallel-plate clamp for testing. (3) In order
+to test the ionic conductivity, electrochemical stability window,
+ion migration number, interface stability, cycle life, rate performance,
+and application, the uniformly mixed electrolyte was directly polymerized
+in situ on stainless steel, lithium, or cathode plates. The synthesis
+of PAEPU-based SPE is shown in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Synthesis of PAEPU-Based SPE</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0010" id="gr1" position="float"/></fig></sec><sec id="sec2.4"><label>2.4</label><title>Assembly of the Symmetrical, Unsymmetrical,
+and Half Cells</title><p>For electrochemical testing, the batteries
+are divided into several types to assemble. Symmetric batteries are
+used in the AC impedance test; a solid polymer electrolyte (SPE) caught
+in the middle of a stainless steel shrapnel (SS) or metallic lithium
+pills (Li) forms the &#x0201c;sandwich&#x0201d; structure: SS/SPE/SS
+or Li/SPE/Li, respectively. Asymmetric batteries assembled with Li/SPE/SS
+are used in the linear sweep voltammetry test. The half-cell assembled
+with Li/SPE/LiFePO<sub>4</sub> is utilized for testing the other batteries&#x02019;
+performance. All types of cells were assembled with the CR2032 coin
+type in a glovebox (H<sub>2</sub>O &#x0003c; 0.1 ppm, O<sub>2</sub> &#x0003c;
+1 ppm) under Ar atmosphere. In addition, the preparation of the LiFePO<sub>4</sub> cathode is described in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c07349/suppl_file/ao2c07349_si_001.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec2.5"><label>2.5</label><title>Characterization</title><p>The structures of
+the PAE and the PAEPU-based SPE were tested by Fourier-transform infrared
+spectroscopy (FT-IR IRL280301, Perkin Elmer) from 650 to 4000 cm<sup>&#x02013;1</sup> and <sup>1</sup>H NMR spectroscopy (Avance III HD
+400MHz, Bruker, Germany), which used deuterated chloroform (CDCl<sub>3</sub>) as the standard solvent. The dynamic process of the PAEPU-based
+SPE at 60 &#x000b0;C with an angular frequency of 10 rad/s was determined
+through the small-amplitude time scanning mode in the rotary rheometer
+(DHR-1, TA) oscillation test. The mechanical behavior of the PAEPU-based
+SPE was characterized using a small-amplitude frequency scanning mode
+in a rotary rheometer oscillation test with a 25 mm aluminum parallel-plate
+geometry at 80 &#x000b0;C, and the frequency sweeps were performed at
+a controlled strain of 1.0% from 500 to 0.1 rad/s. The surface morphologies
+of the SPE were investigated using a scanning electron microscope
+(SEM) (Inspect-S50, FEI). The surface element distribution of the
+SPE was characterized by energy dispersive X-ray spectroscopy (EDS)
+(EDAX APOLLP XL, AMETEK) and the crystallinity change of the SPE was
+analyzed by X-ray diffraction spectroscopy (XRD) (D/MAX-2500, Rigaku,
+Japan) in the diffraction angle range from 2 to 100&#x000b0;. The thermal
+transition of the SPE was measured by differential scanning calorimetry
+(DSC) (Germany Netzsch DSC 214) with a scan rate of 20 &#x000b0;C/min
+under N<sub>2</sub> atmosphere from &#x02212;100 to 100 &#x000b0;C. The
+thermal properties of the SPE were measured by thermogravimetric analysis
+(TGA) (Q50, TA) under N<sub>2</sub> atmosphere at a heating rate of
+20 &#x000b0;C/min.</p><p>Ionic conductivity is one of the most important
+properties of lithium batteries, which is calculated by <inline-formula id="d33e565"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_m001.gif"/></inline-formula>, where <italic>d</italic> is the thickness
+of the PAEPU-based SPE, <italic>R</italic><sub>b</sub> is the bulk
+resistance, and <italic>S</italic> is the effective area. <italic>R</italic><sub>b</sub> was obtained by electrochemical impedance
+spectroscopy (EIS) in the frequency range of 10<sup>6</sup>&#x02013;1
+Hz with an amplitude of 10 mV.</p><p>The electrochemical stability
+window was measured by linear sweep
+voltammetry (LSV), with the voltage ranging from 2 to 6 V at a scanning
+rate of 10 mV/s. The lithium-ion transference number (<italic>t</italic><sub>Li<sup>+</sup></sub>) of the PAEPU-based SPE was evaluated by
+the formula <inline-formula id="d33e597"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_m002.gif"/></inline-formula>. The cell was polarized by a DC voltage
+(&#x00394;<italic>V</italic>) at 10 mV, and the initial (<italic>I</italic><sub>0</sub>) and steady-state (<italic>I</italic><sub>s</sub>) currents
+were measured. In this formula, <italic>R</italic><sub>b</sub><sup arrange="stack">0</sup> and <italic>R</italic><sub>b</sub><sup arrange="stack">s</sup> are the bulk resistances
+before and after the polarization; <italic>R</italic><sub>i</sub><sup arrange="stack">0</sup> and <italic>R</italic><sub>i</sub><sup arrange="stack">s</sup> are the
+corresponding interface resistances before and after the polarization.
+All of the resistances were acquired by EIS over a frequency ranging
+from 10<sup>6</sup> to 10<sup>&#x02013;1</sup> Hz with an amplitude
+of 10 mV.</p><p>To evaluate the interfacial stability and compatibility
+of the
+PAEPU-based SPE and lithium metal, an Li/PAEPU-based SPE/Li lithium
+symmetric battery system was assembled to monitor the change of interface
+impedance over time. The interface resistances were acquired by EIS
+with a 10 mV amplitude over the frequency ranging from 10<sup>6</sup> to 1 Hz.</p><p>The cycling performance of the Li/PAEPU-based SPE/LFP
+half-cell
+was determined with a voltage range of 2.5&#x02013;3.8 V and a current
+density of 0.5C at 60 &#x000b0;C using a battery tester (CT2001A, LANHE
+System, China). The rate capabilities of the Li/PAEPU-based SPE/LFP
+half-cell were determined in the voltage range of 2.5&#x02013;3.8 V
+at current densities of 0.1C, 0.2C, 0.5C, 1C, and 2C, respectively,
+at 60 &#x000b0;C using a LAND battery tester.</p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>FT-IR and <sup>1</sup>H NMR Characterization</title><p>The structure of PAE was identified by FT-IR and <sup>1</sup>H
+NMR spectra. In the FT-IR spectra (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a), an absorption peak corresponding to C&#x02013;O&#x02013;C
+was observed at 1094 cm<sup>&#x02013;1</sup>, while the absorption
+at 1639 cm<sup>&#x02013;1</sup> attributed to the C=C in the
+DM disappeared, verifying the formation of PAE. Moreover, the <sup>1</sup>H NMR spectrum of PAE showed a peak at 3.68 ppm (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b) assigned to the
+proton of &#x02212;CH<sub>2</sub>O&#x02013;, and the peak at 6.28 ppm
+assigned to the protons of &#x02212;CH=CH&#x02013; in DM disappeared.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) FT-IR
+and (b) <sup>1</sup>H NMR spectra of PAE, DM, and ED2003.
+(c) FT-IR spectra of PAEPU-SPE@C<italic><sub>n</sub></italic> (<italic>n</italic> = 0, 5, 15, 25).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0002" id="gr2" position="float"/></fig><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c shows
+the FT-IR spectra of PAEPU-SPE@C<italic><sub>n</sub></italic> (<italic>n</italic> = 0, 5, 15, 25). New absorption peaks of S=O and
+C&#x02013;F were observed at 1058 and 1190 cm<sup>&#x02013;1</sup>,
+respectively; the absorption corresponding to the C&#x02013;O&#x02013;C
+in the main chain was observed at about 1094 cm<sup>&#x02013;1</sup>, in which the abundant ether oxygen groups (&#x02212;C&#x02013;O&#x02013;C&#x02212;)
+were conducive to lithium-ion transmission. The absorption of C&#x02013;O&#x02013;C
+in PAE with lithium salt drifted toward 1090 to 1092 cm<sup>&#x02013;1</sup>. The resulting data are due to the interaction between Li<sup>+</sup> and C&#x02013;O&#x02013;C, that is, the formation of ion-dipole complexation,
+resulting in the C&#x02013;O&#x02013;C stretching band shifting to a
+low wavenumber. This phenomenon is also often observed in the PEO
+system.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup></p></sec><sec id="sec3.2"><label>3.2</label><title>Viscoelastic Behavior</title><p>Take PAEPU-SPE@R<sub>15</sub> as an example. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> shows the viscoelastic behavior of PAEPU-based SPEs.
+The storage modulus (<italic>G</italic>&#x02032;) and the loss modulus
+(<italic>G</italic>&#x02033;), which denote the elastic and viscous
+properties of PAEPU-SPE@R<sub>15</sub>, respectively, were tested
+using a rheometer at a certain temperature. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a shows the dynamic changes of the modulus
+for PAEPU-SPE@R<sub>15</sub> with the reaction time at 60 &#x000b0;C
+and 10 rad/s. As the reaction time increases, <italic>G</italic>&#x02032;
+and G&#x02033; increase, indicating that PAEPU-SPE@R<sub>15</sub> forms
+gradually. At the beginning of the reaction, G&#x02033; is obviously
+larger than <italic>G</italic>&#x02032;, demonstrating that the viscous
+property dominates the behavior of PAEPU-SPE@R<sub>15</sub>, and PAEPU-SPE@R<sub>15</sub> behaves more like a viscous liquid. <italic>G</italic>&#x02032;
+even exceeds G&#x02033; up to one or two orders of magnitude after
+reaching the intersection of <italic>G</italic>&#x02032;&#x02013;<italic>t</italic> and G&#x02033;&#x02013;<italic>t</italic> curves, at which
+point PAEPU-SPE@R<sub>15</sub> exhibits more elastic behaviors. As
+time continues, <italic>G</italic>&#x02032; and G&#x02033; gradually
+tend to be stable, indicating that the reaction is basically over.
+The time taken to reach the intersection of <italic>G</italic>&#x02032;&#x02013;<italic>t</italic> and G&#x02033;&#x02013;<italic>t</italic> curves becomes
+short with the increase of tri-IPDI content, indicating that the cross-links
+inside PAEPU-SPE@R<sub>15</sub> are crucial for determining its behavior.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Modulus&#x02013;time
+curve of PAEPU-SPE@R<sub>15</sub>. (b)
+Modulus&#x02013;frequency curve of PAEPU-SPE@R<sub>15</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0003" id="gr3" position="float"/></fig><p>The SPE with viscoelastic properties is favorable
+for the even
+deposition of metallic lithium, and prevent the formation of lithium
+dendrite. Therefore, the oscillatory shear rheology of PAEPU-SPE@R<sub>15</sub> was studied to understand the viscoelastic properties. Results
+from oscillatory shear measurements at a fixed strain (&#x003b3; = 1.0%)
+and variable dynamic frequency (&#x003c9;) are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b. All of the above measurements
+were taken at 80 &#x000b0;C. Interestingly, for all PAEPU-SPE@R<sub>15</sub> samples, the <italic>G</italic>&#x02032; values are larger than the
+G&#x02033; values in the low-strain, linear viscoelastic regime, and
+the <italic>G</italic>&#x02032; is independent of the frequency, demonstrating
+that the materials possess solid-like elastic consistency. In addition,
+it is found that the <italic>G</italic>&#x02032; increases and the
+dependence of G&#x02033; on frequency decreases with the increase of
+cross-linking density. Viscoelasticity is beneficial to the uniform
+deposition of lithium dendrite and conducive to the performance of
+the battery.</p></sec><sec id="sec3.3"><label>3.3</label><title>Morphology and Physicochemical Properties</title><p>As shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, the surface morphology of the polymer electrolyte was probed by
+SEM. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a&#x02013;e
+shows the SEM images of PAEPU-SPE@R<italic><sub>n</sub></italic> (R
+= A, B, C, D, E; <italic>n</italic> = 15). It can be noted that the
+microgel content of the surface of PAEPU-SPE@R<italic><sub>n</sub></italic> decreases with decrease of the tri-IPDI content at the
+same content of lithium salt and with the increase of the content
+of lithium salt at a fixed ratio of IPDI to tri-IPDI, and there are
+few gel substances in PAEPU-SPE@D<sub>15</sub> and PAEPU-SPE@D<sub>25</sub>. This may be because the lithium salt plays a certain &#x0201c;spacing
+role&#x0201d; in the polymerization process, which slows down the reaction
+speed between &#x02212;NH and &#x02212;NCO. When the content of lithium
+salt is too high, the contact probability of the two groups is reduced,
+resulting in inadequate reaction and surface wrinkling defects. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>j,k, respectively,
+shows the EDS characterization of the unique elements (S and F element)
+in the lithium salt. The S and F elements are evenly distributed,
+verifying the uniform dispersion of the lithium salt in the SPE.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>SEM images
+and EDS mapping images of PAEPU-based SPE. (a&#x02013;e)
+SEM images of PAEPU-SPE@R<sub>15</sub>. (f&#x02013;i) SEM images of
+PAEPU-SPE@D<italic><sub>n</sub></italic> (<italic>n</italic> = 0,
+15). (j&#x02013;k) EDS mapping images of PAEPU-SPE@D<sub>15</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0004" id="gr4" position="float"/></fig><p>The transportation of lithium ions mainly relies
+on the movement
+of the chain segments, which mainly occurs in the amorphous area.
+The lithium-ion transmission can be more intuitively understood through
+the XRD pattern. In order to find out the reason for the improved
+Li<sup>+</sup> conduction, XRD was carried out on the PAE membrane,
+PAEPU-SPE@R<sub>15</sub> (R = A, B, C, D, E), with different molar
+ratios of IPDI to tri-IPDI and PAEPU-SPE@D<italic><sub>n</sub></italic> (<italic>n</italic> = 0, 5, 15, 25) and different concentrations
+of LiTFSI (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). It can be seen from <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> that the diffraction peaks for the crystalline PEO chain
+segments in PAE are located at 19.1 and 23.3&#x000b0;; nevertheless,
+the diffraction peaks of PAEPU-SPE@R<sub>15</sub> and PAEPU-SPE@D<italic><sub>n</sub></italic> are widened and become diffusion peaks due
+to the cross-linking structure in PAEPU-based SPE, which restricts
+the formation of crystallization, creating more amorphous regions
+with the increase in molar ratio of tri-IPDI to IPDI or LiTFSI content.
+Furthermore, there are no diffraction peaks at 2&#x003b8; of 19.1 and
+23.3&#x000b0; for PAEPU-SPE@R<sub>15</sub> and PAEPU-SPE@D<italic><sub>n</sub></italic>, respectively; this may be because the intense diffraction
+peaks of PAEPU-based SPE mask the diffraction peaks at 19.1 and 23.3&#x000b0;.
+The DSC experimental data confirmed that there are melting points
+in PAEPU-based SPE except PAEPU-SPE@D<sub>25</sub>.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) XRD pattern of PAEPU-SPE@R<sub>15</sub> (R = A, B, C, D, E).
+(b) XRD pattern of PAEPU-SPE@D<italic><sub>n</sub></italic> (<italic>n</italic> = 0, 5, 15, 25).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0005" id="gr5" position="float"/></fig><p>The thermal transitions of the PAEPU-based SPE
+were investigated
+by differential scanning calorimetry (DSC). <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a displays the heat flow as a function of
+temperature for PAEPU-based SPEs with different molar ratios of the
+IPDI to tri-IPDI ranging from 0:1 to 3:1 at 15 wt % of LiTFSI. It
+can be seen that the melting temperatures (<italic>T</italic><sub>m</sub>) and glass transition temperature (<italic>T</italic><sub>g</sub>) gradually reduced from PAEPU-SPE@B<sub>15</sub> to PAEPU-SPE@E<sub>15</sub> with the increase in the molar ratios of IPDI to tri-IPDI,
+indicating that the cross-linking disrupted the crystallization tendency
+of PAEPU-based SPEs. Nevertheless, PAEPU-SPE@A<sub>15</sub> displayed
+the lowest <italic>T</italic><sub>g</sub> of &#x02212;44.4 &#x000b0;C
+and <italic>T</italic><sub>m</sub> of 25 &#x000b0;C. It may be that there
+was tri-IPDI only, resulting in the viscosity increasing rapidly at
+the beginning of the reaction, which hinders the movement of chain
+segments and monomers to restrain the consequent reaction between
+PAE and tri-IPDI to affect the mechanical strength of PAEPU-based
+SPEs. Moreover, <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b shows that the dosage of LiTFSI affects the <italic>T</italic><sub>m</sub> and <italic>T</italic><sub>g</sub>. The decrease in <italic>T</italic><sub>m</sub> and the increase in <italic>T</italic><sub>g</sub> indicate a transition from less to more interactions between
+the ions in LiTFSI and PEO chain segments. Especially, at 25 wt %
+of LiTFSI, the crystallization peak disappeared completely. This observation
+heralds a completely disrupt crystallization of PEO chain segments.
+As a result, the chain segment is more active, facilitating lithium-ion
+transfer and achieving higher ionic conductivity. In addition, the
+PAEPU-based SPEs exhibited outstanding thermal stability and the thermal
+decomposition temperature of 5% weight loss was above 300 &#x000b0;C,
+showing excellent stability under the condition of thermal abuse displayed
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c07349/suppl_file/ao2c07349_si_001.pdf">Figure S1a,b</ext-link>.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>DSC analysis of (a) PAEPU-SPE@R<sub>15</sub> (R = A, B, C, D, E)
+and (b) PAEPU-SPE@D<italic><sub>n</sub></italic> (<italic>n</italic> = 0, 5, 15, 25).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0006" id="gr6" position="float"/></fig></sec><sec id="sec3.4"><label>3.4</label><title>Electrochemical Performance Characterization</title><p>Ionic conductivity has been identified as the most important means
+of characterizing the electrochemical properties of polymer electrolytes.
+In this paper, the influences of different LiTFSI content and different
+molar ratio of IPDI to tri-IPDI on the ionic conductivity of the PAEPU-based
+SPE were discussed. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> shows the curve of ionic conductivity changing with temperature.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(a&#x02013;c)
+Temperature dependence of the ionic conductivity of
+the PAEPU-based SPE, PAEPU-SPE@R<sub>5</sub> (R = A, B, C, D, E),
+PAEPU-SPE@R<sub>15</sub> (R = A, B, C, D, E), and PAEPU-SPE@R<sub>25</sub> (R = A, B, C, D, E). (d) Linear fitting of ln &#x003c3; using
+the Arrhenius model with <italic>T</italic> = 303.15K.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0007" id="gr7" position="float"/></fig><p>When the LiTFSI content is 5 or 15 wt %, the ionic
+conductivity
+of the PAEPU-based SPE increased with the decrease of tri-IPDI content.
+When the LiTFSI is 25 wt % and the molar ratio of IPDI to tri-IPDI
+is 2:1, the ionic conductivity of the PAEPU-based SPE reaches the
+highest value, reaching 1.74 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 30 &#x000b0;C and 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> above 70 &#x000b0;C.</p><p>As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a&#x02013;c, at the same LiTFSI
+content, the ionic conductivity of
+the PAEPU-based SPE with an IPDI:tri-IPDI mole ratio of 2:1 and 3:1
+is higher than that of the PAEPU-based SPE with the other three mole
+ratios of IPDI to tri-IPDI. Although the ionic conductivity is the
+highest when the LiTFSI is 25 wt %, the SPE is too soft and the morphology
+is not as good as that of the PAEPU-based SPE with the lithium content
+of 15 wt %. Considering all of the above results, the properties of
+PAEPU-SPE@D<sub>15</sub> were determined by the following electrochemical
+tests.</p><p>The ionic conductivity of PAEPU-SPE@D<sub>15</sub> is
+6.80 &#x000d7;
+10<sup>&#x02013;5</sup>, 2.77 &#x000d7; 10<sup>&#x02013;4</sup>, and 5.76
+&#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 30, 60,
+and 80 &#x000b0;C, respectively. The Arrhenius equation can be used to
+describe the long-term transport mechanism of lithium ions in a polymer
+matrix. The relationship between temperature and conductivity is described
+by the following equation<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_m003" position="anchor"/></disp-formula>where <italic>A</italic> represents the pre-factor, <italic>E</italic><sub>a</sub> represents the activation energy, <italic>K</italic> represents the Boltzmann constant, and <italic>T</italic> represents the thermodynamic temperature. According to the test
+results, the linear fitting of PAEPU-SPE@D<sub>15</sub> is displayed
+in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d and the
+activation energy (<italic>E</italic><sub>a</sub>) of PAEPU-SPE@D<sub>15</sub> is 0.40 eV.</p><p>Electrochemical stability window is an
+important performance index
+to measure the electrolyte stability. An Li//SS asymmetric cell was
+assembled to evaluate the electrochemical window, which was subsequently
+determined by linear sweep voltammetry (LSV) at room temperature;
+the PAEPU-SPE@D<sub>15</sub> remains stable until 5.18 V (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a), demonstrating
+good electrochemical stability, which makes it possible to develop
+lithium batteries with high energy density.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>(a) Electrochemical stability
+window at room temperature. (b) Chronoamperometry
+profile of the Li/PAEPU-SPE@D<sub>15</sub>/Li symmetric battery. The
+inset shows the dependence spectra before and after chronoamperometry.
+(c) Nyquist plots of the interfacial resistance with time for Li/PAEPU-based
+SPE@D<sub>15</sub>/Li.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0008" id="gr8" position="float"/></fig><p>The lithium-ion transference number (<italic>t</italic><sub>Li<sup>+</sup></sub>) was tested by EIS test and DC polarization
+voltage
+was applied to the lithium symmetric cell; the results are shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b. The lithium-ion
+transference number of PAEPU-SPE@D<sub>15</sub> is 0.28, which is
+slightly higher than that of PEO-based polymer electrolytes (<italic>t</italic><sub>Li<sup>+</sup></sub> = 0.20).<sup><xref ref-type="bibr" rid="ref64">64</xref></sup></p><p>In this paper, the interface performance of the electrolyte/lithium
+metal electrode was also studied in detail. By monitoring the interface
+impedance of PAEPU-SPE@D<sub>15</sub> at ambient temperature, the
+change of impedance with time was evaluated. As demonstrated in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c, the real part
+of the high-frequency zone is the bulk impedance (<italic>R</italic><sub>b</sub>) of the electrolyte, and the diameter of the arc is
+the interface impedance (<italic>R</italic><sub>i</sub>) between the
+electrolyte and the electrode. As time goes by, the passivation layer
+gradually forms and <italic>R</italic><sub>i</sub> also slowly increases.
+Significantly, the interface impedance value on the 15th day and the
+20th day are almost the same, indicating that a quite stable solid
+electrolyte interface (SEI) has been formed. The formation of the
+SEI layer is conducive to the uniform deposition of lithium dendrites,
+and also makes the electrolyte and the electrode have good contact.</p><p>The half-cell was assembled with Li//LFP to further evaluate the
+electrochemical performance and feasibility of PAEPU-SPE@D<sub>15</sub>. As shown in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a,b, the cycle performance was measured under the current density
+of 0.5C at 60 &#x000b0;C. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a shows that the Li/PAEPU-SPE@D<sub>15</sub>/LiFePO<sub>4</sub> half-cell delivers an initial discharge capacity of 126.8 mAh g<sup>&#x02013;1</sup>. After seven cycles of activation, a high specific
+capacity 150.5 mAh g<sup>&#x02013;1</sup> is still obtained, and then
+around this value is maintained with a tremendous cycle stability.
+The unstable charge&#x02013;discharge specific capacity in the first
+few cycles may be caused by the construction of the lithium-ion transport
+channel.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> After 100 cycles, the discharge
+capacity is 145.7 mAh g<sup>&#x02013;1</sup>; compared with the discharge
+capacity of the 8th cycle, the capacity retention could reach 96.8%,
+and the coulombic efficiency always remained above 98.0%. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b shows the galvanostatic
+charge&#x02013;discharge voltage profiles under the current density
+of 0.5C at 60 &#x000b0;C. Remarkably, after five charge&#x02013;discharge
+cycles, the voltage tends to be stable, about 3.4 V, indicating that
+the Li/PAEPU-SPE@D<sub>15</sub>/LFP had good stability. This is because
+the polyurea solid polymer electrolyte has a three-dimensional network
+structure, which is conducive to the stable performance of the battery.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Electrochemical
+performance of the Li/PAEPU-based SPE@D<sub>15</sub>/LiFePO<sub>4</sub> half-cell: (a) long cycle performance at 0.5C,
+60 &#x000b0;C. (b) Charge and discharge curves at 0.5C, 60 &#x000b0;C. (c)
+Rate performance at different current densities at 0.5C, 60 &#x000b0;C.
+(d) DC voltage measured by a multimeter at room temperature. (e) Lighting
+up of a red LED lamp (1.9 V) by the assembled half-cell at room temperature.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_0009" id="gr9" position="float"/></fig><p><xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>c shows
+the rate performance at different current densities. The discharge
+capacities were 156.4, 152.7, 147.8, 137.5, and 97.6 mAh g<sup>&#x02013;1</sup> at 0.1C, 0.2C, 0.5C, 1C, and 2C, respectively. When the current
+density returned to 0.1C, the reversible capacity remained at 153.1
+mAh g<sup>&#x02013;1</sup>, with a capacity recovery rate of 97.9%,
+suggesting outstanding rate performance. However, the cyclic test
+results of the pure PEO solid polymer electrolyte at 60 &#x000b0;C and
+current densities of 0.2C,<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> 0.5C,<sup><xref ref-type="bibr" rid="ref67">67</xref>,<xref ref-type="bibr" rid="ref68">68</xref></sup> and 1C<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> were all lower than the specific
+capacity of the PAEPU-SPE prepared in this experiment. Moreover, as
+shown as <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>d,e,
+the DC voltage (3.39 V) was measured by a multimeter, and it could
+light up a red LED lamp (1.9 V) at room temperature successfully.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>In summary, a series of
+PAEPU-based SPEs with abundant PEO chains
+has been designed and successfully fabricated in an in situ manner,
+which could achieve the integration of SPE with the polar plate, while
+eliminating the use of solvents. We systematically investigated the
+mechanics, thermal transition, and transport behaviors of PAEPU-based
+SPEs by varying the molar ratios of IPDI to tri-IPDI and LiTFSI concentrations
+and identified trends in the viscoelasticity, thermal transition,
+and ionic conductivity with polymer composition. The SPE displays
+tunable mechanical properties and ionic conductivity, excellent thermal
+stability (<italic>T</italic><sub>d,5</sub> &#x0003e; 300 &#x000b0;C), and
+a
+low glass transition temperature (<italic>T</italic><sub>g</sub> &#x0003c;
+&#x02212;40 &#x000b0;C). Additionally, at the IPDI/tri-IPDI molar ratio
+of 2:1 and 15 wt % LiTFSI, an optimum combination was observed in
+the PAEPU-based SPE system, which was used to investigate the electrochemical
+properties. Compared to PEO/LiTFSI, the PAEPU-based SPE displayed
+a higher ionic conductivity of 6.80 &#x000d7; 10<sup>&#x02013;5</sup> S
+cm<sup>&#x02013;1</sup> at 30 &#x000b0;C and could reach 10<sup>&#x02013;4</sup> orders of magnitude when the temperature was above 40 &#x000b0;C, with
+a better electrochemical stability window of 5.18 V and interface
+stability with lithium metal. In addition, the capacity retention
+rate of the Li/PAEPU-SPE@D<sub>15</sub>/LiFePO<sub>4</sub> half-cell
+was 96.8% after 100 cycles, and in the rate test, the capacity recovery
+rate could reach 97.9%. The characteristics of a good interface compatibility
+between the electrodes and electrolyte as well as a reversible battery
+cycle make the solvent-free and in situ PAEPU-based SPEs one of the
+most promising electrolytes for next-generation all-solid-state batteries
+with flexible, wearable, and highly improved safety as well as economic
+and environmental benefits.</p></sec></body><back><notes id="notes-2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.2c07349?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.2c07349</ext-link>.<list id="silist" list-type="simple"><list-item><p>Preparation of LiFePO<sub>4</sub> cathode and the image
+of PAEPU-based SPE thermal performance (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsomega.2c07349/suppl_file/ao2c07349_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao2c07349_si_001.pdf"><caption><p>ao2c07349_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-1"><title>Author Contributions</title><p><sup>&#x000a7;</sup> L.B. and
+P.W. contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1160-autogenerated"><p>The
+authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors gratefully acknowledge the financial support from
+the National Natural Science Foundation of China (nos. 52174287, 5210011286,
+and 51904343), Science and Technology Program of Hunan Province (no.
+2019RS3002), Funds for Creative Research Groups of Hunan province
+(no. 2020JJ1007), the Hebei Provincial Natural Science Foundation
+(E2021208031, B2021208069), and the Fundamental Research Funds for
+the Hebei University (2021YWF11).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Fan</surname><given-names>E.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Lin</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>R.</given-names></name>; <name><surname>Wu</surname><given-names>F.</given-names></name>
+<article-title>Sustainable Recycling Technology
+for Li-ion Batteries and Beyond: Challenges and Future Prospects</article-title>. <source>Chem. Rev.</source>
+<year>2020</year>, <volume>120</volume>, <fpage>7020</fpage>&#x02013;<lpage>7063</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.9b00535</pub-id>.<pub-id pub-id-type="pmid">31990183</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Xia</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>
+<article-title>Practical Challenges
+and Future Perspectives of All-Solid-State Lithium-Metal Batteries</article-title>. <source>Chem</source>
+<year>2019</year>, <volume>5</volume>, <fpage>753</fpage>&#x02013;<lpage>785</lpage>. <pub-id pub-id-type="doi">10.1016/j.chempr.2018.11.013</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Cui</surname><given-names>Z.</given-names></name>; <name><surname>Zhou</surname><given-names>Q.</given-names></name>; <name><surname>Shangguan</surname><given-names>X.</given-names></name>; <name><surname>Du</surname><given-names>X.</given-names></name>; <name><surname>Dong</surname><given-names>S.</given-names></name>; <name><surname>Qiao</surname><given-names>L.</given-names></name>; <name><surname>Huang</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Tang</surname><given-names>K.</given-names></name>; et al. <article-title>A Supramolecular
+Interaction Strategy Enabling High-Performance All
+Solid State Electrolyte of Lithium Metal Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>25</volume>, <fpage>756</fpage>&#x02013;<lpage>763</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.09.010</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Wu</surname><given-names>F.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>; <name><surname>Yu</surname><given-names>Y.</given-names></name>
+<article-title>Guidelines
+and Trends for Next-Generation
+Rechargeable Lithium and Lithium-Ion Batteries</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2020</year>, <volume>49</volume>, <fpage>1569</fpage>&#x02013;<lpage>1614</lpage>. <pub-id pub-id-type="doi">10.1039/C7CS00863E</pub-id>.<pub-id pub-id-type="pmid">32055806</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Yue</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Dong</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>
+<article-title>All Solid-State Polymer Electrolytes for High-Performance
+Lithium Ion Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2016</year>, <volume>5</volume>, <fpage>139</fpage>&#x02013;<lpage>164</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2016.07.003</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Piedrahita</surname><given-names>C.</given-names></name>; <name><surname>Kusuma</surname><given-names>V.</given-names></name>; <name><surname>Nulwala</surname><given-names>H. B.</given-names></name>; <name><surname>Kyu</surname><given-names>T.</given-names></name>
+<article-title>Highly Conductive,
+Flexible Polymer Electrolyte Membrane Based on Poly(ethylene glycol)
+Diacrylate-co-Thiosiloxane Network</article-title>. <source>Solid State
+Ionics</source>
+<year>2018</year>, <volume>322</volume>, <fpage>61</fpage>&#x02013;<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2018.05.006</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Mao</surname><given-names>B.</given-names></name>; <name><surname>Stoliarov</surname><given-names>S. I.</given-names></name>; <name><surname>Sun</surname><given-names>J.</given-names></name>
+<article-title>A Review of Lithium Ion Battery Failure
+Mechanisms and Fire Prevention Strategies</article-title>. <source>Prog.
+Energy Combust. Sci.</source>
+<year>2019</year>, <volume>73</volume>, <fpage>95</fpage>&#x02013;<lpage>131</lpage>. <pub-id pub-id-type="doi">10.1016/j.pecs.2019.03.002</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Feng</surname><given-names>X.</given-names></name>; <name><surname>Ouyang</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Lu</surname><given-names>L.</given-names></name>; <name><surname>Xia</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Thermal Runaway Mechanism of Lithium
+Ion Battery for Electric Vehicles:
+A Review</article-title>. <source>Energy Storage Mater.</source>
+<year>2018</year>, <volume>10</volume>, <fpage>246</fpage>&#x02013;<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2017.05.013</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Qian</surname><given-names>T.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>
+<article-title>High Safety All-Solid-State Lithium
+Metal Battery with High Ionic
+Conductivity Thermoresponsive Solid Polymer Electrolyte</article-title>. <source>Nano Lett.</source>
+<year>2019</year>, <volume>19</volume>, <fpage>3066</fpage>&#x02013;<lpage>3073</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.9b00450</pub-id>.<pub-id pub-id-type="pmid">30951633</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Tianwei</surname><given-names>Y.</given-names></name>; <name><surname>Xiaofei</surname><given-names>Y.</given-names></name>; <name><surname>Rong</surname><given-names>Y.</given-names></name>; <name><surname>Xiangtao</surname><given-names>B.</given-names></name>; <name><surname>Guofeng</surname><given-names>X.</given-names></name>; <name><surname>Shangqian</surname><given-names>Z.</given-names></name>; <name><surname>Yi</surname><given-names>D.</given-names></name>; <name><surname>Yanlong</surname><given-names>W.</given-names></name>; <name><surname>Jiantao</surname><given-names>W.</given-names></name>
+<article-title>Progress and
+Perspectives on Typical Inorganic Solid-State Electrolytes</article-title>. <source>J. Alloys Compd.</source>
+<year>2021</year>, <volume>885</volume>, <elocation-id>161013</elocation-id><pub-id pub-id-type="doi">10.1016/j.jallcom.2021.161013</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Karabelli</surname><given-names>D.</given-names></name>; <name><surname>Peter</surname><given-names>B. K.</given-names></name>; <name><surname>Max</surname><given-names>W.</given-names></name>
+<article-title>A Performance
+and Cost Overview of
+Selected Solid-State Electrolytes: Race between Polymer Electrolytes
+and Inorganic Sulfide Electrolytes</article-title>. <source>Batteries</source>
+<year>2021</year>, <volume>7</volume>, <elocation-id>18</elocation-id><pub-id pub-id-type="doi">10.3390/batteries7010018</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Guan</surname><given-names>X.</given-names></name>; <name><surname>Min</surname><given-names>X.</given-names></name>; <name><surname>Shuanjin</surname><given-names>W.</given-names></name>; <name><surname>Dongmei</surname><given-names>H.</given-names></name>; <name><surname>Yuning</surname><given-names>L.</given-names></name>; <name><surname>Yuezhong</surname><given-names>M.</given-names></name>
+<article-title>Polymer-Based
+Solid Electrolytes: Material Selection, Design, and Application</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>31</volume>, <elocation-id>2007598</elocation-id><pub-id pub-id-type="doi">10.1002/adfm.202007598</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Fengquan</surname><given-names>L.</given-names></name>; <name><surname>Fengjuan</surname><given-names>B.</given-names></name>; <name><surname>Jinxin</surname><given-names>X.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>; <name><surname>Yujie</surname><given-names>Y.</given-names></name>; <name><surname>Hong</surname><given-names>H.</given-names></name>; <name><surname>Jianjun</surname><given-names>Z.</given-names></name>; <name><surname>Lin</surname><given-names>L.</given-names></name>
+<article-title>Polymer Electrolyte
+Membrane with High Ionic Conductivity and Enhanced Interfacial Stability
+for Lithium Metal Battery</article-title>. <source>ACS Appl. Mater.
+Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <fpage>22710</fpage>&#x02013;<lpage>22720</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b21370</pub-id>.<pub-id pub-id-type="pmid">32348105</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Zeng</surname><given-names>F.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Hui</surname><given-names>B.</given-names></name>; <name><surname>Xia</surname><given-names>Y.</given-names></name>; <name><surname>Zou</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>D.</given-names></name>
+<article-title>Three-Dimensional Porous
+Alginate Fiber Membrane Reinforced PEO-Based
+Solid Polymer Electrolyte for Safe and High-Performance Lithium Ion
+Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <fpage>43805</fpage>&#x02013;<lpage>43812</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.0c13039</pub-id>.<pub-id pub-id-type="pmid">32897049</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Zeng</surname><given-names>D.</given-names></name>; <name><surname>Yao</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Xu</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Yan</surname><given-names>X.</given-names></name>; <name><surname>Yu</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>
+<article-title>Promoting
+Favorable Interfacial Properties in Lithium-Based
+Batteries Using Chlorine-Rich Sulfide Inorganic Solid-State Electrolytes</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <elocation-id>1909</elocation-id><pub-id pub-id-type="doi">10.1038/s41467-022-29596-8</pub-id>.<pub-id pub-id-type="pmid">35393423</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Sheng</surname><given-names>L.</given-names></name>; <name><surname>Yasin</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>
+<article-title>Reviewing the Current
+Status and Development of Polymer Electrolytes
+for Solid-State Lithium Batteries</article-title>. <source>Energy Storage
+Mater.</source>
+<year>2020</year>, <volume>33</volume>, <fpage>188</fpage>&#x02013;<lpage>215</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2020.08.014</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Cui</surname><given-names>Z.</given-names></name>; <name><surname>Zhou</surname><given-names>Q.</given-names></name>; <name><surname>Shangguan</surname><given-names>X.</given-names></name>; <name><surname>Tian</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>
+<article-title>Siloxane-Based Polymer
+Electrolytes for Solid-State Lithium Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>23</volume>, <fpage>466</fpage>&#x02013;<lpage>490</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.04.016</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Fang</surname><given-names>F.</given-names></name>; <name><surname>Wei</surname><given-names>L.</given-names></name>; <name><surname>Yue</surname><given-names>Z.</given-names></name>; <name><surname>Kai</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Lina</surname><given-names>C.</given-names></name>; <name><surname>Yulong</surname><given-names>L.</given-names></name>; <name><surname>Haiming</surname><given-names>X.</given-names></name>; <name><surname>Liqun</surname><given-names>S.</given-names></name>
+<article-title>Regulating Lithium
+Deposition via Bifunctional Regular-Random Cross-Linking Network Solid
+Polymer Electrolyte for Li Metal Batteries</article-title>. <source>J. Power Sources</source>
+<year>2021</year>, <volume>484</volume>, <elocation-id>229186</elocation-id><pub-id pub-id-type="doi">10.1016/j.jpowsour.2020.229186</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Lopez</surname><given-names>J.</given-names></name>; <name><surname>Mackanic</surname><given-names>D. G.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>
+<article-title>Designing Polymers
+for Advanced Battery Chemistries</article-title>. <source>Nat. Rev.
+Mater.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>312</fpage>&#x02013;<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1038/s41578-019-0103-6</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Xue</surname><given-names>Z.</given-names></name>; <name><surname>He</surname><given-names>D.</given-names></name>; <name><surname>Xie</surname><given-names>X.</given-names></name>
+<article-title>Poly(ethylene
+oxide)-Based Electrolytes for Lithium-Ion
+Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>19218</fpage>&#x02013;<lpage>19253</lpage>. <pub-id pub-id-type="doi">10.1039/C5TA03471J</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Jeedi</surname><given-names>V. R.</given-names></name>; <name><surname>Narsaiah</surname><given-names>E. L.</given-names></name>; <name><surname>Yalla</surname><given-names>M.</given-names></name>; <name><surname>Swarnalatha</surname><given-names>R.</given-names></name>; <name><surname>Reddy</surname><given-names>S. N.</given-names></name>; <name><surname>Sadananda Chary</surname><given-names>A.</given-names></name>
+<article-title>Structural and Electrical Studies
+of PMMA and PVDF Based Blend Polymer Electrolyte</article-title>. <source>SN Appl. Sci.</source>
+<year>2020</year>, <volume>2</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1007/s42452-020-03868-8</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Tran</surname><given-names>H. K.</given-names></name>; <name><surname>Wu</surname><given-names>Y.-S.</given-names></name>; <name><surname>Chien</surname><given-names>W.-C.</given-names></name>; <name><surname>Wu</surname><given-names>S.-h.</given-names></name>; <name><surname>Jose</surname><given-names>R.</given-names></name>; <name><surname>Lue</surname><given-names>S. J.</given-names></name>; <name><surname>Yang</surname><given-names>C.-C.</given-names></name>
+<article-title>Composite
+Polymer Electrolytes Based
+on PVA/PAN for All-Solid-State Lithium Metal Batteries Operated at
+Room Temperature</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>11024</fpage>&#x02013;<lpage>11035</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c02018</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Kang</surname><given-names>S.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Wu</surname><given-names>N.</given-names></name>; <name><surname>Shi</surname><given-names>B.</given-names></name>; et al. <article-title>Blending Based PEO-PAN-PMMA Gel Polymer Electrolyte
+Prepared by Spaying
+Casting for Solid-State Lithium Metal Batteries</article-title>. <source>Acta Chin. Sin.</source>
+<year>2020</year>, <volume>78</volume>, <elocation-id>1441</elocation-id><pub-id pub-id-type="doi">10.6023/A20080356</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Yao</surname><given-names>Z.</given-names></name>; <name><surname>Zhu</surname><given-names>K.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Yan</surname><given-names>K.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>
+<article-title>3D Poly(vinylidene fluoride-hexafluoropropylen) Nanofiber-Reinforced
+PEO-Based Composite Polymer Electrolyte for High-Voltage Lithium Metal
+Batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2021</year>, <volume>404</volume>, <elocation-id>139769</elocation-id><pub-id pub-id-type="doi">10.1016/j.electacta.2021.139769</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Olmedo-Mart&#x000ed;nez</surname><given-names>J. L.</given-names></name>; <name><surname>Porcarelli</surname><given-names>L.</given-names></name>; <name><surname>Guzm&#x000e1;n-Gonz&#x000e1;lez</surname><given-names>G.</given-names></name>; <name><surname>Calafel</surname><given-names>I.</given-names></name>; <name><surname>Forsyth</surname><given-names>M.</given-names></name>; <name><surname>Mecerreyes</surname><given-names>D.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>A. J.</given-names></name>
+<article-title>Ternary Poly(ethylene oxide)/Poly(<sub>L,&#x000a0;L</sub>-lactide) PEO/PLA Blends as High-Temperature Solid
+Polymer Electrolytes
+for Lithium Batteries</article-title>. <source>ACS Appl. Polym. Mater.</source>
+<year>2021</year>, <volume>3</volume>, <fpage>6326</fpage>&#x02013;<lpage>6337</lpage>. <pub-id pub-id-type="doi">10.1021/acsapm.1c01093</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Aadheeshwaran</surname><given-names>S.</given-names></name>; <name><surname>Sankaranarayanan</surname><given-names>K.</given-names></name>
+<article-title>Electrochemical Behavior of BaTiO<sub>3</sub> Embedded
+Spongy PVDF-HFP/Cellulose Blend as a Novel Gel Polymer Electrolyte
+for Lithium-Ion Batteries</article-title>. <source>Mater. Lett.</source>
+<year>2022</year>, <volume>306</volume>, <elocation-id>130938</elocation-id><pub-id pub-id-type="doi">10.1016/j.matlet.2021.130938</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Bergfelt</surname><given-names>A.</given-names></name>; <name><surname>Rubatat</surname><given-names>L.</given-names></name>; <name><surname>Brandell</surname><given-names>D.</given-names></name>; <name><surname>Bowden</surname><given-names>T.</given-names></name>
+<article-title>Poly(benzyl methacrylate)-Poly[(oligo
+ethylene glycol) Methyl Ether Methacrylate] Triblock-Copolymers as
+Solid Electrolyte for Lithium Batteries</article-title>. <source>Solid
+State Ionics</source>
+<year>2018</year>, <volume>321</volume>, <fpage>55</fpage>&#x02013;<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2018.04.006</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Young</surname><given-names>N. P.</given-names></name>; <name><surname>Devaux</surname><given-names>D.</given-names></name>; <name><surname>Khurana</surname><given-names>R.</given-names></name>; <name><surname>Coates</surname><given-names>G. W.</given-names></name>; <name><surname>Balsara</surname><given-names>N. P.</given-names></name>
+<article-title>Investigating
+Polypropylene-Poly(ethylene oxide)-Polypropylene Triblock Copolymers
+as Solid Polymer Electrolytes for Lithium Batteries</article-title>. <source>Solid State Ionics</source>
+<year>2014</year>, <volume>263</volume>, <fpage>87</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2014.05.012</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Zardalidis</surname><given-names>G.</given-names></name>; <name><surname>Gatsouli</surname><given-names>K.</given-names></name>; <name><surname>Pispas</surname><given-names>S.</given-names></name>; <name><surname>Mezger</surname><given-names>M.</given-names></name>; <name><surname>Floudas</surname><given-names>G.</given-names></name>
+<article-title>Ionic Conductivity,
+Self-Assembly, and Viscoelasticity in Poly(styrene-b-ethylene oxide)
+Electrolytes Doped with LiTf</article-title>. <source>Macromolecules</source>
+<year>2015</year>, <volume>48</volume>, <fpage>7164</fpage>&#x02013;<lpage>7171</lpage>. <pub-id pub-id-type="doi">10.1021/acs.macromol.5b01596</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Butzelaar</surname><given-names>A. J.</given-names></name>; <name><surname>Roring</surname><given-names>P.</given-names></name>; <name><surname>Mach</surname><given-names>T. P.</given-names></name>; <name><surname>Hoffmann</surname><given-names>M.</given-names></name>; <name><surname>Jeschull</surname><given-names>F.</given-names></name>; <name><surname>Wilhelm</surname><given-names>M.</given-names></name>; <name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Brunklaus</surname><given-names>G.</given-names></name>; <name><surname>Th&#x000e9;ato</surname><given-names>P.</given-names></name>
+<article-title>Styrene-Based Poly(ethylene oxide)
+Side-Chain Block
+Copolymers as Solid Polymer Electrolytes for High-Voltage Lithium-Metal
+Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <fpage>39257</fpage>&#x02013;<lpage>39270</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c08841</pub-id>.<pub-id pub-id-type="pmid">34374509</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Cao</surname><given-names>S.</given-names></name>; <name><surname>Huo</surname><given-names>F.</given-names></name>
+<article-title>Molecular Dynamics Simulation Study
+of the Solid Polymer
+Electrolyte that PEO Grafted POSS</article-title>. <source>Chem. Phys.
+Lett.</source>
+<year>2020</year>, <volume>756</volume>, <elocation-id>137834</elocation-id><pub-id pub-id-type="doi">10.1016/j.cplett.2020.137834</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Jiang</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Zuo</surname><given-names>C.</given-names></name>; <name><surname>Xue</surname><given-names>Z.</given-names></name>; et al. <article-title>Molecular Brush with Dense PEG Side Chains:
+Design of a Well-Defined
+Polymer Electrolyte for Lithium-Ion Batteries</article-title>. <source>Macromolecules</source>
+<year>2019</year>, <volume>52</volume>, <fpage>7234</fpage>&#x02013;<lpage>7243</lpage>. <pub-id pub-id-type="doi">10.1021/acs.macromol.9b01641</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Xu</surname><given-names>S.</given-names></name>; <name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Sun</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Hou</surname><given-names>G.</given-names></name>; <name><surname>Cheng</surname><given-names>H. M.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>
+<article-title>Homogeneous and Fast Ion Conduction
+of PEO-Based Solid-State Electrolyte at Low Temperature</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <elocation-id>2007172</elocation-id><pub-id pub-id-type="doi">10.1002/adfm.202007172</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Pan</surname><given-names>Q.</given-names></name>; <name><surname>Smith</surname><given-names>D. M.</given-names></name>; <name><surname>Li</surname><given-names>C. Y.</given-names></name>
+<article-title>Plasticized Hybrid Network Solid
+Polymer Electrolytes for Lithium-Metal Batteries</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2019</year>, <volume>6</volume>, <elocation-id>1801445</elocation-id><pub-id pub-id-type="doi">10.1002/admi.201801445</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Jinisha</surname><given-names>B.</given-names></name>; <name><surname>Anilkumar</surname><given-names>K.</given-names></name>; <name><surname>Manoj</surname><given-names>M.</given-names></name>; <name><surname>Pradeep</surname><given-names>V.</given-names></name>; <name><surname>Jayalekshmi</surname><given-names>S.</given-names></name>
+<article-title>Development
+of a Novel Type of solid Polymer Electrolyte for Solid State Lithium
+Battery Applications Based on Lithium Enriched Poly(ethylene oxide)
+(PEO)/Poly(vinyl pyrrolidone) (PVP) Blend Polymer</article-title>. <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>235</volume>, <fpage>210</fpage>&#x02013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2017.03.118</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Tao</surname><given-names>C.</given-names></name>; <name><surname>Gao</surname><given-names>M. H.</given-names></name>; <name><surname>Yin</surname><given-names>B. H.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>Y. P.</given-names></name>; <name><surname>Xu</surname><given-names>G.</given-names></name>; <name><surname>Bao</surname><given-names>J. J.</given-names></name>
+<article-title>A Promising TPU/PEO
+Blend Polymer Electrolyte for All-Solid-State
+Lithium Ion Batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>257</volume>, <fpage>31</fpage>&#x02013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2017.10.037</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Pan</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>P.</given-names></name>; <name><surname>Guo</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>K.</given-names></name>; <name><surname>Xi</surname><given-names>B.</given-names></name>; <name><surname>Lin</surname><given-names>F.</given-names></name>; <name><surname>Xiong</surname><given-names>S.</given-names></name>
+<article-title>Electrochemical
+and Nanomechanical Properties of TiO<sub>2</sub> Ceramic Filler Li-Ion
+Composite Gel Polymer Electrolytes
+for Li Metal Batteries</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>2100669</elocation-id><pub-id pub-id-type="doi">10.1002/admi.202100669</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Mengistie</surname><given-names>T. S.</given-names></name>; <name><surname>Ko</surname><given-names>J. M.</given-names></name>; <name><surname>Kim</surname><given-names>J. Y.</given-names></name>
+<article-title>Enhanced Single-Ion
+Conduction and
+Free-Standing Properties of Solid Polymer Electrolyte by Incorporating
+a Polyelectrolyte</article-title>. <source>Mater. Res. Express</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>035308</elocation-id><pub-id pub-id-type="doi">10.1088/2053-1591/abee01</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Ling</surname><given-names>C. K.</given-names></name>; <name><surname>Aung</surname><given-names>M. M.</given-names></name>; <name><surname>Rayung</surname><given-names>M.</given-names></name>; <name><surname>Abdullah</surname><given-names>L. C.</given-names></name>; <name><surname>Lim</surname><given-names>H. N.</given-names></name>; <name><surname>Mohd Noor</surname><given-names>I. S.</given-names></name>
+<article-title>Performance of Ionic Transport Properties
+in Vegetable
+Oil-Based Polyurethane Acrylate Gel Polymer Electrolyte</article-title>. <source>ACS Omega</source>
+<year>2019</year>, <volume>4</volume>, <fpage>2554</fpage>&#x02013;<lpage>2564</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b02100</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Kalybekkyzy</surname><given-names>S.</given-names></name>; <name><surname>Kopzhassar</surname><given-names>A.-F.</given-names></name>; <name><surname>Kahraman</surname><given-names>M. V.</given-names></name>; <name><surname>Mentbayeva</surname><given-names>A.</given-names></name>; <name><surname>Bakenov</surname><given-names>Z.</given-names></name>
+<article-title>Fabrication of UV-Crosslinked
+Flexible Solid Polymer
+Electrolyte with PDMS for Li-Ion Batteries</article-title>. <source>Polymers</source>
+<year>2021</year>, <volume>13</volume>, <elocation-id>15</elocation-id><pub-id pub-id-type="doi">10.3390/polym13010015</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Cai</surname><given-names>M.</given-names></name>; <name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Gao</surname><given-names>R.</given-names></name>; <name><surname>Shi</surname><given-names>C.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>
+<article-title>A Parallel
+Bicomponent TPU/PI Membrane with mechanical Strength Enhanced Isotropic
+Interfaces used as Polymer Electrolyte for Lithium-Ion Battery</article-title>. <source>Polymers</source>
+<year>2019</year>, <volume>11</volume>, <elocation-id>185</elocation-id><pub-id pub-id-type="doi">10.3390/polym11010185</pub-id>.<pub-id pub-id-type="pmid">30960169</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Xu</surname><given-names>P.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Xiang</surname><given-names>H.</given-names></name>
+<article-title>Gel Polymer Electrolyte
+Based on PVDF-HFP Matrix Composited with rGO-PEG-NH<sub>2</sub> for
+High-Performance Lithium Ion Battery</article-title>. <source>J. Membr.
+Sci.</source>
+<year>2021</year>, <volume>617</volume>, <elocation-id>118660</elocation-id><pub-id pub-id-type="doi">10.1016/j.memsci.2020.118660</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Zaheer</surname><given-names>M.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Deng</surname><given-names>Y.</given-names></name>
+<article-title>An In Situ Polymerized
+Comb-Like PLA/PEG-Based Solid Polymer Electrolyte for Lithium Metal
+Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2019</year>, <volume>167</volume>, <elocation-id>070504</elocation-id><pub-id pub-id-type="doi">10.1149/2.0042007JES</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Mohamed</surname><given-names>N.</given-names></name>; <name><surname>Arof</surname><given-names>A.</given-names></name>
+<article-title>Investigation of Electrical and Electrochemical Properties of PVDF-Based
+Polymer Electrolytes</article-title>. <source>J. Power Sources</source>
+<year>2004</year>, <volume>132</volume>, <fpage>229</fpage>&#x02013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2003.12.031</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Sun</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Hou</surname><given-names>C.</given-names></name>; <name><surname>Shi</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>
+<article-title>A Highly Ionic
+Conductive Poly(methyl methacrylate) Composite Electrolyte with Garnet-Typed
+Li<sub>6.75</sub>La<sub>3</sub>Zr<sub>1.75</sub>Nb<sub>0.25</sub>O<sub>12</sub> Nanowires</article-title>. <source>Chem. Eng. J.</source>
+<year>2019</year>, <volume>375</volume>, <elocation-id>121922</elocation-id><pub-id pub-id-type="doi">10.1016/j.cej.2019.121922</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>; <name><surname>Deng</surname><given-names>S.</given-names></name>; <name><surname>Cui</surname><given-names>P.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>10 &#x003bc;m-Thick
+High-Strength Solid Polymer Electrolytes with Excellent Interface
+Compatibility for Flexible All-Solid-State Lithium-Metal Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2021</year>, <volume>33</volume>, <elocation-id>2100353</elocation-id><pub-id pub-id-type="doi">10.1002/adma.202100353</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Song</surname><given-names>A.</given-names></name>; <name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Cao</surname><given-names>H.</given-names></name>
+<article-title>A Novel Non-Woven Fabric
+Supported Gel Polymer Electrolyte Based on Poly(methylmethacrylate-polyhedral
+oligomeric silsesquioxane) by Phase Inversion Method for Lithium Ion
+Batteries</article-title>. <source>J. Membr. Sci.</source>
+<year>2018</year>, <volume>564</volume>, <fpage>62</fpage>&#x02013;<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1016/j.memsci.2018.07.014</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Bakenov</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>P.</given-names></name>
+<article-title>Electrochemical
+Performance
+of Lithium Gel Polymer Battery with Nanostructured Sulfur/Carbon Composite
+Cathode</article-title>. <source>Solid State Ionics</source>
+<year>2013</year>, <volume>234</volume>, <fpage>40</fpage>&#x02013;<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2013.01.002</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Gan</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Xue</surname><given-names>Z.</given-names></name>
+<article-title>Electrospun
+Composite
+Polymer Electrolyte Membrane Enabled with Silica-Coated Silver Nanowires</article-title>. <source>Eur. J. Inorg. Chem.</source>
+<year>2021</year>, <volume>2021</volume>, <fpage>4639</fpage>&#x02013;<lpage>4646</lpage>. <pub-id pub-id-type="doi">10.1002/ejic.202100710</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Janakiraman</surname><given-names>S.</given-names></name>; <name><surname>Surendran</surname><given-names>A.</given-names></name>; <name><surname>Ghosh</surname><given-names>S.</given-names></name>; <name><surname>Anandhan</surname><given-names>S.</given-names></name>; <name><surname>Venimadhav</surname><given-names>A.</given-names></name>
+<article-title>A New Strategy
+of PVDF Based Li-Salt Polymer Electrolyte Through Electrospinning
+for Lithium Battery Application</article-title>. <source>Mater. Res.
+Express</source>
+<year>2019</year>, <volume>6</volume>, <elocation-id>035303</elocation-id><pub-id pub-id-type="doi">10.1088/2053-1591/aaf369</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Chai</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>
+<article-title>In Situ Generation
+of Poly(vinylene carbonate) Based Solid Electrolyte with Interfacial
+Stability for LiCoO<sub>2</sub> Lithium Batteries</article-title>. <source>Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <elocation-id>1600377</elocation-id><pub-id pub-id-type="doi">10.1002/advs.201600377</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Wei</surname><given-names>J.</given-names></name>; <name><surname>Yue</surname><given-names>H.</given-names></name>; <name><surname>Shi</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Yin</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>
+<article-title>In Situ Gel Polymer
+Electrolyte with Inhibited Lithium Dendrite Growth
+and Enhanced Interfacial Stability for Lithium-Metal Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <fpage>32486</fpage>&#x02013;<lpage>32494</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c07032</pub-id>.<pub-id pub-id-type="pmid">34227378</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Sun</surname><given-names>M.</given-names></name>; <name><surname>Zeng</surname><given-names>Z.</given-names></name>; <name><surname>Peng</surname><given-names>L.</given-names></name>; <name><surname>Han</surname><given-names>Z.</given-names></name>; <name><surname>Yu</surname><given-names>C.</given-names></name>; <name><surname>Cheng</surname><given-names>S.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>
+<article-title>Ultrathin Polymer Electrolyte Film
+Prepared by In Situ Polymerization for Lithium Metal Batteries</article-title>. <source>Mater. Today Energy</source>
+<year>2021</year>, <volume>21</volume>, <elocation-id>100785</elocation-id><pub-id pub-id-type="doi">10.1016/j.mtener.2021.100785</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Choudhury</surname><given-names>S.</given-names></name>; <name><surname>Stalin</surname><given-names>S.</given-names></name>; <name><surname>Vu</surname><given-names>D.</given-names></name>; <name><surname>Warren</surname><given-names>A.</given-names></name>; <name><surname>Deng</surname><given-names>Y.</given-names></name>; <name><surname>Biswal</surname><given-names>P.</given-names></name>; <name><surname>Archer</surname><given-names>L. A.</given-names></name>
+<article-title>Solid-State
+Polymer Electrolytes
+for High-Performance Lithium Metal Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <elocation-id>4398</elocation-id><pub-id pub-id-type="doi">10.1038/s41467-019-12423-y</pub-id>.<pub-id pub-id-type="pmid">31562334</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Fu</surname><given-names>F.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>; <name><surname>Zheng</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Sun</surname><given-names>C.</given-names></name>; <name><surname>Cong</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Xie</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>L.</given-names></name>
+<article-title>Regulating Lithium Deposition via
+Bifunctional Regular-Random Cross-Linking Network Solid Polymer Electrolyte
+for Li Metal Batteries</article-title>. <source>J. Power Sources</source>
+<year>2021</year>, <volume>484</volume>, <elocation-id>229186</elocation-id><pub-id pub-id-type="doi">10.1016/j.jpowsour.2020.229186</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Guo</surname><given-names>D.</given-names></name>; <name><surname>Fan</surname><given-names>W.</given-names></name>; <name><surname>Xu</surname><given-names>F.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>Expansion-Tolerant
+Lithium Anode with Built-In LiF-Rich Interface for Stable 400 Wh kg<sup>-1</sup> Lithium Metal Pouch Cells</article-title>. <source>ACS Mater. Lett.</source>
+<year>2022</year>, <volume>4</volume>, <fpage>1516</fpage>&#x02013;<lpage>1522</lpage>. <pub-id pub-id-type="doi">10.1021/acsmaterialslett.2c00443</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Liu</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Ming</surname><given-names>H.</given-names></name>; <name><surname>Wen</surname><given-names>Y.</given-names></name>; <name><surname>Qiu</surname><given-names>J.</given-names></name>; et al. <article-title>A Cross-Linked
+Gel Polymer Electrolyte Employing Cellulose Acetate
+Matrix and Layered Boron Nitride Filler Prepared via In Situ Thermal
+Polymerization</article-title>. <source>J. Power Sources</source>
+<year>2021</year>, <volume>484</volume>, <elocation-id>229235</elocation-id><pub-id pub-id-type="doi">10.1016/j.jpowsour.2020.229235</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Drews</surname><given-names>M.</given-names></name>; <name><surname>Tr&#x000f6;tschler</surname><given-names>T.</given-names></name>; <name><surname>Bauer</surname><given-names>M.</given-names></name>; <name><surname>Guntupalli</surname><given-names>A.</given-names></name>; <name><surname>Beichel</surname><given-names>W.</given-names></name>; <name><surname>Gentischer</surname><given-names>H.</given-names></name>; <name><surname>M&#x000fc;lhaupt</surname><given-names>R.</given-names></name>; <name><surname>Kerscher</surname><given-names>B.</given-names></name>; <name><surname>Biro</surname><given-names>D.</given-names></name>
+<article-title>Photocured Cationic
+Polyoxazoline
+Macromonomers as Gel Polymer Electrolytes for Lithium-Ion Batteries</article-title>. <source>ACS Appl. Polym. Mater.</source>
+<year>2022</year>, <volume>4</volume>, <fpage>158</fpage>&#x02013;<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1021/acsapm.1c01171</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Yu</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>
+<article-title>A Flexible Cellulose/Methylcellulose
+Gel Polymer Electrolyte
+Endowing Superior Li<sup>+</sup> Conducting Property for Lithium Ion
+Battery</article-title>. <source>Carbohydr. Polym.</source>
+<year>2020</year>, <volume>246</volume>, <elocation-id>116622</elocation-id><pub-id pub-id-type="doi">10.1016/j.carbpol.2020.116622</pub-id>.<pub-id pub-id-type="pmid">32747261</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="patent" id="cit60"><person-group person-group-type="allauthors"><name><surname>Hess</surname><given-names>H.</given-names></name>; <name><surname>Kopp</surname><given-names>R.</given-names></name>; <name><surname>Groglerl</surname><given-names>G.</given-names></name>; <name><surname>Stepanski</surname><given-names>H.</given-names></name>; <name><surname>Hombach</surname><given-names>R.</given-names></name>; <name><surname>Schafer</surname><given-names>W.</given-names></name></person-group><article-title>Polyurethane-Based
+Reactive
+Adhesives in Which the Isocyanate is Stabilized by a Polyether Amine</article-title>. U.S. Patent, <patent>US5,104,959A</patent><year>1992</year>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Pimenta</surname><given-names>A. S.</given-names></name>; <name><surname>Trianoski</surname><given-names>R.</given-names></name>; <name><surname>Pizzi</surname><given-names>A.</given-names></name>; <name><surname>Santiago-Medina</surname><given-names>F. J.</given-names></name>; <name><surname>de Souza</surname><given-names>E. C.</given-names></name>; <name><surname>Monteiro</surname><given-names>T. V. d. C.</given-names></name>; <name><surname>Fasciotti</surname><given-names>M.</given-names></name>; <name><surname>Castro</surname><given-names>R. V. O.</given-names></name>
+<article-title>Effect of Polymeric Diisocyanate Addition on Bonding
+Performance of a Demethylated-Pyrolysis-Oil-Based Adhesive</article-title>. <source>Wood Sci. Technol.</source>
+<year>2019</year>, <volume>53</volume>, <fpage>1311</fpage>&#x02013;<lpage>1337</lpage>. <pub-id pub-id-type="doi">10.1007/s00226-019-01126-8</pub-id>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Hu</surname><given-names>G.</given-names></name>; <name><surname>Weng</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>L.</given-names></name>
+<article-title>High Thermal
+Conductivity EP Adhesive Based on the GO/EP Interface Optimized by
+TDI</article-title>. <source>Polym. Adv. Technol.</source>
+<year>2020</year>, <volume>31</volume>, <fpage>1356</fpage>&#x02013;<lpage>1364</lpage>. <pub-id pub-id-type="doi">10.1002/pat.4865</pub-id>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Jang</surname><given-names>H. K.</given-names></name>; <name><surname>Jung</surname><given-names>B. M.</given-names></name>; <name><surname>Choi</surname><given-names>U. H.</given-names></name>; <name><surname>Lee</surname><given-names>S. B.</given-names></name>
+<article-title>Ion Conduction and
+Viscoelastic Response of Epoxy-Based Solid Polymer Electrolytes Containing
+Solvating Plastic Crystal Plasticizer</article-title>. <source>Macromol.
+Chem. Phys.</source>
+<year>2018</year>, <volume>219</volume>, <elocation-id>1700514</elocation-id><pub-id pub-id-type="doi">10.1002/macp.201700514</pub-id>.</mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Chen</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>Q.</given-names></name>; <name><surname>Long</surname><given-names>P.</given-names></name>; <name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>
+<article-title>A New Composite Solid
+Electrolyte PEO/Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>/SN for
+All-Solid-State Lithium Battery</article-title>. <source>Electrochim.
+Acta</source>
+<year>2016</year>, <volume>210</volume>, <fpage>905</fpage>&#x02013;<lpage>914</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2016.06.025</pub-id>.</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Zhang</surname><given-names>D.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Ji</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Shen</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>M.</given-names></name>
+<article-title>Solvent-Free Method Prepared a Sandwich-Like
+Nanofibrous Membrane-Reinforced Polymer Electrolyte for High-Performance
+All-Solid-State Lithium Batteries</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <fpage>21586</fpage>&#x02013;<lpage>21595</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.0c02291</pub-id>.<pub-id pub-id-type="pmid">32302102</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Tan</surname><given-names>J.</given-names></name>; <name><surname>Ao</surname><given-names>X.</given-names></name>; <name><surname>Dai</surname><given-names>A.</given-names></name>; <name><surname>Yuan</surname><given-names>Y.</given-names></name>; <name><surname>Zhuo</surname><given-names>H.</given-names></name>; <name><surname>Lu</surname><given-names>H.</given-names></name>; <name><surname>Zhuang</surname><given-names>L.</given-names></name>; <name><surname>Ke</surname><given-names>Y.</given-names></name>; <name><surname>Su</surname><given-names>C.</given-names></name>; <name><surname>Peng</surname><given-names>X.</given-names></name>; et al. <article-title>Polycation Ionic Liquid
+Tailored Peo-Based Solid Polymer Electrolytes
+for High Temperature Lithium Metal Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>33</volume>, <fpage>173</fpage>&#x02013;<lpage>180</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2020.08.009</pub-id>.</mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Zhu</surname><given-names>L.</given-names></name>; <name><surname>Zhu</surname><given-names>P.</given-names></name>; <name><surname>Fang</surname><given-names>Q.</given-names></name>; <name><surname>Jing</surname><given-names>M.</given-names></name>; <name><surname>Shen</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>L.</given-names></name>
+<article-title>A Novel Solid
+PEO/LLTO-Nanowires Polymer Composite Electrolyte for Solid-State Lithium-Ion
+Battery</article-title>. <source>Electrochim. Acta</source>
+<year>2018</year>, <volume>292</volume>, <fpage>718</fpage>&#x02013;<lpage>726</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2018.10.005</pub-id>.</mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Wen</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>Q.</given-names></name>; <name><surname>Jiang</surname><given-names>X.</given-names></name>; <name><surname>Ji</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>R.</given-names></name>; <name><surname>Lu</surname><given-names>G.</given-names></name>; <name><surname>Long</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>N.</given-names></name>; <name><surname>Xu</surname><given-names>C.</given-names></name>
+<article-title>Graphene Oxide Enabled
+Flexible PEO-Based Solid Polymer Electrolyte for All-Solid-State Lithium
+Metal Battery</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2021</year>, <volume>4</volume>, <fpage>3660</fpage>&#x02013;<lpage>3669</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.1c00090</pub-id>.</mixed-citation></ref></ref-list></back></article>

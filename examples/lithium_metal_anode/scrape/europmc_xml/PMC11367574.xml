@@ -1,0 +1,755 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11367574</article-id><article-id pub-id-type="pmid">39159210</article-id>
+<article-id pub-id-type="doi">10.1021/acsami.4c08181</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Cross-Linked
+Composite Solid Polymer Electrolyte Doped
+with Li<sub>6.4</sub>La<sub>3</sub>Zr<sub>1.4</sub>Ta<sub>0.6</sub>O<sub>12</sub> for High Voltage Lithium Metal Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3293-912X</contrib-id><name><surname>Meda</surname><given-names>Lamartine</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Masafwa</surname><given-names>Kutemwa</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Crockem</surname><given-names>Ayssia N.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Williams</surname><given-names>Jere A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Beamon</surname><given-names>Nila A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Adams</surname><given-names>Jada I.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Tunis</surname><given-names>Jeremiah V.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath8"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3544-8051</contrib-id><name><surname>Yang</surname><given-names>Lingyu</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath9"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4293-6328</contrib-id><name><surname>Schaefer</surname><given-names>Jennifer L.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Wu</surname><given-names>James J.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemistry, <institution>Xavier University of Louisiana</institution>, 1 Drexel Drive, New Orleans, Louisiana 70125, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Deptartment
+of Chemical &#x00026; Biomolecular Engineering, <institution>University of Notre Dame</institution>, Notre
+Dame, Indiana 46556, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>NASA
+Glenn Research Center</institution>, Cleveland, Ohio 44135, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>LMeda@xula.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>08</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>28</day><month>08</month><year>2024</year></pub-date><volume>16</volume><issue>34</issue><fpage>44791</fpage><lpage>44801</lpage><history><date date-type="received"><day>17</day><month>05</month><year>2024</year></date><date date-type="accepted"><day>13</day><month>08</month><year>2024</year></date><date date-type="rev-recd"><day>07</day><month>08</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0008" id="ab-tgr1"/></p><p>Composite solid polymer
+electrolytes (CSPEs) are safer alternatives
+to liquid electrolytes and excellent candidates for high-voltage solid-state
+batteries. However, interfacial instabilities between the electrodes
+and CSPEs are one of the bottlenecks in pursuing these systems. In
+this study, a cross-linked CSPE was synthesized based on polypropylene
+carbonate, polyethylene glycol methyl ether acrylate, polyethylene
+glycol diacrylate with additives including lithium bis(trifluoromethane)sulfonimide
+salt, and tantalum-doped lithium lanthanum zirconium oxide (LLZTO).
+Mass fractions of 10, 20, and 40% LLZTO were added to the CSPE matrix.
+In a symmetric cell, lithium plating and stripping revealed that the
+interface between the lithium metal anode and CSPE with 10% of the
+LLZTO (CSPE-10LLZTO) shows the most stable interface. The CSPE-10LLZTO
+sample demonstrated high flexibility and showed no degradation over
+800 h of cycling at varying current densities. The ionic conductivity
+for the CSPE-10LLZTO sample at 40 &#x000b0;C was 6.4 &#x000d7; 10<sup>&#x02013;4</sup> S/cm. An all-solid-state full cell was fabricated with LiNi<sub>0.5</sub>Mn<sub>0.3</sub>Co<sub>0.2</sub>O<sub>2</sub> as the cathode,
+CSPE-10LLZTO as the electrolyte and separator, and Li metal as the
+anode, delivering approximately 140 mAh/g of capacity. Differential
+scanning calorimetry measurements on CSPE-<italic>x</italic>LLZTO
+showed high miscibility and the elimination of crystallinity. Raman
+spectroscopy revealed uniformity in the structure. These findings
+demonstrate the capability of the CSPEs to develop high-voltage solid-state
+lithium metal batteries.</p></abstract><kwd-group><kwd>composite solid polymer electrolytes</kwd><kwd>solid-state
+battery</kwd><kwd>solid-state electrolyte</kwd><kwd>lithium metal
+battery</kwd><kwd>lithium-ion conductivity</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Division of Materials Research</institution><institution-id institution-id-type="doi">10.13039/100000078</institution-id></institution-wrap></funding-source><award-id>162-6449</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Energy Frontier Research Centers</institution><institution-id institution-id-type="doi">10.13039/100017535</institution-id></institution-wrap></funding-source><award-id>SC0012673</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Glenn Research Center</institution><institution-id institution-id-type="doi">10.13039/100006193</institution-id></institution-wrap></funding-source><award-id>NNX15AP44A</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Division of Chemical, Bioengineering, Environmental, and Transport Systems</institution><institution-id institution-id-type="doi">10.13039/100000146</institution-id></institution-wrap></funding-source><award-id>210-0811</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Division of Materials Research</institution><institution-id institution-id-type="doi">10.13039/100000078</institution-id></institution-wrap></funding-source><award-id>212-2058</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am4c08181</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am4c08181</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Solid-state
+lithium metal batteries have been investigated as a
+replacement for Li-ion batteries (LIBs) due to the demands for safe
+(nonflammable and nonvolatile organic solvents) and high-energy storage
+for electric vehicles and other portable devices. To go beyond LIBs,
+the Li metal anode with a theoretical capacity of 3,860 mAh/g, which
+is approximately 10 times higher than the state-of-the-art graphite
+(372 mAh/g) anode, is very promising.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The commercialization
+of rechargeable Li metal batteries has been immensely challenging
+due in part to the complex chemistry of Li metal.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> In a commercial battery, microporous separators allow for
+the transport of lithium ions within a liquid electrolyte back and
+forth between the anode and the cathode of a battery; however, these
+separators are vulnerable to the penetration of Li dendrites. This
+lithium penetration process can lead to an internal short circuit
+and severely limits the use of the Li metal anode. Substituting the
+flammable liquid electrolytes with solid electrolytes offers several
+advantages, such as more efficient cell packing and better thermal
+and mechanical stability.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref5">5</xref></sup> Exothermic reactions
+at the electrolyte/electrode interface and interphase are known to
+contribute to thermal runaway. The relatively very slow diffusion
+of organic material from the bulk of a polymer electrolyte to the
+interface, in comparison to a liquid electrolyte, is a reason for
+enhanced safety of polymer-based batteries in comparison to liquid-based
+batteries, even when the polymer is combustible.</p><p>Today, one
+of the most investigated and promising types of solid
+electrolytes is composite solid polymer electrolytes (CSPEs) made
+of poly(ethylene oxide) (PEO), lithium salt, and nanocomposite ceramic
+fillers.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> The most used ceramic filler
+is lithium lanthanum zirconium tantalum oxide (Li<sub>6.4</sub>La<sub>3</sub>Zr<sub>1.4</sub>Ta<sub>0.6</sub>O<sub>12</sub>, LLZTO), which
+is stable against Li metal and has a high ionic conductivity at room
+temperature (10<sup>&#x02013;4</sup>&#x02013;10<sup>&#x02013;3</sup> S/cm).<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> This combination of LLZTO and PEO has become one of the most studied
+types of CSPE.<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref24">24</xref></sup></p><p>Polymer electrolytes based on polycarbonates, including polypropylene
+carbonate (PPC), as used here, are known to have higher oxidative
+stability than the most common polymer electrolytes, such as PEO.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Higher oxidative stability has also been observed
+for block copolymer electrolytes that contain blocks of polycarbonate
+and PEO blocks.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> PPC is also a widely
+available polymer in the commercial market. However, pure PPC-based
+electrolytes have less than desirable ionic conductivity and weak
+mechanical properties.</p><p>Here, we overcome these challenges by
+creating a cross-linked,
+interpenetrating network polymer electrolyte by polymerizing a comb
+monomer polyethylene glycol methyl ether acrylate (PEGMEA) and cross-linking
+monomer polyethylene glycol diacrylate (PEGDA) in the presence of
+PPC. The use of both the comb monomer and the cross-linking monomer
+allows for enhanced ionic conductivity above that of the cross-linking
+monomer alone, while the cross-linking monomer enables the creation
+of a freestanding polymer electrolyte film, and both of these monomers
+are also widely available.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Cross-linking
+can significantly improve the properties of these polymers, such as
+giving them a rubber-like characteristic, which can improve the contact
+between the electrodes and polymer electrolytes. Interfacial resistance
+in CSPEs is one of the major drawbacks in lithium-ion transport, and
+therefore, understanding the Li metal/electrolyte interface is of
+paramount importance, which can lead to improving the performance
+of solid-state lithium metal batteries.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>In this article, we report on the bulk and interfacial properties
+of this cross-linked composite solid polymer electrolyte. Lithium
+bis(trifluoromethanesulfonyl)imide (LiTFSI) was used as the salt due
+to its interfacial stability against Li metal. The ionic conductivity
+improved when 10, 20, and 40% mass fractions of LLZTO were added.
+A representative sample of 10% LLZTO added to the CSPE matrix (CSPE-10LLZTO)
+demonstrated stable cycling over 800 h. An all-solid-state full cell
+made of LiNi<sub>0.5</sub>Mn<sub>0.3</sub>Co<sub>0.2</sub>O<sub>2</sub> (NMC), CSPE-10LLZTO, and Li metal anode showed that the solid electrolyte
+performed very well.</p></sec><sec id="sec2"><label>2</label><title>Experimental
+Section</title><sec id="sec2.1"><label>2.1</label><title>Preparation of CSPE-<italic>x</italic>LLZTO</title><p>The CSPE-<italic>x</italic>LLZTO synthesis was based on the semi-interpenetrating
+polymer network structure, which has been described previously.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> A brief description is given here. Unless otherwise specified, all
+reagents were purchased from Sigma-Aldrich and the experiments were
+performed in an argon-filled glovebox with a controlled environment.
+Samples were prepared in two different laboratories. The cross-linked
+polymer matrix (CSPE-0LLZTO) was first prepared by dissolving a known
+quantity of PPC, PEGMEA, PEGDA, and LiTFSI in acetone along with 2
+wt % of the free radical thermal initiator 2,2&#x02032;-azobis(2-methylpropionitrile)
+(AIBN). A series of CSPE-<italic>x</italic>LLZTO samples were then
+prepared by adding 10, 20, and 40% by mass of LLZTO (MSE Supplies,
+particle size 400&#x02013;600 nm) to the prepolymer solution. The solutions
+containing LLZTO were sonicated in icy water for 2 h to disperse the
+particles. In the laboratory at the Xavier University of Louisiana,
+casting was performed by pouring the solutions onto a polytetrafluoroethylene
+dish and leaving it to allow for solvent evaporation for 48 h in the
+MBraun glovebox. The composite was then cross-linked by heating at
+80 &#x000b0;C under vacuum for 1 h before peeling and being punched into
+a 16 mm diameter disk. In the laboratory at the University of Notre
+Dame, the films were cast in an ambient atmosphere, and the bulk of
+the acetone was evaporated in the hood. Then, the samples were transferred
+to an LC Technologies argon glovebox equipped with a built-in vacuum
+oven. The samples were placed into a vacuum oven and pumped down.
+Then, while holding vacuum, the temperature in the oven was ramped
+up to 80 &#x000b0;C over a period of 90 min. The samples were maintained
+under vacuum in the oven at 80 &#x000b0;C for an additional 12 h before
+being moved to storage under ambient pressure in the argon glovebox.
+Samples prepared via either procedure were found to have equivalent
+ionic conductivity and glass transition temperature.</p></sec><sec id="sec2.2"><label>2.2</label><title>Material Characterizations</title><p>The crystal
+structure and purity of the LLZTO were characterized using powder
+X-ray diffraction (XRD) in the Bragg&#x02013;Brentano geometry from
+10&#x000b0; to 80&#x000b0; in 2-Theta in a Rigaku MiniFlex benchtop with
+Cu K<sub>&#x003b1;</sub> radiation (&#x003bb; = 1.5418 &#x000c5;). Additionally,
+the CSPE-<italic>x</italic>LLZTO samples were examined by XRD as well.</p><p>The samples&#x02019; morphology and surface characterization were
+performed in a Hitachi S-3400 scanning electron microscope equipped
+with energy-dispersive X-ray spectroscopy (EDS) and elemental mapping.
+First, the samples were mounted onto a scanning electron microscope
+holder inside the glovebox and placed in a sealed container to prevent
+exposure to air and moisture. Then, the holder was carefully transferred
+under inert gas to the SEM chamber for the analysis of the sample.</p><p>Differential scanning calorimetry (DSC) measurements were conducted
+using a TA Instruments Q2000. Polymeric samples of at least 5 mg each
+were crimped in aluminum DSC sample pans. The DSC scans were run between
+&#x02212;80 and 140 &#x000b0;C at a scan rate of 10 &#x000b0;C/min under
+a nitrogen flow of 25 mL/min. The temperature was decreased to &#x02212;80
+&#x000b0;C and then increased to 140 &#x000b0;C, and this cycle was repeated.
+The second cooling scan was used to calculate the samples&#x02019;
+glass transition temperature (<italic>T</italic><sub>g</sub>).</p><p>Raman spectroscopic studies were performed on an NRS-5100 confocal
+micro-Raman spectrometer from Jasco with an excitation wavelength
+of 532 nm. The samples were sandwiched between one quartz microscopic
+slide and one glass coverslip. Carbon tape was used to seal the edges
+of the glass to minimize the sample&#x02019;s exposure to moisture.
+The following were the settings of the device: 20&#x000d7; magnification,
+50 &#x000d7; 1000 &#x003bc;m slit dimension, and 4000 &#x003bc;m aperture.
+The samples were exposed to the laser for 30 s for one accumulation
+each in the 80&#x02013;2000 cm<sup>&#x02013;1</sup> range.</p><p>Linear
+sweep voltammetry asymmetric cell testing (SS|CSPE-10LLZTO|Li)
+was performed to establish the electrochemical window of the cross-linked
+polymer electrolyte in the range of 0 to 6 V at a scan rate of 2 mV/s.</p></sec><sec id="sec2.3"><label>2.3</label><title>Electrochemical Characterizations</title><sec id="sec2.3.1"><label>2.3.1</label><title>Ionic Conductivity</title><p>All the samples&#x02019;
+ionic conductivity (&#x003c3;, S/cm) was calculated from the electrochemical
+impedance spectroscopy (EIS) data in the 25&#x02013;85 &#x000b0;C temperature
+range. Before each measurement, the temperature was held constant
+for approximately 60 min. Coin cell types CR2032 were assembled by
+inserting a CSPE-<italic>x</italic>LLZTO film (&#x0223c;230 &#x003bc;m
+thick) between two stainless steel blocking electrodes (SS|CSPE-<italic>x</italic>LLZTO|SS) and pressing the material with a spring. The
+EIS for the cells was carried out in the frequency range of 800 kHz&#x02013;0.1
+Hz using a Gamry 1000 Interface potentiostat, and the data were displayed
+as Nyquist plots.</p></sec><sec id="sec2.3.2"><label>2.3.2</label><title>Interfacial Stability</title><p>All samples&#x02019;
+overall resistance (<italic>R</italic><sub>overall</sub>) was measured
+at 40 &#x000b0;C at an open-circuit voltage (OCV) by monitoring the EIS
+response over time of a symmetric cell with the potentiostat in the
+galvanostatic mode. This temperature was chosen because it falls in
+the working temperature range of solid polymer electrolytes and the
+ionic conductivity is relatively high. The CSPE-10LLZTO was selected
+for further evaluation because it showed the best overall interfacial
+stability. The CSPE-0LLZTO was tested as a control for comparison.
+The sample was assessed by lithium plating and stripping for 1 h each
+at current densities ranging from 50 to 400 &#x003bc;A/cm<sup>2</sup>.</p></sec><sec id="sec2.3.3"><label>2.3.3</label><title>All-Solid-State Cell</title><p>The effectiveness
+of the solid electrolyte was tested in a full cell using NMC (Ni:Mn:Co
+= 5:3:2, MTI Corp.) as the active cathode, CSPE-10LLZTO as the separator
+and electrolyte, and Li metal as the anode. The cathode was prepared
+by mixing NMC, Super-P carbon black (Alfa Aesar) as a conductivity
+enhancer, and poly(vinylidene fluoride) (PVDF, average Nw &#x0223c;
+534,000, Aldrich) as the binder in the ratio 70:20:10 wt %, respectively.
+The powders were placed in a pestle, and 2 mL of 27.5 g/L PVDF/NMP
+(<italic>N</italic>-methyl-2-pyrrolidone, 99.5%, anhydrous, Sigma-Aldrich)
+was added. The solution was transferred to a vial and stirred overnight
+to yield a black slurry that was cast on 16 &#x003bc;m thick aluminum
+foil (MTI, Corp). The samples were dried in a vacuum oven (MTI) at
+110 &#x000b0;C overnight and punched into 15 mm diameter disks. The loading
+mass was approximately 1.165 mg/cm<sup>2</sup>, and the weight was
+measured using a microbalance (Mettler Toledo).</p><p>Approximately
+1.0 &#x003bc;L of 1.0 M lithium hexafluorophosphate (LiPF<sub>6,</sub> LP30; EC: DMC = 50:50 v/v, Sigma-Aldrich, battery grade) in ethylene
+carbonate (EC) and dimethyl carbonate (DMC) was used on the cathode
+to improve ionic conduction. Coin cells were assembled by using an
+electric crimper inside the glovebox. The cells were cycled in a temperature-controlled
+oven (Arbin Instruments) at 40 &#x000b0;C in the 2.8&#x02013;4.5 V voltage
+range versus Li/Li<sup>+</sup> at a current density of 10 mA/g. Cyclic
+voltammetry (CV) was performed for the NMC cells in the same voltage
+range at a scan rate of 0.2 mV/s to evaluate the chemical nature of
+the redox reactions. Liquid cells were assembled using a Whatman inorganic
+separator to compare to solid-state cells.</p></sec></sec><sec id="sec2.4"><label>2.4</label><title>Post-mortem Analysis</title><p>For the CSPE-10LLZTO
+sample, the cells were taken inside the glovebox for decrimping after
+lithium plating and stripping, and the electrodes and electrolytes
+were carefully separated whenever possible. Next, cross sections of
+CSPE-10LLZTO were prepared by cutting the sample with a surgical blade
+for SEM analysis. The effort to separate the lithium anode from the
+CSPE-0LLZTO was unsuccessful.</p></sec></sec><sec id="sec3"><label>3</label><title>Results
+and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Physicochemical Properties</title><p>The crystallinity
+of the CSPE-<italic>x</italic>LLZTO and LLZTO powder samples was determined
+by powder XRD (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). The XRD pattern of the CSPE-0LLZTO shows a broad peak from 10&#x000b0;
+to 30&#x000b0; with no additional peaks present, indicating that the
+CSPE-0LLZTO is amorphous. The XRD patterns of the CSPE-<italic>x</italic>LLZTO were found to be identical to the cubic LLZTO reference pattern
+(CSD#1552156 or JCPDF-80-0457). Hence, the results suggested that
+the LLZTO is stable in the cross-linked polymer matrix. The LLZTO
+XRD pattern is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S1</ext-link>.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) XRD patterns
+of CSPE-<italic>x</italic>LLZTO (<italic>x</italic> = 0, 10, 20, and
+40%); (b) representative SEM image of CSPE-10LLZTO
+(inset shows the optical image of the CSPE-10LLZTO); (c) SEM/EDS elemental
+mapping of CSPE-10LLZTO.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0001" id="gr1" position="float"/></fig><p>The surface morphology
+and EDS elemental analysis of CSPE-10LLZTO,
+which is the sample chosen for further study, are shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b,c. The images showed
+that the LLZTO particles are well embedded in the solid polymer matrix,
+facilitating a continuous and homogeneous structure. EDS elemental
+mapping shows the overall distribution of La, Zr, Ta, and O in the
+CSPE-10LLZTO sample, indicating that LLZTO was well dispersed on the
+surface. A relatively small amount of agglomeration is noticeable
+on the SEM surface. A SEM picture of the LLZTO (400&#x02013;600 nm)
+particles is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S2</ext-link>.</p></sec><sec id="sec3.2"><label>3.2</label><title>Thermal Properties</title><p>DSC was used to
+evaluate the thermal properties of the electrolyte. In <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S3</ext-link>, we observed the absence of melting
+point peaks in the DSC curves. This implies the suppression of crystallinity
+in the polymer matrix, which would increase the lithium-ion conductivity.
+The single <italic>T</italic><sub>g</sub> was the only transition
+observed in the DSC curves of the samples. This single <italic>T</italic><sub>g</sub> implies that the polymer matrix&#x02019;s PPC and PEG
+segmental portions were homogeneously mixed with no phase segregation.
+The addition of ceramic LLZTO particles only slightly decreased the <italic>T</italic><sub>g</sub> of the polymer matrix, with the CSPE-20LLZTO
+recording the lowest <italic>T</italic><sub>g</sub>. The observed <italic>T</italic><sub>g</sub> of the samples is tabulated in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Observed
+CSPE <italic>T</italic><sub>g</sub></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">sample</th><th style="border:none;" align="center">glass transition (<italic>T</italic><sub>g</sub>)</th></tr></thead><tbody><tr><td style="border:none;" align="left">0% LLZTO CSPE</td><td style="border:none;" align="left">&#x02013;54.2 &#x000b0;C</td></tr><tr><td style="border:none;" align="left">10% LLZTO CSPE</td><td style="border:none;" align="left">&#x02013;55.1 &#x000b0;C</td></tr><tr><td style="border:none;" align="left">20%&#x000a0;LLZTO&#x000a0;CSPE</td><td style="border:none;" align="left">&#x02013;57.7 &#x000b0;C</td></tr><tr><td style="border:none;" align="left">40% LLZTO CSPE</td><td style="border:none;" align="left">&#x02013;55.7 &#x000b0;C</td></tr></tbody></table></table-wrap></sec><sec id="sec3.3"><label>3.3</label><title>Ionic Transport</title><p>The ionic conductivity
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) increased
+for all of the samples as the temperature increased. This is a typical
+trend in solid polymer electrolytes since higher temperatures enhance
+the movement of Li ions and polymer chains.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> As the LLZTO mass fraction increases from 10 to 20%, we notice that
+the ionic conductivity also increases; however, CSPE-40LLZTO shows
+that the ionic conductivity decreases. Typically, an increase in ionic
+conductivity in CSPEs has been attributed to varied mechanisms in
+the literature, including depression of the polymer glass transition
+and increase of polymer chain segmental motion, increase in the effective
+mobile ion concentration due to interaction between the anion and
+the particle surface, preferential ion transport pathways along the
+particle surfaces, and ion transport through both the inorganic and
+polymer matrices in the case of active Li<sup>+</sup> conducting inorganics.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The latter mechanism involves ion conduction
+in the inorganic phase that is inhibited due to high resistance to
+ion transport across the particle&#x02013;polymer interface. The Arrhenius
+plots of the samples show a nonlinear (curvature) dependence of the
+ionic conductivity as a function of temperature. However, in the high-temperature
+range, a linear dependence can be extrapolated for the samples that
+contained LLZTO. Overall, the ionic conductivity behavior as a function
+of temperature follows the Vogel&#x02013;Tamman&#x02013;Fulcher (VTF)
+equation, indicating that the preferred conduction pathway is through
+the polymer matrix rather than the LLZTO. Although the ionic conductivity
+increased with an increase in LLZTO content to 20%, this increase
+also cannot be attributed solely to the decrease in the glass transition
+temperature for the CSPE-20LLZTO and increase in the polymer segmental
+mobility, as the changes in the glass transition temperatures were
+relatively small (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S3</ext-link>). Nevertheless,
+the <italic>T</italic><sub>g</sub> corroborated the ionic conductivity
+data, showing that the CSPE-20LLZTO sample has the highest conductivity
+and the lowest <italic>T</italic><sub>g</sub>.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Arrhenius plot shows
+the ionic conductivity as a function of
+the temperature of the CSPE-<italic>x</italic>LLZTO; (b) Nyquist plots
+of the CSPE-10LLZTO taken in the temperature ranging from 25 to 85
+&#x000b0;C; (c) Nyquist plot to the CSPE-10LLZTO at 40 &#x000b0;C fitted
+using an equivalent circuit; (d) linear sweep voltammetry asymmetric
+cell testing (SS|CSPE-10LLZTO|Li) scanning from 0 to 6 V at a scan
+rate of 2 mV/s.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0002" id="gr2" position="float"/></fig><p>The CSPE-0LLZTO has a Li<sup>+</sup> conductivity (&#x003c3;) of
+7.2 &#x000d7; 10<sup>&#x02013;6</sup> and 2.5 &#x000d7; 10<sup>&#x02013;4</sup> S/cm at 25 and 85 &#x000b0;C, respectively. The highest Li<sup>+</sup> conductivity at 25 &#x000b0;C was achieved with the CSPE-20LLZTO, which
+was 4.1 &#x000d7; 10<sup>&#x02013;5</sup> S/cm; at 85 &#x000b0;C, the conductivity
+was 7.2 &#x000d7; 10<sup>&#x02013;4</sup> S/cm. The <italic>R</italic><sub>overall</sub>, which was used in the calculation of the ionic
+conductivity, was obtained from the fitted spectra by an equivalent
+circuit that is made of a resistor <italic>R</italic><sub>bulk</sub> (current collector, electrolyte, and separator resistances) in series
+with <italic>R</italic><sub>ct</sub> (charge transfer resistance),
+in parallel with a capacitor <italic>C</italic><sub>dl</sub> (capacitance
+between particles or double layer capacitance), and in series with
+a constant phase element (CPE), which is used for nonideal capacitor
+behavior, and Warburg diffusion constant (<italic>W</italic>). Notice
+that in this model, <italic>W</italic> affects the kinetic and the
+diffusion which appears as a straight line. The following relationship
+was used to determine the ionic conductivity: <italic>R</italic><sub>overall</sub>, <italic>l</italic> is the thickness of the electrolyte
+film in cm, and A is the electrolyte area in cm<sup>2</sup>.<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_m001" position="anchor"/></disp-formula></p><p>Adding
+the LLZTO ceramic filler increased the ionic conductivity
+by at least 1 order of magnitude. At 40% mass fraction of LLZTO, the
+ionic conductivity decreased, which is not surprising given the VTF
+model for CSPEs. The Nyquist plots for the CSPE-10LLZTO, taken between
+two stainless steel blocking electrodes, are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b, and a simplified Randles
+model is shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c for the measurement taken at 40 &#x000b0;C. The presence of
+one semideveloped Nyquist plot suggests that the bulk electrolyte
+is a homogeneous mixture and a signature of a single dominant pathway
+for charge transport.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> The impedance graphs
+for CSPE-0LLZTO and CSPE-20LLZTO are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S4</ext-link>.</p></sec><sec id="sec3.4"><label>3.4</label><title>Raman Spectroscopy</title><p>Raman spectroscopy
+measurements were performed on the CSPE-<italic>x</italic>LLZTO instrument
+to investigate the molecular interactions of the TFSI<sup>&#x02013;</sup> anion to determine if the particle&#x02013;anion interactions are
+responsible for the increase in the ionic conductivity that is observed
+for the composite samples. Surprisingly, there is little shift in
+the peak at &#x0223c;740 cm<sup>&#x02013;1</sup> that is sensitive to
+the bending of the TFSI<sup>&#x02013;</sup> anion (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). This result implies that
+the TFSI<sup>&#x02013;</sup> anion does not bind to the LLZTO surface.
+Therefore, the increase in ionic conductivity must be attributed to
+another mechanism, such as substantial Li<sup>+</sup> transport near
+the particle surfaces.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Raman graphs of CSPE-xLLZTO from 720 to 760 cm<sup>&#x02013;1</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0003" id="gr3" position="float"/></fig></sec><sec id="sec3.5"><label>3.5</label><title>Interfacial
+Stability</title><p>The interfacial
+stability between the Li metal anode and CSPE-10LLZTO was evaluated
+by monitoring the AC-impedance response at 40 &#x000b0;C under OCV conditions. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> shows the Nyquist
+plots of the symmetrical cells Li|CSPE-10LLZTO|Li and Li|CSPE-0LLZTO|Li.
+To evaluate the Nyquist plots, it is divided into three frequency
+regions: (a) high frequency, (b) medium high frequency, and (c) low
+frequency. The high-frequency region is assigned to <italic>R</italic><sub>interface</sub>, the medium high-frequency region is assigned
+to <italic>R</italic><sub>ct</sub>, and the low-frequency region is
+assigned to the Warburg impedance (<italic>W</italic>) for the mass
+transfer. This is the common assignment used in the literature to
+deconvolute complex EIS responses.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup><italic>R</italic><sub>overall</sub> represents the summation of these resistances
+in the cell. The values of resistance at different days at the OCV
+for the CSPE-0LLZTO and CSPE-10LLZTO with a thickness of &#x0223c;230
+&#x003bc;m at 40 &#x000b0;C are shown in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>. The percentage represents a decrease from
+the original resistance.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Representatives Nyquist plots taken at the open-circuit
+voltage
+at 40 &#x000b0;C in the frequency range from 800 kHz to 0.1 Hz; (a, b)
+Li|CSPE-10LLZTO|Li and (c) Li|CSPE-0LLZTO|Li.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0004" id="gr4" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Values of Resistances at the Open
+Circuit Voltage for an Electrolyte with a Thickness of Approximately
+230 &#x003bc;m before the Measurement was Taken at 40 &#x000b0;C</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">days</th><th style="border:none;" align="center"><italic>R</italic><sub>interface</sub> (&#x003a9;&#x000a0;cm<sup>2</sup>)&#x000a0;CSPE-0LLZTO</th><th style="border:none;" align="center"><italic>R</italic><sub>ct</sub> (&#x003a9;&#x000a0;cm<sup>2</sup>)&#x000a0;CSPE-0LLZTO</th><th style="border:none;" align="center"><italic>R</italic><sub>overall</sub> (&#x003a9;&#x000a0;cm<sup>2</sup>)&#x000a0;CSPE-0LLZTO</th><th style="border:none;" align="center"><italic>R</italic><sub>interface</sub> (&#x003a9;&#x000a0;cm<sup>2</sup>)&#x000a0;CSPE-10LLZTO</th><th style="border:none;" align="center"><italic>R</italic><sub>ct</sub> (&#x003a9;&#x000a0;cm<sup>2</sup>)&#x000a0;CSPE-10LLZTO</th><th style="border:none;" align="center"><italic>R</italic><sub>overall</sub> (&#x003a9;&#x000a0;cm<sup>2</sup>)&#x000a0;CSPE-10LLZTO</th></tr></thead><tbody><tr><td style="border:none;" align="left">1</td><td style="border:none;" align="left">624</td><td style="border:none;" align="left">1050</td><td style="border:none;" align="left">1650</td><td style="border:none;" align="left">400</td><td style="border:none;" align="left">400</td><td style="border:none;" align="left">800</td></tr><tr><td style="border:none;" align="left">6</td><td style="border:none;" align="left">506 (37%)</td><td style="border:none;" align="left">844 (20%)</td><td style="border:none;" align="left">1350 (18%)</td><td style="border:none;" align="left">400 (0%)</td><td style="border:none;" align="left">300 (25%)</td><td style="border:none;" align="left">700 (12%)</td></tr><tr><td style="border:none;" align="left">10</td><td style="border:none;" align="left">520 (36%)</td><td style="border:none;" align="left">925 (12%)</td><td style="border:none;" align="left">1425 (14%)</td><td style="border:none;" align="left">425 (+6%)</td><td style="border:none;" align="left">275 (31%)</td><td style="border:none;" align="left">700 (12%)</td></tr><tr><td style="border:none;" align="left">15</td><td style="border:none;" align="left">500 (33%)</td><td style="border:none;" align="left">1000 (5%)</td><td style="border:none;" align="left">1500 (10%)</td><td style="border:none;" align="left">450 (+13%)</td><td style="border:none;" align="left">225 (44%)</td><td style="border:none;" align="left">675 (16%)</td></tr><tr><td style="border:none;" align="left">24</td><td style="border:none;" align="left">534 (45%)</td><td style="border:none;" align="left">650 (38%)</td><td style="border:none;" align="left">1400 (15%)</td><td style="border:none;" align="left">400 (0%)</td><td style="border:none;" align="left">200 (50%)</td><td style="border:none;" align="left">600
+(25%)</td></tr><tr><td style="border:none;" align="left">34</td><td style="border:none;" align="left">432 (36%)</td><td style="border:none;" align="left">768 (64%)</td><td style="border:none;" align="left">1200
+(23%)</td><td style="border:none;" align="left">350 (13%)</td><td style="border:none;" align="left">225 (44%)</td><td style="border:none;" align="left">575 (28%)</td></tr><tr><td colspan="4" align="left">41</td><td style="border:none;" align="left">100 (75%)</td><td style="border:none;" align="left">125 (69%)</td><td style="border:none;" align="left">225 (72%)</td></tr><tr><td colspan="4" align="left">50</td><td style="border:none;" align="left">150
+(63%)</td><td style="border:none;" align="left">250 (38%)</td><td style="border:none;" align="left">400 (50%)</td></tr><tr><td colspan="4" align="left">55</td><td style="border:none;" align="left">100 (75%)</td><td style="border:none;" align="left">225 (44%)</td><td style="border:none;" align="left">325 (41%)</td></tr><tr><td colspan="4" align="left">78</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">0.5 (0.1%)</td></tr></tbody></table></table-wrap><p>The Nyquist plot of the Li|CSPE-10LLZTO|Li cell (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a), on the first day of testing
+at the OCV, shows a <italic>R</italic><sub>overall</sub> of 800 &#x003a9;
+cm<sup>2</sup> at 0.1 Hz, which was observed where the semicircle
+intersects the real axis (<italic>Z</italic>&#x02032;). 50% of <italic>R</italic><sub>overall</sub> is <italic>R</italic><sub>ct</sub> (400
+&#x003a9; cm<sup>2</sup>), and the other 50% is the <italic>R</italic><sub>interface</sub>. After 15 days of testing, the <italic>R</italic><sub>interface</sub> increased by 13%; however, the <italic>R</italic><sub>ct</sub> decreased by 44%. After 34 days of storage under the
+same conditions, the <italic>R</italic><sub>overall</sub> decreased
+to 575 &#x003a9; cm<sup>2</sup>, which is a drop of 28%. The <italic>R</italic><sub>interface</sub> fell by 13%, but <italic>R</italic><sub>ct</sub> stayed constant. The <italic>R</italic><sub>ct</sub> is decreasing more rapidly than the <italic>R</italic><sub>interface.</sub> We notice that despite the formation of the SEI, there was no increase
+in the <italic>R</italic><sub>overall</sub> of the CSPE-10LLZTO during
+the first month of storage time. It is normal for the <italic>R</italic><sub>interface</sub> to increase with time. However, the decrease
+in <italic>R</italic><sub>ct</sub> showed that the interface is still
+dynamic and wetting the electrode. After 41 days of testing, the <italic>R</italic><sub>overall</sub> dropped drastically from 28% (575 &#x003a9;
+cm<sup>2</sup>) to 72% (325 &#x003a9; cm<sup>2</sup>), while the <italic>R</italic><sub>ct</sub> and <italic>R</italic><sub>interface</sub> dropped by 69 and 75%, respectively. This precipitous decrease represents
+a soft short circuit (soft short) in the cell. After 55 days of testing,
+the <italic>R</italic><sub>overall</sub> increased by 44% (325 &#x003a9;
+cm<sup>2</sup>) from the last drop of 72% (225 &#x003a9; cm<sup>2</sup>) and the <italic>R</italic><sub>ct</sub> increased by 80%. However,
+the <italic>R</italic><sub>interface</sub> stayed the same, which
+implied that the interphase was completely nonexistent, and the electrolyte
+and lithium metal were completely wetted where the electrolyte behaved
+as a mixed conductor. The <italic>R</italic><sub>interface</sub> dynamically
+changes to lower resistances at both high and low impedances. That
+can cause electron leakage in some parts of the electrolyte. After
+78 days of testing, the overall resistance at high frequency was 0.5
+&#x003a9; cm<sup>2</sup> (a 100% drop), and the shape of the graph completely
+changed (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b).
+The fact that the plot appeared at the negative quadrant at high frequency
+indicated the presence of inductance, which caused the cell&#x02019;s
+electronic short circuit (hard-short) because of the growth of dendrites.
+A similar phenomenon has been observed in the literature with a symmetric
+ceramic cell made of Li|LLZTO|Li.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup></p><p>For comparison, CSPE-0LLZTO was also tested and showed a tremendous
+decrease in <italic>R</italic><sub>overall</sub>. We believe that
+the soft shorts are responsible for this acceleration in decreasing
+the <italic>R</italic><sub>overall</sub>, although the cells continue
+to cycle for 55 days. Dendrites&#x02019; growth erroneously showed
+improved Li|CSPE-0LLZTO interface contact. The SEI layer decreased
+with time, and the <italic>R</italic><sub>overall</sub> of the cell
+also decreased with time. After 52 days, the <italic>R</italic><sub>overall</sub> value was approximately 200 &#x003a9; cm<sup>2</sup>,
+and the <italic>R</italic><sub>interface</sub> completely disappeared.
+All the resistances (<italic>R</italic><sub>interface</sub>, <italic>R</italic><sub>ct</sub>) were dynamic and continuously changed with
+time toward lower resistance. Typically, impedance increases upon
+the formation of the SEI to protect the electrode from failure. In
+our case, the drastic decrease in resistance of the Li|CSPE-0LLZTO
+implies that a soft short took place through either electron leakage
+of the electrolyte via dendrite growth or wetting of the electrode
+surface. We do not believe a hard short circuit happened where the
+electrolyte behaves as a resistor. Instead, a mixed conductor with
+electronic and ionic conductions is more likely to result, which is
+a phenomenon that is common with polymer electrolytes upon soft short-circuiting.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup></p><p>Adding LLZTO beyond 10% did not further enhance the interfacial
+resistance, but there was an increase in ionic conductivity. A similar
+phenomenon has been observed in other architectures, where an increase
+in ionic conductivity does not necessarily lead to a stable interface.
+For example, in the Li/LLZTO/Li and Li/LLZT-2LiF/Li symmetrical cells
+at 25 &#x000b0;C, the Li/LLZT-2LiF/Li was found to have a lower interfacial
+resistance (345 &#x003a9;/cm<sup>2</sup>) compared to the Li/LLZT/Li
+(1260 &#x003a9;/cm<sup>2</sup>). However, the latter had a higher ionic
+conductivity.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup></p><p>The EIS results showed
+that the addition of LLZTO improved the
+stability of the interface. Numerous factors could enhance the interfacial
+stability including the strength of the electrolyte and the thickness
+of an insulating layer. It has been reported that LLZO with the nominal
+composition of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> is stable against molten lithium and lithium metal<sup><xref ref-type="bibr" rid="ref38">38</xref>&#x02212;<xref ref-type="bibr" rid="ref43">43</xref></sup> and that stability could significantly improve the <italic>R</italic><sub>overall</sub>. Indeed, a similar observation has been made in
+a Li/PEO-LLZTO/Li cell due to the gradual activation of the PEO/LLZTO
+electrolyte interface.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup></p><p>To investigate
+the efficiency of the CSPE-10LLZTO in an electrochemical
+system, galvanostatic plating and stripping of Li metal in symmetrical
+cells was performed at 40 &#x000b0;C and constant current densities of <italic>j</italic> = 50, 100, and 200 &#x003bc;A/cm<sup>2</sup>. The overpotentials
+produced by kinetic complications were measured to determine the extent
+of the electrochemical reaction in the time intervals of 2 h, where
+the polarity was reversing every hour. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> shows the lithium plating and stripping
+in the Li|CSPE-10LLZTO|Li cell at 50 &#x003bc;A/cm<sup>2</sup> for 200
+h. The first cycle started at an overpotential of 0.25 V but decreased
+to a stable potential of &#x0223c;0.20 V and stayed constant. That
+decrease in the overpotential implies improvement in the Li|CSPE-10LLZTO
+interface. An increase in polarization to 0.35 V was observed when
+the rate was increased to 100 &#x003bc;A/cm<sup>2</sup>. The overpotential
+remained constant at 0.35 V for 200 h in this case. The current density
+was further increased to 200 &#x003bc;A/cm<sup>2</sup>; again, the overpotential
+increased and stabilized to 0.50 V for over 200 h. Finally, to check
+the retention memory of the electrolyte, the current density was reduced
+to its initial rate of 50 &#x003bc;A/cm<sup>2</sup>, and the overpotential
+returned to its original value and stayed stable for an additional
+200 h. We observed no significant changes in the plating and stripping
+profiles at up to 200 &#x003bc;A/cm<sup>2</sup>. In case there was dendritic
+(short circuit) formation of Li metal, it would have been manifested
+by the appearance of a sharp polarization peak in the cycling process
+of Li symmetrical cell,<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> which was not
+observed in the Li|CSPE-10LLZTO|Li for over 800 h. This result provided
+good evidence about the compatibility of Li metal with the CSPE-10LLZTO.
+Increasing the current density to 400 &#x003bc;A/cm<sup>2</sup> showed
+a slight increase in overpotential for the CSPE-10LLZTO (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S5</ext-link>).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Li plating and stripping at 40 &#x000b0;C
+for (a) CSPE-10LLZTO from
+50 to 200 &#x003bc;m/cm<sup>2</sup>; (b) CSPE-0LLZTO 50 to 200 &#x003bc;m/cm<sup>2</sup>; graphs are enlarged from (c) 475 to 600 h, (d) 560 to 620,
+showing soft short and hard short, and (e) 550 to 600 h showing the
+soft short.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0005" id="gr5" position="float"/></fig><p>We also noticed that the shape
+of the voltage profile during charging
+is arching (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, inset b) instead of a sharp peak. That may be because the current
+density is very low, since we observe no sharp peak when a ceramic
+separator (Whatman GF separator) is filled with liquid electrolyte
+(LP30, Sigma-Aldrich) in a symmetric cell during the first charge
+at 50 &#x003bc;A/cm<sup>2</sup>. A sharp peak due to SEI formation is
+typically observed for liquid electrolytes, but we notice that we
+are working at a much lower current density. However, even at a current
+density of 400 &#x003bc;A/cm<sup>2</sup>, we did not observe a sharp
+peak during the first charging but rather an arching of the voltage
+profile. That explains the early tortuous pathway of the lithium-ion
+in the polymer matrix at the very beginning of the cycling process
+compared to the liquid electrolyte, where the arching appears much
+later in the cycling process of the liquid electrolyte, although it
+is strongly dependent on the current density.</p><p>For comparison,
+lithium plating and stripping of CSPE-0LLZTO were
+also performed at 50 &#x003bc;A/cm<sup>2</sup>. For the first cycle,
+the overpotential was 0.55 V, which is higher than the CSPE-10LLZTO
+under the same conditions, and the voltage continuously decreased
+with time while the current was kept constant. Between 550 and 560
+h (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c), the
+voltage dropped to &#x0223c;20 mV, indicating a soft short. However,
+after a few cycles, the overpotential returned to 0.3 V, and lithium
+plating and stripping continued. This type of phenomenon indicates
+that this cross-linked polymer matrix has self-healing properties.
+As the cell continued to cycle for an additional 30 h, the voltage
+dropped again, and this time to 5 mV at the same current density of
+200 &#x003bc;A/cm<sup>2</sup>, and the voltage profile was quite different.
+A flat plateau that makes the voltage profile look like a rectangle
+is observed (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d,e). The extremely low overpotential and the rectangular shape where
+the voltage and the current are at the same height also represent
+soft short. To check that the cell was indeed soft and short, EIS
+was carried out under the OCV conditions. As demonstrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S5</ext-link>, a spectrum was obtained showing an
+intercept at low frequency (0.1 Hz) of the real axis at 160 &#x003a9;/cm<sup>2</sup>; however, the <italic>R</italic><sub>interface</sub> is approaching
+zero resistance. The fact that a spectrum is observed represents ionic
+conduction. Therefore, the electrolyte behaves as a mixed conductor
+with localized soft shorts.</p><p>Comparing Li|CSPE-10LLZTO to the
+CSPE-0LLZTO interface, the <italic>R</italic><sub>overall</sub> and <italic>R</italic><sub>interface</sub> of CSPE-0LLZTO were significantly
+higher than those for the CSPE-10LLZTO,
+proving that the LLZTO plays a vital role in interfacial stability.
+Although ionic conductivity increased from CSPE-0LLZTO to CSPE-20LLZTO,
+it has been challenging to demonstrate that LLZTO is a conduit for
+lithium ions to improve ionic conductivity. As explained above, the
+ionic conductivity of these CSPEs tends to follow the VTF model, where
+the polymer matrix is the main conduction pathway. Although the NMR
+technique has shown that Li ions exchange at the PEO/LLZO interface,
+the diffusion was extremely high, which did not contribute to the
+overall conductivity.<sup><xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup></p></sec><sec id="sec3.6"><label>3.6</label><title>Full
+Cell Performances</title><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a shows the cyclic voltammetry
+of a full cell NMC|CSPE-10LLZTO|Li, which displays well-defined cathodic
+and anodic peaks at 3.61 and 4.24 V (versus Li<sup>+</sup>/Li), respectively.
+For comparison, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b shows the CV curves of the liquid cell. The first cycle represents
+the activation process of the material, and the second and third cycles
+showed a pair of cathodic/anodic peaks of NMC located at 3.7 and 3.87
+V (versus Li<sup>+</sup>/Li), as expected.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Cyclic voltammogram with
+a cutting-off voltage of 2.8&#x02013;4.4
+V at a rate of 0.2 mV/s of (a) NMC|CSPE-10LLZTO|Li and (b) NMC|Liquid
+electrolyte|Li; (c) charge&#x02013;discharge voltage profiles at 10
+mA/g at 40 &#x000b0;C and mass loading 1.165 mg/cm<sup>2</sup>; (d) capacity
+vs cycle number for NMC|CSPE-10LLZTO|Li.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0006" id="gr6" position="float"/></fig><p>All-solid-state full cell (NMC|CSPE-10LLZTO|Li) was assembled to
+assess the effectiveness of CSPE-10LLZTO as an electrolyte and separator
+with NMC as the cathode and Li metal as the anode. The active loading
+mass of the NMC was 1.165 mg/cm<sup>2</sup>. The cell was cycled at
+a constant current density of 10 mA/g, and the experiment was performed
+in the voltage range from 2.8 to 4.4 V at 40 &#x000b0;C. The initial
+charge represented the activation process of the cell. The solid-state
+cell delivered a discharge capacity of 140 mAh/g (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c). The specific capacity as
+a function of cycle number shows a loss in capacity with the cell
+cycle (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d).
+The Coulombic efficiency was approximately 80%.</p></sec><sec id="sec3.7"><label>3.7</label><title>Post-mortem Analysis</title><p>Post-mortem
+analysis was conducted for the CSPE-10LLZTO and CSPE-0LLZTO cells.
+For the CSPE-10LLZTO, <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref> shows that after plating and stripping for 800 h, the <italic>R</italic><sub>interface</sub> is reduced to &#x0223c;200 &#x003a9;
+cm<sup>2</sup> compared to 650 &#x003a9; cm<sup>2</sup> before cycling.
+Also, the <italic>R</italic><sub>overall</sub> is reduced from &#x0223c;925
+to &#x0223c;600 &#x003a9; cm<sup>2</sup> with no apparent changes to
+the shape of the impedance curves. The changes in the <italic>R</italic><sub>overall</sub> resistance after cycling imply an improvement
+in the wetting of the electrode, as can be seen in the plating and
+stripping. The decrease in the <italic>R</italic><sub>interface</sub> and <italic>R</italic><sub>ct</sub> with time was observed in CSPE-0LLZTO
+as well (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S6</ext-link>). For comparison, <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c shows the EIS of
+CSPE-0LLZTO as well as <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>. This phenomenon is similar to what we observed in the EIS-aged
+studies of all the samples at OCV at 40 &#x000b0;C. However, after cycling,
+the EIS showed lower resistance at low frequency. We believe that
+it is due to increased electronic conduction in the CSPE-0LLZTO cell.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>CSPE-10LLZTO
+before and after cycling (800 h) up to 200 &#x003bc;A/cm<sup>2</sup> at 40 &#x000b0;C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_0007" id="gr7" position="float"/></fig><p>The cross-sectional SEM
+showed intimate contact between the CSPE-10LLZTO
+electrolyte and the Li metal anode, as demonstrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S6</ext-link>. It is difficult to precisely measure
+the interface layer&#x02019;s thickness because of the cross-section&#x02019;s
+preparation method. Nevertheless, the thickness of the electrolyte
+decreased from the starting thickness of 230 &#x003bc;m. Also, the imperfection
+of the interface is apparent, as voids and gaps between the electrode
+and the electrolyte can be seen. Efforts to disassemble the Li|CSPE-0LLZTO|Li
+cell after cycling were unsuccessful because the electrolyte and Li
+anode could not be separated (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">Figure S7</ext-link>).</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>In this study, Li-ion-conducting
+solid electrolytes based on CSPE-<italic>x</italic>LLZTO with different
+concentrations of LLZTO showed excellent
+interfacial stability using the symmetric test. The CSPE-10LLZTO exhibits
+good ionic conductivity of 1.1 &#x000d7; 10<sup>&#x02013;4</sup> S/cm
+at 40 &#x000b0;C. An all-solid-state full cell, NMC|CSPE-10LLZTO|Li,
+has been assembled, which delivered a reversible discharge capacity
+of 140 mAh/g at 10 mA/g and 40 &#x000b0;C. Thus, cross-linking with added
+filler is an approach that could be used to create safe and reliable
+electrolytes to improve solid-state batteries. We also notice that
+the soft shorts play a significant role in the failure of the cells.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.4c08181?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.4c08181</ext-link>.<list id="silist" list-type="simple"><list-item><p>LLZTO XRD pattern; SEM
+picture LLZTO (400&#x02013;600
+nm); DSC measurements on the (a) CSPE-0LLZTO, (b) CSPE-10LLZTO, (c)
+CSPE-20LLZTO, and (d) CSPE-0LLZTO to study the thermal properties
+of the electrolyte; (e) Raman graphs of LLZTO CSPE-<italic>x</italic>LLZTO from 800 to 2000 cm<sup>&#x02013;1</sup>, and (f) 720&#x02013;760
+cm<sup>&#x02013;1</sup>; impedance graphs of SS|CSPE-0LLZTO|SS and
+SS|CSPE-20LLZTO|SS at 40 &#x000b0;C fitted with a simple electrical circuit
+model; plating and stripping of Li|CSPE-10LLZTO|Li at 40 &#x000b0;C and
+300 &#x003bc;A/cm<sup>2</sup>; increasing the current density up to
+400 &#x003bc;A cm<sup>&#x02013;2</sup> showed a slight increase in overpotential
+for the CSPE-10LLZTO; after cycling of Li|CSPE-0LLZTO|Li; digital
+images of cells after cycling and decrimping (a) CSPE-0LLZTO; (b)
+CSPE-10LLZTO; and (c) and the cross-section SEM between the CSPE-10LLZTO
+electrolyte and the Li metal anode after 800 h of cycling (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c08181/suppl_file/am4c08181_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c08181_si_001.pdf"><caption><p>am4c08181_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p>The manuscript
+was written through contributions of all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="COI-statement" id="notes3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This research was primarily supported
+by the financial
+support of the NASA-MIRO Program No. NNX15AP44A, which also supported
+Jere Williams. We thank the National Science Foundation (NSF) under
+Award No. 162-6449 (Instrument Award) for the Gloveboxes. Jada Adams
+would like to thank the NSF-Excellence in Research Award 210-0811
+for their financial support in synthesizing the cathode materials.
+Kutemwa Masafwa, Lingyu Yang, and Jennifer Schaefer would like to
+thank the NSF-Excellence in Research Award 210-0811 for their financial
+support in performing DSC and Raman spectroscopy. Dr. Meda would like
+to thank the Center for Mesoscale Transport Properties (m2M), an Energy
+Frontier Research Center supported by the U.S. Department of Energy,
+Office of Science, Basic Energy Sciences, under award #DE-SC0012673
+for their support of Ayssia Crockem and Jeremiah Tunis for the EIS
+studies and the modeling. NSF-PREM award 212-2058 for supporting Nila
+Beamon&#x02019;s work on the 20%LLZTO in polymer synthesis. We want
+to thank Dr. James Wu from NASA Glenn Research Center for performing
+some of the symmetric cell tests and ionic conductivity&#x0201d;.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>
+<article-title>A Solid Future for Battery Development</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16141</elocation-id><pub-id pub-id-type="doi">10.1038/nenergy.2016.141</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Armand</surname><given-names>M.</given-names></name>; <name><surname>Tarascon</surname><given-names>J. M.</given-names></name>
+<article-title>Building Better
+Batteries</article-title>. <source>Nature</source>
+<year>2008</year>, <volume>451</volume> (<issue>7179</issue>), <fpage>652</fpage>&#x02013;<lpage>657</lpage>. <pub-id pub-id-type="doi">10.1038/451652a</pub-id>.<pub-id pub-id-type="pmid">18256660</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Reviving the
+Lithium Metal Anode for High-Energy Batteries</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume> (<issue>3</issue>), <fpage>194</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2017.16</pub-id>.<pub-id pub-id-type="pmid">28265117</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Ma</surname><given-names>C.</given-names></name>; <name><surname>Chi</surname><given-names>M.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>
+<article-title>Solid Electrolyte:
+The Key for High-Voltage Lithium Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume> (<issue>4</issue>), <elocation-id>1401408</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201401408</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Varzi</surname><given-names>A.</given-names></name>; <name><surname>Raccichini</surname><given-names>R.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>
+<article-title>Challenges and Prospects
+of the Role of Solid Electrolytes in the Revitalization of Lithium
+Metal Batteries</article-title>. <source>Journal of Materials Chemistry
+A</source>
+<year>2016</year>, <volume>4</volume> (<issue>44</issue>), <fpage>17251</fpage>&#x02013;<lpage>17259</lpage>. <pub-id pub-id-type="doi">10.1039/C6TA07384K</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Croce</surname><given-names>F.</given-names></name>; <name><surname>Appetecchi</surname><given-names>G. B.</given-names></name>; <name><surname>Persi</surname><given-names>L.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>
+<article-title>Nanocomposite Polymer
+Electrolytes for Lithium Batteries</article-title>. <source>Nature</source>
+<year>1998</year>, <volume>394</volume> (<issue>6692</issue>), <fpage>456</fpage>&#x02013;<lpage>458</lpage>. <pub-id pub-id-type="doi">10.1038/28818</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Thangadurai</surname><given-names>V.</given-names></name>; <name><surname>Narayanan</surname><given-names>S.</given-names></name>; <name><surname>Pinzaru</surname><given-names>D.</given-names></name>
+<article-title>Garnet-Type Solid-State Fast Li Ion
+Conductors for Li Batteries: Critical Review</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2014</year>, <volume>43</volume> (<issue>13</issue>), <fpage>4714</fpage><pub-id pub-id-type="doi">10.1039/c4cs00020j</pub-id>.<pub-id pub-id-type="pmid">24681593</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Ramakumar</surname><given-names>S.</given-names></name>; <name><surname>Deviannapoorani</surname><given-names>C.</given-names></name>; <name><surname>Dhivya</surname><given-names>L.</given-names></name>; <name><surname>Shankar</surname><given-names>L. S.</given-names></name>; <name><surname>Murugan</surname><given-names>R.</given-names></name>
+<article-title>Lithium Garnets:
+Synthesis, Structure, Li + Conductivity, Li + Dynamics and Applications</article-title>. <source>Prog. Mater. Sci.</source>
+<year>2017</year>, <volume>88</volume>, <fpage>325</fpage>&#x02013;<lpage>411</lpage>. <pub-id pub-id-type="doi">10.1016/j.pmatsci.2017.04.007</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>S.-P.</given-names></name>; <name><surname>Fan</surname><given-names>L.-Z.</given-names></name>; <name><surname>Nan</surname><given-names>C.-W.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Peo/Garnet
+Composite Electrolytes for Solid-State Lithium Batteries: From &#x0201c;Ceramic-in-Polymer&#x0201d;
+to &#x0201c;Polymer-in-Ceramic</article-title>. <source>Nano Energy</source>
+<year>2018</year>, <volume>46</volume>, <fpage>176</fpage>&#x02013;<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2017.12.037</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Chen</surname><given-names>R.-J.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.-B.</given-names></name>; <name><surname>Liu</surname><given-names>T.</given-names></name>; <name><surname>Xu</surname><given-names>B.-Q.</given-names></name>; <name><surname>Lin</surname><given-names>Y.-H.</given-names></name>; <name><surname>Nan</surname><given-names>C.-W.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>
+<article-title>Addressing
+the Interface Issues in
+All-Solid-State Bulk-Type Lithium Ion Battery Via an All-Composite
+Approach</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume> (<issue>11</issue>), <fpage>9654</fpage>&#x02013;<lpage>9661</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b16304</pub-id>.<pub-id pub-id-type="pmid">28244733</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Nie</surname><given-names>L.</given-names></name>; <name><surname>Hu</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Yu</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>
+<article-title>All-Solid-State Batteries with a Limited Lithium Metal
+Anode at Room Temperature Using a Garnet-Based Electrolyte</article-title>. <source>Adv. Mater.</source>
+<year>2021</year>, <volume>33</volume> (<issue>1</issue>), <elocation-id>2002325</elocation-id><pub-id pub-id-type="doi">10.1002/adma.202002325</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Croce</surname><given-names>F.</given-names></name>; <name><surname>Persi</surname><given-names>L.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Serraino-Fiory</surname><given-names>F.</given-names></name>; <name><surname>Plichta</surname><given-names>E.</given-names></name>; <name><surname>Hendrickson</surname><given-names>M. A.</given-names></name>
+<article-title>Role of the Ceramic Fillers in Enhancing
+the Transport Properties of Composite Polymer Electrolytes</article-title>. <source>Electrochim. Acta</source>
+<year>2001</year>, <volume>46</volume>, <fpage>2457</fpage><pub-id pub-id-type="doi">10.1016/S0013-4686(01)00458-3</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Fu</surname><given-names>K. K.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; <name><surname>Gong</surname><given-names>A.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Wachsman</surname><given-names>E. D.</given-names></name>; <name><surname>Hu</surname><given-names>L.</given-names></name>
+<article-title>Flexible, Solid-State, Ion-Conducting
+Membrane with 3d Garnet Nanofiber Networks for Lithium Batteries</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2016</year>, <volume>113</volume> (<issue>26</issue>), <fpage>7094</fpage>&#x02013;<lpage>7099</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1600422113</pub-id>.<pub-id pub-id-type="pmid">27307440</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>He</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>B.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Fan</surname><given-names>L.-Z.</given-names></name>
+<article-title>Flexible
+Poly(Ethylene Carbonate)/Garnet Composite Solid Electrolyte Reinforced
+by Poly(Vinylidene Fluoride-Hexafluoropropylene) for Lithium Metal
+Batteries</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>392</volume>, <fpage>232</fpage>&#x02013;<lpage>238</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.05.006</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Horowitz</surname><given-names>Y.</given-names></name>; <name><surname>Lifshitz</surname><given-names>M.</given-names></name>; <name><surname>Greenbaum</surname><given-names>A.</given-names></name>; <name><surname>Feldman</surname><given-names>Y.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S.</given-names></name>; <name><surname>Sokolov</surname><given-names>A. P.</given-names></name>; <name><surname>Golodnitsky</surname><given-names>D.</given-names></name>
+<article-title>Review&#x02014;Polymer/Ceramic
+Interface
+Barriers: The Fundamental Challenge for Advancing Composite Solid
+Electrolytes for Li-Ion Batteries</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2020</year>, <volume>167</volume> (<issue>16</issue>), <elocation-id>160514</elocation-id><pub-id pub-id-type="doi">10.1149/1945-7111/abcd12</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Huang</surname><given-names>F.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>P.</given-names></name>; <name><surname>Ning</surname><given-names>J.</given-names></name>; <name><surname>Wei</surname><given-names>Q.</given-names></name>
+<article-title>Electrochemical Properties
+of Llto/Fluoropolymer-Shell Cellulose-Core Fibrous Membrane for Separator
+of High Performance Lithium-Ion Battery</article-title>. <source>Materials</source>
+<year>2016</year>, <volume>9</volume> (<issue>2</issue>), <fpage>75</fpage><pub-id pub-id-type="doi">10.3390/ma9020075</pub-id>.<pub-id pub-id-type="pmid">28787873</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Zhan</surname><given-names>X.</given-names></name>; <name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Gao</surname><given-names>S.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Cheng</surname><given-names>Y. T.</given-names></name>
+<article-title>Improving Ionic Conductivity with
+Bimodal-Sized Li7la3zr2o12 Fillers for Composite Polymer Electrolytes</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume> (<issue>13</issue>), <fpage>12467</fpage>&#x02013;<lpage>12475</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b21770</pub-id>.<pub-id pub-id-type="pmid">30855127</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Yang</surname><given-names>T.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Hu</surname><given-names>Y.-Y.</given-names></name>; <name><surname>Chan</surname><given-names>C. K.</given-names></name>
+<article-title>Composite
+Polymer Electrolytes with Li7la3zr2o12 Garnet-Type Nanowires as Ceramic
+Fillers: Mechanism of Conductivity Enhancement and Role of Doping
+and Morphology</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume> (<issue>26</issue>), <fpage>21773</fpage>&#x02013;<lpage>21780</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b03806</pub-id>.<pub-id pub-id-type="pmid">28598143</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zang</surname><given-names>X.</given-names></name>; <name><surname>Wen</surname><given-names>H.</given-names></name>; <name><surname>Dong</surname><given-names>T.</given-names></name>; <name><surname>Chai</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>B.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Dong</surname><given-names>S.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Yue</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>
+<article-title>High-Voltage
+and Free-Standing Poly(Propylene Carbonate)/Li6.75la3zr1.75ta0.25o12
+Composite Solid Electrolyte for Wide Temperature Range and Flexible
+Solid Lithium Ion Battery</article-title>. <source>Journal of Materials
+Chemistry A</source>
+<year>2017</year>, <volume>5</volume> (<issue>10</issue>), <fpage>4940</fpage>&#x02013;<lpage>4948</lpage>. <pub-id pub-id-type="doi">10.1039/C6TA10066J</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Nan</surname><given-names>C.-W.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>
+<article-title>Synergistic Coupling
+between Li6.75la3zr1.75ta0.25o12 and Poly(Vinylidene Fluoride) Induces
+High Ionic Conductivity, Mechanical Strength, and Thermal Stability
+of Solid Composite Electrolytes</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2017</year>, <volume>139</volume> (<issue>39</issue>), <fpage>13779</fpage>&#x02013;<lpage>13785</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.7b06364</pub-id>.<pub-id pub-id-type="pmid">28898065</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Tang</surname><given-names>M.</given-names></name>; <name><surname>Hu</surname><given-names>Y.-Y.</given-names></name>
+<article-title>Lithium Ion Pathway within Li7la3zr2o12-Polyethylene
+Oxide Composite Electrolytes</article-title>. <source>Angew. Chem.,
+Int. Ed.</source>
+<year>2016</year>, <volume>55</volume> (<issue>40</issue>), <fpage>12538</fpage>&#x02013;<lpage>12542</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201607539</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>N.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Chu</surname><given-names>P. K.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Di</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>
+<article-title>Flexible and Ion-Conducting
+Membrane Electrolytes for Solid-State Lithium Batteries: Dispersion
+of Garnet Nanoparticles in Insulating Polyethylene Oxide</article-title>. <source>Nano Energy</source>
+<year>2016</year>, <volume>28</volume>, <fpage>447</fpage>&#x02013;<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2016.09.002</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Guo</surname><given-names>Q.</given-names></name>; <name><surname>Xu</surname><given-names>F.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>He</surname><given-names>H.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>Poly(Ethylene Glycol) Brush on Li6.4la3zr1.4ta0.6o12
+Towards Intimate
+Interfacial Compatibility in Composite Polymer Electrolyte for Flexible
+All-Solid-State Lithium Metal Batteries</article-title>. <source>J.
+Power Sources</source>
+<year>2021</year>, <volume>498</volume>, <elocation-id>229934</elocation-id><pub-id pub-id-type="doi">10.1016/j.jpowsour.2021.229934</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>; <name><surname>Guo</surname><given-names>Q.</given-names></name>; <name><surname>He</surname><given-names>H.</given-names></name>; <name><surname>Yao</surname><given-names>X.</given-names></name>
+<article-title>Synergistic Effects of Plasticizer
+and 3d Framework toward High-Performance
+Solid Polymer Electrolyte for Room-Temperature Solid-State Lithium
+Batteries</article-title>. <source>ACS Applied Energy Materials</source>
+<year>2021</year>, <volume>4</volume> (<issue>4</issue>), <fpage>4129</fpage>&#x02013;<lpage>4137</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.1c00468</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Mindemark</surname><given-names>J.</given-names></name>; <name><surname>Lacey</surname><given-names>M. J.</given-names></name>; <name><surname>Bowden</surname><given-names>T. M.</given-names></name>; <name><surname>Brandell</surname><given-names>D.</given-names></name>
+<article-title>Beyond Peo&#x02014;Alternative
+Host Materials for Li + -Conducting Solid Polymer Electrolytes</article-title>. <source>Prog. Polym. Sci.</source>
+<year>2018</year>, <fpage>1</fpage>.<pub-id pub-id-type="pmid">31915410</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Lingua</surname><given-names>G.</given-names></name>; <name><surname>Grysan</surname><given-names>P.</given-names></name>; <name><surname>Vlasov</surname><given-names>P. S.</given-names></name>; <name><surname>Verge</surname><given-names>P.</given-names></name>; <name><surname>Shaplov</surname><given-names>A. S.</given-names></name>; <name><surname>Gerbaldi</surname><given-names>C.</given-names></name>
+<article-title>Unique Carbonate-Based
+Single Ion Conducting Block
+Copolymers Enabling High-Voltage, All-Solid-State Lithium Metal Batteries</article-title>. <source>Macromolecules</source>
+<year>2021</year>, <volume>54</volume> (<issue>14</issue>), <fpage>6911</fpage>&#x02013;<lpage>6924</lpage>. <pub-id pub-id-type="doi">10.1021/acs.macromol.1c00981</pub-id>.<pub-id pub-id-type="pmid">34475591</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Paranjape</surname><given-names>N.</given-names></name>; <name><surname>Mandadapu</surname><given-names>P. C.</given-names></name>; <name><surname>Wu</surname><given-names>G.</given-names></name>; <name><surname>Lin</surname><given-names>H.</given-names></name>
+<article-title>Highly-Branched Cross-Linked
+Poly(Ethylene Oxide) with Enhanced Ionic Conductivity</article-title>. <source>Polymer</source>
+<year>2017</year>, <volume>111</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.polymer.2017.01.014</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Grundish</surname><given-names>N. S.</given-names></name>; <name><surname>Chien</surname><given-names>P.-H.</given-names></name>; <name><surname>Dong</surname><given-names>K.</given-names></name>; <name><surname>Manke</surname><given-names>I.</given-names></name>; <name><surname>Fang</surname><given-names>R.</given-names></name>; <name><surname>Wu</surname><given-names>N.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Dolocan</surname><given-names>A.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Interfacial Chemistry Enables Stable
+Cycling of All-Solid-State Li Metal Batteries at High Current Densities</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2021</year>, <volume>143</volume> (<issue>17</issue>), <fpage>6542</fpage>&#x02013;<lpage>6550</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.1c00752</pub-id>.<pub-id pub-id-type="pmid">33904722</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Williams</surname><given-names>J. A.</given-names></name>; <name><surname>Pandey</surname><given-names>G. P.</given-names></name>; <name><surname>Meda</surname><given-names>L.</given-names></name>
+<article-title>Poly (Propylene Carbonate)
+Interpenetrating Cross-Linked Poly (Ethylene Glycol) Based Polymer
+Electrolyte for Solid-State Lithium Batteries</article-title>. <source>ECS Trans.</source>
+<year>2018</year>, <volume>85</volume> (<issue>13</issue>), <fpage>53</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1149/08513.0053ecst</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Appetecchi</surname><given-names>G. B.</given-names></name>; <name><surname>Croce</surname><given-names>F.</given-names></name>; <name><surname>Dautzenberg</surname><given-names>G.</given-names></name>; <name><surname>Mastragostino</surname><given-names>M.</given-names></name>; <name><surname>Ronci</surname><given-names>F.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Soavi</surname><given-names>F.</given-names></name>; <name><surname>Zanelli</surname><given-names>A.</given-names></name>; <name><surname>Alessandrini</surname><given-names>F.</given-names></name>; <name><surname>Prosini</surname><given-names>P. P.</given-names></name>
+<article-title>Composite Polymer Electrolytes with
+Improved Lithium Metal Electrode Interfacial Properties: I. Elechtrochemical
+Properties of Dry Peo-Lix Systems</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>1998</year>, <volume>145</volume> (<issue>12</issue>), <fpage>4126</fpage>&#x02013;<lpage>4132</lpage>. <pub-id pub-id-type="doi">10.1149/1.1838925</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Khurana</surname><given-names>R.</given-names></name>; <name><surname>Schaefer</surname><given-names>J. L.</given-names></name>; <name><surname>Archer</surname><given-names>L. A.</given-names></name>; <name><surname>Coates</surname><given-names>G. W.</given-names></name>
+<article-title>Suppression of Lithium
+Dendrite Growth Using Cross-Linked Polyethylene/Poly(Ethylene Oxide)
+Electrolytes: A New Approach for Practical Lithium-Metal Polymer Batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume> (<issue>20</issue>), <fpage>7395</fpage>&#x02013;<lpage>7402</lpage>. <pub-id pub-id-type="doi">10.1021/ja502133j</pub-id>.<pub-id pub-id-type="pmid">24754503</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Tenhaeff</surname><given-names>W. E.</given-names></name>
+<article-title>Thermally and Oxidatively
+Stable Polymer Electrolyte
+for Lithium Batteries Enabled by Phthalate Plasticization</article-title>. <source>ACS Applied Polymer Materials</source>
+<year>2020</year>, <volume>2</volume> (<issue>1</issue>), <fpage>80</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1021/acsapm.9b00986</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Bouchet</surname><given-names>R.</given-names></name>; <name><surname>Lascaud</surname><given-names>S.</given-names></name>; <name><surname>Rosso</surname><given-names>M.</given-names></name>
+<article-title>An Eis Study
+of the Anode Li/Peo-Litfsi
+of a Li Polymer Battery</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2003</year>, <volume>150</volume> (<issue>10</issue>), <fpage>A1385</fpage><pub-id pub-id-type="doi">10.1149/1.1609997</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Cheng</surname><given-names>E. J.</given-names></name>; <name><surname>Sharafi</surname><given-names>A.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>Intergranular
+Li Metal Propagation
+through Polycrystalline Li6.25al0.25la3zr2o12 Ceramic Electrolyte</article-title>. <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>223</volume>, <fpage>85</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2016.12.018</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Counihan</surname><given-names>M. J.</given-names></name>; <name><surname>Chavan</surname><given-names>K. S.</given-names></name>; <name><surname>Barai</surname><given-names>P.</given-names></name>; <name><surname>Powers</surname><given-names>D. J.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Srinivasan</surname><given-names>V.</given-names></name>; <name><surname>Tepavcevic</surname><given-names>S.</given-names></name>
+<article-title>The Phantom Menace of Dynamic Soft-Shorts
+in Solid-State Battery Research</article-title>. <source>Joule</source>
+<year>2024</year>, <volume>8</volume> (<issue>1</issue>), <fpage>64</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2023.11.007</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Yue</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Chai</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Guo</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>
+<article-title>Safety-Reinforced Poly(Propylene Carbonate)-Based All-Solid-State
+Polymer Electrolyte for Ambient-Temperature Solid Polymer Lithium
+Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume> (<issue>24</issue>), <elocation-id>1501082</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201501082</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Duan</surname><given-names>H.</given-names></name>; <name><surname>L&#x000fc;</surname><given-names>X.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Xue</surname><given-names>L.</given-names></name>; <name><surname>Fu</surname><given-names>G.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Hybrid Polymer/Garnet Electrolyte with a Small Interfacial
+Resistance for Lithium-Ion Batteries</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<year>2017</year>, <volume>56</volume> (<issue>3</issue>), <fpage>753</fpage>&#x02013;<lpage>756</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201608924</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Murugan</surname><given-names>R.</given-names></name>; <name><surname>Thangadurai</surname><given-names>V.</given-names></name>; <name><surname>Weppner</surname><given-names>W.</given-names></name>
+<article-title>Fast Lithium Ion Conduction in Garnet-Type
+Li7la3zr2o12</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2007</year>, <volume>46</volume> (<issue>41</issue>), <fpage>7778</fpage>&#x02013;<lpage>7781</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200701144</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Kim</surname><given-names>Y.</given-names></name>; <name><surname>Yoo</surname><given-names>A.</given-names></name>; <name><surname>Schmidt</surname><given-names>R.</given-names></name>; <name><surname>Sharafi</surname><given-names>A.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Wolfenstine</surname><given-names>J.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>Electrochemical Stability of Li6.5la3zr1.5m0.5o12 (M
+= Nb or Ta) against Metallic Lithium</article-title>. <source>Front.
+Energy Res.</source>
+<year>2016</year>, <volume>4</volume> (<issue>20</issue>), <fpage>20</fpage><pub-id pub-id-type="doi">10.3389/fenrg.2016.00020</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Nemori</surname><given-names>H.</given-names></name>; <name><surname>Matsuda</surname><given-names>Y.</given-names></name>; <name><surname>Mitsuoka</surname><given-names>S.</given-names></name>; <name><surname>Matsui</surname><given-names>M.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>
+<article-title>Stability
+of Garnet-Type Solid Electrolyte
+Lixla3a2-Ybyo12 (a = Nb or Ta, B = Sc or Zr)</article-title>. <source>Solid State Ionics</source>
+<year>2015</year>, <volume>282</volume>, <fpage>7</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2015.09.015</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Imanishi</surname><given-names>N.</given-names></name>; <name><surname>Matsui</surname><given-names>M.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>
+<article-title>Lithium Ion
+Conducting
+Solid Electrolytes for Aqueous Lithium-Air Batteries</article-title>. <source>Electrochemistry</source>
+<year>2014</year>, <volume>82</volume> (<issue>11</issue>), <fpage>938</fpage>&#x02013;<lpage>945</lpage>. <pub-id pub-id-type="doi">10.5796/electrochemistry.82.938</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Ohta</surname><given-names>S.</given-names></name>; <name><surname>Kobayashi</surname><given-names>T.</given-names></name>; <name><surname>Asaoka</surname><given-names>T.</given-names></name>
+<article-title>High Lithium Ionic Conductivity in
+the Garnet-Type Oxide Li7&#x02013;X La3(Zr2&#x02013;X, Nbx)O12 (X =
+0&#x02013;2)</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume> (<issue>6</issue>), <fpage>3342</fpage>&#x02013;<lpage>3345</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.11.089</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Ishiguro</surname><given-names>K.</given-names></name>; <name><surname>Nemori</surname><given-names>H.</given-names></name>; <name><surname>Sunahiro</surname><given-names>S.</given-names></name>; <name><surname>Nakata</surname><given-names>Y.</given-names></name>; <name><surname>Sudo</surname><given-names>R.</given-names></name>; <name><surname>Matsui</surname><given-names>M.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>
+<article-title>Ta-Doped Li7la3zr2o12for
+Water-Stable Lithium Electrode of Lithium-Air Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2014</year>, <volume>161</volume> (<issue>5</issue>), <fpage>A668</fpage>&#x02013;<lpage>A674</lpage>. <pub-id pub-id-type="doi">10.1149/2.013405jes</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>N.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Chu</surname><given-names>P. K.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Di</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>
+<article-title>Flexible and Ion-Conducting
+Membrane Electrolytes for Solid-State Lithium Batteries</article-title>. <source>Dispersion of garnet nanoparticles in insulating polyethylene
+oxide</source>
+<year>2016</year>, <volume>28</volume>, <fpage>447</fpage>&#x02013;<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2016.09.002</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Wood</surname><given-names>K. N.</given-names></name>; <name><surname>Kazyak</surname><given-names>E.</given-names></name>; <name><surname>Chadwick</surname><given-names>A. F.</given-names></name>; <name><surname>Chen</surname><given-names>K.-H.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>; <name><surname>Thornton</surname><given-names>K.</given-names></name>; <name><surname>Dasgupta</surname><given-names>N. P.</given-names></name>
+<article-title>Dendrites and Pits: Untangling the
+Complex Behavior of Lithium Metal Anodes through Operando Video Microscopy</article-title>. <source>ACS Central Science</source>
+<year>2016</year>, <volume>2</volume> (<issue>11</issue>), <fpage>790</fpage>&#x02013;<lpage>801</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.6b00260</pub-id>.<pub-id pub-id-type="pmid">27924307</pub-id>
+</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Zag&#x000f3;rski</surname><given-names>J.</given-names></name>; <name><surname>Silv&#x000e1;n</surname><given-names>B.</given-names></name>; <name><surname>Saurel</surname><given-names>D.</given-names></name>; <name><surname>Aguesse</surname><given-names>F.</given-names></name>; <name><surname>Llord&#x000e9;s</surname><given-names>A.</given-names></name>
+<article-title>Importance
+of Composite Electrolyte Processing to Improve the Kinetics and Energy
+Density of Li Metal Solid-State Batteries</article-title>. <source>ACS
+Applied Energy Materials</source>
+<year>2020</year>, <volume>3</volume> (<issue>9</issue>), <fpage>8344</fpage>&#x02013;<lpage>8355</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c00935</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Zag&#x000f3;rski</surname><given-names>J.</given-names></name>; <name><surname>L&#x000f3;pez del Amo</surname><given-names>J. M.</given-names></name>; <name><surname>Cordill</surname><given-names>M. J.</given-names></name>; <name><surname>Aguesse</surname><given-names>F.</given-names></name>; <name><surname>Buannic</surname><given-names>L.</given-names></name>; <name><surname>Llord&#x000e9;s</surname><given-names>A.</given-names></name>
+<article-title>Garnet&#x02013;Polymer
+Composite Electrolytes:
+New Insights on Local Li-Ion Dynamics and Electrodeposition Stability
+with Li Metal Anodes</article-title>. <source>ACS Applied Energy Materials</source>
+<year>2019</year>, <volume>2</volume> (<issue>3</issue>), <fpage>1734</fpage>&#x02013;<lpage>1746</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.8b01850</pub-id>.</mixed-citation></ref></ref-list></back></article>

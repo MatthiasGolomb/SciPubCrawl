@@ -1,0 +1,842 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12022949</article-id><article-id pub-id-type="pmid">40101236</article-id>
+<article-id pub-id-type="doi">10.1021/acsami.4c22501</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Enhancing Anode-Free
+Battery Performance with Self-Healing
+Single-Ion Conducting PAMPS-<italic>co</italic>-PBA Copolymer Interfaces</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Chung</surname><given-names>Chia-Huan</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4093-9093</contrib-id><name><surname>Wu</surname><given-names>Liang-Ting</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes2" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Sentosa</surname><given-names>Daniel Muara</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Ho</surname><given-names>Chun-Chieh</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5990-662X</contrib-id><name><surname>Chi</surname><given-names>Po-Wei</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Hsu</surname><given-names>Wen-Chia</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Yeh</surname><given-names>Kuo-Wei</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath8"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0000-7817-9141</contrib-id><name><surname>Chang</surname><given-names>Chung-Chieh</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath9"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3873-2149</contrib-id><name><surname>Hwang</surname><given-names>Bing Joe</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath10"><name><surname>Wu</surname><given-names>Maw-Kuen</given-names></name><xref rid="cor4" ref-type="other">*</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath11"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4225-5250</contrib-id><name><surname>Jiang</surname><given-names>Jyh-Chiang</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3379-1764</contrib-id><name><surname>Hu</surname><given-names>Chien-Chieh</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4812-5681</contrib-id><name><surname>Chiu</surname><given-names>Yu-Cheng</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Graduate
+Institute of Applied Science and Technology, <institution>National Taiwan University of Science and Technology</institution>, No. 43 Keelung Road, Sec 4, Taipei 10607, <country>Taiwan</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Chemical Engineering, <institution>National Taiwan
+University of Science and Technology</institution>, No. 43 Keelung Road, Sec 4, Taipei 10607, <country>Taiwan</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>Institute
+of Physics, Academia Sinica</institution>, No. 128, Section 2, Academia Road, Taipei 11529, <country>Taiwan</country></aff><aff id="aff4"><label>&#x02225;</label>Department
+of Mechanical Engineering, <institution>Chung Yuan Christian
+University</institution>, No. 200, Chungpei Road, Chungli District, Taoyuan, 32023, <country>Taiwan</country></aff><aff id="aff5"><label>&#x022a5;</label><institution>GUS
+Technology</institution>, Taoyuan, 32063, <country>Taiwan</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>ycchiu@mail.ntust.edu.tw</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>cchu@mail.ntust.edu.tw</email>.</corresp><corresp id="cor3"><label>*</label>E-mail: <email>jcjiang@mail.ntust.edu.tw</email>.</corresp><corresp id="cor4"><label>*</label>E-mail: <email>mkwu@phys.sinica.edu.tw</email>.</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>03</month><year>2025</year></pub-date><pub-date pub-type="collection"><day>23</day><month>04</month><year>2025</year></pub-date><volume>17</volume><issue>16</issue><fpage>23872</fpage><lpage>23884</lpage><history><date date-type="received"><day>21</day><month>12</month><year>2024</year></date><date date-type="accepted"><day>10</day><month>03</month><year>2025</year></date><date date-type="rev-recd"><day>09</day><month>03</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0009" id="ab-tgr1"/></p><p>The design of anode-free batteries presents an attractive
+approach
+to the lithium metal battery. However, challenges such as uneven plating
+of lithium and poor Coulombic efficiency limit their commercially
+viable applications. In response to these challenges, this study introduces
+poly{(2-acrylamido-2-methylpropanesulfonic acid)-<italic>co</italic>-(butyl acrylate)} (PAMPS-<italic>co</italic>-PBA), an artificial
+interface engineered to enhance the cyclic stability of batteries
+by fortifying the solid electrolyte interphase (SEI) and enabling
+self-healing and single-ion conductivity. Synthesis outcomes, validated
+by FTIR and <sup>1</sup>H NMR spectra, demonstrate successful production
+of PAMPS-<italic>co</italic>-PBA. Experimental results, including
+analyses of surface morphology, tensile strength, and Li plating/stripping
+tests, demonstrate the effectiveness of PAMPS-<italic>co</italic>-PBA
+in preventing dendrite formation and achieving &#x0003e;99% Coulombic efficiency.
+SEM analysis reveals better surface morphology and minimal lithium
+deposits for PAMPS-<italic>co</italic>-PBA compared with bare copper
+and other alternative interfaces. XPS analysis confirms the self-healing
+and single-ion conducting attributes of PAMPS-<italic>co</italic>-PBA
+postcycling. Density functional theory calculations elucidates the
+interface&#x02019;s behavior, confirming a pathway for Li-ion movement
+facilitated by the sulfonic acid group. Ab initio molecular dynamics
+simulations highlight the potential for SEI formation, shedding light
+on the influence of LiTFSI on interface protection. Anode-free full
+cell testing demonstrates PAMPS-<italic>co</italic>-PBA enhancement
+in stability over bare copper, with 1.6 times capacity retention over
+50 cycles, primarily attributed to self-healing and dendrite suppression.
+Nonetheless, observed capacity fading after prolonged cycling suggests
+the optimization of Li salt choice. Overall, PAMPS-<italic>co</italic>-PBA presents a promising solution for enhancing battery performance
+through advanced interface engineering.</p></abstract><kwd-group><kwd>Li-metal batteries</kwd><kwd>Anode-free</kwd><kwd>Copolymer</kwd><kwd>Self-healing</kwd><kwd>Single-ion conducting</kwd><kwd>Artificial
+interface</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science and Technology Council</institution><institution-id institution-id-type="doi">10.13039/501100020950</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministry of Education of Taiwan</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Executive Yuan, Republic of China (Taiwan)</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>AS-FLI-110-LI</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am4c22501</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am4c22501</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Increasing demand for electronic devices
+requires an escalation
+in the research and production of energy storage systems, such as
+batteries. As more advancements have been made in this direction,
+pursuing lighter batteries with a higher capacity is an emerging trend.
+Batteries employing graphite as the anode face an inherent limitation
+of a relatively low energy density ranging from 250 to 350 Wh kg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Currently, the electric vehicle
+market expects an energy density greater than 500 Wh kg<sup>&#x02013;1</sup> to meet full-scale applications.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Thus,
+research has focused on anode materials such as silicon, germanium,
+lithium, etc.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref5">5</xref></sup> In order to achieve the needed
+energy density, a lithium metal battery was considered the most attractive
+candidate with its low electrochemical redox potential (&#x02212;3.04
+V vs SHE)<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> and ultrahigh theoretical specific
+capacity (3860 mAh g<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> To further elevate the energy density, the concept of anode-free
+batteries has been introduced. In contrast to traditional lithium
+batteries, anode-free batteries require an excess of lithium to ensure
+extended operation,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> demanding high Coulombic
+efficiency for sustained battery operation over an extended duration.
+Despite this challenge, anode-free batteries bring increased energy
+density (38.5%) and volumetric energy density (85.5%).<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> This advancement aligns with consumer expectations for
+lighter weight and long-lasting batteries.</p><p>While anode-free
+batteries offer impressive energy density, there
+are challenges hindering their commercial use. The depletable lithium
+is supplied by cathode materials, such as LiFePO<sub>4</sub> (LFP)
+or LiNiCoMnO<sub>2</sub> (NCM),<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> which are plated on a current collector during the charging process.
+Simultaneously, the highly reactive lithium metal reacts with the
+electrolyte, creating a solid electrolyte interphase (SEI) on the
+lithium surface. This interface is prone to cracking and rebuilding,
+as the lithium volume fluctuates during charge and discharge processes.
+When lithium ions are consumed by parasitic reactions, it leads to
+low Coulombic efficiency. Moreover, nonuniform lithium plating increases
+the risk of a short-circuit due to lithium dendrite permeation. Over
+the past 20 years, several strategies to maintain a long-term operation
+have been derived to hinder lithium metal growth, including 3D framework
+design,<sup><xref ref-type="bibr" rid="ref11">11</xref>&#x02212;<xref ref-type="bibr" rid="ref13">13</xref></sup> electrolyte optimization,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> and artificial interfaces.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> 3D framework designs
+are made to enhance volumetric fluctuation and charge distribution,
+effectively suppressing dendrite formation.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> However, these designs may lead to reduced energy density and excessive
+electrolyte consumption due to the increase in the surface area.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> On the other side, electrolyte optimization and
+an artificial interface would effectively reduce the electrolyte consumption
+issue. Electrolyte optimization, through compositional or concentration
+adjustments, aims to maintain lithium-ion concentration in the electrolyte.<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup> Utilizing specific lithium salts can generate inorganic SEI layer,
+rich in lithium-conductive derivatives, which is hypothesized to reduce
+nucleation overpotential and promote uniform lithium deposition.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> Nevertheless, high concentration
+electrolytes present another challenge on the reduction of ionic conductivity
+due to a viscosity increase.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Moreover,
+ruptured SEI from volume fluctuation would occur due to insufficient
+SEI mechanical strength.</p><p>Artificial interfaces represent a key
+strategy that provides mechanical
+strength and chemical stability to counter the fluctuating volume
+and the high reactivity of lithium metal, respectively. The tight
+interface prevents the exposure of fresh lithium, repetitive SEI formation,
+and suppressing lithium dendrites, resulting in a significantly enhanced
+battery life cycle.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> However, the high
+mechanical strength of the interface does not adequately prevent the
+formation of lithium dendrites. Liu et al. highlighted the importance
+of artificial interfaces with high ionic conductivity in controlling
+concentration polarization and current density, which are crucial
+factors in postponing dendrite formation.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> To address the dual requirements of mechanical robustness and high
+ionic conductivity, copolymer-based modifications such ethylene-vinyl
+acetate have been investigated.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The ether
+segments provide high ionic conductivity by a lone pair from oxygen,
+while ethylene segments enhance mechanical flexibility by a long chain.
+Utilization of various properties from different monomer variations
+is expected to improve mechanical flexibility while ensuring essential
+ionic conductivity, leading to effective dendrite suppression. However,
+artificial interfaces remain easily ruptured due to lithium volume
+fluctuations during cycling. Self-healing polymers have been regarded
+as a potential solution to repair any interfacial damage during volume
+fluctuation.<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> However, current applications of copolymer interface
+still focus primarily on lithium metal and silicon electrodes.<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup></p><p>Thus, a workable artificial interface needs to be mechanically
+flexible to resist the permeation of lithium dendrites and has the
+feature of enduring volume changes. To tackle interfacial strength
+problems, we propose self-healing and single-ion conductivity as an
+artificial interface. 2-Acrylamido-2-methylpropanesulfonic acid (AMPS)
+has been identified as a material that exhibits both of these behaviors.
+However, the polymer derived from AMPS lacked softness and was prone
+to shattering. To address the mechanical shortcomings of AMPS, we
+incorporated the softness of butyl acrylate (BA). The polymer derived
+from BA had a soft network that cannot withstand volumetric fluctuations
+in lithium metal, potentially resulting in cracks on the interface
+during lithium plating and stripping. Their respective limitation
+can be overcome by employing them as a copolymer. It is possible to
+amend the deficiency of the AMPS mechanical property by incorporating
+softness of BA through copolymerization. After the synthesis and purification
+process, the copolymer does exhibit balanced mechanical strength and
+softness. In addition, its long-term cyclic stability is revealed
+by a plating and stripping test. During the plating and stripping
+tests, our copolymer showed a low overpotential and good Coulombic
+efficiency. After 100 cycles of lithium plating/stripping, the SEM
+image displayed clean and flat surface of the electrode. Furthermore,
+DFT calculations showed that SO<sub>3</sub><sup>&#x02013;</sup> functional
+group of AMPS would interact with Li<sup>+</sup>, contributing to
+the suppression of dendrite formation. Through these results, PAMPS-<italic>co</italic>-PBA demonstrates the functionality to suppress dendrite
+growth with only small wrinkles on the surface.</p></sec><sec id="sec2"><title>Experimental Section</title><sec id="sec2.1"><title>Materials</title><p>Chemicals and materials used in this work
+were sourced from reputable suppliers. Butyl acrylate (BA, &#x02265;99%),
+2-acrylamido-2-methylpropanesulfonic acid (AMPS, 99%), lithium bis(trifluoromethanesulfonyl)imide
+(LiTFSI), 1,3-dioxolane (DOL), 1,2-dimethoxyethane (DME), lithium
+nitrate (LiNO<sub>3</sub>), and methanol were procured from Sigma-Aldrich.
+The lithium disc and LFP electrode was obtained from UBIQ Technology
+Co., Ltd. Butyl acrylate underwent purification through alumina column
+chromatography prior to usage. 2,2-Azobis(2-methylpropionitrile) (AIBN)
+was purchased from UniRegion Bio-Tech. Dialysis of the copolymer was
+accomplished using Spectra/Por 6 Dialysis Membrane Prewetted RC Tubing
+with a 1 kD MWCO. Unless specified, other compounds did not undergo
+additional purification and were utilized as received.</p></sec><sec id="sec2.2"><title>Synthesis of PAMPS-<italic>co</italic>-PBA Copolymer</title><p>The polymer was synthesized through radical polymerization from two
+types of monomers, namely, AMPS and BA. The synthesis involved two
+round-bottomed flasks. In the first flask, BA (4.30 mL, 0.03 mol)
+was combined with 30 mL of methanol. In the second flask, AMPS (4.14
+g, 0.02 mol) and AIBN (0.032 mg, 0.0002 mol) were added. Prior to
+the mixing process, vacuuming was performed for 15, 10, and 5 min
+with 5 min of purging with argon after each vacuum. The molecular
+ratio of the monomer to initiator was maintained at 250:1. Magnetic
+stirring was applied for 30 min before combining the powder and liquid
+flasks. The solution of BA and methanol was then injected into the
+flask containing AMPS and AIBN, and the mixture was stirred at 1150
+rpm at 65 &#x000b0;C for 24 h. The copolymer, PAMPS-<italic>co</italic>-PBA (40:60), was purified using magnetic stirring and a dialysis
+membrane, dispersed in methanol. After solvent evaporation, the result
+obtained was viscous transparent liquid of PAMPS-<italic>co</italic>-PBA. In addition, PAMPS and PBA were also synthesized as control
+group. The experimental procedure is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S1</ext-link>.</p></sec><sec id="sec2.3"><title>Artificial Interface Layer on Copper</title><p>The application
+of the copolymer PAMPS-<italic>co</italic>-PBA onto copper foil was
+achieved through spin coating, resulting in a uniformly applied, flat
+protective layer. Before the spin-coating process, the PAMPS-<italic>co</italic>-PBA solution underwent overnight drying in a vacuum system.
+Methanol was subsequently added as a solvent, and the mass concentration
+of PAMPS-<italic>co</italic>-PBA in the solution was adjusted to 14.9
+wt %. Once the solution was prepared, it was carefully dropped onto
+the copper foil, and the spin coater was operated at 4000 rpm. Subsequently,
+the foil was transferred to an oven and dried at 80 &#x000b0;C for a
+duration of 3.5 h.</p></sec><sec id="sec2.4"><title>Characterization</title><p>Attenuated total reflectance-Fourier-transform
+infrared spectroscopy (ATR-FTIR) was used to identify the functional
+group of polymers, in which wavelengths were recorded from 800 to
+4000 cm<sup>&#x02013;1</sup>. NMR graphics were obtained from nuclear
+magnetic resonance spectroscopy (Bruker Avance III HD-600). In the <sup>1</sup>H NMR analysis, the product was dissolved in DMSO-<italic>d</italic><sub>6</sub> (&#x003b4; = 2.51 ppm). MeOH signal at &#x003b4;
+= 3.17 ppm represents the solvent residue followed by the HDO peak
+at 4.43 ppm. Another <sup>1</sup>H NMR &#x003b4; (ppm): 0.88&#x02013;0.92
+(t, 3H, &#x02212;OCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>), 1.26&#x02013;1.60 (&#x02212;OCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>; &#x02212;NHC[CH<sub>3</sub>]<sub>2</sub>CH<sub>2</sub>S&#x02212;), 2.89 (s, 2H, &#x02212;NHC[CH<sub>3</sub>]<sub>2</sub>CH<sub>2</sub>S&#x02212;), 3.57 (t, 2H, &#x02212;OCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>), 7.63 (s, 1H,
+&#x02212;NHC[CH<sub>3</sub>]<sub>2</sub>CH<sub>2</sub>S&#x02212;). PAMPS-<italic>co</italic>-PBA-modified copper was further assembled into a coin
+cell (Li&#x02225;PP&#x02225;PAMPS-<italic>co</italic>-PBA). The artificial
+interface electrode was characterized by X-ray photoelectron spectroscopy
+(XPS, PHI 5000 VersaProbe III) after one lithium plating/stripping
+cycle at 0.5 mA cm<sup>&#x02013;2</sup> and 0.5 mAh cm<sup>&#x02013;2</sup>. Before XPS analysis, the disassembled electrode was rinsed with
+a 1:1 (v/v) DME/DOL solution to remove residual electrolytes. The
+Li 1s spectrum was acquired by using five scans to achieve a satisfactory
+signal-to-noise ratio. To investigate long-term cycling effects, electrodes
+cycled 30 times were disassembled and cleaved. One half was used to
+characterize the PAMPS-<italic>co</italic>-PBA coating after 30th
+cycles, and the other half was rinsed with methanol to remove the
+coating and expose the underlying copper surface for analysis. The
+electrode surface morphology and thickness were checked by a field
+emission scanning electron microscope (FE-SEM, HITACHI S4200) and
+an energy-dispersive spectrometer (EDS, OXFORD MAX<sup>N</sup> 50).</p></sec><sec id="sec2.5"><title>Mechanical Tensile Test</title><p>A tensile test was conducted
+to observe the mechanical property of polymer by using universal testing
+instruments (Shimadzu EZ-EX). PAMPS-<italic>co</italic>-PBA solution
+was cast into a Teflon mold and left to rest for 3 days to eliminate
+air bubbles inside the sample. Subsequently, the sample was dried
+by heating in the oven for 24 h at 80 &#x000b0;C. After the drying process,
+the sample was left to rest for another 12 h. Finally, a transparent
+and clear gel was obtained after sample removal from mold. To prepare
+the sample to be subjected for the self-healing test, prepared film
+was cut in half using a razor blade, then two separated ends were
+attached together. The sample was left for 24 h, which results in
+a self-healed copolymer film. After the self-healing process is complete,
+pristine and self-healed samples were then subjected to a tensile
+test.</p></sec><sec id="sec2.6"><title>Electrochemical Measurements</title><p>Electrochemical testing
+was conducted using CR2032-type coin cells assembled with a 15.6 mm
+diameter lithium foil and a 14 mm current collector. The electrolyte
+consisted of 1 M LiTFSI in DME/DOL (1/1, v/v), supplemented with 2
+wt % LiNO<sub>3</sub> as an additive. Our artificial interface was
+assembled on copper as the working electrode, along with lithium foil
+and a separator, for lithium plating and stripping tests. A constant
+current density of 0.5 mA cm<sup>&#x02013;2</sup> was applied, and
+the voltage range was limited to 3.0 V to &#x02212;3.0 V. After 100
+cycles, the coin cell was disassembled. Subsequently, the morphology
+of the PAMPS-<italic>co</italic>-PBA electrode sample was identified
+via scanning electron microscopy (SEM). Electrochemical impedance
+spectroscopy (EIS) for a CR2032 coin cell was performed on an Autolab
+PGSTAT302N electrochemical workstation using an AC amplitude sweep
+from 0.1 MHz to 0.1 Hz. Distribution of relaxation times (DRT) was
+performed on EISART software, which was developed by Hangyue et al.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> For the cycle life test, the PAMPS-<italic>co</italic>-PBA electrode/separator/LiFePO<sub>4</sub> coin cell, with 0.8
+mL of electrolyte, was subjected to testing. The voltage range was
+set between 3.0 and 4.0 V, with the C-rate maintained at 0.1C (theoretical
+capacity of LiFePO<sub>4</sub> is 140 mAh g<sup>&#x02013;1</sup>).</p></sec><sec id="sec2.7"><title>Density Functional Theory (DFT) Calculation</title><p>DFT calculations
+were conducted using the Vienna ab initio Simulation Package (VASP)
+along with the projector augmented wave (PAW) method. We employed
+the Perdew&#x02013;Burke&#x02013;Ernzerhof (PBE) generalized gradient
+approximation (GGA) functional to describe exchange and correlation
+interactions. The plane wave cutoff energy, electronic energy convergence,
+and force convergence were set to 550 eV, 10<sup>&#x02013;4</sup> eV,
+and 0.01 eV/&#x000c5;, respectively. We incorporated the van der Waals
+correction using the DFT-D3 method and utilized a gamma point sampling
+for the Brillouin zone in the polymer&#x02013;salt bulk. For the polymer&#x02013;salt|Li/Cu
+interface, a 2 &#x000d7; 2 &#x000d7; 1 k-point mesh was employed. The Li/Cu
+surface was constructed with two layers of a 5 &#x000d7; 5 Li (100) surface
+and six layers of a 5 &#x000d7; 5 Cu (100) surface, and the bottom two
+layers of Cu were replaced with He atoms to prevent neighboring box
+interaction. During the simulations, the bottom five layers, including
+two layers of He and three layers of Cu, were kept fixed.</p></sec><sec id="sec2.8"><title>Ab Initio Molecular Dynamics Simulation</title><p>The canonical
+ensemble (NVT) with a time step of 1 fs was employed in the AIMD simulations
+for this work. The temperature was set to 450 K to accelerate the
+chemical reactions within the simulation times. The total simulation
+time was 20 ps for the polymer&#x02013;salt system and 8 ps for the
+polymer&#x02013;salt|Li/Cu interface. All initial configurations were
+pre-equilibrated using classical molecular dynamics simulations in
+the Forcite module with the COMPASS II force field within the Materials
+Studio software. In the pre-equilibrium simulation, the temperature
+was set to 450 K, and the total simulation time was 10 ps.</p></sec><sec id="sec2.9"><title>Atomic Charge Distribution</title><p>The atomic charge distribution
+was calculated by using Bader charge calculations. To obtain a normal
+distribution, ten configurations were selected from the last 500 fs
+of the simulation for both the polymer&#x02013;salt and the polymer&#x02013;salt|Li/Cu
+interface systems. The charge data were collected and represented
+by a Gaussian function.</p></sec></sec><sec id="sec3"><title>Results and Discussion</title><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a illustrates
+a schematic diagram of PAMPS-<italic>co</italic>-PBA as an artificial
+interface designed to protect the fragile SEI and enhance cyclic stability
+through self-healing and single-ion conductivity. In contrast, the
+surface of bare copper generated several byproducts, such as LiF,
+LiCO<sub>3</sub>, and other derivatives, from the electrolyte. In
+our copolymer, self-healing is facilitated by the hydrogen bond from
+AMPS, countering volume changes in lithium, while the sulfonic acid
+functionality rectifies the lithium-ion transfer pathway, inhibiting
+lithium dendrite growth. The FTIR (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b) and <sup>1</sup>H NMR (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S2</ext-link>) spectra provide the synthesis results. In the FTIR
+test, the results of PAMPS-<italic>co</italic>-PBA display signals
+of CH (2963, 2870 cm<sup>&#x02013;1</sup>), C=O (1734 cm<sup>&#x02013;1</sup>), and C&#x02013;O (1256, 1165 cm<sup>&#x02013;1</sup>), which belong to PBA;<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> and sulfonic
+acid (1208, 1108, 1032 cm<sup>&#x02013;1</sup>), amide II (1637, 1548
+cm<sup>&#x02013;1</sup>), and N&#x02013;H and S&#x02013;O&#x02013;H groups
+(broad peak, 3297 cm<sup>&#x02013;1</sup>) from PAMPS.<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> In the <sup>1</sup>H NMR technique, signals at &#x003b4; = 0.88&#x02013;0.92
+ppm belong to CH<sub>3</sub> in &#x02212;CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> corresponding to PBA, followed by CH<sub>2</sub> peaks
+at 1.26&#x02013;1.60 ppm; 3.57 ppm represents the CH<sub>2</sub> peak
+of PBA in &#x02212;COOCH<sub>2</sub>&#x02013;; and signals at &#x003b4;
+= 1.4, 2.89, and 7.63 ppm belong to hydrogen in the PAMPS group (CH<sub>3</sub>, CH<sub>2</sub>, NH). The AMPS:BA ratio calculated from NMR
+spectra closely matches the theoretical molecular ratio. In summary,
+random block PAMPS-<italic>co</italic>-PBA was successfully synthesized
+with an AMPS:BA molecular ratio of 4:6.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Schematic illustration
+depicting the Li deposition behaviors
+on bare copper and PAMPS-<italic>co</italic>-PBA electrodes. (b) FTIR
+spectra of PBA, PAMPS, and PAMPS-<italic>co</italic>-PBA. (c) Optical
+images demonstrating the self-healing behaviors of PAMPS-<italic>co</italic>-PBA. (d) Tensile strength test results for PAMPS-<italic>co</italic>-PBA before and after self-healing.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0001" id="gr1" position="float"/></fig><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c includes
+a schematic diagram of the cutting process and a photograph of PAMPS-<italic>co</italic>-PBA to prove its self-healing ability through an optical
+microscope (OM). In this test, the copolymer was spin-coated on top
+of polyvinylidene fluoride (PVDF) and left to dry. The self-healing
+ability of the copolymer was evident 24 h after the cut that was kept
+at room temperature and ambient pressure, as shown in the photograph.
+In addition, tensile strength measurements were done to compare the
+mechanical strength between pristine and self-healed copolymer films. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d shows similar elastic
+regimes (10%) for both pristine and self-healing samples, with yield
+strengths of 1.94 and 2.34 MPa, respectively. However, the self-healing
+sample exhibits a shorter strain length, suggesting easier fracture.</p><p>To obtain a more in-depth understanding of the self-healing capability
+of PAMPS-<italic>co</italic>-PBA, density functional theory (DFT)
+calculations and ab initio molecular dynamics (AIMD) simulations were
+used to further explore the intramolecular and intermolecular interactions
+of the copolymer and Li salt in the battery. An oligomer containing
+one AMPS molecule and one BA molecule was used to represent the copolymer
+of PAMPS-<italic>co</italic>-PBA in the simulation. Eight oligomers
+and five LiTFSI salt molecules were assigned to the simulation box,
+as depicted in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a. The simulation time intervals ranged from 0 to 20 ps, showing
+the status of the movement of the material within that period. The
+schematic diagram in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b helps to comprehend the simulation results after 20 ps.
+The intramolecular and intermolecular interactions between polymers
+and salts were counted and are summarized in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. Overall, five interchain hydrogen bonds,
+seven intrachain hydrogen bonds, and two polymer&#x02013;salt hydrogen
+bonds were found. Meanwhile, the dative interactions between Li<sup>+</sup> and oxygen from TFSI anions and from polymers also play a
+crucial role, with 20 Li<sup>+</sup>&#x02013;O interactions observed
+in total. The results reveal intermolecular hydrogen bonds between
+the sulfo group and the carboxamide group, attributed to a self-healing
+feature. Additionally, <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c displays the trajectory of atom motion during a 20 ps simulation,
+revealing the pathway of lithium (purple ball) correlating with the
+&#x02212;SO<sub>3</sub>H/&#x02013;SO<sub>2</sub>&#x02013; rather than
+the C=O group. This result suggests that the sulfo group is
+capable of promoting the Li-ion movement in PAMPS-<italic>co</italic>-PBA.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Structural optimization of PAMPS-<italic>co</italic>-PBA and
+the LiTFSI salt mixture. (b) Schematic diagram illustrating the intramolecular
+and intermolecular interactions of a copolymer and Li salt in the
+battery. (c) Trajectory of atom motion for PAMPS-<italic>co</italic>-PBA during a 20 ps duration.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0002" id="gr2" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Summarized Interactions in a PAMPS-<italic>co</italic>-PBA Self-Healing Polymer with LiTFSI Salt<xref rid="tbl1-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th colspan="2" align="center">interactions</th><th style="border:none;" align="center">No. of interactions</th></tr></thead><tbody><tr><td style="border:none;" align="left">hydrogen bond</td><td style="border:none;" align="left">interchain</td><td style="border:none;" align="left">5</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">intrachain</td><td style="border:none;" align="left">7</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">polymer&#x02013;TFSI</td><td style="border:none;" align="left">2</td></tr><tr><td style="border:none;" align="left">dative bond</td><td style="border:none;" align="left">Li<sup>+</sup>&#x02013;O<sub>TFSI</sub></td><td style="border:none;" align="left">10</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">Li<sup>+</sup>&#x02013;O<sub>polymer</sub></td><td style="border:none;" align="left">10</td></tr></tbody></table><table-wrap-foot><fn id="tbl1-fn1"><label>a</label><p>The threshold of hydrogen and
+dative bond length was set to 2.45 &#x000c5;.</p></fn></table-wrap-foot></table-wrap><p>The artificial interface was coated
+onto a copper foil with the
+detailed method presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S3a</ext-link>. The thickness of the artificial interface was about 1.2 &#x003bc;m,
+as shown in the EDS line scan (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S3b and S3c</ext-link>). We used these electrodes for lithium plating&#x02013;stripping
+measurements, utilizing lithium metal as both counter and reference
+electrodes to assess the performance of lithium deposits during the
+charge and discharge processes, and the results are depicted in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. The signal from
+the PAMPS-<italic>co</italic>-PBA electrode notably differed from
+that of the bare copper electrode. As discussed by Huang et al., the
+results revealed voltage fluctuation with lithium.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> The voltage of the bare copper electrode exhibited an elevation
+at the end of the stripping process, suggesting irreversible lithium
+consumption due to continuous SEI formation and the generation of
+a dead lithium layer. The calculated Coulombic efficiency from plating
+and stripping, as displayed in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b, shows that the bare copper electrode has an initial
+cycle efficiency of &#x0223c;40%, indicating significant utilization
+of a lithium ion for SEI formation. Subsequently, a rapid decay was
+observed, likely attributed to fresh lithium repeatedly coming into
+contact with the electrolyte, causing fragile SEI and fluctuations
+in the lithium volume. In contrast, the polymer interfaces of PBA,
+PAMPS, and PAMPS-<italic>co</italic>-PBA exhibited much higher Coulombic
+efficiency, achieving &#x0003e;99% after 20 cycles. This suggests that
+these
+interfaces prevent continuous reaction with the electrolyte during
+lithium metal generation. However, the Coulombic efficiency of PBA
+and PAMPS samples does not reach &#x0003e;99% in the initial 20 cycles,
+as
+further detailed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S4a and S4b</ext-link>.
+The voltage lift at the end of stripping indicates the formation of
+a dead lithium layer during the cyclic process. More on this topic
+will be discussed, along with SEM analysis.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Electrochemical performance
+comparison of Li/Cu half cells without/with
+a modified coating. (a) Cycle stability comparison of bare Cu and
+PAMPS-<italic>co</italic>-PBA, both at a deposition capacity and current
+density of 0.5 mA cm<sup>&#x02013;2</sup> and 0.5 mAh cm<sup>&#x02013;2</sup>, respectively. (b) Coulombic efficiency of the Li plating/stripping
+process on bare Cu and modified Cu. (c) Voltage&#x02013;capacity curve
+of bare Cu and modified Cu during the first cycle discharge process.
+(d) Voltage hysteresis of bare Cu and modified Cu at different cycles.
+(e) Tafel plot of bare Cu and modified Cu half cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0003" id="gr3" position="float"/></fig><p>Nucleation overpotential, defined as the difference
+between the
+minimum potential during initial nucleation and the subsequent plateau
+potential during growth, was analyzed to assess the lithium affinity
+of the interface (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Table S1</ext-link>). The nucleation overpotentials
+were shown as &#x02212;58 mV for PAMPS-<italic>co</italic>-PBA, &#x02212;74
+mV for PAMPS, &#x02212;103 mV for PBA, and &#x02212;132 mV for bare
+copper, respectively. As the nucleation overpotential is closely related
+to the free energy barrier of lithium deposition that is influenced
+by both SEI thickness and lithium affinity, we further investigated
+these factors using voltage hysteresis and Tafel plots in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d,e. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d illustrates the voltage hysteresis,
+a proxy for the SEI thickness. Bare copper exhibited the highest hysteresis
+(approximately 150 mV), indicating a thicker SEI layer. Conversely,
+PAMPS-<italic>co</italic>-PBA showed the lowest hysteresis (10.3 mV),
+while PBA and PAMPS displayed intermediate values (44.4 and 32.2
+mV, respectively). To evaluate lithium-ion transport kinetics, we
+employed Tafel plots (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e) to determine the exchange current density, which is a measure
+of reaction rate. PAMPS-<italic>co</italic>-PBA exhibited the highest
+exchange current density of 0.342 mA cm<sup>&#x02013;2</sup>, followed
+by PAMPS (0.126 mA cm<sup>&#x02013;2</sup>), PBA (0.075 mA cm<sup>&#x02013;2</sup>), and bare copper (0.016 mA cm<sup>&#x02013;2</sup>). The enhanced
+exchange current densities observed for PAMPS-<italic>co</italic>-PBA
+and PAMPS can be attributed to their single-ion conducting characteristics,
+which facilitate lithium-ion transfer at the copper interface. This
+also supports our simulation results (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), demonstrating that the sulfo group promotes
+lithium-ion transport.</p><p>To further investigate the interfacial
+resistance, we conducted
+an EIS analysis before and after cycling (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S5a</ext-link>). Prior to cycling, all coatings exhibited large semicircles
+indicative of high interfacial resistance. This result occurs due
+to foreign surface films formed during cell assembly, as reported
+by Hobold et al.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> After cycling, the EIS
+spectra became more complex due to the formation of the Cu/Li/SEI/artificial
+interface. To quantify the effective resistance (<italic>R</italic><sub>eff</sub>), we performed distribution of relaxation times (DRT)
+analysis in the midfrequency region (10<sup>4</sup> to 10<sup>1</sup> Hz; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S5b</ext-link>), and the calculated <italic>R</italic><sub>eff</sub> values are presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S5c</ext-link>. Notably, the <italic>R</italic><sub>eff</sub> values
+exhibited an inverse relationship with the exchange current density,
+with PAMPS-<italic>co</italic>-PBA demonstrating the lowest <italic>R</italic><sub>eff</sub>, followed by PAMPS, indicating superior
+ionic conductivity. This trend corroborates the results presented
+in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e. Conversely,
+PBA exhibited a lower exchange current density and a higher <italic>R</italic><sub>eff</sub> due to the lack of ion transfer promotion
+feature. Moreover, when comparing the DRT peak frequencies in the
+midfrequency range across all samples, the PAMPS-<italic>co</italic>-PBA sample exhibits a relatively higher characteristic peak frequency.
+This indicates a shorter transition time from transient to steady-state
+electrochemical reactions, suggesting improved ionic conductivity.</p><p>The superior performance of PAMPS-<italic>co</italic>-PBA can be
+attributed to its copolymer structure, which leverages the distinct
+functionalities of its constituent monomers. Similar to how ethylene-vinyl
+acetate copolymers utilize ether segments for high ionic conductivity
+and ethylene segments for enhanced mechanical flexibility, PAMPS-<italic>co</italic>-PBA combines the ionic conductivity and self-healing
+of PAMPS with the flexibility properties of PBA. This synergistic
+effect allows for optimized lithium-ion transport and robust interface
+stability, ultimately leading to an improved electrochemical performance.
+Consistent with Liu et al.&#x02019;s report that mentioned artificial
+SEI with high ionic conductivity accelerates lithium-ion transport
+and reducing concentration polarization as well as dendrite growth,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> plating and stripping tests shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b revealed that PAMPS-<italic>co</italic>-PBA exhibited the best cycle life and Coulombic efficiency.
+The inherent self-healing ability of these polymers is proven to protect
+the internal SEI, preventing repeated electrolyte exposure to lithium,
+contributing to high Coulombic efficiency and low voltage hysteresis.
+In contrast, bare copper and PBA-coated electrodes failed to effectively
+optimize the interface and exhibited poor performance. The substantial
+volume changes during cycling may lead to SEI rupture and regeneration,
+depleting lithium ions and reducing cycle life. While PAMPS shares
+similar functional groups with PAMPS-<italic>co</italic>-PBA, its
+brittleness leads to cracking during cycling. This results in higher
+voltage hysteresis and a higher overpotential in the first cycle voltage-capacity
+curve, suggesting a potential SEI formation within the cracks.</p><p>To comprehend the alterations in surface morphology, SEM analysis
+was conducted on all samples before and after Li plating/stripping
+cycles, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>. Notably, the surface of bare copper appears smooth, as in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. However, a messy
+and gray appearance was present after lithium deposition observation
+postcycling, indicative of dead lithium formation (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>e). The SEM image further reveals
+filamentary and foliated lithium metal on the copper surface, representing
+dead lithium that contributes to Coulombic efficiency loss.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> For the PBA electrode, both the digital photograph
+and SEM image (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b and f) reveal deposits on the surface, a finding further confirmed
+by EDS mapping (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S6</ext-link>). Significantly,
+the deposits correlate with the sulfur signal, and LiTFSI was identified
+as the sole source of sulfur in this cell. Moreover, the artificial
+interface of PBA is conceived to be too soft and unable to withstand
+lithium permeation, resulting in the formation of an SEI on the surface.
+On the other hand, the artificial interface of PAMPS reveals a surface
+full of brittle cracks, both in pristine and after 100 cycles (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c and g). These cracks
+originate from the lack of softness of the material. Consequently,
+the low Coulombic efficiency and high voltage hysteresis of PBA and
+PAMPS may arise from mechanical property defects. In contrast, PAMPS-<italic>co</italic>-PBA coated electrodes of both precycling and postcycling
+show relatively flat surface, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d and h. Additionally, wrinkles on the surface
+suggest that lithium dendrite growth is impeded by the flexible, self-healing
+interface. Therefore, those properties play a crucial role in withstanding
+volume fluctuations during the cycling process.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>SEM morphology of lithium
+deposition before cycling on different
+electrodes: (a) bare Cu, (b) PBA, (c) PAMPS, and (d) PAMPS-<italic>co</italic>-PBA. Optical images (insets) show bare and modified copper
+electrodes, along with corresponding SEM images after 100 cycles for
+each type of electrode: (e) bare Cu, (f) PBA, (g) PAMPS, and (h) PAMPS-<italic>co</italic>-PBA. The experiments were conducted in an electrolyte
+comprising 1 M LiTFSI, DME/DOL (1/1, v/v), and 2 wt % LiNO<sub>3</sub>, with lithium plating/stripping current density of 0.5 mA cm<sup>&#x02013;2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0004" id="gr4" position="float"/></fig><p>To investigate the interfacial phenomenon between
+the PAMPS-<italic>co</italic>-PBA protecting layer and the anode surface,
+an AIMD simulation
+was performed. We formulated two systems by considering different
+environments: one with Li salt in proximity to the lithium metal and
+another with Li salt positioned far away. The initial state of the
+system is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S7</ext-link>. The electrode
+simulation involved two layers of lithium (100) and four layers of
+copper, mimicking the structure of the PAMPS-<italic>co</italic>-PBA
+electrode with a focus on lithium plating occurring on the copper
+surface. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S8</ext-link> show snapshots of representative decomposition
+of PAMPS-<italic>co</italic>-PBA and LiTFSI during an 8 ps AIMD simulation
+when Li salt was positioned in proximity to and far away the anode
+surface, respectively. The summarized results can be found in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Table S2</ext-link>. During the simulation, the reactant was represented
+using a ball-and-stick model, while the unreacted material was shown
+as a wireframe. In <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>, the anion of TFSI undergoes decomposition adjacent to the
+lithium slab in a step-by-step process over 210 and 390 fs. Specifically,
+the nitrogen of TFSI was protonated by the sulfonic acid of the AMPS
+segment, initiating a sulfur&#x02013;nitrogen (S&#x02013;N) bond and
+a sulfur&#x02013;carbon (S&#x02013;C) bond breaking mechanism around
+&#x0223c;210 fs, resulting in the formation of SO<sub>2</sub> and CF<sub>3</sub> species. Following this, the two S&#x02013;O and three C&#x02013;F
+bonds of the anion fragment broke at time intervals ranging from 290
+to 390 fs, leading to the formation of Li<sub>2</sub>S, Li<sub>2</sub>O, and LiF inorganic compounds near the lithium surface. This trend
+aligns with observations from related works, where the anion continually
+broke and formed LiF with Li<sub>2</sub>S on the lithium surface.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> In the case of PAMPS-<italic>co</italic>-PBA,
+the C=O of AMPS underwent protonation by sulfonic acid at 70
+fs, followed by C&#x02013;(OH) cleavage at 570 fs. Furthermore, these
+snapshots illustrated that the COOR group of BA became fragmented
+via the C<sub>carbonyl</sub>&#x02013;O<sub>ethereal</sub> bond breaking
+at 450 and 2950 fs, accompanied by the formation of lithium alkoxides
+(ROLi). At 870 fs, the resulting unsaturated alkoxide (RCO) deprotonates
+the amide group, forming RCHO and the deprotonated amide. Moreover, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S8</ext-link> reveals analogous simulation outcomes,
+showing COOR bond cleavage adjacent to the lithium metal at 430 and
+2000 fs. Both occurrences imply the cleavage of the COOR group in
+PAMPS-<italic>co</italic>-PBA, contributing to the formation of SEI
+on the lithium surface. Additionally, another notable event was the
+cleavage of TFSI; the nitrogen of TFSI was protonated by the sulfo
+group at 130 fs, resulting in the formation of cleavage fragments
+HNSO<sub>2</sub>CF<sub>3</sub> and SO<sub>2</sub>CF<sub>3</sub> at
+150 fs via S&#x02013;N bond breaking. This phenomenon aligns with
+studies reported in previous related works.<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> This finding is also evident in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S8</ext-link> and consistent with the observations in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>. The partial cleavage of TFSI, induced by
+nitrogen protonation, accelerates TFSI decomposition and forms diverse
+SEI components. Notably, the ester group decomposition on the Li/Cu
+anode surface agrees with our previous computational work, which indicated
+that the ester group would be activated on the Li/Cu surface by the
+presence of the Cu current collector.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> On the other hand, the formation of inorganic species such as LiF,
+Li<sub>2</sub>O, and Li<sub>2</sub>S, is notable for its documented
+ability to suppress dendrite growth.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> The
+stiffness of these inorganic species is anticipated to contribute
+to suppressing dendrite growth on the lithium metal side.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Snapshots of
+the reaction of PAMPS-<italic>co</italic>-PBA and
+the LiTFSI unit at the lithium metal interface.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0005" id="gr5" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Catalog of PAMPS-<italic>co</italic>-PBA and LiTFSI Decomposition Reactions and Approximate Occurring
+Time During AIMD Simulations when LiTFSI Is near the Lithium Surface</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">species</th><th style="border:none;" align="center">time (fs)</th><th style="border:none;" align="center">reaction</th></tr></thead><tbody><tr><td style="border:none;" align="left">PAMPS-<italic>co</italic>-PBA</td><td style="border:none;" align="left">70</td><td style="border:none;" align="left">R-SO<sub>3</sub>H&#x000a0;+&#x000a0;R&#x02032;C(=O)NHR&#x02032;&#x02032; &#x02192;&#x000a0;R-SO<sub>3</sub>&#x000a0;+&#x000a0;R&#x02032;C(OH)NHR&#x02032;&#x02032;</td></tr><tr><td style="border:none;" align="left">PAMPS-<italic>co</italic>-PBA, TFSI</td><td style="border:none;" align="left">210</td><td style="border:none;" align="left">N(SO<sub>2</sub>CF<sub>3</sub>)<sub>2</sub>&#x000a0;+&#x000a0;R-SO<sub>3</sub>H &#x02192;&#x000a0;HNSO<sub>2</sub>CF<sub>3</sub>&#x000a0;+&#x000a0;SO<sub>2</sub> +&#x000a0;CF<sub>3</sub>&#x000a0;+&#x000a0;R-SO<sub>3</sub></td></tr><tr><td style="border:none;" align="left">TFSI</td><td style="border:none;" align="left">290</td><td style="border:none;" align="left">CF<sub>3</sub>&#x000a0;&#x02192;&#x000a0;CF<sub>2</sub>&#x000a0;+&#x000a0;F</td></tr><tr><td style="border:none;" align="left">TFSI</td><td style="border:none;" align="left">365</td><td style="border:none;" align="left">SO<sub>2</sub>&#x000a0;&#x02192;&#x000a0;SO&#x000a0;+&#x000a0;S,&#x000a0;CF<sub>2</sub> &#x02192;&#x000a0;CF&#x000a0;+&#x000a0;F</td></tr><tr><td style="border:none;" align="left">TFSI</td><td style="border:none;" align="left">390</td><td style="border:none;" align="left">SO&#x000a0;&#x02192;&#x000a0;S&#x000a0;+&#x000a0;O,&#x000a0;CF &#x02192;&#x000a0;C&#x000a0;+&#x000a0;F</td></tr><tr><td style="border:none;" align="left">PAMPS-<italic>co</italic>-PBA</td><td style="border:none;" align="left">450</td><td style="border:none;" align="left">R(C=O)OR&#x02032;&#x000a0;&#x02192;&#x000a0;R(C=O) +&#x000a0;R&#x02032;-O</td></tr><tr><td style="border:none;" align="left">PAMPS-<italic>co</italic>-PBA</td><td style="border:none;" align="left">570</td><td style="border:none;" align="left">R&#x02032;C(OH)NHR&#x02032;&#x02032;&#x000a0;&#x02192;&#x000a0;R&#x02032;CNHR&#x02032;&#x02032; +&#x000a0;OH</td></tr><tr><td style="border:none;" align="left">PAMPS-<italic>co</italic>-PBA</td><td style="border:none;" align="left">870</td><td style="border:none;" align="left">R&#x02032;C(=O)NHR&#x02032;&#x02032;&#x000a0;+&#x000a0;R(C=O) &#x02192;&#x000a0;R&#x02019;C(=O)NR&#x02032;&#x02032;&#x000a0;+&#x000a0;RCHO</td></tr><tr><td style="border:none;" align="left">PAMPS-<italic>co</italic>-PBA</td><td style="border:none;" align="left">2950</td><td style="border:none;" align="left">R(C=O)OR&#x02032;&#x000a0;&#x02192;&#x000a0;R(C=O) +&#x000a0;R&#x02032;-O</td></tr></tbody></table></table-wrap><p>XPS analysis was conducted to examine the composition
+of the interface
+on both bare Cu and PAMPS-<italic>co</italic>-PBA surfaces after Li
+plating and stripping processes. The C 1s spectrum of PAMPS-<italic>co</italic>-PBA (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a) deconvolutes into five distinct areas with binding energies
+of 284.8, 285.6, 286.6, 287.8, and 289.0 eV assigned to C&#x02013;C,
+C&#x02013;N, C&#x02013;O, N&#x02013;C=O, and O&#x02013;C=O,
+respectively. These peaks represent components originating from PAMPS-<italic>co</italic>-PBA without any additional peaks. On the other hand,
+the analysis of bare Cu after cycling displayed peaks for C&#x02013;C,
+C&#x02013;N, C&#x02013;O, O&#x02013;C=O, and CO<sub>3</sub><sup>2&#x02013;</sup> in sequence. These peaks are likely attributed to
+electrolyte derivatives. Additionally, the C 1s spectrum exhibits
+a peak at around 290.9 eV on the bare Cu surface, which belongs to
+the decomposition of NSO<sub>2</sub>CF<sub>2</sub> from LiTFSI.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The Li 1s spectrum was employed to identify
+the deposits after reaction (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b). The signal on bare Cu consists of peaks of Li<sub>2</sub>CO<sub>3</sub> (55.3 eV) and LiF (55.8 eV). Furthermore, the
+F 1s spectra (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S9</ext-link>) confirm the binding
+energy of LiF and C&#x02013;F at 685.0 and 688.9 eV, respectively.
+Moreover, the deconvolution of N 1s and S 2p (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c and d) in the bare Cu spectra reveals signals
+of lithium salt decomposition. The weak N 1s signal is attributed
+to N-SO<sub>2</sub>, which is likely to be a LiTFSI derivative. The
+S 2p results also support this assumption, showing signals of NSO<sub>2</sub> (167.4 eV) and N-SO<sub>2</sub>CF<sub>3</sub> (169.2 eV).
+However, the XPS of PAMPS-<italic>co</italic>-PBA showed a different
+curve in the N 1s and S 2p spectra, indicating single-ion conductivity
+and self-healing properties. In the S 2p spectrum, peaks were assigned
+as SO<sub>3</sub>H and SO<sup><sub>3</sub>&#x02013;</sup> at 168.1
+and 168.9 eV, respectively.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> The SO<sub>3</sub>H
+represents sulfonic acid of PAMPS-<italic>co</italic>-PBA, and the
+signal of sulfonates (SO<sup><sub>3</sub>&#x02013;</sup>) originates
+from the ionization of sulfonic acid. Furthermore, the N 1s spectrum
+shows &#x02212;CONH and &#x02212;CONH<sup><sub>2</sub>+</sup> at 399.8
+and 401.6 eV, respectively.<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> According to the S
+2p result, the ammonium group (&#x02212;CONH<sup><sub>2</sub>+</sup>) originates from the ionization of sulfonic acid. In summary, the
+sulfonates group in the PAMPS region is revealed to be a single-ion
+conductor, one of the key features for ion conducting ability. While
+PAMPS-<italic>co</italic>-PBA retains SO<sub>3</sub>H, it can be utilized
+for self-healing in the event of cracking. The XPS results reveal
+that PAMPS-<italic>co</italic>-PBA maintains both self-healing and
+single-ion conductivity features even after cycling. This explains
+the excellent performance of PAMPS-<italic>co</italic>-PBA in the
+Li plating and stripping test. Additional details, including binding
+energy, the assumed origin of signals, and attributed literature,
+are presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Tables S3 and S4</ext-link>.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>XPS spectra
+of (a) C 1s, (b) Li 1s, (c) N 1s, and (d) S 2p for
+the bare copper surface and the PAMPS-<italic>co</italic>-PBA-modified
+copper surface after one cycle of Li plating and stripping processes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0006" id="gr6" position="float"/></fig><p>To better understand the role of PAMPS-<italic>co</italic>-PBA
+in facilitating Li plating and stripping on the Cu surface, we combined
+the XPS spectrum of the O 1s (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a) and the oxygen atomic charge distribution (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b) from the AIMD
+simulation. The PAMPS-<italic>co</italic>-PBA surface exhibits remarkable
+electrochemical stability, as evidenced by its consistent performance
+during plating and striping. To gain more insight into the interfacial
+interactions between lithium and the PAMPS-<italic>co</italic>-PBA
+layer, a washing process with methanol was employed to remove the
+protective layer. XPS analysis of the PAMPS-<italic>co</italic>-PBA
+surface after 30 cycles and washing revealed four distinct peaks in
+the O 1s spectrum. These peaks present at binding energies of 533.8,
+532.8, 532.0, and 531.2 eV can be attributed to C&#x02013;O, C=O,
+N&#x02013;SO<sub>2</sub>, and ROLi species, respectively. To further
+clarify the mechanism by which the copolymer interface protects the
+SEI through self-healing, as depicted in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Figure S10</ext-link>, we performed XPS analysis on the cycled PAMPS-<italic>co</italic>-PBA coating and the exposed underlying copper surface.
+The detailed deconvolution of the XPS spectra is listed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Tables S5 and S6</ext-link>. The results suggest the formation
+of SEI during cycling. The N 1s and S 2p spectra demonstrated that
+the functional groups remained undecomposed after 30 cycles, confirming
+the sustained self-healing capability of the artificial interface.
+This self-healing effect effectively avoids SEI rupture and accommodates
+lithium volume changes during cycling. Consequently, inorganic derivatives
+were only observed in the inner layer by XPS. On the other hand, the
+atomic charge distribution shows high potential in predicting SEI
+components.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> For the oxygen element, the O<sub>ethereal</sub> of the ester group
+is at &#x0223c;&#x02212;1.03|e|, the O<sub>carbonyl</sub> of the ester
+group and the amide peak are at &#x0223c;&#x02212;1.18|e|, and the TFSI
+and sulfonate peaks are very close at &#x0223c;&#x02212;1.30|e| due
+to their similar chemical environment. Regarding the decomposed products,
+the lithium alkoxide peak is at &#x0223c;&#x02212;1.33|e|, providing
+evidence for ester decomposition. Moreover, the presence of lithium
+hydroxide (LiOH) and lithium oxide (Li<sub>2</sub>O) peaks at &#x0223c;&#x02212;1.5
+and &#x0223c;&#x02212;1.65|e|, respectively, indicates the existence
+of common inorganic compounds in the SEI layer when the TFSI anion
+decomposes on the anode surface. Except for the LiOH and Li<sub>2</sub>O, all the remaining peaks have been found in the O 1s XPS spectrum,
+indicating that our simulation is consistent with the experiment observation.
+The absence of LiOH and Li<sub>2</sub>O in the spectrum is attributed
+to their concentrations being below the detection limit. Given that
+the ester decomposition mechanism of the BA segment has been verified
+by both the XPS spectrum and AIMD simulation, we proposed that the
+BA segment of PAMPS-<italic>co</italic>-PBA can be tightly anchored
+to the Cu surface after the first Li plating by forming the ROLi.
+Meanwhile, the unreacted sulfo group of the AMPS segment orients outward
+from the surface, as observed in the simulation shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c. The well-oriented
+sulfo groups facilitate Li transportation at the interface and grant
+the self-healing capability of PAMPS-<italic>co</italic>-PBA, as illustrated
+in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d. Moreover,
+the short-chain lithium alkoxide resulting from the ester group decomposition
+forms the organic SEI components, which have high flexibility to accommodate
+the volume changes of the electrode during Li plating and stripping.
+Therefore, the PAMPS-<italic>co</italic>-PBA protected electrode exhibits
+a low Li nucleation overpotential and uniform surface morphology.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>(a) XPS
+spectra of O 1s for the bare copper after one cycle of
+Li plating and stripping, and the PAMPS-<italic>co</italic>-PBA interface
+after 1, 10, and 30 cycles of Li plating and stripping. (b) Atomic
+charge distribution of oxygen atoms at the interface. (c) The structure
+of the final frame after AIMD simulation. (d) The schematic illustration
+of the role of PAMPS-<italic>co</italic>-PBA at the electrode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0007" id="gr7" position="float"/></fig><p>We tested the cycling of anode-free coin cells,
+comprising bare
+copper and copper with PAMPS-<italic>co</italic>-PBA interfaces paired
+with LiFePO<sub>4</sub> as the cathode, in an ether electrolyte at
+a rate of 0.1 C. The results are shown in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a. The bare copper electrode shows rather
+poor stability, experiencing rapid fading during 50 cycles. The retention
+ratio was 35%, attributed to a fragile SEI and the absence of lithium
+dendrite suppression. In comparison, PAMPS-<italic>co</italic>-PBA
+electrode demonstrated 58.3% over 50 cycles which 1.6 times capacity
+retention than bare copper electrode. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b and c are voltage&#x02013;capacity curves
+of bare Cu and PAMPS-<italic>co</italic>-PBA, respectively. The PAMPS-<italic>co</italic>-PBA electrode presents lower voltage polarization and
+capacity decay than the bare Cu electrode. The self-healing ability
+is evident in the restoration of artificial interface integrity without
+cracking, effectively preventing the consumption of Li-ions by parasitic
+reactions. Furthermore, the sulfonic acid component of AMPS is a single-ion
+conductor, contributing to the suppression of dendrite growth by minimizing
+concentration polarization. As a result, the PAMPS-<italic>co</italic>-PBA cell demonstrates much better capacity retention and lower voltage
+polarization compared with the bare copper cell. This can be attributed
+to minimized damage caused by the volume change during the cycle and
+the suppression of dendrite growth throughout cycling. However, it
+is noteworthy that the PAMPS-<italic>co</italic>-PBA cell exhibits
+capacity fading in each cycle, a phenomenon that possibly arises from
+the active Li loss. The TFSI was protonated by the sulfonic acid of
+AMPS segment, resulting in cleavage of the anion and capacity fading.
+This outcome suggests that the LiTFSI salt may not be a good choice
+for the PAMPS-<italic>co</italic>-PBA interface in future anode-free
+full cell applications.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Electrochemical performance of anode-free LiFePO<sub>4</sub> coin
+cells. (a) Cycling performance using PAMPS-<italic>co</italic>-PBA
+and Cu electrode with 1 M LiTFSI, DME/DOL (1/1, v/v), and 2 wt % LiNO<sub>3</sub>, with a potential range of 3.0 to 4.0 V and a C-rate of 0.1C.
+Voltage&#x02013;capacity curves of (b) bare Cu/LFP and (c) PAMPS-<italic>co</italic>-PBA/LFP.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_0008" id="gr8" position="float"/></fig><p>Finally, to emphasize the advantages of PAMPS-<italic>co</italic>-PBA in stabilizing anode-free lithium metal batteries,
+we provide <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">Table S7</ext-link> containing a comparison
+of our work
+with other existing literature highlighting Coulombic efficiency and
+nucleation overpotential. Many previously reported artificial interfaces
+have inherent trade-offs in electrochemical performance.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> For instance, poly(vinylidene fluoride) (PVDF)/poly(methyl
+methacrylate) (PMMA) aims to maximize mechanical strength to prevent
+lithium fluctuation and dendrite-induced interface damage.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> However, interfaces lacking lithium-ion conductivity
+exhibit a higher nucleation barrier (94 mV), which can promote dendrite
+formation. Conversely, poly(ethylene oxide) (PEO)-based electrolytes
+achieve low nucleation overpotentials, facilitating smooth lithium
+deposition, but suffer from poor cycle life (&#x0223c;40% after 100
+cycles) due to continuous side reactions and SEI instability.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> To address these limitations, our group proposed
+the utilization of PAMPS-<italic>co</italic>-PBA which provides self-healing
+ability and single-ion conductivity and thus high potential to repair
+interfacial damage during volume fluctuation, enabling superior lithium
+metal stabilization. The combined effect of self-healing and single-ion
+conduction leads to enhanced lithium deposition, reduced dendrite
+growth, and extended battery life. In addition, the high performance
+of polyaryoxadiazole lithium sulfonate (PODLi), poly(vinylidene fluoride-hexafluoropropylene)
+(PVDF-HFP), and polyacrylonitrile (PAN) modifiers is due to the additional
+lithium salt applied in these systems. Notably, our approach achieves
+superior performance without the need for an external lithium source
+and effectively balances the aforementioned electrochemical trade-offs,
+demonstrating its effectiveness over other reported methods.</p></sec><sec id="sec4"><title>Conclusion</title><p>The artificial interface of PAMPS-<italic>co</italic>-PBA with
+self-healing and single-ion conducting properties represents a promising
+approach toward anode-free lithium battery design, as evidenced by
+both experimental results and theoretical simulations. By overcoming
+the mechanical deficiency of AMPS through copolymerization with BA,
+the resulting interface achieves a balanced combination of softness,
+self-healing capabilities, and flat surface morphology, effectively
+mitigating degradation during lithium volume fluctuations. XPS analysis
+confirms the retention of self-healing and single-ion conductivity
+properties postcycling, leading to significantly improved performance
+in lithium plating and stripping tests. Additionally, DFT calculations
+elucidate the pathway of Li facilitated by the sulfo group, which
+acts to slow down dendrite formation. However, the decomposition of
+TFSI observed on the lithium surface in AIMD simulations indicates
+a potential risk to cyclic performance, suggesting the need for careful
+consideration of LiTFSI choice in a Lewis acid environment to further
+enhance electrochemical performance. In summary, our study proposes
+a creative design concept for an artificial interface aimed at suppressing
+dendrite formation in anode-free lithium batteries. By combining enhanced
+lithium conductivity, courtesy of the sulfo group, and self-healing
+properties to prevent SEI rupture, PAMPS-<italic>co-</italic>PBA emerges
+as a solution for enhancing the stability, efficiency, and cycle life
+of an anode-free battery through advanced interface engineering.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>. The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.4c22501?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.4c22501</ext-link>.<list id="silist" list-type="simple"><list-item><p>Supplementary Figures S1&#x02013;S10. Experimental schematic
+of the PAMPS-<italic>co</italic>-PBA synthesis and electrode preparation; <sup>1</sup>H NMR spectra of PAMPS-<italic>co</italic>-PBA, SEM cross-section
+image, EDS scanning for thickness analysis; Electrochemical performance
+evaluation of electrodes with different modified coatings; EIS result
+for interface checking; SEM and EDS mapping of the PBA electrode;
+AIMD simulation box and snapshots of the reaction of AMPS-BA and LiTFSI
+unit, LiTFSI away from the lithium metal interface. Supplementary
+Tables S1&#x02013;S7. XPS deconvolution results and corresponding tables;
+Table of nucleation overpotential; Table of PAMPS-<italic>co</italic>-PBA and LiTFSI decomposition reactions during AIMD simulations;
+Table of literature for comparison (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.4c22501/suppl_file/am4c22501_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am4c22501_si_001.pdf"><caption><p>am4c22501_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p><sup>#</sup> These authors contributed equally to this work
+(C.H.C. and L.T.W.).
+Y.C.C., J.C.J., C.C.H., and M.K.W. conceived the study and contributed
+to the experimental design. They also participated in scientific discussions
+and revised the manuscript. C.H.C., D.M.S., C.C.H., and P.W.C. performed
+the experiments. L.T.W. conducted the AIMD and DFT calculations. C.H.C.,
+L.T.W., P.W.C., and D.M.S. wrote the manuscript and prepared the figures.
+W.C.H., K.W.Y., C.C.C., and B.J.H. provided technical support and
+contributed to discussions and comments.</p></notes><notes notes-type="COI-statement" id="notes3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors thank the Ministry of Education of Taiwan
+(MOE, &#x0201c;Sustainable Electrochemical Energy Development Center&#x0201d;
+(SEED) Project and Taiwan National Center of High-Performance Computing
+(NCHC) for computing resources. The authors sincerely acknowledge
+the Executive Yuan for its financial support through the Forward-Looking
+Research Grant (No. AS-FLI-110-LI). We sincerely acknowledge Dr. Livy
+Laysandra for their invaluable professional expertise and technical
+guidance in this work.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Van
+Noorden</surname><given-names>R.</given-names></name>
+<article-title>The Rechargeable Revolution: A Better Battery</article-title>. <source>Nature</source>
+<year>2014</year>, <volume>507</volume> (<issue>7490</issue>), <fpage>26</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1038/507026a</pub-id>.<pub-id pub-id-type="pmid">24598624</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Placke</surname><given-names>T.</given-names></name>; <name><surname>Kloepsch</surname><given-names>R.</given-names></name>; <name><surname>D&#x000fc;hnen</surname><given-names>S.</given-names></name>; <name><surname>Winter</surname><given-names>M.</given-names></name>
+<article-title>Lithium Ion, Lithium
+Metal, and Alternative Rechargeable Battery Technologies: The Odyssey
+for High Energy Density</article-title>. <source>J. Solid State Electrochem.</source>
+<year>2017</year>, <volume>21</volume> (<issue>7</issue>), <fpage>1939</fpage>&#x02013;<lpage>1964</lpage>. <pub-id pub-id-type="doi">10.1007/s10008-017-3610-7</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Dufek</surname><given-names>E. J.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Khalifah</surname><given-names>P.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Liaw</surname><given-names>B. Y.</given-names></name>; <name><surname>Liu</surname><given-names>P.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>; <name><surname>Subramanian</surname><given-names>V. R.</given-names></name>; <name><surname>Toney</surname><given-names>M. F.</given-names></name>; <name><surname>Viswanathan</surname><given-names>V. V.</given-names></name>; <name><surname>Whittingham</surname><given-names>M. S.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>X.-Q.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Pathways for Practical High-Energy
+Long-Cycling Lithium
+Metal Batteries</article-title>. <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume> (<issue>3</issue>), <fpage>180</fpage>&#x02013;<lpage>186</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-019-0338-x</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Liu</surname><given-names>N.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Pasta</surname><given-names>M.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Nanomaterials for Electrochemical
+Energy Storage</article-title>. <source>Front. Phys.</source>
+<year>2014</year>, <volume>9</volume> (<issue>3</issue>), <fpage>323</fpage>&#x02013;<lpage>350</lpage>. <pub-id pub-id-type="doi">10.1007/s11467-013-0408-7</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Nzereogu</surname><given-names>P. U.</given-names></name>; <name><surname>Omah</surname><given-names>A. D.</given-names></name>; <name><surname>Ezema</surname><given-names>F. I.</given-names></name>; <name><surname>Iwuoha</surname><given-names>E. I.</given-names></name>; <name><surname>Nwanya</surname><given-names>A. C.</given-names></name>
+<article-title>Anode Materials
+for Lithium-Ion Batteries: A Review</article-title>. <source>Appl. Surf.
+Sci. Adv.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>100233</fpage><pub-id pub-id-type="doi">10.1016/j.apsadv.2022.100233</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="book" id="cit6"><article-title>CRC Handbook of Chemistry and Physics</article-title>, <edition>95th</edition> Ed.; <person-group person-group-type="editor"><name><surname>Haynes</surname><given-names>W. M.</given-names></name></person-group>, Ed.; <publisher-name>CRC Press</publisher-name>: <publisher-loc>Boca Raton, FL</publisher-loc>, <year>2003</year>; Section 5, p <fpage>80</fpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Weber</surname><given-names>R.</given-names></name>; <name><surname>Genovese</surname><given-names>M.</given-names></name>; <name><surname>Louli</surname><given-names>A. J.</given-names></name>; <name><surname>Hames</surname><given-names>S.</given-names></name>; <name><surname>Martin</surname><given-names>C.</given-names></name>; <name><surname>Hill</surname><given-names>I. G.</given-names></name>; <name><surname>Dahn</surname><given-names>J. R.</given-names></name>
+<article-title>Long Cycle
+Life and Dendrite-Free
+Lithium Morphology in Anode-Free Lithium Pouch Cells Enabled by a
+Dual-Salt Liquid Electrolyte</article-title>. <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume> (<issue>8</issue>), <fpage>683</fpage>&#x02013;<lpage>689</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-019-0428-9</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Nanda</surname><given-names>S.</given-names></name>; <name><surname>Gupta</surname><given-names>A.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Anode-Free Full Cells: A Pathway
+to High-Energy Density Lithium-Metal Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume> (<issue>2</issue>), <fpage>2000804</fpage><pub-id pub-id-type="doi">10.1002/aenm.202000804</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Xiong</surname><given-names>X.</given-names></name>; <name><surname>Zhi</surname><given-names>R.</given-names></name>; <name><surname>Zhou</surname><given-names>Q.</given-names></name>; <name><surname>Yan</surname><given-names>W.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Fu</surname><given-names>L.</given-names></name>; <name><surname>Yu</surname><given-names>N.</given-names></name>; <name><surname>Wu</surname><given-names>Y.</given-names></name>
+<article-title>A Binary PMMA/PVDF Blend Film Modified
+Substrate Enables a Superior Lithium Metal Anode for Lithium Batteries</article-title>. <source>Mater. Adv.</source>
+<year>2021</year>, <volume>2</volume> (<issue>13</issue>), <fpage>4240</fpage>&#x02013;<lpage>4245</lpage>. <pub-id pub-id-type="doi">10.1039/D1MA00121C</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Assegie</surname><given-names>A. A.</given-names></name>; <name><surname>Cheng</surname><given-names>J.-H.</given-names></name>; <name><surname>Kuo</surname><given-names>L.-M.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B.-J.</given-names></name>
+<article-title>Polyethylene
+Oxide Film Coating Enhances Lithium Cycling Efficiency of an Anode-Free
+Lithium-Metal Battery</article-title>. <source>Nanoscale</source>
+<year>2018</year>, <volume>10</volume> (<issue>13</issue>), <fpage>6125</fpage>&#x02013;<lpage>6138</lpage>. <pub-id pub-id-type="doi">10.1039/C7NR09058G</pub-id>.<pub-id pub-id-type="pmid">29557449</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Yang</surname><given-names>C.-P.</given-names></name>; <name><surname>Yin</surname><given-names>Y.-X.</given-names></name>; <name><surname>Zhang</surname><given-names>S.-F.</given-names></name>; <name><surname>Li</surname><given-names>N.-W.</given-names></name>; <name><surname>Guo</surname><given-names>Y.-G.</given-names></name>
+<article-title>Accommodating
+Lithium into 3D Current Collectors with a Submicron Skeleton towards
+Long-Life Lithium Metal Anodes</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume> (<issue>1</issue>), <fpage>8058</fpage><pub-id pub-id-type="doi">10.1038/ncomms9058</pub-id>.<pub-id pub-id-type="pmid">26299379</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Huang</surname><given-names>G.</given-names></name>; <name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Kashani</surname><given-names>H.</given-names></name>; <name><surname>Watanabe</surname><given-names>K.</given-names></name>; <name><surname>Chen</surname><given-names>M.</given-names></name>
+<article-title>Lithiophilic
+3D Nanoporous Nitrogen Doped Graphene for Dendrite Free
+and Ultrahigh Rate</article-title>. <source>Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume> (<issue>2</issue>), <fpage>1805334</fpage><pub-id pub-id-type="doi">10.1002/adma.201805334</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Fu</surname><given-names>Y.</given-names></name>; <name><surname>Xiang</surname><given-names>P.</given-names></name>; <name><surname>Chen</surname><given-names>D.</given-names></name>; <name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Yao</surname><given-names>T.</given-names></name>; <name><surname>Shen</surname><given-names>L.</given-names></name>
+<article-title>3D Structured Lithiophilic Current
+Collector with Lithiation Nucleation
+Overpotential near 0 V for Dendrite-Free Lithium Metal Anode</article-title>. <source>Electrochim. Acta</source>
+<year>2024</year>, <volume>506</volume>, <fpage>144967</fpage><pub-id pub-id-type="doi">10.1016/j.electacta.2024.144967</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Qian</surname><given-names>J.</given-names></name>; <name><surname>Adams</surname><given-names>B. D.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Henderson</surname><given-names>W. A.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Bowden</surname><given-names>M. E.</given-names></name>; <name><surname>Xu</surname><given-names>S.</given-names></name>; <name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Anode-Free Rechargeable Lithium Metal Batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2016</year>, <volume>26</volume>, <fpage>7094</fpage>&#x02013;<lpage>7102</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201602353</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Rodriguez</surname><given-names>R.</given-names></name>; <name><surname>Loeffler</surname><given-names>K. E.</given-names></name>; <name><surname>Edison</surname><given-names>R. A.</given-names></name>; <name><surname>Stephens</surname><given-names>R. M.</given-names></name>; <name><surname>Dolocan</surname><given-names>A.</given-names></name>; <name><surname>Heller</surname><given-names>A.</given-names></name>; <name><surname>Mullins</surname><given-names>C. B.</given-names></name>
+<article-title>Effect of the Electrolyte on the
+Cycling Efficiency of Lithium-Limited Cells and Their Morphology Studied
+Through in Situ Optical Imaging</article-title>. <source>ACS Appl. Energy
+Mater.</source>
+<year>2018</year>, <volume>1</volume> (<issue>11</issue>), <fpage>5830</fpage>&#x02013;<lpage>5835</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.8b01194</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Hobold</surname><given-names>G. M.</given-names></name>; <name><surname>Kim</surname><given-names>K.-H.</given-names></name>; <name><surname>Gallant</surname><given-names>B. M.</given-names></name>
+<article-title>Beneficial vs. Inhibiting Passivation
+by the Native Lithium Solid Electrolyte Interphase Revealed by Electrochemical
+Li<sup>+</sup> Exchange</article-title>. <source>Energy Environ. Sci.</source>
+<year>2023</year>, <volume>16</volume> (<issue>5</issue>), <fpage>2247</fpage>&#x02013;<lpage>2261</lpage>. <pub-id pub-id-type="doi">10.1039/D2EE04203G</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Pei</surname><given-names>A.</given-names></name>; <name><surname>Zheng</surname><given-names>G.</given-names></name>; <name><surname>Shi</surname><given-names>F.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Nanoscale
+Nucleation and Growth of Electrodeposited Lithium Metal</article-title>. <source>Nano Lett.</source>
+<year>2017</year>, <volume>17</volume> (<issue>2</issue>), <fpage>1132</fpage>&#x02013;<lpage>1139</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.6b04755</pub-id>.<pub-id pub-id-type="pmid">28072543</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Tang</surname><given-names>K.</given-names></name>; <name><surname>Tian</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>Z. J.</given-names></name>
+<article-title>Anode-Free Lithium
+Metal Batteries: A Promising Flexible Energy Storage System</article-title>. <source>J. Mater. Chem. A</source>
+<year>2024</year>, <volume>12</volume> (<issue>27</issue>), <fpage>16268</fpage>&#x02013;<lpage>16292</lpage>. <pub-id pub-id-type="doi">10.1039/D4TA02003K</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Sadd</surname><given-names>M.</given-names></name>; <name><surname>Kapitanova</surname><given-names>O. O.</given-names></name>; <name><surname>Krivchenko</surname><given-names>V. A.</given-names></name>; <name><surname>Ban</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Jiao</surname><given-names>X.</given-names></name>; <name><surname>Song</surname><given-names>Z.</given-names></name>; <name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>Xiong</surname><given-names>S.</given-names></name>; <name><surname>Matic</surname><given-names>A.</given-names></name>
+<article-title>Insight into the Critical Role of
+Exchange Current Density on Electrodeposition Behavior of Lithium
+Metal</article-title>. <source>Adv. Sci.</source>
+<year>2021</year>, <volume>8</volume> (<issue>5</issue>), <fpage>2003301</fpage><pub-id pub-id-type="doi">10.1002/advs.202003301</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Xiao</surname><given-names>Y.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Xu</surname><given-names>R.</given-names></name>; <name><surname>Ding</surname><given-names>J.-F.</given-names></name>; <name><surname>Liang</surname><given-names>J.</given-names></name>; <name><surname>Peng</surname><given-names>H.-J.</given-names></name>; <name><surname>Yuan</surname><given-names>H.</given-names></name>; <name><surname>Huang</surname><given-names>J.-Q.</given-names></name>
+<article-title>A Bifunctional
+Ethylene-Vinyl Acetate Copolymer Protective Layer for Dendrites-Free
+Lithium Metal Anodes</article-title>. <source>J. Energy Chem.</source>
+<year>2020</year>, <volume>48</volume>, <fpage>203</fpage>&#x02013;<lpage>207</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2020.01.027</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Gan</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Yu</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Xue</surname><given-names>Z.</given-names></name>
+<article-title>Self-Healing Single-Ion Conducting
+Polymer Electrolyte Formed via
+Supramolecular Networks for Lithium Metal Batteries</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2021</year>, <volume>4</volume> (<issue>1</issue>), <fpage>482</fpage>&#x02013;<lpage>491</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c02384</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>
+<article-title>Self-Healing
+Chemistry Enables the Stable Operation of Silicon Microparticle Anodes
+for High-Energy Lithium-Ion Batteries</article-title>. <source>Nat.
+Chem.</source>
+<year>2013</year>, <volume>5</volume> (<issue>12</issue>), <fpage>1042</fpage>&#x02013;<lpage>1048</lpage>. <pub-id pub-id-type="doi">10.1038/nchem.1802</pub-id>.<pub-id pub-id-type="pmid">24256869</pub-id>
+</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Chen</surname><given-names>P.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Yi</surname><given-names>H.</given-names></name>; <name><surname>Wu</surname><given-names>Q.</given-names></name>; <name><surname>Song</surname><given-names>L.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Tan</surname><given-names>L.</given-names></name>
+<article-title>Self-Healing Artificial Solid Electrolyte Interphase
+Enhanced by Quadruple Hydrogen Bonding for Stable Lithium Metal Anode</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2022</year>, <volume>604</volume>, <fpage>154468</fpage><pub-id pub-id-type="doi">10.1016/j.apsusc.2022.154468</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Lyu</surname><given-names>Z.</given-names></name>; <name><surname>Han</surname><given-names>M.</given-names></name>
+<article-title>Robust and Fast Estimation of Equivalent Circuit Model
+from Noisy Electrochemical Impedance Spectra</article-title>. <source>Electrochim. Acta</source>
+<year>2022</year>, <volume>422</volume>, <fpage>140474</fpage><pub-id pub-id-type="doi">10.1016/j.electacta.2022.140474</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Park</surname><given-names>S. H.</given-names></name>; <name><surname>Lee</surname><given-names>T. H.</given-names></name>; <name><surname>Park</surname><given-names>Y. I.</given-names></name>; <name><surname>Noh</surname><given-names>S. M.</given-names></name>; <name><surname>Kim</surname><given-names>J. C.</given-names></name>
+<article-title>Effect
+of the n -Butyl Acrylate/2-Ethylhexyl Acrylate Weight Ratio on the
+Performances of Waterborne Core-Shell PSAs</article-title>. <source>J. Ind. Eng. Chem.</source>
+<year>2017</year>, <volume>53</volume>, <fpage>111</fpage>&#x02013;<lpage>118</lpage>. <pub-id pub-id-type="doi">10.1016/j.jiec.2017.04.010</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Fan</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Cai</surname><given-names>Z.</given-names></name>
+<article-title>Facile Preparation of a High-Transparency
+Anti-Fogging/Frost-Resisting
+Poly(AMPS-Co-AA) Coating with Self-Healing Property</article-title>. <source>Prog. Org. Coat.</source>
+<year>2021</year>, <volume>151</volume>, <fpage>106053</fpage><pub-id pub-id-type="doi">10.1016/j.porgcoat.2020.106053</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Atta</surname><given-names>A. M.</given-names></name>; <name><surname>El-Mahdy</surname><given-names>G. A.</given-names></name>; <name><surname>Al-Lohedan</surname><given-names>H. A.</given-names></name>; <name><surname>Shoueir</surname><given-names>K. R.</given-names></name>
+<article-title>Electrochemical
+Behavior of Smart N-Isopropyl Acrylamide Copolymer Nanogel on Steel
+for Corrosion Protection in Acidic Solution</article-title>. <source>Int. J. Electrochem. Sci.</source>
+<year>2015</year>, <volume>10</volume> (<issue>1</issue>), <fpage>870</fpage>&#x02013;<lpage>882</lpage>. <pub-id pub-id-type="doi">10.1016/S1452-3981(23)05040-X</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Xiao</surname><given-names>C.</given-names></name>; <name><surname>Lin</surname><given-names>J.</given-names></name>
+<article-title>PAMPS- <italic>Graft</italic> -Ni <sub>3</sub> Si <sub>2</sub> O <sub>5</sub> (OH) <sub>4</sub> Multiwalled Nanotubes as a Novel Nano-Sorbent
+for the Effective Removal of Pb(II) Ions</article-title>. <source>RSC
+Adv.</source>
+<year>2020</year>, <volume>10</volume> (<issue>13</issue>), <fpage>7619</fpage>&#x02013;<lpage>7627</lpage>. <pub-id pub-id-type="doi">10.1039/C9RA10971D</pub-id>.<pub-id pub-id-type="pmid">35492162</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Huang</surname><given-names>C.-J.</given-names></name>; <name><surname>Thirumalraj</surname><given-names>B.</given-names></name>; <name><surname>Tao</surname><given-names>H.-C.</given-names></name>; <name><surname>Shitaw</surname><given-names>K. N.</given-names></name>; <name><surname>Sutiono</surname><given-names>H.</given-names></name>; <name><surname>Hagos</surname><given-names>T. T.</given-names></name>; <name><surname>Beyene</surname><given-names>T. T.</given-names></name>; <name><surname>Kuo</surname><given-names>L.-M.</given-names></name>; <name><surname>Wang</surname><given-names>C.-C.</given-names></name>; <name><surname>Wu</surname><given-names>S.-H.</given-names></name>; <name><surname>Su</surname><given-names>W.-N.</given-names></name>; <name><surname>Hwang</surname><given-names>B. J.</given-names></name>
+<article-title>Decoupling the Origins
+of Irreversible Coulombic Efficiency in Anode-Free Lithium Metal Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume> (<issue>1</issue>), <fpage>1452</fpage><pub-id pub-id-type="doi">10.1038/s41467-021-21683-6</pub-id>.<pub-id pub-id-type="pmid">33664259</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Fang</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>F.</given-names></name>; <name><surname>Lee</surname><given-names>J. Z.</given-names></name>; <name><surname>Lee</surname><given-names>M.-H.</given-names></name>; <name><surname>Alvarado</surname><given-names>J.</given-names></name>; <name><surname>Schroeder</surname><given-names>M. A.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Lu</surname><given-names>B.</given-names></name>; <name><surname>Williams</surname><given-names>N.</given-names></name>; <name><surname>Ceja</surname><given-names>M.</given-names></name>; <name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Cai</surname><given-names>M.</given-names></name>; <name><surname>Gu</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>
+<article-title>Quantifying Inactive Lithium in Lithium
+Metal Batteries</article-title>. <source>Nature</source>
+<year>2019</year>, <volume>572</volume> (<issue>7770</issue>), <fpage>511</fpage>&#x02013;<lpage>515</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1481-z</pub-id>.<pub-id pub-id-type="pmid">31435056</pub-id>
+</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Alvarado</surname><given-names>J.</given-names></name>; <name><surname>Schroeder</surname><given-names>M. A.</given-names></name>; <name><surname>Pollard</surname><given-names>T. P.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Lee</surname><given-names>J. Z.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Wynn</surname><given-names>T.</given-names></name>; <name><surname>Ding</surname><given-names>M.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>
+<article-title>Bisalt Ether Electrolytes: A Pathway
+towards Lithium Metal Batteries with Ni-Rich Cathodes</article-title>. <source>Energy Environ. Sci.</source>
+<year>2019</year>, <volume>12</volume> (<issue>2</issue>), <fpage>780</fpage>&#x02013;<lpage>794</lpage>. <pub-id pub-id-type="doi">10.1039/C8EE02601G</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Wu</surname><given-names>L.</given-names></name>; <name><surname>Nachimuthu</surname><given-names>S.</given-names></name>; <name><surname>Brandell</surname><given-names>D.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>
+<article-title>Prediction of SEI Formation
+in All Solid State Batteries: Computational Insights from PCL based
+Polymer Electrolyte Decomposition on Lithium Metal</article-title>. <source>Batter. Supercaps</source>
+<year>2022</year>, <volume>5</volume> (<issue>9</issue>), <fpage>e202200088</fpage><pub-id pub-id-type="doi">10.1002/batt.202200088</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Wu</surname><given-names>L.-T.</given-names></name>; <name><surname>Nachimuthu</surname><given-names>S.</given-names></name>; <name><surname>Brandell</surname><given-names>D.</given-names></name>; <name><surname>Tsai</surname><given-names>C.-N.</given-names></name>; <name><surname>Wang</surname><given-names>P.-H.</given-names></name>; <name><surname>Li</surname><given-names>Y.-W.</given-names></name>; <name><surname>Jiang</surname><given-names>J.-C.</given-names></name>
+<article-title>Role of Copper as Current Collectors
+in the Reductive Reactivity of Polymers for Anode-Free Lithium Metal
+Batteries - Insights from DFT and AIMD Studies</article-title>. <source>Mater. Today Phys.</source>
+<year>2023</year>, <volume>38</volume>, <fpage>101253</fpage><pub-id pub-id-type="doi">10.1016/j.mtphys.2023.101253</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Ji</surname><given-names>X.</given-names></name>; <name><surname>Deng</surname><given-names>T.</given-names></name>; <name><surname>Hou</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>Highly Fluorinated
+Interphases Enable High-Voltage
+Li-Metal Batteries</article-title>. <source>Chem.</source>
+<year>2018</year>, <volume>4</volume> (<issue>1</issue>), <fpage>174</fpage>&#x02013;<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1016/j.chempr.2017.10.017</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Kalinov</surname><given-names>K. N.</given-names></name>; <name><surname>Ignatova</surname><given-names>M. G.</given-names></name>; <name><surname>Manolova</surname><given-names>N. E.</given-names></name>; <name><surname>Markova</surname><given-names>N. D.</given-names></name>; <name><surname>Karashanova</surname><given-names>D. B.</given-names></name>; <name><surname>Rashkov</surname><given-names>I. B.</given-names></name>
+<article-title>Novel Antibacterial
+Electrospun Materials Based on
+Polyelectrolyte Complexes of a Quaternized Chitosan Derivative</article-title>. <source>RSC Adv.</source>
+<year>2015</year>, <volume>5</volume> (<issue>67</issue>), <fpage>54517</fpage>&#x02013;<lpage>54526</lpage>. <pub-id pub-id-type="doi">10.1039/C5RA08484A</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Mandal</surname><given-names>S.</given-names></name>; <name><surname>Kumari</surname><given-names>S.</given-names></name>; <name><surname>Kumar</surname><given-names>M.</given-names></name>; <name><surname>Ojha</surname><given-names>U.</given-names></name>
+<article-title>Supplementary Networking
+of Interpenetrating Polymer System (SNIPSy) Strategy to Develop Strong
+&#x00026; High Water Content Ionic Hydrogels for Solid Electrolyte Applications</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume> (<issue>26</issue>), <fpage>2100251</fpage><pub-id pub-id-type="doi">10.1002/adfm.202100251</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Easteal</surname><given-names>A. J.</given-names></name>
+<article-title>Thermoanalytical, Spectroscopic, and Morphological
+Study of Poly(Ethylene Glycol)/Poly(2 acrylamido 2 methylpropanesulfonic
+Acid <italic>Co N</italic> isopropylacrylamide) Semi interpenetrating
+Network Gels</article-title>. <source>J. Appl. Polym. Sci.</source>
+<year>2007</year>, <volume>104</volume> (<issue>3</issue>), <fpage>1723</fpage>&#x02013;<lpage>1731</lpage>. <pub-id pub-id-type="doi">10.1002/app.25812</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Jiang</surname><given-names>Z.</given-names></name>; <name><surname>Zheng</surname><given-names>X.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>
+<article-title>Proton Conducting
+CS/P(AA-AMPS) Membrane with Reduced Methanol Permeability for DMFCs</article-title>. <source>J. Power Sources</source>
+<year>2008</year>, <volume>180</volume> (<issue>1</issue>), <fpage>143</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2008.01.049</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Wu</surname><given-names>L.-T.</given-names></name>; <name><surname>Andersson</surname><given-names>E. K. W.</given-names></name>; <name><surname>Hahlin</surname><given-names>M.</given-names></name>; <name><surname>Mindemark</surname><given-names>J.</given-names></name>; <name><surname>Brandell</surname><given-names>D.</given-names></name>; <name><surname>Jiang</surname><given-names>J.-C.</given-names></name>
+<article-title>A Method
+for Modelling Polymer Electrolyte
+Decomposition during the Li-Nucleation Process in Li-Metal Batteries</article-title>. <source>Sci. Rep.</source>
+<year>2023</year>, <volume>13</volume> (<issue>1</issue>), <fpage>9060</fpage><pub-id pub-id-type="doi">10.1038/s41598-023-36271-5</pub-id>.<pub-id pub-id-type="pmid">37271770</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Andersson</surname><given-names>E. K. W.</given-names></name>; <name><surname>Wu</surname><given-names>L.-T.</given-names></name>; <name><surname>Bertoli</surname><given-names>L.</given-names></name>; <name><surname>Weng</surname><given-names>Y.-C.</given-names></name>; <name><surname>Friesen</surname><given-names>D.</given-names></name>; <name><surname>Elbouazzaoui</surname><given-names>K.</given-names></name>; <name><surname>Bloch</surname><given-names>S.</given-names></name>; <name><surname>Ovsyannikov</surname><given-names>R.</given-names></name>; <name><surname>Giangrisostomi</surname><given-names>E.</given-names></name>; <name><surname>Brandell</surname><given-names>D.</given-names></name>; <name><surname>Mindemark</surname><given-names>J.</given-names></name>; <name><surname>Jiang</surname><given-names>J.-C.</given-names></name>; <name><surname>Hahlin</surname><given-names>M.</given-names></name>
+<article-title>Initial SEI Formation in LiBOB-,
+LiDFOB- and LiBF <sub>4</sub> -Containing PEO Electrolytes</article-title>. <source>J. Mater. Chem. A</source>
+<year>2024</year>, <volume>12</volume> (<issue>15</issue>), <fpage>9184</fpage>&#x02013;<lpage>9199</lpage>. <pub-id pub-id-type="doi">10.1039/D3TA07175H</pub-id>.</mixed-citation></ref></ref-list></back></article>

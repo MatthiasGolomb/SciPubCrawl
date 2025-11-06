@@ -1,0 +1,924 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">RSC Adv</journal-id><journal-id journal-id-type="iso-abbrev">RSC Adv</journal-id><journal-id journal-id-type="publisher-id">RA</journal-id><journal-id journal-id-type="coden">RSCACL</journal-id><journal-title-group><journal-title>RSC Advances</journal-title></journal-title-group><issn pub-type="epub">2046-2069</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11095362</article-id><article-id pub-id-type="publisher-id">d4ra00737a</article-id><article-id pub-id-type="doi">10.1039/d4ra00737a</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Stabilization of NCM811 cathode interface through macromolecular compound protective film formed by 2,5-bis(2,2,2-trifluoroethoxy)-benzoic acid additive in lithium metal batteries<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available. See DOI: <uri xlink:href="https://doi.org/10.1039/d4ra00737a">https://doi.org/10.1039/d4ra00737a</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hou</surname><given-names>Yixin</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref><xref rid="fn2" ref-type="author-notes">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Song</surname><given-names>Daiheng</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref><xref rid="fn2" ref-type="author-notes">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Peiyao</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0002-4093-6885</contrib-id><name><surname>Zhang</surname><given-names>Bowen</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Dai</surname><given-names>Ding</given-names></name><xref rid="affc" ref-type="aff">c</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7780-1410</contrib-id><contrib-id contrib-id-type="resid" authenticated="false">Y-5063-2018</contrib-id><name><surname>Tan</surname><given-names>Huifeng</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>Center for Composite Materials, Harbin Institute of Technology</institution>
+<city>Harbin</city>
+<postal-code>150001</postal-code>
+<country>China</country>
+<email>tanhf@hit.edu.cn</email>
+</aff><aff id="affb">
+<label>b</label>
+<institution>National Key Laboratory of Science and Technology on Advanced Composites in Special Environments, Harbin Institute of Technology</institution>
+<city>Harbin 150080</city>
+<country>China</country>
+</aff><aff id="affc">
+<label>c</label>
+<institution>Key Laboratory of Forest Plant Ecology, Ministry of Education, College of Chemistry, Chemical Engineering and Resource Utilization, Northeast Forestry University</institution>
+<city>Harbin 150001</city>
+<country>P. R. China</country>
+<email>daiding@nefu.edu.cn</email>
+</aff></contrib-group><author-notes><fn id="fn2"><label>&#x02021;</label><p>Authors contribute equally to this work.</p></fn></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2024-05-15"><day>15</day><month>5</month><year>2024</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2024-05-10"><day>10</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="pmc-release"><day>15</day><month>5</month><year>2024</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>14</volume><issue>22</issue><fpage>15804</fpage><lpage>15811</lpage><history><date date-type="received" iso-8601-date="2024-01-29"><day>29</day><month>1</month><year>2024</year></date><date date-type="accepted" iso-8601-date="2024-04-06"><day>6</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2024-05-15">https://creativecommons.org/licenses/by/3.0/</ali:license_ref></license></permissions><abstract><p>Lithium metal batteries (LMBs) offer substantial promise for next-generation energy storage owing to lithium metal's low reduction potential (&#x02212;3.045 V <italic toggle="yes">vs.</italic> the standard hydrogen electrode) and its high specific capacity of 3860 mA h g<sup>&#x02212;1</sup>. Among various cathode materials in LMBs, LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub> (NCM811) is extensively employed because of its notably high specific capacity (over 200 mA h g<sup>&#x02212;1</sup>) and comparatively lower cost. However, structural stress, nickel ions migration, and uneven Li<sup>+</sup> deposition in NCM811 particles lead to cracking, irreversible decomposition of active substances, and the growth of mossy Li dendrites, causing severe capacity decline and low Coulomb efficiency in LMBs. In this study, we introduce an effective ethoxyl additive, 2,5-bis(2,2,2-trifluoroethoxy)-benzoic acid (2,5BTBA), directly into the carbonate electrolyte. This additive forms a dense and conductive macromolecular protective film on the NCM811 cathode and lithium metal anode during initial cycles, preventing electrode contact with the electrolyte. Consequently, it safeguards the cathode's structural integrity and enables dense lithium deposition. Adding 3 wt% 2,5BTBA, the Li/NCM811 battery retains a high capacity of 150.60 mA h g<sup>&#x02212;1</sup> and 89.41% retention after 700 cycles at 0.5C, maintaining an average Coulomb efficiency of 99.13%. This study presents an efficient and straightforward strategy to enhance the capacity retention of LMBs.</p></abstract><abstract abstract-type="toc"><p>2,5-Bis(2,2,2-trifluoroethoxy)-benzoic acid forms a protective film of poly(trifluoroethyl acrylate), leading to improved capacity retention.<graphic xlink:href="d4ra00737a-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>Natural Science Foundation of Heilongjiang Province</institution><institution-id institution-id-type="doi">10.13039/501100005046</institution-id></institution-wrap>
+</funding-source><award-id>YQ2020B002</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>12002109</award-id></award-group></funding-group><counts><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>The increasing demand for electric vehicles and portable electronics has made high energy density, long cycle life, and cost-effective batteries a focal point and a driving force in the energy revolution. Lithium-ion batteries (LIBs) comprising graphite anodes and lithium transition metal oxide cathodes have gained significant attention due to their advantages of high energy density, high power density, long cycle life, and absence of memory effect.<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> LIBs have made substantial progress, particularly in portable electronic equipment, hybrid electric vehicles, and pure electric vehicles. However, they face challenges in surpassing the energy density limit of 300 W h kg<sup>&#x02212;1</sup>.<sup><xref rid="cit2" ref-type="bibr">2</xref></sup></p><p>The energy density of lithium batteries is projected to reach 500 W h kg<sup>&#x02212;1</sup> in the next decade, driven by the swift advancements in electric vehicles and portable electronic devices.<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> Lithium metal anodes have received extensive attention due to the low density of 0.534 g cm<sup>&#x02212;3</sup>, the most electronegative potential (&#x02212;3.04 V <italic toggle="yes">vs.</italic> standard hydrogen electrode) and extremely high capacity (3860 mA h g<sup>&#x02212;1</sup>).<sup><xref rid="cit3" ref-type="bibr">3,4</xref></sup> Therefore, LMBs get a tremendous opportunity to meet the goal of energy density.<sup><xref rid="cit5" ref-type="bibr">5,6</xref></sup> However, LMBs encounter limitations hindering their widespread commercial adoption. For the high chemical activity and electrochemical reactivity, lithium metal readily reacts with the electrolyte, which results in electrolyte depletion, dead lithium accumulation, and uncontrollable dendrite growth, causing potential safety concerns and capacity loss in LMBs.<sup><xref rid="cit7" ref-type="bibr">7&#x02013;9</xref></sup></p><p>The cathode material is crucial in enhancing the performance of LMBs. Among diverse options, LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub> (NCM811) garners significant interest owing to its exceptionally high theoretical specific capacity (288 mA h g<sup>&#x02212;1</sup>) and comparatively lower cost. Nevertheless, based on significant reports detailing the inherent flaws of NCM811, the close similarity in the radii of Li<sup>+</sup> and Ni<sup>2+</sup> ions enables dissociative Ni<sup>2+</sup> to readily occupy Li<sup>+</sup> sites. This phenomenon compromises the structural stability of NCM811, resulting in irreparable damage to the cathode electrolyte interphase (CEI) and swift capacity degradation.<sup><xref rid="cit10" ref-type="bibr">10&#x02013;12</xref></sup> Additionally, the CEI formed on NCM811 is susceptible to cracking as the voltage exceeds 4.0 V in carbonate electrolytes like fluoroethylene carbonate (FEC) and diethyl carbonate (DEC).<sup><xref rid="cit9" ref-type="bibr">9</xref></sup> Consequently, continual contact between NCM811 particles and the electrolyte induces severe side reactions, causing erosion of active surface sites.<sup><xref rid="cit10" ref-type="bibr">10,13&#x02013;16</xref></sup> The breakdown of CEI dramatically reduces the capacity retention of LMBs employing FEC + DEC electrolytes to as low as 80% after fewer than 350 cycles.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup></p><p>Various electrolyte engineering methods have been devised to tackle these challenges. In 2019, Shi's team achieved 93.8% capacity retention after 400 cycles by introducing succinic anhydride to form a conductive solid electrolyte interphase (SEI).<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> Furthermore, Wang's research group devised a LiI electrolyte additive to fortify both SEI and CEI layers, resulting in extended cycling durability surpassing 600 hours.<sup><xref rid="cit18" ref-type="bibr">18</xref></sup> Jaumaux <italic toggle="yes">et al.</italic> introduced a deep eutectic solvent based self-healing polymer electrolyte to rise the capacity retention to 86.1% after 200 cycles.<sup><xref rid="cit19" ref-type="bibr">19</xref></sup> These impactful studies elucidate the broad potential in the field of electrolyte engineering for LMBs. However, these studies have not achieved an exceptionally prolonged cycling life and high-capacity retention with straightforward and cost-effective methodologies.</p><p>In this study, we propose an economical and efficient coating strategy by introducing a sacrificial electrolyte additive. This additive decomposes to form a protective film, stabilizing the electrode interfaces. This approach enhances the structural stability of NCM811 and facilitates the uniform deposition of lithium on the Li anode. Direct incorporation of the sacrificial ethoxyl additive, 2,5-bis(2,2,2-trifluoroethoxy)-benzoic acid (2,5BTBA), into the carbonate electrolyte results in the decomposition of the additive, forming a high-polymer film. This film effectively shields the cathode from the electrolyte, thereby impeding parasitic reactions, migration of nickel ions, and degradation of the NCM811 structure. Utilizing 3 wt% 2,5BTBA in the carbonate electrolyte, the Li/NCM811 battery exhibits a remaining capacity of 150.60 mA h g<sup>&#x02212;1</sup> after 700 cycles, retaining 89.41% capacity at 0.5C with an average Coulomb efficiency of 99.13%. These results significantly surpass the performance of the Li/NCM811 battery without 2,5BTBA. Our findings introduce a novel approach for developing long-life LMBs through a cost-effective and straightforward method.<sup><xref rid="cit4" ref-type="bibr">4,20&#x02013;22</xref></sup></p></sec><sec><title>Results and discussion</title><sec><title>Electrolyte design for high polymer film to protect SEI/CEI</title><p>As illustrated in <xref rid="fig1" ref-type="fig">Fig. 1a</xref>, the NCM811 cathode experiences the migration of nickel ions and non-uniform distribution of Li<sup>+</sup>, resulting in structural deterioration of NCM811. This phenomenon causes substantial particle cracking and significant loss of active sites.<sup><xref rid="cit23" ref-type="bibr">23,24</xref></sup> The resultant damage manifests prominently across the surface of the NCM811 cathode. Conversely, irregular deposition and stripping of lithium ions on the Li anode prompt unregulated lithium dendrite growth.<sup><xref rid="cit25" ref-type="bibr">25,26</xref></sup> Uncontrolled proliferation of lithium dendrites leads to considerable capacity reduction and diminished Coulomb efficiency.<sup><xref rid="cit27" ref-type="bibr">27,28</xref></sup></p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>Design strategy of LMBs with 2,5BTBA sacrificial additive. Schematic diagrams of Li/NCM811 batteries without (a) and with (b) 2,5BTBA sacrificial additive; SEM images of cathodes (c, d, g and h) and anodes (e, f, i and j) of Li/NCM811 batteries after 50 cycles at 0.5C, comparing those without (c&#x02013;f) and with (g&#x02013;j) 2,5BTBA sacrificial additive.</title></caption><graphic xlink:href="d4ra00737a-f1" position="float"/></fig><p>In contrast, upon the introduction of 2,5BTBA, a dense polymer film is generated, acting as a robust shield for both the NCM811 cathode and the Li anode. This film completely envelops the NCM811 cathode and the lithium metal anode, forming a protective layer that prevents further reactions between the electrodes and the carbonate electrolyte, effectively averting cracking of NCM811 particles and dendritic growth of lithium metal (<xref rid="fig1" ref-type="fig">Fig. 1b</xref>). Throughout the cycling process, mechanical stress initiates cracking in the NCM811 particles. Furthermore, the dissolution of transition metals exacerbates these cracks, as evidenced by the scanning electron microscopy (SEM) images of the cycled NCM811 cathode under high voltage (<xref rid="fig1" ref-type="fig">Fig. 1c and d</xref>). The cracks intensify parasitic reactions between the NCM811 and electrolyte, leading to continuous depletion of active substances and rapid capacity loss.<sup><xref rid="cit29" ref-type="bibr">29</xref></sup> Additionally, the cycled Li/NCM811 battery lacking 2,5BTBA exhibits characteristic mossy dendrites on the lithium metal anode, evident in <xref rid="fig1" ref-type="fig">Fig. 1e and f</xref>. These dendrites result from heterogeneous lithium deposition, causing irreversible electrolyte consumption and subsequent capacity loss.<sup><xref rid="cit30" ref-type="bibr">30,31</xref></sup> The structural deterioration observed in the NCM811 cathode and the presence of mossy dendrites on the Li anode indicate the instability of the SEI and CEI layers formed in the cycled Li/NCM811 battery without 2,5BTBA. This instability complicates the prevention of parasitic effects that damage active sites, consequently leading to substantial capacity degradation.<sup><xref rid="cit32" ref-type="bibr">32</xref></sup> Higher magnification SEM images (Fig. S5 and S6<xref rid="fn1" ref-type="fn">&#x02020;</xref>) also confirmed that the cathode surface in batteries with 2,5BTBA was covered with a layer of high polymer (Fig. S5a and c<xref rid="fn1" ref-type="fn">&#x02020;</xref>). This coverage resulted in a smoother cathode surface (Fig. S5b and d<xref rid="fn1" ref-type="fn">&#x02020;</xref>) and fewer cracks in the NCM811 crystal (Fig. S6<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>In contrast, upon decomposition, 2,5BTBA undergoes a vigorous transformation, generating a high-polymer film that envelops both the NCM811 cathode and the lithium metal anode (<xref rid="fig1" ref-type="fig">Fig. 1b</xref>). Notably, in the cycled Li/NCM811 battery with 2,5BTBA, evident in <xref rid="fig1" ref-type="fig">Fig. 1g and h</xref>, the NCM811 cathode displays a smooth surface without observable cracks. Instead, the surface is covered with a moss-like substance, which constitutes the high-polymer film. This dense and uniform polymer film effectively isolates the electrolyte from the NCM811 cathode while maintaining high lithium ion conductivity.<sup><xref rid="cit33" ref-type="bibr">33&#x02013;35</xref></sup> Similarly, due to the protective film, the lithium metal anode exhibits a notably flatter surface, devoid of the typical mossy lithium dendrites, thereby preventing dendritic penetration of the separator and enhancing the safety profile of LMBs (<xref rid="fig1" ref-type="fig">Fig. 1f and j</xref>).</p></sec><sec><title>Physicochemical properties of electrolytes and polymer film</title><p>According to numerous reports, the CEI formed in the carbonate electrolyte and Ni<sup>4+</sup> environment tends to be unstable and susceptible to degradation during cycling, resulting in structural damage to the NCM811 cathode.<sup><xref rid="cit36" ref-type="bibr">36,37</xref></sup> To assess the structural integrity of the NCM811 cathode, X-ray diffraction (XRD) analysis was utilized to examine the structural characteristics of NCM811 from batteries both with and without 2,5BTBA after cycling. As depicted in <xref rid="fig2" ref-type="fig">Fig. 2a</xref>, the characteristic peaks of NCM811 in batteries lacking 2,5BTBA are notably weak, almost vanishing. Conversely, in the presence of 2,5BTBA, the distinctive diffraction peaks attributed to NCM811 are clearly preserved even after 50 cycles, as the decomposition of 2,5BTBA leads to the formation of a protective polymer film. Notably, these peaks are more pronounced than those observed in NCM811 without 2,5BTBA.</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>Optimization of the interface between NCM811 cathodes and electrolytes. Comparison of XRD patterns of the NCM811 with 2,5BTBA and without 2,5BTBA after 50 cycles (a&#x02013;e); composition analysis of F 1s spectra (g and j) of NCM811 in electrolyte without 2,5BTBA (j) and with 2,5BTBA (c), and C 1s spectra (h and k) without 2,5BTBA (g) and with 2,5BTBA (d); Li<sup>+</sup> transference number (f) and conductivity (i) of Li/NCM811 batteries with different weight ratio of 2,5BTBA additive. All electrodes of XPS and LSV are tested after 50 cycles at 1C.</title></caption><graphic xlink:href="d4ra00737a-f2" position="float"/></fig><p>Analysis of the characteristic peaks of (003) and (104) (<xref rid="fig2" ref-type="fig">Fig. 2b and d</xref>) reveals significant structural damage to NCM811 after 50 cycles in batteries without 2,5BTBA, owing to the deleterious impact of the electrolyte on NCM811. However, in the presence of the 2,5BTBA additive, the characteristic peaks of (003) and (104) in the cycled Li/NCM811 battery remain nearly unchanged compared to pristine NCM811. Furthermore, in <xref rid="fig2" ref-type="fig">Fig. 2a</xref>, it is clearly observable that the XRD peaks of the battery without the addition of 2,5BTBA exhibit a certain degree of splitting, such as the peak of (003). This phenomenon can be attributed to the structural damage, distortion, and irregularities in the NCM811 crystal lattice induced by stress accumulation and nickel ion migration during charge&#x02013;discharge cycling. Substantial splitting of the amplified (006)/(102) and (108)/(110) peaks is observed in the cycled Li/NCM811 with 2,5BTBA (<xref rid="fig2" ref-type="fig">Fig. 2c and e</xref>), signifying the maintenance of the excellent layered structure of the NCM811 cathode.<sup><xref rid="cit12" ref-type="bibr">12,38</xref></sup> Additionally, the ratio of <italic toggle="yes">I</italic><sub>(003)</sub>/<italic toggle="yes">I</italic><sub>(104)</sub> is able to reflect the degree of cation mixing.<sup><xref rid="cit39" ref-type="bibr">39,40</xref></sup> This ratio is 2.41 in the cycled Li/NCM811 battery with 2,5BTBA, higher than that of the battery lacking 2,5BTBA (1.644). A higher ratio of <italic toggle="yes">I</italic><sub>(003)</sub>/<italic toggle="yes">I</italic><sub>(104)</sub> signifies reduced cationic mixing, further demonstrating the protective influence of 2,5BTBA on the NCM811 structure.<sup><xref rid="cit41" ref-type="bibr">41</xref></sup></p><p>X-ray Photoelectron Spectroscopy (XPS) analysis was conducted to explore the valence distribution of C and F elements in the cycled cathodes. The high-resolution XPS spectra of C 1s exhibit peaks corresponding to C&#x02013;C/C&#x02013;H, C&#x02013;O, C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><!-- PBM data was replaced with SVG by xgml2pxml:
+<glyph-data id="z.dbd" format="PBM" resolution="300" x-size="8" y-size="10" xml:space="preserve">
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+11111111
+00000000
+00000000
+00000000
+</glyph-data>
+-->
+<glyph-data id="z.dbd" format="SVG" resolution="300" x-size="8" y-size="10" xml:space="preserve">
+<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="13.200000pt" height="16.000000pt" viewBox="0 0 13.200000 16.000000" preserveAspectRatio="xMidYMid meet"><metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata><g transform="translate(1.000000,15.000000) scale(0.017500,-0.017500)" fill="currentColor" stroke="none"><path d="M0 440 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z M0 280 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z"/></g></svg>
+]]>
+</glyph-data></private-char>O, CO<sub>3</sub><sup>2&#x02212;</sup>, and PVDF bonds. Specifically, the C&#x02013;O bond formation is attributed to the decomposition of FEC and DEC in the electrolyte, whereas the C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>O bond represents constituents and serves as a stabilizer of CEI (<xref rid="fig2" ref-type="fig">Fig. 2h and k</xref>).<sup><xref rid="cit20" ref-type="bibr">20,42</xref></sup> The XPS results illustrate that the incorporation of 2,5BTBA leads to a decrease in the strength ratio of the C&#x02013;O bond while elevating the ratio of the C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>O bond strength. This observation suggests that 2,5BTBA effectively mitigates the electrolyte solvent decomposition and enhances the stability of the CEI layer.</p><p>Additionally, the XPS analysis results further validate the decomposition of the additive into a polymer film covering the NCM811 and lithium metal surfaces, corroborating the SEM findings. In <xref rid="fig2" ref-type="fig">Fig. 2g and j</xref>, distinct peaks appear in both the F 1s and C 1s spectra, identified as the organic high polymer, poly(trifluoroethyl acrylate) (PTA). Given the structural similarity, it is deduced that this polymer is a byproduct of the 2,5BTBA decomposition. The polymer film integrates numerous high-polarity CF<sub>3</sub> groups into the CEI, ensuring thorough wetting of both the anode and cathode surfaces. This action restrains the migration of Ni<sup>4+</sup> ions, safeguards the CEI from damage, and facilitates dense and uniform lithium deposition.<sup><xref rid="cit43" ref-type="bibr">43,44</xref></sup> Furthermore, the F 1s spectra on the lithium metal surface (Fig. S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>) affirm the presence of PTA on the anode. A distinctive peak around 687 eV, corresponding to the PTA peak in <xref rid="fig2" ref-type="fig">Fig. 2g</xref>, displays significantly high intensity. Additionally, the prominence of the C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><glyph-ref glyph-data="z.dbd"/></private-char>O band peak in the Li/NCM811 battery with 2,5BTBA surpasses that in the group lacking 2,5BTBA, further supporting the existence of PTA.</p><p>The linear sweep voltammetry data of those additives has been incorporated into the ESI (Fig. S10<xref rid="fn1" ref-type="fn">&#x02020;</xref>). It is evident that batteries with the inclusion of 2,5BTBA demonstrate higher currents when the voltage reaches 4 V or above. This is attributed to the decomposition of 2,5BTBA under voltage, leading to the production of PTA. In addition, it is noteworthy that the mixed electrolyte of DEC and FEC is incapable of withstanding voltages exceeding 5 V. However, even beyond this threshold, the resulting current remains scarcely above 0.03 mA. Nevertheless, the current rise is insignificantly gradual. The observed peak current surpassing 0.6 mA in batteries augmented with 2,5BTBA significantly eclipses the current in FEC + DEC electrolytes. This suggests that the considerable spike in current may be attributed to the decomposition of 2,5BTBA under the influence of voltage, aligning well with conclusions proposed in the study.</p><p>The impedance of the electrolyte was assessed using electrochemical impedance spectroscopy (EIS) testing (Fig. S1 and S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>). <xref rid="fig2" ref-type="fig">Fig. 2i</xref> demonstrates that the introduction of 2,5BTBA and the presence of the PTA film resulted in a notable increase in ionic conductivity. The PTA film contributes to achieving a smoother and more compact interface, enhancing the electrolyte's wettability and consequently augmenting battery conductivity.<sup><xref rid="cit45" ref-type="bibr">45,46</xref></sup> Moreover, the highest conductivity observed at 3 wt% reveals a 17% improvement compared to batteries lacking 2,5BTBA, indicating markedly enhanced conductivity. Furthermore, the lithium-ion transference number in the electrolyte exhibits a 19.4% increase when compared to the electrolyte lacking 2,5BTBA (<xref rid="fig2" ref-type="fig">Fig. 2f</xref>).</p></sec><sec><title>Electrochemical behaviors of Li/NCM811 battery with 2,5BTBA electrolyte</title><p>The presence of the PTA film significantly enhances the electrochemical performance of the Li/NCM811 battery with the 2,5BTBA additive. As illustrated in <xref rid="fig3" ref-type="fig">Fig. 3a</xref>, the cyclability of the batteries noticeably improves upon the introduction of 2,5BTBA, surpassing the performance of Li/NCM811 batteries lacking this additive. Particularly noteworthy is the achievement of 99% capacity retention after 400 cycles with a 3% weight ratio of 2,5BTBA.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>Electrochemical performance improvement assisted by 2,5BTBA. (a) Cycling performance and coulombic efficiency of Li/NCM811 batteries with 2,5BTBA and without 2,5BTBA tested at 25 &#x000b0;C and rate of 0.5C; capacity&#x02013;voltage curves of Li/NCM811 battery without 2,5BTBA (b) and Li/NCM811 with 2,5BTBA battery (c) tested at 25 &#x000b0;C after different cycles; (d) rate performance of Li/NCM811 batteries without 2,5BTBA and with 2,5BTBA; impedance spectra analyses of Li/NCM811 battery with 2,5BTBA (e) and without 2,5BTBA (f) after different cycles; (g) long cycling performance of Li/NCM811 batteries with 2,5BTBA and without 2,5BTBA tested at 25 &#x000b0;C and rate of 0.5C.</title></caption><graphic xlink:href="d4ra00737a-f3" position="float"/></fig><p>Below 2% weight ratio, the benefits of 2,5BTBA to the batteries are minimal, as insufficient 2,5BTBA fails to form a stable PTA film. Conversely, when the weight ratio exceeds 3%, the advantage over the group without 2,5BTBA diminishes (Fig. S8<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Higher concentrations of 2,5BTBA lead to an excessively thick PTA film, hindering Li<sup>+</sup> transport. Additionally, concentrations exceeding 5 wt% render 2,5BTBA insoluble in the carbonate electrolyte. The PTA film produced by a 3 wt% concentration of 2,5BTBA maintains a moderate thickness, facilitating Li<sup>+</sup> transport while effectively preventing parasitic reactions.</p><p>Interestingly, an initial rise in capacity by approximately 25 mA h g<sup>&#x02212;1</sup> is observed during the first few cycles in the Li/NCM811 battery with 2,5BTBA. Although the initial capacity of the Li/NCM811 battery with 2,5BTBA is slightly lower than the battery without 2,5BTBA, this increase in capacity quickly narrows the gap and even surpasses it within the first 10 cycles. Subsequently, the capacity curve gradually levels off, demonstrating minimal attenuation. This phenomenon is attributed to the formation of the PTA film. During the initial 10 cycles, the reaction of 2,5BTBA causes a slight loss in capacity due to decreased conductivity. This inference is corroborated by the Nyquist plots, revealing decreased impedance in the first 100 cycles in the battery with 2,5BTBA (38.22 &#x003a9; at 50 cycles and 14.62 &#x003a9; at 100 cycles), whereas increased impedance is observed in the battery without 2,5BTBA (9.365 &#x003a9; at 50 cycles and 14.98 &#x003a9; at 100 cycles) (Table S1<xref rid="fn1" ref-type="fn">&#x02020;</xref>). However, as the film stabilizes, the interaction between the carbonate electrolyte and cathode is significantly restrained, resulting in the plateauing of the capacity curve. Although the capacity curves of both groups exhibit similar trends, the curve of the 2,5BTBA group is notably smoother, indicating slower capacity decay. Owing to the improved electrolyte wettability and prevention of parasitic reactions, the Li/NCM811 battery with 2,5BTBA achieves 97.8% capacity retention after 300 cycles and 89.4% after 700 cycles. In contrast, the Li/NMCM811 battery without 2,5BTBA reaches only 83.0% capacity retention in just 300 cycles. Additionally, the disparity in cell degradation is further elucidated by the capacity&#x02013;voltage curves (<xref rid="fig3" ref-type="fig">Fig. 3b and c</xref>).<sup><xref rid="cit11" ref-type="bibr">11</xref></sup> Furthermore, after 1000 cycles, the Li/NCM811 battery with 2,5BTBA maintains a remaining capacity of 123.4 mA h g<sup>&#x02212;1</sup> and a capacity retention of 72.65% at 0.5C, boasting an average Coulomb efficiency of 99.13%. Conversely, the battery without 2,5BTBA exhibits a remaining capacity of only 104.33 mA h g<sup>&#x02212;1</sup>, with the capacity retention dropping to 57.42%.</p><p>The PTA film formed by 2,5BTBA also contributes to improved rate performance. A detailed comparison of the rate performance between LMBs without and with 2,5BTBA is presented in <xref rid="fig3" ref-type="fig">Fig. 3c</xref>. The battery featuring a 3 wt% 2,5BTBA additive exhibits remarkable specific capacities of 168.14, 165.39, 150.66, 122.98, and 90.55 mA h g<sup>&#x02212;1</sup> at rates of 0.5C, 1C, 2C, 5C, and 10C, respectively. This performance enhancement is attributed to the accelerated Li<sup>+</sup> transport kinetics facilitated by the PTA film. Upon returning to a rate of 0.5C, the discharge capacity registers at 167.00 mA h g<sup>&#x02212;1</sup>, retaining 99.32% of the initial cycle's capacity. The sustained capacity after reverting to the original current density is due to the stabilizing effect of the PTA film on SEI and CEI. In contrast, the capacities of batteries without 2,5BTBA are notably lower (160.62, 157.39, 142.76, 114.82, and 81.85 mA h g<sup>&#x02212;1</sup> at rates of 0.5C, 1C, 2C, 5C, and 10C, respectively), indicating a superior adaptability to high currents exhibited by the 2,5BTBA electrolyte and the resultant PTA film. Simultaneously, Fig. S11<xref rid="fn1" ref-type="fn">&#x02020;</xref> illustrates the rate performance of batteries with varying mass fraction of electrolyte additives. It is observable that the battery with 1 wt% 2,5BTBA exhibits slightly higher rate capability compared to the one without 2,5BTBA, yet slightly lower than the battery with 3 wt% 2,5BTBA. However, the rate performance drastically deteriorates upon the addition of 5 wt% electrolyte additive, rendering it inoperable at a current of 10C. This underscores that the optimal mass fraction for the electrolyte additive is 3%.</p><p>Moreover, the application of the 3% 2,5BTBA electrolyte surpasses the performance of state-of-the-art carbonate ether electrolytes in terms of coulombic efficiency, providing further confirmation of its capacity retention capability. Remarkably, the coulombic efficiency of the 3% 2,5BTBA electrolyte remains consistently close to 100% even after more than 750 cycles (<xref rid="fig3" ref-type="fig">Fig. 3g</xref>), showcasing the remarkable stability of the enhanced electrolyte's capacity. In comparison, the battery lacking 2,5BTBA displays a less stable coulombic efficiency over the same cycle span.</p><p>As depicted in <xref rid="fig4" ref-type="fig">Fig. 4a and b</xref>, the force curves measured by atomic force microscope (AFM) indicate that the Young's modulus of the CEI in batteries with 2,5BTBA is approximately 8% higher compared to batteries without 2,5BTBA.<sup><xref rid="cit47" ref-type="bibr">47</xref></sup> This finding suggests that the formation of PTA contributes to some extent to the enhanced strength of CEI. Furthermore, in <xref rid="fig4" ref-type="fig">Fig. 4d and e</xref>, the graphs illustrate the highest occupied molecular orbital (HOMO) energy and the lowest unoccupied molecular orbital (LUMO) energy of organic solvents (FEC, DEC, and 2,5BTBA) and PTA. The HOMO energy of PTA (&#x02212;4.86 eV) closely resembles that of DEC (&#x02212;4.99 eV), indicating the high stability of CEI.<sup><xref rid="cit48" ref-type="bibr">48,49</xref></sup> Additionally, the proximity of the HOMO and LUMO energy levels suggests that 2,5BTBA can readily decompose to form the PTA film.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>Stability of CEI. Force curve of CEI in batteries with 2,5BTBA (a) and without 2,5BTBA (b) measured by AFM; (c) cycling performance and coulombic efficiency of Li/LFP batteries with 2,5BTBA and without 2,5BTBA tested at 25 &#x000b0;C and rate of 2C; HOMO and LUMO levels of FEC, DEC (d), 2,5BTBA and PTA (e); (f) Raman spectrum of cathodes from battery with 2,5BTBA and without 2,5BTBA.</title></caption><graphic xlink:href="d4ra00737a-f4" position="float"/></fig><p>Further insight into the influence of 2,5BTBA on the positive electrode is obtained through Raman spectra analysis, revealing minimal impact on the NCM811 electrode (<xref rid="fig4" ref-type="fig">Fig. 4f</xref>). The spectra exhibit two distinct peaks at 1351 cm<sup>&#x02212;1</sup> (D peak) and 1593 cm<sup>&#x02212;1</sup> (G peak), characteristic of graphite materials within the cathode structure. The ratio of the area under the D peak to that under the G peak is 0.74 in the battery with 2,5BTBA and 0.81 without 2,5BTBA. A higher ratio signifies a higher defect density within the graphite materials, suggesting the protective influence of 2,5BTBA on the cathode's graphite components.<sup><xref rid="cit50" ref-type="bibr">50,51</xref></sup></p><p>Moreover, 2,5BTBA demonstrates remarkable efficacy in safeguarding diverse cathode materials. When the cathode material is substituted with LiFePO<sub>4</sub> (LFP), the cycle-specific capacity of the battery with 2,5BTBA remains notably higher compared to the battery without 2,5BTBA (<xref rid="fig4" ref-type="fig">Fig. 4c</xref>). After 400 cycles at a rate of 2C, the capacity of batteries with 2,5BTBA remains at 111.43 mA h g<sup>&#x02212;1</sup>, whereas batteries without 2,5BTBA only retain 91.99 mA h g<sup>&#x02212;1</sup>.</p></sec></sec><sec><title>Conclusion</title><p>The direct addition of the ethoxyl electrolyte additive, 2,5-bis(2,2,2-trifluoroethoxy) benzoic acid (2,5BTBA), into the carbonate electrolyte significantly enhances the performance of Lithium Metal Batteries (LMBs) featuring NCM811 cathodes as well as Li anodes. Upon decomposition, 2,5BTBA forms a dense and conductive protective film, namely poly(trifluoroethyl acrylate), which effectively isolates the carbonate electrolyte from the electrodes and suppressed the degradation of NCM811 crystal and the corrosion of lithium metal surface and the generation of lithium dendrites. This preventive measure mitigates adverse reactions during the charging and discharging cycles. Leveraging 2,5BTBA, LMBs exhibit reduced impedance, demonstrating enhanced capacity at 144.6 mA h g<sup>&#x02212;1</sup> and a capacity retention of 87.42% after 750 cycles. In stark contrast, batteries lacking 2,5BTBA only retain 64.5% of their initial capacity after the same cycling duration. Notably, 2,5BTBA exhibits promising compatibility with LFP anodes. This study presents an efficient and straightforward approach to bolstering the capacity retention of LMBs, offering a new perspective in the domain of lithium metal battery electrolyte engineering.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="RA-014-D4RA00737A-s001" position="float" content-type="local-data"><label>RA-014-D4RA00737A-s001</label><media xlink:href="RA-014-D4RA00737A-s001.pdf" id="d66e641" position="anchor"/></supplementary-material></sec></body><back><ack><p>This research is supported by the National Natural Science Foundation of China (12002109) and the Natural Science Foundation of Heilongjiang Province (Grant No. YQ2020B002).</p></ack><ref-list><title>References</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>An</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>Y.</given-names></name>
+</person-group><source>Nano Energy</source><year>2020</year><volume>78</volume><fpage>105344</fpage></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ue</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sakaushi</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Uosaki</surname><given-names>K.</given-names></name>
+</person-group><source>Mater. Horiz.</source><year>2020</year><volume>7</volume><fpage>1937</fpage><lpage>1954</lpage></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>D. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chi</surname><given-names>S. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>D. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>L. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Z. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Y. H.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2020</year><volume>32</volume><fpage>11</fpage></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>K. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>L. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jungsuttiwong</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>S.</given-names></name>
+</person-group><source>J. Energy Chem.</source><year>2021</year><volume>59</volume><fpage>320</fpage><lpage>333</lpage></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tong</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bazri</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>S.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>R.-S.</given-names></name>
+</person-group><source>J. Mater. Chem. A</source><year>2021</year><volume>9</volume><fpage>7396</fpage><lpage>7406</lpage></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Piao</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Eidson</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wan</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+</person-group><source>Angew Chem. Int. Ed. Engl.</source><year>2021</year><volume>60</volume><fpage>3661</fpage><lpage>3671</lpage><pub-id pub-id-type="pmid">33166432</pub-id>
+</element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heck</surname><given-names>C. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>von Horstig</surname><given-names>M. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huttner</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mayer</surname><given-names>J. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Haselrieder</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kwade</surname><given-names>A.</given-names></name>
+</person-group><source>J. Electrochem. Soc.</source><year>2020</year><volume>167</volume><fpage>12</fpage></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>Q. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Doyle-Davis</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X. F.</given-names></name>
+</person-group><source>Prog. Mater. Sci.</source><year>2023</year><volume>140</volume><fpage>101193</fpage></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Vasconcelos</surname><given-names>L. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Z. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sharma</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shah</surname><given-names>S. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>J. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>X. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Perrin</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>K. J.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2022</year><volume>122</volume><fpage>13043</fpage><lpage>13107</lpage><pub-id pub-id-type="pmid">35839290</pub-id>
+</element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>X. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mao</surname><given-names>H. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sheng</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>Y. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>K. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>R. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>D. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wan</surname><given-names>L. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Y. G.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>11338</fpage><lpage>11347</lpage><pub-id pub-id-type="pmid">35700279</pub-id>
+</element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>D. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>M. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qi</surname><given-names>S. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>J. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>D. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>J. M.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2022</year><volume>12</volume><fpage>10</fpage></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>J. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z. M.</given-names></name>
+</person-group><source>Ceram. Int.</source><year>2020</year><volume>46</volume><fpage>4643</fpage><lpage>4651</lpage></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>C. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>L. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sheng</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>B. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xian</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>Y. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>S. G.</given-names></name>
+</person-group><source>Nano Energy</source><year>2019</year><volume>65</volume><fpage>10</fpage></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shadike</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cresce</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hunt</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waluyo</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Monaco</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cloetens</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.-Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>E.</given-names></name>
+</person-group><source>Nat. Energy</source><year>2022</year><volume>7</volume><fpage>484</fpage><lpage>494</lpage></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kondrakov</surname><given-names>A. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gesswein</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Galdina</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>de Biasi</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meded</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Filatova</surname><given-names>E. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schumacher</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wenzel</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hartmann</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brezesinski</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Janek</surname><given-names>J.</given-names></name>
+</person-group><source>J. Phys. Chem. C</source><year>2017</year><volume>121</volume><fpage>24381</fpage><lpage>24388</lpage></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sharma</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Z. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Monaco</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Z. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ratner</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pianetta</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cloetens</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>K. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y. J.</given-names></name>
+</person-group><source>Science</source><year>2022</year><volume>376</volume><fpage>517</fpage><lpage>521</lpage><pub-id pub-id-type="pmid">35482882</pub-id>
+</element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhan</surname><given-names>X. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>Y. T.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2019</year><volume>410</volume><fpage>45</fpage><lpage>52</lpage></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>T. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>B. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>H. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y. H.</given-names></name>
+</person-group><source>J. Energy Chem.</source><year>2022</year><volume>71</volume><fpage>218</fpage><lpage>224</lpage></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jaumaux</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>T. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>F. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>B. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G. X.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2020</year><volume>59</volume><fpage>9134</fpage><lpage>9142</lpage></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ahn</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yim</surname><given-names>T.</given-names></name>
+</person-group><source>J. Alloys Compd.</source><year>2021</year><volume>867</volume><fpage>10</fpage></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fraser</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X. F.</given-names></name>
+</person-group><source>Prog. Mater. Sci.</source><year>2023</year><volume>139</volume><fpage>101171</fpage></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lei</surname><given-names>X. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>S. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>A. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>D.</given-names></name>
+</person-group><source>Renewables</source><year>2023</year><volume>1</volume><fpage>316</fpage><lpage>340</lpage></element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Trevisanello</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ruess</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Conforto</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Richter</surname><given-names>F. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Janek</surname><given-names>J.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2021</year><volume>11</volume><fpage>12</fpage></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>X. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z. M.</given-names></name>
+</person-group><source>Ceram. Int.</source><year>2021</year><volume>47</volume><fpage>32710</fpage><lpage>32719</lpage></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liao</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>L. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mu</surname><given-names>X. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>Y. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kan</surname><given-names>Y. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>L.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2021</year><volume>13</volume><fpage>46783</fpage><lpage>46793</lpage><pub-id pub-id-type="pmid">34546036</pub-id>
+</element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhong</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ju</surname><given-names>H. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>T. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>J. Q.</given-names></name>
+</person-group><source>J. Energy Chem.</source><year>2022</year><volume>71</volume><fpage>29</fpage><lpage>35</lpage></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eldesoky</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Louli</surname><given-names>A. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Benson</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dahn</surname><given-names>J. R.</given-names></name>
+</person-group><source>J. Electrochem. Soc.</source><year>2021</year><volume>168</volume><fpage>120508</fpage></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Touja</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Louvain</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stievano</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Monconduit</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Berthelot</surname><given-names>R.</given-names></name>
+</person-group><source>Batteries Supercaps</source><year>2021</year><volume>4</volume><fpage>1252</fpage><lpage>1266</lpage></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>G. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>Q. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>L. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W. S.</given-names></name>
+</person-group><source>Chemsuschem</source><year>2022</year><volume>15</volume><fpage>e202200543</fpage><pub-id pub-id-type="pmid">35394701</pub-id>
+</element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mao</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>B. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Y. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>F. Y.</given-names></name>
+</person-group><source>Nano Energy</source><year>2020</year><volume>78</volume><fpage>10</fpage></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>X. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>C. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2017</year><volume>117</volume><fpage>10403</fpage><lpage>10473</lpage><pub-id pub-id-type="pmid">28753298</pub-id>
+</element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>He</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bresser</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Passerini</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baakes</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Krewer</surname><given-names>U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lopez</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mallia</surname><given-names>C. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cekic-Laskovic</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wiemers-Meyer</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Soto</surname><given-names>F. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ponce</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Seminario</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Horstmann</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amine</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>C. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>J. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amine</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winter</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Latz</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kostecki</surname><given-names>R.</given-names></name>
+</person-group><source>Nat. Rev. Mater.</source><year>2021</year><volume>6</volume><fpage>1036</fpage><lpage>1052</lpage></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>T. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>G. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chai</surname><given-names>J. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>H. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>A. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>Q. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>X. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>G. L.</given-names></name>
+</person-group><source>Energy Environ. Sci.</source><year>2018</year><volume>11</volume><fpage>1197</fpage><lpage>1203</lpage></element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X. B.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2020</year><volume>32</volume><fpage>9</fpage></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mo</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Piao</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>P. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>B. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>X. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>L. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J. L.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2022</year><volume>12</volume><fpage>2201631</fpage></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>G. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shao</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Y. H.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2021</year><volume>514</volume><fpage>13</fpage></element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hwang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Joo</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baek</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kwak</surname><given-names>S. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>H. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Choi</surname><given-names>N. S.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2022</year><volume>521</volume><fpage>3</fpage></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Do</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Santhoshkumar</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Prasanna</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jo</surname><given-names>Y. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>C. W.</given-names></name>
+</person-group><source>Ceram. Int.</source><year>2019</year><volume>45</volume><fpage>6972</fpage><lpage>6977</lpage></element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>K. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>M. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>J. M.</given-names></name>
+</person-group><source>Sustainable Energy Fuels</source><year>2018</year><volume>2</volume><fpage>413</fpage><lpage>421</lpage></element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ran</surname><given-names>Q. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>Y. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hao</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>Q. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X. Q.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2020</year><volume>12</volume><fpage>9268</fpage><lpage>9276</lpage><pub-id pub-id-type="pmid">32031362</pub-id>
+</element-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Oyakhire</surname><given-names>S. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>H. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bao</surname><given-names>Z. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bent</surname><given-names>S. F.</given-names></name>
+</person-group><source>ACS Energy Lett.</source><year>2022</year><volume>7</volume><issue>8</issue><fpage>2540</fpage><lpage>2546</lpage></element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ha</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>S. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cho</surname><given-names>B. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Choi</surname><given-names>H. J.</given-names></name>
+</person-group><source>Chem. Phys. Lett.</source><year>2017</year><volume>684</volume><fpage>383</fpage><lpage>389</lpage></element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hao</surname><given-names>G. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhai</surname><given-names>P. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>W. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kaskel</surname><given-names>S.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2017</year><volume>29</volume><fpage>7</fpage></element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Q. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guan</surname><given-names>W. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zeng</surname><given-names>Y. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><source>Nano Energy</source><year>2018</year><volume>54</volume><fpage>313</fpage><lpage>321</lpage></element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Y. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bian</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S. J.</given-names></name>
+</person-group><source>J. Mater. Chem. A</source><year>2020</year><volume>8</volume><fpage>23844</fpage><lpage>23850</lpage></element-citation></ref><ref id="cit46"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>Y. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>H. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>T. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Y. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>C. L.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2020</year><volume>12</volume><fpage>54537</fpage><lpage>54544</lpage><pub-id pub-id-type="pmid">33216532</pub-id>
+</element-citation></ref><ref id="cit47"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qin</surname><given-names>Y. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>D. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>B. K.</given-names></name>
+</person-group><source>Energy Storage Mater.</source><year>2023</year><volume>57</volume><fpage>411</fpage><lpage>420</lpage></element-citation></ref><ref id="cit48"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>G. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>An</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>Z. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Y. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Q. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>H.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2023</year><volume>13</volume><issue>26</issue><fpage>2300725</fpage></element-citation></ref><ref id="cit49"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>Y. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>L. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>23764</fpage><lpage>23770</lpage><pub-id pub-id-type="pmid">37703183</pub-id>
+</element-citation></ref><ref id="cit50"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Reich</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Thomsen</surname><given-names>C.</given-names></name>
+</person-group><source>Philos. Trans. R. Soc., A</source><year>2004</year><volume>362</volume><fpage>2271</fpage><lpage>2288</lpage></element-citation></ref><ref id="cit51"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pimenta</surname><given-names>M. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dresselhaus</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dresselhaus</surname><given-names>M. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cancado</surname><given-names>L. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jorio</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Saito</surname><given-names>R.</given-names></name>
+</person-group><source>Phys. Chem. Chem. Phys.</source><year>2007</year><volume>9</volume><fpage>1276</fpage><lpage>1291</lpage><pub-id pub-id-type="pmid">17347700</pub-id>
+</element-citation></ref></ref-list></back></article>

@@ -1,0 +1,767 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">9635363</article-id><article-id pub-id-type="pmid">36191087</article-id><article-id pub-id-type="doi">10.1021/acsami.2c10853</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Fabrication of Oxide-Based
+All-Solid-State Batteries
+by a Sintering Process Based on Function Sharing of Solid Electrolytes</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Sakakura</surname><given-names>Miyuki</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9361-4057</contrib-id><name><surname>Mitsuishi</surname><given-names>Kazutaka</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0752-0941</contrib-id><name><surname>Okumura</surname><given-names>Toyoki</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Ishigaki</surname><given-names>Norikazu</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8639-0844</contrib-id><name><surname>Iriyama</surname><given-names>Yasutoshi</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Materials Design Innovation Engineering, Graduate School of Engineering, <institution>Nagoya University</institution>, Furo-cho, Chikusa-ku, Nagoya 464-8603, <country>Japan</country></aff><aff id="aff2"><label>&#x02021;</label>Research
+Center for Advanced Measurement and Characterization, <institution>National Institute for Materials Science</institution>, 1-2-1 Sengen, Tsukuba 305-0047, <country>Japan</country></aff><aff id="aff3"><label>&#x000a7;</label>Research
+Institute of Electrochemical Energy, <institution>National
+Institute of Advanced Industrial Science and Technology (AIST)</institution>, 1-8-31 Midorigaoka, Ikeda, Osaka 563-8577, <country>Japan</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>iriyama.yasutoshi@material.nagoya-u.ac.jp</email>.</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>10</month><year>2022</year></pub-date><pub-date pub-type="ppub"><day>02</day><month>11</month><year>2022</year></pub-date><pub-date pub-type="pmc-release"><day>03</day><month>10</month><year>2023</year></pub-date><volume>14</volume><issue>43</issue><fpage>48547</fpage><lpage>48557</lpage><history><date date-type="received"><day>18</day><month>06</month><year>2022</year></date><date date-type="accepted"><day>21</day><month>09</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2022 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0011" id="ab-tgr1"/></p><p>Garnet-type Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZ) has advantages of stability with Li metal and
+high Li<sup>+</sup> ionic conductivity, achieving 1 &#x000d7; 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup>, but it is prone to react
+with electrode
+active materials during the sintering process. LISICON-type Li<sub>3.5</sub>Ge<sub>0.5</sub>V<sub>0.5</sub>O<sub>4</sub> (LGVO) has
+the advantage of less reactivity with the electrode active material
+during the sintering process, but its ionic conductivity is on the
+order of 10<sup>&#x02013;5</sup> S cm<sup>&#x02013;1</sup>. In this
+study, these two solid electrolytes are combined as a multilayer solid
+electrolyte sheet, where 2 &#x003bc;m thick LGVO films are coated on
+LLZ sheets to utilize the advantages of these two solid electrolytes.
+These two solid electrolytes adhere well through Ge diffusion without
+significant interfacial resistance. The LLZ&#x02013;LGVO multilayer
+is combined with a LiCoO<sub>2</sub> positive electrode and a lithium
+metal anode through annealing at 700 &#x000b0;C. The resultant all-solid-state
+battery can undergo repeated charge&#x02013;discharge reactions for
+over 100 cycles at 25 or 60 &#x000b0;C. The LGVO coating suppresses the
+increases in the resistance from the solid electrolyte and interfacial
+resistance induced by annealing by ca. 1/40. As with sulfide-based
+all-solid-state batteries, function sharing of solid electrolytes
+will be a promising method for developing advanced oxide-based all-solid-state
+batteries through a sintering process.</p></abstract><kwd-group><kwd>solid-state battery</kwd><kwd>interface</kwd><kwd>solid electrolyte</kwd><kwd>Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub></kwd><kwd>aerosol deposition</kwd><kwd>sintering</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Japan Society for the Promotion of Science</institution><institution-id institution-id-type="doi">10.13039/501100001691</institution-id></institution-wrap></funding-source><award-id>JP19H05813</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Advanced Low Carbon Technology Research and Development Program</institution><institution-id institution-id-type="doi">10.13039/501100009027</institution-id></institution-wrap></funding-source><award-id>JPMJAL1301</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am2c10853</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am2c10853</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Oxide-based all-solid-state batteries
+(Ox-SSBs) are attracting
+attention as candidates for next-generation rechargeable batteries
+that can realize high energy density while maintaining safety and
+reliability. Thin-film-type Ox-SSBs with a few mA h sizes were commercialized
+approximately 20 years ago, where positive electrode, solid electrolyte,
+and negative electrode materials were sequentially piled up by vapor
+deposition processes such as RF sputtering and vacuum evaporation.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> In recent years, multilayer-type Ox-SSBs have been commercialized
+by applying multilayer ceramic capacitor technology, where both electrodes
+and the solid electrolyte are cosintered,<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> and
+some of them obtain capacities over 20 mA h.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Because most oxide-based solid electrolytes, especially those with
+high Li<sup>+</sup> conductivity, are hard and fragile crystalline
+ceramics, such a sintering process is one of the practical ways to
+develop advanced Ox-SSBs.</p><p>A severe problem accompanying the
+preparation of Ox-SSBs through
+the sintering process is the side reactions between the electrode
+and solid electrolyte. These side reactions provide a large interfacial
+resistance in many cases.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup> Among the various oxide-based
+solid electrolytes, garnet-structured Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZ) has been examined through experimental
+and theoretical approaches because of its high ionic conductivity
+close to 1 &#x000d7; 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> at
+room temperature in addition to its stability against Li metal.<sup><xref ref-type="bibr" rid="ref8">8</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> However, LLZ highly reacts with many electrode active materials
+during the sintering process. For example, when a LiCoO<sub>2</sub> (LCO) cathode is sintered with LLZ at 700 &#x000b0;C, La<sub>2</sub>CoO<sub>4</sub> is formed as a byproduct at the interface, and the
+interfacial resistance seriously increases.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup></p><p>An effective way to compensate for the disadvantages of a
+solid
+electrolyte is to combine the solid electrolyte with another solid
+electrolyte. Such function sharing of solid electrolytes has been
+commonly examined in sulfide-based SSBs from the viewpoint of suppressing
+side reactions in charge&#x02013;discharge reactions,<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> reducing space charge layer formation,<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> or extending the potential window of solid electrolytes.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> In the case of Ox-SSBs, NASICON-type Li<sub>1+<italic>x</italic></sub>Al<sub><italic>x</italic></sub>Ti<sub>2&#x02013;<italic>x</italic></sub>(PO<sub>4</sub>)<sub>3</sub> (LATP), which is unstable
+with Li metal,<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> is combined with lithium phosphorus
+oxynitride glass electrolyte (LiPON), which is stable with Li metal
+by forming a multilayer-mosaic solid electrolyte interphase (SEI),<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and then, Li plating&#x02013;stripping reactions
+are realized on LiPON/LATP multilayers.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> The concept
+of function sharing of solid electrolytes will be extended to reduce
+the reactivity of the electrode/solid electrolyte interface during
+the sintering process, that is, combining LLZ with another solid electrolyte
+with less reactivity with electrode materials during the sintering
+process. Several reports apply Li<sub>3</sub>BO<sub>3</sub> (LBO)
+with a lower melting point of approximately 700 &#x000b0;C<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> as the combined solid electrolyte. Ohta et al. fabricated a LCO&#x02013;LBO
+composite layer on a sintered Nb-doped LLZ substrate by a screen printing
+method and then annealed it at 700 &#x000b0;C for 1 h.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> The composite electrode ca. 10 &#x003bc;m in thickness can
+undergo repeated stable charge&#x02013;discharge reactions. The application
+of LBO also has advantages in realizing a well-adhered electrode-solid
+electrolyte interface and then developing bulk-type Ox-SSBs using
+powder electrode materials.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> However, the ionic
+conductivity of LBO has been reported to be 2 &#x000d7; 10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup> at room temperature.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> This ionic conductivity is improved to 5 &#x000d7; 10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup> by Li<sub>2+<italic>x</italic></sub>C<sub>1&#x02013;<italic>x</italic></sub>B<sub><italic>x</italic></sub>O<sub>3</sub>,<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> but the ionic conductivity is still 2 orders of magnitude
+smaller than that of LLZ. Replacing LBO with another material with
+higher ionic conductivity is a better approach to reduce the Ohmic
+resistance of solid electrolytes. Okumura et al. developed bulk-type
+Ox-SSBs by spark plasma sintering, combining LISICON-type Li<sub>3.5</sub>Ge<sub>0.5</sub>V<sub>0.5</sub>O<sub>4</sub> (LGVO) with LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> (NCM111).<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> LGVO is stable with various LiCoO<sub>2</sub>-type electrodes, including NCM111, under sintering at 700 &#x000b0;C,
+and the resultant Ox-SSBs can undergo repeated stable charge&#x02013;discharge
+reactions. The ionic conductivity of LGVO is close to 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at room temperature,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> which is 1 order of magnitude higher ionic conductivity
+than that of LBO but smaller than that of LLZ. Therefore, placing
+a thin layer of LGVO as a protective layer against side reactions
+on LLZ, in addition to reducing the total Ohmic resistance of the
+resultant function sharing solid electrolyte, will be useful.</p><p>In this work, we prepared LGVO-coated LLZ substrates and investigated
+whether this kind of function sharing solid electrolyte is effective
+in suppressing the interfacial reactivity under sintering and then
+providing a low-resistivity interface. Here, a crystalline LGVO thin
+film with ca. 2 &#x003bc;m thickness was prepared on an LLZ substrate
+by aerosol deposition (AD), and the LLZ&#x02013;LGVO multilayer was
+annealed at different temperatures. Here, AD is a room-temperature
+ceramic coating technology, and it has been applied to prepare various
+coating materials, such as Al<sub>2</sub>O<sub>3</sub>, ZrO<sub>2</sub>, LCO, and electrode-solid electrolyte composite layers.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref></sup> Then, a LCO thin film was prepared on the LGVO side of the LLZ&#x02013;LGVO
+multilayer using AD and annealed at 700 &#x000b0;C. Finally, the resultant
+LLZ&#x02013;LGVO/LCO was combined with a lithium metal anode, and an
+Ox-SSB, Li/LLZ/LGVO/LCO, was prepared. We will show that the LLZ&#x02013;LGVO
+multilayer provides a well-adhered low-resistivity interface through
+Ge diffusion by annealing at 700&#x02013;900 &#x000b0;C. The 2 &#x003bc;m
+LGVO coatings effectively reduce the resistance from the solid electrolyte
+and interfacial resistance by ca. 1/40 compared to the noncoated Ox-SSB.
+An Ox-SSB using the LLZ&#x02013;LGVO multilayer can undergo repeated
+stable charge&#x02013;discharge reactions for over 100 cycles.</p></sec><sec id="sec2"><title>Experimental Section</title><sec id="sec2.1"><title>Preparation of LGVO Powder for AD</title><p>LGVO powder for AD
+was synthesized from Li<sub>4</sub>GeO<sub>4</sub> and Li<sub>4</sub>VO<sub>4</sub> as the starting material.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> The Li<sub>4</sub>GeO<sub>4</sub> powder was prepared by mixing
+LiOH&#x02013;H<sub>2</sub>O powder (&#x0003e;99.0%, Nakarai Tesuque) and
+GeO<sub>2</sub> powder (&#x0003e;99.99%, Nakarai Tesque) in a stoichiometric
+molar
+ratio and then fired at 600 &#x000b0;C for 12 h in O<sub>2</sub>. Then,
+the mixture was pressed into pellets at a pressure of 360 MPa and
+sintered at 700 &#x000b0;C for 12 h in O<sub>2</sub>. The Li<sub>4</sub>VO<sub>4</sub> powder was prepared by mixing LiOH&#x02013;H<sub>2</sub>O powder (&#x0003e;99.0%, Nacalai Tesque) and V<sub>2</sub>O<sub>5</sub> powder
+(&#x0003e;99.0%, Kanto Chemical) in a stoichiometric molar ratio and then
+fired at 450 &#x000b0;C for 12 h in O<sub>2</sub>. Then, the mixture
+was pressed into pellets at a pressure of 360 MPa and sintered at
+550 &#x000b0;C for 12 h in O<sub>2</sub>. The resultant Li<sub>4</sub>GeO<sub>4</sub> and Li<sub>3</sub>VO<sub>4</sub> powders were mixed
+in an agate mortar at a molar ratio of 1:1, then formed into pellets
+at a pressure of 360 MPa and sintered at 700 &#x000b0;C for 12 h in O<sub>2</sub> to obtain LGVO pellets. Electrochemical impedance spectroscopy
+(EIS) measurements were carried out at 25 &#x000b0;C by applying an alternating
+current (AC) amplitude of 10 mV (500 kHz to 100 mHz) to check the
+ionic conductivity of pelletized LGVO. The LGVO pellets were ground
+in a planetary ball mill (P-5, Fritsch) at a rotational speed of 100
+rpm for 2 h in an Ar atmosphere. After removing large particles through
+a 100 &#x003bc;m mesh sieve, starting powders for AD were prepared.
+Field emission scanning electron microscopy (FE-SEM) (SU8030, Hitachi
+Ltd.) and X-ray diffraction (XRD) (40 kV, 40 mA, Cu K&#x003b1;, Rigaku
+Ltd.) measurements were carried out to investigate the morphology
+and crystallinity of the powders, respectively.</p></sec><sec id="sec2.2"><title>Preparation of LGVO Films by AD and Characterization</title><p>Ta-doped sintered LLZ substrates (Li<sub>6.6</sub>La<sub>3</sub>Zr<sub>1.6</sub>Ta<sub>0.4</sub>O<sub>12</sub>, 0.5 mm in thickness, 10
+&#x000d7; 10 mm, Toshima) were used as base substrates. These substrates
+were first polished by SiC sandpaper (#400), and then, surface residual
+impurities such as Li<sub>2</sub>CO<sub>3</sub> and polishing dust
+were removed by acid etching (immersion in 1 mol dm<sup>&#x02013;3</sup> HCl dissolved in H<sub>2</sub>O, washing with H<sub>2</sub>O, and
+then drying under vacuum).<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> The acid-etched
+LLZ substrates were set in a vacuum evacuated AD chamber, and they
+were fixed to a substrate holder so that the deposition area was a
+rectangular shape of 8 &#x000d7; 10 mm (deposition area: 0.8 cm<sup>2</sup>). The starting powder amount for AD was 2 g. The powders were stored
+in the AD vessel maintained at 150 &#x000b0;C during deposition. The
+carrier gas of Ar flowed into the vessel at 15 L min<sup>&#x02013;1</sup>, and the resultant aerosol was sprayed onto the substrate through
+a nozzle. During AD, the substrate was moved back and forth without
+heating. After AD, substrates were transferred into an Ar-filled glovebox,
+and the surface dust generated during AD was wiped off using a blower
+and wiping paper. The resultant LLZ&#x02013;LGVO multilayers were annealed
+at 700, 900, or 1050 &#x000b0;C for 2 h under an Ar atmosphere. These
+annealed multilayers are denoted ML-700, ML-900, and ML-1050, respectively,
+and as-prepared multilayers without annealing are denoted ML-AP. Both
+surface and cross-section textures were observed by FE-SEM, and element
+distributions were analyzed by energy-dispersive X-ray spectroscopy
+(EDX) (X-max, Horiba Ltd.) at an acceleration voltage of 15 kV. Crystallinity
+variations of the MLs with annealing were evaluated using XRD. The
+ionic conductivities of both the MLs and the polished LLZ substrate
+were measured by EIS. The measurement cells were blocking electrode
+cells, where Au thin films (3 mm in diameter) were deposited on both
+sides of these substrates by RF sputtering after polishing the LLZ
+surface with SiC polishing paper (#400). Cross-sectional TEM specimens
+were prepared using a focused ion beam (JIB-4501, JEOL Ltd). Their
+structure and elemental compositions were examined using scanning
+transmission electron microscopy (STEM; JEM-ARM200F, JEOL Ltd.) equipped
+with EDX.</p></sec><sec id="sec2.3"><title>Fabrication and Electrochemical Measurements of Ox-SSBs</title><p>Crystalline LCO thin films (ca. 1 &#x003bc;m in thickness) were deposited
+on the LGVO side of ML-900 by AD using laboratory-made LCO particles
+(D50: 2.2 &#x003bc;m).<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The AD preparation
+parameters were the same as those for the LGVO film except for the
+deposition area (6 mm in diameter). The obtained samples were annealed
+at 700 or 900 &#x000b0;C for 2 h in an Ar atmosphere. The reactivity
+of the LCO formed on LGVO with annealing was preliminarily investigated
+by Raman spectroscopy (NRS-5100, Japan Spectroscopy) and STEM equipped
+with EDX, and an appropriate annealing temperature was determined
+to be 700 &#x000b0;C. After annealing at 700 &#x000b0;C, a Au current collector
+film was deposited on the LCO film by RF sputtering in a 7 mm square
+region. A Li metal anode film was formed on the LLZ side of ML-900
+by vacuum evaporation with an area 7 mm in diameter after polishing
+the LLZ surface with a SiC polishing paper (#400) in an Ar-filled
+glovebox (dew point &#x0003c; &#x02212;80 &#x000b0;C). The resultant Ox-SSB
+(Li/LLZ/LGVO/LCO/Au) was sealed in a coin-type cell (CR2032, Hosen
+Corporation) and then heated at 165 &#x000b0;C to obtain a well-adhered
+Li/LLZ interface. Additionally, Ox-SSBs without a LGVO coating layer
+were prepared without and with annealing at 700 &#x000b0;C in the same
+manner to clarify the role of the LGVO coating layer.</p><p>Charge&#x02013;discharge
+measurements of the Ox-SSBs with ML-900 were performed in the constant-current
+constant-voltage mode at 25 or 60 &#x000b0;C between 3.0 and 4.2 V. The
+initial 25 cycles were performed at 60 &#x000b0;C, in which the charge
+current density was fixed at 2.9 &#x003bc;A cm<sup>&#x02013;2</sup> and
+the discharge current density was varied from 2.9 to 286 &#x003bc;A
+cm<sup>&#x02013;2</sup>. Then, 11 cycles were performed at 25 &#x000b0;C,
+in which the charge current density was fixed at 2.9 &#x003bc;A cm<sup>&#x02013;2</sup> and the discharge current density was varied from
+2.9 to 57 &#x003bc;A cm<sup>&#x02013;2</sup>. Finally, the charge current
+density and operating temperature were fixed at 5 &#x003bc;A cm<sup>&#x02013;2</sup> and 60 &#x000b0;C, respectively, and the charge&#x02013;discharge
+reactions were repeated for 75 cycles. The discharge current density
+was varied from 5 to 500 &#x003bc;A cm<sup>&#x02013;2</sup> in the first
+25 cycles and fixed at 50 &#x003bc;A cm<sup>&#x02013;2</sup> in the last
+50 cycles. During these charge&#x02013;discharge reactions, EIS measurements
+were carried out at 3.0 and 4.0 V after a given charge&#x02013;discharge
+reaction by applying an AC amplitude of 10 mV within the frequency
+range of 200 kHz to 100 mHz. In the case of the Ox-SSBs without LGVO
+coating, charge&#x02013;discharge reactions were repeated for 10 cycles
+at 5 &#x003bc;A cm<sup>&#x02013;2</sup>, where the initial 5 cycles were
+measured at 60 &#x000b0;C and the later 5 cycles were conducted at 25
+&#x000b0;C. Additionally, EIS measurements were carried out after the
+5th cycle (60 &#x000b0;C) and the 10th cycle (25 &#x000b0;C) at 3.0 and
+4.0 V.</p></sec></sec><sec id="sec3"><title>Results and Discussion</title><sec id="sec3.1"><title>Preparation of LLZ&#x02013;LGVO MLs</title><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a shows an FE-SEM image of
+the synthesized LGVO powder for AD, and the inset shows a magnified
+image of the powder. The LGVO powder formed as secondary particles
+less than 10 &#x003bc;m in diameter, consisting of submicron-sized primary
+particles. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b shows the XRD pattern of the LGVO powder. The diffraction pattern
+from the LGVO powder (black spectrum) was in good agreement with the
+reported pattern (red spectrum<sup><xref ref-type="bibr" rid="ref34">34</xref></sup>), and
+impurity peaks were not detected (ND), indicating that single-phase
+LGVO was synthesized. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c shows the EIS spectrum of a sintered LGVO pellet (density:
+72%) measured at 25 &#x000b0;C. Au films were deposited on both sides
+of the LGVO pellet (Au/LGVO/Au). The inset spectrum is a magnified
+image of a higher frequency region. The spectrum consists of one semicircular
+arc to ca. 8000 &#x003a9;, followed by a straight line to the real axis
+in the lower frequency region. Considering that this semicircular
+arc is assigned to the ion-conduction resistance of LGVO, the ionic
+conductivity was calculated to be 5 &#x000d7; 10<sup>&#x02013;5</sup> S
+cm<sup>&#x02013;1</sup> at 25 &#x000b0;C. This value was comparable to
+reported values.<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) FE-SEM image of LGVO particles for
+AD. The inset shows a magnified
+SEM image of a particle. (b) XRD patterns of the LGVO particles (black)
+and reported reference data (red). (c) Nyquist plots of a Au/LGVO/Au
+symmetrical cell at 25 &#x000b0;C. The inset displays a magnified image
+of a higher frequency region. The numbers in these plots indicate
+data points measured at 10<sup><italic>n</italic></sup> Hz.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0002" id="gr1" position="float"/></fig><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> summarizes
+surface and cross-sectional FE-SEM images of the MLs (ML-AP, ML-700,
+ML-900, and ML-1050). <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a&#x02013;d shows surface SEM images of the MLs. The inset
+in each surface SEM image is an optical image of each ML, where a
+LGVO film was formed in an 8 &#x000d7; 10 mm region on a 10 mm square
+LLZ substrate. The LGVO film in ML-AP (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) appears to be composed of fine particles,
+and this situation was the same in ML-700 (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). In contrast, grain growth was visibly
+observed in ML-900 (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c) and more clearly in ML-1050 (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d). <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e&#x02013;h shows cross-sectional SEM images of the
+MLs. For each sample, LGVO films ca. 2 &#x003bc;m in thickness uniformly
+form on the LLZ substrates. Grain growth proceeds with the increase
+in annealing temperature to over 900 &#x000b0;C, as shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c,d, but the LGVO
+film does not peel off from the LLZ substrate. The LLZ region of both
+ML-AP and ML-700 is porous and densified in ML-900 and ML-1050. As
+mentioned in the experimental section, the LLZ substrates used in
+these MLs were acid-etched to remove surface impurities. This acid
+etching provided a porous LLZ region around the substrate, but such
+a porous region appeared to be densified with sintering over 900 &#x000b0;C.
+This densification is caused by the sintering of LLZ itself (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S1</ext-link>), and Ge diffusion from LGVO, as described
+below, may also assist it.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S2</ext-link> summarizes the SEM and EDX mapping
+images of Ge L&#x003b1;, V K&#x003b1;, and La L&#x003b1; for ML-AP (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S2a&#x02013;d</ext-link>), ML-700 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S2e&#x02013;h</ext-link>), ML-900 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S2i&#x02013;l</ext-link>), and ML-1050 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S2m&#x02013;p</ext-link>).
+The averaged Ge/V ratio (N3) of ML-AP is 0.99, which is almost consistent
+with the ideal ratio (1.00). In contrast, MLs with annealing over
+700 &#x000b0;C exhibit decreased average Ge/V ratio to 0.79&#x02013;0.90,
+indicating that LGVO reacts with LLZ with Ge diffusion. This reactive
+sintering will work as a driving force for generating a well-adhered
+interface, which will reasonably explain the in-plane growth of LGVO
+on LLZ with annealing. It has been reported that Ge can be doped into
+LLZ and occupy Li or La sites depending on the doping amount.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The appropriate amount of Ge doping of less
+than 1 wt % forms a solid solution with a cubic phase in addition
+to improving the ionic conductivity, while an excess amount of Ge
+doping of over 1 wt % provides tetragonal-phase LLZ, detected as (024)
+peak splitting, in addition to the appearance of impurity diffraction
+peaks.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The XRD patterns from both ML-700
+and ML-900 do not show such peak splitting or impurity peaks, as shown
+in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>. Therefore,
+the amount of Ge diffusion inside LLZ is expected to be in the solid
+solution range (less than 1 wt %). Both Ge L&#x003b1; and V K&#x003b1;
+signals are observed in most of the areas on the MLs, but some areas
+are shown as a dark color, where the La L&#x003b1; signal from the LLZ
+substrate appears strong. These results indicate that LGVO films are
+formed almost uniformly on the LLZ substrates on a microscale, but
+they may not be coated or may be coated in a thinner state on part
+of the MLs on the macroscale.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a&#x02013;d) Surface and (e&#x02013;f) cross-sectional
+FE-SEM images
+of (a,e) ML-AP, (b,f) ML-700, (c,g) ML-900, and (d,h) ML-1050. The
+insets in (a&#x02013;d) display optical images of the MLs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0003" id="gr2" position="float"/></fig><p><xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a,b show
+cross-sectional TEM images of ML-AP and ML-900. The LGVO films in
+ML-AP are formed by small-sized grains with voids, and the LGVO/LLZ
+interface remains a disconnected region along the interface. In contrast,
+the LGVO films in ML-900 are well sintered and densely adhere to LLZ. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c,d shows the EDX
+profile measured inside the LLZ of ML-AP and ML-900, and the analyzed
+values are summarized in each table, where both the mass % and at.
+% were estimated by the &#x003b6;-factor method.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> EDX analysis could ND Ge in the LLZ region of ML-AP (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c). In contrast,
+Ge was detected at 0.09 at. % in ML-900 (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d) and widely distributed from the interface,
+although the detected value was in the lower detection limit range
+and should be considered a reference value. When Ge occupies the Li
+site,<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> the wide-range distribution of
+Ge may be explained by Ge diffusion through the Li<sup>+</sup> conduction
+pathway. This wide-range diffusion, not condensed around the interface,
+is consistent with the reduction in the Ge/V ratio induced by annealing
+in the EDX measurements. V appears to be present in the LLZ region
+from the EDX image, but this is because the V K&#x003b1; signal overlaps
+with the La L&#x003b1; and O K&#x003b1; signals. The amount of V was estimated
+by the &#x003b6;-factor method,<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> but V was
+ND in either ML-AP or ML-900, suggesting that V will not diffuse toward
+LLZ.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Cross-sectional TEM images of (a) ML-AP and (b) ML-900. EDX measurements
+around the LLZ/LGVO interface of (c) ML-AP and (d) ML-900. The EDX
+signals were from O K&#x003b1;, V K&#x003b1;, Ge K&#x003b1;, Zr L&#x003b1;,
+La L&#x003b1;, and Ta L&#x003b1;. The tables in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c,d summarize the mass %, &#x003c3;, and at.
+% evaluated in the LLZ region in the red frame.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0004" id="gr3" position="float"/></fig><p><xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> shows the XRD patterns of the MLs. The diffraction
+patterns of the LLZ substrate after polishing by SiC polishing paper
+(#400) and LGVO powder are also shown as references. ML-AP presents
+a broad diffraction pattern from the LGVO film in addition to diffraction
+peaks from the LLZ substrate. The broad diffraction pattern from the
+LGVO film is attributed to the crystallinity degradation by AD. In
+the cases of ML-700 and ML-900, the diffraction peaks from the LGVO
+film appear sharp, indicating that the crystallinity of the LGVO film
+has recovered. Although Ge diffusion inside LLZ was suggested by EDX
+analysis, no impurity peaks were detected. The diffused amount of
+Ge (0.09 at. %) inside LLZ is estimated to be 0.13 wt % GeO<sub>2</sub> against the Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> composition, which is in the range of a solid solution of Ge (less
+than 1 wt %).<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> Additionally, the Ge/V
+ratio of 0.79&#x02013;0.90 is within the range of the solid solution
+of LGVO,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> and then, a Li<sub>3+<italic>x</italic></sub>Ge<sub><italic>x</italic></sub>V<sub>1&#x02013;<italic>x</italic></sub>O<sub>4</sub> (<italic>x</italic> = 0.48&#x02013;0.44)
+film will be formed on LLZ. The diffraction peak intensity from the
+LGVO film further increases in ML-1050, and the crystallinity of the
+LGVO film improves; however, diffraction peaks assigned to La<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> newly appear at 28.45, 47.44,
+and 56.19&#x000b0;.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> La<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> will be generated by thermal decomposition of
+LLZ, probably through lithium loss due to high-temperature annealing
+at 1050 &#x000b0;C. To summarize these XRD data, ML-AP provides a lower-crystalline
+LGVO layer, while ML-1050 provides highly crystalline LGVO, but the
+resistive impurity phase of La<sub>2</sub>Zr<sub>2</sub>O<sub>12</sub> is generated as a byproduct. In the case of ML-700 and ML-900, LGVO
+is highly crystalline, and there are no impurity XRD peaks. Thus,
+both ML-700 and ML-900 are suitable for structural evaluation.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>XRD patterns
+of ML-AP (blue), ML-700 (orange), ML-900 (red), and
+ML-1050 (purple). Additionally, XRD patterns of the LLZ substrate
+after polishing with SiC sandpaper (black) and LGVO powder (green)
+are shown as references. Diffraction peaks marked by * are assigned
+to La<sub>2</sub>Zr<sub>2</sub>O<sub>7.</sub></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0005" id="gr4" position="float"/></fig><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a shows
+the EIS spectra of the blocking electrode cell of the MLs and the
+polished LLZ substrate. Because these substrates have slightly different
+thicknesses due to the polishing treatment of the LLZ substrates,
+all the data are normalized by the thickness (&#x003a9; cm<sup>&#x02013;1</sup>). The EIS spectra exhibit characteristic spectra for blocking electrodes
+and diverge in lower frequency regions. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b&#x02013;f show magnified images of higher
+frequency regions of LLZ and ML-AP, -700, -900, and -1050. One semicircular
+arc is observed in the high-frequency range except for ML-AP (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c). The total ionic
+conductivity (&#x003c3;<sub>total</sub>) of the MLs was calculated from
+the diameters of the semicircular arcs (<italic>R</italic><sub>total</sub>), and the values are displayed in each spectrum. The LLZ substrate
+has a &#x003c3;<sub>total</sub> of 7.3 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>. Assuming that the ionic conductivity of
+the 2 &#x003bc;m thick LGVO films on LLZ is 5 &#x000d7; 10<sup>&#x02013;5</sup> S cm<sup>&#x02013;1</sup> for all samples and that there is no resistance
+at the LLZ/LGVO interface, the &#x003c3;<sub>total</sub> of the ML is
+estimated to be 6.9 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>. The &#x003c3;<sub>total</sub> values of ML-700 and ML-900 are 7.0
+&#x000d7; 10<sup>&#x02013;4</sup> and 6.8 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>, respectively. These values are almost
+consistent with the ionic conductivity estimated from the sum of each
+resistance of LLZ and LGVO, indicating that there is no significant
+interfacial resistance at LLZ/LGVO. Although the composition of LGVO
+may change from the initial Li<sub>3.5</sub>Ge<sub>0.5</sub>V<sub>0.5</sub>O<sub>4</sub> with the highest ionic conductivity to Li<sub>3+<italic>x</italic></sub>Ge<sub><italic>x</italic></sub>V<sub>1&#x02013;<italic>x</italic></sub>O<sub>4</sub> (<italic>x</italic> = 0.48&#x02013;0.44)
+via Ge diffusion, this compositional change will result in only a
+slight decrease in the ionic conductivity.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> In the case of ML-1050, &#x003c3;<sub>total</sub> decreases to 3.3
+&#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>, which is attributed
+to the formation of resistive La<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> as a byproduct detected by XRD. Additionally, ML-AP exhibits quite
+a large semicircular arc out of the scale in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c, and &#x003c3;<sub>total</sub> is estimated
+to be 4.6 &#x000d7; 10<sup>&#x02013;5</sup> S cm<sup>&#x02013;1</sup> from <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a. This decreased
+ionic conductivity is attributed to the degraded crystallinity of
+the LGVO film with voids, as shown in <xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref> and <xref rid="fig4" ref-type="fig">4</xref>, in addition
+to the formation of the disconnected region along the interface (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). These results
+indicate that both ML-700 and ML-900 are appropriate in terms of ionic
+conductivity.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a) Nyquist plots of ML-AP (blue), ML-700 (orange), ML-900
+(red),
+ML-1050 (purple), and the LLZ substrate (green) measured at 25 &#x000b0;C.
+Magnified Nyquist plots in a higher frequency region of the (b) LLZ
+substrate, (c) ML-AP, (d) ML-700, (e) ML-900, and (f) ML-1050. The
+numbers in each plot indicate data points measured at 10<sup><italic>n</italic></sup> Hz. The thickness of each substrate is used to normalize
+all the resistances.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0006" id="gr5" position="float"/></fig><p>From these results, both ML-700 and ML-900 are
+considered appropriate
+MLs in this study. ML-900 was selected as a model substrate to fabricate
+Ox-SSBs through a sintering process in the subsequent evaluation.</p></sec><sec id="sec3.2"><title>Electrochemical Properties of the Ox-SSBs Using ML-900</title><p>We checked the reactivity of LGVO with LCO under sintering by Raman
+spectroscopy before fabricating Ox-SSBs using ML-900. Thin films of
+LCO were formed on LGVO pellets using AD at room temperature, and
+then, the LCO/LGVO ML was sintered at 700 or 900 &#x000b0;C in Ar. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S3a</ext-link> shows a cross-sectional FE-SEM image
+of a LCO thin film fabricated on a LGVO pellet. A LCO thin film with
+a thickness of ca. 1 &#x003bc;m was formed on the LGVO pellet. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S3b</ext-link> shows Raman spectra of the as-deposited
+LCO film and the LCO film after annealing at 700 or 900 &#x000b0;C. The
+as-deposited LCO film exhibits two Raman bands (A<sub>1g</sub> and
+E<sub>g</sub>) characteristic of layered-structured LCO.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> These two bands were observed after annealing
+at 700 &#x000b0;C but disappeared at 900 &#x000b0;C. These results clarify
+that LGVO-LCO significantly reacts with annealing at less than 900
+&#x000b0;C. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S4</ext-link> shows a cross-sectional
+TEM image and EDX line profile of LCO/LGVO interface annealing at
+700 &#x000b0;C. A mutual diffusion layer may be formed around the interface,
+but its thickness is less than 20 nm. Wide-range mutual diffusion
+of Co, V, and Ge was ND.</p><p>Based on the above results, a thin
+film of LCO was deposited on the LGVO side of ML-900 using AD and
+annealed at 700 &#x000b0;C. Then, a lithium metal anode was deposited
+on the LLZ side of the ML-900/LCO, and Ox-SSBs (Li/ML-900/LCO) were
+fabricated. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S5</ext-link> shows a cross-sectional
+SEM image (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S5a</ext-link>) and an EDX mapping
+image (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S5b</ext-link>). Both LCO (ca. 1 &#x003bc;m)
+and LGVO (ca. 2 &#x003bc;m) films formed an ML on an LLZ substrate.
+Although we could not measure the correct loading amount of the LCO
+film because the AD conditions in this work slightly etched the substrate,
+the expected amount was ca. 0.5 mg/cm<sup>2</sup> assuming that the
+LCO thin film has the ideal density of LCO (5.0 g/cm<sup>3</sup>).
+The lithium plating amount during the charging process is estimated
+to be ca. 0.3 &#x003bc;m.</p><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> shows the
+variation in the discharge capacity of an Ox-SSB with repetition of
+charge&#x02013;discharge cycles at different current densities. The
+reaction temperature was swung: 1st&#x02013;25th cycles at 60 &#x000b0;C,
+26th&#x02013;36th cycles at 25 &#x000b0;C, and 37th&#x02013;137th cycles
+at 60 &#x000b0;C. The charge current density was fixed at 2.9 &#x003bc;A
+cm<sup>&#x02013;2</sup> for the 1st&#x02013;36th cycles and 5 &#x003bc;A
+cm<sup>&#x02013;2</sup> after the 37th cycle, and the discharge current
+density was changed from 2.9 to 500 &#x003bc;A cm<sup>&#x02013;2</sup>. The discharge capacity slightly decreased with the cycles, and
+the discharge capacity after the 137th cycle (<italic>I</italic> =
+50 &#x003bc;A cm<sup>&#x02013;2</sup>) maintained 88% of that after the
+11th cycle (<italic>I</italic> = 57 &#x003bc;A cm<sup>&#x02013;2</sup>). Additionally, the total interfacial resistance (<italic>R</italic><sub>int</sub>) measured after the given charge&#x02013;discharge
+reactions is plotted in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>, where <italic>R</italic><sub>int</sub> is the sum of the
+interfacial resistances at Li/LLZ (DE1-R) and LCO/LGVO (DE2-R), as
+discussed below. <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a displays the 1st, 6th, 11th, 16th, and 21st charge&#x02013;discharge
+curves at 60 &#x000b0;C, where the discharge current density was varied
+from 2.9 to 286 &#x003bc;A cm<sup>&#x02013;2</sup>. The Coulombic efficiency
+in the initial cycle was 89.7%. <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b displays the charge&#x02013;discharge curves at the
+26th, 31st, and 36th cycles at 25 &#x000b0;C, where the discharge current
+density was varied from 2.9 to 57 &#x003bc;A cm<sup>&#x02013;2</sup>.
+In these charge&#x02013;discharge curves, the hexagonal-monoclinic
+phase transition of LCO was not observed at 4.1&#x02013;4.2 V in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a, but it clearly
+appeared in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b. This situation agrees with the temperature dependency of the hexagonal-monoclinic
+phase transition.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> These results indicate
+that the LCO film on ML-900 maintains good crystallinity after annealing
+at 700 &#x000b0;C. <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c,d shows the EIS spectra measured at 3.0 and 4.0 V after the 5th
+(60 &#x000b0;C) and 25th (25 &#x000b0;C) charge&#x02013;discharge cycles,
+respectively. The high-frequency intercept with the real axis does
+not depend on the potential, and the values are 60 &#x003a9; at 60 &#x000b0;C
+and 230 &#x003a9; at 25 &#x000b0;C, which is assigned to the resistance
+of ML-900 considering the frequency in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>e. In contrast, a new semicircular arc appears
+at 4.0 V. This semicircular arc is displayed as <italic>R</italic><sub>int</sub> in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c,d. <italic>R</italic><sub>int</sub> is divided into two
+relaxation processes from the distribution of relaxation times (DRT)
+analysis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S6</ext-link>), which is the sum
+of the interfacial resistances at Li/LLZ (DE1) and LGVO/LCO (DE2).<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> EIS spectra recorded at 3.0 and 4.0 V after
+the given charge&#x02013;discharge cycles are displayed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">Figure S7</ext-link>. <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> summarizes the DRT-analyzed resistances of the solid
+electrolyte (R1), Li/LLZ interface (DE1-R), and LGVO/LCO interface
+(DE2-R) in addition to other values [relaxation times (DE-T), depression
+factors (DE-P), and error % for the fitting] of these EIS spectra
+at 4.0 V. Additionally, the equivalent circuit model is displayed
+in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. Here, the
+variations in <italic>R</italic><sub>int</sub> in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> are the sum of DE1-R and DE2-R.
+DE1-R slightly increases from 13.2 &#x003a9; (after the 5th cycle) to
+19.2 &#x003a9; (after the 136th cycle) with cycling, which is attributed
+to the formation of a partially disconnected Li/LLZ interface region.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> DE2-R increases ca. two times from 46.9 &#x003a9;
+(after the 5th cycle) to 109 &#x003a9; (after the 136th cycle). As shown
+in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>, the discharge
+capacity slightly decreases with the cycles. This increased interfacial
+resistance at LGVO/LCO will contribute to the degradation and rise
+of <italic>R</italic><sub>int</sub> with cycling. A plausible mechanism
+for the increasing DE2-R is the formation of a disconnected LGVO/LCO
+interface originating from the volume change of LCO at 3.0&#x02013;4.2
+V (ca. 2%) during the charge&#x02013;discharge reactions.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> An effective way to reduce this degradation will be to replace LCO
+with other electrode materials with smaller volume changes, such as
+LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub>.<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> Focusing on the interfacial resistivity of LGVO/LCO at 25 &#x000b0;C
+measured after the 15th charge&#x02013;discharge reaction is interesting.
+DE2-R was estimated to be 514 &#x003a9;; thus, the interfacial resistivity
+was calculated to be 145 &#x003a9; cm<sup>2</sup>. This is almost the
+same value as LCO/LLZ (150 &#x003a9; cm<sup>2</sup>) interface-modified
+by 10 nm Nb metal,<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> where the interfacial
+resistance sensitively varied with the thickness of the Nb coating
+layer. This means that a low-resistivity LGVO/LCO interface is formed
+even after annealing at 700 &#x000b0;C.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Variation in the discharge capacity and
+total interfacial resistance
+(<italic>R</italic><sub>int</sub>) of an Ox-SSB (Li/ML-900/LCO) with
+the charge&#x02013;discharge reactions measured at 60 and 25 &#x000b0;C.
+The charge current density was fixed at 2.9 &#x003bc;A cm<sup>&#x02013;2</sup> in the 1st&#x02013;36th cycles and 5 &#x003bc;A cm<sup>&#x02013;2</sup> in the 37th&#x02013;137th cycles, and the discharge current density
+was varied from 2.9 to 286 &#x003bc;A cm<sup>&#x02013;2</sup> during
+the 1st&#x02013;36th cycles and 5&#x02013;500 &#x003bc;A cm<sup>&#x02013;2</sup> during the 37th&#x02013;91st cycles and fixed at 50 &#x003bc;A cm<sup>&#x02013;2</sup> during the 92nd&#x02013;137th cycles. The <italic>R</italic><sub>int</sub> values were measured at 4.0 V after charge&#x02013;discharge
+reactions in the 5th, 25th, 36th, 86th, and 136th cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0007" id="gr6" position="float"/></fig><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Charge&#x02013;discharge curves of an Ox-SSB (Li/ML-900/LCO)
+with
+700 &#x000b0;C annealing in the (a) 1st, 6th, 11th, 16th, and 21st cycles
+and (b) 26th, 31st, and 36th cycles, where the charge current density
+was fixed at 2.9 &#x003bc;A cm<sup>&#x02013;2</sup> and discharge current
+density was 2.9 &#x003bc;A cm<sup>&#x02013;2</sup> (1st and 26th), 29
+&#x003bc;A cm<sup>&#x02013;2</sup> (6th and 31st), 57 &#x003bc;A cm<sup>&#x02013;2</sup> (11th and 36th), 143 &#x003bc;A cm<sup>&#x02013;2</sup> (16th), and 286 &#x003bc;A cm<sup>&#x02013;2</sup> (21st). Nyquist
+plots at 3.0 and 4.0 V after the (c) 5th cycle and (d) 25th cycle,
+where <italic>R</italic><sub>int</sub> denotes the sum of the interfacial
+resistances at Li/LLZ and LGVO/LCO. Data were measured at 60 &#x000b0;C
+in (a,c) and at 25 &#x000b0;C in (b,d). The numbers in (c,d) indicate
+data points measured at 10<sup><italic>n</italic></sup> Hz.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0008" id="gr7" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Variations in EIS Data Analyzed by
+DRT of an Ox-SSB with ML-900 after the 5th, 36th, 86th, and 136th
+Charge&#x02013;Discharge Cycles Shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>; R1 (Solid Electrolyte), DE-1 (Li/LLZ Interface),
+and DE-2 (LCO/LGVO Interface)<xref rid="t1fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0010" id="GRAPHIC-d14e1074-autogenerated" position="float"/><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="char" char="&#x000d7;"/><col align="left"/><col align="char" char="&#x000d7;"/><col align="left"/><col align="char" char="&#x000d7;"/><col align="left"/><col align="char" char="&#x000d7;"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th colspan="2" align="center">5th<hr/></th><th colspan="2" align="center">36th<hr/></th><th colspan="2" align="center">86th<hr/></th><th colspan="2" align="center">136th<hr/></th></tr><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">value</th><th style="border:none;" align="center" char="&#x000d7;">error (%)</th><th style="border:none;" align="center">value</th><th style="border:none;" align="center" char="&#x000d7;">error (%)</th><th style="border:none;" align="center">value</th><th style="border:none;" align="center" char="&#x000d7;">error (%)</th><th style="border:none;" align="center">value</th><th style="border:none;" align="center" char="&#x000d7;">error (%)</th></tr></thead><tbody><tr><td style="border:none;" align="left">R1 (&#x003a9;)</td><td style="border:none;" align="left">62.1</td><td style="border:none;" align="char" char="&#x000d7;">3.0&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="left">61.8</td><td style="border:none;" align="char" char="&#x000d7;">2.9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="left">64.5</td><td style="border:none;" align="char" char="&#x000d7;">2.6&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="left">71.6</td><td style="border:none;" align="char" char="&#x000d7;">2.7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">DE1-R (&#x003a9;)</td><td style="border:none;" align="left">13.2</td><td style="border:none;" align="char" char="&#x000d7;">6.9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">13.1</td><td style="border:none;" align="char" char="&#x000d7;">6.2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">14.8</td><td style="border:none;" align="char" char="&#x000d7;">4.7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">19.2</td><td style="border:none;" align="char" char="&#x000d7;">3.4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td></tr><tr><td style="border:none;" align="left">DE1-T (s)</td><td style="border:none;" align="left">2.82&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup></td><td style="border:none;" align="char" char="&#x000d7;">3.3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">2.82&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup></td><td style="border:none;" align="char" char="&#x000d7;">2.8&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">2.82&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup></td><td style="border:none;" align="char" char="&#x000d7;">2.0&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">2.82&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup></td><td style="border:none;" align="char" char="&#x000d7;">1.5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td></tr><tr><td style="border:none;" align="left">DE1-P</td><td style="border:none;" align="left">0.89</td><td style="border:none;" align="char" char="&#x000d7;">2.5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">0.90</td><td style="border:none;" align="char" char="&#x000d7;">2.3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">0.89</td><td style="border:none;" align="char" char="&#x000d7;">1.9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">0.88</td><td style="border:none;" align="char" char="&#x000d7;">1.5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td></tr><tr><td style="border:none;" align="left">DE2-R (&#x003a9;)</td><td style="border:none;" align="left">46.9</td><td style="border:none;" align="char" char="&#x000d7;">1.7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">59.2</td><td style="border:none;" align="char" char="&#x000d7;">1.2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">76.5</td><td style="border:none;" align="char" char="&#x000d7;">8.1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="left">109</td><td style="border:none;" align="char" char="&#x000d7;">5.5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">DE2-T (s)</td><td style="border:none;" align="left">2.92&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="char" char="&#x000d7;">1.9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">3.55&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup></td><td style="border:none;" align="char" char="&#x000d7;">1.5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">4.75&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="char" char="&#x000d7;">1.2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">7.73&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="char" char="&#x000d7;">7.5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">DE1-P</td><td style="border:none;" align="left">0.78</td><td style="border:none;" align="char" char="&#x000d7;">4.5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="left">0.76</td><td style="border:none;" align="char" char="&#x000d7;">4.0&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td><td style="border:none;" align="left">0.73</td><td style="border:none;" align="char" char="&#x000d7;">3.4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">0.71</td><td style="border:none;" align="char" char="&#x000d7;">31&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>The equivalent circuit model of
+the Ox-SSB is shown in the table.</p></fn></table-wrap-foot></table-wrap><p>To clarify the role of the LGVO coating layer in ML-900,
+an all-solid-state
+battery (Li/LLZ/LCO) without a LGVO coating layer was fabricated by
+depositing LCO on an acid-treated LLZ substrate by AD and then annealed
+at 700 &#x000b0;C in the same manner. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a shows the charge&#x02013;discharge curves
+of the 1st&#x02013;5th cycles at 60 &#x000b0;C. In the 1st cycle, the
+open-circuit voltage (OCV) was as low as 1.65 V, and a charging capacity
+of 13 &#x003bc;A h cm<sup>&#x02013;2</sup> was observed under 3.0 V.
+The Coulombic efficiency over 3.0 V was decreased to 66.6%, with an
+irreversible capacity of 24 &#x003bc;A h cm<sup>&#x02013;2</sup>. In
+contrast, the discharge capacities after two cycles were almost consistent
+with those of the SSBs using ML-900 in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a and delivered 47 &#x003bc;A h cm<sup>&#x02013;2</sup>. Here, the hexagonal-monoclinic phase transition of LCO was not
+observed, as shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b shows the EIS spectra recorded after the 5th cycle (60 &#x000b0;C)
+at 3.0 and 4.0 V. The high-frequency intercept with the real axis
+was potential-independent, and this part was then assigned to the
+resistance of the solid electrolyte. However, the resistance increased
+from 60 &#x003a9; (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a) to 2000 &#x003a9; (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a). Additionally, <italic>R</italic><sub>int</sub> increased
+from 60 &#x003a9; (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b) to 2500 &#x003a9; (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b). These results indicate that the LGVO coating effectively
+inhibits the increase in both the solid electrolyte resistance and <italic>R</italic><sub>int</sub> because of the suppression of side reactions
+during the sintering process. When charging and discharging reactions
+were carried out at 25 &#x000b0;C (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>c), the charge&#x02013;discharge voltage was visibly
+polarized, and the hexagonal-monoclinic phase transition peaks were
+not observed, probably because of the inhomogeneous reaction induced
+by the large interfacial resistance. Additionally, potential-independent
+high-frequency intercepts were composed of several semicircular arcs;
+the value increased from 200 to 17000 &#x003a9;, and the potential-dependent <italic>R</italic><sub>int</sub> increased from 650 &#x003a9; (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d) to 25000 &#x003a9; (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>d). This increased
+resistance reasonably explains the large polarization of the charge&#x02013;discharge
+curve.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>(a) Charge&#x02013;discharge curves at 60 &#x000b0;C of an Ox-SSB (Li/LLZ/LCO)
+with 700 &#x000b0;C annealing in the 1st&#x02013;5th cycles under a fixed
+charge&#x02013;discharge current density of 5 &#x003bc;A cm<sup>&#x02013;2</sup>. (b) Nyquist plots at 60 &#x000b0;C of a nonannealed Ox-SSB (Li/LLZ)
+measured at 3.0 V (blue) and 4.0 V (red) after the 5th cycle. (c)
+Charge&#x02013;discharge curves at 25 &#x000b0;C of a nonannealed Ox-SSB
+(Li/LLZ/LCO) in the 6th&#x02013;10th cycles under a fixed charge&#x02013;discharge
+current density of 5 &#x003bc;A cm<sup>&#x02013;2</sup>. (d) Nyquist
+plots at 25 &#x000b0;C of an Ox-SSB (Li/LLZ/LCO) without annealing measured
+at 3.0 V (blue) and 4.0 V (red) after the 10th cycle. (e) Charge&#x02013;discharge
+curves at 60 &#x000b0;C of an Ox-SSB (Li/LLZ/LCO) without annealing in
+the 1st&#x02013;5th cycles under a fixed charge&#x02013;discharge current
+density of 5 &#x003bc;A cm<sup>&#x02013;2</sup>. (f) Nyquist plots at
+60 &#x000b0;C of an Ox-SSB (Li/LLZ) without annealing measured at 3.0
+V (blue) and 4.0 V (red) after the 5th cycle. (g) Schematic image
+of the interface properties with LGVO coating and annealing effects.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_0009" id="gr8" position="float"/></fig><p>The use of acid-etched LLZ provides a porous region
+around the
+LLZ surface, as mentioned in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, which may increase the cell resistance due to worse
+physical bonding.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Thus, we prepared an
+Ox-SSB (Li/LLZ/LCO) without annealing after depositing LCO thin films
+by AD on acid-treated LLZ, where the maximum heating temperature was
+165 &#x000b0;C to obtain a well-adhered Li/LLZ interface. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>e shows the charge&#x02013;discharge
+curves at 60 &#x000b0;C of the resultant SSB (Li/LLZ/LCO) without LGVO
+or any annealing. The OCV increased to 2.51 V, and the capacity below
+3.0 V disappeared. The presence of an additional plateau at approximately
+3.6 V may be due to the degraded crystallinity in part of the as-prepared
+AD LCO film.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> In the first cycle, an irreversible
+capacity of 26 &#x003bc;A h cm<sup>&#x02013;2</sup> was observed, and
+the Coulombic efficiency was 67.5%. The discharge capacity after the
+second cycle was ca. 50 &#x003bc;A h cm<sup>&#x02013;2</sup>, comparable
+to those of the annealed Ox-SSB without LGVO (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a) and the Ox-SSB using ML-900. In contrast,
+the Coulombic efficiency in the first cycle was ca. 90% for the Ox-SSB
+with ML-900 and decreased to 67&#x02013;68% in Ox-SSBs without LGVO
+regardless of annealing. The difference in the irreversible capacity
+in the first cycle may arise from the anodic instability of LLZ,<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> and LGVO may have a superior anodic stability to LLZ. When the oxidation
+of LLZ occurs during the first charging reaction, the interface will
+be modified to a stabilized state at the voltage, similar to SEI formation
+on a graphite anode in a lithium-ion battery. After the stabilization
+of the interface, the later charging reaction will not entail any
+irreversible capacity under the same charging voltage. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>f shows the EIS spectra recorded
+after the fifth cycle (60 &#x000b0;C) at 3.0 and 4.0 V. The potential-independent
+high-frequency intercept with the real axis and <italic>R</italic><sub>int</sub> were 50 and 70 &#x003a9;, respectively. These values
+were comparable to those of the Ox-SSB with ML-900 (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c) but 2 orders of magnitude
+smaller than those of the sintered Ox-SSB without LGVO coating (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>d). These results
+clarify that the porosity of the LLZ does not influence the drastic
+increase in the cell resistance and that annealing of LLZ/LCO induces
+an increase in the cell resistance. In other words, the 2 &#x003bc;m
+thick LGVO coating effectively suppresses the side reactions at LLZ/LCO
+and then inhibits the increase in the resistance induced by sintering.</p><p><xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>g summarizes
+the properties of the LLZ/LCO interface with LGVO coating and annealing.
+The LLZ/LCO interface without annealing has low resistivity. Once
+LLZ/LCO is annealed, the materials react with each other, and a high-resistivity
+interface is generated. The LGVO layer reacts with LLZ through Ge
+diffusion induced by annealing, but LLZ/LGVO has low resistivity.
+In contrast, LGVO/LCO is a low-reactivity and low-resistivity interface,
+and LLZ/LGVO/LCO provides a totally low-resistivity interface. These
+results indicate that one strategy to realize a low-resistivity LLZ/LCO
+interface by the sintering process is to insert a coating layer such
+as LGVO at the interface. Another strategy will be to develop the
+interface at lower temperatures, which may require low-temperature
+process technology such as AD.</p></sec></sec><sec id="sec4"><title>Conclusions</title><p>We applied the concept of function sharing
+of a solid electrolyte
+to an oxide-based all-solid-state oxide battery (Ox-SSB) prepared
+by sintering processes similar to ML ceramic capacitors technology.
+We prepared an LLZ&#x02013;LGVO ML solid electrolyte sheet where a
+2 &#x003bc;m thick LGVO film was coated on one side of the LLZ substrate
+by AD. The ML obtained a total ionic conductivity of 6.9 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 25 &#x000b0;C and was stable
+up to 900 &#x000b0;C. These two solid electrolytes were well-densified
+through Ge diffusion and did not provide large interfacial resistance.
+MLs annealed at 900 &#x000b0;C (ML-900) were applied to develop Ox-SSBs
+(Li/ML-900/LCO) through sintering at 700 &#x000b0;C. The LGVO coating
+suppressed the increases in the resistance from the solid electrolyte
+and interfacial resistance induced by annealing by ca. 1/40. Additionally,
+the LGVO/LCO interfacial resistivity was decreased to as low as 145
+&#x003a9; cm<sup>2</sup> at 25 &#x000b0;C. Here, a 2 &#x003bc;m coating of
+LGVO is a tunable parameter in the field of ML ceramic capacitors.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> Because the LLZ sheet has been successfully
+prepared by the tape casting method,<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> we
+can expect that the LLZ&#x02013;LGVO ML will possibly be prepared through
+ML ceramic capacitors technology. Of course, the application of LGVO
+as a coating material may be another choice to develop better performance
+bulk-type Ox-SSBs<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> by reducing the Ohmic
+resistance in the composite electrode.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.2c10853?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.2c10853</ext-link>.<list id="silist" list-type="simple"><list-item><p>EDX analysis of an LLZ&#x02013;LGVO multilayer, reactivity
+between LGVO and LCO analyzed by Raman spectroscopy, cross-sectional
+SEM and EDX images of an LLZ/LGVO/LCO multilayer, DRT analysis of
+an EIS spectrum of an Ox-SSB (Li/ML-900/LCO), and EIS spectra of an
+Ox-SSB (Li/ML-900/LCO) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.2c10853/suppl_file/am2c10853_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am2c10853_si_001.pdf"><caption><p>am2c10853_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes3"><title>Author Contributions</title><p>The manuscript
+was written through contributions of all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="funding-statement" id="notes2"><p>This work was
+supported by ALCA-SPRING (JPMJAL1301) and in part by JSPS KAKENHI
+number JP19H05813 (Grant-in-Aid for Scientific Research on Innovation
+Areas &#x0201c;Interface IONICS&#x0201d;).</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1568-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We thank Keisuke Shinoda and Tomoyuki Horie for
+TEM sample preparation at the National Institute for Materials Science
+(NIMS) Battery Research Platform. A part of this work was supported
+by the NIMS Electron Microscopy Analysis Station, Nanostructural Characterization
+Group.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Bates</surname><given-names>J. B.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Gruzalski</surname><given-names>G. R.</given-names></name>; <name><surname>Zuhr</surname><given-names>R. A.</given-names></name>; <name><surname>Choudhury</surname><given-names>A.</given-names></name>; <name><surname>Luck</surname><given-names>C. F.</given-names></name>; <name><surname>Robertson</surname><given-names>J. D.</given-names></name>
+<article-title>Electrical Properties of Amorphous
+Lithium Electrolyte Thin Films</article-title>. <source>Solid State
+Ionics</source>
+<year>1992</year>, <volume>53-56</volume>, <fpage>647</fpage>&#x02013;<lpage>654</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(92)90442-r</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Bates</surname><given-names>J. B.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Neudecker</surname><given-names>B.</given-names></name>; <name><surname>Ueda</surname><given-names>A.</given-names></name>; <name><surname>Evans</surname><given-names>C. D.</given-names></name>
+<article-title>Thin-Film
+Lithium and Lithium-Ion Batteries</article-title>. <source>Solid State
+Ionics</source>
+<year>2000</year>, <volume>135</volume>, <fpage>33</fpage>&#x02013;<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/s0167-2738(00)00327-1</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="weblink" id="cit3"><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.tdk-electronics.tdk.com/en/ceracharge">https://www.tdk-electronics.tdk.com/en/ceracharge</uri> (accessed
+July 21, 2022).</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="weblink" id="cit4"><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.murata.com/en-eu/news/batteries/solid_state/2019/0626">https://www.murata.com/en-eu/news/batteries/solid_state/2019/0626</uri> (accessed July 21, 2022).</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Kim</surname><given-names>K. H.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>K.</given-names></name>; <name><surname>Kumazaki</surname><given-names>S.</given-names></name>; <name><surname>Asaka</surname><given-names>T.</given-names></name>; <name><surname>Tanabe</surname><given-names>K.</given-names></name>; <name><surname>Fisher</surname><given-names>C. A.</given-names></name>; <name><surname>Hirayama</surname><given-names>T.</given-names></name>; <name><surname>Murugan</surname><given-names>R.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Characterization of
+the interface between LiCoO2 and Li7La3Zr2O12
+in an all-solid-state rechargeable lithium battery</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>764</fpage>&#x02013;<lpage>767</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.07.073</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Wadaguchi</surname><given-names>M.</given-names></name>; <name><surname>Yoshida</surname><given-names>K.</given-names></name>; <name><surname>Yamamoto</surname><given-names>Y.</given-names></name>; <name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>Yamamoto</surname><given-names>T.</given-names></name>
+<article-title>5V-Class Bulk-type
+All-Solid-State Rechargeable Lithium
+Batteries with Electrode-Solid Electrolyte Composite Electrodes Prepared
+by Aerosol Deposition</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>385</volume>, <fpage>55</fpage>&#x02013;<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.03.017</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Kato</surname><given-names>T.</given-names></name>; <name><surname>Yoshida</surname><given-names>R.</given-names></name>; <name><surname>Yamamoto</surname><given-names>K.</given-names></name>; <name><surname>Hirayama</surname><given-names>T.</given-names></name>; <name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>West</surname><given-names>W. C.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>Effects of
+Sintering Temperature
+on Interfacial Structure and Interfacial Resistance for All-Solid-State
+Rechargeable Lithium Batteries</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>325</volume>, <fpage>584</fpage>&#x02013;<lpage>590</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.06.068</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Murugan</surname><given-names>R.</given-names></name>; <name><surname>Thangadurai</surname><given-names>V.</given-names></name>; <name><surname>Weppner</surname><given-names>W.</given-names></name>
+<article-title>Fast Lithium Ion Conduction in Garnet-Type
+Li7La3Zr2O12</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2007</year>, <volume>46</volume>, <fpage>7778</fpage>&#x02013;<lpage>7781</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200701144</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>
+<article-title>First Principles Study on Electrochemical
+and Chemical
+Stability of Solid Electrolyte-Electrode Interfaces in All-Solid-State
+Li-Ion Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>3253</fpage>&#x02013;<lpage>3266</lpage>. <pub-id pub-id-type="doi">10.1039/c5ta08574h</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Xu</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Deng</surname><given-names>W.</given-names></name>; <name><surname>Shuai</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Hou</surname><given-names>H.</given-names></name>; <name><surname>Peng</surname><given-names>H.</given-names></name>; <name><surname>Zou</surname><given-names>G.</given-names></name>; <name><surname>Ji</surname><given-names>X.</given-names></name>
+<article-title>Garnet Solid
+Electrolyte for Advanced All-Solid-State Li Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <fpage>2000648</fpage><pub-id pub-id-type="doi">10.1002/aenm.202000648</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Indu</surname><given-names>M. S.</given-names></name>; <name><surname>Alexander</surname><given-names>G. V.</given-names></name>; <name><surname>Sreejith</surname><given-names>O. V.</given-names></name>; <name><surname>Abraham</surname><given-names>S. E.</given-names></name>; <name><surname>Murugan</surname><given-names>R.</given-names></name>
+<article-title>Lithium Garnet-Cathode
+Interfacial Chemistry: Inclusive Insights and Outlook Toward Practical
+Solid-State Lithium Metal Batteries</article-title>. <source>Mater.
+Today Energy</source>
+<year>2021</year>, <volume>21</volume>, <fpage>100804</fpage><pub-id pub-id-type="doi">10.1016/j.mtener.2021.100804</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Sakuda</surname><given-names>A.</given-names></name>; <name><surname>Hayashi</surname><given-names>A.</given-names></name>; <name><surname>Tatsumisago</surname><given-names>M.</given-names></name>
+<article-title>Interfacial
+Observation between LiCoO2
+Electrode and Li2S&#x02013;P2S5 Solid Electrolytes of All-Solid-State
+Lithium Secondary Batteries Using Transmission Electron Microscopy</article-title>. <source>Chem. Mater.</source>
+<year>2010</year>, <volume>22</volume>, <fpage>949</fpage>&#x02013;<lpage>956</lpage>. <pub-id pub-id-type="doi">10.1021/cm901819c</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Richter</surname><given-names>F. H.</given-names></name>; <name><surname>Culver</surname><given-names>S. P.</given-names></name>; <name><surname>Leichtweiss</surname><given-names>T.</given-names></name>; <name><surname>Lozano</surname><given-names>J. G.</given-names></name>; <name><surname>Dietrich</surname><given-names>C.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Degradation Mechanisms at the Li10GeP2S12/LiCoO2
+Cathode Interface
+in an All-Solid-State Lithium-Ion Battery</article-title>. <source>ACS
+Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>22226</fpage>&#x02013;<lpage>22236</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b05132</pub-id>.<pub-id pub-id-type="pmid">29877698</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Ohta</surname><given-names>N.</given-names></name>; <name><surname>Takada</surname><given-names>K.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>R.</given-names></name>; <name><surname>Osada</surname><given-names>M.</given-names></name>; <name><surname>Sasaki</surname><given-names>T.</given-names></name>
+<article-title>Enhancement of the High-Rate Capability of Solid-State
+Lithium Batteries by Nanoscale Interfacial Modification</article-title>. <source>Adv. Mater.</source>
+<year>2006</year>, <volume>18</volume>, <fpage>2226</fpage>&#x02013;<lpage>2229</lpage>. <pub-id pub-id-type="doi">10.1002/adma.200502604</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Haruyama</surname><given-names>J.</given-names></name>; <name><surname>Sodeyama</surname><given-names>K.</given-names></name>; <name><surname>Han</surname><given-names>L.</given-names></name>; <name><surname>Takada</surname><given-names>K.</given-names></name>; <name><surname>Tateyama</surname><given-names>Y.</given-names></name>
+<article-title>Space-Charge
+Layer Effect at Interface between Oxide Cathode and Sulfide Electrolyte
+in All-Solid-State Lithium-Ion Battery</article-title>. <source>Chem.
+Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>4248</fpage>&#x02013;<lpage>4255</lpage>. <pub-id pub-id-type="doi">10.1021/cm5016959</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>
+<article-title>Origin of
+Outstanding Stability in the Lithium Solid
+Electrolyte Materials: Insights from Thermodynamic Analyses Based
+on First-Principles Calculations</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>23685</fpage>&#x02013;<lpage>23693</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b07517</pub-id>.<pub-id pub-id-type="pmid">26440586</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Fu</surname><given-names>J.</given-names></name>
+<article-title>Fast Li<sup>+</sup> Ion Conduction
+in Li<sub>2</sub>O-Al<sub>2</sub>O<sub>3</sub>-TiO<sub>2</sub>-SiO<sub>2</sub>-P<sub>2</sub>O<sub>2</sub> Glass-Ceramics</article-title>. <source>J. Am. Ceram. Soc.</source>
+<year>1997</year>, <volume>80</volume>, <fpage>1901</fpage>&#x02013;<lpage>1903</lpage>. <pub-id pub-id-type="doi">10.1111/j.1151-2916.1997.tb03070.x</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Amiki</surname><given-names>Y.</given-names></name>; <name><surname>Sagane</surname><given-names>F.</given-names></name>; <name><surname>Yamamoto</surname><given-names>K.</given-names></name>; <name><surname>Hirayama</surname><given-names>T.</given-names></name>; <name><surname>Sudoh</surname><given-names>M.</given-names></name>; <name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>Electrochemical Properties of an
+All-Solid-State Lithium-Ion Battery with an In-Situ Formed electrode
+Material Grown from a Lithium Conductive Glass Ceramics Sheet</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>241</volume>, <fpage>583</fpage>&#x02013;<lpage>588</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.05.006</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Cheng</surname><given-names>D.</given-names></name>; <name><surname>Wynn</surname><given-names>T. A.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Shimizu</surname><given-names>R.</given-names></name>; <name><surname>Bai</surname><given-names>S.</given-names></name>; <name><surname>Nguyen</surname><given-names>H.</given-names></name>; <name><surname>Fang</surname><given-names>C.</given-names></name>; <name><surname>Kim</surname><given-names>M.-C.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Lu</surname><given-names>B.</given-names></name>; <name><surname>Kim</surname><given-names>S.-J.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>
+<article-title>Unveiling the Stable Nature of the
+Solid Electrolyte
+Interphase between Lithium Metal and LiPON via Cryogenic Electron
+Microscopy</article-title>. <source>Joule</source>
+<year>2020</year>, <volume>4</volume>, <fpage>2484</fpage>&#x02013;<lpage>2500</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2020.08.013</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>West</surname><given-names>W. C.</given-names></name>; <name><surname>Whitacre</surname><given-names>J. F.</given-names></name>; <name><surname>Lim</surname><given-names>J. R.</given-names></name>
+<article-title>Chemical stability
+enhancement of
+lithium conducting solid electrolyte plates using sputtered LiPON
+thin films</article-title>. <source>J. Power Sources</source>
+<year>2004</year>, <volume>126</volume>, <fpage>134</fpage>&#x02013;<lpage>138</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2003.08.030</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Sagane</surname><given-names>F.</given-names></name>; <name><surname>Ikeda</surname><given-names>K.</given-names></name>; <name><surname>Okita</surname><given-names>K.</given-names></name>; <name><surname>Sano</surname><given-names>H.</given-names></name>; <name><surname>Sakaebe</surname><given-names>H.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>Effects of Current
+Densities on the Lithium Plating
+Morphology at a Lithium Phosphorus Oxynitride Glass Electrolyte/Copper
+Thin Film Interface</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>233</volume>, <fpage>34</fpage>&#x02013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.01.051</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Ohta</surname><given-names>S.</given-names></name>; <name><surname>Komagata</surname><given-names>S.</given-names></name>; <name><surname>Seki</surname><given-names>J.</given-names></name>; <name><surname>Saeki</surname><given-names>T.</given-names></name>; <name><surname>Morishita</surname><given-names>S.</given-names></name>; <name><surname>Asaoka</surname><given-names>T.</given-names></name>
+<article-title>All-solid-state lithium
+ion battery using garnet-type
+oxide and Li3BO3 solid electrolytes fabricated by screen-printing</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>238</volume>, <fpage>53</fpage>&#x02013;<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.02.073</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Park</surname><given-names>K.</given-names></name>; <name><surname>Yu</surname><given-names>B. C.</given-names></name>; <name><surname>Jung</surname><given-names>J. W.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Gao</surname><given-names>H.</given-names></name>; <name><surname>Son</surname><given-names>S.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Electrochemical
+Nature of the Cathode
+Interface for a Solid-State Lithium-Ion Battery: Interface between
+LiCoO2 and Garnet-Li7La3Zr2O12</article-title>. <source>Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>8051</fpage>&#x02013;<lpage>8059</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.6b03870</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Shannon</surname><given-names>R. D.</given-names></name>; <name><surname>Taylor</surname><given-names>B. E.</given-names></name>; <name><surname>English</surname><given-names>A. D.</given-names></name>; <name><surname>Berzins</surname><given-names>T.</given-names></name>
+<article-title>New Li Solid Electrolytes</article-title>. <source>Electrochim.
+Acta</source>
+<year>1977</year>, <volume>22</volume>, <fpage>783</fpage>&#x02013;<lpage>796</lpage>. <pub-id pub-id-type="doi">10.1016/0013-4686(77)80035-2</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Okumura</surname><given-names>T.</given-names></name>; <name><surname>Takeuchi</surname><given-names>T.</given-names></name>; <name><surname>Kobayashi</surname><given-names>H.</given-names></name>
+<article-title>All-solid-state
+lithium-ion battery
+using Li2.2C0.8B0.2O3 electrolyte</article-title>. <source>Solid State
+Ionics</source>
+<year>2016</year>, <volume>288</volume>, <fpage>248</fpage>&#x02013;<lpage>252</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2016.01.045</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Han</surname><given-names>F.</given-names></name>; <name><surname>Yue</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Zhao</surname><given-names>N.</given-names></name>; <name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Gao</surname><given-names>T.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>Interphase Engineering
+enabled All-Ceramic Lithium Battery</article-title>. <source>Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>497</fpage>&#x02013;<lpage>508</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2018.02.007</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Okumura</surname><given-names>T.</given-names></name>; <name><surname>Takeuchi</surname><given-names>T.</given-names></name>; <name><surname>Kobayashi</surname><given-names>H.</given-names></name>
+<article-title>All-Solid-State
+Batteries with LiCoO2-Type
+Electrodes: Realization of an Impurity-Free Interface by Utilizing
+a Cosinterable Li3.5Ge0.5V0.5O4 Electrolyte</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2021</year>, <volume>4</volume>, <fpage>30</fpage>&#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c02785</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Akedo</surname><given-names>J.</given-names></name>; <name><surname>Lebedev</surname><given-names>M.</given-names></name>
+<article-title>Microstructure and
+Electrical Properties of Lead Zirconate
+Titanate (Pb(Zr52/Ti48)O3) Thick Films Deposited by Aerosol Deposition
+Method</article-title>. <source>Jpn. J. Appl. Phys.</source>
+<year>1999</year>, <volume>38</volume>, <fpage>5397</fpage>&#x02013;<lpage>5401</lpage>. <pub-id pub-id-type="doi">10.1143/jjap.38.5397</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Fuchita</surname><given-names>E.</given-names></name>; <name><surname>Tokizaki</surname><given-names>E.</given-names></name>; <name><surname>Ozawa</surname><given-names>E.</given-names></name>; <name><surname>Sakka</surname><given-names>Y.</given-names></name>
+<article-title>Formation of Zirconia
+Films by the Aerosol Gas Deposition Method (By Jetting of Positive
+Charged Powder)</article-title>. <source>J. Jpn. Soc. Powder Powder
+Metall.</source>
+<year>2011</year>, <volume>58</volume>, <fpage>463</fpage>&#x02013;<lpage>472</lpage>. <pub-id pub-id-type="doi">10.2497/jjspm.58.463</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Iwasaki</surname><given-names>S.</given-names></name>; <name><surname>Hamanaka</surname><given-names>T.</given-names></name>; <name><surname>Yamakawa</surname><given-names>T.</given-names></name>; <name><surname>West</surname><given-names>W. C.</given-names></name>; <name><surname>Yamamoto</surname><given-names>K.</given-names></name>; <name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>Hirayama</surname><given-names>T.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>Preparation of thick-film
+LiNi1/3Co1/3Mn1/3O2 electrodes by aerosol deposition and its application
+to all-solid-state batteries</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>272</volume>, <fpage>1086</fpage>&#x02013;<lpage>1090</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.09.038</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Kato</surname><given-names>T.</given-names></name>; <name><surname>Iwasaki</surname><given-names>S.</given-names></name>; <name><surname>Ishii</surname><given-names>Y.</given-names></name>; <name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>West</surname><given-names>W. C.</given-names></name>; <name><surname>Yamamoto</surname><given-names>Y.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>Preparation
+of thick-film electrode-solid
+electrolyte composites on Li7La3Zr2O12 and their electrochemical properties</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>303</volume>, <fpage>65</fpage>&#x02013;<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.10.101</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>Tanaka</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>T.</given-names></name>; <name><surname>Tsuchimine</surname><given-names>N.</given-names></name>; <name><surname>Kobayashi</surname><given-names>S.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>The Active Interface
+of Ta-Doped
+Li7La3Zr2O12 for Li Plating/Stripping Revealed by Acid Aqueous Etching</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>6720</fpage>&#x02013;<lpage>6731</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.9b01193</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>Iwasaki</surname><given-names>H.</given-names></name>; <name><surname>Sakakura</surname><given-names>M.</given-names></name>; <name><surname>Yamamoto</surname><given-names>T.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>Synthesis
+of LiCoO2 particles with tunable sizes by a urea-based-homogeneous-precipitation
+method</article-title>. <source>Int. J. Mater. Res.</source>
+<year>2020</year>, <volume>111</volume>, <fpage>347</fpage>&#x02013;<lpage>355</lpage>. <pub-id pub-id-type="doi">10.1515/ijmr-2020-1110411</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Abrahams</surname><given-names>I.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Defect Clustering in the Superionic
+Conductor Lithium
+Germanium Vanadate</article-title>. <source>Acta Crystallogr., Sect.
+B: Struct. Sci., Cryst. Eng. Mater.</source>
+<year>1991</year>, <volume>47</volume>, <fpage>696</fpage>&#x02013;<lpage>701</lpage>. <pub-id pub-id-type="doi">10.1107/s0108768191004548</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Kuwano</surname><given-names>J.</given-names></name>; <name><surname>West</surname><given-names>A. R.</given-names></name>
+<article-title>New Li+ ion conductors in the system,
+Li4GeO4-Li3VO4</article-title>. <source>Mater. Res. Bull.</source>
+<year>1980</year>, <volume>15</volume>, <fpage>1661</fpage>&#x02013;<lpage>1667</lpage>. <pub-id pub-id-type="doi">10.1016/0025-5408(80)90249-4</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Huang</surname><given-names>M.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Lin</surname><given-names>Y.-H.</given-names></name>; <name><surname>Nan</surname><given-names>C.-W.</given-names></name>
+<article-title>X-ray absorption
+near-edge spectroscopy study on Ge-doped Li7La3Zr2O12: enhanced ionic
+conductivity and defect chemistry</article-title>. <source>Electrochim.
+Acta</source>
+<year>2014</year>, <volume>115</volume>, <fpage>581</fpage>&#x02013;<lpage>586</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2013.11.020</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Williams</surname><given-names>D. B.</given-names></name>
+<article-title>The quantitative
+analysis of thin specimens: a review
+of progress from the Cliff-Lorimer to the new zeta-factor methods</article-title>. <source>J. Microsc.</source>
+<year>2006</year>, <volume>221</volume>, <fpage>89</fpage>&#x02013;<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2818.2006.01549.x</pub-id>.<pub-id pub-id-type="pmid">16499549</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Rangasamy</surname><given-names>E.</given-names></name>; <name><surname>Wolfenstine</surname><given-names>J.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>The role of Al and Li concentration
+on the formation of cubic garnet solid electrolyte of nominal composition
+Li7La3Zr2O12</article-title>. <source>Solid State Ionics</source>
+<year>2012</year>, <volume>206</volume>, <fpage>28</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2011.10.022</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Inaba</surname><given-names>M.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>; <name><surname>Todzuka</surname><given-names>Y.</given-names></name>; <name><surname>Tasaka</surname><given-names>A.</given-names></name>
+<article-title>Raman study
+of layered rock-salt LiCoO2 and its electrochemical lithium deintercalation</article-title>. <source>J. Raman Spectrosc.</source>
+<year>1997</year>, <volume>28</volume>, <fpage>613</fpage>&#x02013;<lpage>617</lpage>. <pub-id pub-id-type="doi">10.1002/(sici)1097-4555(199708)28:8&#x0003c;613::aid-jrs138&#x0003e;3.0.co;2-t</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Reimers</surname><given-names>J. N.</given-names></name>; <name><surname>Dahn</surname><given-names>J. R.</given-names></name>
+<article-title>Electrochemical
+and In Situ X-Ray Diffraction Studies
+of Lithium Intercalation in Li x CoO2</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>1992</year>, <volume>139</volume>, <fpage>2091</fpage>&#x02013;<lpage>2097</lpage>. <pub-id pub-id-type="doi">10.1149/1.2221184</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Kato</surname><given-names>T.</given-names></name>; <name><surname>Hamanaka</surname><given-names>T.</given-names></name>; <name><surname>Yamamoto</surname><given-names>K.</given-names></name>; <name><surname>Hirayama</surname><given-names>T.</given-names></name>; <name><surname>Sagane</surname><given-names>F.</given-names></name>; <name><surname>Motoyama</surname><given-names>M.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>
+<article-title>In-situ Li7La3Zr2O12/LiCoO2
+interface
+modification for advanced all-solid-state battery</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>260</volume>, <fpage>292</fpage>&#x02013;<lpage>298</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.02.102</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Richards</surname><given-names>W. D.</given-names></name>; <name><surname>Miara</surname><given-names>L. J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Kim</surname><given-names>J. C.</given-names></name>; <name><surname>Ceder</surname><given-names>G.</given-names></name>
+<article-title>Interface
+Stability in Solid-State Batteries</article-title>. <source>Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>266</fpage>&#x02013;<lpage>273</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.5b04082</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kishi</surname><given-names>H.</given-names></name>; <name><surname>Mizuno</surname><given-names>Y.</given-names></name>; <name><surname>Chazono</surname><given-names>H.</given-names></name>
+<article-title>Base-Metal
+Electrode-Multilayer Ceramic
+Capacitors: Past, Present and Future Perspectives</article-title>. <source>Jpn. J. Appl. Phys.</source>
+<year>2003</year>, <volume>42</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1143/jjap.42.1</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Hitz</surname><given-names>G. T.</given-names></name>; <name><surname>McOwen</surname><given-names>D. W.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Fu</surname><given-names>Z.</given-names></name>; <name><surname>Wen</surname><given-names>Y.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; <name><surname>Hamann</surname><given-names>T. R.</given-names></name>; <name><surname>Hu</surname><given-names>L.</given-names></name>; <name><surname>Wachsman</surname><given-names>E. D.</given-names></name>
+<article-title>High-Rate Lithium
+Cycling in a Scalable Trilayer Li-Garnet-Electrolyte
+Architecture</article-title>. <source>Mater. Today</source>
+<year>2019</year>, <volume>22</volume>, <fpage>50</fpage>&#x02013;<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1016/j.mattod.2018.04.004</pub-id>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,2509 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167273817309980</prism:url><dc:identifier>doi:10.1016/j.ssi.2017.12.039</dc:identifier><eid>1-s2.0-S0167273817309980</eid><prism:doi>10.1016/j.ssi.2017.12.039</prism:doi><pii>S0167-2738(17)30998-0</pii><dc:title>A novel polymer electrolyte membrane for application in solid state lithium metal battery </dc:title><prism:publicationName>Solid State Ionics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01672738</prism:issn><prism:volume>317</prism:volume><prism:startingPage>97</prism:startingPage><prism:endingPage>102</prism:endingPage><prism:pageRange>97-102</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-04-30</prism:coverDate><prism:coverDisplayDate>April 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Zewde, Berhanu W.</dc:creator><dc:creator>Carbone, Lorenzo</dc:creator><dc:creator>Greenbaum, Steve</dc:creator><dc:creator>Hassoun, Jusef</dc:creator><dc:description>
+                  Polyethylene oxide (PEO), dimethyl sulphoxide (DMSO) and lithium trifluoromethanesulfonate (LiCF3SO3) salts are combined into a composite polymer electrolyte studied for application in lithium metal battery. FTIR measurements and AFM images are used to reveal the structure and morphology of the polymer electrolyte, while electrochemical impedance spectroscopy (EIS), chronoamperometry and voltammetry are employed for determining the electrolyte conductivity, lithium transference number, chemical and electrochemical stability, respectively. The data reveal a suitable conductivity and lithium transport, i.e., δ above 10−4
+                     Scm−1 and tLi
+                     + about 0.5, at moderate temperature, which allow the use of the membrane and a LiFePO4 olivine cathode in an efficient lithium metal cell delivering a capacity of 130mAhg−1 at about 3.4V, and operating at 50°C. This relatively low operating temperature, the good electrochemical properties, and the polymer configuration of the PEO-DMSO-LiCF3SO3 membrane suggest it as a viable solution for application in high energy lithium metal battery.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Polyethylene oxide (PEO)</dcterms:subject><dcterms:subject>Dimethyl sulphoxide (DMSO)</dcterms:subject><dcterms:subject>Lithium-metal</dcterms:subject><dcterms:subject>Battery</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167273817309980" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167273817309980" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="174" height="164" size="18608">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="158" height="163" size="6961">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="64" size="6230">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="94" height="163" size="5593">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="69" height="164" size="3218">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="99" height="164" size="4076">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="269" height="253" size="12830">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="737" size="75287">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="595" height="174" size="22538">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="312" height="543" size="49742">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="325" height="772" size="49765">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="324" height="536" size="34339">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="716" height="673" size="50076">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3155" height="3262" size="514434">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1580" height="462" size="84010">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1381" height="2402" size="561796">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1441" height="3422" size="357540">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1438" height="2377" size="283422">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="134" height="39" size="1016">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273817309980-si1.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85041454840</scopus-id><scopus-eid>2-s2.0-85041454840</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85041454840" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271411</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Solid State Ionics</xocs:srctitle>
+      <xocs:normalized-srctitle>SOLIDSTATEIONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180221">2018-02-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180221">2018-02-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180221">2018-02-21</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180221">2018-02-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-01-30T10:20:03</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167273817309980</xocs:eid>
+      <xocs:pii-formatted>S0167-2738(17)30998-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167273817309980</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ssi.2017.12.039</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167273818X00022</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190130">2019-01-30T10:44:28.509424Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180401</xocs:date-search-begin>
+      <xocs:date-search-end>20180430</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1519222113">2018-02-21T14:08:33.784736Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor grantsponsorid highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-2738</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01672738</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>317</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>317</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 317</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>97</xocs:first-fp>
+      <xocs:last-lp>102</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>97</xocs:first-page>
+         <xocs:last-page>102</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201804</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>VSI: SSI-21 - Recent Advances in Solid State Ionics</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANOVELPOLYMERELECTROLYTEMEMBRANEFORAPPLICATIONINSOLIDSTATELITHIUMMETALBATTERY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZEWDE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Result and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>ARMAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>745</xocs:ref-first-fp>
+            <xocs:ref-last-lp>754</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>DERRIEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>DAMEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>MANUELSTEPHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5952</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5964</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>GOLODNITSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A2551</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A2566</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>APPETECCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>APPETECCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>CROCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>456</xocs:ref-first-fp>
+            <xocs:ref-last-lp>458</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>WETJEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>DIGIROLAMO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>ELIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>RATNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>124</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>LEUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6302</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6313</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>BIEKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8670</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8679</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>BRUTTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>BRUCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1087</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1094</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>MIYAZAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2764</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2776</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>FRECH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>808</xocs:ref-first-fp>
+            <xocs:ref-last-lp>813</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>RHODES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1365</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1368</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>MURCKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10010</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10018</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1241</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A1246</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>GAUTHIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4653</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4672</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>GOODENOUGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>587</xocs:ref-first-fp>
+            <xocs:ref-last-lp>603</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>123</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>AGUBRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>153</xocs:ref-first-fp>
+            <xocs:ref-last-lp>162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>DILECCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>MELOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1226</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>CROCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>SCHROEDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11402</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11411</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>ODZIEMKOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3063</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-article-number>1500213</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>ZEWDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>PADHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1188</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1194</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9573</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9580</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0175">
+            <xocs:ref-normalized-surname>ZEWDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0180">
+            <xocs:ref-normalized-surname>MING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0185">
+            <xocs:ref-normalized-surname>MING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0190">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZEWDEX2018X97</xocs:refkey3>
+         <xocs:refkey4lp>ZEWDEX2018X97X102</xocs:refkey4lp>
+         <xocs:refkey4ai>ZEWDEX2018X97XB</xocs:refkey4ai>
+         <xocs:refkey5>ZEWDEX2018X97X102XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-02-21T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-2738(17)30998-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167273817309980</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167273817309980</xocs:eid>
+         <xocs:doi>10.1016/j.ssi.2017.12.039</xocs:doi>
+         <xocs:cid>271411</xocs:cid>
+         <xocs:timestamp>2019-01-30T10:44:28.509424Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/MAIN/application/pdf/ac89c6f9f43abafc489e3523b1112c13/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>826396</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167273817309980-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/PREVIEW/image/png/df482bf16646ec9692cf93d96561d853/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52907</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr1/THUMBNAIL/image/gif/39b04615ac597b513c8c7dae626ac203/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18608</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>174</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr2/THUMBNAIL/image/gif/85814b069c278a5c16ba4c0e60de0a4c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6961</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr3/THUMBNAIL/image/gif/b21f01394b48aa2b8aed7080b043f243/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6230</xocs:filesize>
+               <xocs:pixel-height>64</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr4/THUMBNAIL/image/gif/51c0ab6cd0ae607051b85655a35d8d81/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5593</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>94</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr5/THUMBNAIL/image/gif/8c6922a72d36bb6607a88e969f67628b/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3218</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr6/THUMBNAIL/image/gif/594234d943f9be23cac2b5a6034ccf8d/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4076</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>99</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr1/DOWNSAMPLED/image/jpeg/8efa9c5f07d681b24fac48eaa8063d37/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12830</xocs:filesize>
+               <xocs:pixel-height>253</xocs:pixel-height>
+               <xocs:pixel-width>269</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr2/DOWNSAMPLED/image/jpeg/718609a703435329b5818558d3c6d023/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75287</xocs:filesize>
+               <xocs:pixel-height>737</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr3/DOWNSAMPLED/image/jpeg/e5a13f4a86859e5ed34b29a2c94cae89/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22538</xocs:filesize>
+               <xocs:pixel-height>174</xocs:pixel-height>
+               <xocs:pixel-width>595</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr4/DOWNSAMPLED/image/jpeg/346f6793615604b4443fcec4dcaa02dc/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49742</xocs:filesize>
+               <xocs:pixel-height>543</xocs:pixel-height>
+               <xocs:pixel-width>312</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr5/DOWNSAMPLED/image/jpeg/e7ff27f73ebb3959d2cc0f6e134ef2de/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49765</xocs:filesize>
+               <xocs:pixel-height>772</xocs:pixel-height>
+               <xocs:pixel-width>325</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr6/DOWNSAMPLED/image/jpeg/3dcc61229f7bff60da77b27dd793228b/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34339</xocs:filesize>
+               <xocs:pixel-height>536</xocs:pixel-height>
+               <xocs:pixel-width>324</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr1/HIGHRES/image/jpeg/4b4016188279a8425b986513b3435f5b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50076</xocs:filesize>
+               <xocs:pixel-height>673</xocs:pixel-height>
+               <xocs:pixel-width>716</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr2/HIGHRES/image/jpeg/149900dd47ac7ad300d385144783e2b8/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>514434</xocs:filesize>
+               <xocs:pixel-height>3262</xocs:pixel-height>
+               <xocs:pixel-width>3155</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr3/HIGHRES/image/jpeg/d64acdcb363527abe6218d3c12f8eeb2/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84010</xocs:filesize>
+               <xocs:pixel-height>462</xocs:pixel-height>
+               <xocs:pixel-width>1580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr4/HIGHRES/image/jpeg/a635bb0493e92deb29d29976b3f6be1a/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>561796</xocs:filesize>
+               <xocs:pixel-height>2402</xocs:pixel-height>
+               <xocs:pixel-width>1381</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr5/HIGHRES/image/jpeg/da42d98bd796074e4fc2299978efcb65/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>357540</xocs:filesize>
+               <xocs:pixel-height>3422</xocs:pixel-height>
+               <xocs:pixel-width>1441</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/gr6/HIGHRES/image/jpeg/588719d67823d71f3a598aaab8efc946/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>283422</xocs:filesize>
+               <xocs:pixel-height>2377</xocs:pixel-height>
+               <xocs:pixel-width>1438</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273817309980-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273817309980/STRIPIN/image/gif/f4c4d398b2cbd7158facbd2614fbc910/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1016</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>134</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>SOSI</jid>
+            <aid>14491</aid>
+            <ce:pii>S0167-2738(17)30998-0</ce:pii>
+            <ce:doi>10.1016/j.ssi.2017.12.039</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Photographic image of the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO solid polymer electrolyte membrane. See <ce:cross-ref refid="s0010" id="cf0005">Experimental</ce:cross-ref> section for sample identification.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0167273817309980/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">FTIR absorbance spectra of A) PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane, the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> and DMSO blank at increasing wave number. B) The magnified spectra at different range of wave numbers. See <ce:cross-ref refid="s0010" id="cf0010">Experimental</ce:cross-ref> section for sample identification.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S0167273817309980/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">Atomic Force Microscopy (AFM) images of (A) PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO (B) PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>. See <ce:cross-ref refid="s0010" id="cf0015">Experimental</ce:cross-ref> section for sample identification.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S0167273817309980/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">Conductivity Arrhenius plots of PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane during cooling (A) and heating (B) treatment. Steady state conductivities of the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> blank are indicated by stars in each panel. Impedance measurement performed in a 0.5<ce:hsp sp="0.25"/>MHz–0.1<ce:hsp sp="0.25"/>Hz frequency range, signal amplitude 10<ce:hsp sp="0.25"/>mV, data collected every 5° (every 2° near by the transition temperature).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S0167273817309980/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">Electrochemical characteristics of PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO electrolyte. (A) Interface stability in a Li/Li symmetrical cell measured by EIS in a 0.5<ce:hsp sp="0.25"/>MHz–0.1<ce:hsp sp="0.25"/>Hz frequency range, signal amplitude of 10<ce:hsp sp="0.25"/>mV, collecting the data every day at 50<ce:hsp sp="0.25"/>°C. (B) Anodic stability window using three-electrode cell with Li as the counter and reference electrode, and Super P coated Al as the working electrode. Scan rate of 0.1<ce:hsp sp="0.25"/>mV<ce:hsp sp="0.25"/>s<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>, voltage range between the OCV and 4.5<ce:hsp sp="0.25"/>V vs. Li/Li<ce:sup loc="post">+</ce:sup>. (C) Current vs. time profile upon application of 30<ce:hsp sp="0.25"/>mV DC signal to a symmetrical Li/Li cell used for the lithium transference number determination by Bruce-Vincent method (see experimental section for details). Inset: An impedance analysis performed immediately before, and after the application of 30<ce:hsp sp="0.25"/>mV DC signal. Temperature 50<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:href="pii:S0167273817309980/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">(A) Galvanostatic voltage profiles, and (B) cycling response of the Li/PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO/LiFePO<ce:inf loc="post">4</ce:inf> cell. Current rate C/10 (1C<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.665<ce:hsp sp="0.25"/>mA<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>2</ce:sup>). Voltage range 3.0–4.0<ce:hsp sp="0.25"/>V. Temperature 50<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0030">Fig. 6</ce:alt-text>
+               <ce:link id="lk0030" locator="gr6" xlink:type="simple" xlink:href="pii:S0167273817309980/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">A novel polymer electrolyte membrane for application in solid state lithium metal battery</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0167273817309980-1cd1e6928bcdc0c89837d3ed437d6317">
+                  <ce:given-name>Berhanu W.</ce:given-name>
+                  <ce:surname>Zewde</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-4292-7440" id="au0010" author-id="S0167273817309980-d073e1ed3e6e8d56a1f6d7816f7650d4">
+                  <ce:given-name>Lorenzo</ce:given-name>
+                  <ce:surname>Carbone</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0167273817309980-6256e3c3de8b0baeefacb18395905c74">
+                  <ce:given-name>Steve</ce:given-name>
+                  <ce:surname>Greenbaum</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-8218-5680" id="au0020" author-id="S0167273817309980-ef36c421492a2f1795488d687b1936b4">
+                  <ce:given-name>Jusef</ce:given-name>
+                  <ce:surname>Hassoun</ce:surname>
+                  <ce:cross-ref refid="af0020" id="cf0035">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0040">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S0167273817309980-df8121a87134c025ad54619aa941ad18">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Department of Chemistry, Howard University, Washington, DC 20059, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Howard University</sa:organization>
+                     <sa:city>Washington</sa:city>
+                     <sa:state>DC</sa:state>
+                     <sa:postal-code>20059</sa:postal-code>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S0167273817309980-81964447b1c47b02bab97f87c5119e9d">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Chemistry Department, Sapienza University of Rome, Piazzale Aldo Moro, 5, 00185 Rome, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Chemistry Department</sa:organization>
+                     <sa:organization>Sapienza University of Rome</sa:organization>
+                     <sa:address-line>Piazzale Aldo Moro, 5</sa:address-line>
+                     <sa:city>Rome</sa:city>
+                     <sa:postal-code>00185</sa:postal-code>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S0167273817309980-cd019f3bfc2c007d4e7b3221560ad592">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0015">Department of Physics &amp; Astronomy, Hunter College of the City University of New York, NY, New York 10065, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Physics &amp; Astronomy</sa:organization>
+                     <sa:organization>Hunter College of the City University of New York</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>10065</sa:postal-code>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0020" affiliation-id="S0167273817309980-98a5d5ba974f0853e58f36b4d92673ad">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="tn0020">Department of Chemical and Pharmaceutical Sciences, University of Ferrara, Via Fossato di Mortara, 44121 Ferrara, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical and Pharmaceutical Sciences</sa:organization>
+                     <sa:organization>University of Ferrara</sa:organization>
+                     <sa:address-line>Via Fossato di Mortara</sa:address-line>
+                     <sa:city>Ferrara</sa:city>
+                     <sa:postal-code>44121</sa:postal-code>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="26" month="10" year="2017"/>
+            <ce:date-revised day="18" month="12" year="2017"/>
+            <ce:date-accepted day="30" month="12" year="2017"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0035" view="all">Polyethylene oxide (PEO), dimethyl sulphoxide (DMSO) and lithium trifluoromethanesulfonate (LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>) salts are combined into a composite polymer electrolyte studied for application in lithium metal battery. FTIR measurements and AFM images are used to reveal the structure and morphology of the polymer electrolyte, while electrochemical impedance spectroscopy (EIS), chronoamperometry and voltammetry are employed for determining the electrolyte conductivity, lithium transference number, chemical and electrochemical stability, respectively. The data reveal a suitable conductivity and lithium transport, i.e., δ above 10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>S<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> and t<ce:inf loc="post">Li</ce:inf>
+                     <ce:sup loc="post">+</ce:sup> about 0.5, at moderate temperature, which allow the use of the membrane and a LiFePO<ce:inf loc="post">4</ce:inf> olivine cathode in an efficient lithium metal cell delivering a capacity of 130<ce:hsp sp="0.25"/>mAh<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup> at about 3.4<ce:hsp sp="0.25"/>V, and operating at 50<ce:hsp sp="0.25"/>°C. This relatively low operating temperature, the good electrochemical properties, and the polymer configuration of the PEO-DMSO-LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> membrane suggest it as a viable solution for application in high energy lithium metal battery.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Polyethylene oxide (PEO)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Dimethyl sulphoxide (DMSO)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Lithium-metal</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Battery</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0020">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Polymer electrolytes have been extensively investigated as promising candidates for solid state lithium battery due to their mechanical flexibility, and scalability to the <ce:italic>thin-film</ce:italic> conducting configuration <ce:cross-ref id="cf0045" refid="bb0005">[1]</ce:cross-ref>. Among these very interesting materials, polyethylene oxide (PEO) has attracted particular attention due to its suitability for dissolving various salts in a vast range of concentrations, in combination with nanometric ceramics <ce:cross-ref id="cf0050" refid="bb0010">[2]</ce:cross-ref> which allow relevant mechanical stability and enhance the ionic conductivity <ce:cross-ref id="cf0055" refid="bb0015">[3]</ce:cross-ref>. However, the suitability of PEO-based membranes at temperatures exceeding 65<ce:hsp sp="0.25"/>°C to allow amorphous state and proper ion conduction still hinders its large scale diffusion <ce:cross-ref id="cf0060" refid="bb0020">[4]</ce:cross-ref>. Indeed, PEO chains have an extended helical structure with repeating units in turns of the helix. The ether oxygen of the chains coordinates the cations and forms stable polymer-ion complexes, while the anions are dispersed within the polymer matrix <ce:cross-ref id="cf0065" refid="bb0025">[5]</ce:cross-ref>. Besides, the chains form thin crystalline plates which, in turn, are arranged in thin stacks, and finally into spherical crystals separated by an amorphous polymer phase. Generally, this <ce:italic>semi-crystallinity</ce:italic> covers about 60% of the PEO bulk at room temperature, while the amorphous elastomeric phase, which strongly favors the segmental motion and the efficient ion transport through polymer of the PEO-salt complexes, constitutes the remaining part <ce:cross-ref id="cf0070" refid="bb0030">[6]</ce:cross-ref>. The presence of extended crystalline regions within PEO-based electrolytes at the room temperature strongly limits the long-range diffusion of the ions, and lowers the ionic conductivity <ce:cross-ref id="cf0075" refid="bb0035">[7]</ce:cross-ref>. The ion transport and conductivity may be actually enhanced by increasing the ratio of the amorphous elastomeric state with respect to the crystalline one in the electrolyte adopting various approaches, including the abovementioned nanometric ceramic addition, to obtain the nanocomposite polymer electrolytes (NCPEs) <ce:cross-ref id="cf0080" refid="bb0040">[8]</ce:cross-ref>, the use of Ionic Liquids (ILs) <ce:cross-refs id="cf0085" refid="bb0045 bb0050">[9,10]</ce:cross-refs> as well as the employment of various solvents as plasticizer agents <ce:cross-ref id="cf0090" refid="bb0055">[11]</ce:cross-ref>. A very interesting approach consisted of the use of emulsifying agents such as DMSO, which forms thermodynamically stable DMSO/Li ion molecules <ce:cross-refs id="cf0095" refid="bb0060 bb0065">[12,13]</ce:cross-refs>. However, the very poor SEI forming ability of DMSO‑lithium salt emulsions strongly limited their use as the electrolyte media in lithium cells <ce:cross-ref id="cf0100" refid="bb0070">[14]</ce:cross-ref>. Following this trend, we advantageously combined the mechanical and electrochemical stability features of the PEO, and the highly ion-conducting nature of the DMSO, in a new electrolyte studied for application in polymeric lithium metal battery. The electrolyte is fully characterized in terms of conductivity, ion transport characteristics, chemical and electrochemical stability, and employed in an efficient lithium metal battery using LiFePO<ce:inf loc="post">4</ce:inf> electrode <ce:cross-ref id="cf0105" refid="bb0075">[15]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0025">Experimental</ce:section-title>
+                  <ce:para id="p0035" view="all">Linear PEO with a molecular weight of 600,000<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>mol<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> (Sigma Aldrich) and DMSO (Sigma Aldrich) in a proportion of 1.7<ce:hsp sp="0.25"/>g of PEO to 1.5<ce:hsp sp="0.25"/>ml of DMSO, and 0.3<ce:hsp sp="0.25"/>g of LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> (Sigma Aldrich, battery grade), were dissolved in acetonitrile (Sigma Aldrich, battery grade), stirred for 2<ce:hsp sp="0.25"/>h at a temperature of 60<ce:hsp sp="0.25"/>°C, transferred to glass petri dish and kept at 80<ce:hsp sp="0.25"/>°C overnight in an oven. The molar ratio of the Li in salt to oxygen in EO was 1:20, therefore the membrane is indicated in the work by PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO. The membrane was subsequently dried at 50<ce:hsp sp="0.25"/>°C for 5<ce:hsp sp="0.25"/>days under vacuum, in order to remove traces of water or solvent, and transferred to a glove box (M brown) with water and oxygen content lower than 1<ce:hsp sp="0.25"/>ppm. The final membrane (photographic image in <ce:cross-ref id="cf0110" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>) with a thickness of about 350<ce:hsp sp="0.25"/>μm was characterized by good mechanical stability. A control sample with the same composition, indicated by PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> was prepared following similar procedure without DMSO for comparison.</ce:para>
+                  <ce:para id="p0040" view="all">FTIR spectra of PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO and PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> were performed using an ATR-FTIR Perkin Elmer Spectrum 100 series, scanning in the range of 600–4000<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>. Atomic force microscopy images were collected using a AFM JEOL JSM-7600F instrument. Conductivity measurements were performed on 2032 coin-cell with Teflon O-ring having internal diameter of 10 mm and thickness of 320<ce:hsp sp="0.25"/>μm to determine the cell constant, using a frequency analyzer Princeton Advanced Research (VersaSTAT3F) in 0.5<ce:hsp sp="0.25"/>MHz–0.1<ce:hsp sp="0.25"/>Hz frequency range with signal amplitude of 10<ce:hsp sp="0.25"/>mV. The conductivity data were collected every 5°, and every 2° near by the transition temperature during cooling and subsequent heating. Before cooling measurement, the cell was held at 80<ce:hsp sp="0.25"/>°C for at least 12 hours. Galvanostatic cycling was performed using a Maccor series 4000 battery test system on Li/PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO/LiFePO<ce:inf loc="post">4</ce:inf> 2032 coin-cell in the potential range of 3.0–4.0<ce:hsp sp="0.25"/>V at current rate of C/10 (1C was 0.665<ce:hsp sp="0.25"/>mA<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−2</ce:sup>, as calculated with respect to the electrode geometric surface considering the LiFePO<ce:inf loc="post">4</ce:inf> active mass, i.e., 4<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−2</ce:sup>, and its theoretical capacity, i.e., 170<ce:hsp sp="0.25"/>mAh<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>) <ce:cross-ref id="cf0115" refid="bb0075">[15]</ce:cross-ref>, at temperatures of 50<ce:hsp sp="0.25"/>°C. The Li/PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO interface stability was measured at 50<ce:hsp sp="0.25"/>°C by impedance spectroscopy using a VersaSTAT3F instument on symmetrical lithium/lithium 2032 coin-cell in 0.5<ce:hsp sp="0.25"/>MHz – 0.1<ce:hsp sp="0.25"/>Hz frequency range and signal amplitude of 10<ce:hsp sp="0.25"/>mV. Electrochemical stability window was determined by linear sweep voltammetry on three electrode cell using the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane as the electrolyte, Li as the counter and reference electrode, and Super P on Al as the working electrode, with a scan rate of 0.1<ce:hsp sp="0.25"/>mV<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> and voltage ranging between the OCV and 4.5<ce:hsp sp="0.25"/>V, employing a VersaSTAT3F instrument. The lithium transference number was measured with the same instrument at 50<ce:hsp sp="0.25"/>°C by adopting the Bruce Vincent method which involved current monitoring during time upon the application of a 30<ce:hsp sp="0.25"/>mV direct-current (DC) signal to a symmetrical Li/PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO/Li cell until the steady state was reached, and impedance measurement immediately before, and after DC-current application <ce:cross-ref id="cf0120" refid="bb0080">[16]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0030">Result and discussion</ce:section-title>
+                  <ce:para id="p0045" view="all">Intermolecular interactions, and plasticizing effect of DMSO on PEO are investigated by FTIR measurements carried on the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO polymer electrolytes and reported in <ce:cross-ref id="cf0125" refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>. The figure shows a band at 844<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (tagged by 1 in <ce:cross-ref id="cf0130" refid="f0010">Fig. 2</ce:cross-ref>A and magnified in the top-left panel of <ce:cross-ref id="cf0135" refid="f0010">Fig. 2</ce:cross-ref>B) assigned to the antisymmetric rocking mode of CH<ce:inf loc="post">2</ce:inf>-CH<ce:inf loc="post">2</ce:inf> coupled with the COC symmetric stretching mode, a band at 963<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (tagged by 2 in <ce:cross-ref id="cf0140" refid="f0010">Fig. 2</ce:cross-ref>A and magnified in the top-right panel of <ce:cross-ref id="cf0145" refid="f0010">Fig. 2</ce:cross-ref>B) primarily associated with the CH<ce:inf loc="post">2</ce:inf> antisymmetric rocking mode with appreciable contribution of the COC antisymmetric stretching mode <ce:cross-ref id="cf0150" refid="bb0085">[17]</ce:cross-ref>, a band at 1102<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (tagged by 3 in <ce:cross-ref id="cf0155" refid="f0010">Fig. 2</ce:cross-ref>A and magnified in the bottom-left panel of <ce:cross-ref id="cf0160" refid="f0010">Fig. 2</ce:cross-ref>B) mainly associated with the COC antisymmetric stretching mode, and a band at 1345<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−l</ce:sup> (tagged by 4 in <ce:cross-ref id="cf0165" refid="f0010">Fig. 2</ce:cross-ref>A and magnified in the bottom-right panel of <ce:cross-ref id="cf0170" refid="f0010">Fig. 2</ce:cross-ref>B) due to the hybridized mode of the CH<ce:inf loc="post">2</ce:inf> antisymmetric wagging and twisting modes of the CH<ce:inf loc="post">2</ce:inf>
+                     <ce:glyph name="sbnd"/>CH<ce:inf loc="post">2</ce:inf> group of PEO. The lower wavenumber region provides information about the modifications in local structure of host polymer due to the interaction of DMSO with polymer backbone. The intensity decrease of the two characteristic bands at 844<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> and 963<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> in the composite electrolyte evidences a distortion of the helical configuration of PEO polymer backbone, due to the plasticizing effect of DMSO <ce:cross-refs id="cf0175" refid="bb0090 bb0095">[18,19]</ce:cross-refs>. In addition, the shift of the bands at 1102 and 963<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> reveals a decrease of the O<ce:glyph name="sbnd"/>C<ce:glyph name="sbnd"/>C<ce:glyph name="sbnd"/>O torsional angle in the electrolyte with respect to pure PEO, as already demonstrated by ab initio calculations reported in literature <ce:cross-ref id="cf0180" refid="bb0100">[20]</ce:cross-ref>, thus further suggesting the DMSO plasticizing effect on the PEO polymer matrix. The peak at 1042<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> in the case of DMSO (tagged by 5 in <ce:cross-ref id="cf0185" refid="f0010">Fig. 2</ce:cross-ref>A) is due to S<ce:glyph name="sbnd"/>O vibrational stretching, which is shifted to 1030<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> in PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO, thus indicating the association of DMSO with PEO and/or Li ion. In addition, the peaks between 3000<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> to 2700<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (tagged by 6 in <ce:cross-ref id="cf0190" refid="f0010">Fig. 2</ce:cross-ref>A) are assigned to the C<ce:glyph name="sbnd"/>H stretching of the PEO backbone and the methyl of DMSO. The peak at 1466<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (tagged by 7) is assigned to the C<ce:glyph name="sbnd"/>H deformation of the PEO backbone. In the spectrum of DMSO the peaks at 1436 and 1404<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (tagged by 8) are assigned to the antisymmetric bending of CH<ce:inf loc="post">3</ce:inf>, while the peak at 1306<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> (tagged by 9) is assigned to symmetric deformation of CH<ce:inf loc="post">3</ce:inf> group that are attached to the sulfur atom.</ce:para>
+                  <ce:para id="p0050" view="all">The plasticizing effect of DMSO on PEO matrix was further investigated by using an atomic force microscope (AFM). <ce:cross-ref id="cf0195" refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/> shows the three dimensional topography images of PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane (A) and PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> blank (B). The images reveal smoother surface of PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO (<ce:cross-ref id="cf0200" refid="f0015">Fig. 3</ce:cross-ref>A) compared to PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> (<ce:cross-ref id="cf0205" refid="f0015">Fig. 3</ce:cross-ref>B), which is most likely due to the decrease of membrane tortuosity caused by the addition of the DMSO plasticizer. Indeed, the latter increases the ratio of the amorphous phase of the PEO matrix with respect to the crystalline one, thus facilitating the segmental rearrangement of polymer chain and, therefore, the ion movement <ce:cross-ref id="cf0210" refid="bb0105">[21]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0055" view="all">
+                     <ce:cross-ref id="cf0215" refid="f0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/> shows the Arrhenius conductivity plots of the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO electrolyte membrane during cooling from a temperature of about 80<ce:hsp sp="0.25"/>°C to 40<ce:hsp sp="0.25"/>°C (A) and heating back to about 80<ce:hsp sp="0.25"/>°C (B), as well as the steady state conductivities in a similar temperature interval of the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> blank (indicated by stars in each panel). During cooling (<ce:cross-ref id="cf0220" refid="f0020">Fig. 4</ce:cross-ref>A) the Arrhenius plot of the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO electrolyte exhibits the typical trend of the PEO-based polymer membranes, with slope change around 50<ce:hsp sp="0.25"/>°C corresponding to the conductivity decrease during the transition from amorphous to crystalline phase (generally to spherical crystalline stacks). Furthermore, the electrolyte reveals a higher conductivity with respect to the blank membrane (indicated by stars in the plot of <ce:cross-ref id="cf0225" refid="f0020">Fig. 4</ce:cross-ref>A) over the whole range, and a lower value of amorphous- crystalline transition temperature (i.e., about 50<ce:hsp sp="0.25"/>°C instead of 65<ce:hsp sp="0.25"/>°C) <ce:cross-ref id="cf0230" refid="bb0030">[6]</ce:cross-ref>. The higher conductivity may be attributed to the abovementioned plasticizing effect of the DMSO which increases the amorphous region and limits the PEO chains reorganization into spherical crystalline stacks.</ce:para>
+                  <ce:para id="p0060" view="all">This important effect decreases the operating temperature of the PEO-based electrolyte, as indeed demonstrated by the electrochemical test reported below. Despite characterized by a higher conductivity with respect to the control, the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane shows some kinetic limit during heating back to the initial temperature (80<ce:hsp sp="0.25"/>°C) and the crystalline-amorphous transition shifts up to about 60<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cf0235" refid="f0020">Fig. 4</ce:cross-ref>B). This phenomenon suggests the use of a proper thermal treatment for allowing the operation of cells employing PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane at the lower temperatures (e.g., 50<ce:hsp sp="0.25"/>°C). It is worth mentioning that the operating condition adopted for the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane preparation, including solvent removal by vacuum, leads to a solid and partially amorphous membrane, with a minor amount of liquid DMSO (&lt;<ce:hsp sp="0.10"/>5%). In fact, DMSO boils at 189<ce:hsp sp="0.25"/>°C, and can be evaporated under vacuum system with sufficiently low pressure (1<ce:hsp sp="0.25"/>mbar in our system) which induces sufficient evaporation below 50<ce:hsp sp="0.25"/>°C. Therefore, DMSO is expected to act only as a plasticizer rather than a conducting or solvating agent for ions transport, which is indeed mainly driven by the amorphous chains of the PEO.</ce:para>
+                  <ce:para id="p0065" view="all">The difference between Fermi level of the electrode, the highest occupied molecular orbital (HOMO), and the lowest unoccupied molecular orbital (LUMO) levels of the electrolyte governs the thermodynamic stability of the electrolyte. Hence, negative electrodes with Fermi level higher in energy than the LUMO of the electrolyte, such as lithium metal with a redox potential as low as −<ce:hsp sp="0.10"/>3<ce:hsp sp="0.25"/>V vs. SHE, thermodynamically enable its electrochemical reduction <ce:cross-ref id="cf0240" refid="bb0110">[22]</ce:cross-ref>. However, the formation of a protecting layer coating the lithium surface, i.e. a solid electrolyte interphase (SEI), due to direct chemical reaction of lithium and electrolyte, kinetically avoids further reduction and protects the metal surface <ce:cross-refs id="cf0245" refid="bb0115 bb0120">[23,24]</ce:cross-refs>. This is clearly demonstrated in the case of the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> DMSO electrolyte by analyzing the electrochemical impedance spectroscopy (EIS) response of a Li/PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> DMSO/Li cell, stored under open circuit conditions and 50<ce:hsp sp="0.25"/>°C. <ce:cross-ref id="cf0250" refid="f0025">Fig. 5</ce:cross-ref>A<ce:float-anchor refid="f0025"/>, reporting the interfacial resistance of the symmetric cell obtained by EIS, reveals an initial increase of the resistance, due to the abovementioned chemical reaction of lithium and electrolyte, and the subsequent stabilization of the interface resistance upon six days due to the formation and structural stabilization of the SEI film <ce:cross-ref id="cf0255" refid="bb0125">[25]</ce:cross-ref>. On the other hand, HOMO levels of PEO-based electrolytes are largely exceeded by the fermi levels of several cathodes operating over 4<ce:hsp sp="0.25"/>V, such as transition metal layered oxides, and metal phosphates using Mn, and Co <ce:cross-ref id="cf0260" refid="bb0130">[26]</ce:cross-ref>, which may oxidize and degrade the electrolyte, while LiFePO<ce:inf loc="post">4</ce:inf>, operating at 3.5<ce:hsp sp="0.25"/>V <ce:cross-ref id="cf0265" refid="bb0075">[15]</ce:cross-ref> is actually suitable for PEO-based lithium ion conducting membranes <ce:cross-ref id="cf0270" refid="bb0135">[27]</ce:cross-ref>. The stability of the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO electrolyte against oxidation is determined by linear sweep voltammetry of a three electrode cell using the membrane as the electrolyte, lithium metal as the counter and reference electrode, and carbon casted Al as the working electrode (<ce:cross-ref id="cf0275" refid="f0025">Fig. 5</ce:cross-ref>B). Although stainless-steel may be adopted for this kind of measurement, the choice of carbon cast on Al using a PVDF binder appears here to be more appropriate since this configuration well simulates a practical cathode film <ce:cross-ref id="cf0280" refid="bb0140">[28]</ce:cross-ref>. <ce:cross-ref id="cf0285" refid="f0025">Fig. 5</ce:cross-ref>B reveals complete electrolyte oxidative decomposition at a potential value higher than 4.1<ce:hsp sp="0.25"/>V vs. Li<ce:sup loc="post">+</ce:sup>/Li, which is higher than the one ascribed to pure PEO (3.9<ce:hsp sp="0.25"/>V vs. Li<ce:sup loc="post">+</ce:sup>/Li) as most likely due to a stabilizing action of the DMSO <ce:cross-ref id="cf0290" refid="bb0145">[29]</ce:cross-ref>. Furthermore, negligible oxidation peak observed around 3.4<ce:hsp sp="0.25"/>V Li<ce:sup loc="post">+</ce:sup>/Li may be attributed to water or solvent traces not completely removed during preparation. The electrochemical stability window of the electrolyte, and the formation of suitable SEI layer at the electrodes, may actually allow its safe and efficient employment in lithium battery using lithium iron phosphate (LiFePO<ce:inf loc="post">4</ce:inf>) which operates at about 3.5<ce:hsp sp="0.25"/>V Li<ce:sup loc="post">+</ce:sup>/Li <ce:cross-refs id="cf0295" refid="bb0150 bb0155">[30,31]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0070" view="all">An important parameter for allowing a proper operation of the membrane in cell, is the lithium transference number (t<ce:inf loc="post">Li+</ce:inf>), i.e., the fraction of charge driven by lithium ions during current flowing, which is calculated in this work by Bruce-Evans-Vincent method using chronoamperometry and EIS, performed on a symmetrical Li/PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO/Li cell (see experimental section for details) and the Eq. <ce:cross-ref id="cf0300" refid="fo0005">(1)</ce:cross-ref> 
+                     <ce:cross-ref id="cf0305" refid="bb0080">[16]</ce:cross-ref>:<ce:display>
+                        <ce:formula id="fo0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msub>
+                                 <mml:mi mathvariant="normal">t</mml:mi>
+                                 <mml:msup>
+                                    <mml:mi>Li</mml:mi>
+                                    <mml:mo>+</mml:mo>
+                                 </mml:msup>
+                              </mml:msub>
+                              <mml:mo>=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi mathvariant="normal">I</mml:mi>
+                                       <mml:mi>ss</mml:mi>
+                                    </mml:msub>
+                                    <mml:mfenced>
+                                       <mml:mrow>
+                                          <mml:mi>ΔV</mml:mi>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi mathvariant="normal">R</mml:mi>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mi mathvariant="normal">I</mml:mi>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi mathvariant="normal">I</mml:mi>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:msub>
+                                    <mml:mfenced>
+                                       <mml:mrow>
+                                          <mml:mi>ΔV</mml:mi>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi mathvariant="normal">R</mml:mi>
+                                             <mml:mi>ss</mml:mi>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mi mathvariant="normal">I</mml:mi>
+                                             <mml:mi>ss</mml:mi>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:mfrac>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where I<ce:inf loc="post">0</ce:inf> is the initial current, I<ce:inf loc="post">ss</ce:inf> the steady state current, ΔV the applied voltage and R<ce:inf loc="post">0</ce:inf> and R<ce:inf loc="post">ss</ce:inf> are resistances before and after DC polarization; respectively.</ce:para>
+                  <ce:para id="p0075" view="all">The values of the initial current, steady state current and impedance of the cell as assembled, and after the DC polarizations, are reported in <ce:cross-ref id="cf0310" refid="f0025">Fig. 5</ce:cross-ref>C (and EIS in inset) for the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane at 50<ce:hsp sp="0.25"/>°C. The application of the Bruce-Evans-Vincent Eq. <ce:cross-ref id="cf0315" refid="fo0005">(1)</ce:cross-ref> using the data of <ce:cross-ref id="cf0320" refid="f0025">Fig. 5</ce:cross-ref> allows the determination of a t<ce:inf loc="post">Li</ce:inf>
+                     <ce:sup loc="post">+</ce:sup> of 0.5, which exceeds the one ascribed to the PEO control electrolyte (i.e., 0.3 to 0.4), calculated through the same method. The reason for higher transference number of PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane with respect to bare PEO is the favored ion transport through polymer segments of the amorphous phase of PEO-salt complexes, which is promoted by the plasticizing effect of DMSO <ce:cross-ref id="cf0325" refid="bb0160">[32]</ce:cross-ref>. Indeed, the amorphous phase of the electrolyte increases the ion transport by enhancing their long-range diffusion, while, as already mentioned above, we may likely exclude the direct role of free DMSO molecules in solvating the lithium ions.</ce:para>
+                  <ce:para id="p0080" view="all">The performances of the new PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO polymer electrolyte in a rechargeable lithium metal cell using a LiFePO<ce:inf loc="post">4</ce:inf> olivine cathode at a current of C/10 (1C<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>170<ce:hsp sp="0.25"/>mA<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>) and a temperature of 50<ce:hsp sp="0.25"/>°C are reported in <ce:cross-ref id="cf0330" refid="f0030">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="f0030"/>. The voltage vs. specific capacity of the cell shown in <ce:cross-ref id="cf0335" refid="f0030">Fig. 6</ce:cross-ref>A revels the typical plateau, evolving around 3.4<ce:hsp sp="0.25"/>V, due the Li-ion insertion and de-insertion in the LiFePO<ce:inf loc="post">4</ce:inf> olivine structure <ce:cross-ref id="cf0340" refid="bb0165">[33]</ce:cross-ref>. The figure reveals during the first cycle a low efficiency due to the irreversible process ascribed to the decomposition of the electrolyte, with formation of a protective SEI film on the electrodes surface and rearrangement of the electrode structure. Subsequently, the cycling trend of <ce:cross-ref id="cf0345" refid="f0030">Fig. 6</ce:cross-ref>B shows an efficiency approaching 100%, an initial specific capacity of the order of 140<ce:hsp sp="0.25"/>mAh<ce:hsp sp="0.25"/>g<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> (i.e., 83% of the theoretical value) and a steady state capacity of about 125<ce:hsp sp="0.25"/>mAh<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>. However, during the final cycling stages the cell polarization between charge and discharge increases, and the capacity decreases to about 100 mAhrg<ce:sup loc="post">−1</ce:sup> by 40<ce:hsp sp="0.25"/>cycles. Despite the cycling trend of <ce:cross-ref id="cf0350" refid="f0030">Fig. 6</ce:cross-ref> that demonstrates the suitability of the electrolyte for battery application, it also reveals issues of the long terms stability. These issue may be most likely ascribed to irregular SEI formation and growth due to partial electrolyte reactivity and possible presence of impurities, as indeed suggested by the additional voltammetry peak observed in <ce:cross-ref id="cf0355" refid="f0025">Fig. 5</ce:cross-ref>B at about 3.4<ce:hsp sp="0.25"/>V, and to possible loss of DMSO during cycling with consequent decrease of the electrolyte performances. The same finding was observed by Liu et al., in an in situ AFM investigation of SEI in DMSO-based electrolyte. Indeed, lithium ions solvated by DMSO may easily intercalate into graphite layers, leading to serious decomposition and structural deterioration of the SEI <ce:cross-ref id="cf0360" refid="bb0170">[34]</ce:cross-ref>. The electrolyte performances may be actually further improved by the addition of ceramic fillers, such as nanometric silica (SiO<ce:inf loc="post">2</ce:inf>) or alumina (Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>), preferably silane-treated, as indeed demonstrated by our previous works <ce:cross-ref id="cf0365" refid="bb0160">[32]</ce:cross-ref>. The addition of ceramic fillers to the polymer electrolyte which absorbs and incorporates impurities may, in fact, lead to stable, compact and thin passivation layer, thus remarkably increasing the cycle life of the cell <ce:cross-ref id="cf0370" refid="bb0175">[35]</ce:cross-ref>. Furthermore, the development of electrolytes added by redox species <ce:cross-ref id="cf0375" refid="bb0180">[36]</ce:cross-ref>, multilayer hybrid electrolytes <ce:cross-ref id="cf0380" refid="bb0185">[37]</ce:cross-ref> for lithium ion battery, as well as the use of free-standing membranes for advanced applications such as Li/S cells <ce:cross-ref id="cf0385" refid="bb0190">[38]</ce:cross-ref>, may actually be suitable for achieving new generation of energy storage systems. We may point out, however, that the relatively low operating temperature, i.e., 50<ce:hsp sp="0.25"/>°C, suggests the polymer electrolyte herein studied as a suitable media for a safe solid lithium metal battery.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0035">Conclusion</ce:section-title>
+                  <ce:para id="p0085" view="all">A solid polymer electrolyte, composed of PEO, DMSO, and LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>, with favorable mechanical properties, has been studied for application in high energy lithium metal battery. FTIR revealed that the local structure of host PEO polymer is modified due to the plasticizing effect of DMSO. Arrhenius conductivity plots of the electrolyte exhibited the typical characteristics of PEO-based electrolyte, however with an amorphous to crystalline phase transition lowered to 50<ce:hsp sp="0.25"/>°C instead of 65<ce:hsp sp="0.25"/>°C of the control membrane. Furthermore, the electrolyte revealed a lithium transference number (t<ce:inf loc="post">Li</ce:inf>
+                     <ce:sup loc="post">+</ce:sup>) as high as 0.5, rather than 0.3–0.4 ascribed to the DMSO-free electrolyte. These notable improvements were attributed to the plasticizing effect of the DMSO into the membrane. The electrolyte revealed a stability extending over 4.1<ce:hsp sp="0.25"/>V vs. Li<ce:sup loc="post">+</ce:sup>/Li, however it has also shown side peak at the lower voltage due to possible presence of impurities which compromised the long-term cycling stability. The PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO polymer electrolyte allowed the efficient operation of a lithium metal battery with a solid state configuration using the LiFePO<ce:inf loc="post">4</ce:inf> olivine cathode. Solid PEO-based membranes are generally used in lithium cell at temperature higher than 70<ce:hsp sp="0.25"/>°C, as their conductivity allows efficient operation only at the abovementioned condition. The plasticizing effect of DMSO in the PEO<ce:inf loc="post">20</ce:inf>LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf>DMSO membrane herein studied allowed higher conductivity at lower temperature, and proper cell operation above 50<ce:hsp sp="0.25"/>°C. The cell revealed a voltage about 3.4<ce:hsp sp="0.25"/>V and a capacity of about 120<ce:hsp sp="0.25"/>mAh<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>, at the relatively low temperature of 50<ce:hsp sp="0.25"/>°C, thus suggesting the suitability of membrane herein studied for battery application.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0040">Acknowledgements</ce:section-title>
+               <ce:para id="p0090" view="all">B.W. acknowledges HNF facility at Howard University for AFM imaging. J.H. thanks <ce:grant-sponsor id="gts0005" sponsor-id="https://doi.org/10.13039/501100007109" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">University of Ferrara</ce:grant-sponsor> for the grant “Fondo di Ateneo per la Ricerca Locale FAR 2016” and the collaboration project “Accordo di Collaborazione Quadro 2015” between University of Ferrara (Department of Chemical and Pharmaceutical Sciences) and Sapienza University of Rome (Department of Chemistry).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0045">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Armand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polymer solid electrolytes - an overview</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9–10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>745</sb:first-page>
+                              <sb:last-page>754</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0167-2738(83)90083-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Derrien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sacchetti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Panero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanocomposite PEO-based polymer electrolyte using a highly porous, super acid zirconia filler</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ssi.2009.07.006</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Damen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mastragostino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid-state, rechargeable Li/LiFePO<ce:inf loc="post">4</ce:inf> polymer battery for electric vehicle application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.jpowsour.2010.03.089</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Manuel Stephan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Nahm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Review on composite polymer electrolytes for lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polymer (Guildf).</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5952</sb:first-page>
+                              <sb:last-page>5964</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.polymer.2006.05.069</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Golodnitsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Peled</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Greenbaum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Review—on order and disorder in polymer electrolytes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>162</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A2551</sb:first-page>
+                              <sb:last-page>A2566</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/2.0161514jes</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Appetecchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Croce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Salomon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Cassel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hot-pressed, dry, composite, PEO-based electrolyte membranes: I. Ionic conductivity characterization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/S0378-7753(02)00543-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Appetecchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Croce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Cassel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Salomon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hot-pressed, solvent-free, nanocomposite, PEO-based electrolyte membranes: II. All solid-state Li/LiFePO<ce:inf loc="post">4</ce:inf> polymer batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>124</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/S0378-7753(03)00611-6</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Croce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Appetecchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Persi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanocomposite polymer electrolytes for lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>394</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>456</sb:first-page>
+                              <sb:last-page>458</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/28818</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wetjen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Navarra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Panero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Passerini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Composite poly(ethylene oxide) electrolytes plasticized by N-alkyl-N-butylpyrrolidinium bis(trifluoromethanesulfonyl)imide for lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemSusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/cssc.201300105</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Di Girolamo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Panero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Navarra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quaternary polyethylene oxide electrolytes containing ionic liquid for lithium polymer battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>163</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1149/2.0241607jes</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Elia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A polymer lithium-oxygen battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1038/srep12307</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Ratner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.F.</ce:given-name>
+                                 <ce:surname>Shriver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ion transport in solvent-free polymers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>124</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cr00083a006</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Leung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Soto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hankins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Balbuena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Harrison</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stability of solid electrolyte interphase components on lithium metal and reactive anode material surfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6302</sb:first-page>
+                              <sb:last-page>6313</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acs.jpcc.5b11719</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bieker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Winter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bieker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical in situ investigations of SEI and dendrite formation on the lithium metal anode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8670</sb:first-page>
+                              <sb:last-page>8679</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C4CP05865H</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Brutti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-W.</ce:given-name>
+                                 <ce:surname>Hsieh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A high power Sn-C/C-LiFePO<ce:inf loc="post">4</ce:inf> lithium ion battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>217</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.jpowsour.2012.05.102</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Bruce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Hardgrave</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Vincent</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The determination of transference numbers in solid polymer electrolytes using the Hittorf method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53–56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1087</sb:first-page>
+                              <sb:last-page>1094</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0167-2738(92)90295-Z</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Miyazawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fukushima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ideguchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular vibrations and structure of high polymers. III. Polarized infrared spectra, normal vibrations, and helical conformation of polyethylene glycol</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2764</sb:first-page>
+                              <sb:last-page>2776</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1063/1.1733103</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Frech</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chintapalli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Bruce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Vincent</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Crystalline and amorphous phases in the poly(ethylene oxide)−LiCF<ce:inf loc="post">3</ce:inf>SO<ce:inf loc="post">3</ce:inf> system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>808</sb:first-page>
+                              <sb:last-page>813</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/ma9812682</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Rhodes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Frech</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Vibrational study of the polymer electrolyte poly(ethylene oxide) 6: LiAsF 6</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1365</sb:first-page>
+                              <sb:last-page>1368</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/ma0008387</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Murcko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>DiPaola</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ab initio molecular orbital conformational analysis of prototypical organic systems. 1. Ethylene glycol and 1,2-dimethoxyethane</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10010</sb:first-page>
+                              <sb:last-page>10018</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/ja00051a038</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Probing the roles of polymeric separators in lithium-ion battery capacity fade at elevated temperatures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>161</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1241</sb:first-page>
+                              <sb:last-page>A1246</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/2.0351409jes</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gauthier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Carney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Grimaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Giordano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Pour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-H.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrode–electrolyte interface in li-ion batteries: current understanding and new insights</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4653</sb:first-page>
+                              <sb:last-page>4672</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acs.jpclett.5b01727</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Challenges for rechargeable Li batteries †</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>587</sb:first-page>
+                              <sb:last-page>603</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cm901452z</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.G.</ce:given-name>
+                                 <ce:surname>Neale</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Understanding electrochemical potentials of cathode materials in rechargeable batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>123</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.mattod.2015.10.009</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Agubra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Fergus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The formation and stability of the solid electrolyte interface on the graphite anode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>268</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>153</sb:first-page>
+                              <sb:last-page>162</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jpowsour.2014.06.024</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Di Lecce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Brescia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Scarpellini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Prato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A high voltage olivine cathode for application in lithium-ion batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemSusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/cssc.201501330</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Melot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-M.</ce:given-name>
+                                 <ce:surname>Tarascon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Design and preparation of materials for advanced electrochemical storage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acc. Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1226</sb:first-page>
+                              <sb:last-page>1238</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/ar300088q</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Croce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Settimi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zane</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanocomposite, PEO-LiBOB polymer electrolytes for low temperature, lithium rechargeable batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. New Mater. Electrochem. Syst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Schroeder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Pearse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Rubloff</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>DMSO–Li<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> interface in the rechargeable Li–O<ce:inf loc="post">2</ce:inf> battery cathode: theoretical and experimental perspectives on stability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11402</sb:first-page>
+                              <sb:last-page>11411</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsami.5b01969</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Odziemkowski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An electrochemical study of the reactivity at the lithium electrolyte/bare lithium metal interface</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3063</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/1.2069033</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.-B.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-Z.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of solid electrolyte interphases on lithium metal anode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1500213</sb:article-number>
+                           <ce:doi>10.1002/advs.201500213</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Zewde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Admassie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zimmermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Isfort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scrosati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hassoun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced lithium battery with polyethylene oxide-based electrolyte containing silane-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> ceramic filler</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemSusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/cssc.201300296</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Padhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Padhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nanjundaswamya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nanjundaswamya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phospho-olivines as positive-electrode materials for rechargeable lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>144</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1188</sb:first-page>
+                              <sb:last-page>1194</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/1.1837571</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.-R.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.-J.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ observation of electrolyte-concentration-dependent solid electrolyte interphase on graphite in dimethyl sulfoxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9573</sb:first-page>
+                              <sb:last-page>9580</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsami.5b01024</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="rf0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Zewde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Elia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Admassie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zimmermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hagemann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Isfort</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polyethylene oxide electrolyte added by silane-functionalized TiO<ce:inf loc="post">2</ce:inf> filler for lithium battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>268</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ssi.2014.10.030</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0180">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="rf0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ming</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.Yu</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wahyudi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Jong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Redox species-based electrolytes for advanced rechargeable lithium ion batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Energy Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1021/acsenergylett.6b00274</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0185">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="rf0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ming</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multilayer approach for advanced hybrid lithium battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1021/acsnano.6b01626</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0190">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference id="rf0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wahyudi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ming</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scalable approach to construct free-standing and flexible carbon networks for lithium–sulfur battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1021/acsami.6b12546</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

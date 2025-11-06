@@ -1,0 +1,954 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="publisher-id">ae</journal-id><journal-id journal-id-type="coden">aaemcq</journal-id><journal-title-group><journal-title>ACS Applied Energy Materials</journal-title></journal-title-group><issn pub-type="epub">2574-0962</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">9603062</article-id><article-id pub-id-type="doi">10.1021/acsaem.2c01581</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Monolithic All-Solid-State
+High-Voltage Li-Metal Thin-Film
+Rechargeable Battery</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1896-9365</contrib-id><name><surname>Madinabeitia</surname><given-names>I&#x000f1;aki</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2403-1568</contrib-id><name><surname>Rikarte</surname><given-names>Jokin</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Etxebarria</surname><given-names>Ane</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="notes4" ref-type="notes">&#x02207;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Baraldi</surname><given-names>Giorgio</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes1" ref-type="notes">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Fern&#x000e1;ndez-Carretero</surname><given-names>Francisco Jos&#x000e9;</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2494-173X</contrib-id><name><surname>Garbayo</surname><given-names>I&#x000f1;igo</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes2" ref-type="notes">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7440-2932</contrib-id><name><surname>Cid</surname><given-names>Rosal&#x000ed;a</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath8"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7541-3203</contrib-id><name><surname>Garc&#x000ed;a-Luis</surname><given-names>Alberto</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath9"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5351-828X</contrib-id><name><surname>Mu&#x000f1;oz-M&#x000e1;rquez</surname><given-names>Miguel &#x000c1;ngel</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes3" ref-type="notes">#</xref></contrib><aff id="aff1"><label>&#x02020;</label>TECNALIA,
+Basque Research and Technology Alliance (BRTA), <institution>Parque Cient&#x000ed;fico y Tecnol&#x000f3;gico de Gipuzkoa</institution>, Mikeletegi Pasealekua 2, 20009 Donostia-San Sebasti&#x000e1;n, <country>Spain</country></aff><aff id="aff2"><label>&#x02021;</label>Centre
+for Cooperative Research on Alternative Energies (CIC energiGUNE), <institution>Basque Research and Technology Alliance (BRTA)</institution>, Alava Technology Park, Albert Einstein
+48, 01510 Vitoria-Gasteiz, <country>Spain</country></aff><aff id="aff3"><label>&#x000a7;</label>Departamento
+de F&#x000ed;sica de la Materia Condensada, Facultad de Ciencia y Tecnolog&#x000ed;a, <institution>Universidad del Pa&#x000ed;s Vasco, UPV/EHU</institution>, P.O. Box 644, 48080 Bilbao, <country>Spain</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>miguel.munoz@unicam.it</email>.</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>09</month><year>2022</year></pub-date><pub-date pub-type="ppub"><day>24</day><month>10</month><year>2022</year></pub-date><volume>5</volume><issue>10</issue><fpage>12120</fpage><lpage>12131</lpage><history><date date-type="received"><day>23</day><month>05</month><year>2022</year></date><date date-type="accepted"><day>14</day><month>09</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2022 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0014" id="ab-tgr1"/></p><p>The substitution of an organic liquid electrolyte with
+lithium-conducting
+solid materials is a promising approach to overcome the limitations
+associated with conventional lithium-ion batteries. These constraints
+include a reduced electrochemical stability window, high toxicity,
+flammability, and the formation of lithium dendrites. In this way,
+all-solid-state batteries present themselves as ideal candidates for
+improving energy density, environmental friendliness, and safety.
+In particular, all-solid-state configurations allow the introduction
+of compact, lightweight, high-energy-density batteries, suitable for
+low-power applications, known as thin-film batteries. Moreover, solid
+electrolytes typically offer wide electrochemical stability windows,
+enabling the integration of high-voltage cathodes and permitting the
+fabrication of higher-energy-density batteries. A high-voltage, all-solid-state
+lithium-ion thin-film battery composed of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> cathode, a LiPON solid electrolyte, and a
+lithium metal anode has been deposited layer by layer on low-cost
+stainless-steel current collector substrates. The structural and electrochemical
+properties of each electroactive component of the battery had been
+analyzed separately prior to the full cell implementation. In addition
+to a study of the internal solid&#x02013;solid interface, comparing
+them was done with two similar cells assembled using conventional
+lithium foil, one with thin-film solid electrolyte and another one
+with thin-film solid electrolyte plus a droplet of LP30 liquid electrolyte.
+The thin-film all-solid state cell developed in this work delivered
+80.5 mAh g<sup>&#x02013;1</sup> in the first cycle at C/20 and after
+a C-rate test of 25 cycles at C/10, C/5, C/2, and 1C and stabilized
+its capacity at around 70 mAh g<sup>&#x02013;1</sup> for another 12
+cycles prior to the start of its degradation. This cell reached gravimetric
+and volumetric energy densities of 333 Wh kg<sup>&#x02013;1</sup> and
+1,212 Wh l<sup>&#x02013;1</sup>, respectively. Overall, this cell showed
+a better performance than its counterparts assembled with Li foil,
+highlighting the importance of the battery interface control.</p></abstract><kwd-group><kwd>magnetron sputtering</kwd><kwd>thermal evaporation</kwd><kwd>thin-film battery</kwd><kwd>all-solid-state</kwd><kwd>LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub></kwd><kwd>LiPON</kwd><kwd>stainless
+steel current collector</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>H2020 LEIT Space</institution><institution-id institution-id-type="doi">10.13039/100010673</institution-id></institution-wrap></funding-source><award-id>687561</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Eusko Jaurlaritza</institution><institution-id institution-id-type="doi">10.13039/501100003086</institution-id></institution-wrap></funding-source><award-id>Elkartek CICe2017-L4</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ae2c01581</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ae2c01581</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>The imminent revolution
+of Internet of Things (IoT), with millions
+of interconnected energy-demanding smart microdevices and sensors,
+demands the development of a new generation of high-energy-density,
+long-lasting powering devices, which outperform current Li-ion batteries.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> In this sense, the use of Li metal as an anode is living an intense
+upturn lately to profit from its high theoretical specific capacity
+(3,860 mAh g<sup>&#x02013;1</sup>), the lowest negative electrochemical
+potential (&#x02212;3.040 V vs SHE), and low density (0.59 g cm<sup>&#x02013;3</sup>).<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> However, its use still entails
+several challenges when combined with state-of-the-art liquid electrolytes,
+especially related to their (i) limited electrochemical stability
+window, (ii) flammability, and (iii) Li dendrite formation. In this
+scenario, all-solid-state Li-metal batteries (ASSBs), where the liquid
+electrolyte is replaced by a solid Li-ion conducting material, are
+attracting increasing attention in order to overcome the mentioned
+technological limits associated with liquid electrolytes. At the same
+time, widening the voltage stability window also opens up the possibility
+of working with high-voltage cathodes, paving the way for the fabrication
+of batteries with higher energy density, longer cycle life, and increased
+safety, as otherwise expected when using solid electrolytes.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref5">5</xref></sup></p><p>Two main types of materials result in mechanically and electrochemically
+stable Li-ion conducting solid electrolytes, namely, polymers and
+ceramics. On the one hand, polymer-based electrolytes have been widely
+reported (in particular polyethylene oxide (PEO)-based formulations)
+due to easy processability, low toxicity, low cost, and good chemical
+stability. However, they are limited by a low Li-ion conductivity
+at room temperature, thus forcing the cell operation at high temperatures,
+usually <italic>ca.</italic> 70 &#x000b0;C. On the other hand, ceramic
+materials are lately receiving increasing attention due to their competitive
+ionic conductivity, even at room temperature, as well as thermal and
+electrochemical stability.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Moreover, the
+fact that in some cases solid-state batteries have operated for more
+than 10,000 cycles is an irrefutable proof of the inherently slower
+reactivity of solid electrolytes compared to liquid ones, resulting
+in longer device lifetime for solid-state cells.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Furthermore, a particularly relevant advantage of ceramic
+electrolytes to this work is the possibility of downscaling them to
+thin-film format (&#x0003c;1 &#x003bc;m) for the development of all-solid-state
+microbatteries.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Allowing the fabrication
+of batteries with capacities ranging from 0.1 to 5 mAh, ideal, e.g.,
+for IoT applications.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, all-solid-state thin-film
+microbatteries can be assembled as a
+sequential stack of thin-film layers deposited on a substrate by means
+of microfabrication technologies that rely on shadow masks and selective
+etching processes to define the functional area of each cell component.
+Back in 1994, Bates and co-workers developed and patented the first
+thin-film microbattery, fabricated by magnetron sputtering at Oak
+Ridge National Laboratory (ORNL).<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Notably,
+this coating technique is still nowadays one of the most widely used
+techniques for processing thin-film components owing to its high deposition
+rates, stoichiometry control, reproducibility, solvent-free processing,
+and, importantly, ability to scale-up to industrial production (e.g.,
+roll-to-roll systems).<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> Its suitability and reliability to work with almost
+any type of material (conductor/insulator and crystalline/amorphous)
+has been demonstrated in the fabrication of different battery components:
+positive electrodes such as LiMn<sub>2</sub>O<sub>4</sub>,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> LiCoO<sub>2</sub>,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> and LiFePO<sub>4</sub>;<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> amorphous Li<sub>2</sub>PO<sub>2</sub>N<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> and garnet-structure
+like Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub><sup><xref ref-type="bibr" rid="ref17">17</xref></sup> solid electrolytes; negative electrodes such
+as Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub><sup><xref ref-type="bibr" rid="ref18">18</xref></sup> and SnO<sub>2</sub>;<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and metallic current
+collectors such as Ag, Cu, or Al.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Sketch of a
+thin-film battery. The battery components are sequentially
+grown on top of a conductive substrate: (i) cathode, (ii) electrolyte,
+and (iii) anode. A series of shadow masks are generally employed to
+define the deposition areas and avoid short-circuiting both electrodes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0002" id="gr1" position="float"/></fig><p>Nowadays, the portfolio of thin-film materials
+is very broad. Most
+of the studies are focused on the advanced cathode characterization,
+with metallic lithium as the anode and lithium phosphorous oxynitride
+(Li<sub>3</sub>PO<sub>4&#x02013;<italic>x</italic></sub>N<sub><italic>x</italic></sub>, commonly referred as LiPON) as the solid electrolyte.
+Despite the progress made in the development of new materials, nowadays
+the most used inorganic solid-state electrolyte material in thin-film
+form is LiPON. Using LiPON as an electrolyte allows widening the voltage
+stability window of the cells up to 5.5 V,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> enabling the integration of high-voltage positive electrodes<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> and paving the way toward fabrication of high-energy-density
+batteries.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Its stability against metallic
+Li and negligible electronic conductivity (&#x0003e;10<sup>14</sup> &#x003a9;
+cm) are key aspects here, while its main drawback is the relatively
+low ionic conductivity (2&#x000d7;10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup> at room temperature).<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Many research
+efforts around this solid electrolyte have been primarily focused
+on increasing its ionic conductivity by varying deposition conditions,
+such as the sputtering power, N<sub>2</sub> pressure, and substrate
+temperature.<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> However, it is to be noted that a drastic thickness
+reduction of the electrolyte layer eventually permits its practical
+use, regardless of the lower conductivity. Finally, regarding the
+Li metal anode, the most widely used way to deposit the lithium thin
+layer is by thermal evaporation, although its deposition details or
+characteristics are rarely given. The most commonly used positive
+electrodes such as olivine LiFePO<sub>4</sub>, spinel LiMn<sub>2</sub>O<sub>4</sub>, or layered LiCoO<sub>2</sub> have a limited working
+voltage of 3.5, 4.2, and 4.2 V vs Li/Li<sup>+</sup>, respectively.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> In this sense, the cobalt-free
+LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> (LNMO) was proposed
+as a very promising alternative for the next generation of high-power
+thin-film, providing a high working voltage of 4.7 V vs Li/Li<sup>+</sup> (corresponding to two redox couples of nickel) that results
+in a high energy density (specific capacity of <italic>C</italic><sub>theo.</sub> = 146.6 mAh g<sup>&#x02013;1</sup>), high charge/discharge
+rate capability, an acceptable electronic and Li-ion conductivities.<sup><xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup></p><p>In 2012, the combination of LNMO and LiPON was explored by
+Baggetto
+and co-workers at ORNL. The coating of LNMO with LiPON was found to
+result in the reduction of Coulombic losses and in improved rate capability
+when tested using LiPF<sub>6</sub> dissolved in an organic carbonate-based
+liquid electrolyte and Li metal as the negative electrode.<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> The same authors also studied the influence of metal oxide coatings
+on LNMO thin-film electrodes when cycled using a liquid electrolyte.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Other authors have reported the electrochemical
+response of epitaxial LNMO (100) grown on LaNiO<sub>3</sub> (100)
+current collectors that have been deposited on Nb-doped SrTiO<sub>3</sub> (100) substrates; in this case, amorphous Li<sub>3</sub>PO<sub>4</sub> was used as an electrolyte and Li metal as a negative electrode.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> So far, the best-performing LNMO thin-film cell
+with a LiPON electrolyte and a Li metal anode was grown on Pt-coated
+Al<sub>2</sub>O<sub>3</sub> substrates.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Besides LNMO, LiCoPO<sub>4</sub> has been used as a positive electrode
+(4.8 V vs Li/Li<sup>+</sup>) in thin-film batteries with LiPON as
+the electrolyte and Li metal as the anode;<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> in this case, though, the highest conductive phase appeared only
+at 2.5 V.</p><p>Despite the intensive efforts devoted toward the development
+of
+solid-state batteries and the identified gaps in terms of materials
+science, processing science, and design engineering,<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> the poor interconnection of the solid&#x02013;solid electrode&#x02013;electrolyte
+interface is often cited as the main limitation for full exploitation
+of the electrochemical properties of electroactive materials.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> The poor adherence generated by discontinuities
+at the interface results in limited diffusion paths of Li ions<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> that is often addressed by integrating liquid
+or gel catholytes in the system, thus deviating from the pure solid-state
+concept. Moreover, the appearance of detrimental reaction products
+at the inner battery interfaces, predominantly between the Li metal
+and the solid electrolyte, is usually behind the high internal resistance
+of the cell that ultimately reduces the cell performance.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> In this regard, it is worth mentioning that
+low interface resistance in solid-state thin-film batteries with the
+LNMO electrode and Li<sub>3</sub>PO<sub>4</sub> electrolyte has already
+been demonstrated. However, the Li metal&#x02013;solid electrolyte
+interface is still an open question.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup></p><p>In this work, a thin-film ASSB comprising a high-voltage cathode
+LNMO, a LiPON ceramic electrolyte (both deposited by magnetron sputtering),
+and a metallic Li anode (thermally evaporated) has been developed.
+All was sequentially deposited on functional and cost-effective stainless-steel
+current collector (&#x0223c;$1.5 kg<sup>&#x02013;1</sup>), starting
+from the cathode. The structural and electrochemical properties of
+each electroactive component of the battery have been analyzed separately
+before the building up of the cell. The optimization of the cathode
+has been described in a previous work.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup></p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Cathode Fabrication</title><p>LNMO deposition
+was performed by a CemeCon MF-AC dual technology-based magnetron sputtering
+system on low-cost stainless-steel discs (316L, Hohsen Corp.) using
+a 12 mm circular mask. The selected growth parameters are detailed
+in a previous work focused on the optimization of LNMO thin-films.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> Under these conditions, an 8.91 nm min<sup>&#x02013;1</sup> deposition rate and a good film adhesion were achieved. The growth
+process lasted for 2 h, leading to the deposition of 1.07 &#x000b1; 0.02
+&#x003bc;m-thick films. After deposition, the LNMO film was annealed
+up to 600 &#x000b0;C for 1 h in air to achieve a desired crystallographic
+structure using a heating ramp of 5 &#x000b0;C min<sup>&#x02013;1</sup> and cooling down slowly inside the switched off oven.</p></sec><sec id="sec2.2"><label>2.2</label><title>Solid Electrolyte Fabrication</title><p>LiPON
+thin-film electrolytes were deposited by radio frequency (RF) reactive
+magnetron sputtering with an integrated full-face erosion technology,
+wherein the whole target surface is sputtered via motor-driven dynamic
+plasma scanning. In this way, it was possible to increase the deposition
+rate and homogeneity of the thin film across the deposition area.
+A power density of 1.09 W cm<sup>&#x02013;2</sup> was applied to a
+3 in. Li<sub>3</sub>PO<sub>4</sub> circular target (Toshima Manufacturing
+Co.). The substrate-to-target distance was 90 mm with an incident
+angle of 45&#x000b0;. During the sputtering process, a working pressure
+of 4.5&#x000d7;10<sup>&#x02013;3</sup> mbar of Ar and N<sub>2</sub> was
+kept constant. In order to analyze the role of the nitrogen concentration
+on the solid electrolyte, different percentages of pure nitrogen (N<sub>2</sub>) flow rates were used: 0, 50, and 100%. These samples are
+henceforth referred as LiPON_0, LiPON_50, and LiPON_100, respectively.
+Sixteen-hour-long processes were carried out, leading to 1.3 &#x003bc;m-thick
+solid electrolyte layers.</p><p>The LiPON thin films were grown on
+atomically flat Si (100) single-crystal substrates for morphological,
+structural, and elemental characterization. SEM (FEI quanta-200FEG)
+was used to measure the thickness and surface morphology. The crystallographic
+structure study has been carried out by X-ray diffraction (XRD) using
+a Bruker Advance D8 diffractometer with Cu radiation (Cu K&#x003b1;<sub>1,2</sub> &#x003bb; = 1.5406 and 1.5444 &#x000c5;). The study was conducted
+at 2&#x003b8; angles ranging from 15 to 65&#x000b0; 2&#x003b8; with a step
+size of 0.02&#x000b0;. The resulting diffractograms were interpreted
+using both the diffraction data found in the literature and the Diffract.eva
+software. The elemental composition of the surface of phosphorous
+oxide and oxynitride samples was analyzed by X-ray photoelectron spectroscopy
+(XPS) using a Phoibos 150 spectrometer (Specs GmbH) in fixed analyzer
+transmission mode and a non-monochromatic Mg K&#x003b1; X-ray source
+(<italic>h</italic>&#x003bd; =1253.6 eV) operated at 100 W. Survey spectra
+were obtained with 0.5 eV step size and a pass energy of 50 eV. Particular
+regions of O 1s, N 1s, C 1s, P 2p, and Li 1s were acquired with high
+resolution: a step size of 0.1 eV and a pass energy of 30 eV. Experimental
+data was treated with CasaXPS software. The zero of binding energy
+for all the spectra was calibrated using the aliphatic carbon signal,
+which was set at 284.6 eV.</p><p>In order to evaluate the ionic conductivity
+of the electrolyte,
+LiPON thin films were deposited on 10 &#x000d7; 10 &#x000d7; 0.5 mm dielectric
+MgO (100) single-crystal substrates (CrysTec GmbH). Here, 6 &#x000d7;
+1 mm- and 440 nm-thick copper electrodes were deposited on top of
+the LiPON films by means of direct current (DC) magnetron sputtering
+and using a shadow mask. An air-tight Linkam HFS600E-PB4 stage was
+used for the in-plane ionic conductivity measurements. Impedance measurements
+were carried out with the help of a Biologic EC-Lab potentiostat in
+the frequency range from 7 MHz to 100 mHz, with 10 points per decade
+and a sinus amplitude of 20 mV. The conductivity measurements were
+performed at temperatures of 150, 200, and 250 &#x000b0;C under a controlled
+Ar atmosphere within the Linkam stage.</p></sec><sec id="sec2.3"><label>2.3</label><title>Anode Fabrication</title><p>The lithium metal
+anode was deposited by thermal evaporation using commercial crucibles
+from AlfaSources (AlfaVakuo e.U.) that contained the evaporation material.
+Prior to the lithium deposition, the evaporation chamber was evacuated
+down to a base pressure below 1 &#x000d7; 10<sup>&#x02013;8</sup> mbar,
+the substrate-to-crucible distance was set at 50 mm, and a current
+of 12 A was applied to the crucible that contains the lithium. During
+the deposition, a working pressure of 5 &#x000d7; 10<sup>&#x02013;8</sup> mbar was maintained for a 24 h-long process that resulted in a 1
+&#x003bc;m-thick lithium film.</p><p>For the transport and handling
+of the air-sensitive samples, air-tight transfer arms and an inert
+atmosphere glove box (Ar filled, with H<sub>2</sub>O and O<sub>2</sub> concentrations below 0.1 ppm) were used.</p></sec><sec id="sec2.4"><label>2.4</label><title>All-Solid-State Thin-Film Battery Fabrication</title><p>The assembly of the monolithic all-solid-state battery was performed
+following a sequential process in which the different components were
+grown layer by layer. First, the LNMO thin-film cathode was deposited
+on top of the SS substrate using the 12 mm diameter shadow mask followed
+by a post-annealing process in order to achieve the desired crystallographic
+structure. On top of that, the LiPON thin-film electrolyte was deposited;
+in this case, no shadow masks were used, thus a full coverage of the
+LNMO/SS sample was attained. Finally, the lithium anode was deposited
+by thermal evaporation over the electrolyte, this time using again
+a circular shadow mask with a 12 mm diameter hole.</p><p>By means
+of an air-tight transfer tool, the resulting all-solid-state cell
+was transferred into an Ar-filled glove box where it was sealed in
+a pouch cell (image of the cell included in the last section of the
+Supporting Information file, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S7a</ext-link>). The finalized cells were connected to a MACCOR battery cycler,
+which is placed in a laboratory with controlled temperature (25 &#x000b0;C),
+to perform galvanostatic cycling. For these tests, the voltage window
+was in the 3.5&#x02013;5 V range and the current rates were set in
+the C/20 to the C range. Specific capacities and currents were determined
+with respect to the exact mass of the positive electrode loading.
+The electrochemical performance data of the ASSB cell was compared
+with data obtained after performing the same electrochemical tests
+on cells assembled using conventional lithium foil as an anode and
+after incorporating a drop of liquid electrolyte (1 M LiPF<sub>6</sub> in dimethyl carbonate (DMC) and ethylene carbonate (EC) (1:1 v/v,
+Solvionic, 99.9%)) in the interface between the solid electrolyte
+and the lithium foil.</p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Solid Electrolyte Characterization</title><p>The surface morphology of the electrolyte films has been evaluated
+by means of SEM. While the surface of the sample deposited only with
+argon is granulated, a smoother surface was obtained when increasing
+the nitrogen flow (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) (images included in the Supporting Information, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S1</ext-link>). Nevertheless, from a morphological
+point of view, all films presented a dense and homogeneous structure
+required.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Top-view SEM images of LiPON_50 thin film and (b) X-ray diffraction
+patterns for LiPON_0, LiPON_50, and LiPON_100.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0003" id="gr2" position="float"/></fig><p>X-ray diffraction measurements confirmed the expected
+amorphous
+nature of the LiPON thin films prepared in this work (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). As it can be seen in the
+diffraction pattern, only those peaks related to the silicon substrate
+and Kapton film used for sample protection (see diffraction pattern
+from the reference substrate in black, <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b) were observed for all the samples. Meanwhile,
+no peaks associated with electrolyte crystallinity could be identified,
+confirming the amorphousness of the LiPON films. This statement is
+in line with the reported literature on LiPON thin-film layers deposited
+by RF magnetron sputtering.<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> The presence of orthorhombic
+SiO<sub>2</sub> (ref. COD 4110502) is worth mentioning,<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> with diffraction peaks located at 10.6, 12.8,
+15.1, and 18.9&#x000b0; 2&#x003b8;, which has been formed during deposition.
+In any case, the SiO<sub>2</sub> formation would be associated with
+the use of Si as the substrate and would not be present when moving
+to the functional SS substrate.</p><p>In order to identify any change
+related to the insertion of nitrogen
+into the structure, surface elemental characterization was performed
+by means of XPS. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> shows the XPS spectra of the O 1s, N 1s, P 2p, and Li 1s regions
+for LiPON_0, LiPON_50, and LiPON_100 films.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>XPS profiles deconvolution
+of the regions O 1s, N 1s, P 2p, and
+Li 1s for LiPON_0, LiPON_50, and LiPON_100 samples. Note that the
+ordinate axes, which correspond to the normalized photoelectron intensity
+in arbitrary units, have not been incorporated in the graph for a
+better visualization.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0004" id="gr3" position="float"/></fig><p>As expected, the major difference between N-containing
+and N-free
+electrolyte films becomes visible when analyzing the N 1s region.
+While the film deposited using only Ar as background gas (LiPON_0)
+shows no N 1s peak, the other two samples are characterized by a broad
+N 1s photoelectron peak that can be resolved with two different components.
+This is in agreement with previous reports,<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> where the two N 1s components are ascribed to a doubly coordinated
+nitrogen &#x02212;N= (labeled as N<sub>d</sub>) and a triply coordinated
+nitrogen &#x02212;N&#x0003c; (labeled as N<sub>t</sub>), as otherwise expected
+for LiPON (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S2</ext-link> in the SI). Additionally,
+a weak peak at a higher binding energy (around 403 eV) can be seen,
+probably corresponding to O&#x02013;N=O (N<sub>o</sub>).<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> In both cases, N<sub>d</sub> presents a more
+intense signal than the N<sub>t</sub> contribution, indicating a relatively
+higher concentration in the glass structure, with N<sub>d</sub>/N<sub>t</sub> being about 2.39 for LiPON_50 and 3.42 for LiPON_100. Notably,
+an increase in doubly coordinated nitrogen is observed when the amount
+of nitrogen in the system is increased. When comparing the two nitrated
+samples, LiPON_50 and LiPON_100, a clear shift toward lower binding
+energies can be observed when increasing N content. This way, the
+doubly coordinated nitrogen shifts from 397.1 eV in the case of LiPON_50
+and to 396.8 eV in the case of LiPON_100, while the less intense triply
+bonded nitrogen contribution shifts from 398.8 to 398.5 eV. N<sub>o</sub> also presents a similar shift, from 403.0 eV for LiPON_50
+to 402.90 eV for LiPON_100. This slight binding energy shift can be
+associated with a decrease in the surface charge load associated to
+the electro-insulating nature of these oxides.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup></p><p>The analysis of the O 1s spectrum has been carried
+out using the
+model proposed by Brow et al.,<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> where
+the main contribution at low binding energies (<italic>ca</italic>. 531 eV) corresponds to the non-bridging oxygen (O<sub>NB</sub>),
+whereas the shoulder located at high binding energies (around 533
+eV) corresponds to a bridging oxygen (O<sub>B</sub>). As described
+in the literature,<sup><xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup> the O<sub>NB</sub> contribution
+could be interpreted as the sum of two types of non-bridging oxygens
+present in lithium phosphate oxide and oxynitride structures, P=O
+and P&#x02013;O<sup>&#x02013;</sup>&#x000b7;&#x000b7;&#x000b7;Li<sup>+</sup>.</p><p>Like the abovementioned case, introducing nitrogen into the system
+entails a slight displacement toward low binding energies for both
+the non-bridging (531.6 &#x0003e; 530.9 &#x0003e; 530.7 eV for LiPON_0, LiPON_50,
+and LiPON_100, respectively) and bridging (533.6 &#x0003e; 532.8 &#x0003e; 532.6
+eV)
+oxygens. Similarly, as the nitrogen is inserted in the phosphate base
+glass, the area of O<sub>B</sub> decreases about that of O<sub>NB</sub>. In the sample LiPON_0, the O<sub>B</sub>/O<sub>NB</sub> ratio is
+0.42, close to the theoretical ratio of 0.50 for a metaphosphate glass;<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> while for 50% of nitrogen, the ratio is reduced
+to 0.33; finally, for 100% nitrogen, it reduces to 0.22. In order
+to provide a theoretical estimation of the efficiency of nitrogen
+incorporation in the LiPON structure, two structural models will be
+used. The first one is related to the specific region of O 1s as proposed
+by Brow et al.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> (<xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>)<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_m001" position="anchor"/><label>1</label></disp-formula>where <italic>y</italic><sub>0</sub> is the O<sub>B</sub>/O<sub>NB</sub> ratio for the non-nitridated
+sample (LiPON_0) and <italic>z</italic><sub>i</sub> is the N/P ratio
+of the nitridated sample under consideration. In this model, it is
+assumed that nitrogen has no preference in replacing either bridging
+or non-bridging oxygens, <italic>i.e.</italic>, equal numbers of these
+species are replaced during nitridation.</p><p>The second model, proposed
+by Marchand et al.,<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> correlates the amount
+of doubly and triply coordinated
+nitrogen in the sample under consideration with the amounts of non-bridging
+and bridging oxygen, based on the substitution of 3 O<sup>2&#x02013;</sup> by 2 N<sup>3&#x02013;</sup> (<xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>)<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_m002" position="anchor"/><label>2</label></disp-formula></p><p><xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> presents
+the obtained experimental ratios of O<sub>B</sub>/O<sub>NB</sub> as
+well as N<sub>d</sub>/N<sub>t</sub> and compares them with the expected
+theoretical values for the analyzed samples found in the literature.
+As it can be observed, the values obtained from the theoretical models
+for a nitrated LiPON_50 and LiPON_100 films match well with the experimental
+ones, suggesting efficient nitrogen incorporation into the films for
+both cases.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Experimental and Theoretical Ratios
+of Lithium Phosphate Oxide and Oxynitride Glasses</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">O<sub>B</sub>/O<sub>NB</sub></th><th style="border:none;" align="center">N<sub>d</sub>/N<sub>t</sub></th><th style="border:none;" align="center">(O<sub>B</sub>/O<sub>NB</sub>)<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> theoretical</th><th style="border:none;" align="center">(N<sub>d</sub>/N<sub>t</sub>)<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> theoretical</th></tr></thead><tbody><tr><td style="border:none;" align="left">LiPON_0</td><td style="border:none;" align="char" char=".">0.42</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td></tr><tr><td style="border:none;" align="left">LiPON_50</td><td style="border:none;" align="char" char=".">0.33</td><td style="border:none;" align="left">2.39</td><td style="border:none;" align="left">0.29</td><td style="border:none;" align="left">2.32</td></tr><tr><td style="border:none;" align="left">LiPON_100</td><td style="border:none;" align="char" char=".">0.22</td><td style="border:none;" align="left">3.42</td><td style="border:none;" align="left">0.18</td><td style="border:none;" align="left">3.33</td></tr></tbody></table></table-wrap><p>A quasi-symmetrical peak was obtained in the P 2p
+photoelectron
+line for the three LiPON films, with no shape evolution upon nitridation
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). These peaks
+could be fitted with a main doublet, with spin-orbit splitting around
+0.86 eV between 2p<sub>3/2</sub> and 2p<sub>1/2</sub> orbital lines.
+This doublet corresponds to the PO<sub>4</sub><sup>3&#x02013;</sup> tetrahedral environment present in the lithium phosphate. However,
+the binding energy shift observed for the different LiPON films is
+more pronounced than those found in the other elements (2p<sub>3/2</sub> peaks located at 134.1 &#x0003e; 133.0 &#x0003e; 132.5 eV for LiPON_0, LiPON_50,
+and LiPON_100, respectively) and it is believed to be nested on the
+replacement of P&#x02013;O bonds by P&#x02013;N bonds since reducing
+the average ionic charge on the phosphorus ions results in a decrease
+in the binding energy.<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup></p><p><xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> shows the
+quantitative evolution of the O/P and N/P ratios with nitrogen incorporation.
+As it can be observed, the oxygen content decreases with the introduction
+of nitrogen (from 4.98 to 2.81 ratio) and vice versa in the case of
+nitrogen content (from 0 to 0.92). This matches well with the expected
+behavior: the O/P and N/P values obtained by Fleutot et al.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> range from 4.3 to 3.0 and from 0 to 1, respectively.
+Thus, this confirms the successful substitution of oxygen by nitrogen
+in the system, as discussed before.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Quantitative evolution of O/P and N/P
+ratios with nitrogen incorporation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0005" id="gr4" position="float"/></fig><p>Finally, looking back to <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, similarly to the phosphorous case, the
+Li 1s spectra
+show a quasi-symmetrical shape. They are analyzed with a single lithium
+element, also undergoing a similar displacement observed in the previous
+cases, 55.6 &#x0003e; 55.0 &#x0003e; 54.9 eV for LiPON_0, LiPON_50, and LiPON_100,
+respectively.</p><p>After characterizing the LiPON morphology and
+composition, the
+in-plane ionic conductivity of the thin films was measured by means
+of electrochemical impedance spectroscopy (EIS) using a two-probe
+method. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> shows
+the schematic illustration of the experimental setup for the electrical
+measurement of the thin-film conductivity, including the dimensions
+and layout of the Cu contacts. Exemplifying Nyquist plots obtained
+for a LiPON_100 film at different temperatures are also reproduced
+(the results obtained at 100 &#x000b0;C have not been graphed to show
+the other plots with better resolution). The corresponding equivalent
+circuit is shown in the figure inset, a setup-associated inductance
+(<italic>L</italic>) was always observed at high frequencies followed
+by a resistive contribution (<italic>R</italic><sub>TF</sub>), in
+series with an <italic>R</italic><sub>e</sub>&#x02013;CPE<sub>e</sub> contribution at low frequencies. The setup-associated inductance
+is displayed as negative Z&#x02033; values that correspond to a high-frequency
+inductive response of the measurement system (electrometer and wires)
+that cannot be eliminated.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> The series
+resistance <italic>R</italic><sub>TF</sub> is interpreted as the ohmic
+resistance associated with the Li<sup>+</sup> conduction through the
+thin film, whereas the low-frequency contribution is associated with
+electrode-related phenomena. Moreover, note that the expected electronic
+resistance associated with contacts and cables, incorporated in the <italic>R</italic><sub>TF</sub> contribution, is much lower than that associated
+with the Li<sup>+</sup> mobility and can thus be neglected.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Obtained electrochemical
+impedance spectra of the LiPON_100 thin-film
+electrolyte at 150, 200, and 250 &#x000b0;C along with the used equivalent
+circuit and the schematic illustration of the setup for the electrical
+measurement of the film samples.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0006" id="gr5" position="float"/></fig><p>The temperature dependence of the electrolyte resistivity
+is widely
+studied in the reported literature,<sup><xref ref-type="bibr" rid="ref51">51</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup> being a thermally
+activated conduction mechanism that follows the Arrhenius equation
+(<xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref>)<sup><xref ref-type="bibr" rid="ref53">53</xref></sup><disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_m003" position="anchor"/><label>3</label></disp-formula>where &#x003c3;<sub>o</sub> is
+the pre-exponential factor related to the number of charge carriers, <italic>T</italic> is the temperature in Kelvin, <italic>k</italic> is the
+Boltzmann constant, and <italic>E</italic><sub>a</sub> is the activation
+energy of the diffusion process.</p><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> presents
+the Arrhenius representation of the ionic conductivity calculated
+from the measured impedance at different temperatures for the three
+samples under study. Two clear observations can be drawn from this
+figure. First, the ionic conductivity of LiPON significantly increases
+with the incorporation of nitrogen, reaching a maximum value of 9.56&#x000d7;10<sup>&#x02013;2</sup> S cm<sup>&#x02013;1</sup> at 250 &#x000b0;C for the LiPON_100
+film. Second, the activation energy is slightly reduced, from 0.58
+to 0.53 eV for the LiPON_0 and 100, respectively. These results match
+well with previous observations in the literature since N substitution
+in the Li<sub>3</sub>PO<sub>4</sub> glass structure seems to reduce
+the non-bridging vs bridging P&#x02013;O bond ratio, favoring the Li<sup>+</sup> hopping through the LiPON network.<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref54">54</xref></sup> Also, from a processing perspective, the results suggest that a
+N<sub>2</sub>-saturated background pressure during sputtering deposition
+is preferred for the incorporation of the optimum amount of N in the
+LiPON system. By extrapolating the ionic conductivity to room temperature
+(RT), the best-performing film, LiPON_100, reaches a conductivity
+of 2.48&#x000d7;10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup>, in good
+agreement with the literature (see, <italic>e.g.</italic>, Bates and
+co-workers, who measured &#x0223c;2&#x000d7;10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup> at 25 &#x000b0;C in films deposited also by sputtering
+Li<sub>3</sub>PO<sub>4</sub> in pure N<sub>2</sub>).<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> These results validate, from a Li<sup>+</sup>-ion mobility
+perspective, the use of LiPON_100 as a solid electrolyte in this work.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Arrhenius
+plots of ionic conductivity and activation energy at
+room temperature for samples LiPON_0, LiPON_50, and LiPON_100.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0007" id="gr6" position="float"/></fig></sec><sec id="sec3.2"><label>3.2</label><title>Anode Characterization</title><p>The lithium
+films were deposited on SS substrates and presented a granulated and
+highly dense structure, as can be seen in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S3</ext-link> of the SI. Moreover, the lithium surface roughness is induced
+by the morphology of the SS substrate. The elemental characterization
+of the as-deposited lithium surface was carried out using XPS. <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref> shows the survey
+spectrum, along with the Li 1s, O 1s, and C 1s regions acquired with
+higher resolution. The atomic concentration values were calculated
+from the peak areas of each element in the survey spectrum, considering
+the corresponding relative sensitivity factors and the equipment transmission
+function. From obtained atomic concentration values, it can be concluded
+that the surface layer consists of lithium (49.9%), oxygen (37.9%)
+and, carbon (7.5%). Besides the adventitious carbon and surface oxides,
+some fluorine traces (4.7%) were also detected: most probably coming
+from the Viton gaskets used in the XPS chamber. According to the O
+1s and C 1s regions, where Li<sub>2</sub>CO<sub>3</sub> and Li<sub>2</sub>O/Li<sub>2</sub>O<sub>2</sub> components appear, it can be
+concluded that the as-deposited anode surface mainly consists of oxides
+and carbonates. Based on these deconvolutions, it is also possible
+to identify the different species that are usually overlapping in
+the Li 1s region, namely, LiOH, Li<sub>2</sub>CO<sub>3</sub>, Li<sub>2</sub>O/Li<sub>2</sub>O<sub>2</sub>, LiF, and to a significantly
+lesser extent Li<sup>0</sup>. All these contaminants result from the
+reaction of Li with traces of O<sub>2</sub>, CO<sub>2</sub>, F, and
+H<sub>2</sub>O present in the process chamber even when not exposed
+to air.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>XPS survey spectra, Li 1s (inset graph), C 1s, and O 1s regions
+of the evaporated lithium deposited on the SS substrate (Mg K&#x003b1;
+source). The normalized surface atomic concentration is also shown
+in the figure.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0008" id="gr7" position="float"/></fig><p>The electrochemical performance of the LNMO//Li
+thin-film cell
+assembled with the conventional liquid electrolyte as a separator
+is added in the SI (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S4</ext-link>).</p></sec><sec id="sec3.3"><label>3.3</label><title>Electrochemical Performance of the All-Solid-State
+Cell</title><p>In <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a, the ASSB stack is shown after deposition of all components, which
+can be clearly differentiated. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b shows the cross-sectional SEM image of the thin-film
+cell. The whole cathode/electrolyte/anode cell stack has a thickness
+below 5 &#x003bc;m. This particular cross section image was obtained
+using silicon as the substrate due to its handling advantages in terms
+of ease of cleavage (note that this substrate is not the one used
+for functional ASSBs). A columnar layer of LNMO with an approximate
+thickness of 1 &#x003bc;m and, on top of the latter, a smooth surface
+film of LiPON can be observed in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b. The good adhesion between the different
+defect-free and uniform thin films, with no evidence of any intermediate
+newly formed layer, can also be inferred from this figure. For the
+anode, a non-uniform surface was obtained. In addition, the Li thin
+film was covered with a titanium layer, deposited by DC magnetron
+sputtering, in order to avoid the interaction/degradation of Li metal
+under the SEM electron beam.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>(a) Appearance of the ASSB full cell. Different
+layers can be identified
+depending on the diameter of the masks used to deposit them. (b) Cross-sectional
+SEM image of the battery stack deposited on a silicon substrate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0009" id="gr8" position="float"/></fig><p><xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref> shows a
+diagram of the three cells with different anode structures analyzed
+in this work: LNMO/LiPON/Li foil, LNMO/LiPON/Li foil + liquid electrolyte
+drop, and LNMO/LiPON/evaporated Li. They will be referred hereinafter
+as ASSB_Foil, ASSB_Drop_Foil, and ASSB_ThinFilm, respectively. It
+is important to note that considering the density and homogeneity
+of LiPON films (<xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref> and <xref rid="fig8" ref-type="fig">8</xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S1</ext-link>) along with the larger area of the LiPON film with respect to the
+LNMO one, the possibility of having direct contact of the liquid electrolyte
+with the LNMO is negligible.</p><fig id="fig9" position="float"><label>Figure 9</label><caption><p>Schematic diagrams of the tested cell structures:
+(a) ASSB_Foil,
+(b) ASSB_Drop_Foil, and (c) ASSB_ ThinFilm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0010" id="gr9" position="float"/></fig><p><xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref>a shows
+the discharge specific capacity and the corresponding CE of ASSB_Foil,
+ASSB_Drop_Foil, and ASSB_ ThinFilm at different C-rates (between 3.5
+and 5 V vs Li/Li<sup>+</sup>). At C/20, the discharge specific capacity
+of ASSB_Foil was 33.0 mAh g<sup>&#x02013;1</sup>, much lower than the
+other two samples. When the drop of liquid electrolyte is introduced,
+ASSB_Drop_Foil, the initial value at C/20 reached 121.1 mAh g<sup>&#x02013;1</sup>. However, this value decreases rapidly over the first
+5 cycles at this C-rate, losing 52.9% of its initial value. This may
+be due to the irreversible reactions triggered by the liquid electrolyte
+that occur at the interlayers during the first few cycles, leading
+to the formation of an SEI in the Li anode as suggested by the electrochemical
+response of the LNMO//Li cell assembled with the liquid electrolyte
+and shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S4</ext-link>. This deterioration
+was not that evident in the case of the thin-film cell, ASSB_ThinFilm,
+which in the fifth cycle only loses 15.6% of its initial value (80.5
+mAh g<sup>&#x02013;1</sup>). At C/10, the highest discharge specific
+capacity value corresponds to ASSB_ThinFilm, 48.8 mAh g<sup>&#x02013;1</sup>, better than the 40.9 and 16.4 mAh g<sup>&#x02013;1</sup> of ASSB_Drop_Foil
+and ASSB_Foil, respectively. By increasing the C-rate to C/5, the
+ASSB_ThinFilm, ASSB_Drop_Foil, and ASSB_Foil cells retain 52.5, 51.8,
+and 25.0% of their capacities at C/10, respectively. The 85.2% is
+lost at C/2 in the thin-film case, the 89.3% in the lithium foil with
+drop case, and almost 100% in the lithium foil without drop case.
+Although in all three cells, the capacity is reduced down to zero
+at 1C, they recover 94.6, 52.9, and almost 100% (ASSB_ThinFilm, ASSB_Drop_Foil,
+and ASSB_Foil, respectively) of their initial specific discharge capacities
+upon cycling back to C/20 (note that these values were calculated
+based on the first cycle at C/20). In the last long cycling at C/20,
+the discharge specific capacity values (ASSB_ThinFilm &#x0003e; ASSB_Drop_Foil
+&#x0003e; ASSB_Foil) remain relatively stable. As is can be seen, the liquid
+electrolyte drop enhances ion diffusion between the lithium foil and
+the LiPON. Even so, the result can be improved by using evaporated
+lithium. Unfortunately, in cycle 37, the ASSB_ThinFilm begins to lose
+the specific discharge capacity, short-circuiting the battery. The
+formation of lithium dendrites may be the cause of this deterioration.</p><fig id="fig10" position="float"><label>Figure 10</label><caption><p>(a)
+Discharge specific capacity (filled squares) and corresponding
+Coulombic efficiency (filled circle) at different C-rates and (b)
+d<italic>Q</italic>/d<italic>V</italic> vs voltage curves derived
+from the charge/discharge cycle at C/20 of ASSB_Foil, ASSB_Drop_Foil,
+and ASSB_ThinFilm cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0011" id="gr10" position="float"/></fig><p>Regarding the CE, rather low values were obtained
+in the first
+cycle, particularly in the case of the ASSB_Drop_Foil (55.4%, versus
+64.8 and 66.8% of ASSB_ThinFilm and ASSB_Foil, respectively). This
+is ascribed to the liquid electrolyte decomposition process in the
+anode interface at high voltages occurring predominantly during the
+charge.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> The first cycle has been included
+in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">SI</ext-link>. The LiPON, besides its role
+as a solid electrolyte, also acts as a cathode protector.<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> For the rest of the cycle, ASSB_Foil shows a CE of 97.3% in the
+last cycle at C/20, exceeding 98% at C/10 and reaching almost 100%
+at C/5. ASSB_Drop_Foil was below 94% in the last cycle at C/20, while
+the CE was 96.6 and 98.8% at C/10 and C/5, respectively. Furthermore,
+higher CE values for the ASSB_Foil than for the ASSB_Drop_Foil were
+observed during long cycling at C/20: 98.9 and 97.3%, respectively.
+In the case of ASSB_ThinFilm, the CE remains below the other two cells,
+up to 81.0% during the initial cycling stage at C/20, reaching a maximum
+value of 97.4% at high C-rates (C/2) and around 80% during the last
+long cycling at C/20. A possible explanation for the pronounced difference
+observed in the CE may likely rely on the high reactivity of the evaporated
+lithium with the solid electrolyte; in addition, more unwanted reactions
+are expected for ASSB_ThinFilm cells than for ASSB_Foil cells due
+to the high surface-to-volume ratio, typical of thin-film electrodes.</p><p>The ASSB_ThinFilm cell electrochemical performance is limited,
+particularly if it is compared with a previous report of the same
+cell grown by RF sputtering on Pt-coated Al<sub>2</sub>O<sub>3</sub> substrates.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> In this case, the cell delivered
+a first cycle capacity of 122 mAh g<sup>&#x02013;1</sup> at C/10 and
+a 90.6% capacity retention after 10,000 cycles and a 99.98% Coulombic
+efficiency. During the revision process of this work, another report
+on thin-film LNMO/LiPON/Li cells grown by pulsed laser deposition
+(PLD) on Pt-coated Al<sub>2</sub>O<sub>3</sub> substrates was published.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> This work presented a cell that delivered 99.6%
+Coulombic efficiency after 600 cycles; however, the reported capacity
+values of the cell were not very high: &#x0223c;18 &#x003bc;Ah cm<sup>&#x02013;2</sup> &#x003bc;m<sup>&#x02013;1</sup> as normalized to the
+cathode thickness, three times lower than the capacity of our cathode
+(65 &#x003bc;Ah cm<sup>&#x02013;2</sup> &#x003bc;m<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> In any case, it is worth mentioning that those
+two reports on thin-film LNMO/LiPON/Li cells present results of batteries
+that have been grown on Pt-coated Al<sub>2</sub>O<sub>3</sub> substrates,
+with the Pt cost at $28,000 kg<sup>&#x02013;1</sup>, using evaporation
+techniques, namely, RF magnetron sputtering and PLD, which involve
+a much higher production cost than the ones used in this work.</p><p>In order to analyze the redox reactions and voltage hysteresis
+between the charge and discharge of the battery, differential capacity
+curves (d<italic>Q</italic>/d<italic>V</italic>) were used (<xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref>b). In all three
+cells, during charge (from 3.5 to 5 V vs Li/Li<sup>+</sup>) and discharge
+(from 5 to 3.5 V vs Li/Li<sup>+</sup>), two high-voltage transitions
+can be distinguished related to the successive oxidation of Ni<sup>2+</sup> to Ni<sup>3+</sup> and Ni<sup>4+</sup>. In addition, another
+capacity contribution corresponding to the presence of Mn<sup>3+</sup> (redox pair Mn<sup>3+</sup>/Mn<sup>4+</sup>) at around 4 V vs Li/Li<sup>+</sup> is also revealed, particularly in the ASSB_Drop_Foil cell.
+In the case of ASSB_Foil, the nickel-related redox peaks appear during
+the charge at 4.90 and 4.97 V vs Li/Li<sup>+</sup> (Ni<sup>2+/3+</sup> and Ni<sup>3+/4+</sup>, respectively), while, during discharge,
+they appear at 4.37 and 4.43 V vs Li/Li<sup>+</sup>, the second transition
+being less pronounced than the first one. This voltage difference
+leads to a hysteresis of 0.53 V, higher than in the other two cells:
+0.26 V for the ASSB_Drop_Foil cell and 0.39 V for the ASSB_ThinFilm
+cell. These results prove that the liquid electrolyte drop at the
+interface between the Li foil anode and LiPON electrolyte can effectively
+weaken the polarization during charge and discharge, most probably
+due to an improvement of the lithium-ion migration. Importantly, the
+evaporated lithium reduces this polarization without the need of introducing
+any liquid component, thus improving battery safety.</p><p>For a better
+analysis of the internal resistance, an EIS study
+was carried out. The data were collected in the 100 mHz&#x02013;7 MHz
+frequency range once the cell was assembled. <xref rid="fig11" ref-type="fig">Figure <xref rid="fig11" ref-type="fig">11</xref></xref> shows the Nyquist plots of ASSB_Foil, ASSB_Drop_Foil,
+and ASSB_ThinFilm cells fitted with the proposed equivalent circuit
+(see inset drawing). For the sake of clarity, the zoomed graph is
+included in the right-inset graph. The impedance curves show a semicircle
+at a high frequency (HF) followed by a more prominent semicircle at
+mid frequency (MF) and ending with a semicircular tail at low frequency
+(LF). A possible explanation of the equivalent circuit could be as
+follows: the HF contribution is originated by the <italic>R</italic><sub>int</sub>&#x02013;CPE<sub>int</sub> contribution of interfacial
+layers in series with the electrolyte ohmic resistance (<italic>R</italic><sub>&#x003a9;</sub>), corresponding to the Li<sup>+</sup> resistance
+across the electrolyte (the expected electronic resistance associated
+with contacts and cables was neglected). The semicircle at MF is ascribed
+to a charge-transfer resistance and a double-layer capacitance (<italic>R</italic><sub>CT</sub>&#x02013;CPE<sub>DL</sub>), both connected
+in parallel. Finally, the LF range is ascribed to an RC semicircle
+associated with bulk electronic resistance (<italic>R</italic><sub>e</sub>) and charge accumulation capacitance (CPE<sub>e</sub>) along
+with the Warburg diffusion element (Zw) that accounts for the sloping
+line ascribed to the solid-state diffusion of Li<sup>+</sup> in the
+crystal. <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref> presents
+the fitted values for the high-frequency part, which is the one ascribed
+to the interface processes. Since different samples are involved,
+the results have been normalized concerning the area for resistance
+(area-specific resistance, ASR) in &#x003a9; cm<sup>2</sup> and capacity
+in F cm.</p><fig id="fig11" position="float"><label>Figure 11</label><caption><p>Nyquist plots of ASSB_Foil, ASSB_Drop_Foil, and ASSB_ThinFilm along
+with the equivalent circuit and the fitted data.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0012" id="gr11" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Values Corresponding to the Interfacial
+Layer (<italic>R</italic><sub>int</sub>&#x02013;<italic>C</italic><sub>int</sub>) Contribution, Charge-Transfer Resistance and a Double-Layer
+Capacitance (<italic>R</italic><sub>CT</sub>&#x02013;<italic>C</italic><sub>DL</sub>), and Respective Time Constants (&#x003c4; = <italic>R</italic><italic>C</italic>)</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">ASSB_Foil</th><th style="border:none;" align="center">ASSB_Drop_Foil</th><th style="border:none;" align="center">ASSB_ThinFilm</th></tr></thead><tbody><tr><td style="border:none;" align="left"><italic>R</italic><sub>int</sub> (&#x003a9; cm<sup>2</sup>)</td><td style="border:none;" align="left">530</td><td style="border:none;" align="left">30</td><td style="border:none;" align="left">105</td></tr><tr><td style="border:none;" align="left"><italic>C</italic><sub>int</sub> (F&#x000a0;cm<sup>&#x02013;2</sup>)</td><td style="border:none;" align="left">3.2 &#x000d7; 10<sup>&#x02013;9</sup></td><td style="border:none;" align="left">2.6
+&#x000d7; 10<sup>&#x02013;8</sup></td><td style="border:none;" align="left">1.1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;8</sup></td></tr><tr><td style="border:none;" align="left">&#x003c4;<sub>int</sub> (s)</td><td style="border:none;" align="left">1.7 &#x000d7; 10<sup>&#x02013;6</sup></td><td style="border:none;" align="left">7.8&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;7</sup></td><td style="border:none;" align="left">1.2 &#x000d7; 10<sup>&#x02013;6</sup></td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>CT</sub> (&#x003a9; cm<sup>2</sup>)</td><td style="border:none;" align="left">6,198</td><td style="border:none;" align="left">1,070</td><td style="border:none;" align="left">697</td></tr><tr><td style="border:none;" align="left"><italic>C</italic><sub>DL</sub> (F cm<sup>&#x02013;2</sup>)</td><td style="border:none;" align="left">2.8&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;8</sup></td><td style="border:none;" align="left">4.3 &#x000d7; 10<sup>&#x02013;6</sup></td><td style="border:none;" align="left">1.8 &#x000d7; 10<sup>&#x02013;7</sup></td></tr><tr><td style="border:none;" align="left">&#x003c4;<sub>CT&#x02013;DL</sub> (s)</td><td style="border:none;" align="left">1.7 &#x000d7; 10<sup>&#x02013;4</sup></td><td style="border:none;" align="left">4.6 &#x000d7; 10<sup>&#x02013;3</sup></td><td style="border:none;" align="left">1.3 &#x000d7; 10<sup>&#x02013;4</sup></td></tr></tbody></table></table-wrap><p>The different RC contributions of the three cells
+could be compared
+considering the value of &#x003c4;. In the first contribution, the three
+samples are roughly of the same order of magnitude (10<sup>&#x02013;6</sup>), suggesting that they correspond to the same interfacial feature.
+Particularly, they refer to the formation of a passivating layer on
+the electrode/electrolyte interface. The value of the resistance (<italic>R</italic><sub>int</sub>) follows this trend for the different cells:
+ASSB_Drop_Foil &#x0003c; ASSB_ThinFilm &#x0226a; ASSB_Foil. In the ASSB_Foil
+cell, the poor contact between the lithium and the solid electrolyte
+makes the formation of the SEI layer between them highly resistive.
+By improving the contact by adding a liquid electrolyte, the <italic>R</italic><sub>int</sub> was reduced to 30 &#x003a9; cm<sup>2</sup>, resulting in a significant improvement of the SEI. The ASSB_ThinFilm
+cell achieved an intermediate resistance, exactly 105 &#x003a9; cm<sup>2</sup>. The interfacial reactions between the evaporated lithium
+anode and the solid electrolyte seem to be more active than those
+corresponding to the lithium foil. This high reactivity, and the absence
+of contaminating species that are typically present on the surface
+of commercial lithium foil, helps the formation of a better SEI, thus
+improving contact.</p><p>The &#x003c4; of the second semicircle also
+coincides in all three
+samples (&#x0223c;10<sup>&#x02013;4</sup> s). Interestingly, a lower
+charge-transfer resistance was obtained in the case of the evaporated
+lithium, 698 &#x003a9; cm<sup>2</sup> vs 1,070 and 6,199 &#x003a9; cm<sup>2</sup> for ASSB_Drop_Foil and ASSB_Foil cells, respectively. This
+improvement in the pass through of Li ions could be caused by a larger
+contact surface. The fact that lithium is deposited directly on the
+LiPON surface, without the need to introduce a bonding medium, results
+in a more active area. The higher resistance of the ASSB_Drop cell
+may also be due to the fact that there are two media through which
+the Li must pass (two charge transfers; from Li ions to liquid and
+from liquid to LiPON). In the case of ASSB_Foil, the roughness and
+stiffness of the Li foil make the active surface smaller, which would
+be behind the highest charge-transfer resistance observed.</p><p>For
+a better interpretation, <xref rid="fig12" ref-type="fig">Figure <xref rid="fig12" ref-type="fig">12</xref></xref> shows a schematic representation of the
+anode/electrolyte interface of ASSB_Foil, ASSB_Drop_Foil, and ASSB_ThinFilm
+cells. In the ASSB_Foil case, where the lithium foil is placed directly
+on top of the solid electrolyte, the Li-ion diffusion paths are limited
+by the voids created in the interface due to the poor adhesion between
+the Li foil and the LiPON.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> When a drop
+of liquid electrolyte is added, the voids are filled, improving their
+contact although adding an extra media for the Li to cross. For the
+ASSB_ThinFilm cell, the lithium was evaporated, avoiding possible
+voids due to the adaptation of the lithium atoms to the roughness
+of the LiPON.</p><fig id="fig12" position="float"><label>Figure 12</label><caption><p>Schematic illustration of the anode/solid electrolyte
+interface
+of (a) ASSB_Foil, (b) ASSB_Drop_Foil, and (C) ASSB_ThinFilm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_0013" id="gr12" position="float"/></fig><p>Finally, to validate the successful implementation
+of the monolithic
+high-voltage all-solid-state thin-film battery deposited layer by
+layer, a series of voltage tests were performed. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S7b</ext-link> of the Supporting Information shows the nominal
+voltage of the assembled high-voltage pouch cell delivering 4.72 V.
+Moreover, the cell was able to light two 2.1 V forward voltage red
+LEDs arranged in series (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">Figure S7c</ext-link> of
+the Supporting Information). This is something that cannot be done
+with a conventional Li-ion battery as shown in the comparative experiment
+shown in the movie uploaded as a web-enhanced object where the lighting
+of the two 2.1 V red LEDs was attempted by a commercial Li-ion battery
+and our high-voltage battery (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_002.avi">Video S1</ext-link>).</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>In this work, a functional
+high-voltage, all-solid-state thin-film
+lithium-ion battery composed of LNMO as the cathode, LiPON as the
+solid electrolyte, and an evaporated lithium anode has been deposited
+layer by layer on a low-cost stainless-steel current collector. At
+$1.5 kg<sup>&#x02013;1</sup>, the cost of stainless steel is five times
+lower than Cu at $8 kg<sup>&#x02013;1</sup> and three orders of magnitude
+lower than Pt at &#x0223c;$28,000 kg<sup>&#x02013;1</sup>. Considering
+that stainless steel is already commercially available in &#x0003e;20 &#x003bc;m-thick
+foils, there can be a great saving with respect to conventional cells
+using Cu as the current collector or other thin-film cells that rely
+on 0.65 &#x003bc;m-thick Pt layers, which have to be supported on an
+additional substrate. In terms of processing techniques, the AC magnetron
+sputtering technique used for the cathode growth is an effective physical
+vapor deposition technique that has several advantages over its RF
+magnetron sputtering counterpart. Besides improving process stability
+and increasing deposition rates, it is a processing technique that
+is used at lower power levels, with a low degree of technical complexity,
+hence resulting in a cost-effective processing method. The main cost
+difference is found on the power supply, which can range from $4,000
+for a 10 kW AC power supply to $3,000 for a 600 W RF power supply,
+again several orders of magnitude difference in favor of AC magnetron
+sputtering, which needs lower maintenance and can reach deposition
+rates on oxide materials up to 100 nm min<sup>&#x02013;1</sup>, while
+RF magnetron sputtering yields deposition rates of 1 nm min<sup>&#x02013;1</sup>. Altogether, it represents a considerable cost reduction when using
+AC magnetron sputtering.</p><p>Before assembling the cells, each electroactive
+component of the
+battery has been characterized separately. All the deposited LiPON
+samples show smooth and highly dense structures with no signs of crystallization.
+The high impedance at RT evidenced the need for higher temperatures
+for a proper analysis of the LiPON ionic conductivity by means of
+the Arrhenius equation. The ionic conductivity increased with the
+temperature, being higher in samples deposited with a larger nitrogen
+percentage. As a result, the higher ionic conductivity at RT of 2.48&#x000d7;10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup> corresponds to the N<sub>2</sub>-saturated sputtering process, in good accordance with the
+literature. Moreover, the XPS shows a broad signal that can be resolved
+with N<sub>d</sub> and N<sub>t</sub> components and the analysis matches
+well with the proposed O-substitution theoretical models, suggesting
+efficient nitrogen incorporation. All in all, this indicates that
+a N<sub>2</sub>-saturated background pressure is preferred for the
+incorporation of the optimum amount of N in the LiPON solid electrolyte
+system. Lithium anode thin films of approx. 1 &#x003bc;m were prepared
+by thermal evaporation on a stainless-steel substrate. The deposited
+lithium thin films presented a granulated and highly dense structure,
+with a substrate-induced roughness. Because of the high reactivity
+of the evaporated lithium, the surface mainly consists of oxides and
+carbonate species. Finally, the build-up of a high-voltage all-solid-state
+thin-film battery by combining the optimized functional films (electrode
+and electrolyte) was performed, sequentially depositing on a stainless-steel
+substrate.</p><p>To validate the successful implementation of the
+thin-film battery,
+a comparison of the electrochemical performance of the microbattery
+using evaporated lithium as well as lithium foil (commonly employed)
+was done. The lack of contact between the lithium foil and the LiPON
+limits the diffusion of ions between the anode and the electrolyte,
+thereby impairing the electrochemical performance of the cell. The
+addition of a liquid electrolyte drop provides a homogeneous interface,
+reaching 121.12 mAh g<sup>&#x02013;1</sup> at C/20. The reduced cycle
+life of the evaporated lithium cell could have its origin in the Li
+film that presents a rougher morphology than the LNMO and LiPON layers.
+The low Coulombic efficiency, between 80 and 95%, of the evaporated
+lithium cell, in contrast with the higher values in the 95&#x02013;99.9%
+range observed for the Li foil cell, is ascribed to interface reactions
+between LiPON and evaporated Li, which is highly reactive on its atomic
+form while being helped by the typically enhanced high surface-to-volume
+ratio of thin films. In any case, the evaporated lithium cells reach
+a higher specific capacity after 25 cycles, &#x0003e;70 mAh g<sup>&#x02013;1</sup>, for the evaporated Li cell, in contrast with the values below 60
+mAh g<sup>&#x02013;1</sup> when using Li foil plus liquid electrolyte
+and the values below 40 mAh g<sup>&#x02013;1</sup> when using Li foil.
+These results indicate a significant progress in the good direction
+toward the consecution of a commercial high-voltage thin-film battery
+supported on low-cost and abundant stainless-steel substrates.</p></sec></body><back><notes id="notes5" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsaem.2c01581?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsaem.2c01581</ext-link>.<list id="silist" list-type="simple"><list-item><p>(Section S1) Top-view SEM images of LiPON thin films
+deposited with different Ar-N<sub>2</sub> content, (Section S2) partial
+structure of nitride Li<sub>3</sub>PO<sub>4</sub> thin film, (Section
+S3) SEM images of the evaporated lithium on the SS substrate sample,
+(Section S4) C-rate of the LNMO//Li thin film cell assembled with
+the conventional liquid electrolyte as a separator, (Section S5) EDS
+mapping of the ASSB, (Section S6) initial cycle and differential capacity
+curves of the ASSB cells, and (Section S7) ASSB encapsulation system
+and validation (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_001.pdf">PDF</ext-link>)</p></list-item><list-item><p>Lighting of red LEDs using a commercial Li-ion battery
+and the high-voltage battery in the study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.2c01581/suppl_file/ae2c01581_si_002.avi">AVI</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_si_001.pdf"><caption><p>ae2c01581_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae2c01581_si_002.avi"><caption><p>ae2c01581_si_002.avi</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes1"><title>Author Present Address</title><p><sup>&#x02225;</sup> IDETEC, Basque Research and Technology Alliance (BRTA), Parque
+Cient&#x000ed;fico y Tecnol&#x000f3;gico de Gipuzkoa, Miramon
+Pasealekua 196, 20014 Donostia-San Sebasti&#x000e1;n, Spain</p></notes><notes notes-type="" id="notes2"><title>Author Present Address</title><p><sup>&#x022a5;</sup> CENER (National Renewable Energy Centre), Av. Ciudad de la Innovaci&#x000f3;n
+7, 31621 Sarriguren, Spain.</p></notes><notes notes-type="" id="notes3"><title>Author Present Address</title><p><sup>#</sup> School of
+Science and Technology &#x02013; Chemistry Division, University
+of Camerino, Via Madonna delle Carceri, 62032 Camerino, Italy.</p></notes><notes notes-type="" id="notes4"><title>Author Present Address</title><p><sup>&#x02207;</sup> Interface Science Department. Fritz Haber Institute
+of the Max
+Planck Society, Faradayweg 4-6, 14195 Berlin, Germany.</p></notes><notes notes-type="" id="notes6"><title>Author Contributions</title><p>The manuscript
+was written through contributions of all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1609-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Victor Bellido-Gonzalez from Gencoa Ltd. (U.K.)
+is acknowledged for his comments and suggestions. The authors acknowledge
+the financial support from European H2020 project MONBASA (Monolithic
+Batteries for Spaceship Applications, grant no. 687561) and Basque
+Government through Elkartek 2017 program with the project Elkartek
+CICe2017-L4.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Armand</surname><given-names>M.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Building Better Batteries</article-title>. <source>Nature</source>
+<year>2008</year>, <volume>451</volume>, <fpage>652</fpage>&#x02013;<lpage>657</lpage>. <pub-id pub-id-type="doi">10.1038/451652a</pub-id>.<pub-id pub-id-type="pmid">18256660</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Qian</surname><given-names>G.</given-names></name>; <name><surname>Liao</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Pan</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>
+<article-title>Designing Flexible Lithium-Ion Batteries by Structural Engineering</article-title>. <source>ACS Energy Lett.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>690</fpage>&#x02013;<lpage>701</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.8b02496</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Xia</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>
+<article-title>Practical Challenges
+and Future Perspectives of All-Solid-State Lithium-Metal Batteries</article-title>. <source>Chem</source>
+<year>2019</year>, <volume>5</volume>, <fpage>753</fpage>&#x02013;<lpage>785</lpage>. <pub-id pub-id-type="doi">10.1016/j.chempr.2018.11.013</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Jiang</surname><given-names>Z.</given-names></name>; <name><surname>Han</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>
+<article-title>Reducing the Interfacial Resistance
+in All-Solid-State Lithium Batteries Based on Oxide Ceramic Electrolytes</article-title>. <source>ChemElectroChem</source>
+<year>2019</year>, <volume>6</volume>, <fpage>2970</fpage>&#x02013;<lpage>2983</lpage>. <pub-id pub-id-type="doi">10.1002/celc.201801898</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>
+<article-title>A Solid Future for Battery Development</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>1</fpage>&#x02013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1038/nenergy.2016.141</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Ma</surname><given-names>C.</given-names></name>; <name><surname>Chi</surname><given-names>M.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>
+<article-title>Solid Electrolyte:
+The Key for High-Voltage Lithium Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1401408</fpage><pub-id pub-id-type="doi">10.1002/aenm.201401408</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Neudecker</surname><given-names>B. J.</given-names></name>
+<article-title>Solid State
+Thin-Film Lithium Battery Systems</article-title>. <source>Curr. Opin.
+Solid State Mater. Sci.</source>
+<year>1999</year>, <volume>4</volume>, <fpage>479</fpage>&#x02013;<lpage>482</lpage>. <pub-id pub-id-type="doi">10.1016/S1359-0286(99)00052-2</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Dudney</surname><given-names>N. J.</given-names></name>
+<article-title>Thin Film
+Micro-Batteries</article-title>. <source>Electrochem. Soc. Interface</source>
+<year>2008</year>, <volume>17</volume>, <fpage>44</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1149/2.F04083IF</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Bates</surname><given-names>J. B.</given-names></name>; <name><surname>Gruzalski</surname><given-names>G. R.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Luck</surname><given-names>C. F.</given-names></name>; <name><surname>Yu</surname><given-names>X.</given-names></name>
+<article-title>Rechargeable
+Thin-Film Lithium Batteries</article-title>. <source>Solid State Ionics</source>
+<year>1994</year>, <volume>70-71</volume>, <fpage>619</fpage>&#x02013;<lpage>628</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(94)90383-2</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Arnell</surname><given-names>R. D.</given-names></name>; <name><surname>Kelly</surname><given-names>P. J.</given-names></name>
+<article-title>Recent Advances
+in Magnetron Sputtering</article-title>. <source>Surf. Coat. Technol.</source>
+<year>1999</year>, <volume>112</volume>, <fpage>170</fpage>&#x02013;<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1016/S0257-8972(98)00749-X</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Swann</surname><given-names>S.</given-names></name>
+<article-title>Magnetron
+Sputtering</article-title>. <source>Phys. Technol.</source>
+<year>1988</year>, <volume>19</volume>, <fpage>67</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1088/0305-4624/19/2/304</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Safi</surname><given-names>I.</given-names></name>
+<article-title>Recent Aspects
+Concerning DC Reactive Magnetron Sputtering of Thin Films: A Review</article-title>. <source>Surf. Coat. Technol.</source>
+<year>2000</year>, <volume>127</volume>, <fpage>203</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1016/s0257-8972(00)00566-1</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Jayanth
+Babu</surname><given-names>K.</given-names></name>; <name><surname>Jeevan Kumar</surname><given-names>P.</given-names></name>; <name><surname>Hussain</surname><given-names>O. M.</given-names></name>
+<article-title>Microstructural and Electrochemical
+Properties of Rf-Sputtered LiMn<sub>2</sub>O<sub>4</sub> Thin Film
+Cathodes</article-title>. <source>Appl. Nanosci. (Switzerland)</source>
+<year>2012</year>, <volume>2</volume>, <fpage>401</fpage>&#x02013;<lpage>407</lpage>. <pub-id pub-id-type="doi">10.1007/s13204-011-0054-8</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Julien</surname><given-names>C. M.</given-names></name>; <name><surname>Mauger</surname><given-names>A.</given-names></name>; <name><surname>Hussain</surname><given-names>O. M.</given-names></name>
+<article-title>Sputtered
+LiCoO<sub>2</sub> Cathode
+Materials for All-Solid-State Thin-Film Lithium Microbatteries</article-title>. <source>Materials</source>
+<year>2019</year>, <volume>12</volume>, <fpage>1</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.3390/ma12172687</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Sugiawati</surname><given-names>V. A.</given-names></name>; <name><surname>Vacandio</surname><given-names>F.</given-names></name>; <name><surname>Perrin-Pellegrino</surname><given-names>C.</given-names></name>; <name><surname>Galeyeva</surname><given-names>A.</given-names></name>; <name><surname>Kurbatov</surname><given-names>A. P.</given-names></name>; <name><surname>Djenizian</surname><given-names>T.</given-names></name>
+<article-title>Sputtered
+Porous Li-Fe-P-O Film Cathodes Prepared by
+Radio Frequency Sputtering for Li-Ion Microbatteries</article-title>. <source>Sci. Rep.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>11172</fpage><pub-id pub-id-type="doi">10.1038/s41598-019-47464-2</pub-id>.<pub-id pub-id-type="pmid">31371758</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Bates</surname><given-names>J. B.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Gruzalski</surname><given-names>G. R.</given-names></name>; <name><surname>Zuhr</surname><given-names>R. A.</given-names></name>; <name><surname>Choudhury</surname><given-names>A.</given-names></name>; <name><surname>Luck</surname><given-names>C. F.</given-names></name>; <name><surname>Robertson</surname><given-names>J. D.</given-names></name>
+<article-title>Fabrication
+and Characterization
+of Amorphous Lithium Electrolyte Thin Films and Rechargeable Thin-Film
+Batteries</article-title>. <source>J. Power Sources</source>
+<year>1993</year>, <volume>43</volume>, <fpage>103</fpage>&#x02013;<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1016/0378-7753(93)80106-Y</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Lobe</surname><given-names>S.</given-names></name>; <name><surname>Dellen</surname><given-names>C.</given-names></name>; <name><surname>Finsterbusch</surname><given-names>M.</given-names></name>; <name><surname>Gehrke</surname><given-names>H. G.</given-names></name>; <name><surname>Sebold</surname><given-names>D.</given-names></name>; <name><surname>Tsai</surname><given-names>C. L.</given-names></name>; <name><surname>Uhlenbruck</surname><given-names>S.</given-names></name>; <name><surname>Guillon</surname><given-names>O.</given-names></name>
+<article-title>Radio Frequency Magnetron
+Sputtering of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> Thin Films for Solid-State Batteries</article-title>. <source>J. Power
+Sources</source>
+<year>2016</year>, <volume>307</volume>, <fpage>684</fpage>&#x02013;<lpage>689</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.12.054</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Kumatani</surname><given-names>A.</given-names></name>; <name><surname>Shiraki</surname><given-names>S.</given-names></name>; <name><surname>Takagi</surname><given-names>Y.</given-names></name>; <name><surname>Suzuki</surname><given-names>T.</given-names></name>; <name><surname>Ohsawa</surname><given-names>T.</given-names></name>; <name><surname>Gao</surname><given-names>X.</given-names></name>; <name><surname>Ikuhara</surname><given-names>Y.</given-names></name>; <name><surname>Hitosugi</surname><given-names>T.</given-names></name>
+<article-title>Epitaxial Growth of Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> Thin Films Using RF Magnetron Sputtering</article-title>. <source>Jpn. J. Appl. Phys.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>058001</fpage><pub-id pub-id-type="doi">10.7567/JJAP.53.058001</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Lee</surname><given-names>W. H.</given-names></name>; <name><surname>Son</surname><given-names>H. C.</given-names></name>; <name><surname>Moon</surname><given-names>H. S.</given-names></name>; <name><surname>Kim</surname><given-names>Y. I.</given-names></name>; <name><surname>Sung</surname><given-names>S. H.</given-names></name>; <name><surname>Kim</surname><given-names>J. Y.</given-names></name>; <name><surname>Lee</surname><given-names>J. G.</given-names></name>; <name><surname>Park</surname><given-names>J. W.</given-names></name>
+<article-title>Stoichiometry Dependence
+of Electrochemical Performance of Thin-Film SnO<sub>x</sub> Microbattery
+Anodes Deposited by Radio Frequency Magnetron Sputtering</article-title>. <source>J. Power Sources</source>
+<year>2000</year>, <volume>89</volume>, <fpage>102</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-7753(00)00382-7</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Tan</surname><given-names>X. Q.</given-names></name>; <name><surname>Liu</surname><given-names>J. Y.</given-names></name>; <name><surname>Niu</surname><given-names>J. R.</given-names></name>; <name><surname>Liu</surname><given-names>J. Y.</given-names></name>; <name><surname>Tian</surname><given-names>J. Y.</given-names></name>
+<article-title>Recent
+Progress in Magnetron Sputtering Technology Used on Fabrics</article-title>. <source>Materials</source>
+<year>2018</year>, <volume>11</volume>, <fpage>1953</fpage><pub-id pub-id-type="doi">10.3390/ma11101953</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Oleshko</surname><given-names>V. P.</given-names></name>; <name><surname>Lam</surname><given-names>T.</given-names></name>; <name><surname>Ruzmetov</surname><given-names>D.</given-names></name>; <name><surname>Haney</surname><given-names>P.</given-names></name>; <name><surname>Lezec</surname><given-names>H. J.</given-names></name>; <name><surname>Davydov</surname><given-names>A. V.</given-names></name>; <name><surname>Krylyuk</surname><given-names>S.</given-names></name>; <name><surname>Cumings</surname><given-names>J.</given-names></name>; <name><surname>Talin</surname><given-names>A. A.</given-names></name>
+<article-title>Miniature All-Solid-State
+Heterostructure Nanowire Li-Ion Batteries as a Tool for Engineering
+and Structural Diagnostics of Nanoscale Electrochemical Processes</article-title>. <source>Nanoscale</source>
+<year>2014</year>, <volume>6</volume>, <fpage>11756</fpage>&#x02013;<lpage>11768</lpage>. <pub-id pub-id-type="doi">10.1039/c4nr01666a</pub-id>.<pub-id pub-id-type="pmid">25157420</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Christiansen</surname><given-names>A. S.</given-names></name>; <name><surname>Stamate</surname><given-names>E.</given-names></name>; <name><surname>Thyd&#x000e9;n</surname><given-names>K.</given-names></name>; <name><surname>Younesi</surname><given-names>R.</given-names></name>; <name><surname>Holtappels</surname><given-names>P.</given-names></name>
+<article-title>Plasma Properties
+during Magnetron Sputtering of Lithium Phosphorous Oxynitride Thin
+Films</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>273</volume>, <fpage>863</fpage>&#x02013;<lpage>872</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.09.174</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Dudney</surname><given-names>N. J.</given-names></name>
+<article-title>Addition
+of a Thin-Film Inorganic Solid Electrolyte (Lipon) as a Protective
+Film in Lithium Batteries with a Liquid Electrolyte</article-title>. <source>J. Power Sources</source>
+<year>2000</year>, <volume>89</volume>, <fpage>176</fpage>&#x02013;<lpage>179</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-7753(00)00427-4</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Choi</surname><given-names>C. H.</given-names></name>; <name><surname>Cho</surname><given-names>W. I.</given-names></name>; <name><surname>Cho</surname><given-names>B. W.</given-names></name>; <name><surname>Kim</surname><given-names>H. S.</given-names></name>; <name><surname>Yoon</surname><given-names>Y. S.</given-names></name>; <name><surname>Tak</surname><given-names>Y. S.</given-names></name>
+<article-title>Radio-Frequency
+Magnetron Sputtering Power Effect on
+the Ionic Conductivities of Lipon Films</article-title>. <source>Electrochem.
+Solid-State Lett.</source>
+<year>2002</year>, <volume>5</volume>, <fpage>A14</fpage>&#x02013;<lpage>A17</lpage>. <pub-id pub-id-type="doi">10.1149/1.1420926</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Park</surname><given-names>H. Y.</given-names></name>; <name><surname>Nam</surname><given-names>S. C.</given-names></name>; <name><surname>Lim</surname><given-names>Y. C.</given-names></name>; <name><surname>Choi</surname><given-names>K. G.</given-names></name>; <name><surname>Lee</surname><given-names>K. C.</given-names></name>; <name><surname>Park</surname><given-names>G. B.</given-names></name>; <name><surname>Lee</surname><given-names>S. R.</given-names></name>; <name><surname>Kim</surname><given-names>H. P.</given-names></name>; <name><surname>Cho</surname><given-names>S. B.</given-names></name>
+<article-title>Effects
+of Sputtering Pressure on the Characteristics of Lithium Ion Conductive
+Lithium Phosphorous Oxynitride Thin Film</article-title>. <source>J.
+Electroceram.</source>
+<year>2006</year>, <volume>17</volume>, <fpage>1023</fpage>&#x02013;<lpage>1030</lpage>. <pub-id pub-id-type="doi">10.1007/s10832-006-8976-3</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Fleutot</surname><given-names>B.</given-names></name>; <name><surname>Pecquenard</surname><given-names>B.</given-names></name>; <name><surname>Martinez</surname><given-names>H.</given-names></name>; <name><surname>Letellier</surname><given-names>M.</given-names></name>; <name><surname>Levasseur</surname><given-names>A.</given-names></name>
+<article-title>Investigation
+of the Local Structure of LiPON Thin
+Films to Better Understand the Role of Nitrogen on Their Performance</article-title>. <source>Solid State Ionics</source>
+<year>2011</year>, <volume>186</volume>, <fpage>29</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2011.01.006</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Schilcher</surname><given-names>C.</given-names></name>; <name><surname>Meyer</surname><given-names>C.</given-names></name>; <name><surname>Kwade</surname><given-names>A.</given-names></name>
+<article-title>Structural
+and Electrochemical Properties
+of Calendered Lithium Manganese Oxide Cathodes</article-title>. <source>Energy Technol.</source>
+<year>2016</year>, <volume>4</volume>, <fpage>1604</fpage>&#x02013;<lpage>1610</lpage>. <pub-id pub-id-type="doi">10.1002/ente.201600130</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Zhu</surname><given-names>W.</given-names></name>; <name><surname>Trottier</surname><given-names>J.</given-names></name>; <name><surname>Gagnon</surname><given-names>C.</given-names></name>; <name><surname>Barray</surname><given-names>F.</given-names></name>; <name><surname>Guerfi</surname><given-names>A.</given-names></name>; <name><surname>Mauger</surname><given-names>A.</given-names></name>; <name><surname>Groult</surname><given-names>H.</given-names></name>; <name><surname>Julien</surname><given-names>C. M.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Zaghib</surname><given-names>K.</given-names></name>
+<article-title>Spinel Materials for High-Voltage Cathodes in Li-Ion
+Batteries</article-title>. <source>RSC Adv.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>154</fpage>&#x02013;<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1039/c3ra45706k</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Yi</surname><given-names>T. F.</given-names></name>; <name><surname>Mei</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>Y. R.</given-names></name>
+<article-title>Key Strategies for Enhancing the Cycling Stability
+and Rate Capacity of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> as High-Voltage Cathode Materials for High Power Lithium-Ion Batteries</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>316</volume>, <fpage>85</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.03.070</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Fang</surname><given-names>X.</given-names></name>; <name><surname>Ge</surname><given-names>M.</given-names></name>; <name><surname>Rong</surname><given-names>J.</given-names></name>; <name><surname>Che</surname><given-names>Y.</given-names></name>; <name><surname>Aroonyadet</surname><given-names>N.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>A.</given-names></name>; <name><surname>Zhou</surname><given-names>C.</given-names></name>
+<article-title>Ultrathin
+Surface Modification by Atomic Layer Deposition on High Voltage Cathode
+LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> for Lithium Ion Batteries</article-title>. <source>Energy Technol.</source>
+<year>2014</year>, <volume>2</volume>, <fpage>159</fpage>&#x02013;<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1002/ente.201300102</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Baggetto</surname><given-names>L.</given-names></name>; <name><surname>Unocic</surname><given-names>R. R.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Veith</surname><given-names>G. M.</given-names></name>
+<article-title>Fabrication and
+Characterization of Li&#x02013;Mn&#x02013;Ni&#x02013;O Sputtered Thin
+Film High Voltage Cathodes for Li-Ion Batteries</article-title>. <source>J. Power Sources</source>
+<year>2012</year>, <volume>211</volume>, <fpage>108</fpage>&#x02013;<lpage>118</lpage>. <pub-id pub-id-type="doi">10.1016/J.JPOWSOUR.2012.03.076</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Kim</surname><given-names>Y.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Chi</surname><given-names>M.</given-names></name>; <name><surname>Martha</surname><given-names>S. K.</given-names></name>; <name><surname>Nanda</surname><given-names>J.</given-names></name>; <name><surname>Veith</surname><given-names>G. M.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>
+<article-title>A Perspective
+on Coatings to Stabilize
+High-Voltage Cathodes: LiMn<sub>1.5</sub>Ni<sub>0.5</sub>O<sub>4</sub> with Sub-Nanometer Lipon Cycled with LiPF<sub>6</sub> Electrolyte</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2013</year>, <volume>160</volume>, <fpage>A3113</fpage>&#x02013;<lpage>A3125</lpage>. <pub-id pub-id-type="doi">10.1149/2.017305JES</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Baggetto</surname><given-names>L.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Veith</surname><given-names>G. M.</given-names></name>
+<article-title>Surface Chemistry of Metal Oxide
+Coated Lithium Manganese Nickel Oxide Thin Film Cathodes Studied by
+XPS</article-title>. <source>Electrochim. Acta</source>
+<year>2013</year>, <volume>90</volume>, <fpage>135</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1016/J.ELECTACTA.2012.11.120</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Shiraki</surname><given-names>S.</given-names></name>; <name><surname>Kawasoko</surname><given-names>H.</given-names></name>; <name><surname>Suzuki</surname><given-names>T.</given-names></name>; <name><surname>Shimizu</surname><given-names>R.</given-names></name>; <name><surname>Hitosugi</surname><given-names>T.</given-names></name>
+<article-title>Very-Low Solid-Electrolyte/Electrode
+Interface Resistance in Li(Ni<sub>0.5</sub>Mn<sub>1.5</sub>)O<sub>4</sub>-Based Thin-Film Lithium Battery</article-title>. <source>ECS
+Meet. Abstr.</source>
+<year>2016</year>, <volume>MA2016-02</volume>, <fpage>294</fpage><pub-id pub-id-type="doi">10.1149/MA2016-02/3/294</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>West</surname><given-names>W. C.</given-names></name>; <name><surname>Whitacre</surname><given-names>J. F.</given-names></name>; <name><surname>Ratnakumar</surname><given-names>B. V.</given-names></name>
+<article-title>Radio Frequency
+Magnetron-Sputtered
+LiCoPO<sub>4</sub> Cathodes for 4.8 V Thin-Film Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2003</year>, <volume>150</volume>, <fpage>A1660</fpage><pub-id pub-id-type="doi">10.1149/1.1619987</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Albertus</surname><given-names>P.</given-names></name>; <name><surname>Anandan</surname><given-names>V.</given-names></name>; <name><surname>Ban</surname><given-names>C.</given-names></name>; <name><surname>Balsara</surname><given-names>N.</given-names></name>; <name><surname>Belharouak</surname><given-names>I.</given-names></name>; <name><surname>Buettner-Garrett</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Daniel</surname><given-names>C.</given-names></name>; <name><surname>Doeff</surname><given-names>M.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Harris</surname><given-names>S. J.</given-names></name>; <name><surname>Herle</surname><given-names>S.</given-names></name>; <name><surname>Herbert</surname><given-names>E.</given-names></name>; <name><surname>Kalnaus</surname><given-names>S.</given-names></name>; <name><surname>Libera</surname><given-names>J. A.</given-names></name>; <name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Martin</surname><given-names>S.</given-names></name>; <name><surname>McCloskey</surname><given-names>B. D.</given-names></name>; <name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>; <name><surname>Nanda</surname><given-names>J.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>; <name><surname>Self</surname><given-names>E. C.</given-names></name>; <name><surname>Tepavcevic</surname><given-names>S.</given-names></name>; <name><surname>Wachsman</surname><given-names>E.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Westover</surname><given-names>A. S.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Yersak</surname><given-names>T.</given-names></name>
+<article-title>Challenges for and Pathways toward Li-Metal-Based All-Solid-State
+Batteries</article-title>. <source>ACS Energy Lett.</source>
+<year>2021</year>, <volume>6</volume>, <fpage>1399</fpage>&#x02013;<lpage>1404</lpage>. <pub-id pub-id-type="doi">10.1021/ACSENERGYLETT.1C00445</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Kim</surname><given-names>J. H.</given-names></name>; <name><surname>Xiao</surname><given-names>C.-F.</given-names></name>; <name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>Y. J.</given-names></name>; <name><surname>Yagi</surname><given-names>S.</given-names></name>; <name><surname>Kim</surname><given-names>H.-S.</given-names></name>
+<article-title>Interface Control for High-Performance
+All-Solid-State
+Li Thin- Fi Lm Batteries</article-title>. <source>Ceram. Int.</source>
+<year>2020</year>, <volume>46</volume>, <fpage>9960</fpage>&#x02013;<lpage>19965</lpage>. <pub-id pub-id-type="doi">10.1016/j.ceramint.2020.05.063</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Schw&#x000f6;bel</surname><given-names>A.</given-names></name>; <name><surname>Hausbrand</surname><given-names>R.</given-names></name>; <name><surname>Jaegermann</surname><given-names>W.</given-names></name>
+<article-title>Interface Reactions between LiPON
+and Lithium Studied by In-Situ X-Ray Photoemission</article-title>. <source>Solid State Ionics</source>
+<year>2015</year>, <volume>273</volume>, <fpage>51</fpage>&#x02013;<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2014.10.017</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Kawasoko</surname><given-names>H.</given-names></name>; <name><surname>Shiraki</surname><given-names>S.</given-names></name>; <name><surname>Suzuki</surname><given-names>T.</given-names></name>; <name><surname>Shimizu</surname><given-names>R.</given-names></name>; <name><surname>Hitosugi</surname><given-names>T.</given-names></name>
+<article-title>Extremely
+Low Resistance of Li<sub>3</sub>PO<sub>4</sub> Electrolyte/Li(Ni<sub>0.5</sub>Mn<sub>1.5</sub>)O<sub>4</sub> Electrode Interfaces</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>27498</fpage>&#x02013;<lpage>27502</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b08506</pub-id>.<pub-id pub-id-type="pmid">29989389</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Madinabeitia</surname><given-names>I.</given-names></name>; <name><surname>Rikarte</surname><given-names>J.</given-names></name>; <name><surname>Baraldi</surname><given-names>G.</given-names></name>; <name><surname>Fern&#x000e1;ndez-Carretero</surname><given-names>F. J.</given-names></name>; <name><surname>Garbayo</surname><given-names>I.</given-names></name>; <name><surname>Garc&#x000ed;a-Luis</surname><given-names>A.</given-names></name>; <name><surname>Mu&#x000f1;oz-M&#x000e1;rquez</surname><given-names>M. &#x000c1;.</given-names></name>
+<article-title>Growth Parameters and Diffusion Barriers for Functional High-Voltage
+Thin-Film Batteries Based on Spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Cathodes</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2022</year>, <volume>14</volume>, <fpage>2720</fpage>&#x02013;<lpage>2730</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.1c18247</pub-id>.<pub-id pub-id-type="pmid">35000389</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Nimisha</surname><given-names>C. S.</given-names></name>; <name><surname>Rao</surname><given-names>K. Y.</given-names></name>; <name><surname>Venkatesh</surname><given-names>G.</given-names></name>; <name><surname>Rao</surname><given-names>G. M.</given-names></name>; <name><surname>Munichandraiah</surname><given-names>N.</given-names></name>
+<article-title>Sputter Deposited
+LiPON Thin Films from Powder Target as Electrolyte for Thin Film Battery
+Applications</article-title>. <source>Thin Solid Films</source>
+<year>2011</year>, <volume>519</volume>, <fpage>3401</fpage>&#x02013;<lpage>3406</lpage>. <pub-id pub-id-type="doi">10.1016/j.tsf.2011.01.087</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Hu</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Xie</surname><given-names>K.</given-names></name>
+<article-title>Influence
+of Radio Frequency Power on Structure and
+Ionic Conductivity of LiPON Thin Films</article-title>. <source>Bull.
+Mater. Sci.</source>
+<year>2008</year>, <volume>31</volume>, <fpage>681</fpage>&#x02013;<lpage>686</lpage>. <pub-id pub-id-type="doi">10.1007/s12034-008-0108-z</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Cant&#x000ed;n</surname><given-names>A.</given-names></name>; <name><surname>Corma</surname><given-names>A.</given-names></name>; <name><surname>Diaz-Cabanas</surname><given-names>M. J.</given-names></name>; <name><surname>Jord&#x000e1;</surname><given-names>J. L.</given-names></name>; <name><surname>Moliner</surname><given-names>M.</given-names></name>
+<article-title>Rational Design and HT Techniques
+Allow the Synthesis
+of New IWR Zeolite Polymorphs</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2006</year>, <volume>128</volume>, <fpage>4216</fpage>&#x02013;<lpage>4217</lpage>. <pub-id pub-id-type="doi">10.1021/ja0603599</pub-id>.<pub-id pub-id-type="pmid">16568982</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Su</surname><given-names>Y.</given-names></name>; <name><surname>Falgenhauer</surname><given-names>J.</given-names></name>; <name><surname>Polity</surname><given-names>A.</given-names></name>; <name><surname>Leichtwei&#x000df;</surname><given-names>T.</given-names></name>; <name><surname>Kronenberger</surname><given-names>A.</given-names></name>; <name><surname>Obel</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>S.</given-names></name>; <name><surname>Schlettwein</surname><given-names>D.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Meyer</surname><given-names>B. K.</given-names></name>
+<article-title>LiPON Thin Films with High Nitrogen
+Content for Application in Lithium Batteries and Electrochromic Devices
+Prepared by RF Magnetron Sputtering</article-title>. <source>Solid State
+Ionics</source>
+<year>2015</year>, <volume>282</volume>, <fpage>63</fpage>&#x02013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2015.09.022</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Pichonat</surname><given-names>T.</given-names></name>; <name><surname>Lethien</surname><given-names>C.</given-names></name>; <name><surname>Tiercelin</surname><given-names>N.</given-names></name>; <name><surname>Godey</surname><given-names>S.</given-names></name>; <name><surname>Pichonat</surname><given-names>E.</given-names></name>; <name><surname>Roussel</surname><given-names>P.</given-names></name>; <name><surname>Colmont</surname><given-names>M.</given-names></name>; <name><surname>Rolland</surname><given-names>P. A.</given-names></name>
+<article-title>Further Studies
+on the Lithium Phosphorus Oxynitride Solid Electrolyte</article-title>. <source>Mater. Chem. Phys.</source>
+<year>2010</year>, <volume>123</volume>, <fpage>231</fpage>&#x02013;<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1016/j.matchemphys.2010.04.001</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Solano</surname><given-names>M. A. C.</given-names></name>; <name><surname>Dussauze</surname><given-names>M.</given-names></name>; <name><surname>Vinatier</surname><given-names>P.</given-names></name>; <name><surname>Croguennec</surname><given-names>L.</given-names></name>; <name><surname>Kamitsos</surname><given-names>E. I.</given-names></name>; <name><surname>Hausbrand</surname><given-names>R.</given-names></name>; <name><surname>Jaegermann</surname><given-names>W.</given-names></name>
+<article-title>Phosphate
+Structure and Lithium Environments in Lithium Phosphorus Oxynitride
+Amorphous Thin Films</article-title>. <source>Ionics (Kiel)</source>
+<year>2016</year>, <volume>22</volume>, <fpage>471</fpage>&#x02013;<lpage>481</lpage>. <pub-id pub-id-type="doi">10.1007/s11581-015-1573-1</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Brow</surname><given-names>R. K.</given-names></name>; <name><surname>Reidmeyer</surname><given-names>M. R.</given-names></name>; <name><surname>Day</surname><given-names>D. E.</given-names></name>
+<article-title>Oxygen Bonding in
+Nitrided Sodium-
+and Lithium-Metaphosphate Glasses</article-title>. <source>J. Non-Cryst.
+Solids</source>
+<year>1988</year>, <volume>99</volume>, <fpage>178</fpage>&#x02013;<lpage>189</lpage>. <pub-id pub-id-type="doi">10.1016/0022-3093(88)90470-X</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Kwak</surname><given-names>B. S.</given-names></name>; <name><surname>Sales</surname><given-names>B. C.</given-names></name>; <name><surname>Bates</surname><given-names>J. B.</given-names></name>
+<article-title>Ionic Conductivities
+and Structure of Lithium Phosphorus Oxynitride Glasses</article-title>. <source>J. Non-Cryst. Solids</source>
+<year>1995</year>, <volume>183</volume>, <fpage>297</fpage>&#x02013;<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1016/0022-3093(94)00665-2</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Marchand</surname><given-names>R.</given-names></name>; <name><surname>Agliz</surname><given-names>D.</given-names></name>; <name><surname>Boukbir</surname><given-names>L.</given-names></name>; <name><surname>Quemerais</surname><given-names>A.</given-names></name>
+<article-title>Characterization
+of Nitrogen Containing Phosphate Glasses by X-Ray Photoelectron Spectroscopy</article-title>. <source>J. Non-Cryst. Solids</source>
+<year>1988</year>, <volume>103</volume>, <fpage>35</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/0022-3093(88)90413-9</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="book" id="cit50"><person-group person-group-type="allauthors"><name><surname>Barsoukov</surname><given-names>E.</given-names></name>; <name><surname>Macdonald</surname><given-names>J. R.</given-names></name></person-group><source>Impedance Spectroscopy:
+Theory, Experiment, and Applications</source>; <edition>2</edition><sup>nd</sup> ed.; <publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name>, <year>2005</year>, <fpage>1</fpage>&#x02013;<lpage>595</lpage>, <pub-id pub-id-type="doi">10.1002/0471716243</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Ma</surname><given-names>Z.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Xie</surname><given-names>K.</given-names></name>
+<article-title>High Temperature Property
+of All-Solid-State Thin Film Lithium Battery Using LiPON Electrolyte</article-title>. <source>Mater. Lett.</source>
+<year>2014</year>, <volume>134</volume>, <fpage>237</fpage>&#x02013;<lpage>239</lpage>. <pub-id pub-id-type="doi">10.1016/j.matlet.2014.07.092</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Jacke</surname><given-names>S.</given-names></name>; <name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>Dimesso</surname><given-names>L.</given-names></name>; <name><surname>Br&#x000f6;tz</surname><given-names>J.</given-names></name>; <name><surname>Becker</surname><given-names>D.</given-names></name>; <name><surname>Jaegermann</surname><given-names>W.</given-names></name>
+<article-title>Temperature
+Dependent Phosphorous
+Oxynitride Growth for All-Solid-State Batteries</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>6911</fpage>&#x02013;<lpage>6914</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.12.022</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>le
+Van-Jodin</surname><given-names>L.</given-names></name>; <name><surname>Ducroquet</surname><given-names>F.</given-names></name>; <name><surname>Sabary</surname><given-names>F.</given-names></name>; <name><surname>Chevalier</surname><given-names>I.</given-names></name>
+<article-title>Dielectric
+Properties, Conductivity and Li<sup>+</sup> Ion Motion in LiPON Thin
+Films</article-title>. <source>Solid State Ionics</source>
+<year>2013</year>, <volume>253</volume>, <fpage>151</fpage>&#x02013;<lpage>156</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2013.09.031</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Mascaraque</surname><given-names>N.</given-names></name>; <name><surname>Fierro</surname><given-names>J. L. G.</given-names></name>; <name><surname>Dur&#x000e1;n</surname><given-names>A.</given-names></name>; <name><surname>Mu&#x000f1;oz</surname><given-names>F.</given-names></name>
+<article-title>An Interpretation
+for the Increase of Ionic Conductivity by Nitrogen Incorporation in
+LiPON Oxynitride Glasses</article-title>. <source>Solid State Ionics</source>
+<year>2013</year>, <volume>233</volume>, <fpage>73</fpage>&#x02013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2012.12.017</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Jehnichen</surname><given-names>P.</given-names></name>; <name><surname>Wedlich</surname><given-names>K.</given-names></name>; <name><surname>Korte</surname><given-names>C.</given-names></name>
+<article-title>Degradation
+of High-Voltage Cathodes
+for Advanced Lithium-Ion Batteries&#x02013;Differential Capacity Study
+on Differently Balanced Cells</article-title>. <source>Sci. Technol.
+Adv. Mater.</source>
+<year>2019</year>, <volume>20</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1080/14686996.2018.1550625</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Shimizu</surname><given-names>R.</given-names></name>; <name><surname>Cheng</surname><given-names>D.</given-names></name>; <name><surname>Weaver</surname><given-names>J. L.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Lu</surname><given-names>B.</given-names></name>; <name><surname>Wynn</surname><given-names>T. A.</given-names></name>; <name><surname>Burger</surname><given-names>R.</given-names></name>; <name><surname>Kim</surname><given-names>M.-C.</given-names></name>; <name><surname>Zhu</surname><given-names>G.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>
+<article-title>Unraveling the Stable
+Cathode Electrolyte Interface
+in All Solid-State Thin-Film Battery Operating at 5 V</article-title>. <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <fpage>2201119</fpage><pub-id pub-id-type="doi">10.1002/AENM.202201119</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Rikarte</surname><given-names>J.</given-names></name>; <name><surname>Madinabeitia</surname><given-names>I.</given-names></name>; <name><surname>Baraldi</surname><given-names>G.</given-names></name>; <name><surname>Fern&#x000e1;ndez-Carretero</surname><given-names>F. J.</given-names></name>; <name><surname>Bellido-Gonz&#x000e1;lez</surname><given-names>V.</given-names></name>; <name><surname>Garc&#x000ed;a-Luis</surname><given-names>A.</given-names></name>; <name><surname>Mu&#x000f1;oz-M&#x000e1;rquez</surname><given-names>M. &#x000c1;.</given-names></name>
+<article-title>AC Magnetron Sputtering: An Industrial
+Approach for High-Voltage and High-Performance Thin-Film Cathodes
+for Li-Ion Batteries</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2021</year>, <volume>8</volume>, <fpage>2002125</fpage><pub-id pub-id-type="doi">10.1002/admi.202002125</pub-id>.</mixed-citation></ref></ref-list></back></article>

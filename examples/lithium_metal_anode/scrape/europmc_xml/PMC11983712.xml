@@ -1,0 +1,930 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Mater</journal-id><journal-id journal-id-type="iso-abbrev">Chem Mater</journal-id><journal-id journal-id-type="publisher-id">cm</journal-id><journal-id journal-id-type="coden">cmatex</journal-id><journal-title-group><journal-title>Chemistry of Materials</journal-title></journal-title-group><issn pub-type="ppub">0897-4756</issn><issn pub-type="epub">1520-5002</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11983712</article-id><article-id pub-id-type="doi">10.1021/acs.chemmater.4c03067</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Transport
+Number Determination and Relevance for Lithium
+Metal Batteries Using Localized Highly Concentrated Electrolytes</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Ishfaq</surname><given-names>Hafiz
+Ahmad</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Cruz Cardona</surname><given-names>Carolina</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Tchernychova</surname><given-names>Elena</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9907-117X</contrib-id><name><surname>Johansson</surname><given-names>Patrik</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8104-1693</contrib-id><name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>Miran</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6673-4459</contrib-id><name><surname>Dominko</surname><given-names>Robert</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1355-2843</contrib-id><name><surname>Drvari&#x0010d; Talian</surname><given-names>Sara</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Materials Chemistry, <institution>National Institute
+of Chemistry</institution>, Hajdrihova 19, Ljubljana 1000, <country>Slovenia</country></aff><aff id="aff2"><label>&#x02021;</label>Faculty
+of Chemistry and Chemical Technology, <institution>University
+of Ljubljana</institution>, Ve&#x0010d;na
+pot 113, Ljubljana 1000, <country>Slovenia</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>ALISTORE
+- European Research Institute, CNRS FR 3104</institution>, 15 Rue Baudelocque, Amiens
+Cedex 80039, <country>France</country></aff><aff id="aff4"><label>&#x02225;</label>Department
+of Physics, <institution>Chalmers University of Technology</institution>, Gothenburg 412 96, <country>Sweden</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>sara.drvarictalian@ki.si</email>.</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>03</month><year>2025</year></pub-date><pub-date pub-type="collection"><day>08</day><month>04</month><year>2025</year></pub-date><volume>37</volume><issue>7</issue><fpage>2485</fpage><lpage>2495</lpage><history><date date-type="received"><day>05</day><month>11</month><year>2024</year></date><date date-type="accepted"><day>11</day><month>03</month><year>2025</year></date><date date-type="rev-recd"><day>11</day><month>03</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_0006" id="ab-tgr1"/></p><p>The lithium transport number <inline-formula id="d34e139"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m001.gif"/></inline-formula> determination of fluorinated ether (1,2-(1,1,2,2-tetrafluoroethoxy)
+ethane, TFEE)-based localized highly concentrated electrolytes (LHCEs)
+with 1,2-dioxolane (DOL) and dimethoxyethane (DME) as solvents has
+been explored using molecular dynamics simulations, nuclear magnetic
+resonance spectroscopy, Bruce-Vincent&#x02019;s method, and low-frequency
+electrochemical impedance spectroscopy (EIS). We showcase that the
+TFEE-DOL LHCE has a <inline-formula id="d34e142"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m002.gif"/></inline-formula> as high as 0.65 but, on the other hand,
+exhibits low Coulombic efficiency (&#x0003c;90%) and poor stability <italic>vs</italic> Li metal anodes, <italic>i.e.</italic>, in a lithium
+metal battery (LMB) setting. In contrast, the TFEE-DME LHCE shows
+high Coulombic efficiency (98.9%) and stability, despite a much lower <inline-formula id="d34e149"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m003.gif"/></inline-formula> (0.25). A significant migration resistance
+through the porous solid electrolyte interphase (SEI) for the former
+is the likely explanation, as revealed by EIS and assisted by scanning
+electron microscopy and X-ray photoelectron spectroscopy experiments.
+We thus find the interfacial properties at the Li metal anode to be
+more crucial than the ionic transport through the bulk of the electrolyte
+for LMB performance. We therefore propose that the focus should be
+put on the full (<italic>operando</italic>) impedance spectra of Li
+metal anodes in contact with electrolytes, since it enables the characterization
+of the interphase layer(s), rather than solely determining the (bulk) <inline-formula id="d34e155"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m004.gif"/></inline-formula> of the electrolytes.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>H2020 Marie Sklodowska-Curie Actions</institution><institution-id institution-id-type="doi">10.13039/100010665</institution-id></institution-wrap></funding-source><award-id>945357</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Vetenskapsr&#x000c3;&#x000a5;det</institution><institution-id institution-id-type="doi">10.13039/501100004359</institution-id></institution-wrap></funding-source><award-id>2021-00613</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Javna Agencija za Raziskovalno Dejavnost RS</institution><institution-id institution-id-type="doi">10.13039/501100004329</institution-id></institution-wrap></funding-source><award-id>Z2-4465</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Javna Agencija za Raziskovalno Dejavnost RS</institution><institution-id institution-id-type="doi">10.13039/501100004329</institution-id></institution-wrap></funding-source><award-id>P2-0423</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>VINNOVA</institution><institution-id institution-id-type="doi">10.13039/501100001858</institution-id></institution-wrap></funding-source><award-id>2019-00064</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cm4c03067</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cm4c03067</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Lithium (Li) metal batteries (LMBs) have
+the potential to meet
+the increasing demand for high-performance batteries through the use
+of Li metal anodes, which offer high theoretical specific capacity
+(3860 mAh g<sup>&#x02013;1</sup>) and low electrochemical potential
+(&#x02212;3.04 V <italic>vs</italic> SHE).<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> However,
+the thermodynamic instability of Li metal with the commonly used liquid
+electrolytes for lithium-ion batteries (LIBs) leads to the formation
+of an unstable solid electrolyte interphase (SEI). This instability
+refers to continuous formation of the SEI through the reaction between
+the electrolyte and electrode, as well as the consequences of the
+SEI&#x02019;s weak mechanical properties, which results in the formation
+of high surface area Li (HSAL) over repeated cycles of cell operation
+and low Coulombic efficiency (CE) of LMBs.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> To
+overcome these challenges, highly concentrated electrolytes (HCEs)
+were developed and used,<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> in which the concentration
+of &#x0201c;free&#x0201d; solvent is reduced and the cation first solvation
+shell is dominated by anions, in practice leading to stable anion-derived
+SEIs.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> The use of HCEs, however, is constrained
+by their high cost, due to the high concentration of salt, and poor
+electrode wettability, caused by their high viscosity, which also
+impairs ion transport. The addition of inert diluents (noncoordinating
+solvents), mainly fluorinated ethers, to HCEs, is a viable solution
+to address these issues.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> Although the addition
+of diluents decreases the electrolyte ionic conductivity because of
+their poor salt solubility, they offer high anodic stability, and,
+as nonsolvents they preserve the HCE local cation solvation structure
+at more moderate global electrolyte salt concentrations. This forms
+the so-called localized HCEs (LHCEs) &#x02013; the electrolyte class
+applied herein.</p><p>A general problem for all liquid (nonaqueous)
+electrolytes is,
+however a lack of complete understanding of how battery performance
+is affected by the ion transport, which is mainly governed by three
+macroscopic properties: ionic conductivity,<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> chemical diffusion coefficient,<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> and Li<sup>+</sup> transport
+number <inline-formula id="d34e246"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m005.gif"/></inline-formula>.<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> Among these properties, <inline-formula id="d34e256"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m006.gif"/></inline-formula>, defined by the ratio of the ionic conductivity
+or diffusivity due to Li<sup>+</sup><italic>vs</italic> that of other
+ion(s), has gained much attention by the battery research community.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> The research aims for a <inline-formula id="d34e264"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m007.gif"/></inline-formula> as high as possible to minimize salt concentration
+gradients and thereby enable LMB fast-charging without ion transport
+limitations.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref21">21</xref></sup></p><p>The determination of <inline-formula id="d34e274"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m008.gif"/></inline-formula> (by nonelectrochemical methods) is rather
+complex as it requires the strict assumption of an ideal electrolyte, <italic>i.e. (i)</italic> the salt is completely dissociated, <italic>(ii)</italic> all ions participate in migration and diffusion, and <italic>(iii)</italic> each ion moves independently and without the influence of other
+ions. To achieve ideality, the salt concentration in the electrolyte
+must be sufficiently low and the dielectric constant of the solvent
+sufficiently high. The upper threshold value for the ideality of aqueous
+electrolytes is 0.01 M for salts of monovalent ions.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> In reality, nonaqueous battery electrolytes have much higher
+salt concentrations (&#x02265;1 M). In particular, LHCEs can have a
+global salt concentration of 1 M, but locally they have much higher
+salt concentrations than conventional electrolytes, which renders
+ample formation of ion pairs and higher aggregates, and thus LHCEs
+deviate drastically from any ideal electrolyte.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>Deviations from ideality for battery electrolytes
+in general are
+well-founded. For instance, lithium hexafluorophosphate (LiPF<sub>6</sub>) /ethylene carbonate/dimethyl carbonate is a commonly used
+electrolyte for LIBs. The dissolution of LiPF<sub>6</sub> in these
+carbonate solvents does not only produce Li<sup>+</sup> and PF<sub>6</sub><sup>&#x02013;</sup> ions but also ion pairs and higher aggregates
+([<italic>n</italic>Li<sup>+</sup>&#x02013;<italic>m</italic>PF<sub>6</sub><sup>&#x02013;</sup>]<sup><italic>n</italic>&#x02212;</sup><italic><sup>m</sup></italic>).<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> Goward et al. reported
+significant ion pairing for this electrolyte chemistry even at 0.2
+M salt concentration.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> For any LHCE, we
+can rather safely assume a high degree of ion pairing, and likely
+also aggregate formation, but still some of the <inline-formula id="d34e322"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m009.gif"/></inline-formula> values reported for LHCEs are remarkably
+high: 0.7 &#x02013; 0.8,<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> raising significant
+concerns with respect to the interpretation as they deviate from ideality.</p><p>The LHCEs are thus nonideal as a significant portion of the ions
+is expected to be nondissociated, and hence the determination of the
+transport number is challenging. In this regard, transference number <inline-formula id="d34e332"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m010.gif"/></inline-formula> might be relevant. <inline-formula id="d34e335"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m011.gif"/></inline-formula> is defined as the number of moles of Li<sup>+</sup> (regardless of if the ion is completely dissociated or found
+in <italic>e.g.</italic>, ion pairs and/or aggregates) transferred
+by migration of a Coulomb of charge.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> In ideal electrolytes,
+the transport and transference numbers are identical.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> Many attempts have been made to measure the transference number
+in different LHCEs, and it has been found that the Li transference
+number decreases when diluents are added in HCEs.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> Although the authors have rigorously measured the transport properties
+of the LHCEs to describe the possible reasons for the transference
+number, they have rarely related the transport properties of the electrolyte
+to its electrochemical performance with Li metal.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup></p><p>Importantly, the complexity of the solvation structures
+in LHCEs
+presents an increase in uncertainty as to whether the transference
+number is the best/correct parameter to describe the electrolyte transport.
+To elucidate this concept, consider a hypothetical LHCE containing
+fully dissociated salt species, Li<sup>+</sup> and [A]<sup>&#x02212;</sup>, alongside neutral [LiA] and charged complexes such as [Li<sub>2</sub>A]<sup>+</sup> and [LiA<sub>2</sub>]<sup>&#x02212;</sup>. When Li<sup>+</sup>-containing species reach the lithium metal electrode, they
+may participate in faradaic reactions. However, it remains uncertain
+whether all species contribute to such reactions and to what extent.
+For illustrative purposes, let us assume that, in this electrolyte,
+only Li<sup>+</sup> and [LiA<sub>2</sub>]<sup>&#x02212;</sup> act as
+the active species responsible for charge transfer at the electrode.
+To define a transport-related parameter for this electrolyte&#x02014;one
+that characterizes how the ionic current affects battery performance&#x02014;we
+need to consider only the current contributions of active species
+Li<sup>+</sup> and [LiA<sub>2</sub>]<sup>&#x02212;</sup>. In this hypothetical
+LHCE system, <inline-formula id="d34e389"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m012.gif"/></inline-formula> is defined based solely on the charge transferred
+by Li<sup>+</sup>, whereas the <inline-formula id="d34e394"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m013.gif"/></inline-formula> considers the contributions from Li<sup>+</sup>, [Li<sub>2</sub>A]<sup>+</sup>, and [LiA<sub>2</sub>]<sup>&#x02212;</sup>. Notably, neither of these definitions thus aligns
+with the actual conditions during battery operation, where only Li<sup>+</sup> and [LiA<sub>2</sub>]<sup>&#x02212;</sup> are pertinent.</p><p>In this regard, the correct &#x0201c;transport number&#x0201d; would
+consider the percentage of charge carried by all species which contain
+Li and undergo the faradaic reaction on the electrode surface (defined
+as active species), which we call the <italic>transport number of
+active ions</italic>, <italic>t</italic><sub>active</sub>. Note that
+this is not necessarily the same as the <inline-formula id="d34e422"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m014.gif"/></inline-formula>, since it is possible that a species contains
+Li and yet does not allow for faradaic reaction to take place on the
+electrode.</p><p>To address this, in this study, we have focused on
+LHCEs based
+on fluorinated ether 1,2-(1,1,2,2-tetrafluoroethoxy)ethane (TFEE)
+as diluent and 1,2-dimethoxyethane (DME) or 1,3-dioxolane (DOL) as
+solvents, which have shown promise as electrolytes for LMBs.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> We opted for the TFEE diluent because it is relatively inexpensive
+in comparison to other fluorinated ethers and is commercially available.
+The nonfluorinated ethers DME and DOL were chosen as cosolvents with
+TFEE (to dissolve Li salt) because they are commonly used solvents
+in LIB electrolytes.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> We determined <inline-formula id="d34e434"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m015.gif"/></inline-formula> using various techniques: pulsed-field
+gradient (PFG) nuclear magnetic resonance (NMR) spectroscopy, molecular
+dynamics (MD) simulations, the Bruce-Vincent (BV) method, and electrochemical
+impedance spectroscopy (EIS). The advantages and disadvantages of
+each technique are elaborated upon, and finally we connect the observations
+made to several LMB performance measures, in order to guide future
+electrolyte development efforts.</p></sec><sec id="sec2"><title>Experimental Section</title><sec id="sec2.1"><title>Materials</title><p>DME and DOL (HPLC grade, 99.9%) were purchased
+from Sigma-Aldrich, while TFEE (99%) was purchased from Apollo Scientific.
+Battery-grade lithium bis(trifluoromethanesulfonyl)imide (LiTFSI)
+was acquired from Sigma-Aldrich (99%). The carbon-coated lithium titanate
+spinel Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> (LTO) powder was
+purchased from NEI Corporation. The carbon black (SUPER C65) was used
+as a conductive agent in the cathode slurries. The Li metal foil was
+from FMC (110 &#x003bc;m thick). The Cu foil (20 &#x003bc;m thick) was
+purchased from Goodfellow. Celgard 2320 was used as a separator in
+all cells. In some cases, glassy fiber separators (GF/A, Whatman)
+were also used as indicated.</p></sec><sec id="sec2.2"><title>Electrolytes and Electrode Preparation and Cell Assembly</title><p>Solvent drying and electrolyte preparation were done under protective
+argon atmosphere in an MBraun glovebox, where O<sub>2</sub> and H<sub>2</sub>O contents were followed and kept &#x0003c;1 ppm. To prepare the
+electrolytes, the DME and DOL solvents were dried with 4 &#x000c5; molecular
+sieves for 5 days, refluxed overnight with Na/K alloy, and then purified
+by fractional distillation. The TFEE solvent was dried with 4 &#x000c5;
+molecular sieves for 10 days. The water content in all solvents was
+determined by Karl Fischer titration (Mettler Toledo, C20) and was
+&#x0003c;0.6 ppm. For the preparation of electrolytes, both DME and DOL
+were first mixed in a 1:1 (v:v) ratio with TFEE. The LiTFSI salt was
+stoichiometrically weighed into a volumetric flask and dissolved in
+a small amount of prepared solvent mixture before the volumetric flask
+was filled to the marked line. The prepared LHCEs were 1 M LiTFSI
+in TFEE:DME (1:1, v:v) and 1 M LiTFSI in TFEE:DOL (1:1, v:v). For
+simplicity, we henceforth omit the volume ratios, and the two electrolytes
+are designated as 1 M LiTFSI in TFEE-DME and 1 M LiTFSI in TFEE-DOL,
+respectively.</p><p>The LTO cathode slurry was prepared by mixing
+80 wt % active material, 10 wt % C65, and 10 wt % PVdF binder in NMP
+using ball milling (30 min, 300 rpm). The resulting slurry was cast
+onto Cu foil using a doctor blade applicator and dried under vacuum
+at 80 &#x000b0;C for 2 h. The LTO mass loading was <italic>ca</italic>. 7.4&#x02013;7.6 mg cm<sup>&#x02013;2</sup> and the thickness was <italic>ca</italic>. 150 &#x003bc;m. The LTO cathodes were punched into discs
+with a diameter of 12 mm, pressed by a hydraulic press using a weight
+of 1.0 t for 30 s, and dried again under vacuum at 90 &#x000b0;C overnight
+before they were transferred to the glovebox.</p><p>All cell preparation
+was conducted inside an argon-filled MBraun
+glovebox. For the determination of the Coulombic efficiency (CE) of
+lithium stripping and plating, CR2032 coin cells were assembled using
+a Hohsen Corporation manual crimping tool. For all other cell assemblies,
+pouch cell casings with Cu contacts were employed. In most cell assemblies,
+the Li metal anodes were 14 mm in diameter and one Celgard 2320 separator
+was used, but in some cases, the separators were multiplied as indicated.
+The amount of electrolyte added was 10 &#x003bc;L per separator plus
+10 &#x003bc;L for the Li anodes. In the Li||LTO cells, an additional
+10 &#x003bc;L was added to account for the porosity of the electrode.
+Both of these LHCEs were tested under identical conditions (<italic>i.e.</italic>, same electrode mass loading, thickness, and electrolyte
+amount) to minimize the effect of testing conditions.</p></sec><sec id="sec2.3"><title>Experimental Details for <inline-formula id="d34e472"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m016.gif"/></inline-formula> Determination by Various Methods</title><sec id="sec2.3.1"><title>NMR</title><p><sup>7</sup>Li and <sup>19</sup>F nuclear magnetic
+resonance spectroscopy (NMR) spectra were recorded using an Avance
+Neo 600 MHz spectrometer (Bruker). Coaxial 5 mm NMR tubes were used.
+The <sup>7</sup>Li NMR spectra were measured using 1 M LiCl in D<sub>2</sub>O as an internal standard in an NMR coaxial tube. The internal
+standard for recording <sup>19</sup>F NMR spectra was DMSO-<italic>d</italic><sub><italic>6</italic></sub> containing 0.03 wt % deuterated
+trifluoroacetic acid (CF<sub>3</sub>COOH) as solvent. Pulsed-field
+gradient (PFG) NMR was used to measure the Li<sup>+</sup> and TFSI
+diffusion coefficients of the electrolytes. The PFG echo intensity
+was measured after executing a PFG NMR base pulse sequence and self-diffusivities
+were obtained by fitting the linearized version of the Stejskal&#x02013;Tanner
+equation<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S1</ext-link>).<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m017" position="anchor"/><label>1</label></disp-formula></p><p>Where <italic>I</italic>(<italic>g</italic>) and <italic>I</italic><sub>0</sub> are the intensity of the PFG-echo
+profile at the gradient strength of <italic>s</italic> and 0 respectively, <italic>D</italic> is the diffusion coefficient of the ion, &#x003b3; the gyromagnetic
+ratio, &#x003b4; is the gradient duration, <italic>g</italic> is the
+gradient strength, and &#x00394; is the gradient pulse interval (<italic>i.e.</italic>, the diffusion time). For <sup>7</sup>Li and <sup>19</sup>F NMR, the values for &#x003b3;, &#x003b4;, <italic>g</italic>, and &#x00394;
+are listed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Table S1</ext-link>. <inline-formula id="d34e535"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m018.gif"/></inline-formula> was calculated by the diffusivities obtained
+from PFG NMR through <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>:<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m019" position="anchor"/><label>2</label></disp-formula></p></sec><sec id="sec2.3.2"><title>MD</title><p>Classical molecular dynamics (MD) simulations of
+the bulk electrolyte were performed to analyze the local structure
+and the mobilities of the species. This analysis involved calculating
+radial distribution functions (RDFs), coordination numbers (CNs),
+and self-diffusion coefficients. The simulations were conducted using
+the LAMMPS software<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> with the nonpolarizable
+OPLS-AA force field (FF).<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> Cubic simulation
+boxes, each containing 1500 molecules, were used for each electrolyte,
+with the details of the exact compositions in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Table S2</ext-link>. Molecular topology files, along with Lennard-Jones
+and bonded parameters, were generated using the LigParGen server<sup><xref ref-type="bibr" rid="ref35">35</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref></sup> and the <italic>fftool</italic> package.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> To account for electronic screening and improve predictions of interionic
+interactions, a scaling factor of 0.8 was applied to the partial charges
+of ions due to the nonpolarizable nature of the FF.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> The simulation began with energy minimization using conjugate gradients,
+followed by a three-step equilibration process. First, an annealing
+approach was implemented for 2.5 ns, during which the system was heated
+to 600 K in increments of 30 K to overcome energy barriers and explore
+a wide conformational space. After maintaining the system at this
+elevated temperature to ensure thorough sampling, the temperature
+was slowly decreased to 300 K in steps of 30 K. This gradual cooling
+helped the system settle into a lower energy state, avoiding local
+minima and achieving a more stable configuration. The system was then
+equilibrated for 3 ns in the isothermal&#x02013;isobaric ensemble (NPT),
+followed by an additional 8 ns in the canonical ensemble (NVT). Subsequently,
+an NVT production run was carried out for 10 ns. All simulations were
+performed at a temperature of 300 K and a pressure of 1 atm. A Nos&#x000e9;-Hoover
+thermostat was used with temperature and pressure damping parameters
+set to 100 and 1000 fs, respectively. Electrostatic interactions were
+calculated using the particle&#x02013;particle-particle-mesh scheme,
+and periodic boundary conditions were applied in all directions. RDFs,
+CNs, and mean-square displacements (MSDs) for subsequent structural
+analysis were obtained from LAMMPS subroutines. The dynamic analysis
+is based on the calculation of self-diffusion coefficients (<italic>D</italic><sub><italic>i</italic></sub>) from the MSDs using the
+Einstein relation<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> as follows:<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m020" position="anchor"/><label>3</label></disp-formula>where <bold>R</bold><sub><bold><italic>i</italic></bold></sub>(t) is the position of the <italic>i</italic>-th at
+the time <italic>t</italic> and the brackets denote the ensemble average.
+The primary condition is that reasonable averages require long simulation
+times, as <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref> assumes
+that individual ion movements are uncorrelated. Using <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>, <inline-formula id="d34e603"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m021.gif"/></inline-formula> can then be determined using <inline-formula id="d34e606"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m022.gif"/></inline-formula> and <italic>D</italic><sub>TFSI</sub>.</p><p>It is important to mention here that the self-diffusion coefficients
+calculated from MD simulations provide a measure of ion mobilities
+at the molecular level, capturing local interactions, such as solvation
+and ion pairing, as represented by the FF. However, they do not explicitly
+account for the macroscopic effects of concentration gradients or
+collective ion dynamics, which are related to chemical diffusion coefficients.
+The relationship between self-diffusion and chemical diffusion can
+be approximated using the Nernst&#x02013;Einstein relation under ideal
+conditions, where ion&#x02013;ion correlations are negligible. However,
+in the LHCEs studied here, deviations from ideality arise due to significant
+ion pairing and aggregate formation, which reduce the effective number
+of mobile species and alter the transport dynamics. This further highlights
+the importance of interpreting self-diffusion coefficients as foundational
+but incomplete descriptors of ion mobility in nonideal systems.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup></p></sec><sec id="sec2.3.3"><title>Electrochemical Methods</title><p><inline-formula id="d34e618"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m023.gif"/></inline-formula> of the electrolytes was electrochemically
+measured using the Bruce-Vincent (BV) method.<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> For this experiment, Li||Li symmetrical cells were allowed to stabilize
+for 24 h. The EIS spectra were then measured in the frequency range
+of 1 MHz to 1 Hz with a potential amplitude of 5 mV. The initial interfacial
+resistance (<italic>R</italic><sub>o</sub>) was calculated from the
+EIS spectra. After this, the cells were subjected to a small polarization
+potential (&#x00394;<italic>V</italic>) of 10 mV, from which initial
+(<italic>I</italic><sub>o</sub>) and steady-state (<italic>I</italic><sub>s</sub>) current were evaluated. After polarization, the EIS
+spectra were rerecorded to calculate the steady-state interfacial
+resistance (<italic>R</italic><sub>s</sub>). <inline-formula id="d34e641"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m024.gif"/></inline-formula> was calculated using <xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">4</xref></xref>.<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m025" position="anchor"/><label>4</label></disp-formula></p><p>To obtain the <inline-formula id="d34e655"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m026.gif"/></inline-formula> of the electrolytes, low-frequency EIS
+was also used.<sup><xref ref-type="bibr" rid="ref44">44</xref>&#x02212;<xref ref-type="bibr" rid="ref46">46</xref></sup> For this purpose, Li||Li cells with different numbers
+of Celgard separators (1&#x000d7;, 3&#x000d7;, and 9&#x000d7;) were assembled.
+The cells were then stabilized by measuring EIS in the frequency range
+of 1 MHz&#x02013;1 mHz with the potential amplitude of 5 mV. After
+24 h of stabilization, low-frequency measurements were performed in
+the range of 1 MHz to 0.1 mHz with a potential amplitude of 5 mV in
+a thermostat at 24 &#x000b0;C. The <inline-formula id="d34e664"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m027.gif"/></inline-formula> was then determined using <xref rid="eq5" ref-type="disp-formula">eq <xref rid="eq5" ref-type="disp-formula">5</xref></xref>.<disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m028" position="anchor"/><label>5</label></disp-formula></p><p>Where <italic>R</italic><sub>el</sub> is the bulk electrolyte resistance
+calculated from the real part of impedance at high frequencies and <italic>R</italic><sub>W</sub> is the real part of the diffusion impedance
+occurring at low frequencies.</p></sec><sec id="sec2.3.4"><title>Materials and Electrochemical Characterization</title><p>For <italic>post-mortem</italic> analysis, Li||Li cells were assembled with different
+electrolytes and EIS was measured at OCV for 1 or 100 h. After cell
+disassembly, the Li electrodes were carefully washed with a few drops
+of anhydrous DME (for the 1 M LiTFSI in TFEE-DME case) and DOL (for
+the 1 M LiTFSI in TFEE-DOL case) for about 20 s to remove the electrolyte
+salt and minimize unwanted damages to electrode surface due to handling.
+The morphology of the Li deposits was examined with scanning electron
+microscopy (SEM; SUPRA 35VP, Zeiss, Germany). The samples were transferred
+to the SEM with a vacuum transfer tool to ensure a protective atmosphere.
+The acceleration voltage was 1.5 kV.</p><p>X-ray photoelectron spectroscopy
+(XPS) was performed using a VersaProbe III AD (Phi, Chanhassen, US)
+equipped with a monochromatic Al-K&#x003b1;1 X-ray source (1486.7 eV).
+Spectra were collected from a 200 &#x003bc;m in diameter spot size with
+the charge neutralizer activated to prevent differential charging,
+as the electrodes were mounted on a nonconductive double tape. High-resolution
+spectra were acquired with a pass energy of 69 eV and a step size
+of 0.05 eV. Charge neutralization was employed, and the energy scale
+of the XPS spectra was calibrated by setting the C 1<italic>s</italic> peak of carbon to a binding energy of 284.8 eV. Sputter-depth profiles
+of the SEI layer were obtained using alternating cycles of XPS analysis
+and sputtering with a focused 1 keV Ar beam. During each measurement
+cycle, the C 1<italic>s</italic> and F 1<italic>s</italic> regions
+were recorded with a step size of 0.13 eV and a pass energy of 69
+eV. The spectra were analyzed using UlVAC-PHI Multipak software, with
+a binding energy error limit of &#x000b1;0.2 eV for all peak fits. Shirley&#x02019;s
+background correction was applied to all spectra. Instrumental broadening
+was assumed to be identical for all regions; therefore, the Gaussian
+fraction of each main peak was fixed at 90%. The full width at half-maximum
+(fwhm) for the fitted main peaks in the C 1<italic>s</italic> regions
+was set to 1.5 &#x000b1; 20%. The determined fwhm and binding energy
+(BE) values for each resolved peak component, which dominated at specific
+sputter depths, were fixed for the batch-fitting procedure of the
+entire spectral series across all sputter depths.</p><p>The local
+solvation structures of the electrolytes were investigated
+using both Raman and NMR spectroscopy. The details of obtaining NMR
+spectra are described in the section above. The Ram II Raman spectrometer
+with an excitation laser of 785 nm and a resolution of 2 cm<sup>&#x02013;1</sup> was used to obtain Raman spectra of solvents and electrolytes by
+averaging over 200 samplings in the range 200&#x02013;4000 cm<sup>&#x02013;1</sup>.</p><p>The efficiency of Li metal plating and stripping was determined
+using Li||Cu cells with a current density of 0.5 mA cm<sup>&#x02013;2</sup> to a cutoff areal capacity of 0.5 mAh cm<sup>&#x02013;2</sup>. The
+average Coulombic efficiencies (CEs) were additionally determined
+by applying the standard Aurbach method<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> to the Li||Cu cells using the exact protocol described in the literature.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> The Li||LTO cells were tested in pouch cells
+with Cu contacts. These cells were tested in a voltage range of 1.0&#x02013;2.5
+V <italic>vs</italic> Li<sup>+</sup>/Li&#x000b0; at 0.6 C charge and
+discharge rates. We used Li||LTO cells because LTO is a zero-strain
+material that operates at a relatively low operating voltage<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> &#x02013; therefore not challenging the electrolyte&#x02019;s
+oxidative stability. <italic>Operando</italic> EIS was carried out
+on Li||Li cells cycled at the same current density as used for the
+evaluation of CEs in Li||Cu cells, <italic>i.e.</italic>, 0.5 mA cm<sup>&#x02013;2</sup>. Galvanostatic EIS was used with a current amplitude
+of 77 &#x003bc;A (<italic>I</italic><sub>DC</sub>/10) in the frequency
+range of 1 MHz to 20 mHz with 14 spectra measured during one-half
+cycle, each spectrum measurement lasting for approximately 4.5 min.
+After 30 cycles of stripping and plating with <italic>operando</italic> EIS measurements, 30 min of OCV and PEIS measurements, with 5 mV
+(rms) potential amplitude, in the same frequency range was performed.</p></sec></sec></sec><sec id="sec3"><title>Results and Discussion</title><p>First, we studied the local
+electrolyte solvation structures using
+MD simulations, Raman spectroscopy, and NMR spectroscopy. The calculated
+RDFs and CNs for Li<sup>+</sup>-O, divided up in Li<sup>+</sup>-O
+(TFSI), Li<sup>+</sup>-O (TFEE), Li<sup>+</sup>-O (DOL), and Li<sup>+</sup>-O (DME) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Table S3</ext-link>) show that in
+the 1 M LiTFSI in TFEE-DME electrolyte (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a), Li<sup>+</sup> is mainly coordinated
+by DME oxygen atoms with a CN = 2.7 and weakly coordinated by the
+TFSI oxygen atoms with a CN = 0.48. In contrast, in the 1 M LiTFSI
+in TFEE-DOL electrolyte (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b), Li<sup>+</sup> is predominantly coordinated by
+TFSI, with a CN = 3.8 by TFSI oxygens atoms. In addition, there are
+weak interactions between Li<sup>+</sup>-O (TFEE) and Li<sup>+</sup>-O (DOL) within the first cation solvation shell, with CNs of 0.18
+and 0.54, respectively, indicating that DOL in particular interacts
+weakly with Li<sup>+</sup> in the 1 M LiTFSI in TFEE-DOL electrolyte,
+in accordance with the literature.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The
+local solvation structures of these electrolytes based on the MD simulations
+are schematically shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S2</ext-link> and
+verified by Raman spectroscopy as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c. According to this, both DME (peak at <italic>ca</italic>. 883 cm<sup>&#x02013;1</sup>) and TFSI (<italic>ca</italic>. 748 cm<sup>&#x02013;1</sup>) coordinate with Li<sup>+</sup>, indicating
+the formation of ion pairs as well as solvation by DME. In contrast,
+no strong solvation by DOL is observed for the 1 M LiTFSI in TFEE-DOL
+electrolyte, but the peaks of TFSI (<italic>ca</italic>. 756 cm<sup>&#x02013;1</sup>), including ion pairs, and mainly unperturbed &#x0201c;free&#x0201d;
+DOL (<italic>ca</italic>. 949 cm<sup>&#x02013;1</sup>) are present,
+largely confirming the MD results. The local electrolyte structures
+were also confirmed by NMR spectroscopy. An upfield shift in the <sup>7</sup>Li NMR is observed when LiTFSI is dissolved in TFEE-DME <italic>vs</italic> the TFEE-DOL mixture, which could be due to stronger
+ion solvation or an increase in ion pairing.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup><sup>19</sup>F NMR was measured to distinguish between these two
+phenomena and a downfield shift was observed going from TFEE-DME to
+TFEE-DOL electrolyte (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S3a,b</ext-link>). This
+signifies ion solvation of Li<sup>+</sup> in 1 M LiTFSI in TFEE-DME
+electrolyte with DME solvent as well as TFSI anions and the strong
+interaction of Li<sup>+</sup> with TFSI in the 1 M LiTFSI in TFEE-DOL
+electrolyte, which is consistent with both the MD simulations and
+the Raman spectroscopy results. In essence, Li<sup>+</sup> is present
+in the form of ion pairs or higher aggregates in the electrolytes.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Li<sup>+</sup>-O radial distribution functions from the MD simulation
+trajectories for (a) 1 M LiTFSI in TFEE-DME and (b) 1 M in LiTFSI
+in TFEE-DOL. (c) Raman spectra of solvents, salt, and electrolytes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_0001" id="gr1" position="float"/></fig><p>The MD simulations of the 1 M LiTFSI in TFEE-DME
+and 1 M LiTFSI
+in TFEE-DOL electrolytes show the latter to have higher Li<sup>+</sup> mobility by the MSDs at longer time scales (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S4</ext-link>), which then is reflected in higher Li<sup>+</sup> diffusion coefficients (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Table S4</ext-link>). Using
+these diffusion coefficients to determine <inline-formula id="d34e837"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m029.gif"/></inline-formula>, it is slightly higher for the 1 M LiTFSI
+in TFEE-DOL electrolyte as compared to the 1 M LiTFSI in TFEE-DME
+electrolyte (0.50 <italic>vs</italic> 0.45). The self-diffusion of
+Li<sup>+</sup> and TFSI using PFG-NMR (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Table S4</ext-link>) again shows the 1 M LiTFSI in TFEE-DOL to have the higher Li<sup>+</sup> and TFSI diffusion coefficients. Furthermore, the calculated
+transport numbers are quite similar: 0.51 and 0.48, respectively.
+However, the diffusion coefficients differ significantly (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Tables S4 vs S5</ext-link>), which could be due to the nonpolarizable
+FF used for the MD simulations, which is unable to capture some of
+the weaker interactions.<sup><xref ref-type="bibr" rid="ref51">51</xref>&#x02212;<xref ref-type="bibr" rid="ref53">53</xref></sup></p><p>Although, MD simulations
+consider the motion of all Li<sup>+</sup>-containing species, the
+OPLS AA FF underestimates the solvent interactions<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> as it is a nonpolarizable FF which does not
+respond to electrostatic changes in the surrounding,<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> a simplification that often underestimates diffusion coefficients
+as compared to experimental data.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> The
+PFG-NMR technique, on the other hand, monitors the contributions of <sup>7</sup>Li and <sup>19</sup>F nuclei, which means that this technique
+does not discriminate free cations and anions from ion pairs or aggregates.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> PFG-NMR therefore also tends to overestimate <inline-formula id="d34e875"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m030.gif"/></inline-formula>, since all Li species are considered (charged
+or neutral, active or inactive). Second, it measures the self-diffusion
+of Li<sup>+</sup> and TFSI driven by internal kinetic energy in the
+absence of any applied electric field.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> This differs from ion migration, which is more relevant for real
+battery operation.</p><p>In addition to PFG-NMR spectroscopy and MD
+simulations, the Bruce-Vincent
+(BV) method is widely used to determine the <inline-formula id="d34e884"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m031.gif"/></inline-formula> of battery electrolytes.<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> This is an electrochemical method, originally developed for solid
+polymer electrolytes (SPEs), based on the combination of AC impedance
+and DC polarization. Although the parameter determined via this method
+is usually the <inline-formula id="d34e892"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m032.gif"/></inline-formula>, in the case of nonideal electrolytes,
+the measurement actually determines the transport due to all active
+species in the cell, which we find as more relevant for the present
+purpose and will term this parameter as <italic>transport number of
+active ions</italic>, <italic>t</italic><sub>active</sub>. Here the
+1 M LiTFSI in TFEE-DOL electrolyte showed a high <italic>t</italic><sub>active</sub> of 0.74 as compared to 0.29 for the 1 M LiTFSI
+in TFEE-DME electrolyte as shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,b. The exact values of <italic>I</italic><sub>o</sub> and <italic>I</italic><sub>s</sub> for each LHCE are
+mentioned in the zoomed-in polarization curves in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S5</ext-link>.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p><italic>t</italic><sub>active</sub> determination by BV
+method
+for (a) 1 M LiTFSI in TFEE-DME and (b) 1 M LiTFSI in TFEE-DOL LHCEs.
+(c) Low frequency EIS spectra of Li||Li cells with different numbers
+of separators for 1 M LiTFSI in TFEE-DME LHCE. (d) Scheme showing
+the difference between idealized and actually measured EIS spectrum
+of Li metal in contact with electrolyte. In the real EIS spectrum,
+we have additional contributions coming from the porous SEI layer
+on Li metal, which is formed due to the interaction of Li with the
+electrolyte. (e) Low frequency EIS spectra of Li||Li cells with different
+numbers of separators for 1 M LiTFSI in TFEE-DOL LHCE.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_0002" id="gr2" position="float"/></fig><p>Another technique fundamentally similar to the
+BV method is the
+EIS method, which uses low frequency measurements (sub-mHz). The general
+principle is the same as with the BV method (it gives the value of <italic>t</italic><sub>active</sub>), except that the diffusional resistance
+is determined directly from the impedance spectrum and not calculated
+from the difference between the DC polarization and EIS interfacial
+and electrolyte resistances. This circumvents the BV method constraints
+of fast electrode kinetics (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Note S1 and Figure S6</ext-link>). The EIS technique may be difficult to apply to <italic>e.g.</italic>, SPEs due to very low peak frequencies of the diffusional
+contributions but is a viable method for LHCEs. To assess the diffusion
+at low frequencies, the cells must be stabilized until a steady state
+is reached (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figures S7 and S8</ext-link>).</p><p>The
+low-frequency part of the spectrum obtained for the 1 M LiTFSI
+in TFEE-DME electrolyte with one Celgard separator shows three separate
+contributions (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c, at 1 Hz, 0.1 Hz, and 1 mHz), suggesting that apart from the idealized
+EIS contributions several additional processes take place in the cell.
+One reason could be unwanted interaction of the pouch cell tab with
+the electrolyte<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> and a second diffusional
+impedance due to transport in the porous SEI.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> The complexity of the low-frequency EIS region suggests several
+underlying issues.</p><p>First, since the diffusional resistance in
+the BV method is calculated
+solely as the difference between the steady state polarization current/voltage
+and the interfacial arc resistance, this clearly manifests a large
+disadvantage of the BV method, since one cannot visualize potential
+interferences due to several low frequency contributions. To more
+clearly demonstrate the latter issue &#x02013; <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d shows the idealized EIS spectrum as it
+is assumed when determining the transport number using the BV method.
+The impedance spectrum shows three separate contributions: a) the
+migration of ions in the electrolyte (&#x0003e;100 kHz), b) SEI resistance
+(100&#x02013;1000 Hz) and c) diffusion of Li<sup>+</sup> ions in the
+electrolyte (10<sup>&#x02013;2</sup>&#x02013;10<sup>&#x02013;5</sup> Hz).
+This is relatively close to the reality for SPEs which are often thicker
+and less conducting than liquid electrolytes (in separators), which
+results in larger ion migration resistances (<italic>R</italic><sub>1</sub> and <italic>R</italic><sub>2</sub>, see.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> Consequently, this means that for SPEs these contributions
+prevail over any other unwanted interfering impedance contributions.
+The high frequency resistive intercept and the low frequency Warburg
+contributions are in those cases indeed mostly due to migration and
+diffusion of ions in the SPE. In liquid electrolytes, however, the
+low frequency region of the EIS spectrum is often more complicated
+(real EIS spectrum in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d) and contains an additional EIS contribution due to diffusion
+of ions in the electrolyte contained in the porous SEI layer (<italic>c</italic>&#x02019;, 0.5&#x02013;5 Hz.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> The occurrence of this low frequency contribution suggests an additional
+high frequency contribution due to migration of ions in the same porous
+layer (<italic>a</italic>&#x02019;, &#x0003e;100 kHz). Since this contribution
+is hidden in the resistive intercept, calculation of the transport
+number for solely the separator contribution becomes impossible. The
+workaround is assuming that the transport number in the electrolyte
+is contained inside the porous SEI and the porous separator <italic>i.e.</italic>, there are no specific electrolyte &#x02013; porous
+structure interactions.</p><p>Second, due to low frequency interferences,
+it is difficult to
+identify the arc originating from the diffusion of Li<sup>+</sup> through
+the separator. One way of identifying the diffusion of Li<sup>+</sup> ions in the separator is to build cells with increasing the number
+of separators. Increase from one separator to three or nine for the
+1 M LiTFSI in TFEE-DME electrolyte, results in proportional increase
+of the resistive intercept (<italic>R</italic><sub>el</sub>) from
+3.1 &#x003a9; to 9.5 &#x003a9; and finally to 28.4 &#x003a9;, while the
+size of the high-frequency arc (at 316 Hz) remains more or less similar
+(<xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref>c and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">S9a</ext-link>). The cell with the highest number of separators
+is expected to have one dominant LF arc for separator diffusion, which
+is indeed seen at peak frequency of 1.5 mHz. This allows us to determine
+the expected peak frequencies for separator diffusion even in cells
+with lower number of separators, since the peak frequency scales inversely
+with L<sup>2</sup> (L is the distance between the electrodes).<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref59">59</xref></sup> The determined LF arc peak frequencies for 1, 3, and 9 separators
+are therefore 0.15 Hz &#x0003e; 15 mHz &#x0003e; 1.5 mHz, which is very close
+to the
+expected values. The <italic>R</italic><sub>W</sub> size changes more
+or less proportionally to L. Since the error due to additional LF
+impedance contributions is the smallest in the cell with nine separators
+added, we assume that the <italic>t</italic><sub>active</sub> value
+calculated from that measurement (0.25, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Table S6</ext-link>) is as close to correct as possible.</p><p>The same approach
+was applied to the case of 1 M LiTFSI in TFEE-DOL.
+This LHCE showed a significantly higher <italic>R</italic><sub>el</sub> than 1 M LiTFSI in TFEE-DME LHCE which is consistent with the ionic
+conductivities measured under ion blocking conditions for these two
+LHCEs (1.58 <italic>vs</italic> 4.26 mS/cm). Also, surprisingly, expected
+trends were not observed in this case, <italic>i.e.</italic>, neither <italic>R</italic><sub>el</sub> (50.4, 44, and 212 &#x003a9;) nor <italic>R</italic><sub>W</sub> (68, 48, and 113 &#x003a9;) changed proportionally with
+the monotonic increase in the number of separators (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e), which we attribute to poor
+spectra stability due to the continuous rise in the <italic>R</italic><sub>el</sub> as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S9b</ext-link>.
+For instance, the Li||Li cell with nine separators and 1 M LiTFSI
+in TFEE-DME electrolyte showed a stable <italic>R</italic><sub>el</sub> for over 24 h, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S10a</ext-link>. In contrast, 1 M LiTFSI in TFEE-DOL showed a significant increase
+in <italic>R</italic><sub>el</sub> from 123 &#x003a9; to 192 &#x003a9;
+in 24 h (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S10b</ext-link>). This drift indicates
+a reaction between the electrolyte and Li metal taking place. As discussed
+earlier,<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> the resistive intercept of the
+EIS of Li metal in contact with an electrolyte is expected to have
+two contributions: the migration resistance of the ions in the separator
+and in the porous SEI formed on the Li metal in contact with the electrolyte.
+We hypothesize that the reaction of this electrolyte with the Li metal
+forms an extensive porous SEI layer, which could explain the drift
+in the resistive intercept, due to both new layer formation and electrolyte
+decomposition, and consequently lead to poor spectra stability. We
+have determined the activation energy of the SEI, <italic>E</italic><sub>a</sub>(SEI) before and after OCV aging (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S11</ext-link>) based on references<sup><xref ref-type="bibr" rid="ref61">61</xref>,<xref ref-type="bibr" rid="ref62">62</xref></sup> and found
+minimal differences both between the electrolytes and before and after
+aging (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Note S2</ext-link>).</p><p>Therefore, this
+hypothesis was further investigated using <italic>ex situ</italic> SEM and XPS analysis of Li electrodes in contact
+with the electrolyte. The SEM images of Li metal in contact with 1
+M LiTFSI in TFEE-DME showed a flat surface, while Li metal in contact
+with 1 M LiTFSI in TFEE-DOL electrolyte showed porous formations (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a,b). We compared
+Li metal XPS spectra after the electrode had been in contact with
+the electrolyte for 1 and 100 h. With 1 M LiTFSI in TFEE-DME, there
+was an increase in &#x02212;CF<sub>3</sub> peak and a decrease in the
+&#x02212;CO<sub>3</sub> peak after 100 h (the latter originating from
+the native SEI components on the bare Li metal surface, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S12</ext-link>). This means that the new SEI layer
+was formed on the top of native SEI of Li metal. The 1 M LiTFSI in
+TFEE-DOL electrolyte showed the &#x02212;(CO<sub>2</sub>)&#x02013; peak
+after 100 h, indicating that the DOL was decomposed on the Li surface.
+In addition, Li treated with 1 M LiTFSI in TFEE-DOL electrolyte showed
+a larger increase of &#x02212;CF<sub>3</sub> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d). C 1<italic>s</italic> (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>c,d and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">S13</ext-link>) and F 1<italic>s</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S14</ext-link>). XPS spectra therefore show that the &#x0201c;free&#x0201d;
+(or less coordinating) DOL from 1 M LiTFSI in TFEE-DOL electrolyte
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>) severely
+decomposes on Li metal surface and is a possible reason why we observed
+porous formations on Li metal in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b. The in-depth discussion of how these electrolytes
+decompose on Li metal can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Note S3, Figures S13 and S14</ext-link>. The solvation structure and its effect
+on the SEI formation are schematically shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>SEM images of Li metal extracted from Li||Li
+cells for 100 h with
+(a) 1 M LiTFSI in TFEE-DME and (b) 1 M LiTFSI in TFEE-DOL electrolytes.
+In the inset of each image, the magnified image of the point of interest
+is shown. C 1<italic>s</italic> XPS spectra of Li metal treated with
+(c) 1 M LiTFSI in TFEE-DME and (d) 1 M LiTFSI in TFEE-DOL electrolytes
+for 1 and 100 h. (e) Schematic illustration of electrolyte solvation
+and SEIs formed in different electrolytes based on the results shown
+in this figure, <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Note S3</ext-link>. Please note that the schemes
+presented in (e) are neither exhaustive nor true to scale.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_0003" id="gr3" position="float"/></fig><p>The determination of <italic>t</italic><sub>active</sub> in 1 M
+LiTFSI in the TFEE-DOL case clearly suffers from unwanted interferences
+due to surface layer formations. We are therefore compelled to estimate
+an approximate <italic>t</italic><sub>active</sub> from the least
+erroneous measurements. For this purpose, we have chosen to calculate
+it using both the LF EIS measurement and BV method on the cell with
+nine separators. Since we know a porous layer is present on the electrode,
+this determination assumes that <italic>t</italic><sub>active</sub> in this porous SEI layer is the same as in the separator, since
+both migration and diffusional resistances are summed together. In
+other words, this approach could also be viewed as calculating the
+&#x0201c;average effective&#x0201d; <italic>t</italic><sub>active</sub> in the cell, which is somewhere between 0.65 (EIS) and 0.74 (BV).</p><p>The electrolytes therefore have significantly different <italic>t</italic><sub>active</sub> with the value for 1 M LiTFSI in TFEE-DME
+being approximately 1/3 of that for 1 M LiTFSI in TFEE-DOL. We subsequently
+evaluated the electrochemical performance of the electrolytes to discern
+if a higher transport number indeed results in improved performance
+in practice.</p><p>The 1 M LiTFSI in TFEE-DME electrolyte revealed
+a high CE of 98.9%
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a), stable
+for 400 cycles (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b), and with small overpotentials of <italic>ca</italic>. 21 mV (at
+50th cycle, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S15a</ext-link>) despite its low <italic>t</italic><sub>active</sub>, due to its better compatibility with
+Li metal as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. The 1 M LiTFSI in TFEE-DOL electrolyte, on the other hand,
+exhibited low CE (90.4%, <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a), poor stability, and large overpotentials (<italic>ca</italic>. 50 mV at 50th cycle, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S15b</ext-link>) (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b). Electrochemical
+results consistent with this Li metal performance were also observed
+for Li||LTO full cells (<xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>c and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">16</ext-link>), depicting that
+the 1 M LiTFSI in TFEE-DOL electrolyte gives poor electrochemical
+performance in LMBs regardless of its high <italic>t</italic><sub>active</sub>. This clearly shows that the high <italic>t</italic><sub>active</sub> does not always translate to improved performance
+with Li metal anodes in practice.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Coulombic efficiencies of Li plating and
+stripping in Li||Cu cells
+using the different LHCEs from (a) standard Aurbach method<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> and (b) galvanostatic cycling. (c) Electrochemical
+cycling performance of Li||LTO cells with the different LHCEs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_0004" id="gr4" position="float"/></fig><p>The question now is what <italic>does</italic> then
+predict the
+electrolyte performance better? Based on the impedance results shown
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, we suggest
+that one should focus on the total impedance (<italic>R</italic><sub>T</sub>) of Li metal in contact with electrolytes, <italic>i.e.</italic>, the sum of all the migration, interfacial, and diffusional resistances.
+To gain a detailed understanding, we used <italic>operando</italic> EIS to further validate the importance of measuring <italic>R</italic><sub>T</sub> instead of <italic>t</italic><sub>active</sub>. <italic>Operando</italic> EIS provides information on cell impedance under
+operation by measuring EIS spectra during cycling. The benefit of
+this technique is in the fact that EIS data measured at OCV necessitate
+an equilibration period before the EIS measurement, which can cause
+significant changes in the cell due to side-reactions such as passive
+layer formation. The shortcoming of the technique is that the cell
+potential needs to be stable enough (<italic>i.e.</italic>, changes
+on the order of a few mV are acceptable) during a single spectrum
+measurement to ensure EIS spectra stability. This means that spectra
+measurements need to be relatively fast, which limits the frequency
+range, so the low frequency information is lost.</p><p>In the initial
+cycles, both of the electrolytes showed similar
+overpotentials of about 60 mV (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figures S17</ext-link> and <xref rid="fig5" ref-type="fig">5</xref>a). The performance of the electrolytes
+with significantly different <italic>t</italic><sub>active</sub> is
+therefore at this point identical. <italic>Operando</italic> EIS measurements
+show that the reason behind this is coincidental. The largest impedance
+contribution is in both cases the SEI resistance (60% for 1 M LiTFSI
+in TFEE-DOL and 54% for 1 M LiTFSI in TFEE-DME), while the remainder
+of <italic>R</italic><sub>T</sub> is made up of the electrolyte migration
+and diffusion resistances in the ratio dictated by the <italic>t</italic><sub>active</sub> value (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b). It just so happens that the sum of resistances
+for both electrolytes results in the same value. Since the charge
+transfer reaction of Li metal anode in our system is negligible and
+the cell operation is mass-transport controlled, the i-&#x003b7; curve
+is linear at small overpotentials. Thus, assuming linearity, the overpotential
+can be used to calculate the total resistance, which in this case
+approximates to 71 &#x003a9;. A similar total resistance value can be
+seen in <italic>operando</italic> EIS spectra (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b), confirming that the system is close to
+linearity (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p><italic>Operando</italic> EIS measurements on Li||Li cells cycled
+with the different LHCEs: (a) overpotentials at the first half cycle,
+(b) GEIS spectra measured during the first half cycle, (c) overpotentials
+at the 30th cycle, and (d) GEIS spectra measured during 30th cycle.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_0005" id="gr5" position="float"/></fig><p>After 30 cycles of Li plating and stripping, the
+difference in
+the overpotentials between these two electrolytes is substantial and
+again not directly related to the <italic>t</italic><sub>active</sub> (22 <italic>vs</italic> 100 mV, <xref rid="fig5" ref-type="fig">Figures <xref rid="fig5" ref-type="fig">5</xref></xref>c and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">S15</ext-link>). For
+the 1 M LiTFSI in TFEE-DME electrolyte the <italic>operando</italic> EIS measurement shows a typical impedance spectrum associated with
+a cycled Li metal electrode.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> Specifically,
+the largest difference is the decrease in the SEI resistance (38 to
+5 &#x003a9;, <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d), which we associate with Li deposits increasing the surface area
+of the electrode (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S18</ext-link>). The electrolyte
+migration and diffusion resistances remain in a similar range of values,
+which results in an increase of their relative contributions. If we
+extrapolate the impedance spectra to lower frequencies, the total
+resistance is again similar to the overpotential value of 22 &#x003a9;.
+This value comparison also illustrates why measuring EIS in <italic>operando</italic> mode is paramount&#x02014;EIS spectra measured at
+OCV show increased impedance contributions likely stemming from passivation
+processes during mandatory equilibration period (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S19</ext-link>).</p><p>For the 1 M LiTFSI in TFEE-DOL electrolyte
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d), the spectra
+shape changes significantly
+with a large high frequency contribution accounting for 84% (&#x0223c;118
+&#x003a9;) of the total impedance. We attribute this feature to the
+sum of the electrolyte resistance and the SEI contribution. The nonconventional
+shape is therefore due to a large contribution of the migration of
+ions in the porous part of a thick SEI, which forms on the electrode
+during cycling.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> The characteristic time
+constant of the process appears to shift with progressive cycling,
+which moves the corresponding impedance arc (a&#x02019; in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d) to lower frequencies
+and into the spectral measuring range (in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> this contribution was a part of the resistive
+intercept). This results in a drawn-out arc at high frequencies. Decoupling
+the different contributions in this feature is difficult, since we
+are <italic>i)</italic> limited to only partial arc determination
+due to instrumentation limitations and <italic>ii)</italic> because
+it contains at least three different features. Namely, it consists
+of migration in separator, migration in porous SEI, and migration
+in compact SEI, out of which the compact SEI contribution has an additional
+complication with a 45&#x000b0; feature at high frequency arc start due
+to the ionic ladder effect.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> We therefore
+have not attempted to determine the individual impedance contributions
+and only conclude that the porous SEI formation dominates the impedance
+response of the 1 M LiTFSI in TFEE-DOL electrolyte and therefore also
+the overpotential and electrode performance. Assuming a 20 kHz peak
+frequency, 40 &#x003a9; resistance, and permittivity of 10, the thickness
+of the corresponding porous SEI layer is 40 nm (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Note S4</ext-link>), which explains why this layer is not evident from
+SEM micrographs of the cycled electrodes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">Figure S18</ext-link>).</p><p>The performance of the 1 M LiTFSI in TFEE-DOL electrolyte
+is therefore
+poor due to uncontrolled and continuous porous SEI formation processes,
+while the 1 M LiTFSI in TFEE-DME electrolyte overpotential depends
+on the degree of high surface area Li deposit formation &#x02013; a
+process again governed by the SEI properties. The electrolytes&#x02019;
+cycling performance are thus dictated by the SEI and not by the ion
+transport through the (bulk) electrolyte, explaining why it cannot
+be predicted by <italic>t</italic><sub>active</sub>. Although LHCEs
+suffer from poor ion transport as reported by Bergstrom et al.,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> we suggest that LHCEs are advantageous for LMBs
+in terms of interfacial stability despite their generally poor ion
+transport. Furthermore, this study also demonstrates that measuring
+EIS, particularly under <italic>operando</italic> conditions best
+describes and correlates to the electrochemical performance of LMBs
+batteries employing liquid electrolytes.</p></sec><sec id="sec4"><title>Conclusions</title><p>We found that our LHCEs based on fluorinated
+TFEE as diluent have
+quite complex solvation structures therefore determining <inline-formula id="d34e1361"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_m033.gif"/></inline-formula> is challenging and still only provides
+an inaccurate descriptor for the relevant ion transport behavior.
+In contrast, <italic>t</italic><sub>active</sub> (<italic>transport
+number of active ions)</italic>, describes the portion of charge carried
+by all ions which react on the electrode surface and we find that
+EIS gives the most accurate information on any interferences. There
+are, nevertheless, conflicting results <italic>vs</italic> the conventional
+paradigm that high <italic>t</italic><sub>active</sub> should provide
+high Coulombic efficiency and stable cycling, that we here are able
+to connect to significant migration resistance increases upon contact
+with Li metal. Based on this, we conclude that the interfacial properties
+at the Li metal anode are more crucial to the performance of LMBs
+than the ion transport through the (bulk) electrolyte. Therefore,
+the focus should be on measuring the full impedance spectrum of Li
+metal with electrolytes (particularly under <italic>operando</italic> conditions) rather than just determining <italic>t</italic><sub>active</sub>. Not only is its determination difficult due to the
+inherent complexity of LHCEs, but as shown here, it does not always
+correlate to the electrolyte performance in practice.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.chemmater.4c03067?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.chemmater.4c03067</ext-link>.<list id="silist1" list-type="simple"><list-item><p>PFG NMR spectra of electrolytes, Li<sup>+</sup> solvation
+structures of electrolytes based on MD simulations, details on the
+BV method in Note S1, EIS stabilization spectra with the evolution
+of <italic>R</italic><sub>el</sub> with time in different electrolytes,
+temperature-dependent EIS measurements to calculate <italic>E</italic><sub>a</sub>(SEI), XPS analysis of Li metal in contact with different
+electrolytes, Li plating/stripping profiles and overpotentials in
+Li||Cu cells, charge/discharge profiles of Li||LTO full cells, SEM
+analysis of cycled Li in different electrolytes, EIS spectra showing
+the comparison between <italic>operando</italic> and OCV conditions,
+and calculation of porous layer thickness from the EIS data (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemmater.4c03067/suppl_file/cm4c03067_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cm4c03067_si_001.pdf"><caption><p>cm4c03067_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors acknowledge funding from the DESTINY
+PhD Programme (European Union&#x02019;s Horizon 2020 research and innovation
+program under the Marie Sk&#x00142;odowska-Curie Actions COFUND Grant
+Agreement #945357) and additional financial support from the Slovenian
+Research Agency ARIS (core program funding P2-0423). S.D.T. acknowledges
+financial support from the Slovenian Research Agency ARIS through
+research project Z2-4465 funding. C.C.C. and P.J. acknowledge financial
+support from VINNOVA/Batteries Sweden (BASE) (grant #2019-00064) and
+the Swedish Research Council (grant #2021-00613). C.C.C., H.A.I.,
+and P.J. acknowledge the computational resources (Tetralith) provided
+by the Swedish National Infrastructure for Computing (SNIC) at the
+National Supercomputing Centre (NSC). The authors would also like
+to acknowledge Primo&#x0017e; &#x00160;ket from NIC Ljubljana for measuring
+the diffusivities of ions in the electrolytes by NMR.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Albertus</surname><given-names>P.</given-names></name>; <name><surname>Babinec</surname><given-names>S.</given-names></name>; <name><surname>Litzelman</surname><given-names>S.</given-names></name>; <name><surname>Newman</surname><given-names>A.</given-names></name>
+<article-title>Status and Challenges
+in Enabling the Lithium Metal Electrode for High-Energy and Low-Cost
+Rechargeable Batteries</article-title>. <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume> (<issue>1</issue>), <fpage>16</fpage><pub-id pub-id-type="doi">10.1038/s41560-017-0047-2</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Barnett</surname><given-names>B.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>
+<article-title>Before Li
+Ion Batteries</article-title>. <source>Chem. Rev.</source>
+<year>2018</year>, <volume>118</volume>, <fpage>11433</fpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.8b00422</pub-id>.<pub-id pub-id-type="pmid">30500179</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Popovic</surname><given-names>J.</given-names></name>
+<article-title>The Importance
+of Electrode Interfaces and Interphases for Rechargeable Metal Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>6240</fpage><pub-id pub-id-type="doi">10.1038/s41467-021-26481-8</pub-id>.<pub-id pub-id-type="pmid">34716340</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Jagger</surname><given-names>B.</given-names></name>; <name><surname>Pasta</surname><given-names>M.</given-names></name>
+<article-title>Solid Electrolyte Interphases
+in Lithium Metal Batteries</article-title>. <source>Joule</source>
+<year>2023</year>, <volume>7</volume>, <fpage>2228</fpage><pub-id pub-id-type="doi">10.1016/j.joule.2023.08.007</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Qian</surname><given-names>J.</given-names></name>; <name><surname>Henderson</surname><given-names>W. A.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Bhattacharya</surname><given-names>P.</given-names></name>; <name><surname>Engelhard</surname><given-names>M.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>
+<article-title>High Rate
+and Stable
+Cycling of Lithium Metal Anode</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume> (<issue>1</issue>), <fpage>6362</fpage><pub-id pub-id-type="doi">10.1038/ncomms7362</pub-id>.<pub-id pub-id-type="pmid">25698340</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Jiao</surname><given-names>S.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Cao</surname><given-names>R.</given-names></name>; <name><surname>Engelhard</surname><given-names>M. H.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>D.</given-names></name>; <name><surname>Mei</surname><given-names>D.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>N.</given-names></name>; <name><surname>Adams</surname><given-names>B. D.</given-names></name>; <name><surname>Ma</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>
+<article-title>Stable Cycling of High-Voltage Lithium Metal Batteries in Ether Electrolytes</article-title>. <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume> (<issue>9</issue>), <fpage>739</fpage><pub-id pub-id-type="doi">10.1038/s41560-018-0199-8</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Zhao</surname><given-names>Q.</given-names></name>; <name><surname>Stalin</surname><given-names>S.</given-names></name>; <name><surname>Archer</surname><given-names>L. A.</given-names></name>
+<article-title>Stabilizing Metal
+Battery Anodes
+through the Design of Solid Electrolyte Interphases</article-title>. <source>Joule</source>
+<year>2021</year>, <volume>5</volume>, <fpage>1119</fpage><pub-id pub-id-type="doi">10.1016/j.joule.2021.03.024</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Cao</surname><given-names>X.</given-names></name>; <name><surname>Jia</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Review&#x02014;Localized High-Concentration
+Electrolytes for Lithium Batteries</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2021</year>, <volume>168</volume> (<issue>1</issue>), <fpage>010522</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/abd60e</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Mei</surname><given-names>D.</given-names></name>; <name><surname>Han</surname><given-names>K. S.</given-names></name>; <name><surname>Engelhard</surname><given-names>M. H.</given-names></name>; <name><surname>Zhao</surname><given-names>W.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>
+<article-title>High-Voltage
+Lithium-Metal Batteries Enabled by Localized High-Concentration Electrolytes</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume> (<issue>21</issue>), <fpage>1706102</fpage><pub-id pub-id-type="doi">10.1002/adma.201706102</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Ivanishchev</surname><given-names>A. V.</given-names></name>; <name><surname>Ivanishcheva</surname><given-names>I. A.</given-names></name>
+<article-title>Ion Transport
+in Lithium Electrochemical Systems: Problems
+and Solutions</article-title>. <source>Russ. J. Electrochem.</source>
+<year>2020</year>, <volume>56</volume> (<issue>11</issue>), <fpage>907</fpage><pub-id pub-id-type="doi">10.1134/S1023193520100055</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Marcinek</surname><given-names>M.</given-names></name>; <name><surname>Syzdek</surname><given-names>J.</given-names></name>; <name><surname>Marczewski</surname><given-names>M.</given-names></name>; <name><surname>Piszcz</surname><given-names>M.</given-names></name>; <name><surname>Niedzicki</surname><given-names>L.</given-names></name>; <name><surname>Kalita</surname><given-names>M.</given-names></name>; <name><surname>Plewa-Marczewska</surname><given-names>A.</given-names></name>; <name><surname>Bitner</surname><given-names>A.</given-names></name>; <name><surname>Wieczorek</surname><given-names>P.</given-names></name>; <name><surname>Trzeciak</surname><given-names>T.</given-names></name>; et al. <article-title>Electrolytes
+for Li-ion transport &#x02013;
+Review</article-title>. <source>Solid State Ionics</source>
+<year>2015</year>, <volume>276</volume>, <fpage>107</fpage>&#x02013;<lpage>126</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2015.02.006</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Mo&#x00161;kon</surname><given-names>J.</given-names></name>; <name><surname>&#x0017d;untar</surname><given-names>J.</given-names></name>; <name><surname>Drvari&#x0010d; Talian</surname><given-names>S.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>; <name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>M.</given-names></name>
+<article-title>A Powerful Transmission
+Line Model
+for Analysis of Impedance of Insertion Battery Cells: A Case Study
+on the NMC-Li System</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2020</year>, <volume>167</volume> (<issue>14</issue>), <fpage>140539</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/abc769</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Jamnik</surname><given-names>J.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>; <name><surname>Pejovnik</surname><given-names>S.</given-names></name>
+<article-title>Powerful Electrical
+Network Model
+for the Impedance of Mixed Conductors</article-title>. <source>Electrochim.
+Acta</source>
+<year>1999</year>, <volume>44</volume> (<issue>24</issue>), <fpage>4139</fpage><pub-id pub-id-type="doi">10.1016/S0013-4686(99)00128-0</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Drvari&#x0010d;
+Talian</surname><given-names>S.</given-names></name>; <name><surname>Mo&#x00161;kon</surname><given-names>J.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>; <name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>M.</given-names></name>
+<article-title>Reactivity
+and Diffusivity of Li Polysulfides: A Fundamental Study Using Impedance
+Spectroscopy</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume> (<issue>35</issue>), <fpage>29760</fpage><pub-id pub-id-type="doi">10.1021/acsami.7b08317</pub-id>.<pub-id pub-id-type="pmid">28809476</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Ishfaq</surname><given-names>H. A.</given-names></name>; <name><surname>Talian</surname><given-names>S. D.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>; <name><surname>Gaberscek</surname><given-names>M.</given-names></name>; <name><surname>Johansson</surname><given-names>P.</given-names></name>
+<article-title>Understanding the Connection between
+Li-Ion Transport
+Number and Electrochemical Performance in Fluorinated Ether-Based
+Electrolytes</article-title>. <source>ECS Meet. Abstr.</source>
+<year>2023</year>, <volume>MA2023-02</volume> (<issue>2</issue>), <fpage>368</fpage><pub-id pub-id-type="doi">10.1149/ma2023-022368mtgabs</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Bergstrom</surname><given-names>H. K.</given-names></name>; <name><surname>McCloskey</surname><given-names>B. D.</given-names></name>
+<article-title>Ion Transport
+in (Localized) High Concentration Electrolytes
+for Li-Based Batteries</article-title>. <source>ACS Energy Lett.</source>
+<year>2024</year>, <volume>9</volume> (<issue>2</issue>), <fpage>373</fpage><pub-id pub-id-type="doi">10.1021/acsenergylett.3c01662</pub-id>.<pub-id pub-id-type="pmid">38356937</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Sudoh</surname><given-names>T.</given-names></name>; <name><surname>Ikeda</surname><given-names>S.</given-names></name>; <name><surname>Shigenobu</surname><given-names>K.</given-names></name>; <name><surname>Tsuzuki</surname><given-names>S.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Shinoda</surname><given-names>W.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>
+<article-title>Li-Ion Transport and
+Solution Structure in Sulfolane-Based Localized High-Concentration
+Electrolytes</article-title>. <source>J. Phys. Chem. C</source>
+<year>2023</year>, <volume>127</volume> (<issue>25</issue>), <fpage>12295</fpage><pub-id pub-id-type="doi">10.1021/acs.jpcc.3c02112</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Xu</surname><given-names>K.</given-names></name>
+<article-title>Navigating
+the Minefield of Battery Literature</article-title>. <source>Commun.
+Mater.</source>
+<year>2022</year>, <volume>3</volume>, <fpage>31</fpage><pub-id pub-id-type="doi">10.1038/s43246-022-00251-5</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Vargas-Barbosa</surname><given-names>N. M.</given-names></name>; <name><surname>Roling</surname><given-names>B.</given-names></name>
+<article-title>Dynamic Ion Correlations in Solid
+and Liquid Electrolytes:
+How Do They Affect Charge and Mass Transport?</article-title>. <source>ChemElectroChem</source>
+<year>2020</year>, <volume>7</volume>, <fpage>367</fpage><pub-id pub-id-type="doi">10.1002/celc.201901627</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Lei</surname><given-names>S.</given-names></name>; <name><surname>Zeng</surname><given-names>Z.</given-names></name>; <name><surname>Cheng</surname><given-names>S.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>
+<article-title>Fast-Charging of Lithium-Ion
+Batteries: A Review of Electrolyte Design Aspects</article-title>. <source>Battery Energy</source>
+<year>2023</year>, <volume>2</volume>, <fpage>20230018</fpage><pub-id pub-id-type="doi">10.1002/bte2.20230018</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Dong</surname><given-names>D.</given-names></name>; <name><surname>S&#x000e4;lzer</surname><given-names>F.</given-names></name>; <name><surname>Roling</surname><given-names>B.</given-names></name>; <name><surname>Bedrov</surname><given-names>D.</given-names></name>
+<article-title>How Efficient Is Li+
+Ion Transport in Solvate Ionic Liquids under Anion-Blocking Conditions
+in a Battery?</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2018</year>, <volume>20</volume> (<issue>46</issue>), <fpage>29174</fpage><pub-id pub-id-type="doi">10.1039/C8CP06214E</pub-id>.<pub-id pub-id-type="pmid">30426990</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Val&#x0006f;&#x00337;en</surname><given-names>L. O.</given-names></name>; <name><surname>Reimers</surname><given-names>J. N.</given-names></name>
+<article-title>Transport Properties
+of LiPF[Sub 6]-Based Li-Ion Battery
+Electrolytes</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2005</year>, <volume>152</volume> (<issue>5</issue>), <fpage>A882</fpage><pub-id pub-id-type="doi">10.1149/1.1872737</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Feng</surname><given-names>Z.</given-names></name>; <name><surname>Higa</surname><given-names>K.</given-names></name>; <name><surname>Han</surname><given-names>K. S.</given-names></name>; <name><surname>Srinivasan</surname><given-names>V.</given-names></name>
+<article-title>Evaluating
+Transport Properties and Ionic Dissociation of LiPF 6 in Concentrated
+Electrolyte</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume> (<issue>12</issue>), <fpage>A2434</fpage><pub-id pub-id-type="doi">10.1149/2.0941712jes</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Krachkovskiy</surname><given-names>S. A.</given-names></name>; <name><surname>Bazak</surname><given-names>J. D.</given-names></name>; <name><surname>Fraser</surname><given-names>S.</given-names></name>; <name><surname>Halalay</surname><given-names>I. C.</given-names></name>; <name><surname>Goward</surname><given-names>G. R.</given-names></name>
+<article-title>Determination
+of Mass Transfer Parameters and Ionic Association of LiPF 6: Organic
+Carbonates Solutions</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume> (<issue>4</issue>), <fpage>A912</fpage><pub-id pub-id-type="doi">10.1149/2.1531704jes</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>T.</given-names></name>; <name><surname>Ashirov</surname><given-names>T.</given-names></name>; <name><surname>Kazzi</surname><given-names>M. E.</given-names></name>; <name><surname>Cancellieri</surname><given-names>C.</given-names></name>; <name><surname>Jeurgens</surname><given-names>L. P. H.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Coskun</surname><given-names>A.</given-names></name>
+<article-title>Fluorinated
+Ether Electrolyte
+with Controlled Solvation Structure for High Voltage Lithium Metal
+Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume> (<issue>1</issue>), <fpage>2575</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-29199-3</pub-id>.<pub-id pub-id-type="pmid">35523785</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="book" id="cit26"><person-group person-group-type="allauthors"><name><surname>Xu</surname><given-names>K.</given-names></name></person-group><source>Electrolytes, Interfaces
+and Interphases</source>; <publisher-name>Royal Society of Chemistry</publisher-name>, <year>2023</year>. DOI: <pub-id pub-id-type="doi">10.1039/9781837671311</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Diederichsen</surname><given-names>K. M.</given-names></name>; <name><surname>McShane</surname><given-names>E. J.</given-names></name>; <name><surname>McCloskey</surname><given-names>B. D.</given-names></name>
+<article-title>Promising
+Routes to a High Li+ Transference
+Number Electrolyte for Lithium Ion Batteries</article-title>. <source>ACS Energy Lett.</source>
+<year>2017</year>, <volume>2</volume> (<issue>11</issue>), <fpage>2563</fpage><pub-id pub-id-type="doi">10.1021/acsenergylett.7b00792</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Watanabe</surname><given-names>Y.</given-names></name>; <name><surname>Ugata</surname><given-names>Y.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>
+<article-title>Does Li-Ion
+Transport Occur Rapidly in Localized High-Concentration Electrolytes?</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2023</year>, <volume>25</volume> (<issue>4</issue>), <fpage>3092</fpage><pub-id pub-id-type="doi">10.1039/D2CP05319E</pub-id>.<pub-id pub-id-type="pmid">36621826</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Cao</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>P.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Zou</surname><given-names>L.</given-names></name>; <name><surname>Engelhard</surname><given-names>M. H.</given-names></name>; <name><surname>Matthews</surname><given-names>B. E.</given-names></name>; <name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Niu</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Arey</surname><given-names>B. W.</given-names></name>; et al. <article-title>Effects of Fluorinated Solvents on Electrolyte Solvation
+Structures and Electrode/Electrolyte Interphases for Lithium Metal
+Batteries</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2021</year>, <volume>118</volume> (<issue>9</issue>), <elocation-id>e2020357118</elocation-id><pub-id pub-id-type="doi">10.1073/pnas.2020357118</pub-id>.<pub-id pub-id-type="pmid">33632763</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Zhang</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Chi</surname><given-names>S. S.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Ke</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Chang</surname><given-names>J.</given-names></name>; et al. <article-title>Molecular
+Design of Competitive Solvation Electrolytes for Practical High-Energy
+and Long-Cycling Lithium-Metal Batteries</article-title>. <source>Adv.
+Funct. Mater.</source>
+<year>2023</year>, <volume>34</volume>, <fpage>2312413</fpage><pub-id pub-id-type="doi">10.1002/adfm.202312413</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Yin</surname><given-names>L.</given-names></name>; <name><surname>Shi</surname><given-names>H.</given-names></name>; <name><surname>He</surname><given-names>K.</given-names></name>; <name><surname>Cheng</surname><given-names>H. M.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>
+<article-title>Suppressing
+Lithium Dendrite Formation by Slowing Its Desolvation Kinetics</article-title>. <source>Chem. Commun.</source>
+<year>2019</year>, <volume>55</volume> (<issue>88</issue>), <fpage>13211</fpage>&#x02013;<lpage>13214</lpage>. <pub-id pub-id-type="doi">10.1039/C9CC07092C</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Stejskal</surname><given-names>E. O.</given-names></name>; <name><surname>Tanner</surname><given-names>J. E.</given-names></name>
+<article-title>Spin Diffusion Measurements:
+Spin Echoes in the Presence
+of a Time-Dependent Field Gradient</article-title>. <source>J. Chem.
+Phys.</source>
+<year>1965</year>, <volume>42</volume> (<issue>1</issue>), <fpage>288</fpage><pub-id pub-id-type="doi">10.1063/1.1695690</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Plimpton</surname><given-names>S.</given-names></name>
+<article-title>Fast Parallel
+Algorithms for Short-Range Molecular Dynamics</article-title>. <source>J. Comput. Phys.</source>
+<year>1995</year>, <volume>117</volume> (<issue>1</issue>), <fpage>1</fpage><pub-id pub-id-type="doi">10.1006/jcph.1995.1039</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>; <name><surname>Maxwell</surname><given-names>D. S.</given-names></name>; <name><surname>Tirado-Rives</surname><given-names>J.</given-names></name>
+<article-title>Development and Testing of the OPLS
+All-Atom Force Field on Conformational Energetics and Properties of
+Organic Liquids</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1996</year>, <volume>118</volume> (<issue>45</issue>), <fpage>11225</fpage><pub-id pub-id-type="doi">10.1021/ja9621760</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>; <name><surname>Tirado-Rives</surname><given-names>J.</given-names></name>
+<article-title>Potential
+Energy Functions for Atomic-Level Simulations
+of Water and Organic and Biomolecular Systems</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2005</year>, <volume>102</volume>, <fpage>6665</fpage><pub-id pub-id-type="doi">10.1073/pnas.0408037102</pub-id>.<pub-id pub-id-type="pmid">15870211</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Dodda</surname><given-names>L. S.</given-names></name>; <name><surname>De Vaca</surname><given-names>I. C.</given-names></name>; <name><surname>Tirado-Rives</surname><given-names>J.</given-names></name>; <name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>
+<article-title>LigParGen
+Web Server: An Automatic OPLS-AA Parameter Generator for Organic Ligands</article-title>. <source>Nucleic Acids Res.</source>
+<year>2017</year>, <volume>45</volume> (<issue>W1</issue>), <fpage>W331</fpage>&#x02013;<lpage>W336</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkx312</pub-id>.<pub-id pub-id-type="pmid">28444340</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Dodda</surname><given-names>L. S.</given-names></name>; <name><surname>Vilseck</surname><given-names>J. Z.</given-names></name>; <name><surname>Tirado-Rives</surname><given-names>J.</given-names></name>; <name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>
+<article-title>1.14 CM1A-LBCC:
+Localized Bond-Charge Corrected CM1A Charges for Condensed-Phase Simulations</article-title>. <source>J. Phys. Chem. B</source>
+<year>2017</year>, <volume>121</volume> (<issue>15</issue>), <fpage>3864</fpage><pub-id pub-id-type="doi">10.1021/acs.jpcb.7b00272</pub-id>.<pub-id pub-id-type="pmid">28224794</pub-id>
+</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>P&#x000e1;dua</surname><given-names>A. A. H.</given-names></name>
+<article-title>Resolving
+Dispersion and Induction Components for Polarisable Molecular Simulations
+of Ionic Liquids</article-title>. <source>J. Chem. Phys.</source>
+<year>2017</year>, <volume>146</volume> (<issue>20</issue>), <fpage>204501</fpage><pub-id pub-id-type="doi">10.1063/1.4983687</pub-id>.<pub-id pub-id-type="pmid">28571336</pub-id>
+</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Self</surname><given-names>J.</given-names></name>; <name><surname>Fong</surname><given-names>K. D.</given-names></name>; <name><surname>Persson</surname><given-names>K. A.</given-names></name>
+<article-title>Transport in Superconcentrated LiPF6
+and LiBF4/Propylene Carbonate Electrolytes</article-title>. <source>ACS Energy Lett.</source>
+<year>2019</year>, <volume>4</volume> (<issue>12</issue>), <fpage>2843</fpage><pub-id pub-id-type="doi">10.1021/acsenergylett.9b02118</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Rudnicki</surname><given-names>P. E.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Celik</surname><given-names>H.</given-names></name>; <name><surname>Oyakhire</surname><given-names>S. T.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Kong</surname><given-names>X.</given-names></name>; <name><surname>Kim</surname><given-names>S. C.</given-names></name>; <name><surname>Xiao</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Zheng</surname><given-names>Y.</given-names></name>; <name><surname>Kamat</surname><given-names>G. A.</given-names></name>; <name><surname>Kim</surname><given-names>M. S.</given-names></name>; <name><surname>Bent</surname><given-names>S. F.</given-names></name>; <name><surname>Qin</surname><given-names>J.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>
+<article-title>Rational Solvent Molecule Tuning for High-Performance Lithium Metal
+Battery Electrolytes</article-title>. <source>Nat. Energy</source>
+<year>2022</year>, <volume>7</volume> (<issue>1</issue>), <fpage>94</fpage><pub-id pub-id-type="doi">10.1038/s41560-021-00962-y</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>France-Lanord</surname><given-names>A.</given-names></name>; <name><surname>Grossman</surname><given-names>J. C.</given-names></name>
+<article-title>Correlations from
+Ion Pairing and the Nernst-Einstein
+Equation</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2019</year>, <volume>122</volume> (<issue>13</issue>), <fpage>136001</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.122.136001</pub-id>.<pub-id pub-id-type="pmid">31012622</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Hardgrave</surname><given-names>M. T.</given-names></name>; <name><surname>Vincent</surname><given-names>C. A.</given-names></name>
+<article-title>Steady State Current Flow in Solid
+Binary Electrolyte Cells. Part 2. The Effect of Ion Association</article-title>. <source>J. Electroanal. Chem.</source>
+<year>1989</year>, <volume>271</volume> (<issue>1&#x02013;2</issue>), <fpage>27</fpage><pub-id pub-id-type="doi">10.1016/0022-0728(89)80061-0</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Vincent</surname><given-names>C. A.</given-names></name>
+<article-title>Steady State Current Flow in Solid
+Binary Electrolyte
+Cells</article-title>. <source>J. Electroanal. Chem.</source>
+<year>1987</year>, <volume>225</volume> (<issue>1&#x02013;2</issue>), <fpage>1</fpage><pub-id pub-id-type="doi">10.1016/0022-0728(87)80001-3</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Popovic</surname><given-names>J.</given-names></name>; <name><surname>H&#x000f6;fler</surname><given-names>D.</given-names></name>; <name><surname>Melchior</surname><given-names>J. P.</given-names></name>; <name><surname>M&#x000fc;nchinger</surname><given-names>A.</given-names></name>; <name><surname>List</surname><given-names>B.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>
+<article-title>High Lithium
+Transference Number
+Electrolytes Containing Tetratriflylpropene&#x02019;s Lithium Salt</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2018</year>, <volume>9</volume> (<issue>17</issue>), <fpage>5116</fpage><pub-id pub-id-type="doi">10.1021/acs.jpclett.8b01846</pub-id>.<pub-id pub-id-type="pmid">30070848</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Wohde</surname><given-names>F.</given-names></name>; <name><surname>Balabajew</surname><given-names>M.</given-names></name>; <name><surname>Roling</surname><given-names>B.</given-names></name>
+<article-title>Li + Transference Numbers
+in Liquid
+Electrolytes Obtained by Very-Low-Frequency Impedance Spectroscopy
+at Variable Electrode Distances</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2016</year>, <volume>163</volume> (<issue>5</issue>), <fpage>A714</fpage>&#x02013;<lpage>A721</lpage>. <pub-id pub-id-type="doi">10.1149/2.0811605jes</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>S&#x000f8;rensen</surname><given-names>P. R.</given-names></name>; <name><surname>Jacobsen</surname><given-names>T.</given-names></name>
+<article-title>Conductivity, charge transfer and transport number&#x02014;an
+ac-investigation of the polymer electrolyte LiSCN-poly(ethyleneoxide)</article-title>. <source>Electrochim. Acta</source>
+<year>1982</year>, <volume>27</volume> (<issue>12</issue>), <fpage>1671</fpage>&#x02013;<lpage>1675</lpage>. <pub-id pub-id-type="doi">10.1016/0013-4686(82)80162-X</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Adams</surname><given-names>B. D.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>J. -G.</given-names></name>
+<article-title>Accurate
+Determination of Coulombic Efficiency for Lithium Metal Anodes and
+Lithium Metal Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume> (<issue>7</issue>), <fpage>1702097</fpage><pub-id pub-id-type="doi">10.1002/aenm.201702097</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>T.</given-names></name>; <name><surname>Jeurgens</surname><given-names>L. P. H.</given-names></name>; <name><surname>Kong</surname><given-names>X.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Coskun</surname><given-names>A.</given-names></name>
+<article-title>Electrolyte Engineering for Highly
+Inorganic Solid
+Electrolyte Interphase in High-Performance Lithium Metal Batteries</article-title>. <source>Chem</source>
+<year>2023</year>, <volume>9</volume> (<issue>3</issue>), <fpage>682</fpage><pub-id pub-id-type="doi">10.1016/j.chempr.2022.12.005</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Yi</surname><given-names>T. F.</given-names></name>; <name><surname>Yang</surname><given-names>S. Y.</given-names></name>; <name><surname>Xie</surname><given-names>Y.</given-names></name>
+<article-title>Recent Advances of Li4Ti5O12 as a
+Promising next Generation Anode Material for High Power Lithium-Ion
+Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume> (<issue>11</issue>), <fpage>5750</fpage><pub-id pub-id-type="doi">10.1039/C4TA06882C</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Amanchukwu</surname><given-names>C. V.</given-names></name>; <name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Kong</surname><given-names>X.</given-names></name>; <name><surname>Qin</surname><given-names>J.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>
+<article-title>A New Class
+of Ionically Conducting Fluorinated Ether Electrolytes with High Electrochemical
+Stability</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume> (<issue>16</issue>), <fpage>7393</fpage>&#x02013;<lpage>7403</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.9b11056</pub-id>.<pub-id pub-id-type="pmid">32233433</pub-id>
+</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Bedrov</surname><given-names>D.</given-names></name>; <name><surname>Piquemal</surname><given-names>J. P.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>MacKerell</surname><given-names>A. D.</given-names></name>; <name><surname>Roux</surname><given-names>B.</given-names></name>; <name><surname>Schr&#x000f6;der</surname><given-names>C.</given-names></name>
+<article-title>Molecular
+Dynamics Simulations of
+Ionic Liquids and Electrolytes Using Polarizable Force Fields</article-title>. <source>Chem. Rev.</source>
+<year>2019</year>, <volume>119</volume> (<issue>13</issue>), <fpage>7940</fpage>&#x02013;<lpage>7995</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.8b00763</pub-id>.<pub-id pub-id-type="pmid">31141351</pub-id>
+</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Leontyev</surname><given-names>I.</given-names></name>; <name><surname>Stuchebrukhov</surname><given-names>A.</given-names></name>
+<article-title>Accounting
+for Electronic Polarization in Non-Polarizable
+Force Fields</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2011</year>, <volume>13</volume> (<issue>7</issue>), <fpage>2613</fpage>&#x02013;<lpage>2626</lpage>. <pub-id pub-id-type="doi">10.1039/c0cp01971b</pub-id>.<pub-id pub-id-type="pmid">21212894</pub-id>
+</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Messias</surname><given-names>A.</given-names></name>; <name><surname>da Silva</surname><given-names>D. A. C.</given-names></name>; <name><surname>Fileti</surname><given-names>E. E.</given-names></name>
+<article-title>Salt-in-Water
+and Water-in-Salt Electrolytes:
+The Effects of the Asymmetry in Cation and Anion Valence on Their
+Properties</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2022</year>, <volume>24</volume> (<issue>1</issue>), <fpage>336</fpage>&#x02013;<lpage>346</lpage>. <pub-id pub-id-type="doi">10.1039/d1cp04259a</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Grossfield</surname><given-names>A.</given-names></name>; <name><surname>Ren</surname><given-names>P.</given-names></name>; <name><surname>Ponder</surname><given-names>J. W.</given-names></name>
+<article-title>Ion Solvation
+Thermodynamics from Simulation with a
+Polarizable Force Field</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2003</year>, <volume>125</volume> (<issue>50</issue>), <fpage>15671</fpage><pub-id pub-id-type="doi">10.1021/ja037005r</pub-id>.<pub-id pub-id-type="pmid">14664617</pub-id>
+</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Jorge</surname><given-names>M.</given-names></name>
+<article-title>Theoretically
+Grounded Approaches to Account for Polarization Effects in Fixed-Charge
+Force Fields</article-title>. <source>J. Chem. Phys.</source>
+<year>2024</year>, <volume>161</volume> (<issue>18</issue>), <fpage>180901</fpage><pub-id pub-id-type="doi">10.1063/5.0236899</pub-id>.<pub-id pub-id-type="pmid">39513441</pub-id>
+</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Han</surname><given-names>K. S.</given-names></name>; <name><surname>Bazak</surname><given-names>J. D.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Graham</surname><given-names>T. R.</given-names></name>; <name><surname>Washton</surname><given-names>N. M.</given-names></name>; <name><surname>Hu</surname><given-names>J. Z.</given-names></name>; <name><surname>Murugesan</surname><given-names>V.</given-names></name>; <name><surname>Mueller</surname><given-names>K. T.</given-names></name>
+<article-title>Pulsed Field Gradient
+Nuclear Magnetic Resonance and Diffusion Analysis in Battery Research</article-title>. <source>Chem. Mater.</source>
+<year>2021</year>, <volume>33</volume>, <fpage>8562</fpage><pub-id pub-id-type="doi">10.1021/acs.chemmater.1c02891</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Drvari&#x0010d;
+Talian</surname><given-names>S.</given-names></name>; <name><surname>Mo&#x00161;kon</surname><given-names>J.</given-names></name>; <name><surname>Tchernychova</surname><given-names>E.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>; <name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>M.</given-names></name>
+<article-title>Influence of the Cell
+Casing on the Impedance of the Lithium Metal Electrode</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2023</year>, <volume>170</volume> (<issue>11</issue>), <fpage>110529</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/ad0b45</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Drvari&#x0010d;
+Talian</surname><given-names>S.</given-names></name>; <name><surname>Bobnar</surname><given-names>J.</given-names></name>; <name><surname>Sinigoj</surname><given-names>A. R.</given-names></name>; <name><surname>Humar</surname><given-names>I.</given-names></name>; <name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>M.</given-names></name>
+<article-title>Transmission Line Model for Description
+of the Impedance Response of Li Electrodes with Dendritic Growth</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume> (<issue>46</issue>), <fpage>27997</fpage><pub-id pub-id-type="doi">10.1021/acs.jpcc.9b05887</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Drvari&#x0010d;
+Talian</surname><given-names>S.</given-names></name>; <name><surname>Mo&#x00161;kon</surname><given-names>J.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>; <name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>M.</given-names></name>
+<article-title>Impedance
+Response of Porous Carbon Cathodes in Polysulfide Redox System</article-title>. <source>Electrochim. Acta</source>
+<year>2019</year>, <volume>302</volume>, <fpage>169</fpage><pub-id pub-id-type="doi">10.1016/j.electacta.2019.02.037</pub-id>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Drvari&#x0010d;
+Talian</surname><given-names>S.</given-names></name>; <name><surname>Mo&#x00161;kon</surname><given-names>J.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>; <name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>M.</given-names></name>
+<article-title>The Pitfalls
+and Opportunities of Impedance Spectroscopy of Lithium Sulfur Batteries</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2022</year>, <volume>9</volume> (<issue>8</issue>), <fpage>2101116</fpage><pub-id pub-id-type="doi">10.1002/admi.202101116</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Lim</surname><given-names>K.</given-names></name>; <name><surname>Popovic</surname><given-names>J.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>
+<article-title>Ion Transport and Growth Behavior
+of Solid Electrolyte Interphases on Li and Na with Liquid Electrolytes
+Based on Impedance Analysis</article-title>. <source>J. Mater. Chem.
+A</source>
+<year>2023</year>, <volume>11</volume> (<issue>11</issue>), <fpage>5725</fpage><pub-id pub-id-type="doi">10.1039/D2TA09189E</pub-id>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Lim</surname><given-names>K.</given-names></name>; <name><surname>Fenk</surname><given-names>B.</given-names></name>; <name><surname>Popovic</surname><given-names>J.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>
+<article-title>Porosity of Solid Electrolyte
+Interphases on Alkali Metal Electrodes with Liquid Electrolytes</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume> (<issue>43</issue>), <fpage>51767</fpage><pub-id pub-id-type="doi">10.1021/acsami.1c15607</pub-id>.<pub-id pub-id-type="pmid">34669366</pub-id>
+</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Drvari&#x0010d;
+Talian</surname><given-names>S.</given-names></name>; <name><surname>Bobnar</surname><given-names>J.</given-names></name>; <name><surname>Mo&#x00161;kon</surname><given-names>J.</given-names></name>; <name><surname>Dominko</surname><given-names>R.</given-names></name>; <name><surname>Gaber&#x00161;&#x0010d;ek</surname><given-names>M.</given-names></name>
+<article-title>Effect of High Concentration
+of Polysulfides on Li Stripping and Deposition</article-title>. <source>Electrochim. Acta</source>
+<year>2020</year>, <volume>354</volume>, <fpage>136696</fpage><pub-id pub-id-type="doi">10.1016/j.electacta.2020.136696</pub-id>.</mixed-citation></ref></ref-list></back></article>

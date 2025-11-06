@@ -1,0 +1,593 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Nano</journal-id><journal-id journal-id-type="iso-abbrev">ACS Nano</journal-id><journal-id journal-id-type="publisher-id">nn</journal-id><journal-id journal-id-type="coden">ancac3</journal-id><journal-title-group><journal-title>ACS Nano</journal-title></journal-title-group><issn pub-type="ppub">1936-0851</issn><issn pub-type="epub">1936-086X</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">10851659</article-id><article-id pub-id-type="pmid">38284312</article-id>
+<article-id pub-id-type="doi">10.1021/acsnano.3c10146</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Electrochemical
+Activation of Fe-LiF Conversion Cathodes
+in Thin-Film Solid-State Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2098-2983</contrib-id><name><surname>Casella</surname><given-names>Joel</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0770-461X</contrib-id><name><surname>Morzy</surname><given-names>J&#x00229;drzej</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Gilshtein</surname><given-names>Evgeniia</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2006-2466</contrib-id><name><surname>Yarema</surname><given-names>Maksym</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8451-5009</contrib-id><name><surname>Futscher</surname><given-names>Moritz H.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Romanyuk</surname><given-names>Yaroslav E.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Laboratory
+for Thin Films and Photovoltaics, <institution>Empa &#x02013;
+Swiss Federal Laboratories for Materials Science and Technology</institution>, 8600 D&#x000fc;bendorf, <country>Switzerland</country></aff><aff id="aff2"><label>&#x02021;</label>Chemistry
+and Materials Design, Institute for Electronics,, <institution>Department of Information Technology and Electrical Engineering,
+ETH Z&#x000fc;rich</institution>, 8092 Z&#x000fc;rich, <country>Switzerland</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>joel.casella@empa.ch</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>yaroslav.romanyuk@empa.ch</email>.</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>01</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>06</day><month>02</month><year>2024</year></pub-date><volume>18</volume><issue>5</issue><fpage>4352</fpage><lpage>4359</lpage><history><date date-type="received"><day>17</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>19</day><month>01</month><year>2024</year></date><date date-type="rev-recd"><day>19</day><month>01</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn3c10146_0006" id="ab-tgr1"/></p><p>Transition metal
+fluoride (TMF) conversion-type cathodes promise
+up to 4 times higher gravimetric energy densities compared to those
+of common intercalation-type cathodes. However, TMF cathodes demonstrate
+sluggish kinetics, poor efficiencies, and incompatibility with many
+liquid electrolytes. In this work, coevaporated heterostructured iron
+and lithium fluoride (Fe-LiF) cathodes are investigated in thin-film
+solid-state batteries with a LiPON electrolyte and a lithium metal
+anode. The cells were cycled 2000 times at a cycling rate of 6C. They
+show a gradual improvement in voltaic efficiency (37&#x02013;53%) and
+specific capacity (146&#x02013;216 mAh/g) during cycling. After 2000
+cycles, the cathode capacity reaches 480 mAh/g at a cycling rate of
+C/3.6, close to its theoretical capacity of 498 mAh/g, at room temperature
+conditions. This capacity gain is correlated with an observed electrochemically
+activated nanorestructuring of the cathode, characterized by cycling-induced
+coarsening (from 2.8 to 4.2 nm) of the metallic iron phase and its
+accumulation near the current collector interface, as well as lithium
+fluoride phase accumulation near the LiPON interface.</p></abstract><kwd-group><kwd>Li-ion battery</kwd><kwd>solid-state
+battery</kwd><kwd>thin film</kwd><kwd>iron fluoride</kwd><kwd>conversion
+cathode</kwd><kwd>LiPON</kwd><kwd>battery</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>European Commission</institution><institution-id institution-id-type="doi">10.13039/100010661</institution-id></institution-wrap></funding-source><award-id>95817</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>ETH Z&#x000c3;&#x00083;&#x000c2;&#x000bc;rich Foundation</institution><institution-id institution-id-type="doi">10.13039/501100012652</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Eidgen&#x000c3;&#x00083;&#x000c2;&#x000b6;ssisches Departement f&#x000c3;&#x00083;&#x000c2;&#x000bc;r Umwelt, Verkehr, Energie und Kommunikation</institution><institution-id institution-id-type="doi">10.13039/501100005380</institution-id></institution-wrap></funding-source><award-id>SI/502460-01</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Nederlandse Organisatie voor Wetenschappelijk Onderzoek</institution><institution-id institution-id-type="doi">10.13039/501100003246</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>nn3c10146</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>nn3c10146</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Intercalation cathodes are reaching their
+physicochemical power
+and energy density limits and hence, other cathode materials are being
+explored for lithium-ion batteries (LIBs).<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> State-of-the-art
+intercalation-type positive electrodes (cathodes) mostly contain transition
+metal oxides (LiMeO<sub>2</sub>, LiMePO<sub>4</sub>, where Me = Fe,
+Co, Ni, Mn, etc.), and are widely used thanks to their cyclability
+and good power density.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Transition-metal fluoride (TMF)
+cathodes which operate via a conversion reaction promise up to 4 times
+more gravimetric Li<sup>+</sup> storage capacity than intercalation
+cathodes.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> FeF<sub>3</sub> and FeF<sub>2</sub> are by far the most studied TMF cathodes with theoretical
+energy densities when in charged states (delithiated) of 713 and 587
+mAh/g and 2600 and 2363 mAh/cm<sup>3</sup>, respectively (FeF<sub><italic>x</italic></sub> + <italic>x</italic>Li<sup>+</sup> + <italic>x</italic>e<sup>&#x02013;</sup> &#x02194; Fe + <italic>x</italic>LiF,
+with <italic>x</italic> = 2 or 3).<sup><xref ref-type="bibr" rid="ref6">6</xref>&#x02212;<xref ref-type="bibr" rid="ref10">10</xref></sup> The theoretical capacities of the discharged (lithiated) products
+(Fe + 3LiF and Fe + 2LiF) are slightly lower at 604 and 498 mAh/g
+and 2202 and 2003 mAh/cm<sup>3</sup>, respectively (as calculated
+based on their molar mass). Comparatively, LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811), a common cathode
+material for commercial LIB production, has a theoretical discharge
+capacity of 275 mAh/g (discharged state, calculated by removing 1
+stoichiometric equivalent of Li<sup>+</sup> from LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub>) and a practical capacity
+of &#x0223c;200 mAh/g (cycled to 4.2 V vs Li/Li<sup>+</sup>).<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup></p><p>However, TMF cathodes exhibit sluggish kinetics and poor reversibility,
+leading to difficulties in accessing all of their Li<sup>+</sup> capacity.
+In practice, significant quantities of conductive additives are included
+in the cathode matrix (20&#x02013;60% by weight of cathode layer) to
+achieve sufficient cathode utilization.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> In doing so,
+it can be difficult to study and understand pure material characteristics.
+In addition, TMF cathodes are plagued by poor stability versus many
+liquid electrolytes.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> In liquid electrolytes, cathode
+dissolution and ion shuttling have a detrimental effect on the capacity
+and rate performance of TMF cathodes.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Furthermore, due to the volume and phase changes of such cathodes,
+solid electrolyte interface (SEI) stability and particle disintegration/fusing
+can also have a detrimental effect on capacity.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>Zhao et al. reported a lithiated iron fluoride cathode
+(1 Fe +
+1 LiF) grown using pulsed laser deposition and could observe 350 mAh/g
+(41.6 mA/g current density) in a liquid electrolyte half-cell.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Furthermore, Zhao et al. also showed a mixed
+metal cathode (1 Cu + 1 Fe + 2 LiF) with 420 mAh/g (41.6 mA/g current
+density) capacity with 88% capacity retention after 200 cycles (95%
+coulombic efficiency).</p><p>In this work, a 1 Fe + 2 LiF thin-film
+cathode was grown by thermal
+coevaporation. Using thin-film deposition techniques, well-controlled
+and pure materials can be used to create model cell systems that do
+not require any additives. In this way, the electrochemical activity
+of the TMF cathodes can be isolated. This cathode was cycled against
+a Li-metal anode, using a LiPON solid electrolyte. LiPON had been
+selected due to its stability in a wide potential window.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> The Fe-LiF cathode was investigated electrochemically
+in order to better understand how it behaves in contact with LiPON.
+An electrochemically driven activation mechanism is observed at certain
+cycling rates connected to a change in microstructure that is studied
+through microscopy.</p></sec><sec id="sec2"><title>Results and Discussion</title><p>Coevaporation
+was used to create a well-mixed, heterogeneous 2-phase
+system of Fe and LiF as the cathode (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a). Cathode thickness was varied depending
+on the requirements for different experiments, but the deposition
+conditions (deposition rates, substrate temperature, rotation speed,
+etc.) are kept constant. The high-angle annular dark-field scanning
+transmission electron microscopy (HAADF-STEM) micrograph (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b) shows darker and
+brighter regions, indicating Li- and F-rich domains and Fe-rich domains,
+respectively. The layer thickness is mostly constant throughout the
+imaged area. The Fe-rich nanodomains measure roughly 2&#x02013;3 nm
+in diameter (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S1</ext-link>). This nanodomain
+size is likely related to the deposition rate of the layers and could
+be tuned to achieve different cathode characteristics. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c is a top-view photograph
+of 18 fully assembled thin-film solid-state cells on a Ti (200 nm
+thick) and TiN (50 nm thick) coated glass substrate measuring 25 &#x000d7;
+25 mm<sup>2</sup>. The inset image depicts a close-up of one cell
+and where the cathode was placed within the structure (embedded under
+subsequent layers; red dotted line). The cathode is circular, with
+an active area of 5 mm<sup>2</sup> (2.73 mm cathode diameter). The
+cathode was then fully covered by a LiPON electrolyte (1000 nm thick,
+outermost edge of the cell structure). Finally, an anode (2000 nm
+thick Li and 200 nm thick Cu) was deposited in the inset from the
+electrolyte layer to avoid short circuiting to the Ti layer, but with
+an area larger than the cathode area to ensure full cathode activity
+(gold-colored layer in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). 2000 nm thick metallic Li was used as a Li reservoir that
+also provides a stable electrochemical potential in order to isolate
+cathode electrochemistry. All layers are also shown with cross-sectional
+SEM micrographs in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d. XPS and XRD measurements were conducted to determine the
+chemical state and the crystallography. The results confirm the presence
+of Fe metal and LiF salt within the cathode matrix through their respective
+crystallographic peaks and binding energies (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figures S2 and S3 and Supplementary Note 1</ext-link>). Cathode composition
+was controlled during deposition by calibrated independent quartz-crystal
+microbalances measuring the deposition rates of Fe and LiF independently.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p><bold>Fe-LiF cathode and solid-state cell structure</bold> (a)
+Schematic of the coevaporation step conducted for fabrication of Fe-LiF
+cathodes. (b) HAADF-STEM micrograph of the as-deposited cathode on
+a Ti (200 nm) and TiN (50 nm) coated glass substrate. (c) Photograph
+of the as-deposited array of thin-film cells. The inset shows an enlarged
+view of a single cell, and the dotted red line indicates the cathode
+active area (5 mm<sup>2</sup>). (d) FIB-SEM image of a cell cross
+section.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn3c10146_0001" id="gr1" position="float"/></fig><p>For this work, cut-off voltages
+for charging and discharging the
+cells were 5 and 0.5 V (vs Li<sup>+</sup>/Li), respectively. This
+range was chosen in order to maximize TMF cathode utilization while
+still maintaining LiPON electrolyte stability (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S4</ext-link>). Above 5 V, the side reactions of the electrolyte
+become significant, leading to considerable cell degradation over
+long-term cycling. For voltages below 0.5 V, there is no significant
+capacity contribution, thus falling outside the optimal operational
+range for the battery. Setting the cutoff voltage at 0.5 V also helps
+in circumventing issues related to Li alloying or plating on the cathode
+side. The typical voltage profiles of the cells are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a. The low Coulombic
+efficiency (61.1%) during the first cycle is due to side reactions,
+which are likely to occur as the Li<sup>+</sup> ions shuttle toward
+the anode, forming a solid&#x02013;electrolyte interface at the LiPON&#x02013;Li
+interface.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> In addition, overlithiation
+of the cathode (due to sputtering of the LiPON electrolyte) may also
+impact the low coulombic efficiency of the first cycle.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The second cycle shows that the cathode discharge
+capacity is 261 mAh/g, roughly half of the theoretical capacity. This
+discrepancy is likely linked to poor kinetics within the cathode layer
+in its pristine state. It is well understood that Li<sup>+</sup> conductivity
+in LiF is highly dependent on its crystal structure and favors an
+amorphous phase.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> As shown by Zhao et
+al., a mild post-deposition annealing process (200 &#x000b0;C for 2 h
+under high-vacuum) of similar cathodes improves the pristine lithiated
+cathode performance.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> In fact, after an
+activation protocol (5 cycles at C/8, 100 cycles at 6C, 5 cycles at
+C/8, and 100 cycles at 6C, explained in more detail later), the cell
+capacity is dramatically improved and reaches 480 mAh/g, very close
+to the expected theoretical capacity.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p><bold>Electrochemical characterization</bold> (a) Charge&#x02013;discharge
+curves of the first, second, and after electrochemical activation
+cycle of a Fe-LiF cell measured at 138 mA/g (roughly C/3.6 vs theoretical
+capacity). (b) GITT measurement results. The blue dashed line indicates
+the pseudoequilibrium voltage profile of the cell as measured from
+the data points after each rest phase. (c) d<italic>Q</italic>/d<italic>V</italic> curves as calculated by the pseudoequilibrium voltage
+profile obtained from the GITT measurement and the voltage profile
+of the second and after activation cycles in (a).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn3c10146_0002" id="gr2" position="float"/></fig><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b show the
+results of a galvanostatic intermittent titration technique (GITT)
+measurement performed with 2 min current pulses (same current density
+as in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) and
+30 min rest phases. In this technique, the kinetic and equilibrium
+phenomena can be deconvoluted and studied independently.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> Polarization is significantly impacted by the
+state-of-charge of the cell. This indicates that the charged and discharged
+states of the cathode exhibit dramatically different kinetic properties.
+This is also confirmed through electrochemical impedance spectroscopy
+(see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S5</ext-link>) where the cathode conductivity
+is calculated (through equivalent circuit fitting) to be 2.4 &#x000b1;
+0.1 &#x000d7; 10<sup>&#x02013;8</sup> and 1.3 &#x000b1; 0.2 &#x000d7; 10<sup>&#x02013;10</sup> S/cm for the discharged and charged states respectively
+(errors represent one standard deviation of confidence). Hence, not
+only the reaction activation energy can affect cell overpotentials,
+but also the 2 orders of magnitude change in cathode conductivity
+between discharged and charged states. As shown by <xref rid="fig2" ref-type="fig">Figure<xref rid="fig2" ref-type="fig">2</xref></xref>b, kinetic limitations of such
+thin TMF cathodes cannot be neglected. At a charging rate of 138 mA/g,
+overpotentials as high as 2 V are observed when the cathode is fully
+charged. The thin-film system allows us to precisely probe such kinetic
+limitations of pure cathode materials without having to consider the
+contribution of additives in composite cathode systems.</p><p>In the
+GITT experiment, the cathode demonstrates almost double
+the capacity as in the galvanostatic charging experiment for the pristine
+cathode state (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) but similar values to the cathode after activation. Furthermore,
+a pseudoequilibrium voltage profile can be calculated, by interpolating
+the data points at the end of each rest phase. Subsequently, d<italic>Q</italic>/d<italic>V</italic> curves are calculated for both the
+galvanostatic (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) and the pseudoequilibrium (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b) voltage profiles and are plotted in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c. The pseudoequilibrium d<italic>Q</italic>/d<italic>V</italic> (black line) indicates a multistep
+charging mechanism (Fe + <italic>x</italic>LiF &#x02192; FeF<sub><italic>x</italic></sub> + <italic>x</italic>Li<sup>+</sup> + <italic>x</italic>e<sup>&#x02013;</sup>, with <italic>x</italic> = 2 or 3), represented
+by the peaks at 2.69 and 3.20 V. The theoretical potentials for the
+conversion for FeF<sub>2</sub> and FeF<sub>3</sub> are 2.59 and 3.00
+V respectively, closely matching the experimental results but also
+indicating the rest step in the GITT measurement did not reach equilibrium.
+In comparison, from galvanostatic cycling, d<italic>Q</italic>/d<italic>V</italic> curves were calculated for the second cycle, the peaks
+are shifted to higher voltages for charging due to kinetic considerations,
+and the cathode is showing minimal activity at the FeF<sub>2</sub> peak, which could indicate preferential conversion directly to the
+FeF<sub>3</sub> phase. This is likely due to local iron deficiencies
+at the reaction front due to its relatively poor mobility, as indicated
+by Li et al.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup></p><p>During discharge,
+a peak shift toward lower voltage is observed
+for the pre-activation cathode as compared to the pseudoequilibrium
+curve. From the GITT measurements, the same features are observed.
+A minor peak is observed at 3.11 V attributed to intercalation of
+Li<sup>+</sup> into the FeF<sub><italic>x</italic></sub> phase before
+the conversion reaction occurs.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> The discharge
+peaks at 2.29 and 1.85 V are linked to the conversion reaction of
+the TMF cathode.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Significant capacity
+is still observed at low voltage, but the voltage range was limited
+to 0.5 V in order to avoid the risk of Li-metal plating on the cathode
+at high charging/discharging rates in subsequent experiments.</p><p>After cathode activation, during charging, the principal capacity
+is occurring in a much higher potential region (4&#x02013;5 V; <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a). More capacity
+is also observed in the discharge curve, shifted to lower potentials
+by &#x0003c;0.1 V as compared to the preactivated cathode curve. This implies
+significantly better cathode utilization (the amount of cathode material
+is constant). These features are considered to be related directly
+to the conversion mechanism due to their very high respective capacities.
+Some features are also evident in the low voltage region (&#x0003c;1.5
+V) for all d<italic>Q</italic>/d<italic>V</italic> curves, but the
+Li<sup>+</sup> storage mechanism in this range is yet unclear and
+requires further studies.</p><p>The Fe-LiF cells were cycled at different
+C-rates in order to determine
+their rate capabilities (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a). As the C-rate is increased, discharge capacity
+decreases due to higher overpotentials which lead to less material
+conversion. At 6C (100 &#x003bc;A/cm<sup>2</sup>), cathode capacity
+was observed to increase from 154 to 174 mAh/g, depending on the cathode
+cycle number. Interestingly, this is a 13% capacity increase during
+the 100 cycles conducted at 6C. This experiment was conducted multiple
+times on different devices from the same substrate and from different
+batches, and a similar trend is observed in each case as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S6</ext-link>. It is inferred that this effect is
+due to a rate-dependent nanorestructuring of the cathode during each
+charge and discharge. In theory, the cathode cycles between a 2-phase
+heterogeneous system (Fe + <italic>x</italic>LiF, discharged state)
+and a different, single phase system (FeF<sub><italic>x</italic></sub>, charged state), which implies a relationship between charging rate
+(a proxy for reaction rate) and the nanostructure of the product formed
+(both during charging and discharging). The restructured cathode can
+be beneficial to its performance by electrochemically activating more
+cathode regions, shortening diffusion pathways, and increasing the
+surface area for reactions. This is further validated by the discrete
+capacity slopes observed for each different charging rate. In the
+final 10 slower cycles (1C), a significant decrease in capacity is
+observed that may also be linked to a favorable nanostructure being
+replaced by a less favorable one when cycling at 1C (20 &#x003bc;A/cm<sup>2</sup>). In this way, cathode discharge capacity could be tuned
+as a function of the cycling rate and may be able to be regenerated
+if the cathode is cycled with an appropriate protocol, as previously
+shown by Le Cras et al. in a different cell system (Li<sub>1.2</sub>TiO<sub>0.5</sub>S<sub>2.1</sub>|LiPON|aSi).<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> As the system relies on solid&#x02013;solid (electro)chemical reactions,
+kinetic implications (for example, nucleation and growth of other
+phases) are key. Hence, it is thought that cycling at different rates
+will form different cathode nanostructures. This effect can be observed
+in the regions shaded in blue in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. Over 10 cycles at 1C, the capacity is
+reduced each time at a different slope. The change in slope is likely
+due to the structure at the beginning of the 1C cycle set, determined
+by the C-rate of the preceding cycles. In this way, it can be concluded
+that the 1C cycles may reach a common &#x0201c;equilibrium&#x0201d;
+capacity after more cycles. Furthermore, it is evident that the restructuring
+takes place over more than 10 cycles (the slope in 1C regions does
+not reach a plateau, and longer 6C cycling results in higher capacity
+in the following 1C cycles). <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b shows voltage profiles of the 15th, 65th, and 175th
+cycles corresponding to <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. A change in electrochemical activity is observed, leading
+to the formation of a new plateau at the high voltage region (4&#x02013;5
+V), indicating a reduction in overpotentials after 6C cycling allowing
+for more Li<sup>+</sup> removal from the cathode, similar to the observation
+made in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c.
+Voltage plateaus in the region of 2.5 to 3 V are also extended during
+charging. During discharge, the largest improvement in capacity is
+indicated by the conversion reaction plateau (2 to 0.5 V) with some
+minor improvement to the higher voltage region (3.5 to 2 V), generally
+associated with the intercalation of Li<sup>+</sup> into the FeF<sub><italic>x</italic></sub> phase.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p><bold>High-rate
+cycling</bold> (a) Specific discharge capacity
+of the Fe-LiF conversion cathode (90 nm thickness) at current densities
+ranging from 10 to 100 &#x003bc;A/cm<sup>2</sup> (C/2 to 6C). Shaded
+blue regions compare 20 cycles of &#x003bc;A/cm<sup>2</sup> (1C) at
+different stages of the experiment. (b) Charge&#x02013;discharge curves
+of the 15th, 65th, and 175th cycles, all at a current density of 20
+&#x003bc;A/cm<sup>2</sup> (1C). C-rates are based on the theoretical
+capacity of FeF<sub>2</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn3c10146_0003" id="gr3" position="float"/></fig><p><xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a shows
+cathode specific capacity, coulombic efficiency, and voltaic efficiency
+over 2000 cycles of the TMF cathode. A cyclic voltammetry (CV) voltage
+sweep (0.5 mV/s, 0.5 to 6 to 0.5 V) was conducted before cycling and
+then again after 1000 cycles (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S7</ext-link>). During the 2000 cycle experiment, the cathode capacity increased
+from 146 to 216 mAh/g, a 48% increase. Furthermore, voltaic efficiency
+increased from 37 to 53% within the first 400 cycles. After the second
+CV voltage sweep, the capacity was initially significantly improved
+but quickly dropped back to follow the initial trend. This long-term
+increase in specific capacity during cycling further reinforces the
+hypothesis that the nanostructure affects the discharge capacity,
+as observed in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a and leads to a material &#x0201c;activation&#x0201d; enabling higher
+utilization of the cathode over time (30 to 43% utilization versus
+theoretical capacity at 6C). Another indication of this is that after
+the voltage sweep (with variable effective C-rate), capacity is greatly
+increased for a few cycles, likely due to full material conversion,
+but then settles back into the same positive trend of discharge capacity
+that is observed before the voltage sweep. This observation was reproduced
+by similar cells with the same Fe-LiF cathodes, this is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S8</ext-link>. This positive trend in capacity indicates
+that there is an inherent advantage to converting the cathode material
+at high rates that is not observed if cathodes are cycled slower. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b shows voltage profiles
+related to different cycles from <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. Cycles 10, 500, 1000, 1500, and 2000 are
+shown. It is evident that the largest change in discharge capacity
+(and voltage profiles) is observed within the first 500 cycles, closely
+linked to the trend observed for the voltaic efficiency, as shown
+in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. The voltage
+plateaus during charging indicate that significantly more Li<sup>+</sup> is released from the cathode in the 1 to 3 V range in cycle 500
+and beyond. During discharging, both the intercalation and conversion
+plateaus are extended in capacity after 500 cycles. In addition, a
+voltage &#x0201c;bounce back&#x0201d; is observed at 1.5 V for the later
+cycles, as discussed for iron fluoride conversion reaction mechanisms
+in the literature.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> This effect is attributed
+to the nucleation of Fe and LiF reaction products, which promote electronic
+and ionic diffusion to the reaction front, leading to improved kinetics
+and hence lower overpotentials.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p><bold>Long-term cycling</bold> (a) Specific
+discharge capacity
+(black) and respective coulombic and voltaic efficiency (teal and
+yellow) of Fe-LiF cell over 2000 cycles at a current density of 100
+&#x003bc;A/cm<sup>2</sup> (6C vs theoretical capacity of FeF<sub>2</sub>). A CV voltage sweep at a rate of 0.5 mV/s from 0.5 to 6 V was conducted
+before cycling and also between the 1000th and 1001st cycles. (b)
+Charge&#x02013;discharge voltage curves of the 10th, 500th, 1000th,
+1500th, and 2000th galvanostatic cycle, all at a current density of
+100 &#x003bc;A/cm<sup>2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn3c10146_0004" id="gr4" position="float"/></fig><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> shows HAADF-STEM
+micrographs and the corresponding measured Fe/F ratio as taken from
+EDX spectrum images in the precycled state (CV voltage sweep 0.5 mV/s
+from 0.5 to 6 V and then 10 cycles at 6C), and after 2000 cycles (6C).
+Similarly to <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>(b), the precycled cathode shows a well-mixed, two-phase system of
+Fe-rich nanodomains (2.8 nm in diameter, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S1</ext-link>) and a F-rich matrix, which likely also contains the Li-ions
+in the form of LiF. This is further evident in the Fe/F ratio map,
+which indicates a well-mixed system for the two observed phases. After
+2000 cycles at 6C, we observe a change in cathode nanostructure. First,
+a coarsening of the Fe-rich clusters is evident within the cathode
+structure, showing an increase in their average diameter from 2.8
+to 4.2 nm (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S1</ext-link>). Second, the
+Fe/F ratio map indicates an accumulation of Fe on the current collector-cathode
+interface and a similar accumulation of LiF on the electrolyte-cathode
+interface. No comment on the absolute values of the Fe/F stoichiometric
+ratios can be made due to inherent limitations of EDX (beam damage,
+limited field of view, etc.). In relation to <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>, it is clear that this electrochemically
+driven restructuring provides advantages to cycling performance. Further
+testing and characterization is necessary in order to determine the
+reason for this advantage. Due to the solid&#x02013;solid nature of
+the chemical reactions taking place, a more evenly mixed cathode is,
+in theory, a preferred candidate allowing for shorter physical pathways
+for reactants to meet, but these data suggest otherwise. Studies on
+composite cathodes have shown that optimizing the cathode for roughly
+equal electronic and ionic conductivities leads to the highest cathode
+utilization.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Following this theory, it
+is possible to suggest that the restructuring observed leads to favorable
+ionic and electronic conductive network. Notably, a gradient of Fe-LiF
+ratio is formed within the cathode during cycling (see <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>), with the highest electronic
+conductivity being near the current collector (due to aggregation
+of Fe near the current collector) and vice versa for the ionic conductivity
+(due to aggregation of LiF near the electrolyte). In the studied system,
+the LiF provides the role of the ionic conductor and Fe, the role
+of the electronic conductor in the discharged state. This may suggest
+a reason why the observed cycled cathode performs better than the
+pristine cathode.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p><bold>Post-cycling characterization</bold> (a) HAADF-STEM
+micrographs
+and (b) EDX atomic ratio Fe/F maps of Fe-LiF cathode after 10 cycles
+(precycled, left column) and after 2000 cycles (right column). Cathodes
+are imaged and measured in their discharged (lithiated) state. Cathodes
+were both discharged at 100 &#x003bc;A/cm<sup>2</sup> (6C vs theoretical
+capacity of Fe-2LiF). The scale bar is shared between all panels.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn3c10146_0005" id="gr5" position="float"/></fig><p>Many works describe substantial complexities and
+issues associated
+with the use of liquid electrolytes and TMF cathodes.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> In addition, due to dramatic phase changes during TMF cathode
+cycling, composite cathode systems often struggle with material stability
+over many cycles, leading to SEI instability and capacity loss. After
+2000 cycles at 6C, there is no observed capacity loss or evidence
+of cell degradation. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">Figure S9</ext-link> shows EIS
+spectra taken every 50 cycles over the course of 1000 cycles. There
+is no observed degradation of the LiPON contribution. There is a decrease
+in the magnitude of impedance in the low frequency range, further
+solidifying the activation phenomenon described. Due to the thin nature
+of the system, any interface formation and/or degradation would significantly
+impact the cell&#x02019;s performance. In contrast, an improvement
+of cell performance metrics is observed as the cells are cycled further.
+An activation of the cathode material is observed after such a cycling
+protocol that allows for very high cathode utilization (96%) with
+observed cathode gravimetric capacities of 480 mAh/g at a thickness
+of 90 nm.</p></sec><sec id="sec3"><title>Conclusions</title><p>A thin-film solid-state battery was created
+with the scope of testing
+the electrochemical performance of Fe-LiF conversion cathodes with
+LiPON solid electrolytes. Using the thin-film solid-state system,
+2000 cycles at 6C of cells with Fe-LiF cathodes have been achieved
+without noticeable degradation of the cell structure or performance.
+TMF cathodes are notoriously poorly compatible with liquid electrolytes
+and result in long-term irreversible capacity fading. Here, we show
+a Fe-LiF cathode with 480 mAh/g of capacity at a C/3.6 rate, 96% of
+theoretically achievable capacity after electrochemical activation.
+At 6C cycling rates, 216 mAh/g of discharge capacity remained after
+2000 cycles. An important finding is that for such a coevaporated
+lithiated cathode system, an activation step is advantageous for higher
+cathode utilization, capacity, and improved energy efficiency. A distinct
+change in the nanostructure is observed which is likely linked to
+the cathode activation mechanism and improved cell performance metrics.
+Conversion cathodes still have a lot of untapped potential, and the
+thin-film system seems to be able to unlock some of it. As the rest
+of battery research is moving toward solid-state electrolytes, understanding
+how TMF cathodes interact in all solid-state cells will allow to better
+assess their usability in future generations of batteries.</p></sec><sec id="sec4"><title>Experimental Section</title><sec id="sec4.1"><title>Fabrication</title><p>Uncoated
+Corning boro-aluminosilicate glass
+substrates (CB-0111, Delta Technologies, Ltd., 25 mm &#x000d7; 25 mm
+&#x000d7; 1.1 mm) were wiped clean with isopropyl alcohol and a lint-free
+tissue. Subsequently, TiN with a thickness of 50 nm was coated using
+a CT200 magnetron sputtering cluster (Alliance Concept) at 400 &#x000b0;C
+by DC magnetron sputtering of a 25 cm diameter target of Ti (gas flow
+of 120 sccm of Ar and 10 sccm of N<sub>2</sub>, working pressure of
+3 mTorr) with a power of 3.1 W/cm<sup>2</sup>. Ti was then deposited
+with a thickness of 200 nm by using the same tool and target (21 sccm
+Ar gas flow, 2 W/cm<sup>2</sup> power, and 3 mTorr pressure). The
+cathode was deposited to the desired thickness through a custom circular
+shadow mask (for 5 mm<sup>2</sup> cells) using a Nextdep thermal evaporator
+(Angstrom Engineering Inc.) by coevaporating iron (042383.22, Thermo
+Fischer Scientific Inc.) and lithium fluoride (014463.18, Thermo Fischer
+Scientific Inc.) inside alumina crucibles (and a Ni crucible liner
+for LiF). The deposition rates of both materials were controlled during
+deposition using multiple quartz-crystal microbalances to achieve
+a stoichiometric ratio of 1:2 Fe:LiF. The solid electrolyte, LiPON
+was deposited to a thickness of 1000 nm through a custom electrolyte
+shadow mask using an Orion sputtering system (AJA International Inc.).
+The LiPON was deposited using RF cosputtering of Li<sub>3</sub>PO<sub>4</sub> and Li<sub>2</sub>O 2&#x0201d; targets in a confocal arrangement
+at a gas flow of 50 sccm N<sub>2</sub>, a power of 4.93 and 5.92 W/cm<sup>2</sup>, respectively and a working pressure of 3 mTorr. The Li metal
+(211442500, Thermo Fischer Scientific Inc.) anode was deposited through
+a custom anode shadow mask using the same thermal evaporator as described
+above to a thickness of 2000 nm using an arc-coated stainless steel
+and alumina crucible. Finally, the anodic current collector (Cu, 010953.A1,
+Thermo Fischer Scientific Inc.) was deposited using the same anode
+shadow mask to a thickness of 200 nm through thermal evaporation.</p></sec><sec id="sec4.2"><title>Characterization</title><p>Electrochemical characterization was
+performed in an Ar-filled glovebox at room temperature with no applied
+cell pressure using Squidstat Plus (EIS measurements) and Squidstat
+Prime (DC measurements) potentiostats (Admiral Instruments). The reported
+capacities correspond to electrode-level capacities calculated using
+real thickness, area, and calculated material densities. Applied currents
+range from 1 to 100 &#x003bc;A/cm<sup>2</sup> in potential ranges from
+0.5 to 5 V (vs Li<sup>+</sup>/Li). Cyclic voltammery was conducted
+between 0 and 6 V (1 mV/s scan rate) and 0.5 and 6 V (0.5 mV/s scan
+rate). Electrochemical impedance spectroscopy was done using a perturbation
+amplitude of 50 mV in a frequency range of 2 MHz to 0.5 Hz (12 steps
+per decade) after charging and discharging the cells at C/8.</p><p>X-ray photoelectron spectroscopy (XPS) measurements were performed
+by using a Quantum2000 photoelectron spectrometer from Physical Electronics
+with a monochromatic Al K&#x003b1; source (1486.6 eV) and a base pressure
+below 8 &#x000d7; 10<sup>&#x02013;9</sup> mbar. High-resolution elemental
+spectra were recorded with an energy step size of 0.125 eV and a pass
+energy of 46.95 eV for Fe 2p and 29.35 eV for F 1s and Li 1s. Presputtering
+with 2 keV sputter energy was performed before spectra acquisition
+to get into the bulk of each sample. The estimated sputter depth for
+the Fe-LiF cathode sample is 20 nm, and 60 nm for Fe and LiF samples,
+due to the difference in the sample thicknesses. An ion neutralizer
+using Ar<sup>+</sup> of &#x0223c;1 eV was used to minimize the fluctuations
+of the binding energy values due to possible sample charging.</p><p>X-ray diffraction experiments were conducted using a Bruker D8
+Discover tool in grazing incidence mode using Cu K&#x003b1;<sub>1</sub> radiation at an incident angle of &#x003b8; = 1&#x000b0; (for the Fe
+and LiF reference) and &#x003b8; = 0.7&#x000b0; (for the cathode layer)
+and a measuring range of 2&#x003b8; = 37&#x02013;85&#x000b0;.</p><p>Samples
+for TEM were transferred to a Helios 660 (Thermo Fischer
+Scientific) FIB-SEM dual beam microscope with limited exposure to
+air (&#x0003c;1 min). The FIB-SEM was used to prepare TEM lamellae with
+a standard lift-out technique, but with an additional step of removing
+the Cu + Li layers at negative stage tilt to avoid issues with self-discharge
+and poor stability both mechanically and under the ion beam. The TEM
+lamellae were initially thinned using 30 kV Ga beam at a range of
+currents, followed by polishing at 8, 5, and 3 kV with lower ion beam
+currents until satisfactory electron beam transparency was achieved.
+The thinned lamellae were transferred to an Ar filled glovebox for
+storage and then to a TEM with total ambient air exposure &#x0003c;5 min.
+The TEM experiments were performed on a Talos F200X microscope (Thermo
+Fischer Scientific) operated at 200 kV accelerating voltage, equipped
+with a windowless Super-X EDS detector system. HAADF imaging and EDS
+spectrum imaging were performed in the scanning mode using Velox software.
+The EDS was performed by acquiring 60 frames and then assessing beam
+damage and choosing enough frames to ensure good signal-to-noise ratio
+while avoiding beam damage as much as possible. Pixel dwell time was
+kept at around 15 &#x003bc;s. Data processing to achieve the Fe/F ratio
+maps was done using open source Python package Hyperspy.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> First, the X-ray line intensity was calculated
+by numerically integrating the relevant X-ray lines. Then, the intensities
+were quantified to atomic % maps using the Cliff-Lorimer method using
+k-factors provided by the detector manufacturer. Fe and F atomic %
+maps were then divided by each other to arrive at the Fe/F atomic
+ratio maps. To measure the particle size distribution (PSD), HAADF
+images were cropped to the region of interest. Then, a Random Forest
+segmentation algorithm was trained to label the Fe particles and the
+LiF matrix using open source software Ilastik.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> The resulting binary masks were separated into particles
+using a watershed algorithm in ImageJ and last, their area was extracted
+and calculated into effective diameter assuming circular cross sections.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> The particle size distributions were fitted
+with a normal distribution.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsnano.3c10146?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsnano.3c10146</ext-link>.<list id="silist" list-type="simple"><list-item><p>Fe cluster sizes in nonactivated
+and activated cathode
+states; a note on XPS data analysis; XPS surveys of cathode and references;
+XRD diffractograms of the cathode and references; CV scans of cathode
+pre- and post-activation; EIS of cathode in charged and discharged
+state; Statistical validation for data presented in Figure 3; CV scans
+of cathode before and after 1000 cycles; Statistical validation of
+data presented in Figure 4; EIS measurements during long-term cycling
+experiment; Some references (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.3c10146/suppl_file/nn3c10146_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn3c10146_si_001.pdf"><caption><p>nn3c10146_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d14e684-autogenerated"><p>The authors declare the
+following competing financial interest(s): M.H.F. and Y.E.R. are founders
+of BTRY AG, a company commercializing solid-state batteries. The remaining
+authors declare no competing interests.</p></notes><ack><title>Acknowledgments</title><p>J.C. is supported
+by the Laboratory of Thin-Films
+and Photovoltaics at Empa, Dubendorf. J.M. is supported by the European
+Union&#x02019;s Horizon 2020 Research and Innovation Programme (Grant
+No. 95817) and the Swiss Federal Office of Energy (SFOE, Grant No.
+SI/502460-01). E.G is supported by Strategic Focus Area (SFA) Advanced
+Manufacturing, under the &#x0201c;Microfluidics&#x0201d; project (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.sfa-am.ch/microfluidics.html">https://www.sfa-am.ch/microfluidics.html</uri>). M.H.F. is supported by a Rubicon Fellowship from The Netherlands
+Organization for Scientific Research (NWO).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>
+<article-title>Challenges in speeding up solid-state battery development</article-title>. <source>Nature Energy</source>
+<year>2023</year>, <volume>8</volume>, <fpage>230</fpage>&#x02013;<lpage>240</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-023-01208-9</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>
+<article-title>A solid future for battery development</article-title>. <source>Nature Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16141</fpage><pub-id pub-id-type="doi">10.1038/nenergy.2016.141</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Boulfelfel</surname><given-names>S. E.</given-names></name>; <name><surname>Seifert</surname><given-names>G.</given-names></name>; <name><surname>Leoni</surname><given-names>S.</given-names></name>
+<article-title>Atomistic
+investigation of Li + diffusion
+pathways in the olivine LiFePO 4 cathode material</article-title>. <source>J. Mater. Chem.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>16365</fpage>&#x02013;<lpage>16372</lpage>. <pub-id pub-id-type="doi">10.1039/c1jm10725a</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Schuld</surname><given-names>S.</given-names></name>; <name><surname>Hausbrand</surname><given-names>R.</given-names></name>; <name><surname>Fingerle</surname><given-names>M.</given-names></name>; <name><surname>Jaegermann</surname><given-names>W.</given-names></name>; <name><surname>Weitzel</surname><given-names>K.-M.</given-names></name>
+<article-title>Experimental Studies on Work Functions of Li<sup>+</sup> Ions and Electrons in the Battery Electrode Material LiCoO<sub>2</sub>: A Thermodynamic Cycle Combining Ionic and Electronic Structure</article-title>. <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>1703411</fpage><pub-id pub-id-type="doi">10.1002/aenm.201703411</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Nitta</surname><given-names>N.</given-names></name>; <name><surname>Wu</surname><given-names>F.</given-names></name>; <name><surname>Lee</surname><given-names>J. T.</given-names></name>; <name><surname>Yushin</surname><given-names>G.</given-names></name>
+<article-title>Li-ion battery materials: present
+and future</article-title>. <source>Mater. Today</source>
+<year>2015</year>, <volume>18</volume>, <fpage>252</fpage>&#x02013;<lpage>264</lpage>. <pub-id pub-id-type="doi">10.1016/j.mattod.2014.10.040</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Amatucci</surname><given-names>G.</given-names></name>; <name><surname>Pereira</surname><given-names>N.</given-names></name>; <name><surname>Badway</surname><given-names>F.</given-names></name>; <name><surname>Sina</surname><given-names>M.</given-names></name>; <name><surname>Cosandey</surname><given-names>F.</given-names></name>; <name><surname>Ruotolo</surname><given-names>M.</given-names></name>; <name><surname>Cao</surname><given-names>C.</given-names></name>
+<article-title>Formation
+of lithium fluoride/metal
+nanocomposites for energy storage through solid state reduction of
+metal fluorides</article-title>. <source>J. Fluorine Chem.</source>
+<year>2011</year>, <volume>132</volume>, <fpage>1086</fpage>&#x02013;<lpage>1094</lpage>. <pub-id pub-id-type="doi">10.1016/j.jfluchem.2011.06.033</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Li</surname><given-names>T.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Cao</surname><given-names>Y. L.</given-names></name>; <name><surname>Ai</surname><given-names>X. P.</given-names></name>; <name><surname>Yang</surname><given-names>H. X.</given-names></name>
+<article-title>Reversible Three-Electron
+Redox Behaviors of FeF3 Nanocrystals as High-Capacity Cathode-Active
+Materials for Li-Ion Batteries</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2010</year>, <volume>114</volume>, <fpage>3190</fpage>&#x02013;<lpage>3195</lpage>. <pub-id pub-id-type="doi">10.1021/jp908741d</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Luo</surname><given-names>C.</given-names></name>; <name><surname>Gao</surname><given-names>T.</given-names></name>; <name><surname>Suo</surname><given-names>L.</given-names></name>; <name><surname>Liou</surname><given-names>S.-C.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>In situ lithiated
+FeF3/C nanocomposite as high energy
+conversion-reaction cathode for lithium-ion batteries</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>307</volume>, <fpage>435</fpage>&#x02013;<lpage>442</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.01.004</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Yamakawa</surname><given-names>N.</given-names></name>; <name><surname>Jiang</surname><given-names>M.</given-names></name>; <name><surname>Key</surname><given-names>B.</given-names></name>; <name><surname>Grey</surname><given-names>C. P.</given-names></name>
+<article-title>Identifying the
+Local Structures Formed during Lithiation of the Conversion Material,
+Iron Fluoride, in a Li Ion Battery: A Solid-State NMR, X-ray Diffraction,
+and Pair Distribution Function Analysis Study</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>10525</fpage>&#x02013;<lpage>10536</lpage>. <pub-id pub-id-type="doi">10.1021/ja902639w</pub-id>.<pub-id pub-id-type="pmid">19585988</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Shao</surname><given-names>B.</given-names></name>; <name><surname>Tan</surname><given-names>S.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Shi</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>X.-Q.</given-names></name>; <name><surname>Hu</surname><given-names>E.</given-names></name>; <name><surname>Han</surname><given-names>F.</given-names></name>
+<article-title>Enabling Conversion-Type Iron Fluoride Cathode by Halide-Based
+Solid Electrolyte</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2022</year>, <volume>32</volume>, <fpage>2206845</fpage><pub-id pub-id-type="doi">10.1002/adfm.202206845</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Eldesoky</surname><given-names>A.</given-names></name>; <name><surname>Bauer</surname><given-names>M.</given-names></name>; <name><surname>Bond</surname><given-names>T.</given-names></name>; <name><surname>Kowalski</surname><given-names>N.</given-names></name>; <name><surname>Corsten</surname><given-names>J.</given-names></name>; <name><surname>Rathore</surname><given-names>D.</given-names></name>; <name><surname>Dressler</surname><given-names>R.</given-names></name>; <name><surname>Dahn</surname><given-names>J. R.</given-names></name>
+<article-title>Long-Term Study
+on the Impact of Depth of Discharge, C-Rate, Voltage, and Temperature
+on the Lifetime of Single-Crystal NMC811/Artificial Graphite Pouch
+Cells</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2022</year>, <volume>169</volume>, <fpage>100531</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/ac99a6</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Xia</surname><given-names>Y.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Gu</surname><given-names>M.</given-names></name>
+<article-title>Designing principle
+for Ni-rich cathode materials with high energy density for practical
+applications</article-title>. <source>Nano Energy</source>
+<year>2018</year>, <volume>49</volume>, <fpage>434</fpage>&#x02013;<lpage>452</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2018.04.062</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Olbrich</surname><given-names>L. F.</given-names></name>; <name><surname>Xiao</surname><given-names>A. W.</given-names></name>; <name><surname>Pasta</surname><given-names>M.</given-names></name>
+<article-title>Conversion-type
+fluoride cathodes:
+Current state of the art</article-title>. <source>Current Opinion in
+Electrochemistry</source>
+<year>2021</year>, <volume>30</volume>, <fpage>100779</fpage><pub-id pub-id-type="doi">10.1016/j.coelec.2021.100779</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Hua</surname><given-names>X.</given-names></name>; <name><surname>Robert</surname><given-names>R.</given-names></name>; <name><surname>Du</surname><given-names>L.-S.</given-names></name>; <name><surname>Wiaderek</surname><given-names>K. M.</given-names></name>; <name><surname>Leskes</surname><given-names>M.</given-names></name>; <name><surname>Chapman</surname><given-names>K. W.</given-names></name>; <name><surname>Chupas</surname><given-names>P. J.</given-names></name>; <name><surname>Grey</surname><given-names>C. P.</given-names></name>
+<article-title>Comprehensive Study
+of the CuF2 Conversion Reaction Mechanism in a Lithium Ion Battery</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>15169</fpage>&#x02013;<lpage>15184</lpage>. <pub-id pub-id-type="doi">10.1021/jp503902z</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Wu</surname><given-names>F.</given-names></name>; <name><surname>Yushin</surname><given-names>G.</given-names></name>
+<article-title>Conversion cathodes for rechargeable lithium and lithium-ion
+batteries</article-title>. <source>Energy Environ. Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>435</fpage>&#x02013;<lpage>459</lpage>. <pub-id pub-id-type="doi">10.1039/C6EE02326F</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Huang</surname><given-names>Q.</given-names></name>; <name><surname>Turcheniuk</surname><given-names>K.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Magasinski</surname><given-names>A.</given-names></name>; <name><surname>Gordon</surname><given-names>D.</given-names></name>; <name><surname>Bensalah</surname><given-names>N.</given-names></name>; <name><surname>Yushin</surname><given-names>G.</given-names></name>
+<article-title>Insights into
+the Effects
+of Electrolyte Composition on the Performance and Stability of FeF2
+Conversion-Type Cathodes</article-title>. <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>1803323</fpage><pub-id pub-id-type="doi">10.1002/aenm.201803323</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Wei</surname><given-names>K.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Ma</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Dong</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>
+<article-title>LiF Splitting Catalyzed
+by Dual Metal Nanodomains for an Efficient Fluoride Conversion Cathode</article-title>. <source>ACS Nano</source>
+<year>2019</year>, <volume>13</volume>, <fpage>2490</fpage>&#x02013;<lpage>2500</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.8b09453</pub-id>.<pub-id pub-id-type="pmid">30640443</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Binninger</surname><given-names>T.</given-names></name>; <name><surname>Marcolongo</surname><given-names>A.</given-names></name>; <name><surname>Mottet</surname><given-names>M.</given-names></name>; <name><surname>Weber</surname><given-names>V.</given-names></name>; <name><surname>Laino</surname><given-names>T.</given-names></name>
+<article-title>Comparison
+of computational methods for the electrochemical stability window
+of solid-state electrolyte materials</article-title>. <source>J. Mater.
+Chem. A</source>
+<year>2020</year>, <volume>8</volume>, <fpage>1347</fpage>&#x02013;<lpage>1359</lpage>. <pub-id pub-id-type="doi">10.1039/C9TA09401F</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Nowak</surname><given-names>S.</given-names></name>; <name><surname>Berkemeier</surname><given-names>F.</given-names></name>; <name><surname>Schmitz</surname><given-names>G.</given-names></name>
+<article-title>Ultra-thin LiPON films &#x02013; Fundamental
+properties and application in solid state thin film model batteries</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>275</volume>, <fpage>144</fpage>&#x02013;<lpage>150</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.10.202</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Shimizu</surname><given-names>R.</given-names></name>; <name><surname>Cheng</surname><given-names>D.</given-names></name>; <name><surname>Weaver</surname><given-names>J. L.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Lu</surname><given-names>B.</given-names></name>; <name><surname>Wynn</surname><given-names>T. A.</given-names></name>; <name><surname>Burger</surname><given-names>R.</given-names></name>; <name><surname>Kim</surname><given-names>M.-c.</given-names></name>; <name><surname>Zhu</surname><given-names>G.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>
+<article-title>Unraveling the Stable
+Cathode Electrolyte Interface
+in all Solid-State Thin-Film Battery Operating at 5 V</article-title>. <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <fpage>2201119</fpage><pub-id pub-id-type="doi">10.1002/aenm.202201119</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Gu</surname><given-names>L.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>
+<article-title>Enhancement of the Li Conductivity in LiF by Introducing
+Glass/Crystal Interfaces</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2012</year>, <volume>22</volume>, <fpage>1145</fpage>&#x02013;<lpage>1149</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201101798</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Weppner</surname><given-names>W.</given-names></name>; <name><surname>Huggins</surname><given-names>R. A.</given-names></name>
+<article-title>Determination of
+the Kinetic Parameters of Mixed-Conducting
+Electrodes and Application to the System Li3Sb</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1977</year>, <volume>124</volume>, <fpage>1569</fpage>&#x02013;<lpage>1578</lpage>. <pub-id pub-id-type="doi">10.1149/1.2133112</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>
+<article-title>Electrochemically driven
+conversion reaction in fluoride electrodes for energy storage devices</article-title>. <source>npj Computational Materials</source>
+<year>2018</year>, <volume>4</volume>, <fpage>22</fpage><pub-id pub-id-type="doi">10.1038/s41524-018-0079-6</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Cras</surname><given-names>F. L.</given-names></name>; <name><surname>Pecquenard</surname><given-names>B.</given-names></name>; <name><surname>Dubois</surname><given-names>V.</given-names></name>; <name><surname>Phan</surname><given-names>V.-P.</given-names></name>; <name><surname>Guy-Bouyssou</surname><given-names>D.</given-names></name>
+<article-title>All-Solid-State
+Lithium-Ion Microbatteries Using Silicon Nanofilm Anodes: High Performance
+and Memory Effect</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1501061</fpage><pub-id pub-id-type="doi">10.1002/aenm.201501061</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Rosen</surname><given-names>M.</given-names></name>; <name><surname>Finsterbusch</surname><given-names>M.</given-names></name>; <name><surname>Guillon</surname><given-names>O.</given-names></name>; <name><surname>Fattakhova-Rohlfing</surname><given-names>D.</given-names></name>
+<article-title>Free standing
+dual phase cathode tapes &#x02013; scalable fabrication and microstructure
+optimization of garnet-based ceramic cathodes</article-title>. <source>Journal of Materials Chemistry A</source>
+<year>2022</year>, <volume>10</volume>, <fpage>2320</fpage>&#x02013;<lpage>2326</lpage>. <pub-id pub-id-type="doi">10.1039/D1TA07194G</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="book" id="cit26"><person-group person-group-type="allauthors"><name><surname>de la Pena</surname><given-names>F.</given-names></name>; <name><surname>Prestat</surname><given-names>E.</given-names></name>; <name><surname>Fauske</surname><given-names>V. T.</given-names></name>; <name><surname>Burdet</surname><given-names>P.</given-names></name>; <name><surname>Lahnemann</surname><given-names>J.</given-names></name>; <name><surname>Jokubauskas</surname><given-names>P.</given-names></name>; <name><surname>Furnival</surname><given-names>T.</given-names></name>; <name><surname>Nord</surname><given-names>M.</given-names></name>; <name><surname>Ostasevicius</surname><given-names>T.</given-names></name>; <name><surname>MacArthur</surname><given-names>K. E.</given-names></name></person-group><source>hyperspy/hyperspy,
+1.7.3</source>; <publisher-name>Zenodo</publisher-name>, <year>2022</year>. <pub-id pub-id-type="doi">10.5281/zenodo.7263263</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Berg</surname><given-names>S.</given-names></name>; <name><surname>Kutra</surname><given-names>D.</given-names></name>; <name><surname>Kroeger</surname><given-names>T.</given-names></name>; <name><surname>Straehle</surname><given-names>C. N.</given-names></name>; <name><surname>Kausler</surname><given-names>B. X.</given-names></name>; <name><surname>Haubold</surname><given-names>C.</given-names></name>; <name><surname>Schiegg</surname><given-names>M.</given-names></name>; <name><surname>Ales</surname><given-names>J.</given-names></name>; <name><surname>Beier</surname><given-names>T.</given-names></name>; <name><surname>Rudy</surname><given-names>M.</given-names></name>; <name><surname>Eren</surname><given-names>K.</given-names></name>; <name><surname>Cervantes</surname><given-names>J. I.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Beuttenmueller</surname><given-names>F.</given-names></name>; <name><surname>Wolny</surname><given-names>A.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Koethe</surname><given-names>U.</given-names></name>; <name><surname>Hamprecht</surname><given-names>F. A.</given-names></name>; <name><surname>Kreshuk</surname><given-names>A.</given-names></name>
+<article-title>ilastik: interactive
+machine learning for (bio)image analysis</article-title>. <source>Nat.
+Methods</source>
+<year>2019</year>, <volume>16</volume>, <fpage>1226</fpage>&#x02013;<lpage>1232</lpage>. <pub-id pub-id-type="doi">10.1038/s41592-019-0582-9</pub-id>.<pub-id pub-id-type="pmid">31570887</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Schindelin</surname><given-names>J.</given-names></name>; <name><surname>Arganda-Carreras</surname><given-names>I.</given-names></name>; <name><surname>Frise</surname><given-names>E.</given-names></name>; <name><surname>Kaynig</surname><given-names>V.</given-names></name>; <name><surname>Longair</surname><given-names>M.</given-names></name>; <name><surname>Pietzsch</surname><given-names>T.</given-names></name>; <name><surname>Preibisch</surname><given-names>S.</given-names></name>; <name><surname>Rueden</surname><given-names>C.</given-names></name>; <name><surname>Saalfeld</surname><given-names>S.</given-names></name>; <name><surname>Schmid</surname><given-names>B.</given-names></name>; <name><surname>Tinevez</surname><given-names>J.-Y.</given-names></name>; <name><surname>White</surname><given-names>D. J.</given-names></name>; <name><surname>Hartenstein</surname><given-names>V.</given-names></name>; <name><surname>Eliceiri</surname><given-names>K.</given-names></name>; <name><surname>Tomancak</surname><given-names>P.</given-names></name>; <name><surname>Cardona</surname><given-names>A.</given-names></name>
+<article-title>Fiji: an open-source
+platform for biological-image analysis</article-title>. <source>Nat.
+Methods</source>
+<year>2012</year>, <volume>9</volume>, <fpage>676</fpage>&#x02013;<lpage>682</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.2019</pub-id>.<pub-id pub-id-type="pmid">22743772</pub-id>
+</mixed-citation></ref></ref-list></back></article>

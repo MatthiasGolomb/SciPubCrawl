@@ -1,0 +1,1541 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs3316" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8844499</article-id><article-id pub-id-type="pmid">34923779</article-id><article-id pub-id-type="doi">10.1002/advs.202104699</article-id><article-id pub-id-type="publisher-id">ADVS3316</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>High&#x02010;Polarity Fluoroalkyl Ether Electrolyte Enables Solvation&#x02010;Free Li<sup>+</sup> Transfer for High&#x02010;Rate Lithium Metal Batteries</article-title></title-group><contrib-group><contrib id="advs3316-cr-0001" contrib-type="author"><name><surname>Dong</surname><given-names>Liwei</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs3316-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs3316-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs3316-cr-0002" contrib-type="author"><name><surname>Liu</surname><given-names>Yuanpeng</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3316-cr-0003" contrib-type="author"><name><surname>Wen</surname><given-names>Kechun</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3316-cr-0004" contrib-type="author"><name><surname>Chen</surname><given-names>Dongjiang</given-names></name><xref rid="advs3316-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs3316-cr-0005" contrib-type="author"><name><surname>Rao</surname><given-names>Dewei</given-names></name><xref rid="advs3316-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="advs3316-cr-0006" contrib-type="author"><name><surname>Liu</surname><given-names>Jipeng</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs3316-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs3316-cr-0007" contrib-type="author"><name><surname>Yuan</surname><given-names>Botao</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3316-cr-0008" contrib-type="author"><name><surname>Dong</surname><given-names>Yunfa</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3316-cr-0009" contrib-type="author"><name><surname>Wu</surname><given-names>Ze</given-names></name><xref rid="advs3316-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs3316-cr-0010" contrib-type="author"><name><surname>Liang</surname><given-names>Yifang</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs3316-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs3316-cr-0011" contrib-type="author"><name><surname>Yang</surname><given-names>Mengqiu</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs3316-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs3316-cr-0012" contrib-type="author"><name><surname>Ma</surname><given-names>Jianyi</given-names></name><xref rid="advs3316-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="advs3316-cr-0013" contrib-type="author"><name><surname>Yang</surname><given-names>Chunhui</given-names></name><xref rid="advs3316-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs3316-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs3316-cr-0014" contrib-type="author"><name><surname>Xia</surname><given-names>Chuan</given-names></name><xref rid="advs3316-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="advs3316-cr-0015" contrib-type="author"><name><surname>Xia</surname><given-names>Baoyu</given-names></name><xref rid="advs3316-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="advs3316-cr-0016" contrib-type="author"><name><surname>Han</surname><given-names>Jiecai</given-names></name><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs3316-cr-0017" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Gongming</given-names></name><xref rid="advs3316-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><address><email>wanggm@ustc.edu.cn</email></address></contrib><contrib id="advs3316-cr-0018" contrib-type="author" corresp="yes"><name><surname>Guo</surname><given-names>Zaiping</given-names></name><xref rid="advs3316-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><address><email>zaiping.guo@adelaide.edu.au</email></address></contrib><contrib id="advs3316-cr-0019" contrib-type="author" corresp="yes"><name><surname>He</surname><given-names>Weidong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8242-2888</contrib-id><xref rid="advs3316-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs3316-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>weidong.he@hit.edu.cn</email></address></contrib></contrib-group><aff id="advs3316-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">National Key Laboratory of Science and Technology on Advanced Composites in Special Environments</named-content>
+<named-content content-type="organisation-division">and Center for Composite Materials and Structures</named-content>
+<institution>Harbin Institute of Technology</institution>
+<city>Harbin</city>
+<postal-code>150080</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage</named-content>
+<named-content content-type="organisation-division">School of Chemistry and Chemical Engineering</named-content>
+<institution>Harbin Institute of Technology</institution>
+<city>Harbin</city>
+<postal-code>150080</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">State Key Laboratory of Urban Water Resource and Environment</named-content>
+<institution>Harbin Institute of Technology</institution>
+<city>Harbin</city>
+<postal-code>150080</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Mechanical Engineering</named-content>
+<institution>Chengdu University</institution>
+<city>Chengdu</city>
+<postal-code>610106</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">School of Material Science and Engineering</named-content>
+<institution>Jiangsu University</institution>
+<city>Zhenjiang</city>
+<named-content content-type="country-part">Jiangsu</named-content>
+<postal-code>212013</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Atomic and Molecular Physics</named-content>
+<institution>Sichuan University</institution>
+<city>Chengdu</city>
+<named-content content-type="country-part">Sichuan</named-content>
+<postal-code>610065</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">School of Materials and Energy</named-content>
+<institution>University of Electronic Science and Technology of China</institution>
+<city>Chengdu</city>
+<postal-code>611731</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Key Laboratory of Material Chemistry for Energy Conversion and Storage (Ministry of Education)</named-content>
+<named-content content-type="organisation-division">Hubei Key Laboratory of Material Chemistry and Service Failure</named-content>
+<named-content content-type="organisation-division">Wuhan National Laboratory for Optoelectronics</named-content>
+<named-content content-type="organisation-division">School of Chemistry and Chemical Engineering</named-content>
+<institution>Huazhong University of Science and Technology (HUST)</institution>
+<named-content content-type="street">1037 Luoyu Road</named-content>
+<city>Wuhan</city>
+<postal-code>430074</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Chemistry and Hefei National Laboratory for Physical Science at Microscale</named-content>
+<institution>University of Science and Technology of China</institution>
+<city>Anhui</city>
+<postal-code>230026</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs3316-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">School of Chemical Engineering and Advanced Materials</named-content>
+<institution>The University of Adelaide</institution>
+<city>Adelaide</city>
+<named-content content-type="country-part">SA</named-content>
+<postal-code>5005</postal-code>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>wanggm@ustc.edu.cn</email>, <email>zaiping.guo@adelaide.edu.au</email>, <email>weidong.he@hit.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2022</year></pub-date><volume>9</volume><issue seq="280">5</issue><issue-id pub-id-type="doi">10.1002/advs.v9.5</issue-id><elocation-id>2104699</elocation-id><history>
+<date date-type="rev-recd"><day>12</day><month>11</month><year>2021</year></date>
+<date date-type="received"><day>20</day><month>10</month><year>2021</year></date>
+</history><permissions><!--&#x000a9; 2022 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-9-2104699.pdf"/><abstract><title>Abstract</title><p>Lithium metal batteries (LMBs) have aroused extensive interest in the field of energy storage owing to the ultrahigh anode capacity. However, strong solvation of Li<sup>+</sup> and slow interfacial ion transfer associated with conventional electrolytes limit their long&#x02010;cycle and high&#x02010;rate capabilities. Herein an electrolyte system based on fluoroalkyl ether 2,2,2&#x02010;trifluoroethyl&#x02010;1,1,2,3,3,3&#x02010;hexafluoropropyl ether (THE) and ether electrolytes is designed to effectively upgrade the long&#x02010;cycle and high&#x02010;rate performances of LMBs. THE owns large adsorption energy with ether&#x02010;based solvents, thus reducing Li<sup>+</sup> interaction and solvation in ether electrolytes. With THE rich in fluoroalkyl groups adjacent to oxygen atoms, the electrolyte owns ultrahigh polarity, enabling solvation&#x02010;free Li<sup>+</sup> transfer with a substantially decreased energy barrier and ten times enhancement in Li<sup>+</sup> transference at the electrolyte/anode interface. In addition, the uniform adsorption of fluorine&#x02010;rich THE on the anode and subsequent LiF formation suppress dendrite formation and stabilize the solid electrolyte interphase layer. With the electrolyte, the lithium metal battery with a LiFePO<sub>4</sub> cathode delivers unprecedented cyclic performances with only 0.0012% capacity loss per cycle over 5000 cycles at 10 C. Such enhancement is consistently observed for LMBs with other mainstream electrodes including LiCoO<sub>2</sub> and LiNi<sub>0.5</sub>Mn<sub>0.3</sub>Co<sub>0.2</sub>O<sub>2</sub>, suggesting the generality of the electrolyte design for battery applications.</p></abstract><abstract id="advs3316-abs-0001" abstract-type="graphical"><p>This work&#x000a0;designs an electrolyte system based on fluoroalkyl ether 2,2,2&#x02010;trifluoroethyl&#x02010;1,1,2,3,3,3&#x02010;hexafluoropropyl ether (THE) to effectively upgrade the long&#x02010;cycle and high&#x02010;rate performances of lithium metal batteries. With THE rich in fluoroalkyl groups adjacent to oxygen atoms, the electrolyte owns ultrahigh polarity and enables solvation&#x02010;free Li<sup>+</sup> transfer with a substantially decreased energy barrier.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-9-2104699-g005.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs3316-kwd-0001">fluoroalkyl ether</kwd><kwd id="advs3316-kwd-0002">high rate</kwd><kwd id="advs3316-kwd-0003">lithium metal batteries</kwd><kwd id="advs3316-kwd-0004">Li<sup>+</sup> solvation structure</kwd><kwd id="advs3316-kwd-0005">long cycle</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>12002109</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Key Research and Development program of China
+</institution><institution-id institution-id-type="doi">10.13039/501100012166</institution-id></institution-wrap></funding-source><award-id>2017YFA0206703</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="10"/><word-count count="6790"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 14, 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.1 mode:remove_FC converted:15.02.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs3316-cit-0045">
+<string-name>
+<given-names>L.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Rao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>He</surname>
+</string-name>, <article-title>High&#x02010;Polarity Fluoroalkyl Ether Electrolyte Enables Solvation&#x02010;Free Li<sup>+</sup> Transfer for High&#x02010;Rate Lithium Metal Batteries</article-title>. <source>Adv. Sci.</source>
+<year>2022</year>, <volume>9</volume>, <elocation-id>2104699</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202104699</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs3316-sec-0010"><label>1</label><title>Introduction</title><p>Lithium metal batteries (LMBs) have been regarded as promising future energy storage devices to meet the requirements of high&#x02010;capacity, long cycle, and high rate energy storage.<sup>[</sup>
+<xref rid="advs3316-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs3316-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs3316-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs3316-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs3316-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs3316-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> There still exist unsatisfactory and even disastrous drawbacks associated with current LMBs, including degrading capacities over cycles, low rate capacities, and safety issues due to the high reactivity of the Li metal anode, all of which are largely attributed to the larger energy barrier of Li<sup>+</sup> solvation and the small ionic conductivity at the Li anode/electrolyte interface with conventional ether and carbonate electrolytes.<sup>[</sup>
+<xref rid="advs3316-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs3316-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs3316-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> In addition, these commercial ether&#x02010;based and carbonate&#x02010;based electrolytes are highly flammable, posting potential safety hazards.<sup>[</sup>
+<xref rid="advs3316-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs3316-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> Extensive efforts have been focused on developing alternative electrolyte systems to address these challenges including: 1) solid&#x02010;state electrolytes with safety and high&#x02010;energy&#x02010;density, such as inorganic solid electrolytes<sup>[</sup>
+<xref rid="advs3316-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> and solid&#x02010;state polymer electrolytes;<sup>[</sup>
+<xref rid="advs3316-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> 2) electrolyte solvents with excellent physicochemical properties, such as ionic liquid with excellent ion conductivity,<sup>[</sup>
+<xref rid="advs3316-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> nontoxic and nonflammable aqueous solvents,<sup>[</sup>
+<xref rid="advs3316-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> and nitrile sovlents with a high oxidation potential;<sup>[</sup>
+<xref rid="advs3316-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> 3) electrolyte additives with solid electrolyte interface (SEI) forming and flame&#x02010;retardant capabilities, such as lithium difluorobis (oxalato) phosphate (LiDFBOP),<sup>[</sup>
+<xref rid="advs3316-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> fumed silica,<sup>[</sup>
+<xref rid="advs3316-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> trimethyl phosphate,<sup>[</sup>
+<xref rid="advs3316-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> and acetic acid (HAc);<sup>[</sup>
+<xref rid="advs3316-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> 4) high concentrated electrolytes with advanced solvation structures;<sup>[</sup>
+<xref rid="advs3316-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs3316-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> 5) precycling step to regulate the coordination between solvent and salt.<sup>[</sup>
+<xref rid="advs3316-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> However, solid&#x02010;state electrolytes tend to form rough electrolyte/Li interface and induce large interfacial impedance and low ionic conductivity, and liquid electrolytes for LMBs still face challenges to ensure fast Li<sup>+</sup> transfer while ensuring proper viscosity and physicochemical compatibility with separators and electrodes.</p><p>In this report, we develop an electrolyte system based on fluoroalkyl ether 2,2,2&#x02010;trifluoroethyl&#x02010;1,1,2,3,3,3&#x02010;hexafluoropropyl ether (THE) and ether electrolytes to address the aforementioned fundamental issues associated with the electrolytes for LMBs. The THE electrolyte with electron&#x02010;withdrawing fluoroalkyl groups adjacent to oxygen atoms suppresses Li<sup>+</sup>&#x02010;solvation and enables efficient LiF&#x02010;formation, thus significantly enhancing in&#x02010;cell ionic conduction of LMBs, and effectively mitigating Li dendrite growth. With the electrolyte, the LiFePO<sub>4</sub> cathode exhibits unprecedented cyclic performances with 0.0012% capacity loss cycle<sup>&#x02212;1</sup> over 5000 cycles at 10 C, in addition to the upgraded performances of LMBs with LiCoO<sub>2</sub> (LCO) and LiNi<sub>0.5</sub>Co<sub>0.2</sub>Mn<sub>0.3</sub>O<sub>2</sub> (NCM523). The mechanism of &#x0201c;solvation&#x02010;free Li<sup>+</sup> transfer&#x0201d; is first proposed to elucidate the high&#x02010;rate performances of an electrolyte with an intermediate ionic conductivity. Our work provides valuable insights into the molecular structure design of fluorinated ethers for the applications in energy storage in general.</p></sec><sec id="advs3316-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs3316-sec-0030"><label>2.1</label><title>Physicochemical Properties of THE Electrolyte</title><p>The compositions of the electrolytes investigated in this work are shown in Table <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S1</xref> of the Supporting Information. THE has outstanding antioxidation stability owing to robust electron&#x02010;withdrawing groups (CF<sub>3</sub> and CF<sub>2</sub>). As shown in <bold>Figure</bold>
+<xref rid="advs3316-fig-0001" ref-type="fig">
+<bold>1</bold>a,e</xref>, it exhibits a much lower highest occupied molecular orbital (HOMO) energy value (&#x02212;8.48&#x000a0;eV) and a much lower lowest unoccupied molecular orbitals (LUMO) level (&#x02212;0.75&#x000a0;eV) as compared with commercial 1, 3&#x02010;dioxolane (DOL) and dimethoxyether (DME) solvents, indicating its high&#x02010;voltage stability and ready reduction on the anode with SEI formation. The negative LUMO value of THE is stemmed from the excellent electron affinity of high&#x02010;polarity CF<sub>3</sub> and CF<sub>2</sub> groups. As shown in Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1b</xref>, conventional DOL + DME electrolyte causes uneven deposition of Li<sup>+</sup> since rough and sluggish interfacial ion transference between anode and electrolyte produces dead Li on the anode surface, leading to irreversible Li<sup>+</sup> transmission. After 100 cycles in the DOL + DME electrolyte, a loose layer is observed on the surface of the Li anode (<bold>Figure</bold>
+<xref rid="advs3316-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>). This porous layer (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1c</xref>) further aggravates the rough deposition, resulting in continuous corrosion of the Li metal, as evidenced with the low Coulombic efficiency (CE) and poor cycling stability (<bold>Figure</bold>&#x000a0;<xref rid="advs3316-fig-0003" ref-type="fig">
+<bold>3</bold>b&#x02013;g</xref>). The porous dead Li layer with a thickness of 124&#x000a0;&#x000b5;m is clearly observed from the cross&#x02010;sectional scanning electron microscopy (SEM) image (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1d</xref>). This means that the reversibility and uniformity of Li<sup>+</sup> deposition morphology are inferior in the DOL + DME electrolyte, causing the rapid decay of the capacity.<sup>[</sup>
+<xref rid="advs3316-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> By contrast, for 60%THE electrolyte, abundant LiF is formed at the electrolyte/electrode interface (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1f</xref>). LiF owns excellent ion transmission ability and stability (6.4&#x000a0;V vs Li/Li<sup>+</sup>),<sup>[</sup>
+<xref rid="advs3316-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> and enables compact packing in the SEI to isolate the Li metal from the electrolyte. Furthermore, LiF owns high interfacial energy with Li metal,<sup>[</sup>
+<xref rid="advs3316-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>]</sup> which accelerates Li<sup>+</sup> migration at the interface and promotes the parallel growth of Li dendrites on Li metal plane instead of vertical growth. The protective effect of LiF&#x02010;rich SEI on the Li anode is clearly observed in the SEM images. The anode surface layer in the 60%THE electrolyte (Figures&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1g</xref> and&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2b</xref>) is much more compactly integrated than that in the DOL + DME electrolyte. Especially, the corrosion of the Li metal is greatly reduced in the 60%THE electrolyte, and only the top layer (20&#x000a0;&#x000b5;m) is corroded after 100 cycles (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1h</xref>). The dense surface layer owns three advantages: 1) high robustness because the ball&#x02010;like Li morphology is less likely to pierce the separator; 2) large CE because the dense layer prevents continuous reaction to reduce the consumption of the Li anode and the electrolyte; and 3) additional volumetric capacity because dense Li packing reduces the volume. In the elemental mappings of Li anodes in DOL + DME (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S1a,b</xref>, Supporting Information) and 60%THE (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S1c,d</xref>, Supporting Information) electrolytes after cycling, elemental mapping of C is mainly derived from electrolyte solvents and, thus selected as the representative of organic species.<sup>[</sup>
+<xref rid="advs3316-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> The Li metal in the 60%THE electrolyte contains less C element as compared with that in the DOL + DME electrolyte, implying reduced solvent decomposition in the 60%THE electrolyte. Elemental mapping of F is taken as the representative of the SEI layer.<sup>[</sup>
+<xref rid="advs3316-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> The Li metal in the 60%THE electrolyte contains more F element as compared with that in the DOL + DME electrolyte, indicating that the addition of THE is favorable for the formation of the SEI layer. Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1i&#x02013;k</xref> and Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S2</xref> (Supporting Information) show the X&#x02010;ray photoelectron spectroscopy (XPS) of the SEI layers in 60%THE and DOL + DME electrolytes. The organic species formed with the ether electrolyte solvent, including C&#x02550;O, C&#x02014;O, and C&#x02014;H/C&#x02014;C, are studied with C 1s spectrum (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1i</xref>). Obvious signals of CF<sub>3</sub> and C&#x02013;F are observed, as attributed to the cleavage of the fluorinated groups of THE. As shown in Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1j, a</xref> main peak at &#x02248;685.7&#x000a0;eV is observed, implying that the F element in the SEI layer exists mainly in the form of the F&#x02014;Li bond.<sup>[</sup>
+<xref rid="advs3316-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> For the SEI layer in the DOL + DME electrolyte, significant F&#x02013;C and weak F&#x02013;Li signals are observed (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1k</xref>). In addition, the Fourier transform infrared (FTIR) spectrum of the Li anodes with 60%THE and DOL + DME electrolytes after cycling is taken (Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2c</xref>). For the Li anode with the 60%THE electrolyte, the signals of LiF,<sup>[</sup>
+<xref rid="advs3316-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> Li<sub>2</sub>CO<sub>3</sub>,<sup>[</sup>
+<xref rid="advs3316-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> and Li<sub>2</sub>O<sup>[</sup>
+<xref rid="advs3316-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> are observed. For the Li anode with the DOL + DME electrolyte, the LiF signal is significantly weaker than that of the Li anode with the 60%THE electrolyte, which is consistent with the XPS results (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1j,k</xref>). To understand the effect of THE electrolyte on LiF formation at high temperatures, we conduct XPS analysis on Li anodes disassembled from the cells with different electrolytes after 50 cycles at 60 &#x000b0;C, as shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S3</xref> of the Supporting Information. For the 60%THE electrolyte, obvious F&#x02013;Li signal is observed, indicating that LiF formation is facilitated in the 60%THE electrolyte at 60 &#x000b0;C. As shown in Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1l</xref>, FTIR is used to study the internal change of THE&#x02010;based electrolyte during charging and discharging. For the 60%THE electrolyte, the peak of fluorine&#x02010;containing species (C&#x02013;F stretching vibration) at &#x02248;1000 cm<sup>&#x02212;1</sup> increases apparently after the first charge,<sup>[</sup>
+<xref rid="advs3316-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> indicating the cleavage of the fluorinated segment of THE molecules. By contrast, there is no obvious fluorine&#x02010;containing signal in the DOL + DME electrolyte. This is also demonstrated through in situ Raman spectroscopy. The test battery configuration is shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S4</xref> of the Supporting Information. As displayed in Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1m</xref>, extensive LiF (&#x02248;409 cm<sup>&#x02212;1</sup>) is formed in the 60%THE electrolyte, considerably above that in the DOL + DME electrolyte, which is attributed to the cleavage of C&#x02013;F bond in THE.</p><fig position="float" fig-type="Figure" id="advs3316-fig-0001"><label>Figure 1</label><caption><p>a) HOMO and e) LUMO values of DME, DOL, and THE. Schematics of anode surface and Li<sup>+</sup> transmission in b) DOL + DME and f) 60%THE electrolytes. Titled SEM and cross&#x02010;sectional SEM images of Li anodes in c,d) DOL + DME and g,h) 60%THE electrolytes after 100 cycles, yellow lines show the etching depth. XPS of the SEI layers in i,j) 60%THE and k) DOL + DME electrolytes, C 1s and F 1s are presented, including peak deconvolution and assignments. l) FTIR spectra of Li metal in DOL + DME and 60%THE electrolytes. m) In situ Raman images of DOL + DME and 60%THE electrolytes in discharge/charge. n) Comparison of the properties of conventional DOL + DME and 60%THE electrolytes.</p></caption><graphic xlink:href="ADVS-9-2104699-g004" position="anchor" id="jats-graphic-3"/></fig><fig position="float" fig-type="Figure" id="advs3316-fig-0002"><label>Figure 2</label><caption><p>SEM images of the Li metals in a) DOL + DME and b) 60%THE electrolytes after 100 cycles. c) FTIR spectrum of the SEI layers in 60%THE and DOL + DME electrolytes. d) Adsorption energy and corresponding electron density maps for CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> with DME, DOL, and THE. e) Viscosity for various electrolytes, and contact angle between different electrolytes and PP separator. f) Uptake curves of PP separator for different electrolytes over time. g) Viscosity of EC + DMC and 60%THE electrolytes at different temperatures. h) Conductivity and <mml:math id="jats-math-1" display="inline"><mml:mrow><mml:msub><mml:mi mathvariant="normal">t</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math> with different electrolytes. i) Electrochemical windows of EC + DMC, DOL + DME, and 60%THE electrolytes.</p></caption><graphic xlink:href="ADVS-9-2104699-g002" position="anchor" id="jats-graphic-5"/></fig><fig position="float" fig-type="Figure" id="advs3316-fig-0003"><label>Figure 3</label><caption><p>a) Rate performances of the Li/LFP cells with EC + DMC and 60%THE electrolytes. Cycling performances of the Li/LFP cells with EC + DMC and 60%THE electrolytes at b) 20 C, c) 40 C, d) 60 C, e) 80 C, f) 100 C, and g) 10 C.</p></caption><graphic xlink:href="ADVS-9-2104699-g001" position="anchor" id="jats-graphic-7"/></fig><p>Flammable commercial electrolytes exhibit safety risk in high&#x02010;rate operations of lithium metal batteries.<sup>[</sup>
+<xref rid="advs3316-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> The thermal stability of ethylene carbonate (EC) + dimethyl carbonate (DMC), DOL + DME, and 60%THE electrolytes is evaluated, as shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S5</xref> and Videos <xref rid="advs3316-supitem-0002" ref-type="supplementary-material">S1</xref>&#x02013;<xref rid="advs3316-supitem-0004" ref-type="supplementary-material">S3</xref> of the Supporting Information. In Videos <xref rid="advs3316-supitem-0002" ref-type="supplementary-material">S1</xref>&#x02013;<xref rid="advs3316-supitem-0004" ref-type="supplementary-material">S3</xref> of the Supporting Information, commercial EC + DMC and DOL + DME electrolytes are readily ignited and burned quickly, whereas the 60% THE electrolyte is nonflammable even with repeated igniting. While exposed to fire, there are raging flames in EC + DMC and DOL + DME electrolytes, but no flame is observed in the 60%THE electrolyte (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S5c</xref>, Supporting Information). The THE solvent without flash point is incombustible. In addition, THE, as a highly fluorinated ether&#x02010;based solvent with abundant fluoroalkyl groups, owns the highest binding energy with oxygen radical among these solvents, as displayed in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S6</xref> of the Supporting Information. Therefore, the noncombustible THE effectively inhibits the propagation of free oxygen radicals during combustion, decreasing the flammability of the electrolyte, which is consistent with the previous research on fluoroalkyl ethers.<sup>[</sup>
+<xref rid="advs3316-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs3316-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="advs3316-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> Rigorous thermal runaway tests are conducted by measuring differential scanning calorimetry and open&#x02010;circuit voltage (OCV) curves.<sup>[</sup>
+<xref rid="advs3316-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S7a</xref> of the Supporting Information, the 60%THE electrolyte exhibits an exothermic peak at 139 &#x000b0;C, significantly higher than those of DOL + DME (51 &#x000b0;C) and EC + DMC (59 &#x000b0;C) electrolytes, indicating better thermal stability of the 60%THE electrolyte. In addition, for the LMB with LiFePO<sub>4</sub> (LFP) cathode and 60%THE electrolyte, a fall in the OCV takes place at 224 &#x000b0;C, considerably above those using DOL + DME (168 &#x000b0;C) and EC + DMC (186 &#x000b0;C) electrolytes (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S7b</xref>, Supporting Information). As shown in the insets in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S7b</xref> of the Supporting Information, the cells with the two commercial electrolytes broke after heating to 230 &#x000b0;C, while the cell with 60%THE electrolyte is intact without explosion signs, suggesting that the THE&#x02010;based electrolyte improves battery safety. Low concentrated lithium bis(trifluoromethane sulfonyl) imide (LiTFSI)&#x02010;based electrolytes tend to cause aluminum(Al) corrosion in 4&#x000a0;V class cathodes. Al current collector is oxidized to form Al<sup>3+</sup>, which is coordinated with solvent molecules and diffuses in the electrolyte to cause corrosion of the Al current collector.<sup>[</sup>
+<xref rid="advs3316-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> As displayed in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S8</xref> of the Supporting Information, the SEM images show the morphology of the Al current collector in different electrolytes. The Al current collector in the commercial ether electrolyte experiences more severe corrosion than that in the 60%THE electrolyte. This is attributed to the lower binding energy of THE&#x02010;Al<sup>3+</sup> (&#x02212;0.67&#x000a0;eV) compared to those of DOL&#x02010;AL<sup>3+</sup> (&#x02212;0.92&#x000a0;eV) and DME&#x02010;Al<sup>3+</sup> (&#x02212;2.03&#x000a0;eV), causing difficult coordination between Al<sup>3+</sup> and THE solvent (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S9</xref>, Supporting Information). Therefore, the solubility of Al<sup>3+</sup> in the 60%THE electrolyte is reduced, which alleviates the Al corrosion. The affinity of electrolyte solvents with the polypropylene (PP) separator is studied with density functional theories (DFT). As shown in Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2d</xref>, the adsorption energy of THE&#x02010;CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> (&#x02212;0.052&#x000a0;eV) is much larger than those of DOL&#x02010;CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> (&#x02212;0.041&#x000a0;eV) and DME&#x02010;CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> (&#x02212;0.044&#x000a0;eV), indicating the outstanding affinity between PP and THE. The 60%THE electrolyte owns a high wettability with PP separator and various electrodes (Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2e,f</xref>; Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S10</xref>, Supporting Information), reducing the interphase impedance and enhancing the utilization of active materials. The viscosity of the 60%THE electrolyte is only 1.8 mPa s, considerably lower than those of EC + DMC (3.1 mPa s) and DOL + DME (3.5 mPa s) electrolytes. In particular, the viscosity of the 60%THE electrolyte maintains nearly unchanged at low temperatures, as compared with EC + DMC and DOL + DME electrolytes (Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2g</xref>; Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S11</xref>, Supporting Information). The conductivities and Li<sup>+</sup> transference numbers (<mml:math id="jats-math-2" display="inline"><mml:mrow><mml:msub><mml:mi mathvariant="normal">t</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math>) of the electrolytes are displayed in Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2h</xref> and Figures <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S12</xref> and <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S13</xref> (Supporting Information). The conductivity of the 60%THE electrolyte is slightly lower, but reasonably comparable to those of EC + DMC and DOL + DME electrolytes (that is, 6.2 vs 10.3 and 9.2 mS cm<sup>&#x02212;1</sup>). Different from conductivity, <mml:math id="jats-math-3" display="inline"><mml:mrow><mml:msub><mml:mi mathvariant="normal">t</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math> increases with increasing THE in the electrolytes from 0.48 for 20%THE, and 0.53 for 40%THE to 0.62 for 60%THE, which are all above those for EC + DMC (0.38) and DOL + DME (0.41). In particular, as shown in Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2i</xref>, compared with commercial electrolytes, the 60%THE electrolyte owns a wider electrochemical window and is, thus, capable of supporting higher voltage battery systems. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S14</xref> of the Supporting Information, the nucleation overpotential of the 60%THE electrolyte is 104&#x000a0;mV, considerably lower than that of the EC + DMC electrolyte (167&#x000a0;mV). The lower nucleation overpotential indicates that the SEI layer in the 60%THE electrolyte facilitates uniform Li nucleation and allows for rapid Li<sup>+</sup> transfer. As displayed in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S15</xref> of the Supporting Information, the cycling of the symmetrical Li/Li cell with the 60%THE electrolyte maintains stable for 150 h with a low over potential (&#x02248;6.4&#x000a0;mV). By contrast, the cell with the EC+DMC electrolyte fails to achieve a stable performance for more than 75 h.</p></sec><sec id="advs3316-sec-0040"><label>2.2</label><title>Electrochemical Behaviors of Commercial Electrodes with THE Electrolyte</title><p>As displayed in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S16</xref> of the Supporting Information, the redox peaks of the 60%THE electrolyte own higher intensities at &#x02248;3.25&#x000a0;and &#x02248;3.60&#x000a0;V than those of the EC + DMC electrolyte, indicating that the 60%THE electrolyte with solvation&#x02010;free Li<sup>+</sup> transfer significantly improves the electrochemical reaction kinetics. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S17</xref> of the Supporting Information, the Li/LFP battery with the 60%THE electrolyte owns the largest capacity and the electrochemical performances of the 60%THE electrolyte are investigated. Due to the high ion transmission capability of LiF&#x02010;rich SEI and excellent separator wettability, the 60%THE electrolyte greatly increases the rate and cyclic performances of the battery. As shown in Figure&#x000a0;<xref rid="advs3316-fig-0003" ref-type="fig">3a</xref>, the LFP cathode with the 60%THE electrolyte delivers discharge capacities from 153.2 to 38.1 mAh g<sup>&#x02212;1</sup> as the rate increases from 1 C to 100 C. The capacity recovers to 97.8% of the initial capacity as the current density is decreased from 100 C back to 1 C, indicating the excellent reversibility of the 60%THE electrolyte. By contrast, the discharge capacities are considerably lower at all C rates for the EC + DMC electrolyte. As displayed in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S18</xref> of the Supporting Information, the overpotentials at all rates of the Li/LFP cell with the 60%THE electrolyte are considerably lower than those of the Li/LFP cell with the EC + DMC electrolyte, indicating the significantly reduced polarization in the 60%THE electrolyte. As displayed in Figures <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S19</xref> and <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S20</xref> of the Supporting Information, the Li/LFP cells with the 60%THE electrolyte also exhibit better electrochemical performances than the EC + DMC electrolyte at low rates. A high&#x02010;loading LFP electrode of 13.46&#x000a0;mg cm<sup>&#x02212;2</sup> is employed. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S21</xref> of the Supporting Information, the battery with the 60%THE electrolyte maintains a stable cycle at 0.61&#x000a0;mA cm<sup>&#x02212;2</sup>, while the battery with the EC + DMC electrolyte undergoes decrease in both capacity and CE. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S22</xref> of the Supporting Information, the electrochemical impedance analysis shows that the semicircle diameter at the high frequency of the 60%THE electrolyte is smaller than that with commercial electrolyte, indicating that the formed electrolyte/electrode interface owns a smaller charge transfer resistance. As displayed in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S23</xref> of the Supporting Information, after 50 cycles, the impedance of the Li/LFP cell with the 60%THE electrolyte increases slightly, while that of the EC + DMC electrolyte increases significantly after 50 cycles. The Li/LTO battery using 60%THE electrolyte also exhibits obvious advantages in electrochemical performances over the commercial electrolyte (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S24</xref>, Supporting Information). In addition, the LFP cathode is assembled into full cells with LTO and graphite anodes. Significantly improved cycling and rate performances are achieved in full batteries (Figures <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S25</xref> and <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S26</xref>, Supporting Information). For other major commercial cathode materials including LCO and NCM532, the batteries with the 60%THE electrolyte also deliver improved rate and cycling performances as compared with those with the commercial electrolyte (Figures <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S27</xref> and <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S28</xref>, Supporting Information), indicating that the 60%THE electrolyte owns a wide&#x02010;range applicability. It is noted that less improvement in performances is observed for NCM811 full cells using the 60%THE electrolyte (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S29</xref>, Supporting Information), as attributed to the cation&#x02010;mixing due to the similarity in radius between Li<sup>+</sup> and Ni<sup>2+</sup>.<sup>[</sup>
+<xref rid="advs3316-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> Due to the extremely low HOMO energy value (&#x0003c;&#x02212;8.4&#x000a0;eV) and the high oxidation potential (&#x0003e;5.6&#x000a0;V), THE is free of oxidation on the surface of the cathode (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1a</xref>; Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S30</xref>, Supporting Information). Therefore, the composition of cathode electrolyte interphase in the 60%THE electrolyte is the same as that in commercial electrolyte and, thus, the 60%THE electrolyte cannot effectively inhibit cation&#x02010;mixing.<sup>[</sup>
+<xref rid="advs3316-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> The layered structure of the nickel&#x02010;rich cathode gradually evolves into an electrochemically inert rock salt phase, resulting in the rapid deterioration of the electrochemical performances of the nickel&#x02010;rich material.</p><p>The long&#x02010;cycle, high&#x02010;rate performances of the Li/LFP cells with EC + DMC and 60%THE electrolytes are shown in Figure&#x000a0;<xref rid="advs3316-fig-0003" ref-type="fig">3b&#x02013;g</xref> of the Supporting Information. The cells with the 60%THE electrolyte own larger capacities and better capacity retention as compared with the EC + DMC electrolyte at all rates (Table <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information). In particular, the battery shows unprecedented cycle retention with only 0.0012% capacity loss per cycle over 5000 cycles at 10 C (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S31a</xref> and Table <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S3</xref>, Supporting Information), which is the lowest capacity loss for the Li/LFP cells as reported to this date. Moreover, the LFP cathode with the 60%THE electrolyte exhibits the highest rate capability among reported electrolyte engineering work for the Li/LFP cells (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S31b</xref> and Table <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information). To further demonstrate the superiority of the 60%THE electrolyte, FEC and VC, the most widely used SEI forming additives in commercial applications, are compared with THE. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S32</xref> of the Supporting Information, the Li/LFP cell with the 60%THE electrolyte delivers a discharge capacity of 119.8 mAh g<sup>&#x02212;1</sup> after 1375 cycles at 10 C, which is considerably larger than those with EC + DMC + 10%FEC + 2%VC (78.3 mAh g<sup>&#x02212;1</sup>) and EC + DMC (56.6 mAh g<sup>&#x02212;1</sup>) electrolytes. Therefore, FEC and VC additives have less pronounced impact on the high&#x02010;rate performances of the Li/LFP battery as compared with THE. The low&#x02010;temperature performances of the Li/LFP batteries with EC + DMC and 60%THE electrolytes are studied (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S33</xref>, Supporting Information). The battery with the 60%THE electrolyte also exhibits more pronounced rate capacities as compared with the commercial electrolyte at low temperatures. As displayed in Table <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S5</xref> of the Supporting Information, with the 60%THE electrolyte, the battery capacities have no significant change at various rates (&#x0003c;5 mAh g<sup>&#x02212;1</sup>) at 25 and 0 &#x000b0;C. The temperature window of the THE electrolyte for efficient battery operation is evaluated by measuring battery cycling performance at different temperatures. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S34</xref> of the Supporting Information, the Li/LFP cell with the 60%THE electrolyte shows excellent cycling stability in a wide temperature range from &#x02212;50 &#x000b0;C to +100 &#x000b0;C. Owing to the excellent thermal stability of the THE (Figures <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S5</xref> and <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S7</xref>, Supporting Information), the high temperature performance of the cell with the 60%THE electrolyte is also enhanced. On the other hand, the outstanding low&#x02010;temperature performances of the 60%THE electrolyte are due to its almost unchanged viscosity at various temperatures (Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2g</xref>) and excellent compatibility between electrolyte and PP separator (Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2d&#x02013;f</xref>), ensuring efficient in&#x02010;cell ionic conduction. By contrast, the high viscosity of the EC + DMC electrolyte at low temperatures causes slow ion transport and the battery is severely polarized, leading to the low capacity. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S35</xref> of the Supporting Information, the Li/LFP cell assembled with 60%THE electrolyte and PVDF separator delivers a high specific capacity of 142.3 mAh g<sup>&#x02212;1</sup> with 97.7% capacity retention after 50 cycles, demonstrating that the 60%THE electrolyte is compatible with PVDF separator.</p></sec><sec id="advs3316-sec-0050"><label>2.3</label><title>Mechanism of Rate&#x02010;Performance Improvement with THE&#x02010;Based Electrolyte</title><p>Ab initio molecular dynamics (AIMD) simulations are employed to investigate the solvation structure and rate performances of electrolytes. Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S36a&#x02013;c</xref> of the Supporting Information shows the simulation snapshots of EC + DMC, DOL + DME, and 60%THE electrolytes, respectively. The representative configurations of coordinated molecules in the first Li<sup>+</sup> shell in the three different electrolyte systems are depicted with a ball&#x02010;and&#x02010;stick model (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S36d&#x02013;f</xref>, Supporting Information). Li<sup>+</sup> prefers to coordinate with oxygen from EC, DMC, DOL, and DME solvent molecules, facilitating the dissociation of the lithium salts, while THE is a free solvent molecule and does not coordinate with either Li<sup>+</sup> or anions. Therefore, the dissociation of lithium salts and the number of charge carriers in the THE&#x02010;based electrolyte decrease with increasing volume ratio of THE, resulting in reduced Li<sup>+</sup> cations (<mml:math id="jats-math-4" display="inline"><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math>) and TFSI<sup>&#x02212;</sup> anions (<mml:math id="jats-math-5" display="inline"><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mrow><mml:mi>TFS</mml:mi><mml:msup><mml:mi mathvariant="normal">I</mml:mi><mml:mo>&#x02212;</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math>). In the 60%THE electrolyte, the Li<sup>+</sup> cations are weakly solvated with solvent molecules, and in the meanwhile the anions are seriously dragged by Li<sup>+</sup> cations in return, resulting in low the mobility of TFSI<sup>&#x02212;</sup> anions (<mml:math id="jats-math-6" display="inline"><mml:mrow><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mrow><mml:mi>TFS</mml:mi><mml:msup><mml:mi mathvariant="normal">I</mml:mi><mml:mo>&#x02212;</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math>). As shown in Equations (S1) and (S2), the ion conductivity and Li<sup>+</sup> transference number own opposite trends with increasing volume ratio of THE (Figure&#x000a0;<xref rid="advs3316-fig-0002" ref-type="fig">2h</xref>). As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S37</xref> of the Supporting Information, although the free solvent THE does not contribute to LiTFSI dissolution or Li<sup>+</sup> solvation, the large dielectric constants of the DOL (7.1) and DME (7.2) in the 60%THE electrolyte still allow for the sufficient solvation of the lithium salt for battery operation at high rates. Electrostatic potential (ESP) is calculated to study the impact of electron&#x02010;withdrawing fluoroalkyl groups on the properties of solvent molecules (<bold>Figure</bold>
+<xref rid="advs3316-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>). For the DME molecule, the negative potential (&#x02212;0.054 Hartree e<sup>&#x02212;1</sup>) mainly is concentrated on O atoms, while the O atom of the THE molecule owns a uniform negative potential (&#x02212;0.023 Hartree e<sup>&#x02212;1</sup>) distribution in the presence of electron&#x02010;withdrawing fluoroalkyl groups, demonstrating that THE is unable to coordinate with positively&#x02010;charged Li<sup>+</sup>. As the two F atoms on the carbon adjacent to the O atom are replaced with H atoms, the negative potential of the O atom of 2,2,2&#x02010;trifluoroethyl&#x02010;2,3,3,3&#x02010;tetrafluoropropyl ether (TTEE) is enhanced to &#x02212;0.036 Hartree e<sup>&#x02212;1</sup>, indicating that the two electron&#x02010;withdrawing fluoroalkyl groups adjacent to the oxygen atom result in the low solvating capability of lithium ions. Base on DFT calculation of the binding energy between DME and additive solvents, the intermolecular binding energy between THE and DME is calculated to be &#x02212;0.144&#x000a0;eV, which is significantly higher than that between DME and the other commercial additives, such as FEC, VC, HFE, etc. (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S38a</xref>, Supporting Information). Moreover, the binding energy of THE&#x02013;DOL is also the highest among the additive solvents (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S38b</xref>, Supporting Information). These results indicate that the solvent competition induced with THE addition weakens the interaction between Li<sup>+</sup> and ether&#x02010;based solvents, which is further confirmed by Raman spectra and molecular dynamic (MD) simulation results (Figure&#x000a0;<xref rid="advs3316-fig-0004" ref-type="fig">4b,c</xref>; Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S39</xref>, Supporting Information). It is known that, after Li salt dissolving in solvent, the Raman peaks corresponding to the solvent undergo an obvious shift owing to the coordination between Li<sup>+</sup> and solvent molecules.<sup>[</sup>
+<xref rid="advs3316-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="advs3316-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> As shown in Figure&#x000a0;<xref rid="advs3316-fig-0004" ref-type="fig">4b,c</xref>, the Raman spectra of the DME/DOL undergoes a significant blue shift after coordination with Li ion. With the addition of THE, the peak shifts back, indicating the THE weakens the Li<sup>+</sup> solvation structure. As displayed in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S39</xref> of the Supporting Information, the MD results show that the coordination number decreases from 4.01 to 2.67 for DME&#x02010;Li<sup>+</sup>, from 0.45 to 0.26 for DOL&#x02010;Li<sup>+</sup>, upon THE addition. Moreover, the coordination number of THE with Li<sup>+</sup> is 0, further confirming that THE does not participate the solvation structure of Li<sup>+</sup>, but reduces the coordination interaction between Li<sup>+</sup> and ether&#x02010;based solvents, which leads to more efficient desolvation process of Li<sup>+</sup> in the 60%THE electrolyte as compared to that in the DOL + DME electrolyte.</p><fig position="float" fig-type="Figure" id="advs3316-fig-0004"><label>Figure 4</label><caption><p>a) Oxygen negative potential and ESP comparisons of DME, THE, and TTEE. b,c) Raman spectra of different electrolytes (DOL + DME, 10%THE, 20%THE, 30%THE, 40%THE, 50%THE, and 60%THE electrolytes, the Li salt concentration is 1 <sc>m</sc> in these electrolytes) and electrolyte solvents (pure DOL and DME solvents without LiTFSI). d) Adsorption of fluorine&#x02010;rich THE on deposited Li (0 0 1) surface accompanied with abundant LiF formation through AIMD simulation. e) Energy barriers for Li transfer in DOL, DME, and THE solvents to deposited Li (0 0 1) surface through AIMD simulation.</p></caption><graphic xlink:href="ADVS-9-2104699-g003" position="anchor" id="jats-graphic-9"/></fig><p>As shown in Tables <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S6</xref> and <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S7</xref> of the Supporting Information, the ion conductivity of each component in the battery with DOL + DME and 60%THE electrolytes is studied. The slowest ion conduction inside the battery occurs at the electrolyte/anode interface and is on the order of 10<sup>&#x02212;7</sup> S cm<sup>&#x02212;1</sup>, which is far below that of the electrolytes. The ion transport at electrolyte/electrode interface and in the electrodes is contributed by Li<sup>+</sup> transfer. Therefore, the Li<sup>+</sup> conduction at the electrolyte/anode interface, instead of the Li<sup>+</sup> conduction in the electrolyte, is the limiting factor for the rate performances of the battery system. With a smaller ionic conductivity, the THE&#x02010;based electrolyte owns a larger Li<sup>+</sup> transference number and enables much enhanced rate performances of the batteries, indicating the THE&#x02010;based electrolyte greatly enhances the Li<sup>+</sup> conduction at the electrolyte/anode interface. As shown in XPS (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1j</xref>) and AIMD (Figure&#x000a0;<xref rid="advs3316-fig-0004" ref-type="fig">4d</xref>) results, compared with DOL and DME molecules, abundant LiF forms at the surface of Li metal due to the C&#x02013;F bond cleavage in THE, resulting in an increased F element ratio in the SEI layer. As shown in Figures&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1j</xref> and&#x000a0;<xref rid="advs3316-fig-0004" ref-type="fig">4d</xref>, the added F element ratio in the SEI layer exists almost entirely in the form of LiF after the introduction of THE. After introducing THE, the increased ratio of F element in SEI layer is &#x02248;0.29 based on XPS results. Based on Equation (S3), <italic toggle="yes">&#x003c3;</italic>
+<sub>2</sub> is calculated to be &#x02248;1.9 &#x000d7; 10<sup>&#x02212;7</sup>&#x02005;S&#x02005;cm<sup>&#x02212;1</sup>, which is on the same order of that for LiF (<italic toggle="yes">&#x003c3;</italic>
+<sub>LiF</sub>,6.4 &#x000d7; 10<sup>&#x02212;7</sup>&#x02005;S&#x02005;cm<sup>&#x02212;1</sup> &#x02212; 1) and far beyond that of conventional electrolyte/anode interface (<italic toggle="yes">&#x003c3;</italic>
+<sub>1</sub>,1 &#x000d7; 10<sup>&#x02212;9</sup>&#x02005;S&#x02005;cm<sup>&#x02212;1</sup>) in the DOL + DME electrolyte.<sup>[</sup>
+<xref rid="advs3316-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs3316-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>]</sup> As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S40</xref> of the Supporting Information, the Li<sup>+</sup> diffusion barrier in LiF (0 0 1) is 0.19&#x000a0;eV,<sup>[</sup>
+<xref rid="advs3316-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> a value considerably lower than those in Li<sub>2</sub>CO<sub>3</sub> (0 1 0) (0.28&#x000a0;eV) and Li<sub>2</sub>O (1 1 1) (0.45&#x000a0;eV),<sup>[</sup>
+<xref rid="advs3316-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="advs3316-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> which further indicates the lower transmission resistance of Li<sup>+</sup> in LiF as compared with conventional electrolyte/anode interface. The enhancement on the ionic conductivity at electrolyte/anode interface gives rise to the improved rate performances with the 60%THE electrolyte.</p><p>The mechanism of C&#x02014;F bond cleavage is further studied. Owing to a low LUMO energy value (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1e</xref>), THE on the anode surface is prone to defluorination through reduction reaction. AIMD simulations (Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S41</xref>, Supporting Information) show that the C&#x02014;F bond breaks on the CF<sub>2</sub> and the CF<sub>3</sub> groups of THE. As shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S42</xref> of the Supporting Information, the breaking energy values for the C&#x02014;F bond cleavage of TTEE and 2,2,2&#x02010;trifluoroethyl&#x02010;1,1,2&#x02010;trifluoropropyl ether are 0.69&#x000a0;and 0.14&#x000a0;eV, considerably above that of THE (0.04&#x000a0;eV), indicating that the efficient formation of LiF through C&#x02014;F bond cleavage with the THE electrolyte.</p><p>The energy barrier for Li<sup>+</sup> mobility at the deposited Li (0 0 1)/electrolyte interface is calculated through AIMD simulations with a slow&#x02010;growth method (Figure&#x000a0;<xref rid="advs3316-fig-0004" ref-type="fig">4e</xref>; Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S43</xref>, Supporting Information). For the THE&#x02010;based electrolyte, the energy barrier is only on the order of &#x02248;1/7 and 1/6 of those for the conventional DME and DOL electrolytes. We then speculate that Li<sup>+</sup> does not completely strip off free&#x02010;solvent THE molecules during intercalation into the anode, verifying that the addition of THE is beneficial for improving the ion transmission at electrolyte/anode interface. The activation energy for Li<sup>+</sup> transfer in different electrolytes is studied by measuring the interfacial resistance at various temperatures. Since ion transport in EC + DMC, DOL + DME, and 60%THE electrolytes is dependent on the mobility of the solvated molecules, the Li<sup>+</sup> conductivity in these liquid electrolytes at different temperatures can be well described through the Vogel&#x02013;Tammann&#x02013;Fulcher empirical equation,<sup>[</sup>
+<xref rid="advs3316-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> as shown in Figure <xref rid="advs3316-supitem-0001" ref-type="supplementary-material">S44</xref> of the Supporting Information. The activation energy barrier of the 60%THE electrolyte is 0.039&#x000a0;eV, considerably lower than those of EC + DMC (0.165&#x000a0;eV) and DOL + DME (0.219&#x000a0;eV) electrolytes, indicating that the Li<sup>+</sup> transference in the 60%THE electrolyte is energetically more favorable. This is well consistent with the results of AIMD simulations. In addition, AIMD calculations (Figure&#x000a0;<xref rid="advs3316-fig-0004" ref-type="fig">4d</xref>) show that F transfers from the THE solvent to the deposited Li surface to form LiF&#x02010;rich inorganic species near the anode surface, as observed with in situ Raman (Figure&#x000a0;<xref rid="advs3316-fig-0001" ref-type="fig">1m</xref>). The LiF&#x02010;rich interphase layer on the anode improves the reaction kinetics and cyclic stability of the batteries.</p></sec></sec><sec id="advs3316-sec-0060"><label>3</label><title>Conclusion</title><p>In summary, THE&#x02010;based electrolyte is first developed by employing fluoroalkyl ether THE as a cosolvent of LiTFSI/DOL + DME. Both experiments and computational simulations demonstrate that the THE&#x02010;based electrolyte with interface ion affinity owns excellent wettability to the commercial separator, enables rapid and uniform Li<sup>+</sup> transmission, and promotes the formation of LiF&#x02010;rich SEI with mitigated Li dendrites at the electrolyte/Li interface. In addition, the solvent competition induced with THE addition weakens the Li<sup>+</sup> solvation structure of the electrolyte. Using the 60%THE electrolyte, the lithium metal battery with LiFePO<sub>4</sub> cathode exhibits substantially enhanced cycling stability and favorable capacity fading rate. This study offers a promising strategy to endow THE&#x02010;based electrolytes with rapid interface ion transference for high&#x02010;performance energy&#x02010;storage devices.</p></sec><sec sec-type="COI-statement" id="advs3316-sec-0080"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs3316-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-9-2104699-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="advs3316-supitem-0002" position="float" content-type="local-data"><caption><p>Supplementary Video 1</p></caption><media xlink:href="ADVS-9-2104699-s004.mp4" mimetype="video" mime-subtype="mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="advs3316-supitem-0003" position="float" content-type="local-data"><caption><p>Supplementary Video 2</p></caption><media xlink:href="ADVS-9-2104699-s003.mp4" mimetype="video" mime-subtype="mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="advs3316-supitem-0004" position="float" content-type="local-data"><caption><p>Supplementary Video 3</p></caption><media xlink:href="ADVS-9-2104699-s002.mp4" mimetype="video" mime-subtype="mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs3316-sec-0070"><title>Acknowledgements</title><p>L.D., Y.L., and, K.W. contributed equally to this work. This research was supported by the Science Foundation of National Key Laboratory of Science and Technology on Advanced Composites in Special Environments, the National Natural Science Foundation of China (12002109), and the National Key Research and Development program of China (2017YFA0206703).</p></ack><sec sec-type="data-availability" id="advs3316-sec-0100"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs3316-bibl-0001"><ref id="advs3316-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs3316-cit-0001">
+<string-name>
+<given-names>W.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Suo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K. P.</given-names>
+<surname>So</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Maurano</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>374</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs3316-cit-0002">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Dufek</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Khalifah</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Liaw</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>180</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs3316-cit-0003">
+<string-name>
+<given-names>W.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lopez</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>495</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs3316-cit-0004">
+<string-name>
+<given-names>D. T.</given-names>
+<surname>Boyle</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>487</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs3316-cit-0005">
+<string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N. G.</given-names>
+<surname>Holmes</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>176</fpage>.<pub-id pub-id-type="pmid">33420065</pub-id></mixed-citation></ref><ref id="advs3316-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs3316-cit-0006">
+<string-name>
+<given-names>D.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>186</fpage>.<pub-id pub-id-type="pmid">33420036</pub-id></mixed-citation></ref><ref id="advs3316-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs3316-cit-0007">
+<string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Mackanic</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2021</year>, <volume>33</volume>, <elocation-id>2008619</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs3316-cit-0008">
+<string-name>
+<given-names>J.&#x02010;F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <elocation-id>11442</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs3316-cit-0009">
+<string-name>
+<given-names>T. D.</given-names>
+<surname>Pham</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>BinFaheem</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Chun</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;R.</given-names>
+<surname>Rho</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kwak</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;K.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2003520</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs3316-cit-0010">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yamada</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Shang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Nakamura</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Yamada</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2020</year>, <volume>5</volume>, <fpage>291</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs3316-cit-0011">
+<string-name>
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>M. B.</given-names>
+<surname>Effat</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Robson</surname>
+</string-name>, <string-name>
+<given-names>S. C. T.</given-names>
+<surname>Kwok</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ciucci</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2010261</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs3316-cit-0012">
+<string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Sendek</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2017</year>, <volume>2</volume>, <elocation-id>17035</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs3316-cit-0013">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Stalin</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>365</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs3316-cit-0014">
+<string-name>
+<given-names>H.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W. H.</given-names>
+<surname>Hung</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;C.</given-names>
+<surname>Tai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Angell</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;J.</given-names>
+<surname>Shyue</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Dai</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>2001741</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs3316-cit-0015">
+<string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>11</volume>, <elocation-id>2000962</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs3316-cit-0016">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>G.&#x02010;T.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <elocation-id>1902496</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs3316-cit-0017">
+<string-name>
+<given-names>P.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Riu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <source>Small</source>
+<year>2020</year>, <volume>16</volume>, <elocation-id>2001989</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs3316-cit-0018">
+<string-name>
+<given-names>J.</given-names>
+<surname>Conder</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Bouchet</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Trabesinger</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Marino</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gubler</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Villevieille</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2017</year>, <volume>2</volume>, <elocation-id>17069</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs3316-cit-0019">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yamada</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Sodeyama</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Watanabe</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Takada</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tateyama</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Yamada</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>22</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs3316-cit-0020">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Small Struct.</source>
+<year>2021</year>, <volume>2</volume>, <elocation-id>2100119</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs3316-cit-0021">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Murugesan</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>674</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs3316-cit-0022">
+<string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6362</fpage>.<pub-id pub-id-type="pmid">25698340</pub-id></mixed-citation></ref><ref id="advs3316-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs3316-cit-0023">
+<string-name>
+<given-names>M.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Rao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2021</year>, <volume>15</volume>, <fpage>9167</fpage>.<pub-id pub-id-type="pmid">33938743</pub-id></mixed-citation></ref><ref id="advs3316-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs3316-cit-0024">
+<string-name>
+<given-names>K.&#x02010;H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Wood</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Kazyak</surname>
+</string-name>, <string-name>
+<given-names>W. S.</given-names>
+<surname>LePage</surname>
+</string-name>, <string-name>
+<given-names>A. L.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Sanchez</surname>
+</string-name>, <string-name>
+<given-names>N. P.</given-names>
+<surname>Dasgupta</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <elocation-id>11671</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs3316-cit-0025">
+<string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Samuelis</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2012</year>, <volume>12</volume>, <fpage>1241</fpage>.<pub-id pub-id-type="pmid">22304487</pub-id></mixed-citation></ref><ref id="advs3316-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs3316-cit-0026">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>961</fpage>.<pub-id pub-id-type="pmid">25108613</pub-id></mixed-citation></ref><ref id="advs3316-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs3316-cit-0027">
+<string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>4303</fpage>.<pub-id pub-id-type="pmid">15669157</pub-id></mixed-citation></ref><ref id="advs3316-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs3316-cit-0028">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>K. C.</given-names>
+<surname>DeMella</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Raghavan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1803774</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs3316-cit-0029">
+<string-name>
+<given-names>H.</given-names>
+<surname>Hedderi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Frum</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Engleman</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bernath</surname>
+</string-name>, <source>Can. J. Chem.</source>
+<year>1991</year>, <volume>69</volume>, <fpage>1659</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs3316-cit-0030">
+<string-name>
+<given-names>N.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <elocation-id>14173</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs3316-cit-0031">
+<string-name>
+<given-names>C.</given-names>
+<surname>Zu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Azimi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <elocation-id>14864</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs3316-cit-0032">
+<string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>1702348</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs3316-cit-0033">
+<string-name>
+<given-names>N.</given-names>
+<surname>vonAspern</surname>
+</string-name>, <string-name>
+<given-names>G.&#x02010;V.</given-names>
+<surname>Roeschenthaler</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Cekic&#x02010;Laskovic</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <elocation-id>15978</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs3316-cit-0034">
+<string-name>
+<given-names>J.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ohma</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Ootani</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nitta</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ouyang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>5100</fpage>.<pub-id pub-id-type="pmid">33037217</pub-id></mixed-citation></ref><ref id="advs3316-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs3316-cit-0035">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Yasukawa</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mori</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2000</year>, <volume>45</volume>, <fpage>2677</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs3316-cit-0036">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2020</year>, <volume>202</volume>, <fpage>284</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs3316-cit-0037">
+<string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>2550</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs3316-cit-0038">
+<string-name>
+<given-names>J.</given-names>
+<surname>Holoubek</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xing</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>T. A.</given-names>
+<surname>Pascal</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2021</year>, <volume>6</volume>, <fpage>303</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs3316-cit-0039">
+<string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1706102</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs3316-cit-0040">
+<string-name>
+<given-names>B.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Deng</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2020</year>, <volume>20</volume>, <fpage>4029</fpage>.<pub-id pub-id-type="pmid">32343592</pub-id></mixed-citation></ref><ref id="advs3316-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs3316-cit-0041">
+<string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>3483</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs3316-cit-0042">
+<string-name>
+<given-names>H.</given-names>
+<surname>Iddir</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Curtiss</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2010</year>, <volume>114</volume>, <elocation-id>20903</elocation-id>.</mixed-citation></ref><ref id="advs3316-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs3316-cit-0043">
+<string-name>
+<given-names>H. W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z. F.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Ouyang</surname>
+</string-name>, <source>Mater. Lett.</source>
+<year>2017</year>, <volume>188</volume>, <fpage>208</fpage>.</mixed-citation></ref><ref id="advs3316-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs3316-cit-0044">
+<string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Piao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>882</fpage>.</mixed-citation></ref></ref-list></back></article>

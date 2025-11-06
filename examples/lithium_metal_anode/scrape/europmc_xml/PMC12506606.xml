@@ -1,0 +1,1610 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="adma202507459" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Mater</journal-id><journal-id journal-id-type="iso-abbrev">Adv Mater</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-4095</journal-id><journal-id journal-id-type="publisher-id">ADMA</journal-id><journal-title-group><journal-title>Advanced Materials (Deerfield Beach, Fla.)</journal-title></journal-title-group><issn pub-type="ppub">0935-9648</issn><issn pub-type="epub">1521-4095</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12506606</article-id><article-id pub-id-type="pmid">40635249</article-id>
+<article-id pub-id-type="doi">10.1002/adma.202507459</article-id><article-id pub-id-type="publisher-id">ADMA202507459</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Revisiting the Impact of Anion Selection on Sulfur Redox Reaction Kinetics for High Sulfur Loading Lithium&#x02013;Sulfur Batteries</article-title></title-group><contrib-group><contrib id="adma202507459-cr-0001" contrib-type="author"><name><surname>Fei</surname><given-names>Yue</given-names></name><xref rid="adma202507459-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma202507459-cr-0002" contrib-type="author"><name><surname>Li</surname><given-names>Matthew</given-names></name><xref rid="adma202507459-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="adma202507459-cr-0003" contrib-type="author"><name><surname>Li</surname><given-names>Zhenfeng</given-names></name><xref rid="adma202507459-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma202507459-cr-0004" contrib-type="author"><name><surname>Guan</surname><given-names>Dichang</given-names></name><xref rid="adma202507459-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="adma202507459-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="adma202507459-cr-0005" contrib-type="author"><name><surname>Jia</surname><given-names>Wenting</given-names></name><xref rid="adma202507459-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="adma202507459-cr-0006" contrib-type="author"><name><surname>Zhang</surname><given-names>Hao</given-names></name><xref rid="adma202507459-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="adma202507459-cr-0007" contrib-type="author" corresp="yes"><name><surname>Amine</surname><given-names>Khalil</given-names></name><xref rid="adma202507459-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>amine@anl.gov</email></address></contrib><contrib id="adma202507459-cr-0008" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Ge</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1978-2976</contrib-id><xref rid="adma202507459-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>ge.li@ualberta.ca</email></address></contrib></contrib-group><aff id="adma202507459-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Mechanical Engineering</named-content>
+<institution>University of Alberta</institution>
+<city>Edmonton</city>
+<named-content content-type="country-part">Alberta</named-content>
+<postal-code>T6G 1H9</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="adma202507459-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Chemical Sciences and Engineering Division</named-content>
+<institution>Argonne National Laboratory</institution>
+<named-content content-type="street">9700 Cass Ave.</named-content>
+<city>Lemont</city>
+<named-content content-type="country-part">IL</named-content>
+<postal-code>60439</postal-code>
+<country country="US">USA</country>
+</aff><aff id="adma202507459-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">School of Metallurgy and Environment</named-content>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<postal-code>410083</postal-code>
+<country country="CN">P. R. China</country>
+</aff><aff id="adma202507459-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Chemical and Materials Engineering</named-content>
+<institution>University of Alberta</institution>
+<city>Edmonton</city>
+<named-content content-type="country-part">Alberta</named-content>
+<postal-code>T6G 1H9</postal-code>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>amine@anl.gov</email>; <email>ge.li@ualberta.ca</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="ppub"><day>02</day><month>10</month><year>2025</year></pub-date><volume>37</volume><issue seq="510">39</issue><issue-id pub-id-type="doi">10.1002/adma.v37.39</issue-id><elocation-id>2507459</elocation-id><history>
+<date date-type="rev-recd"><day>02</day><month>6</month><year>2025</year></date>
+<date date-type="received"><day>19</day><month>4</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). Advanced Materials published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADMA-37-2507459.pdf"/><abstract><title>Abstract</title><p>Lithium bis(trifluoromethane)sulfonimide (LiTFSI) is widely used in lithium&#x02013;sulfur (Li&#x02013;S) battery electrolytes due to its stability with lithium polysulfides (LiPSs) and moderate compatibility with lithium metal anodes. However, LiTFSI presents environmental concerns due to its association with per&#x02010; and polyfluoroalkyl substances (PFAS), which are environmentally persistent and potentially toxic, raises sustainability concerns. This research also reveals that LiTFSI limits sulfur redox reactions (SRRs), making it less effective than other lithium salts.&#x000a0;Additionally, some salts previously considered incompatible with Li&#x02010;S systems due to their reactivity with LiPSs are demonstrated to perform effectively. For the first time, a protective, porous cathode electrolyte interphase (CEI) formed in situ through reactions between salt anions and LiPS is reported. The cells delivered a high specific capacity of 1230.8 mAh g<sup>&#x02212;1</sup> at 0.05 C with a sulfur loading of &#x02248;6&#x000a0;mg cm<sup>&#x02212;2</sup>, limited lithium anode, maintaining a capacity retention of 76.2% after 100 cycles at 0.1 C. Under harsh conditions, such as high sulfur loading, lean electrolyte conditions (3 &#x000b5;L mg<sup>&#x02212;1</sup>), and in anode&#x02010;free cells, the cells continued to deliver outstanding capacity. This work provides valuable guidelines for understanding and selecting lithium salts to advance electrolyte design for Li&#x02013;S batteries.</p></abstract><abstract id="adma202507459-abs-0001" abstract-type="graphical"><p>Sulfur redox reactions are systematically evaluated with nine commercial lithium salts and developed a new LiTFSI&#x02010;free, PFAS&#x02010;free electrolyte for Li&#x02013;S batteries. LiBOB, once considered incompatible, forms a stable cathode&#x02010;electrolyte interphase, suppressing the shuttle effect and delivering excellent performance in high&#x02010;loading Li&#x02013;S cells, offering a more sustainable electrolyte strategy.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADMA-37-2507459-g004.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="adma202507459-kwd-0001">high loading batteries</kwd><kwd id="adma202507459-kwd-0002">lean electrolyte batteries</kwd><kwd id="adma202507459-kwd-0003">lithium&#x02013;sulfur batteries</kwd><kwd id="adma202507459-kwd-0004">sulfur redox reaction</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Canada First Research Excellence Fund</institution><institution-id institution-id-type="doi">10.13039/501100010785</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Natural Sciences and Engineering Research Council of Canada</institution><institution-id institution-id-type="doi">10.13039/501100000038</institution-id></institution-wrap>
+</funding-source><award-id>RGPIN&#x02010;2020&#x02010;05184</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="11"/><word-count count="7502"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:08.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="adma202507459-cit-0001">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, et al. &#x0201c;<article-title>Revisiting the Impact of Anion Selection on Sulfur Redox Reaction Kinetics for High Sulfur Loading Lithium&#x02013;Sulfur Batteries</article-title>.&#x0201d; <source>Adv. Mater.</source>
+<volume>37</volume>, no. <issue>39</issue> (<year>2025</year>): <volume>37</volume>, <elocation-id>2507459</elocation-id>. <pub-id pub-id-type="doi">10.1002/adma.202507459</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="adma202507459-sec-0010"><label>1</label><title>Introduction</title><p>Among all post&#x02010;lithium&#x02010;ion batteries, lithium&#x02013;sulfur (Li&#x02013;S) batteries stand out due to their high energy density and the abundant natural sulfur resource.<sup>[</sup>
+<xref rid="adma202507459-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> However, practical Li&#x02013;S batteries are still under development due to challenges such as the &#x0201c;shuttle effect&#x0201d; and poor sulfur redox kinetics.<sup>[</sup>
+<xref rid="adma202507459-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup> The former leads to poor cycle life, low Coulombic Efficiency (CE), and an unstable lithium metal anode, while the latter results in reduced energy density and necessitates an additional mass of catalyst and electrolyte.<sup>[</sup>
+<xref rid="adma202507459-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> These challenges hinder the advancement of practical Li&#x02013;S batteries, particularly under harsh working conditions such as high sulfur loading, limited lithium metal anodes, and lean electrolyte systems.<sup>[</sup>
+<xref rid="adma202507459-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="adma202507459-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup>
+</p><p>Electrocatalytic cathode host materials,<sup>[</sup>
+<xref rid="adma202507459-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> separator modifications,<sup>[</sup>
+<xref rid="adma202507459-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> and electrolyte engineering,<sup>[</sup>
+<xref rid="adma202507459-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> are effective strategies for extending the life cycle and improving the energy density of Li&#x02013;S batteries under harsh conditions. Among them, electrolyte engineering can not only regulate the sulfur cathode but also enhance the stability of the lithium metal anode.<sup>[</sup>
+<xref rid="adma202507459-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> In the Li&#x02013;S system, electrolytes can be categorized into three groups. One can be called the &#x0201c;reducing LiPS solubility&#x0201d; group, which includes sparingly solvating electrolytes,<sup>[</sup>
+<xref rid="adma202507459-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> quasi&#x02010;solid&#x02010;state sulfur conversion electrolytes,<sup>[</sup>
+<xref rid="adma202507459-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="adma202507459-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> encapsulating solvating electrolytes,<sup>[</sup>
+<xref rid="adma202507459-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="adma202507459-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> carbonate&#x02010;based CEI&#x02010;forming (Cathode Electrolyte Interphase) electrolytes,<sup>[</sup>
+<xref rid="adma202507459-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> and solid electrolytes.<sup>[</sup>
+<xref rid="adma202507459-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> These electrolytes reduce the solubility of soluble lithium polysulfides (LiPSs) intermediates, thereby preventing the loss of active sulfur materials from the cathode and improving anode stability. The other category is strong solvating electrolytes, which enhance the solubility of LiPS to improve sulfur redox reaction (SRR) kinetics and sulfur utilization.<sup>[</sup>
+<xref rid="adma202507459-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> However, this approach usually requires additional protection for the lithium metal anode, as dissolved LiPS in the electrolyte can potentially corrode the anode. Last but not least, redox mediators and additives, which effectively improve SRR kinetics by decoupling the need for electronic transfer with physical contact between electrode and sulfur/lithium sulfide, enhance sulfur conversion and can significantly reduce the sulfur shuttle effect. These mediators have also been investigated to address the intrinsic issues of Li&#x02013;S batteries.<sup>[</sup>
+<xref rid="adma202507459-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup>
+</p><p>Some salts or compounds have been explored as additives or redox mediators to enhance the performance of both the sulfur cathode and the lithium metal anode. However, these additives and redox mediators are typically used at much lower concentrations (&#x02248;0.1&#x000a0;<sc>m</sc>) compared to the main salts in the electrolyte (&#x02248;1&#x000a0;<sc>m</sc>). Given the higher concentration of main salts, their impact on the SRR is likely to be more significant. Therefore, understanding and investigating the effects of these main electrolyte salts on SRR kinetics is critical, yet the understanding still needs to be improved. Recently, the competition between lithium bis(trifluoromethane)sulfonimide (LiTFSI) and lithium bis(fluorosulfonyl)imide (LiFSI) as the main salt in Li&#x02013;S electrolytes has gained renewed attention. Initially, LiFSI was reported to be unsuitable for the Li&#x02013;S system because it reacts to form an insulating LiSO<sub>x</sub> layer on the cathode surface, hindering the SRR.<sup>[</sup>
+<xref rid="adma202507459-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> However, recent studies have shown that LiFSI can reduce overpotentials in Li&#x02013;S batteries, enable low&#x02010;temperature operation, and improve cell life cycles.<sup>[</sup>
+<xref rid="adma202507459-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> Additionally, the presence of sulfate/sulfite&#x02010;containing CEI layers has been reported with LiNO<sub>3</sub>&#x02010;containing electrolytes, suggesting that sulfur&#x02010;containing CEI might actually benefit the sulfur cathode.<sup>[</sup>
+<xref rid="adma202507459-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Thus, the LiSO<sub>x</sub> compounds formed by LiFSI might not be detrimental but beneficial to the cathode, effectively reducing the overpotential of the SRR. Other salts, such as lithium hexafluorophosphate (LiPF<sub>6</sub>) and lithium tetrafluoroborate (LiBF<sub>4</sub>), have been considered unsuitable for the Li&#x02013;S system due to detrimental internal reactions.<sup>[</sup>
+<xref rid="adma202507459-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="adma202507459-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Despite these findings, the investigation into SRR kinetics and the role of different lithium salts in Li&#x02013;S batteries remains limited and requires further exploration.<sup>[</sup>
+<xref rid="adma202507459-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> Moreover, growing concerns about the environmental impact of electrolytes containing fluorinated compounds like LiTFSI, which are associated with per&#x02010; and polyfluoroalkyl substances (PFAS) that face regulatory restrictions due to their persistence and potential environmental hazards, make the need for suitable alternatives more urgent.<sup>[</sup>
+<xref rid="adma202507459-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> A systematic investigation of lithium salts is needed to identify safer, high&#x02010;performance options for Li&#x02013;S batteries.</p><p>This work systematically evaluates nine commercially available, commonly used lithium salts, comparing their effects on Li&#x02013;S systems. The SRR kinetics, diffusion rates, and overpotentials are characterized and comprehensively analyzed. Interestingly, lithium bis(oxalato)borate (LiBOB), previously considered unsuitable for Li&#x02013;S systems, was found to potentially be used in Li&#x02013;S cells, delivering excellent performance even under harsh conditions. For the first time, a porous CEI derived from LiBOB has been identified. This CEI acts as a diffusion barrier for LiPS, effectively suppressing the shuttle effect. Unlike the CEI from carbonate&#x02010;based electrolytes, the CEI allows solvent passage and enables solid&#x02013;liquid&#x02013;solid sulfur conversion. This ensures a higher discharge plateau (2.1&#x02013;2.3&#x000a0;V) than solid&#x02010;solid sulfur conversion (&#x0003c;1.9&#x000a0;V), enabling higher energy density and faster kinetics. The self&#x02010;discharging behavior and lithium metal anode corrosion are successfully suppressed as well. For a sulfur loading of 6&#x000a0;mg cm<sup>&#x02212;2</sup> (10 mAh cm<sup>&#x02212;2</sup>) with ultra&#x02010;thin Li foil (50&#x000a0;&#x000b5;m, 10 mAh cm<sup>&#x02212;2</sup>) as the anode, and an electrolyte&#x02010;to&#x02010;sulfur (E/S) ratio of 6&#x000a0;&#x000b5;L mg<sup>&#x02212;1</sup>, the cell delivers an excellent capacity of 1230.8 mAh g<sup>&#x02212;1</sup> at 0.05C, with 76.2% capacity retention over 100 cycles at 0.1 C. The cells perform well under higher sulfur loading (&#x0003e;10&#x000a0;mg cm<sup>&#x02212;2</sup>), lean electrolyte conditions, and even in anode&#x02010;free cells. This work opens new opportunities for identifying better main salts for Li&#x02013;S battery electrolytes, inspires further research on salt selection and design for Li&#x02013;S batteries under harsh conditions, and highlights the potential of PFAS&#x02010;free electrolytes in Li&#x02013;S batteries.</p></sec><sec id="adma202507459-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="adma202507459-sec-0030"><label>2.1</label><title>Effects of Salt Anions on Sulfur Redox Reaction</title><p>To evaluate the effect of different salts on Li&#x02013;S batteries, a Li<sub>2</sub>S<sub>6</sub> solution is first prepared using Li<sub>2</sub>S and sulfur powders in a stoichiometric ratio of 1:5. The solution, containing 50&#x000a0;m<sc>m</sc> Li<sub>2</sub>S<sub>6</sub> in 1,2&#x02010;Dimethoxyethane (DME)/1,3&#x02010;Dioxolane (DOL) (1:1&#x000a0;vol ratio), remains a dark orange&#x02010;brown color, referred to as the blank solution. Subsequently, 0.2&#x000a0;<sc>m</sc> of various lithium salts, including LiTFSI, lithium trifluoromethanesulfonate (LiOTf), lithium perchlorate (LiClO<sub>4</sub>), LiPF<sub>6</sub>, LiNO<sub>3</sub>, LiFSI, lithium difluoro(oxalato)borate (LiDFOB), LiBOB, and LiBF<sub>4</sub>, are added to the solution, as shown in <bold>Figure</bold>
+<xref rid="adma202507459-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>. These salts can be categorized into two main groups upon complete dissolution and resting (3 days). The first group, which includes LiTFSI, LiOTf, LiClO<sub>4</sub>, LiPF<sub>6</sub>, and LiNO<sub>3</sub>, does not exhibit a significant color change upon interaction with LiPS and is classified as the &#x0201c;non&#x02010;reacting&#x0201d; group. The second group, referred to as the &#x0201c;reacting&#x0201d; group, consists of LiDFOB, LiBOB, and LiBF<sub>4</sub>. These salts react with Li<sub>2</sub>S<sub>6</sub>, leading to observable color change and precipitation. LiFSI occupies a unique intermediate position, as it shows some precipitation in solution while retaining a brown color, indicating a partial but very slow reaction with Li<sub>2</sub>S<sub>6</sub>.<sup>[</sup>
+<xref rid="adma202507459-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="adma202507459-fig-0001"><label>Figure 1</label><caption><p>a) Visualization of the reaction of LiPS and different Li&#x02010;salts, b) CV curves of S&#x02013;S symmetrical cells with different Li salts. (Inset: Magnified view of CV curves), c) list of Li&#x02010;salt anions and corresponding HOMO/LUMO (top) and electrochemical performance (bottom); d) Raman spectrum of the reaction product of LiPS and LiBOB (PS&#x02010;BOB), LiBOB, Li<sub>2</sub>C<sub>2</sub>O<sub>4</sub> and S powder; e) GIXRD of the reaction product of LiPS and LiBOB; f) TEM image of the reaction product of LIPS and LiBOB.</p></caption><graphic xlink:href="ADMA-37-2507459-g002" position="anchor" id="jats-graphic-3"/></fig><p>Cyclic voltammetry (CV) was performed on symmetrical cells, using ethylene black electrodes with identical loadings, and a 0.2&#x000a0;<sc>m</sc> Li<sub>2</sub>S<sub>6</sub> solution combined with 0.5&#x000a0;<sc>m</sc> of different lithium salts as the electrolyte. Two symmetrical peaks can be seen in the cathodic and anodic scans, indicating the oxidation and reduction reactions, respectively (Figure&#x000a0;<xref rid="adma202507459-fig-0001" ref-type="fig">1b</xref>). To delve deeper into the differences among the salts, the overpotential, peak current, and capacity of the different cells are calculated (Figure&#x000a0;<xref rid="adma202507459-fig-0001" ref-type="fig">1c</xref>; Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S1&#x02013;S6</xref>, Supporting Information).</p><p>The closer peak potentials suggest a more reversible redox reaction with lower overpotential, indicative of faster reaction kinetics. This trend follows the order of LiFSI, LiTFSI, LiPF<sub>6</sub>, LiClO<sub>4</sub>, LiOTf, and LiNO<sub>3</sub>, from low to high. These findings align with previous reports that LiFSI results in a lower overpotential than LiTFSI.<sup>[</sup>
+<xref rid="adma202507459-bib-0017" ref-type="bibr">
+<sup>17b,c</sup>
+</xref>
+<sup>]</sup> This suggests that the LiPS species are more easily interconverted between redox states, which is beneficial for improving the cycle life of the cell. However, LiNO<sub>3</sub>, a commonly used electrolyte additive, exhibits the highest overpotential, likely due to its low degree of dissociation and the resulting low ionic conductivity of the electrolyte (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S5</xref>, Supporting Information). Regarding peak current, the salts rank from high to low: LiOTf, LiClO<sub>4</sub>, LiNO<sub>3</sub>, LiFSI, LiPF<sub>6</sub>, and LiTFSI. According to the Randle Scevik equation,<sup>[</sup>
+<xref rid="adma202507459-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> under the same concentration, scan rate, and electrode area, the peak current reflects the diffusion rate, with a higher current response indicating better diffusion (see further discussion in Note <xref rid="adma202507459-supinfo-0001" ref-type="">S1</xref>, Supporting Information). The more significant current response observed with LiOTf may be due to changes in the solvation environment of the LiPS species, caused by the presence of different salts. These changes may lead to the formation of reversibly precipitated sulfur species, which in turn facilitate faster diffusion of Li ions and more efficient deposition of Li<sub>2</sub>S on the cathode, and improving Li&#x02010;ion diffusion within the cathode.<sup>[</sup>
+<xref rid="adma202507459-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> Conversely, LiTFSI exhibits the lowest current response, indicating slower ion diffusion in the LiTFSI system. Previous experiments have shown that reducing the concentration of LiTFSI improves discharge capacity, rate performance, and low&#x02010;temperature performance.<sup>[</sup>
+<xref rid="adma202507459-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="adma202507459-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> This improvement suggests that LiTFSI interacts with LiPS in the electrolyte, altering the solvation structure of Li<sup>+</sup>. Specifically, when the concentration of TFSI<sup>&#x02212;</sup> is reduced, LiPS tends to form aggregated structures, with polysulfides dominating the Li<sup>+</sup> solvation sheath instead of TFSI<sup>&#x02212;</sup>. This solvation structure enhances the SRR kinetics. Furthermore, the modification of the Li<sup>+</sup> solvation sheath can influence ionic conductivity and the composition of the SEI, which in turn also impacts SRR kinetics. Finally, integrating the area under the curve reveals the capacity, which follows the order: LiClO<sub>4</sub>, LiOTf, LiNO<sub>3</sub>, LiFSI, LiTFSI, and LiPF<sub>6</sub>, from high to low. Capacity reflects the amount of sulfur that can react within the voltage window, with higher capacity indicating complete utilization of the active material and higher energy output during charge/discharge. LiClO<sub>4</sub> leads with the highest capacity, followed by LiOTf and LiNO<sub>3</sub>, while LiTFSI lags, highlighting its limitations for Li&#x02013;S batteries, particularly under harsh conditions. To further verify the conclusions, Li&#x02013;S cells with a sulfur loading of 5&#x000a0;mg cm<sup>&#x02212;2</sup> are tested, and the galvanostatic charge discharge (GCD) curves are shown in Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S7</xref> (Supporting Information). The results perfectly match the conclusions (See further discussion in Note <xref rid="adma202507459-supinfo-0001" ref-type="">S2</xref>, Supporting Information).</p><p>Besides the SRR, anode stability in Li&#x02013;S batteries is another significant concern. To compare the anode stability of different systems, Li&#x02013;Li symmetric cells were tested using different electrolytes (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S8</xref>, Note <xref rid="adma202507459-supinfo-0001" ref-type="">S3</xref>, Supporting Information). For the &#x0201c;non&#x02010;reacting&#x0201d; group, 50&#x000a0;m<sc>m</sc> Li<sub>2</sub>S<sub>6</sub> and 0.5&#x000a0;<sc>m</sc> salts (to keep consistency, limited by the solubility of LiNO<sub>3</sub>) were used in the cell, as LiPS dissolution in the electrolyte significantly influences anode stability in Li&#x02013;S cell. For the &#x0201c;reacting&#x0201d; group, only 0.5&#x000a0;<sc>
+<sub>m</sub>
+</sc> salts were used since LiPS reacts immediately upon addition. In the &#x0201c;non&#x02010;reacting&#x0201d; group, the Li&#x02013;Li lifetime follows the order: LiFSI, LiNO<sub>3</sub>, LiTFSI, LiClO<sub>4</sub>, LiPF<sub>6</sub>, and LiOTf, from high to low. This ranking reflects the varying degrees of stability different salts provide in the electrolyte. For the &#x0201c;reacting&#x0201d; group, LiBF<sub>4</sub> failed in the Li&#x02013;Li symmetrical test, indicating its unsuitability for the system. LiDFOB and LiBOB work for the system, but LiDFOB has only half the lifetime (50&#x02013;60 h) compared to LiBOB (&#x02248;120 h), probably due to the lower LUMO of BOB<sup>&#x02212;</sup> and could be easier to be reduced on the lithium metal forming a desirable SEI.<sup>[</sup>
+<xref rid="adma202507459-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> For the coulombic efficiency of the Li||S cells, only LiNO<sub>3</sub> could reach a relatively higher CE of over 99%, while other salts fall behind with a CE lower than 40% (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S9</xref>, Supporting Information). This is consistent with previous research and why LiNO<sub>3</sub> is selected as an additive in most Li&#x02013;S electrolyte systems.<sup>[</sup>
+<xref rid="adma202507459-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="adma202507459-sec-0040"><label>2.2</label><title>Mechanism Investigation of the Reaction of LiBOB and LiPS</title><p>To further study the composition of the precipitates formed from the reaction between LiPS and LiBOB, the solids are collected and dried for further analysis. Raman spectroscopy was first implemented for the reaction product (PS&#x02010;BOB). Three characteristic peaks of elemental sulfur &#x02248;150, 220, and 470 cm<sup>&#x02212;1</sup> have been observed, indicating the formation of elemental sulfur in the reaction (Figure&#x000a0;<xref rid="adma202507459-fig-0001" ref-type="fig">1d</xref>). Synchrotron&#x02010;based Grazing Incidence X&#x02010;ray Diffraction (GIXRD) was utilized to analyze the precipitation products. Unlike conventional XRD, which showed no distinct peaks (Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S10</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S11</xref>, Supporting Information), the surface&#x02010;sensitive nature and higher signal&#x02010;to&#x02010;noise ratio of GIXRD enabled the detection of a polycrystalline structure. This difference likely arises from the formation of small sulfur crystals near the surface (Figure&#x000a0;<xref rid="adma202507459-fig-0001" ref-type="fig">1e</xref>), which are more readily detected by GIXRD. The reaction between LiPS and LiBOB can be expected as Equation (1). A Transmission Electron Microscopy (TEM) image was further captured to analyze the reaction product of LiBOB and LiPS. The TEM images reveal a product with a non&#x02010;crystalline bulk structure, likely representing the organic portion of the reaction. Additionally, the darker regions indicate a more crystalline structure, suggesting the presence of crystalline sulfur nanoparticles. In the presence of excess LiPS in the electrolyte, these sulfur nanoparticles could potentially undergo a disproportionation reaction with shorter&#x02010;chain LiPS, forming soluble long&#x02010;chain LiPS that dissolve into the electrolyte. This process contributes to the formation of a porous CEI structure on the cathode surface (See further discussion in Note <xref rid="adma202507459-supinfo-0001" ref-type="">S4</xref>, Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S12&#x02013;S14</xref>, Supporting Information).
+<disp-formula id="adma202507459-disp-0001">
+<label>(1)</label>
+<graphic xlink:href="ADMA-37-2507459-e001.jpg" id="jats-graphic-5" position="float"/>
+</disp-formula>
+</p></sec><sec id="adma202507459-sec-0050"><label>2.3</label><title>Design of Fluorine&#x02010;Free Electrolyte</title><p>After systematically evaluating various lithium salts, we propose a novel electrolyte design for high&#x02010;loading Li&#x02013;S batteries. While LiTFSI exhibits moderate anode stability, it underperforms in facilitating SRRs. We eliminated LiTFSI from the electrolyte to address these limitations, creating a fluorine&#x02010;free solution comprising only LiNO<sub>3</sub> and LiBOB. In this design, LiNO<sub>3</sub> acts as the primary lithium carrier and SEI&#x02010;forming agent, playing a crucial role in suppressing the polysulfide shuttle effect and maintaining high coulombic efficiency.<sup>[</sup>
+<xref rid="adma202507459-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> LiBOB was introduced due to its ability to react with LiPS and form a protective layer on the cathode, thereby improving cathode stability. LiBOB was chosen from several options in the &#x0201c;reacting&#x0201d; group of salts, as it reacts fast enough with LiPS to form the CEI and provides a relatively longer Li&#x02013;Li lifetime, while LiFSI is unsuitable due to its slow reaction with LiPS, which leads to a gradual formation of the CEI layer on the cathode (See detailed discussion on salt selection in Note <xref rid="adma202507459-supinfo-0001" ref-type="">S5</xref>, Supporting Information). Together, these two salts create a multi&#x02010;functional electrolyte consisting of 0.75&#x000a0;<sc>m</sc> LiNO<sub>3</sub> and 0.25&#x000a0;<sc>m</sc> LiBOB (&#x02248;5 wt.% for both, denoted as 5NB) in a DME/DOL (1:1&#x000a0;mol ratio) solvent mixture (Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S15&#x02013;S18</xref>, Supporting Information). This formulation is designed to improve both anode stability and overall cell performance, particularly in high&#x02010;loading Li&#x02013;S battery applications.</p><p>Notably, 0.75&#x000a0;<sc>m</sc> LiNO<sub>3</sub> is insoluble in the DME/DOL solvent, as shown in <bold>Figure</bold>
+<xref rid="adma202507459-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>. However, similar to LiOTf,<sup>[</sup>
+<xref rid="adma202507459-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> the addition of 0.25&#x000a0;<sc>m</sc> LiBOB results in the dissolution of LiNO<sub>3</sub>, rendering the electrolyte transparent. Nuclear magnetic resonance (NMR) spectroscopy reveals a downfield shift in the <sup>7</sup>Li signal upon the addition of LiNO<sub>3</sub> to the LiBOB solution, suggesting that NO<sub>3</sub>
+<sup>&#x02212;</sup> enhances the electron cloud density around Li<sup>+</sup> solvated by BOB<sup>&#x02212;</sup>, indicating an interaction between NO<sub>3</sub>
+<sup>&#x02212;</sup> and BOB<sup>&#x02212;</sup> (Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S19</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S20</xref>, Supporting Information).<sup>[</sup>
+<xref rid="adma202507459-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> Raman spectroscopy reveals an increased proportion of paired DME when LiBOB and LiNO<sub>3</sub> are added to the solvent (Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2b&#x02013;d</xref>; Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S22</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S23</xref>, Supporting Information), suggesting a stronger Li&#x02010;DME interaction. However, a saturated LiNO<sub>3</sub> solution does not exhibit a similar increase in paired DME, indicating a weak interaction between NO<sub>3</sub>
+<sup>&#x02212;</sup> and DME (Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2b</xref>). In the Raman shift range of 1000&#x02013;1080 cm<sup>&#x02212;1</sup>, NO<sub>3</sub>
+<sup>&#x02212;</sup> vibrations are detected, with a peak at &#x02248;1055 cm<sup>&#x02212;1</sup> corresponding to contact ion pairs (CIP) and aggregates (AGG), and a peak at &#x02248;1035 cm<sup>&#x02212;1</sup> associated with free NO<sub>3</sub>
+<sup>&#x02212;</sup> ions in the electrolyte (Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2c</xref>). Notably, in the 5NB sample (0.75&#x000a0;<sc>m</sc> LiNO<sub>3</sub> + 0.25&#x000a0;<sc>m</sc> LiBOB in DME/DOL), the CIP/AGG peak is significantly more intense than in the saturated LiNO<sub>3</sub> solution, suggesting that LiBOB stabilizes NO<sub>3</sub>
+<sup>&#x02212;</sup> CIPs and AGGs, thereby enabling the dissolution of LiNO<sub>3</sub>. Simultaneously, the paired&#x02010;DME peak also strengthens, indicating that more DME molecules are coordinated in the presence of LiBOB. This special coordination likely contributes to the stabilization of NO<sub>3</sub>
+<sup>&#x02212;</sup> CIPs and AGGs in the electrolyte. By analyzing both the NMR and Raman spectra, it can be concluded that Li&#x02010;NO<sub>3</sub>
+<sup>&#x02212;</sup> interactions are enhanced with LiBOB, making NO<sub>3</sub>
+<sup>&#x02212;</sup> CIPs and AGGs more stable. This stabilization renders the solution transparent at a LiNO<sub>3</sub> concentration of 0.75&#x000a0;<sc>m</sc>, potentially explaining the improved dissolution of LiNO<sub>3</sub> in the presence of LiBOB.</p><fig position="float" fig-type="Figure" id="adma202507459-fig-0002"><label>Figure 2</label><caption><p>a) <sup>7</sup>Li NMR spectrum of 0.25&#x000a0;<sc>m</sc> LiBOB and 0.25&#x000a0;<sc>m</sc> LiBOB + 0.25&#x000a0;<sc>m</sc> LiNO<sub>3</sub> in DME/DOL, inserted images are the LiNO<sub>3</sub> solution in DME/DOL before and after adding LiBOB; b&#x02013;d) Raman spectrum of different electrolytes and solvents; e) Calculated radial distribution functions g(r) and cumulative numbers N(r) for lithium ion in LS005 electrolyte and f) 5NB electrolyte; g) SEM images of cycled lithium metal in LS005 electrolyte and h) in 5NB electrolyte; i) Atomic percentage of elements during etching of lithium metal anode in LS005 electrolyte and j) in 5NB electrolyte; k) O 1s spectrum from in&#x02010;depth XPS of lithium metal with LS005 electrolyte and l) with 5NB electrolyte.</p></caption><graphic xlink:href="ADMA-37-2507459-g005" position="anchor" id="jats-graphic-7"/></fig><p>The coordination of Li&#x0207a; was further examined through molecular dynamics (MD) simulations (Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2e,f</xref>; Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S21</xref>, Supporting Information). The cumulative numbers N(r) indicate that DME predominantly occupies the first solvation shell of Li&#x0207a; in the LS005 (1&#x000a0;<sc>m</sc> LiTFSI + 0.2&#x000a0;<sc>m</sc> LiNO<sub>3</sub> in DME/DOL 1:1&#x000a0;vol) electrolyte. Conversely, in the 5NB system, LiNO<sub>3</sub> plays a significant role in modifying the first solvation shell of Li<sup>+</sup>. This alteration promotes the formation of an anion&#x02010;derived SEI layer on the lithium metal anode, thereby enhancing anode stability. SEM images were captured after cycling to compare the performance of different electrolytes on the lithium metal anode. Lithium dendrites are visible in the enlarged image (Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2g</xref>), indicating poor reversibility in lithium stripping and deposition in the LS005 electrolyte. The inserted lower magnification SEM image shows some areas of uniform deposition, but many dendrites remain (Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S24&#x02013;S29</xref>, Supporting Information). This corresponds with Figure&#x000a0;<xref rid="adma202507459-fig-0001" ref-type="fig">1c</xref>, where LiTFSI performs moderately in the Li&#x02013;Li symmetric system. In contrast, the higher magnification SEM image of the 5NB system shows large lithium chunks and uniform deposition without dendrites, indicating better reversibility and enabling Li&#x02013;S cells to operate under harsh conditions, such as low N/P ratios and in anode&#x02010;free cells.</p><p>To further investigate the SEI components on the lithium metal anode, in&#x02010;depth XPS analysis was conducted on the cycled anodes for both LS005 and 5NB electrolytes. Atomic percentages of each SEI element at different etching times are shown in Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2i,j</xref> for LS005 and 5NB electrolytes, respectively. In the LS005 system, the carbon content decreases with increased etching time, along with sulfur, fluorine, and nitrogen. At the same time, oxygen begins to dominate in the inner layer, indicating a typical organic&#x02010;rich outer layer and the inorganic&#x02010;rich inner layer (Li<sub>2</sub>O, Li<sub>3</sub>N, LiF, and Li<sub>2</sub>S) (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S30</xref>, Supporting Information).</p><p>Similarly, the 5NB system shows a carbon&#x02010;richer outer layer, though with significantly lower carbon content (23% vs 50% in LS005), and an oxygen&#x02010;dominant inner layer (&#x0003e;85% after 1 min of etching). The C 1s spectrum of 5NB reveals new peaks for R&#x02500;O&#x02500;C&#x02550;O and C<sub>2</sub>O<sub>4</sub>, likely due to LiBOB salts in the electrolyte, known to form a soft organic SEI with compounds like ROCO<sub>2</sub>&#x02010;Li and O&#x02550;C&#x02500;O.<sup>[</sup>
+<xref rid="adma202507459-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> The presence of a large amount of LiNO<sub>3</sub> contributes to the formation of oxygen&#x02010;rich components such as Li<sub>2</sub>O and Li<sub>2</sub>S<sub>2</sub>O<sub>3</sub> (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S31</xref>, Supporting Information), aligning with these findings.</p><p>In the high&#x02010;resolution O 1s spectrum (Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2k,l</xref>), only Li<sub>2</sub>O and ROCO<sub>2</sub>&#x02010;Li are detected in the LS005 system, while the 5NB system contains additional oxygen&#x02010;containing compounds like RO&#x02010;Li, ROCO<sub>2</sub>&#x02010;Li, and O&#x02550;C&#x02500;O. As etching progresses, O&#x02550;C&#x02500;O decreases while Li<sub>2</sub>O increases, with RO&#x02010;Li and ROCO<sub>2</sub>&#x02010;Li remaining dominant. This oxygen&#x02010;rich SEI, likely formed from the decomposition of LiBOB, LiNO<sub>3</sub>, and ether solvents such as DOL, contributes to improved lithium deposition and reversibility, as supported by previous studies.<sup>[</sup>
+<xref rid="adma202507459-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> This explains the differences in lithium morphology observed in the SEM images between the electrolytes. These findings are consistent with Li RDF simulations, which suggest that a NO<sub>3</sub>
+<sup>&#x02212;</sup> &#x02010;rich coordination structure may lead to an oxygen&#x02010; and nitrogen&#x02010;rich inner SEI layer. This SEI plays a crucial role in protecting the lithium anode from corrosion by polysulfides in the electrolyte. The S 2p spectrum shows sulfur content of 7&#x02013;26% on lithium metal in the LS005 system, with Li<sub>2</sub>S and Li<sub>2</sub>S<sub>2</sub> as predominant species, primarily from dissolved LiPS from the cathode. In contrast, the 5NB system shows much lower sulfur content (6&#x02013;9%), suggesting less LiPS dissolution. The underlying mechanism behind this observation will be discussed in detail in the following section.</p></sec><sec id="adma202507459-sec-0060"><label>2.4</label><title>Electrochemical Measurements and Cell Performance</title><p>To compare the cycling performance of different electrolytes, Li||S cells are evaluated at a 1 C rate. LiDFOB is tested for comparison, as it serves a similar function to LiBOB, as discussed previously. However, it exhibits a lower capacity and faster decay rate than LiBOB (<bold>Figure</bold>
+<xref rid="adma202507459-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>). To compare with a commonly used baseline electrolyte, high&#x02010;loading sulfur cathodes (&#x0003e;5&#x000a0;mg cm<sup>&#x02212;2</sup>) and a lean electrolyte condition (5&#x000a0;&#x000b5;L mg<sup>&#x02212;1</sup>) were employed. Under these testing conditions, the 5NB electrolyte delivered a high initial specific capacity of 1136 mAh g<sup>&#x02212;1</sup>, surpassing the 993 mAh g<sup>&#x02212;1</sup> capacity observed for the LS005 electrolyte at 0.05 C (Figure&#x000a0;<xref rid="adma202507459-fig-0003" ref-type="fig">3b</xref>). At higher current densities of 0.1 C, the cell with the 5NB electrolyte maintained an excellent reversible capacity of over 900 mAh g<sup>&#x02212;1</sup>. In contrast, due to sluggish kinetics under the lean electrolyte system, the cell with the LS005 electrolyte delivered only &#x02248;200 mAh g<sup>&#x02212;1</sup>. Examination of the GCD curves reveals that both cells exhibit a typical two&#x02010;plateau discharge curve during the first cycle, indicative of the solid&#x02013;liquid&#x02013;solid conversion of sulfur (Figure&#x000a0;<xref rid="adma202507459-fig-0003" ref-type="fig">3c</xref>; Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S32</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S33</xref>, Supporting Information).<sup>[</sup>
+<xref rid="adma202507459-bib-0004" ref-type="bibr">
+<sup>4a</sup>
+</xref>
+<sup>]</sup> However, for the LS005 system, the second discharge plateau vanishes when the current density is increased to 0.1 C. This plateau corresponds to the liquid&#x02013;solid conversion, hindered by slow kinetics. The presence of LiTFSI inhibits the SRR, hindering the effective deposition of Li<sub>2</sub>S.</p><fig position="float" fig-type="Figure" id="adma202507459-fig-0003"><label>Figure 3</label><caption><p>a) Comparison of the cycling performance of electrolyte containing LiBOB and LiDFOB, b) comparison of the cycling performance of LS005 and 5NB electrolyte under high sulfur loading and lean electrolyte condition, and c) corresponding GCD curves; d) Cycling performance of Li&#x02013;S cell with 5NB electrolyte under harsh conditions; e) cycling performance of anode&#x02010;free Li<sub>2</sub>S||Ti cells; f) Cycling performance of Li&#x02013;S cell with ultrahigh sulfur loading (&#x0003e;10&#x000a0;mg cm<sup>&#x02212;2</sup>), and g) Li&#x02013;S pouch cell with 5NB electrolyte, with a lean electrolyte condition of 3&#x000a0;&#x000b5;L mg<sup>&#x02212;1</sup>, scale bar: 1&#x000a0;cm.</p></caption><graphic xlink:href="ADMA-37-2507459-g001" position="anchor" id="jats-graphic-9"/></fig><p>High&#x02010;loading sulfur cathodes, lean electrolytes, and low N/P ratios (collectively referred to as harsh conditions) are crucial for practical applications. To assess the feasibility of 5NB electrolytes under such conditions, high&#x02010;loading sulfur cathodes were prepared and tested (Figure&#x000a0;<xref rid="adma202507459-fig-0003" ref-type="fig">3d</xref>; Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S34</xref>, Supporting Information). With high sulfur loading (&#x0003e;5&#x000a0;mg cm<sup>&#x02212;2</sup>), lean electrolyte conditions (6&#x000a0;&#x000b5;L mg<sup>&#x02212;1</sup>), and a low N/P ratio (50&#x000a0;&#x000b5;m, 10 mAh cm<sup>&#x02212;2</sup> lithium foil), the cell delivered an excellent capacity of 1231 mAh g<sup>&#x02212;1</sup> at 0.05 C, with a capacity retention of 80% over 95 cycles at 0.1 C, demonstrating the perfect reversibility. In contrast, the LS005 system initially delivered 1062.6 mAh g<sup>&#x02212;1</sup> with similar capacity during early cycles but experienced gradual capacity fade, failing after 63 cycles. The coulombic efficiency dropped to 76.5%, while the 5NB system maintained a CE of 97.82% even after 120 cycles, highlighting a significant reduction in the shuttle effect in the 5NB system. At higher sulfur loadings (&#x0003e;10&#x000a0;mg cm<sup>&#x02212;2</sup>), the 5NB system still delivered 1034 mAh g<sup>&#x02212;1</sup>, achieving over 6.8 mAh cm<sup>&#x02212;2</sup> after 70 cycles with 80.5% capacity retention at 0.1 C (Figure&#x000a0;<xref rid="adma202507459-fig-0003" ref-type="fig">3f</xref>; Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S35</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S36</xref>, Supporting Information), and an average CE above 98.5%.</p><p>Limited lithium metal anodes can enhance energy density further, while anode&#x02010;free cells with lithiated cathodes and current collectors as the anode could achieve the highest energy density. In this context, Li<sub>2</sub>S||Ti anode&#x02010;free Li&#x02013;S batteries were tested to investigate the feasibility of the 5NB electrolyte under extreme working conditions. As shown in Figure&#x000a0;<xref rid="adma202507459-fig-0003" ref-type="fig">3e</xref>, the anode&#x02010;free cell exhibited a high initial charging capacity of 1168.8 mAh g<sup>&#x02212;1</sup> (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S37</xref>, Supporting Information) and maintained capacity retention of 50% after 64 cycles at 0.1 C, indicating the feasibility of the 5NB electrolyte under extreme conditions. A Li&#x02013;S pouch cell was also assembled using a sulfur loading of 4&#x000a0;mg cm<sup>&#x02212;2</sup> for the cathode and 50&#x000a0;&#x000b5;m lithium foil as the anode, with an E/S ratio of 3&#x000a0;&#x000b5;L mg<sup>&#x02212;1</sup> (Figure&#x000a0;<xref rid="adma202507459-fig-0003" ref-type="fig">3g</xref>). The cell delivered a specific capacity of 1020.9 mAh g&#x0207b;&#x000b9;, demonstrating the potential of 5NB electrolyte for commercial cells and energy storage applications.</p></sec><sec id="adma202507459-sec-0070"><label>2.5</label><title>Improve in Suppressing Self&#x02010;Discharging Behavior</title><p>In addition to excellent cycling performance, other issues of Li&#x02013;S batteries are also investigated with the 5NB system. Due to sulfur dissolution and anode reaction, Li&#x02013;S batteries undergo severe self&#x02010;discharging, even at rest. A visual experiment is conducted to compare Li anode corrosion in two systems. Sulfur powder is placed in a glass vial with electrolytes and then sink to the bottom. A piece of lithium foil is then placed in the solution, floating on top due to its low density. This setup forms a lithium&#x02010;electrolyte&#x02010;sulfur configuration, same as the configuration in the battery. After resting for 30 days, the vial with LS005 electrolyte showed a noticeable color change, indicating the dissolution of LiPS and reactions between the components (Figures <xref rid="adma202507459-fig-0004" ref-type="fig">4a</xref>, <xref rid="adma202507459-supinfo-0001" ref-type="">S38</xref>, Note <xref rid="adma202507459-supinfo-0001" ref-type="">S6</xref>, Supporting Information). In contrast, the vial with 5NB electrolyte remained clear, demonstrating its effectiveness in preventing sulfur dissolution and protecting the lithium metal anode. For comparison, a glass vial with LS005 electrolyte without lithium foil was also set for 30 days, showing no significant color change. This indicates that the color change is related to the reaction of dissolved sulfur with the lithium foil. Furthermore, a pure DME/DOL solvent was tested under the same conditions. After 7 days, the vial containing only the solvent exhibited a more pronounced color change, indicating that the salts significantly influence sulfur dissolution and the reaction with lithium. Therefore, salt selection is crucial for the Li&#x02013;S systems, especially under harsh conditions and longer cycling life.</p><p>The self&#x02010;discharging behavior in different electrolytes is further tested. The cells are first cycled for 10 cycles at 0.5 C and then rested for 1, 3, and 7 days, respectively. After resting, the cell with the 5NB electrolyte shows a diminished capacity drop, with capacity retention of more than 90% even after 7 days of resting (Figure <xref rid="adma202507459-fig-0004" ref-type="fig">4b&#x02013;g</xref>). In contrast, severe self&#x02010;discharge is observed in the LS005 electrolyte. After one day of rest, the cell lost 20% of its capacity (80% capacity retention), and retention dropped to 56% and 52% after 3 and 7 days, respectively. The first discharge plateau disappears from the GCD curves, indicating that long&#x02010;chain LiPS are reduced to short&#x02010;chain LiPS due the shuttle effect and the self&#x02010;discharging behavior. This result confirms that the 5NB electrolyte is suitable for long&#x02010;term storage and cycling, as it effectively mitigates the self&#x02010;discharge issue compared to LS005.</p></sec><sec id="adma202507459-sec-0080"><label>2.6</label><title>Mechanism Investigation of How the Electrolyte Improve the Cell Performance</title><p>After comparing the electrochemical performance of the 5NB electrolyte, the mechanisms behind its improved performance in Li&#x02013;S batteries are investigated. In&#x02010;situ Raman spectroscopy and operando XRD are conducted on each cell (Figure&#x000a0;<xref rid="adma202507459-fig-0005" ref-type="fig">5a&#x02013;c</xref>; Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S39</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S40</xref>, Supporting Information). The LiPS signal is detected &#x02248;490 cm<sup>&#x02212;1</sup> Raman shift. In the LS005 electrolyte, Li<sub>2</sub>S<sub>4</sub> is first detected, indicating the dissolution of LiPS into the electrolyte. This signal diminishes as the discharge proceeds but reappears during the charging process, remaining present at the end of the charging cycle. This indicates the incomplete conversion of LiPS. In comparison, the LiPS signal in the 5NB electrolyte is only detected at the beginning of the charging process. It diminishes quickly, indicating the fast conversion of LiPS without LiTFSI. No LiPS signal is detected at the end of the charging process, demonstrating complete sulfur conversion and high sulfur utilization.</p><p>In the in&#x02010;depth X&#x02010;ray photoelectron spectroscopy (XPS) analysis, the atomic ratio of different elements is shown in Figure&#x000a0;<xref rid="adma202507459-fig-0005" ref-type="fig">5b&#x02013;d</xref> (Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S41</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S42</xref>, Supporting Information). The cathode with LS005 electrolyte primarily contains C and F, whereas the 5NB system predominantly contains C. In the 5NB system, the carbon content decreases as the etching time increases, indicating a carbon&#x02010;rich outer layer. The carbon&#x02010;containing compounds that could be the formation of the CEI by LiBOB, will be discussed in the next section. Additionally, the sulfur species on the surface of the cathode in the 5NB electrolyte remain low and increase after etching, indicating the presence of the CEI layer (Note <xref rid="adma202507459-supinfo-0001" ref-type="">S4</xref>, Supporting Information). The F content is mainly from the PVDF binder in the electrode.</p><p>The high&#x02010;resolution S 2p and N 1s spectra are shown in Figure&#x000a0;<xref rid="adma202507459-fig-0005" ref-type="fig">5e&#x02013;h</xref>. The LS005 system detects S<sub>8</sub>, LiPS, and components such as thiosulfate and R&#x02010;SO<sub>2</sub>&#x02010;R. S<sub>8</sub> and LiPS are generated by sulfur, while thiosulfate is likely generated by TFSI<sup>&#x02212;</sup> anions, and R&#x02010;SO<sub>2</sub>&#x02010;R is a part of the TFSI<sup>&#x02212;</sup> anion. As discussed in Figure&#x000a0;<xref rid="adma202507459-fig-0001" ref-type="fig">1c</xref>, the presence of TFSI<sup>&#x02212;</sup> anions in the cathode is not beneficial to the SRR. In comparison, the 5NB electrolyte only contains LiPS and S<sub>8</sub> in the S 2p spectrum, and the sulfur species on the surface are limited, indicating the presence of a CEI layer. Additionally, the N 1s spectrum reveals more nitrogen&#x02010;containing species, possibly derived from the NO<sub>3</sub>
+<sup>&#x02212;</sup> anion. Nitrates are considered beneficial for sulfur nucleation during the charging process,<sup>[</sup>
+<xref rid="adma202507459-bib-0026" ref-type="bibr">
+<sup>26b</sup>
+</xref>
+<sup>]</sup> which might contribute to the excellent performance of the sulfur cathode in electrochemical tests.</p><p>To verify the presence of the CEI layer on the cathode, cross&#x02010;sectional SEM images of the cycled cathode were captured (Figure&#x000a0;<xref rid="adma202507459-fig-0005" ref-type="fig">5i&#x02013;l</xref>). In the LS005 system, the cycled cathode shows no significant changes compared to the fresh cathode (Figures <xref rid="adma202507459-supinfo-0001" ref-type="">S43</xref> and <xref rid="adma202507459-supinfo-0001" ref-type="">S44</xref>, Supporting Information), and the CNT/S structure remains clearly visible. However, in the 5NB system, the surface morphology changes, with the CNT cathodes covered by a smooth layer, obscuring the stacked CNT network. At higher magnification (Figure&#x000a0;<xref rid="adma202507459-fig-0005" ref-type="fig">5i</xref>), some CNTs are still visible beneath the smooth layer, identified as the CEI layer formed by the reaction between LiPS and LiBOB. The intrinsic characteristics of the cycled S/CNT cathode with the 5NB electrolyte were further analyzed using FIB&#x02010;SEM (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S45</xref>, Supporting Information). The stacked nanotube structure remained intact after cycling, indicating that the cathode structure was not disrupted and the carbon surface was not fully covered by the reaction products of LiPS and LiBOB. This preserved surface allows for sufficient S/Li<sub>2</sub>S growth, enabling the long&#x02010;term cycling stability of the cell.</p><p>In the control sample, once LiPS forms during the SRR, they diffuse toward the lithium metal anode due to the concentration gradient, resulting in side reactions, low CE, and reduced specific capacity (Figure&#x000a0;<xref rid="adma202507459-fig-0005" ref-type="fig">5m</xref>). In contrast, in the 5NB system, dissolved LiPS reacts with LiBOB, forming a CEI layer on the cathode surface. As sulfur and LiPS undergo disproportionation and comproportionation reactions, elemental sulfur possibly re&#x02010;dissolves, leaving behind a porous CEI structure (Figure&#x000a0;<xref rid="adma202507459-fig-0002" ref-type="fig">2f</xref>). This porous CEI acts as a diffusion barrier, slowing down the mass transfer of solvents and salts in the electrolyte. Meanwhile, polysulfide anions tend to form larger solvation structures due to their elongated S&#x02500;S bonding network and their propensity to exist as ion pairs or aggregates in ether&#x02010;based systems, driven by their divalent negative charge and strong Coulombic interactions with cations.<sup>[</sup>
+<xref rid="adma202507459-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="adma202507459-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> The larger polysulfide solvation structure diffuses more slowly with the presence of the diffusion barrier, effectively suppressing the polysulfide shuttle effect. In contrast, solvated Li<sup>+</sup> ions and pure solvent molecules, due to their significantly smaller size, can still pass through (Figure&#x000a0;<xref rid="adma202507459-fig-0005" ref-type="fig">5n</xref>).</p><p>The presence of two distinct discharge plateaus further confirms that the porous CEI allows solvent interaction (Figure <xref rid="adma202507459-supinfo-0001" ref-type="">S46</xref>, Note <xref rid="adma202507459-supinfo-0001" ref-type="">S7</xref>, Supporting Information), maintaining a higher discharge voltage of 2.1&#x02013;2.3&#x000a0;V, compared to the 1.9&#x000a0;V typically observed in solid&#x02010;solid conversions. This elevated discharge voltage enhances energy density, and the solid&#x02010;liquid&#x02010;solid reaction enables faster kinetics than solid&#x02010;solid reactions.<sup>[</sup>
+<xref rid="adma202507459-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> Additionally, the suppression of the LiPS shuttle is evidenced by improved capacity retention (Figure&#x000a0;<xref rid="adma202507459-fig-0003" ref-type="fig">3</xref>), visualization tests (<bold>Figure</bold>
+<xref rid="adma202507459-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>), and structural characterizations (<bold>Figure</bold>
+<xref rid="adma202507459-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>). By slowing down the diffusion of LiPS, the CEI not only facilitates faster SRR kinetics but also protects the lithium metal anode from LiPS&#x02010;induced corrosion, thereby enhancing both stability and longevity.</p><fig position="float" fig-type="Figure" id="adma202507459-fig-0004"><label>Figure 4</label><caption><p>a) Visualization test of sulfur dissolution and lithium metal anode corrosion after 1, 3, 5, 8, 15, and 30 days, with control samples (no lithium foil) and with pure solvents; b&#x02013;g) self&#x02010;discharging test of Li&#x02013;S with b&#x02013;d) 5NB electrolyte and e&#x02013;g) LS005 electrolyte, after 1, 3, and 7 days, respectively.</p></caption><graphic xlink:href="ADMA-37-2507459-g003" position="anchor" id="jats-graphic-11"/></fig><fig position="float" fig-type="Figure" id="adma202507459-fig-0005"><label>Figure 5</label><caption><p>a) In situ Raman spectrum of Li&#x02013;S cells with LS005 electrolyte, b) atomic ratio derived from in&#x02010;depth XPS analysis, c) S 2p, and d) N 1s spectrum of sulfur cathodes cycled in LS005 electrolyte. e) In situ Raman spectrum of Li&#x02013;S cells with 5NB electrolyte, f) atomic ratio derived from in&#x02010;depth XPS analysis, g) S 2p and h) N 1s spectrum of sulfur cathodes cycled in 5NB electrolyte. i,j) cross&#x02010;sectional SEM image for cycled S/CNT cathode in LS005 electrolyte and k,l) in 5NB electrolyte; o) schematic diagram of LS005 electrolyte system and n) 5NB electrolyte system.</p></caption><graphic xlink:href="ADMA-37-2507459-g006" position="anchor" id="jats-graphic-13"/></fig></sec></sec><sec id="adma202507459-sec-0090"><label>3</label><title>Conclusion</title><p>In this study, we demonstrate that while the commonly used LiTFSI salt exhibits only good compatibility with LiPS, it lags in terms of SRR overpotential, diffusion rates, and kinetics when used as the main salt in the electrolyte. This has hindered the development of high&#x02010;energy&#x02010;density Li&#x02013;S batteries over the past 20 years. Our findings reveal that salts not only affect the SRR but also influence LiPS dissolution and the self&#x02010;discharging behavior in Li&#x02013;S batteries. The cell performs excellently by eliminating LiTFSI and introducing new &#x0201c;LiPS reacting&#x0201d; salts into the electrolyte, previously considered unsuitable for the Li&#x02013;S system. This fluorine&#x02010;free electrolyte, composed of LiNO<sub>3</sub> and LiBOB in a conventional DME/DOL solvent, enables the formation of a porous CEI that acts as a diffusion barrier for LiPS, effectively suppressing the shuttle effect. As a result, Li||S cells achieve a specific capacity of 1230.8&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> at 0.05 C and maintains a capacity retention of 76.2% after 100 cycles at a high sulfur loading of 6&#x000a0;mg cm<sup>&#x02212;2</sup> (10 mAh cm<sup>&#x02212;2</sup>) and a limited lithium anode (10 mAh cm<sup>&#x02212;2</sup>). Even under higher loading (&#x0003e;10&#x000a0;mg cm<sup>&#x02212;2</sup>), lean electrolyte conditions (3&#x000a0;&#x000b5;L mg<sup>&#x02212;1</sup>), and in anode&#x02010;free cells, the cell continues to deliver outstanding capacity. This work opens new opportunities for identifying superior main salts for Li&#x02013;S battery electrolytes beyond LiTFSI while addressing environmental concerns associated with PFAS in fluorinated salts. It also inspires further research into salt selection and design for Li&#x02013;S batteries under challenging conditions, especially the sluggish SRR in thick electrodes with lean electrolyte, and even for solid&#x02010;state Li&#x02013;S batteries.</p></sec><sec sec-type="COI-statement" id="adma202507459-sec-0110"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="adma202507459-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="adma202507459-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADMA-37-2507459-s001.docx"/></supplementary-material></sec></body><back><ack id="adma202507459-sec-0100"><title>Acknowledgements</title><p>This work was financially supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) through the Discovery Grant Program (RGPIN&#x02010;2020&#x02010;05184). This work was also supported by funding from the Canada First Research Excellence Fund as part of the University of Alberta's Future Energy Systems research initiative.</p></ack><sec sec-type="data-availability" id="adma202507459-sec-0130"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="adma202507459-bibl-0001"><ref id="adma202507459-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="adma202507459-cite-0001">a) <string-name>
+<given-names>N.</given-names>
+<surname>Jones</surname>
+</string-name>, <source>Nature</source>
+<year>2024</year>, <volume>636</volume>, <fpage>248</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0002">b) <string-name>
+<given-names>Z. P.</given-names>
+<surname>Cano</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Banham</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hintennach</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fowler</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>279</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0003">c) <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Barnett</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2018</year>, <volume>118</volume>, <elocation-id>11433</elocation-id>;<pub-id pub-id-type="pmid">30500179</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0004">d) <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1800561</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0005">e) <string-name>
+<given-names>G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2022</year>, <volume>7</volume>, <fpage>312</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0006">f) <string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Kwok</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16132</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0007">g) <string-name>
+<given-names>A.</given-names>
+<surname>Bhargav</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>Joule</source>
+<year>2020</year>, <volume>4</volume>, <fpage>285</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0008">h) <string-name>
+<given-names>P.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source>Chem. Soc. Rev.</source>
+<year>2023</year>, <volume>52</volume>, <fpage>5255</fpage>.<pub-id pub-id-type="pmid">37462967</pub-id>
+</mixed-citation></ref><ref id="adma202507459-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="adma202507459-cite-0009">a) <string-name>
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Danilov</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Eichel</surname>
+</string-name>, <string-name>
+<given-names>P. H. L.</given-names>
+<surname>Notten</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2202094</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0010">b) <string-name>
+<given-names>J.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2300611</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="adma202507459-cite-0011">a) <string-name>
+<given-names>Z.&#x02010;X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;P.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2022</year>, <volume>34</volume>, <elocation-id>2201555</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0012">b) <string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>12636</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="adma202507459-cite-0013">a) <string-name>
+<given-names>Y.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2024</year>, <volume>34</volume>, <elocation-id>2312550</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0014">b) <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <elocation-id>2401263</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0015">c) <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dou</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2201585</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0016">d) <string-name>
+<given-names>S. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2013</year>, <volume>231</volume>, <fpage>153</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0017">e) <string-name>
+<given-names>A.</given-names>
+<surname>Rosenman</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Markevich</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Salitra</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Garsuch</surname>
+</string-name>, <string-name>
+<given-names>F. F.</given-names>
+<surname>Chesneau</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1500212</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0018">f) <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ueno</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Dokko</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Watanabe</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1500117</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="adma202507459-cite-0019">a) <string-name>
+<given-names>W.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Shang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>Nat. Catal.</source>
+<year>2023</year>, <volume>6</volume>, <fpage>174</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0020">b) <string-name>
+<given-names>Z.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Catal.</source>
+<year>2022</year>, <volume>5</volume>, <fpage>555</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0021">c) <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tadich</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Johannessen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Davey</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;Z.</given-names>
+<surname>Qiao</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2024</year>, <volume>19</volume>, <fpage>792</fpage>;<pub-id pub-id-type="pmid">38366224</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0022">d) <string-name>
+<given-names>Y.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2024</year>, <volume>16</volume>, <elocation-id>53833</elocation-id>;<pub-id pub-id-type="pmid">39320155</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0023">e) <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Feng</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <elocation-id>2306015</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0024">f) <string-name>
+<given-names>C.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xiong</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2303780</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="adma202507459-cite-0025">a) <string-name>
+<given-names>Y.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jiao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2024</year>, <volume>34</volume>, <elocation-id>2405853</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0026">b) <string-name>
+<given-names>R.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gu</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2024</year>, <volume>63</volume>, <elocation-id>202405417</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="adma202507459-cite-0027">a) <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;L.</given-names>
+<surname>Nan</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;P.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;H.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <elocation-id>15503</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0028">b) <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <source>Joule</source>
+<year>2023</year>, <volume>7</volume>, <fpage>2074</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="adma202507459-cite-0029">
+<string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Science</source>
+<year>2022</year>, <volume>378</volume>, <elocation-id>abq3750</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="adma202507459-cite-0030">a) <string-name>
+<given-names>M.</given-names>
+<surname>Cuisinier</surname>
+</string-name>, <string-name>
+<given-names>P. E.</given-names>
+<surname>Cabelguen</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Adams</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Garsuch</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Balasubramanian</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>2697</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0031">b) <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>17634</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="adma202507459-cite-0032">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Shyamsunder</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Narayanan</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Kwok</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Curtiss</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>783</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="adma202507459-cite-0033">
+<string-name>
+<given-names>L.&#x02010;L.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;X.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2024</year>, <volume>63</volume>, <elocation-id>202318785</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="adma202507459-cite-0034">a) <string-name>
+<given-names>F.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Xia</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2018</year>, <volume>6</volume>, <elocation-id>23396</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0035">b) <string-name>
+<given-names>M.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2101004</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="adma202507459-cite-0036">
+<string-name>
+<given-names>J. T.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Nat. Chem. Eng.</source>
+<year>2024</year>, <volume>1</volume>, <fpage>400</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="adma202507459-cite-0037">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2202566</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="adma202507459-cite-0038">a) <string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2021</year>, <volume>33</volume>, <elocation-id>2007298</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0039">b) <string-name>
+<given-names>X.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2024</year>, <volume>63</volume>, <elocation-id>202405880</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="adma202507459-cite-0040">
+<string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>K. T.</given-names>
+<surname>Mueller</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2016</year>, <volume>26</volume>, <fpage>3059</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="adma202507459-cite-0041">a) <string-name>
+<given-names>Z.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2302850</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0042">b) <string-name>
+<given-names>Z.&#x02010;X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;W.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2023</year>, <volume>145</volume>, <elocation-id>16449</elocation-id>;<pub-id pub-id-type="pmid">37427442</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0043">c) <string-name>
+<given-names>Y.&#x02010;W.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2024</year>, <volume>63</volume>, <elocation-id>202400343</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="adma202507459-cite-0044">
+<string-name>
+<given-names>M. M.</given-names>
+<surname>Rahman</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ronne</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2024</year>, <volume>9</volume>, <fpage>2024</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="adma202507459-cite-0045">
+<string-name>
+<given-names>E. V.</given-names>
+<surname>Karaseva</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Khramtsova</surname>
+</string-name>, <string-name>
+<given-names>A. N.</given-names>
+<surname>Lobov</surname>
+</string-name>, <string-name>
+<given-names>E. V.</given-names>
+<surname>Kuzmina</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Eroglu</surname>
+</string-name>, <string-name>
+<given-names>V. S.</given-names>
+<surname>Kolosnitsyn</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2022</year>, <volume>548</volume>, <elocation-id>231980</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="adma202507459-cite-0046">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Meng</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2201912</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="adma202507459-cite-0047">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>F. M.</given-names>
+<surname>Azad</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Hawker</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Whittaker</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Forsyth</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Rev. Mater.</source>
+<year>2024</year>, <volume>9</volume>, <fpage>119</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0022"><label>22</label><mixed-citation publication-type="book" id="adma202507459-cite-0048">
+<string-name>
+<given-names>A. J.</given-names>
+<surname>Bard</surname>
+</string-name>, <string-name>
+<given-names>L. R.</given-names>
+<surname>Faulkner</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>White</surname>
+</string-name>, <source>Electrochemical methods: fundamentals and applications</source>, <publisher-name>John Wiley &#x00026; Sons</publisher-name>, <publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>2022</year>.</mixed-citation></ref><ref id="adma202507459-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="adma202507459-cite-0049">a) <string-name>
+<given-names>H.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Noh</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yuk</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kwack</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;K.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;T.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>188</fpage>;<pub-id pub-id-type="pmid">30643115</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0050">b) <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2024</year>, <volume>146</volume>, <elocation-id>23182</elocation-id>.<pub-id pub-id-type="pmid">39110853</pub-id>
+</mixed-citation></ref><ref id="adma202507459-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="adma202507459-cite-0051">a) <string-name>
+<given-names>H.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2208590</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0052">b) <string-name>
+<given-names>Y.&#x02010;W.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;X.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Chem</source>
+<year>2022</year>, <volume>8</volume>, <fpage>3031</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0053">c) <string-name>
+<given-names>F.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2022</year>, <volume>32</volume>, <elocation-id>2205393</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="adma202507459-cite-0054">a) <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2023</year>, <volume>559</volume>, <elocation-id>232652</elocation-id>;</mixed-citation><mixed-citation publication-type="book" id="adma202507459-cite-0055">b) <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Electrolytes, Interfaces and Interphases</source>, <publisher-name>The Royal Society of Chemistry</publisher-name>, <publisher-loc>Cambridge</publisher-loc>
+<year>2023</year>.</mixed-citation></ref><ref id="adma202507459-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="adma202507459-cite-0056">a) <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Pollak</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Elazari</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Salitra</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Kelley</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Affinito</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2009</year>, <volume>156</volume>, <fpage>A694</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="adma202507459-cite-0057">b) <string-name>
+<given-names>S. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2016</year>, <volume>322</volume>, <fpage>99</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="adma202507459-cite-0058">
+<string-name>
+<given-names>C.&#x02010;X.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <elocation-id>2411197</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="adma202507459-cite-0059">
+<string-name>
+<given-names>D.</given-names>
+<surname>Chai</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2023</year>, <volume>62</volume>, <elocation-id>102957</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="adma202507459-cite-0060">
+<string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2301422</elocation-id>.</mixed-citation></ref><ref id="adma202507459-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="adma202507459-cite-0061">
+<string-name>
+<given-names>G. M.</given-names>
+<surname>Hobold</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Steinberg</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B. M.</given-names>
+<surname>Gallant</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2024</year>, <volume>9</volume>, <fpage>580</fpage>.</mixed-citation></ref><ref id="adma202507459-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="adma202507459-cite-0062">
+<string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>G. A.</given-names>
+<surname>Ferrero</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sevilla</surname>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>Fuertes</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yushin</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2020</year>, <volume>20</volume>, <fpage>5391</fpage>.<pub-id pub-id-type="pmid">32463248</pub-id>
+</mixed-citation></ref><ref id="adma202507459-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="adma202507459-cite-0063">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Elias</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <source>Joule</source>
+<year>2021</year>, <volume>5</volume>, <fpage>2323</fpage>.</mixed-citation></ref></ref-list></back></article>

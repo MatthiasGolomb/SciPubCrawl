@@ -1,0 +1,344 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12036535</article-id><article-id pub-id-type="pmid">40303455</article-id>
+<article-id pub-id-type="publisher-id">d5sc01994j</article-id><article-id pub-id-type="doi">10.1039/d5sc01994j</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Three-dimensional nanostructured composite lithium soap fibers for constructing high-performance lithium metal anode interfacial layers<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available. See DOI: <uri xlink:href="https://doi.org/10.1039/d5sc01994j">https://doi.org/10.1039/d5sc01994j</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Luo</surname><given-names>Ying</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Shaozhen</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name><surname>Liao</surname><given-names>Jiahua</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2427-3885</contrib-id><name><surname>Wu</surname><given-names>Zhibin</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3766-1545</contrib-id><contrib-id contrib-id-type="resid" authenticated="false">C-4334-2018</contrib-id><name><surname>Chen</surname><given-names>Libao</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>State Key Laboratory of Powder Metallurgy, Central South University</institution>
+<city>Changsha 410083</city>
+<country>PR China</country>
+<email>zhibinwu@csu.edu.cn</email>
+<email>lbchen@csu.edu.cn</email>
+</aff><aff id="affb">
+<label>b</label>
+<institution>Foshan Lifriend New Energy Co. LTD</institution>
+<city>Foshan</city>
+<postal-code>528244</postal-code>
+<country>PR China</country>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-04-16"><day>16</day><month>4</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-05-28"><day>28</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>16</day><month>4</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>21</issue><fpage>9366</fpage><lpage>9374</lpage><history><date date-type="received" iso-8601-date="2025-03-13"><day>13</day><month>3</month><year>2025</year></date><date date-type="accepted" iso-8601-date="2025-04-09"><day>9</day><month>4</month><year>2025</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2025-04-16">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>Lithium metal batteries are regarded as promising energy storage devices due to their high theoretical capacity, low density, and low electrode potential. However, the high reactivity of lithium leads to side reactions with the electrolyte and dendritic growth which hinder their commercial application. In this study, a lithium metal anode material with a three-dimensional nanostructured interface was prepared through interfacial modification engineering. The linear flexible molecular chains of the chelating agent, which crosslink with lithium stearate, result in a highly entangled, strong, and flexible three-dimensional porous structure of composite lithium soap fibers. The strong electrostatic interaction between the terminal RCOO<sup>&#x02212;</sup> groups and Li<sup>+</sup> attracts Li<sup>+</sup> ions into the three-dimensional matrix, constructing a lithiophilic protective layer at the micron and nanoscale. This enhances the stability of the SEI layer and the Li<sup>+</sup> transport rate. The large specific surface area and abundant pores provide more reaction sites for lithium deposition and stripping. The unique mesh-like molecular structure, with high liquid transport performance, regulates the distribution of the electrolyte and homogenizes the lithium ion flux, effectively suppressing dendritic growth. The Li@DA symmetrical coin cells exhibits a long-term cycling performance of over 6800 hours, and the full battery maintains a high capacity retention of 92.04% after 530 cycles at a 2C rate with a high loading of 12 mg cm<sup>&#x02212;2</sup>. This three-dimensional nanostructured interfacial layer holds great potential for advancing the development of high-performance lithium batteries.</p></abstract><abstract abstract-type="toc"><p>A 3D micro&#x02013;nano interface was formed on the lithium metal anode by coating composite lithium soap fibers. The Li@DA anode shows prolonged cycling lifespan due to enhanced ion conductivity and suppressed volume expansion on the interface.<graphic xlink:href="d5sc01994j-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>Natural Science Foundation of Hunan Province</institution><institution-id institution-id-type="doi">10.13039/501100004735</institution-id></institution-wrap>
+</funding-source><award-id>2024JJ4058</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Innovation-Driven Project of Central South University</institution><institution-id institution-id-type="doi">10.13039/501100012486</institution-id></institution-wrap>
+</funding-source><award-id>1053320230998</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>52471166</award-id><award-id>U24A20501</award-id></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Since the Sony Corporation launched lithium-ion batteries (LIBs) in 1990, they have been widely used in portable devices. However, limited by the low specific capacity of graphite anodes (372 mA h g<sup>&#x02212;1</sup>), LIBs are gradually unable to meet the increasing demand for high energy density storage.<sup><xref rid="cit1" ref-type="bibr">1&#x02013;3</xref></sup> Lithium metal batteries are regarded as an ideal choice for next-generation batteries due to their high theoretical capacity (3860 mA h g<sup>&#x02212;1</sup>), low density (0.534 g cm<sup>&#x02212;3</sup>), and low electrode potential (&#x02212;3.04 V <italic toggle="yes">vs.</italic> SHE).<sup><xref rid="cit4" ref-type="bibr">4,5</xref></sup> Lithium has a small atomic radius and only one electron in its outermost shell. Under the shielding effect of the atomic nucleus and inner electrons, lithium atoms can easily lose electrons to form ions. This high reactivity leads to the instability of the solid electrolyte interphase (SEI) layer.<sup><xref rid="cit6" ref-type="bibr">6</xref></sup> During the charge&#x02013;discharge process, the intercalation and deintercalation of Li<sup>+</sup> ions cause mechanical stress and volume changes within the electrode material. Since lithium metal anodes undergo &#x0201c;host-free&#x0201d; deposition, the resulting structural collapse and the uneven lithium ion flux at the fractured sites lead to the rampant growth of lithium dendrites, which can penetrate the separator and pose a safety hazard to the battery.<sup><xref rid="cit7" ref-type="bibr">7</xref></sup> Therefore, designing a high-performance lithium metal anode interfacial structure layer with uniform lithium ion flux, a high Li<sup>+</sup> transport rate, and structural stability is a key focus of current research.</p><p>In response to the failure mechanisms of lithium metal anodes&#x02014;unstable SEI films, volume changes, and lithium dendrite growth&#x02014;researchers have conducted extensive studies. Solid-state electrolytes can effectively prevent the continuous reaction between lithium and liquid electrolytes, but face issues such as thick protective layers, low ionic conductivity, and high preparation costs. Interface engineering has been proven to enhance the stability of the lithium interface to some extent. By coating or constructing special structures on the surface of lithium metal, the growth of lithium dendrites can be effectively suppressed.<sup><xref rid="cit4" ref-type="bibr">4</xref></sup> Through designing thinner and lower mass fraction protective layers, the artificial construction of SEI layers can achieve synergistic effects of high lithium ion conductivity, isolation of direct contact between the electrolyte and lithium, inhibition of lithium dendrite growth, and mitigation of electrode volume expansion. These layers meet the demands of low cost and ease of large-scale preparation, thereby significantly improving the performance of lithium metal batteries. Long <italic toggle="yes">et al.</italic><sup><xref rid="cit8" ref-type="bibr">8</xref></sup> prepared a porous lithium siloxene (LSIS) interfacial framework <italic toggle="yes">in situ</italic> on the lithium metal anode interface through a mechanical friction reaction between silica and lithium metal. This mixed ionic/electronic conductive interfacial layer significantly reduces interfacial impedance and enhances lithium ion mobility and the uniformity of the electric field distribution. Wu <italic toggle="yes">et al.</italic><sup><xref rid="cit9" ref-type="bibr">9</xref></sup> designed a polyimide covalent organic framework (COF) anchored on the lithium anode interface to construct an artificial SEI layer for uniform lithium deposition and inhibition of lithium dendrite growth. The Li&#x02013;COF&#x02016;LFP full battery, paired with a commercial LiFePO<sub>4</sub> cathode, retained a high capacity of 91% after 150 cycles. However, these interfacial layers still have certain limitations. Inorganic frameworks struggle to accommodate the volume expansion during electrode charging and discharging, while organic frameworks, despite their flexibility, face challenges related to cost and complex preparation processes, hindering their commercial application.</p><p>Composite lithium soap fibers (CLSF) are synthesized from three types of chelating agents and named after their initials. The composite lithium soap fibers synthesized using azelaic acid, sebacic acid, and dodecanedioic acid as chelating agents are respectively named AA, SA, and DA based on their initials. These fibers are highly entangled together, with the linear flexible molecular chains of the chelating agents crosslinked with saturated lithium stearate, resulting in a structure with high strength and flexibility.<sup><xref rid="cit10" ref-type="bibr">10&#x02013;12</xref></sup> The composite lithium soap fibers exhibit a multilayer self-helical morphology, and are successively assembled together to form a complex three-dimensional nano/micro porous structure. This structure provides more robust mechanical support. The composite lithium soap fibers have excellent physicochemical properties, showing uniform distribution and good morphology, with a melting point close to 400 &#x000b0;C, indicating extremely high thermal stability. They possess abundant pore structures and a large specific surface area, with that of the composite lithium soap fibers DA reaching 22.55 m<sup>2</sup> g<sup>&#x02212;1</sup>. The pore structures mainly exist in the form of micropores and mesopores, effectively enhancing the interaction of the adsorbate (electrolyte) with the lithium metal interfacial layer. With a safe and convenient mechananical rolling process, the lithium foil is uniformly stressed overall. The unique three-dimensional structure of the composite lithium soap fibers acts as a surface stress buffer layer, which further facilitates mechanical processing. By mechanically rolling the fibers onto the lithium anode interface, the fibrous framework is grafted to stabilize the electrode structure and provide more reaction sites for lithium plating/stripping. The carboxyl functional groups at the ends of the composite lithium soap fibers anchored on the lithium metal interface have a strong electrostatic interaction with Li<sup>+</sup> ions, attracting them into the three-dimensional matrix and forming a lithiophilic protective layer at the micron and nanoscale. The unique mesh-like molecular structure not only provides more reaction sites but also endows the protective layer with high liquid transport performance.<sup><xref rid="cit13" ref-type="bibr">13,14</xref></sup> This structure effectively regulates the distribution of the electrolyte, making the lithium ion flux more uniform and further enhancing the stability and cycling performance of the lithium anode, thus promoting the development of high-performance lithium metal anodes.</p></sec><sec><title>Results and discussion</title><p>
+<xref rid="fig1" ref-type="fig">Fig. 1a</xref> illustrates the preparation process of composite lithium soap fibers (CLSF) and composite lithium anodes (Li@CLSF). <xref rid="fig1" ref-type="fig">Fig. 1b</xref> details the chemical synthesis mechanism of CLSF. Three organic acids with different chain lengths, all based on carbon chains were used as chelating agents: Azelaic acid, sebacic acid, and dodecanedioic acid. These acids were dispersed in a mixed solvent of ethanol and deionized water. 1,2-Hydroxystearic acid was heated to dissolve in deionized water, and then mixed uniformly with the acids at a certain temperature. LiOH&#x000b7;H<sub>2</sub>O was added to allow the flexible linear molecular chains of the chelating agents to crosslink with saturated lithium stearate, forming the composite lithium soap fibers.<sup><xref rid="cit10" ref-type="bibr">10,11</xref></sup></p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>(a) Schematic illustration of the preparation of composite lithium soap fibers (CLSF) and the composite lithium anode (Li@CLSF). (b) Schematic illustration of the chemical synthesis reaction mechanism of composite lithium soap fiberd. SEM images of composite lithium soap fiber DA at a scale of 100 nm under different magnifications: (c) 30&#x02009;000 and (d) 100&#x02009;000. (e) FT-IR spectra of the three types of composite lithium soap fibers. (f) Thermo-gravimetric analysis (TGA) curves of the three types of composite lithium soap fibers. (g) EDS layered image of DA. (h) The thickness of the Li@CLSF composite lithium metal anode, with an optical image of the electrode in the upper right corner.</title></caption><graphic xlink:href="d5sc01994j-f1" position="float"/></fig><p>The fibers were then grafted onto the lithium metal interface <italic toggle="yes">via</italic> mechanical rolling. The original thickness of the lithium foil is &#x0223c;180 &#x003bc;m. After mechanical rolling, the thickness of the composite lithium anode can be reduced to 100 &#x003bc;m. This significant reduction in thickness is mainly attributed to the unique structure of the composite lithium soap fibers. The flexible linear structure of the chelating agent molecules in the composite lithium soap fibers is cross-linked with saturated lithium stearate, forming a high-strength and flexible fiber network. This network structure acts as a stress buffer during mechanical processing, allowing the lithium foil to be uniformly thinned without breaking or tearing.<sup><xref rid="cit10" ref-type="bibr">10,11,15</xref></sup> On the other hand, the composite lithium soap fibers have good compatibility with lithium metal. When mixed with rolling oil, the composite lithium soap fibers form a lithium-based grease, which effectively reduces friction and wear during mechanical rolling.<sup><xref rid="cit4" ref-type="bibr">4,16,17</xref></sup> This interaction not only helps in the uniform thinning of the lithium foil but also ensures the structural stability of the composite lithium anode after mechanical processing. After rolling, the lithium metal was cut into pieces to fabricate the anode material.<sup><xref rid="cit4" ref-type="bibr">4,13</xref></sup><xref rid="fig1" ref-type="fig">Fig. 1c and d</xref> show the scanning electron microscopy (SEM) images of the dodecanedioic acid-based CLSF (DA) at different magnifications. At 30&#x02009;000 magnification, the porous structure of the composite fibers can be observed. At 100&#x02009;000 magnification, the nanoscale structure of the fibers becomes clearer, showing uniform distribution and good morphology.</p><p>After preliminary characterization of the microstructures of the three types of CLSF, Fourier-transform infrared spectroscopy (FT-IR) was performed (<xref rid="fig1" ref-type="fig">Fig. 1e</xref>). The presence of O&#x02013;H bonds, C&#x02013;H stretching, scissoring, and bending vibrations, as well as vibrations of the CH backbone and COOR groups, was confirmed. This indicates that Li replaces the hydrogen in the carboxyl group, not the hydroxyl group, consistent with the proposed reaction equations and product structures. This confirms the successful synthesis of lithium 1,2-hydroxystearate and lithium organic acid salts. The reaction equations for CLSF can be summarized as follows:<sup><xref rid="cit10" ref-type="bibr">10&#x02013;12</xref></sup><inline-formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>5</sub>CH(OH)(CH<sub>2</sub>)<sub>10</sub>COOH + LiOH&#x000b7;H<sub>2</sub>O &#x02192; CH<sub>3</sub>(CH<sub>2</sub>)<sub>5</sub>CH(OH)(CH<sub>2</sub>)<sub>10</sub>COOLi + 2H<sub>2</sub>O</inline-formula><inline-formula>HOOC(CH<sub>2</sub>)<sub>7</sub>COOH + 2LiOH&#x000b7;H<sub>2</sub>O &#x02192; LiOOC(CH<sub>2</sub>)<sub>7</sub>COOLi + 3H<sub>2</sub>O</inline-formula><inline-formula>HOOC(CH<sub>2</sub>)<sub>8</sub>COOH + 2LiOH&#x000b7;H<sub>2</sub>O &#x02192; LiOOC(CH<sub>2</sub>)<sub>8</sub>COOLi + 3H<sub>2</sub>O</inline-formula><inline-formula>HOOC(CH<sub>2</sub>)<sub>10</sub>COOH + 2LiOH&#x000b7;H<sub>2</sub>O &#x02192; LiOOC(CH<sub>2</sub>)<sub>10</sub>COOLi + 3H<sub>2</sub>O</inline-formula></p><p>To analyze the stability of composite lithium soap fibers, thermogravimetric analysis (TGA) was performed (<xref rid="fig1" ref-type="fig">Fig. 1f</xref>). The melting temperatures of AA, SA, and DA were 396 &#x000b0;C, 410 &#x000b0;C, and 414 &#x000b0;C, respectively, indicating good thermal stability.<sup><xref rid="cit18" ref-type="bibr">18</xref></sup> Energy-dispersive X-ray spectroscopy (EDS) (<xref rid="fig1" ref-type="fig">Fig. 1g</xref>) shows that DA exhibits a three-dimensional nanostructured network, with C and O elements uniformly distributed within the fibers. The three types of composite lithium soap fibers were dissolved in mineral oil, uniformly and thoroughly stirred, and then rolled onto lithium metal. The resulting composite lithium metal anodes were cut into pieces with a thickness of 100 &#x003bc;m (<xref rid="fig1" ref-type="fig">Fig. 1h</xref>). The optical image of the electrode piece Li@DA is shown in the upper right corner (Li@DA refers to the lithium anode prepared using dodecanedioic acid as the chelating agent to synthesize composite lithium soap fibers).</p><p>To further understand the physicochemical properties and differences of the composite lithium soap fibers, nitrogen adsorption&#x02013;desorption tests were conducted on the three types of composite lithium soap fibers (AA, SA, and DA) at 77.3 K (<xref rid="fig2" ref-type="fig">Fig. 2a</xref>), with the inset showing the pore size distribution curves. The isotherms reveal a combination of Type II, IV characteristics. At low relative pressures (<italic toggle="yes">P</italic>/<italic toggle="yes">P</italic><sub>0</sub>), the isotherms closely resemble Type II isotherms, which is due to the weak interaction between the adsorbate and the adsorbent in pores smaller than 2 nm (with the electrolyte acting as the adsorbate and the composite lithium metal interfacial layer as the adsorbent). The subsequent gradual curvature of the isotherms indicates the overlap of monolayer coverage and the onset of multilayer adsorption.<sup><xref rid="cit19" ref-type="bibr">19</xref></sup> In the range of 0.8 &#x0003c; <italic toggle="yes">P</italic>/<italic toggle="yes">P</italic><sub>0</sub> &#x0003c; 1.0, corresponding to the presence of large pores, hysteresis loops (H3 type) are observed, indicating capillary condensation in mesopores and macropores, with the electrolyte acting as the adsorbate on the lithium metal interfacial layer. Upon examining the inset illustrations of the isotherms, it is evident that the pore size distribution of DA exhibits a peak at 3.61 nm, compared to the composite lithium soap fibers AA and SA. This suggests that, in contrast to the other two types of fibers, the pores in DA are more predominantly micropores and mesopores. The bar chart on the far right of <xref rid="fig2" ref-type="fig">Fig. 2a</xref> compares the BET specific surface area and the BJH desorption average pore size among the three types of composite lithium soap fibers. Combining the information from the bar chart and the distribution curve in <xref rid="fig2" ref-type="fig">Fig. 2a</xref>, it can be concluded that the pore volumes of the three fiber networks are similar, while DA has the largest specific surface area, reaching 22.55 m<sup>2</sup> g<sup>&#x02212;1</sup>. Compared to the other two types, DA exhibits a higher proportion of microporous and mesoporous structures. Scanning electron microscopy (SEM) was used to characterize the surface morphology and coating thickness of the composite lithium anode. <xref rid="fig2" ref-type="fig">Fig. 2b</xref> shows the surface and cross-sectional views of the Li@DA electrode, clearly demonstrating that the DA composite lithium soap fibers were successfully grafted onto the lithium metal surface, with a coating thickness of &#x0223c;4 &#x003bc;m.</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>(a) Nitrogen adsorption isotherms of the three types of composite lithium soap fibers at 77.3 K, with insets showing their pore size distribution curves. The bar chart on the right displays the BET surface area and BJH desorption average pore diameter (4<italic toggle="yes">V</italic>/<italic toggle="yes">A</italic>) of the three types of composite lithium soap fibers. (b) Scanning electron microscope (SEM) images of the surface and cross-section of the Li@DA electrode. (c) Tafel curves of symmetric cells using bare Li and the three types of composite lithium soap fibers as lithium anodes. (d) Electrochemical impedance spectroscopy (EIS) spectra of symmetric cells using bare Li and the three types of composite lithium soap fibers, before and after polarization, for the estimation of the lithium ion transference number. The bar chart on the right shows the lithium ion transference numbers for bare Li and the three types of composite lithium soap fibers.</title></caption><graphic xlink:href="d5sc01994j-f2" position="float"/></fig><p>To evaluate the electrochemical properties of composite lithium anodes, Tafel tests were performed on symmetric cells assembled using lithium anodes prepared from the three types of composite lithium soap fibers (<xref rid="fig2" ref-type="fig">Fig. 2c</xref>). The exchange current densities of these electrodes were 0.056 mA cm<sup>&#x02212;2</sup>, 0.057 mA cm<sup>&#x02212;2</sup>, and 2.4 mA cm<sup>&#x02212;2</sup>, respectively, while that of the bare Li electrode was only 0.046 mA cm<sup>&#x02212;2</sup>. These results indicate that the composite soap fibers exhibit superior charge transfer kinetics, with Li@DA showing particularly significant improvements. <xref rid="fig2" ref-type="fig">Fig. 2d</xref> presents the lithium ion transference numbers for lithium metal batteries prepared with the three composite lithium soap fibers. Among them, the transference number of the Li@DA lithium metal battery was the highest, reaching 0.71, which represents a 37% increase compared to that of bare Li. This value is highly desirable. Wettability tests were conducted on bare Li and Li@DA electrodes by adding a fixed volume of ether-based electrolyte (LS-009). As shown in Fig. S1,<xref rid="fn1" ref-type="fn">&#x02020;</xref> the contact angles of bare Li and Li@DA electrodes were 26.5&#x000b0; and 14.0&#x000b0;, respectively. Li@DA demonstrated a faster wetting rate for the electrolyte and higher affinity for lithium. This can be attributed to the three-dimensional nanostructured network on the surface of the Li@DA electrode, which effectively reduces the interfacial tension between the electrolyte and the electrode, thereby facilitating rapid diffusion and uniform wetting of the electrolyte.<sup><xref rid="cit14" ref-type="bibr">14</xref></sup> These electrochemical data indicate that Li@DA exhibits high ionic conductivity. Combining these results with the physicochemical characterization, we speculate that the pore size distribution and specific surface area are the primary factors influencing lithium ion transport. DA has the largest specific surface area, which significantly enhances the exposure of active reaction sites. The presence of micropores and mesopores further endows the interfacial layer with high liquid transport properties, effectively regulating the distribution of the electrolyte and making the lithium ion flux more uniform.</p><p>To further investigate the effects of the Li@DA electrode material on lithium plating and stripping behavior during cycling, symmetric cells were assembled and subjected to deposition at different capacities at a current density of 0.25 mA cm<sup>&#x02212;2</sup>. After disassembling the cells, the electrodes were cleaned with DME, and the morphology of the electrode materials was observed using scanning electron microscopy (SEM). After delithiation for 6 hours at a current density of 0.25 mA cm<sup>&#x02212;2</sup>, the stripping surfaces of bare Li and Li@DA were examined. <xref rid="fig3" ref-type="fig">Fig. 3a and b</xref> show that the surfaces of Li@DA were smooth and uniform, with the grafted nanostructured fibers remaining intact on the lithium metal interface. In contrast, <xref rid="fig3" ref-type="fig">Fig. 3c and d</xref> reveal significant pores and cracks on the surfaces of bare Li electrodes. On the plating side, lithium deposition on Li@DA was dense and uniform (<xref rid="fig3" ref-type="fig">Fig. 3e and f</xref>), while bare Li exhibited dendritic aggregation and irregular deposition (<xref rid="fig3" ref-type="fig">Fig. 3g and h</xref>). When the electrodes were first delithiated for 6 hours and then plated for another 6 hours, Li@DA maintained its dense deposition and smooth stripping surface morphology (Fig. S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In contrast, bare Li continued to exhibit irregular dendritic growth. After the same amount of stripping and plating, the stripping surface of bare Li did not return to its original state, with pores persisting on the interface (Fig. S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>). These pores further led to non-uniform lithium ion flux, causing dendrites and dead lithium to form continuously during cycling. When the deposition capacity was further increased, Li@DA maintained its excellent plating and stripping morphology, with the nanostructured fibers still firmly anchored on the interface (Fig. S4 and S5<xref rid="fn1" ref-type="fn">&#x02020;</xref>), unlike bare Li, which exhibited irregular deposition and electrode pores. <italic toggle="yes">In situ</italic> optical microscopy measurements provided a more intuitive reflection of the above phenomena (<xref rid="fig3" ref-type="fig">Fig. 3i</xref>). At a current density of 2 mA cm<sup>&#x02212;2</sup>, bare Li showed dendritic growth after 20 minutes, and the dendrites continued to grow and enlarge over 60 minutes. Such dendrites can easily penetrate the separator, causing battery short-circuiting and even thermal runaway, which poses a severe safety threat to the battery. In contrast, Li@DA maintained a stable plating state for up to 60 minutes. By stabilizing the solvent interface and homogenizing the lithium ion flux, Li@DA achieved a &#x0201c;dendrite-free&#x0201d; state, confirming its significant advantage in suppressing lithium dendrite formation.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>SEM images of the deposition and stripping of bare Li and Li@DA symmetric cells after delithiation at 0.25 mA cm<sup>&#x02212;2</sup> for 6 hours: (a&#x02013;d) Li@DA; (e&#x02013;h) bare Li. (i) <italic toggle="yes">In situ</italic> optical microscopy measurements of bare Li and Li@DA at 2 mA cm<sup>&#x02212;2</sup>.</title></caption><graphic xlink:href="d5sc01994j-f3" position="float"/></fig><p>To verify the impact of volume change on the Li@DA electrode during cycling, symmetric cells were assembled using bare Li and Li@DA electrodes with a thickness of 100 &#x003bc;m. These cells were tested at a current density of 0.25 mA cm<sup>&#x02212;2</sup> to observe the volume change of the lithium battery anode after stripping 3 mA h cm<sup>&#x02212;2</sup> of lithium and after stripping followed by plating 3 mA h cm<sup>&#x02212;2</sup> of lithium. The theoretical formula for the volume change of lithium metal is as follows:<sup><xref rid="cit20" ref-type="bibr">20,21</xref></sup><inline-formula>&#x00394;<italic toggle="yes">V</italic> = <italic toggle="yes">Q</italic>/(<italic toggle="yes">&#x003c1;</italic> &#x000d7; <italic toggle="yes">C</italic>)w</inline-formula>here <italic toggle="yes">Q</italic> is the amount of charge deposited, <italic toggle="yes">&#x003c1;</italic> is the density of lithium (0.534 g cm<sup>&#x02212;3</sup>), and <italic toggle="yes">C</italic> is the specific capacity (3860 mA h g<sup>&#x02212;1</sup>). Through calculation, the theoretical volume change is 14.6 &#x003bc;m. As observed in Fig. S6,<xref rid="fn1" ref-type="fn">&#x02020;</xref> both the bare Li and Li@DA anodes exhibit volume changes after stripping. However, the volume change of the Li@DA anode is smaller and closer to the theoretical value compared to that of bare Li. After stripping and then plating an identical amount of lithium, the volume change of the Li@DA anode is more stable than that of bare Li. The SEM characterization results strongly corroborate the stability of the Li@DA interfacial layer, which is attributed to the high strength and flexibility of the composite lithium soap fiber framework. This framework effectively alleviates volume stress changes and promotes stable battery cycling.</p><p>To gain a deeper understanding of the interaction mechanism between lithium and composite lithium soap fibers, X-ray photoelectron spectroscopy (XPS) was employed to analyze the chemical composition of the interface after the reaction between composite lithium soap fiber DA and lithium. Both bare Li and Li@DA electrodes were etched for 60 seconds. In the C 1s spectra, the bare Li electrode exhibited peaks corresponding to Li<sub>2</sub>CO<sub>3</sub>, Li&#x02013;C, and C&#x02013;H bonds. In contrast, after the reaction of DA with lithium at the interface, additional peaks for C&#x02013;C, LiC<sub><italic toggle="yes">x</italic></sub>, and RCOOLi were observed (<xref rid="fig4" ref-type="fig">Fig. 4a&#x02013;f</xref> and S7<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The presence of C&#x02013;C is attributed to the carbon chain backbone of the composite lithium soap fibers, while the LiC<sub><italic toggle="yes">x</italic></sub> peak arises from the interaction between the carbon chain and lithium during the mechanical rolling process (Fig. S8<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The carboxyl groups (&#x02013;COOH) in the DA framework, due to the electronegativity of oxygen, can form significant electrostatic interactions with positively charged lithium ions (Li<sup>+</sup>). During the charging and discharging process, the terminal RCOO<sup>&#x02212;</sup> groups can effectively attract lithium ions to the lithiophilic centers within the three-dimensional matrix, where they are reduced to lithium metal through charge transfer. This stable electrostatic attraction guides the deposition and stripping of lithium ions on the electrode surface, inhibits dendritic lithium growth, mitigates lithium volume expansion, and dynamically regulates the interface, thereby constructing an organic interfacial protective layer with excellent lithiophilicity at the micron and nanoscale. <xref rid="fig4" ref-type="fig">Fig. 4g</xref> illustrates the content of C, O, and Li elements in bare Li and Li@DA electrodes at different sputtering times. From 0 to 60 seconds, the C 1s peak in the bare Li electrode gradually decreased and disappeared, while the C 1s peak in Li@DA remained relatively stable, confirming the formation of the interfacial modification layer in Li@DA. <xref rid="fig4" ref-type="fig">Fig. 4h</xref> shows the compositional ratio of the interfacial layer in bare Li and Li@DA electrodes.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>The C 1s X-ray photoelectron spectroscopy (XPS) spectra: (a&#x02013;c) Li@DA; (d&#x02013;f) bare Li. (g) Full-scan XPS results of bare Li and Li@DA electrodes. (h) Element ratios of bare Li and Li@DA electrodes at different sputtering times. (i) Voltage profiles of bare Li and Li@DA symmetric cells at a current density of 1 mA cm<sup>&#x02212;2</sup> with a fixed capacity of 1 mA h cm<sup>&#x02212;2</sup>. (j) Voltage profiles at different time periods. (k) Voltage profiles of bare Li and Li@DA symmetric cells at a current density of 3 mA cm<sup>&#x02212;2</sup> with a fixed capacity of 3 mA h cm<sup>&#x02212;2</sup>. (l) Galvanostatic plating/stripping profiles of bare Li and Li@DA in symmetric cells at increasing current densities from 0.25 to 3 mA cm<sup>&#x02212;2</sup> at a fixed capacity of 0.5 mA h cm<sup>&#x02212;2</sup>.</title></caption><graphic xlink:href="d5sc01994j-f4" position="float"/></fig><p>Symmetric cells assembled with bare Li and Li@DA were subjected to galvanostatic charge&#x02013;discharge tests at various current densities to evaluate their cycling stability and polarization voltage. At a current density of 1.0 mA cm<sup>&#x02212;2</sup> and a capacity of 1.0 mA h cm<sup>&#x02212;2</sup>, cyclic testing revealed that the Li@DA electrode exhibited a significantly more stable voltage profile compared to the bare Li electrode throughout the test period, with a stable cycling time exceeding 5000 hours&#x02014;more than eight times that of the bare Li electrode (<xref rid="fig4" ref-type="fig">Fig. 4i and j</xref>). When the current density was increased to 3.0 mA cm<sup>&#x02212;2</sup>, the Li@DA symmetric cell demonstrated an impressive long-term cycling performance of over 6800 hours, far surpassing that of the bare Li electrode and achieving a remarkable improvement in the lifespan. <xref rid="fig4" ref-type="fig">Fig. 4l</xref> illustrates the polarization voltage behavior of Li@DA at increasing current densities of 0.25, 0.5, 1, 2, 3, and 0.5 mA cm<sup>&#x02212;2</sup> at a fixed capacity of 0.5 mA h cm<sup>&#x02212;2</sup>. The results show that the polarization voltage of Li@DA gradually stabilizes with increasing current density and becomes increasingly advantageous at higher current densities. This stable polarization voltage characteristic indicates that the Li@DA electrode maintains good electrochemical performance across different current densities. These findings collectively demonstrate that the three-dimensional network structure formed by the self-helical lithium soap fibers of DA, with its large specific surface area and abundant pore structure,<sup><xref rid="cit14" ref-type="bibr">14</xref></sup> significantly increases the number of reactive sites. This not only reduces the nucleation overpotential but also promotes uniform lithium metal deposition, effectively enhancing the cycling stability of the lithium metal electrode.</p><p>To further evaluate the commercial applicability of Li@DA, researchers selected LiFePO<sub>4</sub> (LFP) as the cathode to assemble full cells and conducted electrochemical performance tests. <xref rid="fig5" ref-type="fig">Fig. 5a and b</xref> show the cycling performance of bare Li and Li@DA full cells at a high loading of 12 mg cm<sup>&#x02212;2</sup> at a 2C rate. It can be observed that the Li@DA&#x02016;LFP cell showed a high capacity retention of 92.04% after 530 cycles, while the bare Li&#x02016;LFP cell showed a capacity retention of only 33.34% after 200 cycles. In terms of rate performance, Li@DA also demonstrated superior characteristics, as shown in <xref rid="fig5" ref-type="fig">Fig. 5c</xref>. At varying rates of 0.2&#x02013;0.5&#x02013;1&#x02013;2&#x02013;4&#x02013;0.2C, the Li@DA electrode exhibited higher discharge specific capacities compared to the bare Li electrode. <xref rid="fig5" ref-type="fig">Fig. 5d and e</xref> display the charge&#x02013;discharge curves of bare Li&#x02016;LFP and Li@DA&#x02016;LFP at different rates, with Li@DA maintaining stable charge&#x02013;discharge plateaus throughout the testing period. The significant improvement in rate performance is attributed to the unique interfacial structure of Li@DA. The interfacial layer has a high Li<sup>+</sup> diffusion coefficient and low charge transfer resistance. Additionally, the carbon chain structure within Li@DA interacts significantly with lithium ions through electrostatic forces, optimizing the lithium ion transport pathways. This three-dimensional nanostructured buffer layer enables the Li@DA anode to exhibit excellent cycling and rate performance, making it a promising candidate for high-performance lithium metal batteries.</p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>(a) Cycling performance of bare Li&#x02016;LFP and Li@DA&#x02016;LFP cells at a 2C rate. (b) The charge&#x02013;discharge profiles of cells at 2C after cycling of Li@DA. (c) Cycling performance of bare Li&#x02016;LFP and Li@DA&#x02016;LFP cells at different rates. The charge&#x02013;discharge profiles at different rates: (d) bare Li&#x02016;LFP; (e) Li@DA&#x02016;LFP.</title></caption><graphic xlink:href="d5sc01994j-f5" position="float"/></fig></sec><sec><title>Conclusions</title><p>In summary, a lithium metal anode material with a three-dimensional nanostructured interface was successfully prepared through interfacial modification engineering. This interface layer, composed of lithium stearate crosslinked by flexible molecular chains and lithiophilic soap fibers, forms a highly entangled, strong, and flexible three-dimensional porous structure. By mechanically rolling the composite lithium soap fibers onto the lithium metal surface, the strong electrostatic interaction between the terminal RCOO<sup>&#x02212;</sup> groups of the fibers and Li<sup>+</sup> ions attracts Li<sup>+</sup> into the three-dimensional matrix, constructing a lithiophilic protective layer at the micron and nanoscale. This enhances the stability of the SEI layer and the Li<sup>+</sup> transport rate. The large specific surface area and abundant pores provide more reaction sites for lithium deposition and stripping. The unique mesh-like molecular structure, with its high liquid transport performance, regulates the distribution of the electrolyte and homogenizes the lithium ion flux, thereby stabilizing the electrode structure and providing more reaction sites for lithium deposition and stripping. The Li@DA symmetrical cell demonstrated an impressive long-term cycling performance of over 6800 hours. When paired with LFP in a full cell, Li@DA showed a high capacity retention of 92.04% after 530 cycles at a 2C rate with a high loading of 12 mg cm<sup>&#x02212;2</sup>. The three-dimensional nanostructured composite lithium soap fiber interfacial layer developed in this study offers a new strategy for high-performance lithium metal anodes and holds great potential for application in high-energy-density battery systems.</p></sec><sec sec-type="data-availability"><title>Data availability</title><p>The data supporting this article have been included as part of the ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p></sec><sec><title>Author contributions</title><p>Ying Luo: experimental design, data analysis, data processing, thesis writing; Shaozhen Huang: data analysis, data processing; Jiahua Liao: data analysis; Zhibin Wu and Libao Chen: project conceptualization, data analysis, financial support, scientific discussion.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>The authors declare no conflicts of interest. They have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D5SC01994J-s001" position="float" content-type="local-data"><label>SC-016-D5SC01994J-s001</label><media xlink:href="SC-016-D5SC01994J-s001.pdf" id="d67e702" position="anchor"/></supplementary-material></sec></body><back><ack><p>This research was financially supported by the Natural Science Foundation of Hunan Province (2024JJ4058), the National Natural Science Foundation of China (U24A20501 and 52471166) and the Innovation-Driven Project of Central South University (1053320230998).</p></ack><ref-list><title>References</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>B. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chu</surname><given-names>W. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>R. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>D. G.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2018</year><volume>30</volume><fpage>5</fpage></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Andreas</surname><given-names>N. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>R. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>C. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X. L.</given-names></name>
+</person-group><source>Energy Storage Mater.</source><year>2022</year><volume>48</volume><fpage>44</fpage><lpage>73</lpage></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qi</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>You</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rao</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><source>Energy Storage Mater.</source><year>2025</year><volume>75</volume><fpage>104012</fpage><pub-id pub-id-type="doi">10.1016/j.ensm.2025.104012</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Long</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Naren</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qing</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><source>Nano-Micro Lett.</source><year>2023</year><volume>15</volume><fpage>235</fpage></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>W. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Salvatierra</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luong</surname><given-names>D. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Beckham</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>V. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>La</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>J. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tour</surname><given-names>J. M.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2022</year><volume>34</volume><fpage>12</fpage></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Long</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2025</year><volume>16</volume><fpage>3571</fpage><lpage>3579</lpage><pub-id pub-id-type="pmid">39867951</pub-id>
+</element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shang</surname><given-names>X. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhi</surname><given-names>L. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>M. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z. T.</given-names></name>
+</person-group><source>Adv. Energy Mater.</source><year>2024</year><fpage>2405284</fpage></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Long</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qing</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+</person-group><source>Energy Storage Mater.</source><year>2023</year><volume>58</volume><fpage>142</fpage><lpage>154</lpage></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>N.</given-names></name>
+</person-group><source>Angew. Chem. Int. Ed.</source><year>2024</year><volume>136</volume><fpage>e202319355</fpage></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>M.</given-names></name>
+</person-group><source>Prog. Org. Coat.</source><year>2022</year><volume>163</volume><fpage>106604</fpage><pub-id pub-id-type="doi">10.1016/j.porgcoat.2021.106604</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>G.</given-names></name>
+</person-group><source>Tribol. Int.</source><year>2022</year><volume>175</volume><fpage>107826</fpage></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><source>RSC Adv.</source><year>2015</year><volume>5</volume><fpage>54202</fpage><lpage>54210</lpage><pub-id pub-id-type="doi">10.1039/C5RA07813J</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zeng</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>H. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ruan</surname><given-names>W. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>T. S.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2019</year><volume>10</volume><fpage>3249</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-11168-y</pub-id><?supplied-pmid 31324784?><pub-id pub-id-type="pmid">31324784</pub-id>
+</element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>G.</given-names></name>
+</person-group><source>Chem. Eng. J.</source><year>2022</year><volume>430</volume><fpage>132865</fpage></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>K. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>G. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X. B.</given-names></name>
+</person-group><source>Tribol. Lett.</source><year>2021</year><volume>69</volume><fpage>166</fpage><pub-id pub-id-type="doi">10.1007/s11249-021-01521-y</pub-id></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jing</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lei</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hao</surname><given-names>Q.</given-names></name>
+</person-group><source>Chem. Eng. J.</source><year>2025</year><volume>503</volume><fpage>158640</fpage></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><source>J. Ind. Eng. Chem.</source><year>2017</year><volume>46</volume><fpage>157</fpage><lpage>164</lpage></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>Y.</given-names></name>
+</person-group><source>J. Ind. Eng. Chem.</source><year>2022</year><volume>111</volume><fpage>51</fpage><lpage>63</lpage></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Biswal</surname><given-names>B. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Addicoat</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Paasch</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sheng</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhuang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brunner</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Heine</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Berger</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>X.</given-names></name>
+</person-group><source>Angew. Chem. Int. Ed.</source><year>2019</year><volume>58</volume><fpage>849</fpage><lpage>853</lpage></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Long</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qing</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ling</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><source>Sci. China Mater.</source><year>2023</year><volume>66</volume><fpage>4349</fpage><lpage>4356</lpage><pub-id pub-id-type="doi">10.1007/s40843-023-2575-3</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yoo</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Banerjee</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dutta</surname><given-names>P.</given-names></name>
+</person-group><source>J. Power Sources</source><year>2014</year><volume>258</volume><fpage>340</fpage><lpage>350</lpage></element-citation></ref></ref-list></back></article>

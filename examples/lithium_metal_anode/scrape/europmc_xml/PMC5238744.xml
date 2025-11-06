@@ -1,0 +1,1848 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5238744</article-id><article-id pub-id-type="doi">10.1002/advs.201600168</article-id><article-id pub-id-type="publisher-id">ADVS188</article-id><article-categories><subj-group subj-group-type="overline"><subject>Progress Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Progress Reports</subject></subj-group></article-categories><title-group><article-title>Towards High&#x02010;Safe Lithium Metal Anodes: Suppressing Lithium Dendrites via Tuning Surface Energy</article-title></title-group><contrib-group><contrib id="advs188-cr-0001" contrib-type="author"><name><surname>Wang</surname><given-names>Dong</given-names></name><xref ref-type="aff" rid="advs188-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs188-cr-0002" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Wei</given-names></name><address><email>weizhang@jlu.edu.cn</email><email>wzhang@cicenergigune.com</email></address><xref ref-type="aff" rid="advs188-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs188-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs188-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="bio" rid="advs188-biog-0001">*</xref></contrib><contrib id="advs188-cr-0003" contrib-type="author" corresp="yes"><name><surname>Zheng</surname><given-names>Weitao</given-names></name><address><email>wtzheng@jlu.edu.cn</email></address><xref ref-type="aff" rid="advs188-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="bio" rid="advs188-biog-0002">*</xref></contrib><contrib id="advs188-cr-0004" contrib-type="author"><name><surname>Cui</surname><given-names>Xiaoqiang</given-names></name><xref ref-type="aff" rid="advs188-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs188-cr-0005" contrib-type="author"><name><surname>Rojo</surname><given-names>Te&#x000f3;filo</given-names></name><xref ref-type="aff" rid="advs188-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="advs188-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs188-cr-0006" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Qiang</given-names></name><address><email>zhang-qiang@mails.tsinghua.edu.cn</email></address><xref ref-type="aff" rid="advs188-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="bio" rid="advs188-biog-0003">*</xref></contrib></contrib-group><aff id="advs188-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Materials Science</named-content><named-content content-type="organisation-division">Key Laboratory of Mobile Materials MOE</named-content><named-content content-type="organisation-division">State Key Laboratory of Superhard Materials</named-content><institution>Jilin University</institution><named-content content-type="city">Changchun</named-content><named-content content-type="post-code">130012</named-content><country country="CN">China</country></aff><aff id="advs188-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Ikerbasque</named-content><institution>Basque Foundation for Science</institution><named-content content-type="city">Bilbao</named-content><named-content content-type="post-code">48011</named-content><country country="ES">Spain</country></aff><aff id="advs188-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">CIC Energigune</named-content><institution>Parque Tecnol&#x000f3;gico de &#x000c1;lava</institution><named-content content-type="city">Mi&#x000f1;ano</named-content><named-content content-type="post-code">01510</named-content><country country="ES">Spain</country></aff><aff id="advs188-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Departamento de Qu&#x000ed;mica Inorg&#x000e1;nica</named-content><named-content content-type="organisation-division">Universidad del Pa&#x000ed;s Vasco</named-content><institution>UPV/EHU, Bilbao</institution><named-content content-type="post-code">48080</named-content><country country="ES">Spain</country></aff><aff id="advs188-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Beijing Key Laboratory of Green Chemical Reaction Engineering and Technology</named-content><named-content content-type="organisation-division">Department of Chemical Engineering</named-content><institution>Tsinghua University</institution><named-content content-type="city">Beijing</named-content><named-content content-type="post-code">100084</named-content><country country="CN">China</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>weizhang@jlu.edu.cn</email>, <email>wzhang@cicenergigune.com</email>, <email>wtzheng@jlu.edu.cn</email>, <email>zhang-qiang@mails.tsinghua.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>7</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2017</year></pub-date><volume>4</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/advs.v4.1</issue-id><elocation-id>1600168</elocation-id><history><date date-type="received"><day>02</day><month>5</month><year>2016</year></date><date date-type="rev-recd"><day>07</day><month>6</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-4-0.pdf"/><abstract><p>The formation of lithium dendrites induces the notorious safety issue and poor cycling life of energy storage devices, such as lithium&#x02013;sulfur and lithium&#x02013;air batteries. We propose a surface energy model to describe the complex interface between the lithium anode and electrolyte. A universal strategy of hindering formation of lithium dendrites via tuning surface energy of the relevant thin film growth is suggested. The merit of the novel motif lies not only fundamentally a perfect correlation between electrochemistry and thin film fields, but also significantly promotes larger&#x02010;scale application of lithium&#x02013;sulfur and lithium&#x02013;air batteries, as well as other metal batteries (e.g., Zn, Na, K, Cu, Ag, and Sn).</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs188-kwd-0001">batteries</kwd><kwd id="advs188-kwd-0002">energy storage</kwd><kwd id="advs188-kwd-0003">Li&#x02010;metal anodes</kwd><kwd id="advs188-kwd-0004">lithium dendrites</kwd><kwd id="advs188-kwd-0005">surface energy</kwd></kwd-group><funding-group><award-group><funding-source>Natural Scientific Foundation of China</funding-source><award-id>51372095</award-id><award-id>21422604</award-id></award-group></funding-group><funding-group><award-group><funding-source>Special Funding for Academic Leader</funding-source><award-id>419080500273</award-id></award-group></funding-group><counts><fig-count count="11"/><table-count count="2"/><page-count count="11"/><word-count count="6648"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs188</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.1 mode:remove_FC converted:16.01.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs201600168-cit-0109">
+<string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.T.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojo</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <elocation-id>1600168</elocation-id>.</mixed-citation>
+</p></notes></front><body><sec id="advs188-sec-0010"><label>1</label><title>Introduction</title><p>The last century has witnessed the soaring development of Li primary batteries (<bold>Figure</bold>
+<xref rid="advs188-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>). The concept of Li second battery was initialized in 1962.<xref rid="advs188-bib-0001" ref-type="ref">1</xref> However, the notorious safety issue of Li metal retards its worldwide commercialization. Since the rechargeable Li&#x02010;ion batteries with graphite anodes were announced in the early 1990s,<xref rid="advs188-bib-0002" ref-type="ref">2</xref> great success has been achieved for portable devices and electric vehicles. However, the demand in energy density is increasing. Exploring portable energy storage devices with high energy density is strongly considered. Both Li&#x02013;S batteries<xref rid="advs188-bib-0003" ref-type="ref">3</xref> and Li&#x02013;O<sub>2</sub> batteries are believed as the next&#x02010;generation energy storage systems with ultrahigh energy density.<xref rid="advs188-bib-0004" ref-type="ref">4</xref> Li metal anode is employed in these emerging systems. Aimed at an energy capacity beyond the practical 500 Wh/kg, the Li&#x02013;S battery has attracted wide interests. In spite of rapid development in sulfur cathode, Li metal anode remains a main challenge for bulk application.<xref rid="advs188-bib-0005" ref-type="ref">5</xref> Recently, more importance has been attached to the protection of Li metal anode, as summarized in <bold>Table</bold>
+<xref rid="advs188-tbl-0001" ref-type="table-wrap">
+<bold>1</bold>
+</xref>.</p><fig fig-type="Figure" xml:lang="en" id="advs188-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Selected major events of anode in lithium battery from 1955 to 2016. The red imaginary point block diagram represents Li&#x02010;metal&#x02010;free anode. Sanyo Co., Exxon Co. and Sony Co., referenced in Ref. <xref rid="advs188-bib-0048" ref-type="ref">48</xref> Reproduced with permission.<xref rid="advs188-bib-0048" ref-type="ref">48</xref> Copyright 2004, American Chemical Society. The illustrated box color corresponds to the anode types: Li metal in red; carbon in cyan; metal oxide in blue; silicon in purple; the composite intercalation compound material in green. Idota, tin&#x02010;based composite oxide. Reproduced with permission.<xref rid="advs188-bib-0049" ref-type="ref">49</xref> Copyright 1997, American Association for the Advancement of Science. Chang, MCBC (mesophase carbon micro beads) Reproduced with permission.<xref rid="advs188-bib-0050" ref-type="ref">50</xref> Copyright 1997, Elsevier. Poizot, nano&#x02010;size CoO. Reproduced with permission.<xref rid="advs188-bib-0051" ref-type="ref">51</xref> Copyright 2000, Nature Publishing Group. Taberna, Fe<sub>3</sub>O<sub>4</sub>&#x02010;based Cu nano&#x02010;architectured electrodes. Reproduced with permission.<xref rid="advs188-bib-0052" ref-type="ref">52</xref> Copyright 2006, Nature Publishing Group. Chan, silicon nanowires. Reproduced with permission.<xref rid="advs188-bib-0053" ref-type="ref">53</xref> Copyright 2008, Nature Publishing Group. Zhang, CNT@SnO<sub>2</sub>, Reproduced with permission.<xref rid="advs188-bib-0054" ref-type="ref">54</xref> Yang, graphene@Co<sub>3</sub>O<sub>4</sub>, Reproduced with permission.<xref rid="advs188-bib-0055" ref-type="ref">55</xref> Magasinski, C&#x02013;Si nanocomposite, Reproduced with permission.<xref rid="advs188-bib-0056" ref-type="ref">56</xref> Copyright 2010, Nature Publishing Group. Wu, doped graphene sheets. Reproduced with permission.<xref rid="advs188-bib-0057" ref-type="ref">57</xref> Copyright 2011, American Chemical Society. Armstrong, Li<sub>1+</sub>
+<italic><sub>x</sub></italic>V<sub>1&#x02013;</sub>
+<italic><sub>x</sub></italic>O<sub>2</sub>. Reproduced with permission.<xref rid="advs188-bib-0058" ref-type="ref">58</xref> Copyright 2011, Nature Publishing Group. Wu, double&#x02010;walled silicon nanotube, Reproduced with permission.<xref rid="advs188-bib-0059" ref-type="ref">59</xref> Copyright 2012, Nature Publishing Group. Ji, Li metal on carbon&#x02010;fiber papers. Reproduced with permission.<xref rid="advs188-bib-0060" ref-type="ref">60</xref> Copyright 2012, Elsevier. Qie, Nitrogen&#x02010;doped porous carbon nanofiber webs. Reproduced with permission.<xref rid="advs188-bib-0061" ref-type="ref">61</xref> Liu, silicon nanoparticles. Reproduced with permission.[[qv: 46b]] Copyright 2014, Nature Publishing Group. Lu, LiF cluster on Li foil. Reproduced with permission.[[qv: 14b]] Copyright 2014, Nature Publishing Group. Zhang, Li deposition in Cs<sup>+</sup>&#x02010;containing electrolyte. Reproduced with permission.<xref rid="advs188-bib-0027" ref-type="ref">27</xref> Copyright 2014, American Chemical Society. Zheng, interconnected hollow carbon nanospheres. Reproduced with permission.[[qv: 18a]] Copyright 2014, Nature Publishing Group. Yang, 3D porous Cu foil. Reproduced with permission.<xref rid="advs188-bib-0044" ref-type="ref">44</xref> Copyright 2015, Nature Publishing Group. Hu, a SolidEnergy prototype battery with ultra&#x02010;thin Li metal anode. Reproduced with permission.<xref rid="advs188-bib-0062" ref-type="ref">62</xref> Copyright 2015, Nature Publishing Group. Li, conformal graphene cages on micrometre&#x02010;sized silicon particles. Reproduced with permission.<xref rid="advs188-bib-0063" ref-type="ref">63</xref> Copyright 2016, Nature Publishing Group.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-4-0-g001"/></fig><table-wrap id="advs188-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Timeline of Li metal anode</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Time</th><th align="center" rowspan="1" colspan="1">Milestone</th><th align="center" rowspan="1" colspan="1">Research group</th><th align="center" rowspan="1" colspan="1">Remarks</th><th align="center" rowspan="1" colspan="1">Refs.</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1910&#x0223c;1920</td><td align="center" rowspan="1" colspan="1">The initial study of lithium battery</td><td align="center" rowspan="1" colspan="1">Lewis</td><td align="center" rowspan="1" colspan="1">Li metal as electrode</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0068" ref-type="ref">68</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1962</td><td align="center" rowspan="1" colspan="1">The rising Li secondary battery</td><td align="center" rowspan="1" colspan="1">Whittingham</td><td align="center" rowspan="1" colspan="1">Li secondary battery in non&#x02010;aqueous solution</td><td align="center" rowspan="1" colspan="1">[[qv: 1a]]</td></tr><tr><td align="left" rowspan="1" colspan="1">1970s</td><td align="center" rowspan="1" colspan="1">First commercialization of Li metal battery</td><td align="center" rowspan="1" colspan="1">Sanyo Co.</td><td align="center" rowspan="1" colspan="1">Lithium primary battery</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0048" ref-type="ref">48</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1976</td><td align="center" rowspan="1" colspan="1">Discovery of Li ions embed into the carbon</td><td align="center" rowspan="1" colspan="1">Besenhard Agarwal</td><td align="center" rowspan="1" colspan="1">Li metal anode neglected gradually in secondary battery</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0069" ref-type="ref">69</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1983</td><td align="center" rowspan="1" colspan="1">The development of cathode materials for Li&#x02010;ion battery</td><td align="center" rowspan="1" colspan="1">Goodenough</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0070" ref-type="ref">70</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1991</td><td align="center" rowspan="1" colspan="1">First commercialization of Li ion battery</td><td align="center" rowspan="1" colspan="1">Sony Co.</td><td align="center" rowspan="1" colspan="1">Li metal free anode emerged</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0048" ref-type="ref">48</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2000&#x0223c;2010</td><td align="center" rowspan="1" colspan="1">Searching for high energy density battery</td><td align="center" rowspan="1" colspan="1">Dudney SionPower Co. PolyPlus Co.</td><td align="center" rowspan="1" colspan="1">The efforts to solve the problem of Li metal anode</td><td align="center" rowspan="1" colspan="1">[[qv: 19b,20,23,71]]</td></tr><tr><td align="left" rowspan="1" colspan="1">2009</td><td align="center" rowspan="1" colspan="1">The re&#x02010;emerging Li&#x02010;S battery attention</td><td align="center" rowspan="1" colspan="1">Nazar</td><td align="center" rowspan="1" colspan="1">The interest of Li metal anode was refueled</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0003" ref-type="ref">3</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2012</td><td align="center" rowspan="1" colspan="1">Carbon&#x02010;fiber papers as surface dendrite&#x02010;free current collector for lithium deposition</td><td align="center" rowspan="1" colspan="1">Stucky</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0060" ref-type="ref">60</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2013</td><td align="center" rowspan="1" colspan="1">Dendrite&#x02010;free lithium deposition <italic>via</italic> self&#x02010;healing electrostatic shield model</td><td align="center" rowspan="1" colspan="1">Zhang</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0012" ref-type="ref">12</xref>, <xref rid="advs188-bib-0027" ref-type="ref">27</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2013</td><td align="center" rowspan="1" colspan="1">Solvent&#x02010;in&#x02010;Salt electrolyte</td><td align="center" rowspan="1" colspan="1">Hu</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">[75]</td></tr><tr><td align="left" rowspan="1" colspan="1">2014</td><td align="center" rowspan="1" colspan="1">Protecting Li anode though SEI film</td><td align="center" rowspan="1" colspan="1">Archer</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">[[qv: 14b,72]]</td></tr><tr><td align="left" rowspan="1" colspan="1">2014</td><td align="center" rowspan="1" colspan="1">Protecting Li anode though film deposition</td><td align="center" rowspan="1" colspan="1">Cui</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0018" ref-type="ref">18</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2014</td><td align="center" rowspan="1" colspan="1">Li anode protection though</td><td align="center" rowspan="1" colspan="1">Wen</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0025" ref-type="ref">25</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">LiN<sub>3</sub> SEI layer coating</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">2015&#x02013;2016</td><td align="center" rowspan="1" colspan="1">Li metal protection though 3D graphene and oxide electrolyte</td><td align="center" rowspan="1" colspan="1">Zhang</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">[[qv: 10a,14a,26a]]</td></tr><tr><td align="left" rowspan="1" colspan="1">2015&#x02013;2016</td><td align="center" rowspan="1" colspan="1">Protecting Li anode through 3D Cu current collector or Li<sub>3</sub>PO<sub>4</sub> SEI layer coating</td><td align="center" rowspan="1" colspan="1">Guo</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">[[qv: 26b,44]]</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Among various rechargeable batteries with high energy density and long cycle life, both Li&#x02013;S and Li&#x02013;O<sub>2</sub> batteries are strongly considered, ascribed to the large theoretical specific energy densities (&#x02248;2600 and &#x02248;11400 Wh kg<sup>&#x02013;1</sup> for Li&#x02013;S and Li&#x02013;O<sub>2</sub> batteries, respectively), with an order of magnitude higher than that of Li&#x02010;ion battery (e.g., &#x02248;360 Wh kg<sup>&#x02013;1</sup> for LiCo<sub>2</sub>O<sub>4</sub>/C). The Li metal renders an extremely high theoretical specific capacity (3860 mA hg<sup>&#x02013;1</sup>), a very low negative redox potential (&#x02010;3.040V vs standard hydrogen electrode), and a low density (0.59 g cm<sup>&#x02013;3</sup>). Unfortunately, there are still two important issues to be addressed: on one hand, the breaking of the formed Li dendrites (<bold>Figure</bold>
+<xref rid="advs188-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>b) induces the so&#x02010;called &#x0201c;dead Li&#x0201d; (rarely contributing to the battery capacity); on the other hand, the continuous consumption of the electrolyte resulted from the high reactivity of fresh Li surface. In addition, the explosion of Li metal anode, originated from short circuit associated with Li dendrites, also raises a risk to Li metal battery. Therefore, it is critical to overcome these technological challenges of Li metal anodes in order to unlock the full potential in achieving the theoretical performance of Li metal batteries.<xref rid="advs188-bib-0006" ref-type="ref">6</xref> One of the essential central issues is to probe an accurate and universal understanding of the formation mechanism and blocking strategy of Li dendrites. Meanwhile, there are more scientific issues to be considered for the whole working battery. For instance, although polysulfides diffused from the sulfur cathode has been evidenced that it can sustain the Li dendrite growth in a Li&#x02013;S cell,<xref rid="advs188-bib-0007" ref-type="ref">7</xref> more other severe electrochemical challenges (including Li anode protection at high current densities) are triggered (Figure <xref rid="advs188-fig-0002" ref-type="fig">2</xref>a).<xref rid="advs188-bib-0008" ref-type="ref">8</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs188-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Schematic diagram of a) Li&#x02013;S batteries with Li metal as anode; b) the typical morphology of Li dendrites and the main issues related to the dendrites (see Crowther and West, Reproduced with permission.[[qv: 21a]] Copyright 2008, The Electrochemical Society..</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-4-0-g002"/></fig><p>This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</p></sec><sec id="advs188-sec-0020"><label>2</label><title>Models and Mechanism of Li Dendrites</title><p>Several theoretical models have been proposed to describe formation and growth behaviors of Li dendrites, including phase&#x02010;field model,<xref rid="advs188-bib-0009" ref-type="ref">9</xref> solid electrolyte interphase (SEI) model,<xref rid="advs188-bib-0010" ref-type="ref">10</xref> deposition/dissolution model,<xref rid="advs188-bib-0011" ref-type="ref">11</xref> and charge induced growth model.<xref rid="advs188-bib-0012" ref-type="ref">12</xref> As shown in <bold>Table</bold>
+<xref rid="advs188-tbl-0002" ref-type="table-wrap">
+<bold>2</bold>
+</xref>, several aspects can be clarified. These models are catalogued into the following two basic modes (rooted from which phase&#x02010;field model is a mathematical simulation calculation) from a point view of the dendrite formation.
+<list list-type="simple"><list-item><p>1) Models in thermodynamics mode, that is, deposition/dissolution model<xref rid="advs188-bib-0011" ref-type="ref">11</xref>
+</p></list-item></list>
+<list list-type="simple"><list-item><label>a)</label><p>Li metal is deposited beneath the SEI film.</p></list-item><list-item><label>b)</label><p>Supplied with an external power, Li ions in the electrolyte transport to Li metal surface through the protective SEI film. The deposition sites on the protective film exhibit a higher Li<sup>+</sup> conductivity. As a result, crystal defects and grain boundaries in the SEI initiate the continuous deposition of Li.</p></list-item><list-item><label>c)</label><p>The mechanical stress within the Li metal anode induces an asymmetrical deposition of Li, resulting in the formation of Li dendrites.</p></list-item></list>
+</p><table-wrap id="advs188-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Various models for Li dendrite/protection</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Models</th><th align="center" rowspan="1" colspan="1">Mechanisms</th><th align="center" rowspan="1" colspan="1">Merit</th><th align="center" rowspan="1" colspan="1">Refs.</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Phase&#x02010;field model</td><td align="center" rowspan="1" colspan="1">Mathematics model for Li dendrite</td><td align="center" rowspan="1" colspan="1">Wide application for calculation of the key events of kinetics</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0009" ref-type="ref">9</xref>, <xref rid="advs188-bib-0073" ref-type="ref">73</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">SEI model</td><td align="center" rowspan="1" colspan="1">Electrochemistry model for Li protection</td><td align="center" rowspan="1" colspan="1">Widely accepted in efforts to form a matching SEI film in order to protect Li</td><td align="center" rowspan="1" colspan="1">[[qv: 10b,14b,18,20,22,24,25,37b,46a,74]]</td></tr><tr><td align="left" rowspan="1" colspan="1">Charge&#x02010;based model</td><td align="center" rowspan="1" colspan="1">Electrochemistry model for Li protection/dendrite</td><td align="center" rowspan="1" colspan="1">Application leading to Li dendrite free cases</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0012" ref-type="ref">12</xref>, <xref rid="advs188-bib-0027" ref-type="ref">27</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Deposition and dissolution model</td><td align="center" rowspan="1" colspan="1">Thermodynamics model for Li dendrite</td><td align="center" rowspan="1" colspan="1">Well accepted to understand the Li dendrite behaviors</td><td align="center" rowspan="1" colspan="1">
+<xref rid="advs188-bib-0011" ref-type="ref">11</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Film growth model</td><td align="center" rowspan="1" colspan="1">Thermodynamics model for Li dendrite/Li protection</td><td align="center" rowspan="1" colspan="1">Inspired by growth behaviors of special nanocarbon forms to reinvent our understanding of the dendrite issues</td><td align="center" rowspan="1" colspan="1">This work</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Supposing that lithium dendrite stems from the mechanical stress, the following Laplace's Equation <xref rid="advs188-disp-0001" ref-type="disp-formula">(1)</xref> applies in this model based on the droplet theory of homogeneous nucleation, to be detailed in Section <xref rid="advs188-sec-0040" ref-type="sec">4</xref>: <disp-formula id="advs188-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mrow><mml:mi>&#x00394;</mml:mi><mml:mi>P</mml:mi><mml:mo>=</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mi mathvariant="normal">/</mml:mi><mml:msub><mml:mi>R</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>1</mml:mn><mml:mi mathvariant="normal">/</mml:mi><mml:msub><mml:mi>R</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></disp-formula>where &#x00394;<italic>P</italic> is the pressure difference of the surface, &#x003b3; is the surface tension on a lithium surface, and <italic>R</italic>
+<sub>1</sub> and <italic>R</italic>
+<sub>2</sub> are any two orthogonal direction radius of the surface curvature. Yamaki et al. set out the dendrites form because of the surface tension effects, and proposed that the surface tension of protective film must be higher than 0.2 Nm<sup>&#x02013;1</sup> by simulation.<xref rid="advs188-bib-0011" ref-type="ref">11</xref> On the base of this model, a substantial film coating on Li metal can block the Li dendrite obviously.<list list-type="simple"><list-item><label>2)</label><p>
+Charge induced growth model<xref rid="advs188-bib-0012" ref-type="ref">12</xref> (one of the electrochemistry models)</p></list-item></list>
+</p><p>Li dendrite growth is considered the adoption of one dimensional nanostructures growth by electrodeposition.<xref rid="advs188-bib-0013" ref-type="ref">13</xref> Through applying the charge induced growth model, as the Li ions are deposited in combination with the surface charge, the inhomogeneous charge distribution leads to the Li dendrite. This model is on the basis of the Nernst Equation <xref rid="advs188-disp-0002" ref-type="disp-formula">(2)</xref>: <disp-formula id="advs188-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mrow><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mi mathvariant="normal">Red</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:msubsup><mml:mi>E</mml:mi><mml:mrow><mml:mi mathvariant="normal">Red</mml:mi></mml:mrow><mml:mi>&#x003d5;</mml:mi></mml:msubsup><mml:mo>&#x02212;</mml:mo><mml:mfrac><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>F</mml:mi></mml:mrow></mml:mfrac><mml:mi>ln</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">Red</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">O</mml:mi><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>where <italic>E</italic>
+<sub>Red</sub> is a reduction potential (<mml:math id="nlm-math-3"><mml:mrow><mml:msubsup><mml:mi>E</mml:mi><mml:mrow><mml:mi mathvariant="normal">Red</mml:mi></mml:mrow><mml:mi>&#x003d5;</mml:mi></mml:msubsup></mml:mrow></mml:math> is the standard reduction potential), <italic>R</italic> is the universal gas constant (8.31 J K<sup>&#x02013;1</sup> mol<sup>&#x02013;1</sup>), <italic>T</italic> is the absolute temperature, <italic>&#x003b1;</italic> is the chemical activity for the relevant species (<italic>&#x003b1;</italic>
+<sub>Red</sub> is for the reductant and <italic>&#x003b1;</italic>
+<sub>Ox</sub> is for the oxidant), <italic>F</italic> is the Faraday constant (9.65 &#x000d7; 10<sup>4</sup> C mol<sup>&#x02013;1</sup>), and <italic>n</italic> is the number of transferred electrons. On the basis of this model, another metal cation (M<sup>+</sup>) may have an effective reduced potential lower than that of Li<sup>+</sup> if M<sup>+</sup> has a chemical activity &#x003b1; lower than that of Li<sup>+</sup>. Consequently, it indicates that the electrolyte additive cation should have an effective reduction potential lower than that of Li ion. Although this model does not unravel the dendrite origin, it provides a roadmap to a self&#x02010;healing electrostatic shield to make the dendrite free. <list list-type="simple"><list-item><label>3)</label><p>
+Models in kinetics mode, e.g., SEI model (one of the electrochemistry models)<xref rid="advs188-bib-0014" ref-type="ref">14</xref>
+</p></list-item></list>
+</p><p>The composition of SEI model is highly dependent on the voltage and history, correlated closely with the thermodynamics mode mentioned above. For instance, by applying SEI model on the basis of the thermodynamics mode, the way for protecting Li anode lies in that we should find a high&#x02010;modulus electrolyte.[[qv: 14b]] The kinetics mode, however, can be also intermediated, although the linkage is usually underestimated.</p><p>Several kinetics models have been proposed to describe the Li dendrite formation. The occurrence of Li ions near the Li metal anode results from the charge at a high current density, as well as the drain of Li salt anions in Sand's time.<xref rid="advs188-bib-0015" ref-type="ref">15</xref> As a consequence, the lack of Li<sup>+</sup> layer, coupled with the local space charge layer, is regarded as the main reason for the formation of Li dendrite. Together with many efforts made for this theory based on kinetics<xref rid="advs188-bib-0016" ref-type="ref">16</xref> aspects of Li dendrites, Chazalviel<xref rid="advs188-bib-0015" ref-type="ref">15</xref>, <xref rid="advs188-bib-0017" ref-type="ref">17</xref> proposed the widely accepted diffusion model (Equation <xref rid="advs188-disp-0003" ref-type="disp-formula">(3)</xref>) to correlate the &#x0201c;Sand's time&#x0201d; <italic>&#x003c4;</italic> with the transfer nature of Li<sup>+</sup> ions and electrons empirically as follows,<disp-formula id="advs188-disp-0003"><label>(3)</label><mml:math id="nlm-math-4"><mml:mrow><mml:mi>&#x003c4;</mml:mi><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:mo>=</mml:mo><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:mi>&#x003c0;</mml:mi><mml:mi>D</mml:mi><mml:mfrac><mml:mrow><mml:mi>e</mml:mi><mml:msub><mml:mi>C</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mi mathvariant="normal">a</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:mi>J</mml:mi><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mi mathvariant="normal">a</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>where <italic>&#x003c4;</italic> is the initial time of Li dendrites growth, <italic>C</italic>
+<sub>0</sub> is the initial concentration of Li salt, <italic>D</italic> is the diffusion coefficient, <italic>e</italic> is the electronic charge, and <italic>J</italic> is the effective electrode current density. <italic>&#x003bc;</italic>
+<sub>a</sub> and <mml:math id="nlm-math-5"><mml:mrow><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math> are the mobilities of anionic and Li<sup>+</sup>, respectively. Hence the SEI region can be also treated as a kinetics&#x02010;controlling area, on the condition that the SEI film locates within the thermodynamic stability. It is well accepted that a suitable SEI film is obtained to suppress the dendrite by affecting <mml:math id="nlm-math-6"><mml:mrow><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math> in governing the Sand's time (<italic>&#x003c4;</italic>). Meanwhile, the effective electrode current density (<italic>J</italic>) is correlated with the transport of electrons, leading to dendrite&#x02010;free anodes. This theory model can largely strengthen our understanding of the Li dendrite mechanism, which enables a long&#x02010;life and safe Li anode through the application of SEI film regulation[[qv: 10c]] or an ultralow current density.[[qv: 14a]]</p><p>Although the merit of various models have been revealed the formation of Li dendrites, and they are complementary with each other, it is necessary to establish a general model in unraveling the thermodynamic and kinetic aspects of Li dendrites. In fact, the substrate (Li or other materials) and the SEI region (considered from Chazalviel theory) depend partially on the thermodynamics and kinetics factors during the plating, respectively. Herein we describe a film growth model in order to provide fresh insight into the Li dendrite with focusing on the thermodynamics aspect of Li dendrite. Moreover, we demonstrate that it enables an even more thorough understanding of Li dendrites and thereof an effective strategy is established in facilitating Li metal anode protection.</p></sec><sec id="advs188-sec-0030"><label>3</label><title>Exploration for Li Metal Protection</title><p>The soaring progress of Li metal batteries drives scientific communities to renaissance the Li metal protection. The main technological routes have been established (<bold>Figure</bold>
+<xref rid="advs188-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>): <list list-type="simple"><list-item><p>(1) A "hard film" is prepared to block the Li dendrites.<xref rid="advs188-bib-0018" ref-type="ref">18</xref>
+</p></list-item><list-item><p>(2) Li is promoted to react with other materials<xref rid="advs188-bib-0019" ref-type="ref">19</xref> in order to form a targeting "soft film", such as SEI film for the suppression of the Li dendrite growth.</p></list-item><list-item><p>(3) Additives are introduced to electrolyte to postpone/retard the dendrite growth<xref rid="advs188-bib-0020" ref-type="ref">20</xref> or even get a dendrite&#x02010;free Li anode.<xref rid="advs188-bib-0021" ref-type="ref">21</xref>
+</p></list-item><list-item><p>(4) The use of nanostructure to modulate the Li deposition behavior through ultralow current density.[[qv: 14a]]</p></list-item></list>
+</p><fig fig-type="Figure" xml:lang="en" id="advs188-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Schematic diagram of four ways for Li metal protection. From 1st to 4th ways in order, 1) the film of interconnected hollow carbon spheres isolated the Li metal and electrolyte. Reproduced with permission.[[qv: 18a]] Copyright 2014, Nature Publishing Group; 2) SEI film composed by LiF coated Li foil. Reproduced with permission.[[qv: 14b]] Copyright 2014, Nature Publishing Group; 3) the dendrite&#x02010;free Li deposition by Cs<sup>+</sup> addition at 0.1 mAh cm<sup>&#x02013;2</sup> for 15 h. Reproduced with permission.<xref rid="advs188-bib-0027" ref-type="ref">27</xref> Copyright 2014, American Chemical Society; 4) the graphene&#x02010;based conductive nanostructured scaffolds anode leads to a low local current density for Li plating. Reproduced with permission.[[qv: 14a]]</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-4-0-g003"/></fig><p>Although many efforts have been devoted to reduce the Li dendrites, there is a long way for the ultimate solving towards the protection of the Li metal anode. This is particularly critical for cycling of Li metal anode at very high current density. One representative work of &#x0201c;hard film&#x0201d; coating was proposed by Cui's group.[[qv: 18a]] The thin film with high ionic conductivity and high Young's modulus is introduced to the Li anode in order to block the Li dendrites and prevent the Li metal to immediately contact the electrolyte.</p><p>In terms of SEI film, Li salt mixtures offer a thin passivation layer which could suppress the formation of Li dendrites by the Archer's group.[[qv: 14b,22]] However, it is very difficult to form a stable passivation film on Li electrodes,<xref rid="advs188-bib-0023" ref-type="ref">23</xref> due to the thermodynamically unstable of Li metal in organic solvents. Therefore, the continuing target is to search for a matching SEI film[[qv: 10a,24]] or Li salt film.<xref rid="advs188-bib-0020" ref-type="ref">20</xref>, <xref rid="advs188-bib-0025" ref-type="ref">25</xref> Cheng et al.<xref rid="advs188-bib-0026" ref-type="ref">26</xref> propose the efficient use of stable solid electrolyte interphase in a high&#x02010;efficiency battery in order to block the formation of Li dendrites. Alternatively, some additives can be introduced. Zhang and co&#x02010;workers<xref rid="advs188-bib-0027" ref-type="ref">27</xref> reported that a dendrite&#x02010;free lithium deposition was successfully achieved with the self&#x02010;aligned nanorod structure through adding Cs<sup>+</sup>. The consumption of the electrolyte suffer from the immediate contacting between Li anode and electrolyte. An interesting work by Kim and co&#x02010;workers[[qv: 21b]] illustrates that Li dendrites are controlled via a synergistic effect of multilayered graphene coating and an Cs<sup>+</sup> electrolyte additive. The use of nanostructured framework with high surface area and extraordinary conductivity renders a very low local current together with robust SEI in dual&#x02010;salt organic electrolyte afford the smooth and continuous Li deposition without dendrite formation.[[qv: 14a,28]]</p></sec><sec id="advs188-sec-0040"><label>4</label><title>Film Growth Model</title><p>The growth of Li dendrites belong to a typical crystal growth in an organic solution.<xref rid="advs188-bib-0029" ref-type="ref">29</xref> It is well known that the Volbmer&#x02013;Weber mode for growth of polycrystalline films, which comprises the island, network, and channel stages by CVD<xref rid="advs188-bib-0030" ref-type="ref">30</xref> as well as particularly for plasma enhanced chemical vapor deposition (PECVD)<xref rid="advs188-bib-0031" ref-type="ref">31</xref> towards vertically grown materials under the condition of an electric field. As shown in <bold>Figure</bold>
+<xref rid="advs188-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>, since PECVD offers an electric field,<xref rid="advs188-bib-0032" ref-type="ref">32</xref> a vertical film on substrate is achieved from the cooperation of the active species (e.g., the fragment of CH<sub>4</sub> and CH<sub>3</sub>
+<sup>+</sup>) and transition metal catalyst<xref rid="advs188-bib-0033" ref-type="ref">33</xref> (e.g., Fe, Co, Ni). The resultant products can be the vertical carbon nanotubes (Figure <xref rid="advs188-fig-0004" ref-type="fig">4</xref>), vertical graphene sheet (Figure <xref rid="advs188-fig-0004" ref-type="fig">4</xref>). Inspired by the PECVD advantages, in analogy to the aforementioned process, the active species (Li<sup>+</sup>) and catalyst (the charge accumulation area), under the external electric field, work together, leading to the formation of Li dendrites (Figure <xref rid="advs188-fig-0004" ref-type="fig">4</xref>). The formation and continuous growth of Li dendrites is attributed to the following scenarios: the Li<sup>+</sup> ions near the anode, promoted under the electric filed, induces Li deposition on the anode; as a consequence, an increase of surface energy occurs. We call it the <italic>film growth</italic> model and explore the dendrite issue by applying classical theory of film within a battery system later.</p><fig fig-type="Figure" xml:lang="en" id="advs188-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Schematic illustrations of vertical materials grown by PECVD and the dendrites in Li metal batteries, there are similarities a) in the electric filed (radio frequency electric filed in PECVD, the potential of electric filed in batteries), b) with the active materials, and c) for the final product: 1) carbon nanotubes. Reproduced with permission.<xref rid="advs188-bib-0064" ref-type="ref">64</xref> 2) vertical graphene sheets. Reproduced with permission.<xref rid="advs188-bib-0065" ref-type="ref">65</xref> Copyright 2014, Elsevier; 3) Li dendrites. Reproduced with permission.<xref rid="advs188-bib-0066" ref-type="ref">66</xref> Copyright 2012, Nature Publishing Group.</p></caption><graphic id="nlm-graphic-15" xlink:href="ADVS-4-0-g004"/></fig><p>Our film growth model is to address the Li dendrite issues via the surface energy<xref rid="advs188-bib-0030" ref-type="ref">30</xref>, <xref rid="advs188-bib-0034" ref-type="ref">34</xref> since the latter can be listed as one of the film growth. Based on the well&#x02010;known capillarity of homogeneous nucleation, a solid nucleates from a prior unstable liquid by establishing a solid&#x02013;liquid (s&#x02013;l) interface; in analogue for the droplet theory of homogeneous nucleation (the deposition/dissolution model stem from this theory), a solid nucleates from vapor phase by establishing a solid&#x02013;vapor (s&#x02013;v) interface. These two scenarios are depicted as <bold>Figure</bold>
+<xref rid="advs188-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>A.</p><fig fig-type="Figure" xml:lang="en" id="advs188-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>a) Scheme of basic atomistic nucleation on substrate surface during vapor deposition;<xref rid="advs188-bib-0067" ref-type="ref">67</xref> b) The stability regions of the three&#x02010;film growth modes in coordination of surface energy differences between growing film and growth substrate (vertical)/the lattice misfit (horizontal);<xref rid="advs188-bib-0067" ref-type="ref">67</xref> a,b) redrawn after the reference. c) Scheme of correlation between the extent of Li dendrites and the surface energy difference.</p></caption><graphic id="nlm-graphic-17" xlink:href="ADVS-4-0-g005"/></fig><p>According to the Young's equation, <disp-formula id="advs188-disp-0004"><label>(4)</label><mml:math id="nlm-math-7"><mml:mrow><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:msub><mml:mi>&#x003b3;</mml:mi><mml:mrow><mml:mi>s</mml:mi><mml:mi>v</mml:mi><mml:mi mathvariant="normal">&#x02009;</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:msub><mml:mi>&#x003b3;</mml:mi><mml:mrow><mml:mi>f</mml:mi><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:msub><mml:mi>&#x003b3;</mml:mi><mml:mrow><mml:mi>f</mml:mi><mml:mi>y</mml:mi></mml:mrow></mml:msub><mml:mi>cos</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:math></disp-formula>where <italic>f</italic>, <italic>s</italic>, and <italic>v</italic> denote the film, the substrate and the vapor, respectively. Then <italic>&#x003b3;<sub>sv</sub></italic>, <italic>&#x003b3;<sub>fs</sub></italic>, <italic>&#x003b3;<sub>fv</sub></italic> represent the interface energy between the two phases, <italic>&#x003b8;</italic> is the contact angle. Based on Equation <xref rid="advs188-disp-0004" ref-type="disp-formula">(4)</xref>, it is well accepted that the film growth depends on two main issues: 1) the surface energy difference between the substrate and the film; 2) the lattice misfit between growth substrate and growing film, as shown in Figure <xref rid="advs188-fig-0005" ref-type="fig">5</xref>B.</p><p>As shown in Figure <xref rid="advs188-fig-0005" ref-type="fig">5</xref>C, Li deposition is assumed as homogeneous progress of film growth, therefore, the lattice distortion is neglected. With the intermediation of the electric filed, the fluctuation of the surface energy attributed from the dynamics of SEI film induces the Li film growth towards the island type within the framework of Volmer&#x02010;Weber mode. As shown in <bold>Figure</bold>
+<xref rid="advs188-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>A, there are <italic>m</italic> electrons on the anode surface, subjected to an external power supply <italic>n</italic> (V). Consequently, the electrical potential energy can be expressed as <italic>n</italic> &#x000d7; <italic>m</italic> (eV), where <italic>n</italic> is negative. The surface energy of substrate &#x003b3;<sub>sub</sub> consists of two terms, the surface energy of a deposition film &#x003b3;<sub>Li</sub> and the electrical potential energy. Since &#x003b3;<sub>sub</sub> is less than &#x003b3;<sub>Li</sub>, the Li dendrite is induced if the Li metal is electrodeposited.</p><fig fig-type="Figure" xml:lang="en" id="advs188-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Schematic diagram of Li dendrites a) describes that plenty of charge around the Li anode surface during an external power supply, b) shows the surface topography become rough, ascribed to the change of surface energy during the charging/discharging process).</p></caption><graphic id="nlm-graphic-19" xlink:href="ADVS-4-0-g006"/></fig><p>Figure <xref rid="advs188-fig-0006" ref-type="fig">6</xref>B exhibits that the Li substrate surface is stable. The surface is free of any Li dendrite and therefore has a constant surface energy &#x003b3;<sub>sub</sub>. After several charge/discharge cycling, the initialization of the Li dendrites leads to a large surface energy. Concurrently, &#x003b3;<sub>den</sub> increases. As a result, the substrate becomes rough. The charge/discharge process suffers from the rise of surface energy, which results in the unfavorable low Coulomb efficiency (CE). As expressed by equation <xref rid="advs188-disp-0005" ref-type="disp-formula">(5)</xref>, <disp-formula id="advs188-disp-0005"><label>(5)</label><mml:math id="nlm-math-8"><mml:mrow><mml:msub><mml:mi>&#x003b3;</mml:mi><mml:mrow><mml:mi mathvariant="normal">sub</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi>e</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>&#x003b3;</mml:mi><mml:mrow><mml:mi mathvariant="normal">den</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></disp-formula>where <italic>Q<sub>e</sub></italic> stems from the partial energy of the electric field. The larger <italic>Q<sub>e</sub></italic> becomes, the lower CE changes.</p></sec><sec id="advs188-sec-0050"><label>5</label><title>Roadmaps to Dendrite&#x02010;Free Li Anode through our Model</title><p>Different from the SEI model mentioned above, we suggest two promising routes to suppress the formation of Li dendrites on the basis of our film growth model derived from the Volmer&#x02013;Weber theory.<xref rid="advs188-bib-0035" ref-type="ref">35</xref>
+</p><p>The first direction lies to modulate the surface energy through tuning composition and morphology of Li metal. An excellent Li metal anode is expected through 3D substrates with continuous high surface energy. If <italic>&#x003b3;</italic>
+<sub>sub</sub> increases, the additional barrier is bypassed for the Volmer&#x02013;Weber mode. As a result, the deposited Li surface becomes smooth, which induces a symmetrical charge/discharge cycling and thereof a higher CE. In parallel, more importance has been practically attached to exploration of Li&#x02013;alloy anode, which are involved with the intercalation and de&#x02010;intercalation of Li in Li metal battery,<xref rid="advs188-bib-0036" ref-type="ref">36</xref> LiAl and other Li based alloys.<xref rid="advs188-bib-0037" ref-type="ref">37</xref> However, for even higher Li content alloy,<xref rid="advs188-bib-0038" ref-type="ref">38</xref> there is a positive effect in Li protection for robust cycling. The metal mixture in anode results in an increase of surface energy,<xref rid="advs188-bib-0039" ref-type="ref">39</xref> which promotes a layer growth instead of an island growth. Consequently, the Li dendrite formation is postponed or even completely suppressed.</p><p>In order to avoid the occurrence of potential active sites for Li dendrite nucleates, the Li metal surface should be smooth.<xref rid="advs188-bib-0040" ref-type="ref">40</xref> Recently, both Li powder<xref rid="advs188-bib-0041" ref-type="ref">41</xref> and Li foam<xref rid="advs188-bib-0042" ref-type="ref">42</xref> anode are treated as a positive way to suppress Li dendrite formation, as it is common knowledge that the nanostructured counterpart has a larger surface area and surface energy. This can be well explained by our surface energy scenarios. That is, more importance should be attached to controlling and governing of the substrate in Li deposition, e.g., the Cui's latest work.<xref rid="advs188-bib-0043" ref-type="ref">43</xref> Specifically, Guo's group successfully suppressed Li dendrite<xref rid="advs188-bib-0044" ref-type="ref">44</xref> by applying a 3D current collector, explained by the electric field effect as anode substrate. The use of 3D porous Cu exhibits a high surface energy, and thereof the mechanism is factually explained by the tuning of surface energy and film growth model. Layer&#x02010;by&#x02010;layer growth Li film induces a few dead&#x02010;Li system, resulting in a long&#x02010;life anode, as shown in Figure <xref rid="advs188-fig-0001" ref-type="fig">1</xref>. Modulating the anode surface with high surface energy is the very roadmap to obtain a dendrite&#x02010;free Li metal anode. Very recently, the research work (<bold>Figure</bold>
+<xref rid="advs188-fig-0007" ref-type="fig">
+<bold>7</bold>
+</xref>a) of surface&#x02010;modified three&#x02010;dimensional (3D) substrate with a &#x0201c;lithiophilic&#x0201d; coating,[[qv: 43a]] presents a novel strategy for the fabrication of metal&#x02013;scaffold composite. Specifically, the resultant material was employed as anodes in Li metal batteries, exhibiting superior performance compared with bare lithium metal anodes. On the basis of our model, the surface energy (in J cm<sup>&#x02013;2</sup> or eV cm<sup>&#x02013;2</sup> for the surface perpendicular to the electric field during the Li plating) of 3D substrate yields a continuous surface state, as shown in Figure <xref rid="advs188-fig-0007" ref-type="fig">7</xref>b. A long&#x02010;life and safe Li metal anode can be fabricated.</p><fig fig-type="Figure" xml:lang="en" id="advs188-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>a) Schematic diagram of surface&#x02010;modified 3D substrate with a &#x0201c;lithiophilic&#x0201d; coating. Reproduced with permission.[[qv: 43a]] Copyright 2016, National Academy of Sciences; b) Schematic diagram of our roadmap: a continuous surface possessing high surface energy.</p></caption><graphic id="nlm-graphic-21" xlink:href="ADVS-4-0-g007"/></fig><p>The second way is reducing the electrical potential energy <italic>n</italic> &#x000d7; <italic>m</italic> (eV), which contributes to the decrease of the term &#x003b3;<sub>sub</sub>&#x02013;&#x003b3;<sub>Li</sub>. According to our model, the Li dendrites enable being thereof suppressed. This event is achieved by altering the charge mode towards tuning the electrical potential energy, of which the application of pulse charging<xref rid="advs188-bib-0045" ref-type="ref">45</xref> or charging at a lower voltage would be some of the best choices. The pulse charging mode would lead to a process of relaxation surface charge, and tailoring of the electrical potential energy. The use of gel electrolytes and polarized framework is another route to tune the transport and nucleate behavior of Li ions onto Li metal anode.[[qv: 10a,46]] The use of high current is also verified to protect the robust use of Li metal anode.<xref rid="advs188-bib-0047" ref-type="ref">47</xref>
+</p></sec><sec id="advs188-sec-0060"><label>6</label><title>Concluding Remarks</title><p>The safe use of Li metal is strongly considered for high energy batteries. We introduced the concept of surface energy to understand to the formation and growth of Li dendrites in Li metal batteries. A high charge/discharge current is required if the increased surface energy cannot override the effect of electric field, alternatively a hard film is required to block the Li dendrites. However, the energy relaxation changes to the thermal energy, which is a risk for a working cell. In addition, the proposed model is themed on the effect of thermodynamics, which is the emerging supplement to the kinetics model (SEI model analyzed by Chazalviel theory). The way addressing the kinetics effects focus on the homogenous surface (a robust and homogenous SEI film), whereas the way addressing the thermodynamic effects should gear to the continuous surface (the state of substrate). Consequently, the golden rule lies on both of them for Li protection.</p><p>Li anode protection doesn't barely regulate to dendrite&#x02010;free Li metal anodes, the problem of electrolyte consumption should be addressed to avoid an unexpected reaction between Li and electrolyte. A continuous surface possessing high surface energy during the charge/discharge cycling is promising to suppress the lithium dendrites. Such concept may be extended to other metal batteries, such as Zn, Na, K, Cu, Ag and Sn.</p></sec></body><back><ack id="advs188-sec-0070"><title>Acknowledgements</title><p>The financial support from the Natural Scientific Foundation of China (Nos. 51372095, 21422604) and the Special Funding for Academic Leader (Jilin U. No. 419080500273) are greatly acknowledged. We greatly appreciate the reviewers' very constructive comments.</p></ack><bio id="advs188-biog-0001"><p>
+<bold>Wei Zhang</bold> completed his Ph.D. at the Institute of Metal Research Chinese Academy of Sciences in 2004. He held research positions in NIMS, Samsung&#x02010;AIT, FHI&#x02010;MPG and DTU. Since 2014, he has been a Full Professor as Academic Leader at Jilin University, and selected as an Ikerbasque Research Professor at CIC Energigune. His current research interests focus on surface &#x00026; interface chemistry of energy materials and catalysts.</p><graphic xlink:href="ADVS-4-0-g009.gif" position="anchor" id="nlm-graphic-1" orientation="portrait"/></bio><bio id="advs188-biog-0002"><p>
+<bold>Weitao Zheng</bold> completed his Ph.D. at Jilin University in 1990. He worked at Department of Physics Link&#x000f6;ping University as a visiting scientist in 1997. He is currently a Full Professor (Chang Jiang Scholars Program) of College of Materials Science &#x00026; Engineering at Jilin University. Prof. Zheng's group conducts research ranging from functional thin films to surface &#x00026; interface of energy materials and catalysts including carbon&#x02010;related materials.</p><graphic xlink:href="ADVS-4-0-g010.gif" position="anchor" id="nlm-graphic-3" orientation="portrait"/></bio><bio id="advs188-biog-0003"><p>
+<bold>Qiang Zhang</bold> obtained his Ph.D at Tsinghua University at 2009. After stay in Case Western Reserve University (USA), Fritz Haber Insitute of Max Plank Society (Germany), and Queen Mary Univeristy of London (UK), he is currently a faculty at Tsinghua University. His current research interests are energy materials, especially Li metal anodes, Li&#x02010;S batteries, electrocatalysis (OER/ORR), and 3D graphene.</p><graphic xlink:href="ADVS-4-0-g011.gif" position="anchor" id="nlm-graphic-5" orientation="portrait"/></bio><ref-list id="advs188-bibl-0001"><ref id="advs188-bib-0001"><label>1</label><mixed-citation publication-type="book" id="advs188-cit-0001">a) <string-name>
+<given-names>R.</given-names>
+<surname>Osteryoung</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>McKisson</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Dutch</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Lauer</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Luchsinger</surname>
+</string-name>, <source>Technical Reports, AD&#x02010;290326</source>, <publisher-loc>Atomics International Div</publisher-loc>, <publisher-loc>Canoga Park, California</publisher-loc>, <year>1962</year>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0002">b) <string-name>
+<given-names>M.</given-names>
+<surname>Broussely</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Biensan</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Simon</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>1999</year>, <volume>45</volume>, <fpage>3</fpage>
+</mixed-citation></ref><ref id="advs188-bib-0002"><label>2</label><mixed-citation publication-type="book" id="advs188-cit-0003">
+<string-name>
+<given-names>T.</given-names>
+<surname>Nagaura</surname>
+</string-name>, presented at <source>4th Int. Rechargeable Battery Seminar</source>, <publisher-loc>Deerfield Beach, FL, USA</publisher-loc>, <year>1990</year>.</mixed-citation></ref><ref id="advs188-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs188-cit-0004">
+<string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>K. T.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2009</year>, <volume>8</volume>, <fpage>500</fpage>.<pub-id pub-id-type="pmid">19448613</pub-id></mixed-citation></ref><ref id="advs188-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs188-cit-0005">
+<string-name>
+<given-names>L.</given-names>
+<surname>Grande</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Paillard</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hassoun</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;B.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Passerini</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Scrosati</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>784</fpage>.<pub-id pub-id-type="pmid">25645073</pub-id></mixed-citation></ref><ref id="advs188-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs188-cit-0006">
+<string-name>
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <source>Nat. Rev. Mater.</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16013</fpage>.</mixed-citation></ref><ref id="advs188-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs188-cit-0007">a) <string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1402273</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0008">b) <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Nasybulin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>513</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0009">c) <string-name>
+<given-names>Y.</given-names>
+<surname>Diao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Hong</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2012</year>, <volume>159</volume>, <fpage>A1816</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0010">d) <string-name>
+<given-names>L.</given-names>
+<surname>Qie</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1502459</fpage>.</mixed-citation></ref><ref id="advs188-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs188-cit-0011">
+<string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>7436</fpage>.<pub-id pub-id-type="pmid">26081242</pub-id></mixed-citation></ref><ref id="advs188-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs188-cit-0012">a) <string-name>
+<given-names>C.</given-names>
+<surname>Zu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>2522</fpage>;<pub-id pub-id-type="pmid">26277939</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0013">b) <string-name>
+<given-names>K. E.</given-names>
+<surname>Hendrickson</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cohn</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, <volume>2</volume>, <fpage>1500068</fpage>.</mixed-citation></ref><ref id="advs188-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs188-cit-0014">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Okajima</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shibuta</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <source>Comp. Mater. Sci.</source>
+<year>2010</year>, <volume>50</volume>, <fpage>118</fpage>.</mixed-citation></ref><ref id="advs188-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs188-cit-0015">a) <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>T.&#x02010;Z.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2888</fpage>;<pub-id pub-id-type="pmid">26900679</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0016">b) <string-name>
+<given-names>E.</given-names>
+<surname>Peled</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1979</year>, <volume>126</volume>, <fpage>2047</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0017">c) <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2016</year>, <volume>3</volume>, <fpage>1500213</fpage>.</mixed-citation></ref><ref id="advs188-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs188-cit-0018">
+<string-name>
+<given-names>J.&#x02010;i.</given-names>
+<surname>Yamaki</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;i.</given-names>
+<surname>Tobishima</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hayashi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Keiichi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nemoto</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Arakawa</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>1998</year>, <volume>74</volume>, <fpage>219</fpage>.</mixed-citation></ref><ref id="advs188-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs188-cit-0019">
+<string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Graff</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P. V.</given-names>
+<surname>Sushko</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>4450</fpage>.<pub-id pub-id-type="pmid">23448508</pub-id></mixed-citation></ref><ref id="advs188-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs188-cit-0020">
+<string-name>
+<given-names>C. D.</given-names>
+<surname>Owen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Grant Norton</surname>
+</string-name>, <source>J. Mater. Sci.</source>
+<year>2016</year>, <volume>51</volume>, <fpage>577</fpage>.</mixed-citation></ref><ref id="advs188-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs188-cit-0021">a) <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2155</fpage>;<pub-id pub-id-type="pmid">26754639</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0022">b) <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>961</fpage>;<pub-id pub-id-type="pmid">25108613</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0023">c) <string-name>
+<given-names>C. B.</given-names>
+<surname>Bucur</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lita</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Osada</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Muldoon</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>112</fpage>.</mixed-citation></ref><ref id="advs188-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs188-cit-0024">
+<string-name>
+<given-names>J. N.</given-names>
+<surname>Chazalviel</surname>
+</string-name>, <source>Phys. Rev. A</source>
+<year>1990</year>, <volume>42</volume>, <fpage>7355</fpage>.<pub-id pub-id-type="pmid">9904050</pub-id></mixed-citation></ref><ref id="advs188-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs188-cit-0025">a) <string-name>
+<given-names>C.</given-names>
+<surname>Monroe</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Newman</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2005</year>, <volume>152</volume>, <fpage>A396</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0026">b) <string-name>
+<given-names>N.</given-names>
+<surname>Munichandraiah</surname>
+</string-name>, <string-name>
+<given-names>L. G.</given-names>
+<surname>Scanlon</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Marsh</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>1998</year>, <volume>72</volume>, <fpage>203</fpage>.</mixed-citation></ref><ref id="advs188-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs188-cit-0027">
+<string-name>
+<given-names>C.</given-names>
+<surname>Brissot</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Rosso</surname>
+</string-name>, <string-name>
+<given-names>J. N.</given-names>
+<surname>Chazalviel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Baudry</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lascaud</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>1998</year>, <volume>43</volume>, <fpage>1569</fpage>.</mixed-citation></ref><ref id="advs188-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs188-cit-0028">a) <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>S. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nano</source>
+<year>2014</year>, <volume>9</volume>, <fpage>618</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0029">b) <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>6016</fpage>.<pub-id pub-id-type="pmid">25166749</pub-id></mixed-citation></ref><ref id="advs188-bib-0019"><label>19</label><mixed-citation publication-type="book" id="advs188-cit-0030">a) <string-name>
+<given-names>J. B.</given-names>
+<surname>Bates</surname>
+</string-name> (<publisher-name>Martin Marietta Energy Systems, Inc</publisher-name>, <publisher-loc>Oak Ridge, TN, USA</publisher-loc>) <italic>US patent, 5, 314, 765</italic>, <year>1994</year>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0031">b) <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Pollak</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Elazari</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Salitra</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Kelley</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Affinito</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2009</year>, <volume>156</volume>, <fpage>A694</fpage>.</mixed-citation></ref><ref id="advs188-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs188-cit-0032">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>70</volume>, <fpage>344</fpage>.</mixed-citation></ref><ref id="advs188-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs188-cit-0033">a) <string-name>
+<given-names>O.</given-names>
+<surname>Crowther</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>West</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2008</year>, <volume>155</volume>, <fpage>A806</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0034">b) <string-name>
+<given-names>J.&#x02010;S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D. W.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. T.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>2780</fpage>.</mixed-citation></ref><ref id="advs188-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs188-cit-0035">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Small</source>
+<year>2015</year>, <volume>11</volume>, <fpage>2631</fpage>.<pub-id pub-id-type="pmid">25677882</pub-id></mixed-citation></ref><ref id="advs188-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs188-cit-0036">
+<string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Zinigrad</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Teller</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2002</year>, <volume>148</volume>, <fpage>405</fpage>.</mixed-citation></ref><ref id="advs188-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs188-cit-0037">
+<string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11503</fpage>.<pub-id pub-id-type="pmid">25351820</pub-id></mixed-citation></ref><ref id="advs188-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs188-cit-0038">
+<string-name>
+<given-names>G.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Chem. Comm.</source>
+<year>2014</year>, <volume>50</volume>, <fpage>14209</fpage>.<pub-id pub-id-type="pmid">25285341</pub-id></mixed-citation></ref><ref id="advs188-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs188-cit-0039">a) <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2015</year>, <volume>9</volume>, <fpage>6373</fpage>;<pub-id pub-id-type="pmid">26042545</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0040">b) <string-name>
+<given-names>N.&#x02010;W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>1853</fpage>;<pub-id pub-id-type="pmid">26698171</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0041">c) <string-name>
+<given-names>Q.&#x02010;C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;W.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;X.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>5241</fpage>.<pub-id pub-id-type="pmid">26265402</pub-id></mixed-citation></ref><ref id="advs188-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs188-cit-0042">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Russell</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Nasybulin</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>A. V.</given-names>
+<surname>Cresce</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>6889</fpage>.<pub-id pub-id-type="pmid">25419865</pub-id></mixed-citation></ref><ref id="advs188-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs188-cit-0043">
+<string-name>
+<given-names>R.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nuli</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>271</volume>, <fpage>291</fpage>.</mixed-citation></ref><ref id="advs188-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs188-cit-0044">
+<string-name>
+<given-names>W.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gao</surname>
+</string-name>, <source>Electrochem. Comm.</source>
+<year>2008</year>, <volume>10</volume>, <fpage>625</fpage>.</mixed-citation></ref><ref id="advs188-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs188-cit-0045">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Kajikawa</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Noda</surname>
+</string-name>, <source>Appl. Surf. Sci.</source>
+<year>2005</year>, <volume>245</volume>, <fpage>281</fpage>.</mixed-citation></ref><ref id="advs188-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs188-cit-0046">a) <string-name>
+<given-names>Z.</given-names>
+<surname>Bo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Cen</surname>
+</string-name>, <source>Nanoscale</source>
+<year>2013</year>, <volume>5</volume>, <fpage>5180</fpage>;<pub-id pub-id-type="pmid">23670071</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0047">b) <string-name>
+<given-names>M.</given-names>
+<surname>Meyyappan</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lance</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Alan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>David</surname>
+</string-name>, <source>Plasma Sources Sci. Tech.</source>
+<year>2003</year>, <volume>12</volume>, <fpage>205</fpage>.</mixed-citation></ref><ref id="advs188-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs188-cit-0048">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Morris</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Yenilmez</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Dai</surname>
+</string-name>, <source>Appl. Phys. Lett.</source>
+<year>2001</year>, <volume>79</volume>, <fpage>3155</fpage>.</mixed-citation></ref><ref id="advs188-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs188-cit-0049">
+<string-name>
+<given-names>C.</given-names>
+<surname>Ducati</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Alexandrou</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chhowalla</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Robertson</surname>
+</string-name>, <string-name>
+<given-names>G. A. J.</given-names>
+<surname>Amaratunga</surname>
+</string-name>, <source>J. Appl. Phys.</source>
+<year>2004</year>, <volume>95</volume>, <fpage>6387</fpage>.</mixed-citation></ref><ref id="advs188-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs188-cit-0050">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>H. M.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Surf. Sci. Rep.</source>
+<year>2008</year>, <volume>63</volume>, <fpage>427</fpage>.</mixed-citation></ref><ref id="advs188-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs188-cit-0051">a) <string-name>
+<given-names>R.</given-names>
+<surname>Koch</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Das</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<year>2005</year>, <volume>94</volume>, <fpage>146101</fpage>;<pub-id pub-id-type="pmid">15904079</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0052">b) <string-name>
+<given-names>S. C.</given-names>
+<surname>Seel</surname>
+</string-name>, <string-name>
+<given-names>C. V.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Hearne</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Floro</surname>
+</string-name>, <source>J. Appl. Phys.</source>
+<year>2000</year>, <volume>88</volume>, <fpage>7079</fpage>.</mixed-citation></ref><ref id="advs188-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs188-cit-0053">a) <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Small</source>
+<year>2014</year>, <volume>10</volume>, <fpage>4257</fpage>;<pub-id pub-id-type="pmid">25074801</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0054">b) <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2014</year>, <volume>2</volume>, <fpage>11660</fpage>.</mixed-citation></ref><ref id="advs188-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs188-cit-0055">a) <string-name>
+<given-names>C.&#x02010;M.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Sohn</surname>
+</string-name>, <source>Chem Soc Rev</source>
+<year>2010</year>, <volume>39</volume>, <fpage>3115</fpage>;<pub-id pub-id-type="pmid">20593097</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0056">b) <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>K. W.</given-names>
+<surname>Appel</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Evers</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hodal</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;C.</given-names>
+<surname>M&#x000f6;ller</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wachtler</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Wagner</surname>
+</string-name>, <string-name>
+<given-names>H. G.</given-names>
+<surname>Wrodnigg</surname>
+</string-name>, <string-name>
+<given-names>O. J.</given-names>
+<surname>Besenhard</surname>
+</string-name>, <source>Monatshefte f&#x000fc;r Chemie</source>
+<year>2001</year>, <volume>132</volume>, <fpage>473</fpage>;</mixed-citation><mixed-citation publication-type="miscellaneous" id="advs188-cit-0057">c) <string-name>
+<given-names>M.</given-names>
+<surname>Simoneau</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Scordilis&#x02010;kelley</surname>
+</string-name>, <string-name>
+<given-names>T. E.</given-names>
+<surname>Kelley</surname>
+</string-name>, US patent, US20,080,318,128 A1, Sion Power Cor., <year>2008</year>.</mixed-citation></ref><ref id="advs188-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs188-cit-0058">
+<string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Electrochem. Solid&#x02010;State Lett.</source>
+<year>2006</year>, <volume>9</volume>, <fpage>A72</fpage>.</mixed-citation></ref><ref id="advs188-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs188-cit-0059">
+<string-name>
+<given-names>C.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>T.&#x02010;Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Langmuir</source>
+<year>2008</year>, <volume>24</volume>, <fpage>12010</fpage>.<pub-id pub-id-type="pmid">18785717</pub-id></mixed-citation></ref><ref id="advs188-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs188-cit-0060">
+<string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Weissman</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Zaban</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Chusid</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>1994</year>, <volume>39</volume>, <fpage>51</fpage>.</mixed-citation></ref><ref id="advs188-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs188-cit-0061">a) <string-name>
+<given-names>J. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W. Y.</given-names>
+<surname>Yoon</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2004</year>, <volume>50</volume>, <fpage>531</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0062">b) <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;A.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>W. Y.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;W.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Adv. Func. Mater.</source>
+<year>2013</year>, <volume>23</volume>, <fpage>1019</fpage>.</mixed-citation></ref><ref id="advs188-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs188-cit-0063">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Dai</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2008</year>, <volume>155</volume>, <fpage>A390</fpage>.</mixed-citation></ref><ref id="advs188-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs188-cit-0064">a) <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2016</year>, <volume>113</volume>, <fpage>2862</fpage>;<pub-id pub-id-type="pmid">26929378</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0065">b) <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>P.&#x02010;C.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16010</fpage>.</mixed-citation></ref><ref id="advs188-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs188-cit-0066">
+<string-name>
+<given-names>C.&#x02010;P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;F.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.&#x02010;W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>8058</fpage>.<pub-id pub-id-type="pmid">26299379</pub-id></mixed-citation></ref><ref id="advs188-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs188-cit-0067">
+<string-name>
+<given-names>M. Z.</given-names>
+<surname>Mayers</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Kaminski</surname>
+</string-name>, <string-name>
+<given-names>T. F.</given-names>
+<surname>Miller</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <fpage>26214</fpage>.</mixed-citation></ref><ref id="advs188-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs188-cit-0068">a) <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tikekar</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mohanty</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hendrickson</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1402073</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0069">b) <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>McDowell</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nano</source>
+<year>2014</year>, <volume>9</volume>, <fpage>187</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0070">c) <string-name>
+<given-names>R.</given-names>
+<surname>Bouchet</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Maria</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Meziane</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Aboulaich</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lienafa</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;P.</given-names>
+<surname>Bonnet</surname>
+</string-name>, <string-name>
+<given-names>T. N. T.</given-names>
+<surname>Phan</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bertin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gigmes</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Devaux</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Denoyel</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2013</year>, <volume>12</volume>, <fpage>452</fpage>.<pub-id pub-id-type="pmid">23542871</pub-id></mixed-citation></ref><ref id="advs188-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs188-cit-0071">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Cartmell</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Polzin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1502151</fpage>.</mixed-citation></ref><ref id="advs188-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs188-cit-0072">
+<string-name>
+<given-names>M. S.</given-names>
+<surname>Whittingham</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>4271</fpage>.<pub-id pub-id-type="pmid">15669156</pub-id></mixed-citation></ref><ref id="advs188-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs188-cit-0073">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Idota</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kubota</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Matsufuji</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Maekawa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Miyasaka</surname>
+</string-name>, <source>Science</source>
+<year>1997</year>, <volume>276</volume>, <fpage>1395</fpage>.</mixed-citation></ref><ref id="advs188-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs188-cit-0074">
+<string-name>
+<given-names>Y.&#x02010;C.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Sohn</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;H.</given-names>
+<surname>Ku</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Korai</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Mochida</surname>
+</string-name>, <source>Carbon</source>
+<year>1999</year>, <volume>37</volume>, <fpage>1285</fpage>.</mixed-citation></ref><ref id="advs188-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs188-cit-0075">
+<string-name>
+<given-names>P.</given-names>
+<surname>Poizot</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Laruelle</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Grugeon</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dupont</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nature</source>
+<year>2000</year>, <volume>407</volume>, <fpage>496</fpage>.<pub-id pub-id-type="pmid">11028997</pub-id></mixed-citation></ref><ref id="advs188-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs188-cit-0076">
+<string-name>
+<given-names>P. L.</given-names>
+<surname>Taberna</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mitra</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Poizot</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Simon</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2006</year>, <volume>5</volume>, <fpage>567</fpage>.<pub-id pub-id-type="pmid">16783360</pub-id></mixed-citation></ref><ref id="advs188-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs188-cit-0077">
+<string-name>
+<given-names>C. K.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>McIlwrath</surname>
+</string-name>, <string-name>
+<given-names>X. F.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Huggins</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nano</source>
+<year>2008</year>, <volume>3</volume>, <fpage>31</fpage>.</mixed-citation></ref><ref id="advs188-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs188-cit-0078">
+<string-name>
+<given-names>H.&#x02010;X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;C.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;L.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;S.</given-names>
+<surname>Fan</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2009</year>, <volume>21</volume>, <fpage>2299</fpage>.</mixed-citation></ref><ref id="advs188-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs188-cit-0079">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ivanovici</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>M&#x000fc;llen</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>8408</fpage>.</mixed-citation></ref><ref id="advs188-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs188-cit-0080">
+<string-name>
+<given-names>A.</given-names>
+<surname>Magasinski</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Dixon</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Hertzberg</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kvit</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ayala</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yushin</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2010</year>, <volume>9</volume>, <fpage>353</fpage>.<pub-id pub-id-type="pmid">20228818</pub-id></mixed-citation></ref><ref id="advs188-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs188-cit-0081">
+<string-name>
+<given-names>Z.&#x02010;S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;M.</given-names>
+<surname>Cheng</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>5463</fpage>.<pub-id pub-id-type="pmid">21696205</pub-id></mixed-citation></ref><ref id="advs188-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs188-cit-0082">
+<string-name>
+<given-names>A. R.</given-names>
+<surname>Armstrong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lyness</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Panchmatia</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Islam</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2011</year>, <volume>10</volume>, <fpage>223</fpage>.<pub-id pub-id-type="pmid">21317903</pub-id></mixed-citation></ref><ref id="advs188-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="advs188-cit-0083">
+<string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Ryu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>McDowell</surname>
+</string-name>, <string-name>
+<given-names>S. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Jackson</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2012</year>, <volume>7</volume>, <fpage>310</fpage>.<pub-id pub-id-type="pmid">22447161</pub-id></mixed-citation></ref><ref id="advs188-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="advs188-cit-0084">
+<string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Prendiville</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Stucky</surname>
+</string-name>, <source>Nano Today</source>
+<year>2012</year>, <volume>7</volume>, <fpage>10</fpage>.</mixed-citation></ref><ref id="advs188-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="advs188-cit-0085">
+<string-name>
+<given-names>L.</given-names>
+<surname>Qie</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;G.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>2047</fpage>.<pub-id pub-id-type="pmid">22422374</pub-id></mixed-citation></ref><ref id="advs188-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="advs188-cit-0086">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Nature Outlook</source>
+<year>2015</year>, <volume>526</volume>, <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nature/outlook/batteries/pdf/batteries.pdf">http://www.nature.com/nature/outlook/batteries/pdf/batteries.pdf</ext-link>, accessed February2016.</mixed-citation></ref><ref id="advs188-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="advs188-cit-0087">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>15029</fpage>.</mixed-citation></ref><ref id="advs188-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="advs188-cit-0088">
+<string-name>
+<given-names>D. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>D. O.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S. O.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2008</year>, <volume>20</volume>, <fpage>2480</fpage>.</mixed-citation></ref><ref id="advs188-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="advs188-cit-0089">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source>Mater. Res. Bull.</source>
+<year>2014</year>, <volume>52</volume>, <fpage>89</fpage>.</mixed-citation></ref><ref id="advs188-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="advs188-cit-0090">
+<string-name>
+<given-names>S.</given-names>
+<surname>Chandrashekar</surname>
+</string-name>, <string-name>
+<given-names>N. M.</given-names>
+<surname>Trease</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;S.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Jerschow</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2012</year>, <volume>11</volume>, <fpage>311</fpage>.<pub-id pub-id-type="pmid">22327745</pub-id></mixed-citation></ref><ref id="advs188-bib-0067"><label>67</label><mixed-citation publication-type="book" id="advs188-cit-0091">
+<string-name>
+<given-names>M.</given-names>
+<surname>Ohring</surname>
+</string-name>, <source>The Materials Science of Thin Films</source>, <publisher-name>Academic Press</publisher-name>, <publisher-loc>San Diego, CA, USA</publisher-loc>
+<year>2001</year>, pp. <fpage>379</fpage>&#x02013;<lpage>383</lpage>.</mixed-citation></ref><ref id="advs188-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="advs188-cit-0092">
+<string-name>
+<given-names>G. N.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name>
+<given-names>F. G.</given-names>
+<surname>Keyes</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>1913</year>, <volume>35</volume>, <fpage>340</fpage>.</mixed-citation></ref><ref id="advs188-bib-0069"><label>69</label><mixed-citation publication-type="book" id="advs188-cit-0093">a) <string-name>
+<given-names>R. R.</given-names>
+<surname>Agarwal</surname>
+</string-name>, <source>Technical Reports, DOE/ER/04445&#x02010;T3</source>, <publisher-name>Illinois Inst. of Tech</publisher-name>, <publisher-loc>Chicago (USA)</publisher-loc> Dept. of Chemical Engineering, <year>1982</year>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0094">b) <string-name>
+<given-names>J. O.</given-names>
+<surname>Besenhard</surname>
+</string-name>, <source>Carbon</source>
+<year>1976</year>, <volume>14</volume>, <fpage>111</fpage>.</mixed-citation></ref><ref id="advs188-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="advs188-cit-0095">a) <string-name>
+<given-names>M. M.</given-names>
+<surname>Thackeray</surname>
+</string-name>, <string-name>
+<given-names>W. I. F.</given-names>
+<surname>David</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source>Mater. Res. Bull.</source>
+<year>1983</year>, <volume>18</volume>, <fpage>461</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0096">b) <string-name>
+<given-names>M. M.</given-names>
+<surname>Thackeray</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>de Picciotto</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source>Mater. Res. Bull.</source>
+<year>1984</year>, <volume>19</volume>, <fpage>179</fpage>.</mixed-citation></ref><ref id="advs188-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="advs188-cit-0097">a) <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Zaban</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Schechter</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ein&#x02010;Eli</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Zinigrad</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Markovsky</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1995</year>, <volume>142</volume>, <fpage>2873</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0098">b) <string-name>
+<given-names>N. J.</given-names>
+<surname>Dudney</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2000</year>, <volume>89</volume>, <fpage>176</fpage>;</mixed-citation><mixed-citation publication-type="miscellaneous" id="advs188-cit-0099">c) <string-name>
+<given-names>S.</given-names>
+<surname>Visco</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Katz</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nimon</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>De Jonghe</surname>
+</string-name>, US Patent, 7, 282, 295 B2, PolyPlus Battery Company, Inc., <year>2007</year>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0100">d) <string-name>
+<given-names>A. A.</given-names>
+<surname>Arie</surname>
+</string-name>, <string-name>
+<given-names>O. M.</given-names>
+<surname>Vovk</surname>
+</string-name>, <string-name>
+<given-names>J. O.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>B. W.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>J. Electroceramics</source>
+<year>2008</year>, <volume>23</volume>, <fpage>248</fpage>;</mixed-citation><mixed-citation publication-type="book" id="advs188-cit-0101">e) <string-name>
+<given-names>Y.</given-names>
+<surname>Mikhaylik</surname>
+</string-name>, presented at <source>International Battery Association and Hawaii Battery Conference</source>, <publisher-loc>Waikoloa, Hawaii</publisher-loc>, <year>2006</year>;</mixed-citation><mixed-citation publication-type="miscellaneous" id="advs188-cit-0102">f) <string-name>
+<given-names>S. J.</given-names>
+<surname>Visco</surname>
+</string-name>, <string-name>
+<given-names>F. Y.</given-names>
+<surname>Tsang</surname>
+</string-name>, US Patent, US6,214,061 B1, (Polyplus Battery Company, Inc.), <year>2001</year>.</mixed-citation></ref><ref id="advs188-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="advs188-cit-0103">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2015</year>, <volume>279</volume>, <fpage>413</fpage>.</mixed-citation></ref><ref id="advs188-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="advs188-cit-0104">a) <string-name>
+<given-names>A. A.</given-names>
+<surname>Wheeler</surname>
+</string-name>, <string-name>
+<given-names>B. T.</given-names>
+<surname>Murray</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Schaefer</surname>
+</string-name>, <source>Physica D</source>
+<year>1993</year>, <volume>66</volume>, <fpage>243</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0105">b) <string-name>
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ode</surname>
+</string-name>, <string-name>
+<given-names>S. G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W. T.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>J. Crystal Growth</source>
+<year>2002</year>, <volume>237&#x02013;239</volume>, <fpage>125</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs188-cit-0106">c) <string-name>
+<given-names>J.&#x02010;H.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Goldenfeld</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Dantzig</surname>
+</string-name>, <source>Phys. Rev. E</source>
+<year>2001</year>, <volume>64</volume>, <fpage>041602</fpage>.</mixed-citation></ref><ref id="advs188-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="advs188-cit-0107">
+<string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>7207</fpage>.</mixed-citation></ref><ref id="advs188-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="advs188-cit-0108">
+<string-name>
+<given-names>L. M.</given-names>
+<surname>Suo</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>1481</fpage>.<pub-id pub-id-type="pmid">23403582</pub-id></mixed-citation></ref></ref-list></back></article>

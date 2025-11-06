@@ -1,0 +1,419 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6644812</article-id><article-id pub-id-type="pmid">31458987</article-id><article-id pub-id-type="doi">10.1021/acsomega.8b01328</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Lithium Metal Battery Using LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> Olivine Cathode and Pyrrolidinium-Based Ionic
+Liquid Electrolyte</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Di Lecce</surname><given-names>Daniele</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Hassoun</surname><given-names>Jusef</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><sup>&#x02020;</sup>Department
+of Chemical and Pharmaceutical Sciences and <sup>&#x02021;</sup>National Interuniversity Consortium
+of Materials Science and Technology (INSTM) University of Ferrara
+Research Unit, <institution>University of Ferrara</institution>, Via Fossato di Mortara, 17, 44121 Ferrara, <country>Italy</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>jusef.hassoun@unife.it</email> (J.H.).</corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>08</month><year>2018</year></pub-date><pub-date pub-type="collection"><day>31</day><month>08</month><year>2018</year></pub-date><volume>3</volume><issue>8</issue><fpage>8583</fpage><lpage>8588</lpage><history><date date-type="received"><day>13</day><month>06</month><year>2018</year></date><date date-type="accepted"><day>20</day><month>07</month><year>2018</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2018 American Chemical Society</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-013285_0005" id="ab-tgr1"/></p><p>Ionic liquids (ILs)
+represent the most suitable electrolyte media
+for a safe application in high-energy lithium metal batteries because
+of their remarkable thermal stability promoted by the room-temperature
+molten salt nature. In this work, we exploit this favorable characteristic
+by combining a pyrrolidinium-based electrolyte and a LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> mixed olivine cathode in a lithium
+metal cell. The IL solution, namely <italic>N</italic>-butyl-<italic>N</italic>-methylpyrrolidinium bis(trifluoromethanesulfonyl)imide
+(Pyr<sub>14</sub>TFSI) dissolving LiTFSI, is designed as viscous electrolyte,
+particularly suited for cells operating at temperatures higher than
+40 &#x000b0;C, as demonstrated by electrochemical impedance spectroscopy.
+The olivine electrode, characterized by remarkable structural stability
+at high temperature, is studied in the lithium metal cell using the
+Pyr<sub>14</sub>TFSI&#x02013;LiTFSI medium above the room temperature.
+The Li/Pyr<sub>14</sub>TFSI&#x02013;LiTFSI/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell delivers a capacity of about 100 mA
+h g<sup>&#x02013;1</sup> through two voltage plateaus at about 3.5
+and 4.1 V, ascribed to the iron and manganese redox reaction, respectively.
+The cycling stability, satisfactory levels of the energy density,
+and a relevant safety content suggest the cell studied herein as a
+viable energy storage system for future applications.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao8b01328</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2018-013285</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Nowadays, the lithium-ion
+battery powers the most efficient and
+long-range electric vehicles, which actually reach an autonomy exceeding
+300 km by a single charge.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Further increase of
+the driving range may be achieved by using the lithium battery, that
+is, the system in which the anode is represented by the light, highly
+energetic, while extremely reactive, lithium metal.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> However,
+the use of this metal poses serious safety issues, including possible
+thermal runway due to short circuits promoted by dendrite formation
+or cell case damage.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Therefore, safe electrolytes,
+characterized by high boiling point as well as by low volatility,
+vapor pressure, and flammability, play a key role in determining the
+possible large scale diffusion of the rechargeable lithium metal battery.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Among the various alternatives proposed for achieving
+this challenging goal,<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> the room-temperature ionic liquids (ILs) represent very attracting
+solution because of their intrinsic thermal stability.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> So far, the study of the IL-based electrolytes involved aprotic
+species formed by an organic cation and large anion, characterized
+by low Lewis basicity. The IL composition has a remarkable effect
+on several electrolyte properties, such as viscosity, conductivity,
+and electrochemical stability window, thus strongly affecting the
+cell performance. As for the cation, aliphatic quaternary ammonium,
+including pyrrolidinium and piperidinium, and aliphatic quaternary
+phosphonium have shown suitable low-voltage stability, while long
+alkyl chains typically lead to viscosity increase and conductivity
+decrease. On the other hand, amide and imide type anions generally
+ensure high anodic stability and satisfactory Li<sup>+</sup> transport.<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> Recently, <italic>N</italic>-butyl-<italic>N</italic>-methylpyrrolidinium
+bis(trifluoromethanesulfonyl)imide (Pyr<sub>14</sub>TFSI), <italic>N</italic>-butyl-<italic>N</italic>-methylpyrrolidinium bis(fluorosulfonyl)imide
+(Pyr<sub>14</sub>FSI), <italic>N</italic>-methoxy-ethyl-<italic>N</italic>-methylpyrrolidinium bis(trifluoromethanesulfonyl)imide (Pyr<sub>12O1</sub>TFSI), and <italic>N</italic>-<italic>N</italic>-diethyl-<italic>N</italic>-methyl-<italic>N</italic>-(2-methoxyethyl)ammonium bis(trifluoromethanesulfonyl)imide
+ILs dissolving LiTFSI salt have demonstrated exceptional performance
+in lithium-ion batteries.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> Among them, Pyr<sub>14</sub>TFSI revealed very promising characteristics in terms of
+chemical and electrochemical stability, however with a relatively
+high viscosity,<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> which may lead to low
+electrode wetting degree and high resistance during the electrochemical
+process, reflected into high cell polarization and low capacity. This
+issue may be actually mitigated by raising the operating temperature
+to a value higher than 40 &#x000b0;C, which is a condition easily reached
+in electric vehicles.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Olivine-framework
+cathodes with chemical formula LiMPO<sub>4</sub>, where M represents
+a transition metal, are among the most suitable materials for ensuring
+long-life and safe lithium batteries because of the relevant stability
+of the phosphate (PO<sub>4</sub>) group.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> In particular, LiFePO<sub>4</sub> is the material of choice for
+commercial batteries, with a working voltage of about 3.5 V, a specific
+capacity of 170 mA h g<sup>&#x02013;1</sup>, and a theoretical energy
+of about 590 W h kg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> These characteristics lead to a practical energy density of about
+190 W h kg<sup>&#x02013;1</sup> and to remarkably long cycle life.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> The energy density of the lithium cell may be
+further increased by partially replacing Fe in the olivine material
+with other transition metals having higher redox potential, such as
+Mn (<italic>E</italic> = 4.2 V vs Li<sup>+</sup>/Li) and Co (<italic>E</italic> = 4.8 V vs Li<sup>+</sup>/Li).<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup></p><p>In this work, we study a lithium metal battery that uses Pyr<sub>14</sub>TFSI dissolving LiTFSI as the electrolyte and a LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> olivine-structure material
+as the cathode. The electrolyte is designed with LiTFSI concentration
+of 0.1 mol kg<sup>&#x02013;1</sup>, which is a value lower than the
+typically studied one (i.e., 0.2 mol kg<sup>&#x02013;1</sup>),<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> in order to keep a moderate viscosity. Prior
+to use, the ionic conductivity of the electrolyte is measured, while
+the lithium cell is studied at a temperature value of about 45 &#x000b0;C
+in order to favor electrode wetting, as verified by electrochemical
+impedance spectroscopy (EIS). The cell is galvanostatically cycled
+at C/5 and C/3 rate (1 C = 170 mA g<sup>&#x02013;1</sup>) and proposed
+as a safe energy storage system combining the modified olivine cathode,
+the IL-based electrolyte, and the high-energy lithium metal anode.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><p>The Pyr<sub>14</sub>TFSI, LiTFSI
+0.1 mol kg<sup>&#x02013;1</sup> electrolyte is studied in terms of
+conductivity to determine its
+applicability in a lithium battery through EIS on a symmetrical coin-cell
+using stainless steel electrodes (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). The Nyquist plots of the cell at various
+temperatures (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A) have the typical slope of a blocking-electrode cell approaching
+90&#x000b0;, where the intercept indicates the electrolyte resistance.
+The corresponding conductivity, measured from room temperature to
+90 &#x000b0;C, evidences an Arrhenius trend with high values ranging
+from about 3 &#x000d7; 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> at the room temperature to about 1 &#x000d7; 10<sup>&#x02013;2</sup> S cm<sup>&#x02013;1</sup> above 90 &#x000b0;C (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). Nevertheless, more extended temperature
+range, particularly to the lower temperatures, indicated a Vogel&#x02013;Tammann&#x02013;Fulcher
+behavior rather than the Arrhenius one for this class of electrolytes.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> On the other hand, the electrolyte conductivity
+is considered well suitable for application in lithium batteries,
+as indeed expected for the pyrrolidinium-based ILs.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> It is worth mentioning that a high conductivity value and
+a decreased viscosity at moderately high temperature may allow an
+adequate electrode wetting for improving the cell performances.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Therefore, we have studied our lithium cell
+combining the LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cathode
+and the Pyr<sub>14</sub>TFSI, LiTFSI electrolyte at a temperature
+of about 45 &#x000b0;C.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Evolution of the EIS Nyquist plots over the temperature
+of
+the Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup> electrolyte
+in a symmetrical stainless steel 2032 coin-cell and (B) corresponding
+Arrhenius conductivity plot. Frequency range: 100 kHz to 100 Hz. Signal
+amplitude: 10 mV.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-013285_0001" id="gr1" position="float"/></fig><p>The LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> electrode
+was prepared by the solvothermal technique reported in previous works.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A, showing the transmission electron microscopy (TEM) image
+of the positive electrode powder, reveals uniform sub-micrometric
+platelets of LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> surrounded
+by nanometric spherules of Super P carbon, which is used as the electron
+conducting additive (see <xref rid="sec4" ref-type="other">Experimental Section</xref> for further details). This morphology is generally reflected into
+good electrochemical behavior of the material in the lithium cell,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> as indeed suggested by <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B,C, which report the voltage profile and
+the differential curve corresponding to a steady-state galvanostatic
+cycle of the Li/Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell performed
+at a current of about 21 mA g<sup>&#x02013;1</sup> (C/8 rate) and a
+temperature of 45 &#x000b0;C. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B indicates a reversible exchange of 0.6 lithium equivalents
+by the LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> material and
+a corresponding capacity of about 100 mA h g<sup>&#x02013;1</sup>.
+This value is lower than the theoretical one (170 mA h g<sup>&#x02013;1</sup>) and the value the material reaches in conventional carbonate-based
+electrolyte (corresponding to a lithium exchange higher than 0.7 equivalents),<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> as most likely due to a relatively low electrode-wetting
+ability of the selected IL. However, the low electrode wetting by
+the viscose IL-based electrolyte might not be the only parameter determining
+the cell performance. Another important characteristic which may reasonably
+limit the charge transfer at the electrode/electrolyte interphase,
+thus the cell capacity, is the relatively low transport number of
+Li<sup>+</sup> ions expected for the IL-based solutions compared to
+the alkyl carbonate- and glyme-based electrolytes because of the molten
+salt nature of the ILs in which several ions contribute to the charge
+transport.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> On the other hand, the low
+flammability and the high thermal stability of the Pyr<sub>14</sub>TFSI&#x02013;LiTFSI solution with respect to the conventional electrolytes
+based on organic carbonate solvents, such as ethylene carbonate and
+dimethyl carbonate,<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> well justify its
+use in a cell employing a highly reactive lithium metal anode. Furthermore,
+the differential curve of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>C reveals a reversible operation of the cell at about
+3.5 and 4.1 V, that is, a higher working voltage compared to the LiFePO<sub>4</sub> material owing to the redox activity of the Fe<sup>3+</sup>/Fe<sup>2+</sup> and Mn<sup>3+</sup>/Mn<sup>2+</sup> couples.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(A) TEM image of the LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> electrode. Voltage profile (B) and differential capacity
+versus
+voltage (C) of a steady-state galvanostatic cycle of the Li/Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell performed at a current of 21
+mA g<sup>&#x02013;1</sup> (C/8 rate). Temperature: 45 &#x000b0;C. Voltage
+range: 2&#x02013;4.4 V.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-013285_0002" id="gr2" position="float"/></fig><p>The key role of the electrode/electrolyte interphase in determining
+the cell behavior has been verified by EIS of the Li/Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell at temperature increasing from 23 &#x000b0;C
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A), to 40
+&#x000b0;C (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B),
+50 &#x000b0;C (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C), and 60 &#x000b0;C (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>D). The spectra have been analyzed by the nonlinear least
+squares (NLLS) method using the equivalent circuit shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E. Among the various
+models proposed for impedance interpretation,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> we have adopted in this work an equivalent circuit taking into account
+the high-frequency electrolyte resistance, the high-middle frequency
+contribution of constant phase elements (<italic>CPE</italic><sub>1</sub> and <italic>CPE</italic><sub>2</sub>) and resistances (<italic>R</italic><sub>i1</sub> and <italic>R</italic><sub>i2</sub>) ascribed
+to the electrode/electrolyte interphases, and a low-frequency pseudo-capacitance
+attributed either to the Li<sup>+</sup> diffusion or the Li<sup>+</sup> accumulation into the electrode.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> Accordingly,
+the overall electrode/electrolyte interphase resistance (<italic>R</italic><sub>i</sub>) has been calculated considering both <italic>R</italic><sub>i1</sub> and <italic>R</italic><sub>i2</sub>, and reported in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E as a function of
+temperature. EIS reveals a significant decrease of <italic>R</italic><sub>i</sub> from 580 &#x000b1; 60 &#x003a9; at the room temperature to
+166 &#x000b1; 3 &#x003a9; at 93 &#x000b0;C according to an asymptotic trend,
+as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E. We reasonably assume that the impedance drop may be ascribed to
+an increase of the electrode wetting by the IL at high temperature.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> However, beneficial effects of the raising temperature
+on both the ionic and the electronic conductivities of the LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> electrode can be also expected.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> It is noteworthy that the electrolyte viscosity
+has a direct effect on both the ionic conductivity and the wetting
+ability of electrode and separator, thus significantly affecting the
+rate capability of lithium cells. In particular, low viscosity and
+high wetting ability improve the rate capability and decrease the
+cell polarization.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> We point out that
+temperatures of the order of 40 &#x000b0;C are usually reached in electric
+vehicles during driving stages or achieved by using relatively simple
+heating tools in cold climate conditions. Furthermore, active cooling
+systems are actually required to mitigate the battery decay due to
+possible decomposition of electrolyte at operating temperature peaks,
+which may lead to irregular solid electrolyte interphase (SEI) layer
+growth upon cycling.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Therefore, the temperature
+employed in this work, that is, 45 &#x000b0;C, is considered a suitable
+value, appropriate for efficient use of the IL-based energy storage
+systems.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Experimental and simulated Nyquist plots related to electrochemical
+impedance spectra of the Li/Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell
+at (A) 23, (B) 40, (C) 50, and (D) 60 &#x000b0;C; the spectra have been
+analyzed by the NLLS method using the Boukamp package.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> (E) Trend of the interface resistance reported as a function of
+temperature, and equivalent circuit employed for the NLLS analysis
+in inset. Frequency range: 500 kHz to 100 mHz. Signal amplitude: 10
+mV.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-013285_0003" id="gr3" position="float"/></fig><p>Galvanostatic cycling test of
+the Li/Pyr<sub>14</sub>TFSI, LiTFSI
+0.1 mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell is performed at 45 &#x000b0;C using current rates of C/3
+and C/5 (1 C = 170 mA g<sup>&#x02013;1</sup>). The voltage profile
+of the cell reported in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A reveals the above-mentioned two voltage plateaus evolving
+at about 3.5 and 4.1 V, a moderate polarization between charge and
+discharge, and a reversible specific capacity of about 60 and 90 mA
+h g<sup>&#x02013;1</sup> at C/3 and C/5 rates. Hence, the cell using
+the LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> electrode and
+the IL electrolyte reaches the 35 and 53% of the theoretical capacity
+at C/3 and C/5 rates, respectively.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup><xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B indicates a stable
+cycling trend at C/3 rate after the first cycle, which is characterized
+by a discharge capacity of 66 mA h g<sup>&#x02013;1</sup> and a low
+Coulombic efficiency (70%) because of partial electrolyte oxidation
+to form a stable SEI layer.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Subsequently,
+the cell shows slightly lower capacity and higher Coulombic efficiency
+of 98%. The capacity increases to 90 mA h g<sup>&#x02013;1</sup> and
+the Coulombic efficiency slightly decreases (95%) as the C-rate is
+lowered to C/5 at the 14th cycle. Hence, the galvanostatic test of <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> suggests the applicability
+of the adopted electrode/electrolyte combination as an energy storage
+system by further improving the delivered capacity. As already mentioned,
+the wetting ability of the electrolyte solution plays a crucial role
+in determining the electrode/electrolyte interphase resistance and
+affects the cell performance in terms of delivered capacity. Accordingly,
+the LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub> electrode has
+shown higher capacity in different cell configurations previously
+reported, using alkyl carbonate- and glyme-based electrolytes that
+have lower viscosity than the Pyr<sub>14</sub>TFSI&#x02013;LiTFSI solution.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> Thus, proper tuning the IL electrolyte
+viscosity and wetting-ability, for example, by changing either its
+chemical composition or the lithium salt concentration, is expected
+to improve the cell performance.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Besides
+electrolyte optimization, fine material engineering might effectively
+mitigate the low electronic conductivity and Li<sup>+</sup> transport
+limits of LiMn<sub>1&#x02013;<italic>x</italic></sub>Fe<sub><italic>x</italic></sub>PO<sub>4</sub> phases, thereby further enhancing
+rate capability and specific capacity of the cell.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(A)
+Voltage profile and (B) cycling trend with Coulombic efficiency
+of the galvanostatic test of the Li/Pyr<sub>14</sub>TFSI, LiTFSI 0.1
+mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell performed at C/3 and C/5 rates (1 C = 170 mA g<sup>&#x02013;1</sup>). Temperature: 45 &#x000b0;C. Voltage range: 2&#x02013;4.4 V.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-013285_0004" id="gr4" position="float"/></fig></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>We proposed
+herein a lithium battery combining a pyrrolidinium-based
+IL electrolyte and a modified olivine cathode including iron and manganese,
+that is, Pyr<sub>14</sub>TFSI&#x02013;LiTFSI and LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub>, respectively. The electrolyte showed
+a conductivity ranging from 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> at room temperature to 10<sup>&#x02013;2</sup> S cm<sup>&#x02013;1</sup> at about 90 &#x000b0;C. The cell delivered a maximum capacity approaching
+100 mA h g<sup>&#x02013;1</sup> through two voltage plateaus at about
+3.5 and 4.1 V, hence with theoretical energy density of about 400
+W h kg<sup>&#x02013;1</sup> and a practical energy exceeding 120 W
+h kg<sup>&#x02013;1</sup>. The results evidenced the decrease of cell
+impedance by raising temperature, thus suggesting the viscosity and
+the wetting-ability of the IL at the electrode/electrolyte interphase
+as a key factor for further improving the cell performances. Therefore,
+the lithium metal cell studied in this work is considered as a new
+energy storage system which may be actually improved by properly modifying
+the IL to enhance the electrode/electrolyte interphase, thus increasing
+cell capacity and energy density. Several IL-based electrolytes and
+new cathode materials have been proposed so far.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> Our results suggest that alternative combinations of these materials
+can actually promote the development of new, high-energy, and safe
+batteries using the light and efficient lithium metal anode.</p></sec><sec id="sec4"><label>4</label><title>Experimental Section</title><p>1-Butyl-1-methylpyrrolidinium
+bis(trifluoromethanesulfonyl)imide
+(Pyr<sub>14</sub>TFSI, Solvionic) and lithium bis(trifluoromethanesulfonyl)imide
+(LiTFSI, Solvionic) were dried several days under vacuum at 60 and
+110 &#x000b0;C, respectively. The electrolyte solution was prepared by
+dissolving 0.1 mol of LiTFSI in 1 kg of Pyr<sub>14</sub>TFSI and further
+dried under vacuum overnight at 60 &#x000b0;C. The LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub> powder was synthesized by the solvothermal
+pathway.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Lithium hydroxide monohydrate
+(LiOH&#x000b7;H<sub>2</sub>O, Sigma-Aldrich), lithium dihydrogen phosphate
+(LiH<sub>2</sub>PO<sub>4</sub>, Sigma-Aldrich), manganese sulfate
+monohydrate (MnSO<sub>4</sub>&#x000b7;H<sub>2</sub>O, Sigma-Aldrich),
+iron sulfate heptahydrate (FeSO<sub>4</sub>&#x000b7;7H<sub>2</sub>O,
+Sigma-Aldrich), and sucrose were added to a 2:1 v/v ethylene glycol/H<sub>2</sub>O solution under stirring in order to get a suspension. The
+molar ratios of LiH<sub>2</sub>PO<sub>4</sub>, MnSO<sub>4</sub>&#x000b7;H<sub>2</sub>O, FeSO<sub>4</sub>&#x000b7;7H<sub>2</sub>O, LiOH&#x000b7;H<sub>2</sub>O, and sucrose were 1:0.5:0.5:1.75:0.03. The suspension was
+sealed into a Teflon-lined autoclave and heated in an oven at 180
+&#x000b0;C for 20 h to get a LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub> precursor,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> which was filtered,
+washed with water and ethanol, and dried in the oven overnight at
+70 &#x000b0;C. The LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub> precursor
+was carbon-coated (about 5 wt % of C)<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> by precipitating sucrose over the olivine powder in a sucrose/water
+solution (molar ratio LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub>/sucrose = 80:20% w/w), and then by heating the resulting composite
+at 700 &#x000b0;C for 3 h under an Ar atmosphere.</p><p>The positive
+electrode was prepared by doctor-blade coating on
+an aluminum current collector foil. The electrode slurry was prepared
+by mixing LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub>, poly(vinylidene
+difluoride)-hexafluoropropylene (Kynar Flex 2801), and Super P carbon
+(Timcal) in the weight ratio 8:1:1 in tetrahydrofuran (Sigma-Aldrich).
+The coated electrode foil was cut into the form of disks, which were
+dried for 3 h under vacuum at 110 &#x000b0;C. The active material loading
+of the electrodes was about 2.3 mg cm<sup>&#x02013;2</sup>. The positive
+electrode morphology was investigated by TEM by entrapping the sample
+into a Formvar support. TEM images were taken through a Zeiss EM 910
+microscope equipped with a tungsten thermionic electron gun operating
+at 100 kV.</p><p>CR2035 coin-cells (MTI) were assembled in an Ar-filled
+glovebox
+(MBraun, O<sub>2</sub> and H<sub>2</sub>O content below 1 ppm) by
+using a lithium metal disk as the anode, a Whatman GF/D glass fiber
+separator soaked by the Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup> electrolyte, and the LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub> electrode as the cathode. The ionic conductivity of
+the Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup> electrolyte
+was measured by EIS within the temperature range from 25 to 93 &#x000b0;C,
+by applying an alternate signal of 10 mV amplitude from 100 kHz to
+100 Hz. The EIS measurements have been carried out on a symmetrical
+stainless steel blocking CR2032 coin-cell, employing a Teflon ring
+spacer to fix the cell constant (4.0 &#x000d7; 10<sup>&#x02013;2</sup> cm<sup>&#x02013;1</sup>). Further EIS measurements were carried out
+on the Li/Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell at 23, 40,
+50, and 60 &#x000b0;C, by applying an alternate signal of 10 mV amplitude
+from 500 kHz to 100 mHz. The impedance spectra were recorded through
+a VersaSTAT MC Princeton Applied Research (PAR) potentiostat and analyzed
+by the NLLS method using the Boukamp package.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> The Li/Pyr<sub>14</sub>TFSI, LiTFSI 0.1 mol kg<sup>&#x02013;1</sup>/LiFe<sub>0.5</sub>Mn<sub>0.5</sub>PO<sub>4</sub> cell was tested
+by galvanostatic cycling at 45 &#x000b0;C within the voltage range from
+2 to 4.4 V, using the C/8, C/5, and C/3 rates (1 C = 170 mA g<sup>&#x02013;1</sup>). The galvanostatic cycling experiments have been
+performed through a MACCOR Series 4000 battery test system.</p></sec></body><back><notes notes-type="COI-statement" id="notes1"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The work was carried out within the
+collaboration
+project &#x0201c;Accordo di Collaborazione Quadro 2015&#x0201d; between
+the University of Ferrara (Department of Chemical and Pharmaceutical
+Sciences) and the Sapienza University of Rome (Department of Chemistry)
+and supported by the grant &#x0201c;Fondo di Ateneo per la Ricerca
+Locale (FAR) 2017&#x0201d;.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Andre</surname><given-names>D.</given-names></name>; <name><surname>Kim</surname><given-names>S.-J.</given-names></name>; <name><surname>Lamp</surname><given-names>P.</given-names></name>; <name><surname>Lux</surname><given-names>S. F.</given-names></name>; <name><surname>Maglia</surname><given-names>F.</given-names></name>; <name><surname>Paschos</surname><given-names>O.</given-names></name>; <name><surname>Stiaszny</surname><given-names>B.</given-names></name>
+<article-title>Future Generations of Cathode Materials:
+An Automotive Industry Perspective</article-title>. <source>J. Mater.
+Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>6709</fpage>&#x02013;<lpage>6732</lpage>. <pub-id pub-id-type="doi">10.1039/c5ta00361j</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Verrelli</surname><given-names>R.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Lithium-Ion Batteries
+for Sustainable Energy Storage: Recent Advances towards New Cell Configurations</article-title>. <source>Green Chem.</source>
+<year>2017</year>, <volume>19</volume>, <fpage>3442</fpage>&#x02013;<lpage>3467</lpage>. <pub-id pub-id-type="doi">10.1039/c7gc01328k</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Reviving the
+Lithium Metal Anode for High-Energy Batteries</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>194</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2017.16</pub-id>.<pub-id pub-id-type="pmid">28265117</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Park</surname><given-names>S.-J.</given-names></name>; <name><surname>Hwang</surname><given-names>J.-Y.</given-names></name>; <name><surname>Yoon</surname><given-names>C. S.</given-names></name>; <name><surname>Jung</surname><given-names>H.-G.</given-names></name>; <name><surname>Sun</surname><given-names>Y.-K.</given-names></name>
+<article-title>Stabilization
+of Lithium-Metal Batteries Based on the in Situ Formation of a Stable
+Solid Electrolyte Interphase Layer</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>17985</fpage>&#x02013;<lpage>17993</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b04592</pub-id>.<pub-id pub-id-type="pmid">29701458</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Zhang</surname><given-names>K.</given-names></name>; <name><surname>Lee</surname><given-names>G.-H.</given-names></name>; <name><surname>Park</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Kang</surname><given-names>Y. M.</given-names></name>
+<article-title>Recent
+Developments of the Lithium Metal Anode for Rechargeable Non-Aqueous
+Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1600811</fpage><pub-id pub-id-type="doi">10.1002/aenm.201600811</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Sharova</surname><given-names>V.</given-names></name>; <name><surname>Jeong</surname><given-names>S.</given-names></name>; <name><surname>Moretti</surname><given-names>A.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>
+<article-title>A Multiple Electrolyte Concept for Lithium-Metal Batteries</article-title>. <source>Solid State Ionics</source>
+<year>2018</year>, <volume>316</volume>, <fpage>66</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2017.12.012</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Di
+Girolamo</surname><given-names>D.</given-names></name>; <name><surname>Panero</surname><given-names>S.</given-names></name>; <name><surname>Navarra</surname><given-names>M. A.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Quaternary
+Polyethylene Oxide Electrolytes Containing Ionic Liquid for Lithium
+Polymer Battery</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2016</year>, <volume>163</volume>, <fpage>A1175</fpage>&#x02013;<lpage>A1180</lpage>. <pub-id pub-id-type="doi">10.1149/2.0241607jes</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Kimura</surname><given-names>K.</given-names></name>; <name><surname>Yajima</surname><given-names>M.</given-names></name>; <name><surname>Tominaga</surname><given-names>Y.</given-names></name>
+<article-title>A highly-concentrated
+poly(ethylene
+carbonate)-based electrolyte for all-solid-state Li battery working
+at room temperature</article-title>. <source>Electrochem. Commun.</source>
+<year>2016</year>, <volume>66</volume>, <fpage>46</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2016.02.022</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Hassoun</surname><given-names>J.</given-names></name>; <name><surname>Fernicola</surname><given-names>A.</given-names></name>; <name><surname>Navarra</surname><given-names>M. A.</given-names></name>; <name><surname>Panero</surname><given-names>S.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>
+<article-title>An advanced
+lithium-ion battery based on a nanostructured Sn-C anode and an electrochemically
+stable LiTFSi-Py24TFSI ionic liquid electrolyte</article-title>. <source>J. Power Sources</source>
+<year>2010</year>, <volume>195</volume>, <fpage>574</fpage>&#x02013;<lpage>579</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2009.07.046</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Tominaga</surname><given-names>Y.</given-names></name>; <name><surname>Yamazaki</surname><given-names>K.</given-names></name>; <name><surname>Nanthana</surname><given-names>V.</given-names></name>
+<article-title>Effect of
+Anions on Lithium Ion Conduction
+in Poly(Ethylene Carbonate)-Based Polymer Electrolytes</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>A3133</fpage>&#x02013;<lpage>A3136</lpage>. <pub-id pub-id-type="doi">10.1149/2.0211502jes</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Yuuki</surname><given-names>T.</given-names></name>; <name><surname>Konosu</surname><given-names>Y.</given-names></name>; <name><surname>Ashizawa</surname><given-names>M.</given-names></name>; <name><surname>Iwahashi</surname><given-names>T.</given-names></name>; <name><surname>Ouchi</surname><given-names>Y.</given-names></name>; <name><surname>Tominaga</surname><given-names>Y.</given-names></name>; <name><surname>Ooyabu</surname><given-names>R.</given-names></name>; <name><surname>Matsumoto</surname><given-names>H.</given-names></name>; <name><surname>Matsumoto</surname><given-names>H.</given-names></name>
+<article-title>Ionic Liquid-Based Electrolytes Containing Surface-Functionalized
+Inorganic Nanofibers for Quasisolid Lithium Batteries</article-title>. <source>ACS Omega</source>
+<year>2017</year>, <volume>2</volume>, <fpage>835</fpage>&#x02013;<lpage>841</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.6b00480</pub-id>.<pub-id pub-id-type="pmid">31457475</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Moreno</surname><given-names>J. S.</given-names></name>; <name><surname>Deguchi</surname><given-names>Y.</given-names></name>; <name><surname>Panero</surname><given-names>S.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Ohno</surname><given-names>H.</given-names></name>; <name><surname>Simonetti</surname><given-names>E.</given-names></name>; <name><surname>Appetecchi</surname><given-names>G. B.</given-names></name>
+<article-title>N-Alkyl-N-ethylpyrrolidinium cation-based
+ionic liquid electrolytes for safer lithium battery systems</article-title>. <source>Electrochim. Acta</source>
+<year>2016</year>, <volume>191</volume>, <fpage>624</fpage>&#x02013;<lpage>630</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2016.01.119</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Fernicola</surname><given-names>A.</given-names></name>; <name><surname>Croce</surname><given-names>F.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Watanabe</surname><given-names>T.</given-names></name>; <name><surname>Ohno</surname><given-names>H.</given-names></name>
+<article-title>LiTFSI-BEPyTFSI
+as an Improved Ionic Liquid Electrolyte for Rechargeable Lithium Batteries</article-title>. <source>J. Power Sources</source>
+<year>2007</year>, <volume>174</volume>, <fpage>342</fpage>&#x02013;<lpage>348</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.09.013</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Thomas</surname><given-names>M. L.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Ueno</surname><given-names>K.</given-names></name>; <name><surname>Yasuda</surname><given-names>T.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>
+<article-title>Application of Ionic
+Liquids to Energy Storage and Conversion Materials
+and Devices</article-title>. <source>Chem. Rev.</source>
+<year>2017</year>, <volume>117</volume>, <fpage>7190</fpage>&#x02013;<lpage>7239</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.6b00504</pub-id>.<pub-id pub-id-type="pmid">28084733</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Tokuda</surname><given-names>H.</given-names></name>; <name><surname>Hayamizu</surname><given-names>K.</given-names></name>; <name><surname>Ishii</surname><given-names>K.</given-names></name>; <name><surname>Susan</surname><given-names>M. A. B. H.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Physicochemical Properties and Structures of Room Temperature
+Ionic Liquids. 2. Variation of Alkyl Chain Length in Imidazolium Cation</article-title>. <source>J. Phys. Chem. B</source>
+<year>2005</year>, <volume>109</volume>, <fpage>6103</fpage>&#x02013;<lpage>6110</lpage>. <pub-id pub-id-type="doi">10.1021/jp044626d</pub-id>.<pub-id pub-id-type="pmid">16851672</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Armand</surname><given-names>M.</given-names></name>; <name><surname>Endres</surname><given-names>F.</given-names></name>; <name><surname>MacFarlane</surname><given-names>D. R.</given-names></name>; <name><surname>Ohno</surname><given-names>H.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>
+<article-title>Ionic-Liquid
+Materials for the Electrochemical Challenges of the Future</article-title>. <source>Nat. Mater.</source>
+<year>2009</year>, <volume>8</volume>, <fpage>621</fpage>&#x02013;<lpage>629</lpage>. <pub-id pub-id-type="doi">10.1038/nmat2448</pub-id>.<pub-id pub-id-type="pmid">19629083</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Gali&#x00144;ski</surname><given-names>M.</given-names></name>; <name><surname>Lewandowski</surname><given-names>A.</given-names></name>; <name><surname>St&#x00065;&#x00328;pniak</surname><given-names>I.</given-names></name>
+<article-title>Ionic Liquids as Electrolytes</article-title>. <source>Electrochim. Acta</source>
+<year>2006</year>, <volume>51</volume>, <fpage>5567</fpage>&#x02013;<lpage>5580</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2006.03.016</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Elia</surname><given-names>G. A.</given-names></name>; <name><surname>Ulissi</surname><given-names>U.</given-names></name>; <name><surname>Jeong</surname><given-names>S.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Exceptional Long-Life Performance
+of Lithium-Ion Batteries
+Using Ionic Liquid-Based Electrolytes</article-title>. <source>Energy
+Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>3210</fpage>&#x02013;<lpage>3220</lpage>. <pub-id pub-id-type="doi">10.1039/c6ee01295g</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Elia</surname><given-names>G. A.</given-names></name>; <name><surname>Ulissi</surname><given-names>U.</given-names></name>; <name><surname>Mueller</surname><given-names>F.</given-names></name>; <name><surname>Reiter</surname><given-names>J.</given-names></name>; <name><surname>Tsiouvaras</surname><given-names>N.</given-names></name>; <name><surname>Sun</surname><given-names>Y.-K.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>A Long-Life Lithium Ion Battery with
+Enhanced Electrode/Electrolyte
+Interface by Using an Ionic Liquid Solution</article-title>. <source>Chem.&#x02014;Eur. J.</source>
+<year>2016</year>, <volume>22</volume>, <fpage>6808</fpage>&#x02013;<lpage>6814</lpage>. <pub-id pub-id-type="doi">10.1002/chem.201505192</pub-id>.<pub-id pub-id-type="pmid">26990320</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Neubauer</surname><given-names>J.</given-names></name>; <name><surname>Wood</surname><given-names>E.</given-names></name>
+<article-title>Thru-life impacts of driver aggression, climate, cabin thermal management,
+and battery thermal management on battery electric vehicle utility</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>259</volume>, <fpage>262</fpage>&#x02013;<lpage>275</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.02.083</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Fasciani</surname><given-names>C.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>A Gel-Polymer
+Sn-C/LiMn0.5Fe0.5PO4 Battery Using a Fluorine-Free Salt</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>21198</fpage>&#x02013;<lpage>21207</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b05179</pub-id>.<pub-id pub-id-type="pmid">26348604</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Oh</surname><given-names>S.-M.</given-names></name>; <name><surname>Jung</surname><given-names>H.-G.</given-names></name>; <name><surname>Yoon</surname><given-names>C. S.</given-names></name>; <name><surname>Myung</surname><given-names>S.-T.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Amine</surname><given-names>K.</given-names></name>; <name><surname>Sun</surname><given-names>Y.-K.</given-names></name>
+<article-title>Enhanced electrochemical performance
+of carbon-LiMn1&#x02013;xFexPO4 nanocomposite cathode for lithium-ion
+batteries</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>6924</fpage>&#x02013;<lpage>6928</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.11.159</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Brescia</surname><given-names>R.</given-names></name>; <name><surname>Scarpellini</surname><given-names>A.</given-names></name>; <name><surname>Prato</surname><given-names>M.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>A High Voltage Olivine Cathode for
+Application in Lithium-Ion Batteries</article-title>. <source>ChemSusChem</source>
+<year>2016</year>, <volume>9</volume>, <fpage>223</fpage>&#x02013;<lpage>230</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201501330</pub-id>.<pub-id pub-id-type="pmid">26694202</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Agostini</surname><given-names>M.</given-names></name>; <name><surname>Ulissi</surname><given-names>U.</given-names></name>; <name><surname>Di Lecce</surname><given-names>D.</given-names></name>; <name><surname>Ahiara</surname><given-names>Y.</given-names></name>; <name><surname>Ito</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>A Lithium-Ion Battery based on an Ionic Liquid Electrolyte,
+Tin-Carbon Nanostructured Anode, and Li2O-ZrO2-Coated Li[Ni0.8Co0.15Al0.05]O2Cathode</article-title>. <source>Energy Technol.</source>
+<year>2015</year>, <volume>3</volume>, <fpage>632</fpage>&#x02013;<lpage>637</lpage>. <pub-id pub-id-type="doi">10.1002/ente.201402226</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Boukamp</surname><given-names>B.</given-names></name>
+<article-title>A Nonlinear
+Least Squares Fit Procedure for Analysis of Immittance Data of Electrochemical
+Systems</article-title>. <source>Solid State Ionics</source>
+<year>1986</year>, <volume>20</volume>, <fpage>31</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(86)90031-7</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Boukamp</surname><given-names>B.</given-names></name>
+<article-title>A Package
+for Impedance/Admittance Data Analysis</article-title>. <source>Solid
+State Ionics</source>
+<year>1986</year>, <volume>18&#x02013;19</volume>, <fpage>136</fpage>&#x02013;<lpage>140</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(86)90100-1</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>K&#x000fc;hnel</surname><given-names>R.-S.</given-names></name>; <name><surname>Balducci</surname><given-names>A.</given-names></name>
+<article-title>Lithium Ion Transport
+and Solvation in N-Butyl-N-methylpyrrolidinium
+Bis(trifluoromethanesulfonyl)imide-Propylene Carbonate Mixtures</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>5742</fpage>&#x02013;<lpage>5748</lpage>. <pub-id pub-id-type="doi">10.1021/jp5005264</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Arbizzani</surname><given-names>C.</given-names></name>; <name><surname>Gabrielli</surname><given-names>G.</given-names></name>; <name><surname>Mastragostino</surname><given-names>M.</given-names></name>
+<article-title>Thermal Stability and Flammability
+of Electrolytes for Lithium-Ion Batteries</article-title>. <source>J.
+Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>4801</fpage>&#x02013;<lpage>4805</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2011.01.068</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Nara</surname><given-names>H.</given-names></name>; <name><surname>Morita</surname><given-names>K.</given-names></name>; <name><surname>Mukoyama</surname><given-names>D.</given-names></name>; <name><surname>Yokoshima</surname><given-names>T.</given-names></name>; <name><surname>Momma</surname><given-names>T.</given-names></name>; <name><surname>Osaka</surname><given-names>T.</given-names></name>
+<article-title>Impedance Analysis
+of LiNi 1/3 Mn
+1/3 Co 1/3 O 2 Cathodes with Different Secondary-particle Size Distribution
+in Lithium-ion Battery</article-title>. <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>241</volume>, <fpage>323</fpage>&#x02013;<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2017.04.153</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>Review of
+selected electrode-solution interactions which determine the performance
+of Li and Li ion batteries</article-title>. <source>J. Power Sources</source>
+<year>2000</year>, <volume>89</volume>, <fpage>206</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1016/s0378-7753(00)00431-6</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Molenda</surname><given-names>J.</given-names></name>; <name><surname>Ojczyk</surname><given-names>W.</given-names></name>; <name><surname>Marzec</surname><given-names>J.</given-names></name>
+<article-title>Electrical
+conductivity and reaction
+with lithium of LiFe1&#x02013;yMnyPO4 olivine-type cathode materials</article-title>. <source>J. Power Sources</source>
+<year>2007</year>, <volume>174</volume>, <fpage>689</fpage>&#x02013;<lpage>694</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.06.238</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Carbone</surname><given-names>L.</given-names></name>; <name><surname>Gancitano</surname><given-names>V.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Rechargeable lithium battery using non-flammable electrolyte
+based on tetraethylene glycol dimethyl ether and olivine cathodes</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>334</volume>, <fpage>146</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.09.164</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Carbone</surname><given-names>L.</given-names></name>; <name><surname>Di Lecce</surname><given-names>D.</given-names></name>; <name><surname>Gobet</surname><given-names>M.</given-names></name>; <name><surname>Munoz</surname><given-names>S.</given-names></name>; <name><surname>Devany</surname><given-names>M.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Relevant Features of a Triethylene
+Glycol Dimethyl Ether-Based Electrolyte for Application in Lithium
+Battery</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>17085</fpage>&#x02013;<lpage>17095</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b03235</pub-id>.<pub-id pub-id-type="pmid">28440629</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Oh</surname><given-names>S.-M.</given-names></name>; <name><surname>Myung</surname><given-names>S.-T.</given-names></name>; <name><surname>Park</surname><given-names>J. B.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Amine</surname><given-names>K.</given-names></name>; <name><surname>Sun</surname><given-names>Y.-K.</given-names></name>
+<article-title>Double-Structured LiMn0.85Fe0.15PO4
+Coordinated with
+LiFePO4 for Rechargeable Lithium Batteries</article-title>. <source>Angew. Chem.</source>
+<year>2012</year>, <volume>124</volume>, <fpage>1889</fpage>&#x02013;<lpage>1892</lpage>. <pub-id pub-id-type="doi">10.1002/ange.201107394</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Lithium Transport Properties in LiMn1&#x02212;&#x003b1;Fe&#x003b1;PO4
+Olivine Cathodes</article-title>. <source>J. Phys. Chem. C</source>
+<year>2015</year>, <volume>119</volume>, <fpage>20855</fpage>&#x02013;<lpage>20863</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b06727</pub-id>.</mixed-citation></ref></ref-list></back></article>

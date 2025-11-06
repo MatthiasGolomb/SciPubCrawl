@@ -1,0 +1,1339 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs11629" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12079540</article-id><article-id pub-id-type="pmid">40112154</article-id>
+<article-id pub-id-type="doi">10.1002/advs.202416656</article-id><article-id pub-id-type="publisher-id">ADVS11629</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Suspended Lithium Nitrate&#x02010;Based Electrolytes: Electrostatic Interactions for Mutually Rewarding Interface Optimization Strategies</article-title></title-group><contrib-group><contrib id="advs11629-cr-0001" contrib-type="author"><name><surname>Zhang</surname><given-names>Wenjing</given-names></name><xref rid="advs11629-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11629-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs11629-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs11629-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs11629-cr-0002" contrib-type="author"><name><surname>Zhang</surname><given-names>Zhenguo</given-names></name><xref rid="advs11629-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11629-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs11629-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs11629-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Hongtao</given-names></name><xref rid="advs11629-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11629-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs11629-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs11629-cr-0004" contrib-type="author" corresp="yes"><name><surname>Luo</surname><given-names>Yang</given-names></name><xref rid="advs11629-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11629-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs11629-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>luoyang@hebut.edu.cn</email></address></contrib><contrib id="advs11629-cr-0005" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Xinjian</given-names></name><xref rid="advs11629-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11629-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs11629-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>liuxinjian@hebut.edu.cn</email></address></contrib><contrib id="advs11629-cr-0006" contrib-type="author" corresp="yes"><name><surname>Rao</surname><given-names>Zhonghao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3350-6270</contrib-id><xref rid="advs11629-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs11629-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs11629-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs11629-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>raozhonghao@hebut.edu.cn</email></address></contrib></contrib-group><aff id="advs11629-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Hebei Engineering Research Center of Advanced Energy Storage Technology and Equipment</named-content>
+<named-content content-type="organisation-division">School of Energy and Environmental Engineering</named-content>
+<institution>Hebei University of Technology</institution>
+<city>Tianjin</city>
+<postal-code>300401</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs11629-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Hebei Key Laboratory of Thermal Science and Energy Clean Utilization</named-content>
+<named-content content-type="organisation-division">School of Energy and Environmental Engineering</named-content>
+<institution>Hebei University of Technology</institution>
+<city>Tianjin</city>
+<postal-code>300401</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs11629-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">School of Materials Science and Engineering</named-content>
+<institution>Hebei University of Technology</institution>
+<city>Tianjin</city>
+<postal-code>300401</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs11629-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">State Key Laboratory of Reliability and Intelligence of Electrical Equipment</named-content>
+<institution>Hebei University of Technology</institution>
+<city>Tianjin</city>
+<postal-code>300401</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>luoyang@hebut.edu.cn</email>; <email>liuxinjian@hebut.edu.cn</email>; <email>raozhonghao@hebut.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>3</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><volume>12</volume><issue seq="960">18</issue><issue-id pub-id-type="doi">10.1002/advs.v12.18</issue-id><elocation-id>2416656</elocation-id><history>
+<date date-type="rev-recd"><day>04</day><month>3</month><year>2025</year></date>
+<date date-type="received"><day>11</day><month>12</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-12-2416656.pdf"/><abstract><title>Abstract</title><p>Designing a stable electrode&#x02010;electrolyte interface (EEI) is critical for developing lithium metal batteries with high energy density, enhanced safety, and broad applicability. Lithium nitrate (LiNO<sub>3</sub>) is an attractive sacrificial additive for lithium metal anode, while its poor solubility in high&#x02010;voltage&#x02010;resistant ester/nitrile electrolytes severely limits its utility. To solve it, a novel suspension electrolyte strategy is proposed that uniformly disperses LiNO<sub>3</sub> particles in an ester/nitrile mixed electrolyte to stabilize the electrode interface. The suspended LiNO<sub>3</sub> particles exhibit dual functionality: LiNO<sub>3</sub> enhances the compatibility between the electrode and the electrolyte by affecting the Li<sup>+</sup> solvation environment and preferentially adsorb on the electrode surface; moreover, the in situ formed LiN<sub>x</sub>O<sub>y</sub>&#x02010;rich EEI by LiNO<sub>3</sub> decomposition with accelerated Li&#x0207a; transport kinetics, effectively suppresses parasitic reactions and improves rate performance. The optimized electrolyte makes Li||NCM523 battery run stably for 100 cycles with a high capacity retention of 90.05% at 60&#x000a0;&#x000b0;C and stably operated at low temperature (&#x02010;10&#x000a0;&#x000b0;C). Moreover, the electrolyte shows excellent electrochemical stability at a high&#x02010;voltage of 4.5&#x000a0;V. This work presents a dual&#x02010;strategy advancement featuring wide&#x02010;temperature electrolyte formulation and precision interface engineering, synergistically achieving high&#x02010;specific&#x02010;energy lithium metal batteries.</p></abstract><abstract id="advs11629-abs-0001" abstract-type="graphical"><p>Suspended LiNO<sub>3</sub> particles have a dual function: LiNO<sub>3</sub> enhances electrode&#x02010;electrolyte compatibility by influencing the Li<sup>+</sup> solvation environment. At the same time, LiNO<sub>3</sub> adsorbed on the electrode surface can decompose in situ to form LiN<sub>x</sub>O<sub>y</sub>&#x02010;rich EEIs with the kinetic property of accelerated Li<sup>+</sup> transport. A stable electrode&#x02010;electrolyte interphase structure is established, which improves the cycling recovery in a wide temperature range.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-12-2416656-g001.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs11629-kwd-0001">interface optimization</kwd><kwd id="advs11629-kwd-0002">lithium metal batteries</kwd><kwd id="advs11629-kwd-0003">suspension electrolyte</kwd><kwd id="advs11629-kwd-0004">wide temperature range</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>52176092</award-id><award-id>52311530086</award-id></award-group><award-group id="funding-0002"><funding-source>Hebei Natural Science Foundation</funding-source><award-id>E2024202056</award-id><award-id>B2023202027</award-id></award-group><award-group id="funding-0003"><funding-source>S&#x00026;T Program of Hebei</funding-source><award-id>242G4401Z</award-id><award-id>E2024202293</award-id></award-group><award-group id="funding-0004"><funding-source>Science and Technology Project of Hebei Education Department</funding-source><award-id>QN2024080</award-id><award-id>JZX2024003</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Songshan Lake Materials Laboratory
+</institution><institution-id institution-id-type="doi">10.13039/100022814</institution-id></institution-wrap></funding-source><award-id>2023SLABFN13</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="10"/><word-count count="5345"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 15, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.6 mode:remove_FC converted:15.05.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs11629-cit-0001">
+<string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Rao</surname>
+</string-name>, <article-title>Suspended Lithium Nitrate&#x02010;Based Electrolytes: Electrostatic Interactions for Mutually Rewarding Interface Optimization Strategies</article-title>. <source>Adv. Sci.</source>
+<year>2025</year>, <volume>12</volume>, <elocation-id>2416656</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202416656</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs11629-sec-0010"><label>1</label><title>Introduction</title><p>Lithium&#x02500;ion batteries (LIBs) power virtually renewable electrochemical energy storage devices such as portable electronics and electric vehicles (EVs).<sup>[</sup>
+<xref rid="advs11629-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs11629-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs11629-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> However, with the rapid development of EVs, current LIBs featuring graphite as an anode make it difficult to meet the demand for high energy density (the theoretical specific energy density of LIB is limited to 350&#x000a0;Wh kg<sup>&#x02212;1</sup>).<sup>[</sup>
+<xref rid="advs11629-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs11629-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs11629-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> There is an urgent need to develop the next generation of high&#x02010;energy storage materials. Among numerous anode materials, lithium metal is a promising alternative to graphite anode due to its ultra&#x02010;high theoretical specific capacity (3860 mAh g<sup>&#x02212;1</sup>) and extremely low redox potential (&#x02010;3.040&#x000a0;V vs SHE).<sup>[</sup>
+<xref rid="advs11629-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs11629-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs11629-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> Thus, matching it to high&#x02010;voltage cathode materials is expected to achieve the target of high specific energy.</p><p>However, lithium metal batteries (LMBs) still face the challenges of electrode&#x02010;electrolyte interface (EEI) side reactions as well as capacity degradation under extreme conditions such as high temperature and high voltage. On one hand, side reactions between lithium and the electrolyte are unavoidable due to the high reactivity of lithium, leading to electrolyte depletion and the formation of a solid electrolyte interface (SEI). In addition, high cut&#x02010;off voltage induces oxidative decomposition of electrolytes at the cathode surface, destabilizing the cathode&#x02010;electrolyte interphase (CEI) and leading to transition metal dissolution. Although commercially carbonate&#x02010;based electrolytes show good compatibility with existing LIBs, they are poorly suited to high&#x02010;voltage cathode materials and lithium metal anodes due to the continuous interfacial side reactions. Therefore, developing new electrolytes is advised to construct stable EEI, that are compatible with high energy density LMBs and thus achieve long cycle life under extreme conditions.</p><p>Recent research has found succinonitrile (SN) exhibits excellent ionic conductivity, high melting point, and good compatibility with high&#x02010;voltage cathode materials,<sup>[</sup>
+<xref rid="advs11629-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> which have potential applications for matching Li metal anode and high&#x02010;voltage cathode materials. However, serious side reactions between SN and lithium metal persist, which limits its wide application. Therefore, it is necessary to preferentially form a stable EEI on the electrode surface to inhibit interfacial reactions. Lithium nitrate (LiNO<sub>3</sub>), an effective additive commonly used in Li||S batteries,<sup>[</sup>
+<xref rid="advs11629-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> preferentially reacted with lithium to generate excellent lithium ion (Li<sup>+</sup>) conductors on lithium surfaces, such as LiN<sub>x</sub>O<sub>y</sub> and Li<sub>3</sub>N, which facilitate even Li<sup>+</sup> deposition. Thus, it significantly improves the performance of EEIs.<sup>[</sup>
+<xref rid="advs11629-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="advs11629-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> Based on this, combining the anti&#x02010;high voltage characteristics of SN with the excellent film&#x02010;forming capability of LiNO<sub>3</sub> is expected to achieve stable operation of LMBs under extreme conditions. However, LiNO<sub>3</sub> has limited solubility in ester and nitrile electrolytes, especially in carbonate electrolytes, where the solubility is only about 800ppm.<sup>[</sup>
+<xref rid="advs11629-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs11629-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> Therefore, extensive studies have been conducted to improve the dissolution of LiNO<sub>3</sub> in ester electrolytes by introducing solvents/additives with high donor numbers,<sup>[</sup>
+<xref rid="advs11629-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> high dielectric constants,<sup>[</sup>
+<xref rid="advs11629-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> and even the addition of trace amounts of metal fluorides.<sup>[</sup>
+<xref rid="advs11629-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Although these strategies effectively increase the solubility of LiNO<sub>3</sub>, they also result in solvent consumption during EEI formation. Therefore, there is an urgent need to develop new strategies that broaden the application of LiNO<sub>3</sub> in high&#x02010;voltage electrolytes to improve the cycling performance of LMBs.</p><p>Here, we propose a novel suspension electrolyte design by introducing LiNO<sub>3</sub> in the ether&#x02010;free electrolyte composed of propylene carbonate (PC)/SN as mixed solvents along with lithium bis(trifluoromethanesulphonyl)imide (LiTFSI) as salt, referred to as LN&#x02010;LTPCS. PC and SN are chosen due to their low melting point, high boiling point, and high flash point, which help to improve the high temperature performance of batteries.<sup>[</sup>
+<xref rid="advs11629-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> This innovative electrolyte enables LMBs to achieve excellent cycling stability at wide temperatures (&#x02010;10&#x0223c;60&#x000a0;&#x000b0;C) and high voltage (4.5&#x000a0;V). The mechanism of the designed suspension electrolyte is illustrated in <bold>Figure</bold>
+<xref rid="advs11629-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>. Through theoretical calculations and experimental analyses, several key functions of LiNO<sub>3</sub> have been validated: (1) LiNO<sub>3</sub> changes the solvation environment of Li<sup>+</sup> in the surrounding liquid electrolyte through its coordination with SN and TFSI<sup>&#x02212;</sup> by electrostatic interaction, which subtly improves the compatibility between the electrolyte and the electrode. (2) LiNO<sub>3</sub> preferentially adsorbs on the electrode surface (<bold>Figure</bold>
+<xref rid="advs11629-fig-0002" ref-type="fig">
+<bold>2</bold>a&#x02013;d</xref>), and has the lowest unoccupied molecular orbital (LUMO) energy (Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2e</xref>), which means that LiNO<sub>3</sub> can be decomposed preferentially to form EEIs during battery operation. The formed stable EEIs help fast ion transport, accelerating the overall reaction rate.<sup>[</sup>
+<xref rid="advs11629-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> Therefore, the designed electrolyte system makes Li||LiNi<sub>0.5</sub>Co<sub>0.2</sub>M<sub>0.3</sub> (NCM523) battery run stably for 100 cycles with a high capacity retention of 90.05% at a high temperature of 60&#x000a0;&#x000b0;C. Moreover, the electrolyte has excellent electrochemical stability at low temperatures (&#x02010;10&#x000a0;&#x000b0;C) and a high cut&#x02010;off voltage of 4.5&#x000a0;V.</p><fig position="float" fig-type="Figure" id="advs11629-fig-0001"><label>Figure 1</label><caption><p>Mechanism diagram of LN&#x02010;LTPCS to improve the performance of Li&#x02010;metal batteries. a) Mechanism diagram of suspension electrolyte optimization for SEI and b) CEI.</p></caption><graphic xlink:href="ADVS-12-2416656-g006" position="anchor" id="jats-graphic-3"/></fig><fig position="float" fig-type="Figure" id="advs11629-fig-0002"><label>Figure 2</label><caption><p>a) The adsorption structures of PC, SN, LiTFSI, LiNO<sub>3</sub> on Li (110) metal anode and b) their adsorption energy (E<sub>ads</sub>). c) The E<sub>ads</sub> and d) adsorption structures of PC, SN, LiTFSI, and LiNO<sub>3</sub> on NCM523 (003) cathode. e) HOMO, LUMO energy levels of LiNO<sub>3</sub>, LiTFSI, PC, SN. f) Snapshots of MD simulations of molecular species (Li<sup>+</sup>, TFSI<sup>&#x02212;</sup>, PC, and SN) for LTPCS and LN&#x02010;LTPCS. g) Density profiles view of LN&#x02010;LTPCS with the LiNO<sub>3</sub> slab, The &#x003c1; and &#x003c1;<sub>bulk</sub> represent density and bulk density of the specified species. h) RDFs for Li<sup>+</sup> solvation shell of LN&#x02010;LTPCS near the LiNO<sub>3</sub> slab (&#x0003c;5 &#x000c5;), The g(r) represents the radial distribution. i) RDFs for Li<sup>+</sup> solvation shell of LN&#x02010;LTPCS away from the LiNO<sub>3</sub> slab (5 &#x000c5; from the furthest end of the box). j) RDFs for the Li<sup>+</sup> solvation shell of LTPCS.</p></caption><graphic xlink:href="ADVS-12-2416656-g005" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="advs11629-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs11629-sec-0030"><label>2.1</label><title>Solvation Structures</title><p>In order to elucidate the effect of the Li<sup>+</sup> solvent environment on EEI formation in LTPCS and LN&#x02010;LTPCS electrolytes, we performed molecular dynamics (MD) simulations and Raman tests. Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2a&#x02013;d</xref> show that LiNO<sub>3</sub> has lower adsorption energy compared to other electrolyte compositions, implying the preferential adsorption of LiNO<sub>3</sub> on the lithium metal and NCM523 cathode surface. This preferential interaction can modulate the electrode surface and form a stable EEI. Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2f</xref> presents snapshots of the LTPCS and LN&#x02010;LTPCS electrolytes, while the normalized density distribution for the LN&#x02010;LTPCS electrolyte is illustrated in Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2g</xref>. The results indicate that the density peak of Li<sup>+</sup> is considerably higher than that of other electrolyte components. This phenomenon can be attributed to the strong adsorption of Li<sup>+</sup> and LiNO<sub>3</sub>, which leads to a distinct solvation structure of Li<sup>+</sup> around the LiNO<sub>3</sub> slab in LN&#x02010;LTPCS, contrasting with the solvation structure observed in the LTPCS system without the LiNO<sub>3</sub> slab.</p><p>Radial distribution functions (RDFs) were utilized to analyze the solvation structures of the electrolytes both at 5 &#x000c5; from the LiNO<sub>3</sub> slab in LN&#x02010;LTPCS (Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2h</xref>) and further from the LiNO<sub>3</sub> interface (Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2i</xref>), as well as in LTPCS (Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2j</xref>). The analysis reveals that the presence of the LiNO<sub>3</sub> slab in the LN&#x02010;LTPCS system significantly alters the Li&#x0207a; solvation environment compared to the LTPCS electrolyte system. Notably, near the LiNO<sub>3</sub> slab, Li&#x0207a; is predominantly solvated by PC, whereas the concentration of SN decreases substantially, and coordination with TFSI<sup>&#x0207b;</sup> at the LiNO<sub>3</sub> slab is absent. Conversely, in regions further away from the LiNO<sub>3</sub> slab, the presence of SN and TFSI<sup>&#x0207b;</sup> surrounding Li&#x0207a; increases, suggesting that the LiNO<sub>3</sub> slab repels these components such as SN and TFSI<sup>&#x0207b;</sup>. Moreover, Raman was used to deeply study the effect of LiNO<sub>3</sub> on the solvated structure. First, the Raman spectrum of Figure <xref rid="advs11629-supinfo-0001" ref-type="">S3a</xref> (Supporting information) shows a significant shift of the NO<sub>3</sub>
+<sup>&#x02212;</sup> stretching vibrational peak of LiNO<sub>3</sub>, confirming the participation of trace NO<sub>3</sub>
+<sup>&#x02212;</sup> in the solvation of Li<sup>+</sup>. Second, Figure <xref rid="advs11629-supinfo-0001" ref-type="">S3b,c</xref> (Supporting information) reveal the Li<sup>+</sup>&#x02010;solvent&#x02010;anion interactions and the synergistic evolution of the solvated structure. In the suspended electrolyte LN&#x02010;LTPCS, the Li<sup>+</sup>&#x02010;TFSI<sup>&#x02212;</sup> coordination is significantly diminished, indicating that suspended LiNO<sub>3</sub> repels TFSI<sup>&#x02212;</sup>, detaching from the main solvation shell. Moreover, the coordination of solvated SN and free SN is also significantly reduced due to the presence of suspended LiNO<sub>3</sub> particles, suggesting that the suspended LiNO<sub>3</sub> particles inhibit the solvation of SN to some extent. This is in agreement with the simulation data.</p><p>The effect of LiNO<sub>3</sub> plates on the dissolved environment enhances the compatibility of the electrolyte&#x02010;electrode interface. Previous analyses have shown that LiNO<sub>3</sub> has a stronger adsorption effect on lithium metal (Figure&#x000a0;<xref rid="advs11629-fig-0002" ref-type="fig">2b,c</xref>). Due to this strong interaction, lithium metal tends to adsorb dissolved Li<sup>+</sup> rather than SN and TFSI<sup>&#x02212;</sup>. This interaction mitigates the corrosive effect of SN on the lithium metal anode and the side reactions at the electrolyte&#x02010;anode interface, thereby improving the stability of the anode and the overall cycling performance of LMBs. The results of the scanning electron microscope (SEM) further confirmed these findings. Here the bare lithium foils were soaked into LTPCS and LN&#x02010;LTPCS for one week, respectively, and the topography was observed using SEM. The results show that the surface of the samples containing LiNO<sub>3</sub> is smooth and free of corrosion pits (Figure <xref rid="advs11629-supinfo-0001" ref-type="">S4a,b</xref>, Supporting Information), whereas the control group shows severe corrosion due to the strong corrosion coming from SN. It is further verified that the presence of LiNO<sub>3</sub> can effectively inhibit the corrosion of SN. For the cathode, the adsorption of LiNO<sub>3</sub> on the NCM cathode was relatively weak, resulting in higher SN and TFSI<sup>&#x02212;</sup> coordination at the cathode. The increased concentration of SN and TFSI<sup>&#x02212;</sup> contributes to the stabilization of the CEI.</p></sec><sec id="advs11629-sec-0040"><label>2.2</label><title>Battery High&#x02010;Voltage Performance</title><p>To verify the effect of electrolytes on the performance of lithium metal batteries, lithium symmetric cells as well as Li||NCM523 cells were assembled and the effects of solvent type and additive content on the battery were tested. Figure <xref rid="advs11629-supinfo-0001" ref-type="">S1</xref> (Supporting information) further shows the Li||NCM523 battery with electrolyte without PC (LTS) has nearly no capacity at room temperature. Further modulating the additive content, Figures <xref rid="advs11629-supinfo-0001" ref-type="">S5</xref> and <xref rid="advs11629-supinfo-0001" ref-type="">S6</xref> (Supporting information) show that the battery presents the highest specific capacity when the LiNO<sub>3</sub> content is 4%. Based on this, the electrolyte with 4% LiNO<sub>3</sub> addition (LN&#x02010;LTPCS) was subsequently further characterized and analyzed, and the mechanism of LiNO<sub>3</sub> effect on the battery performance was investigated. As shown in <bold>Figure</bold>
+<xref rid="advs11629-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>, Li||Li with LN&#x02010;LTPCS showed a more stable polarisation voltage compared with LTPCS. Figure&#x000a0;<xref rid="advs11629-fig-0003" ref-type="fig">3b</xref> and Figure <xref rid="advs11629-supinfo-0001" ref-type="">S7</xref> (Supporting information) show Li||NCM523 with LN&#x02010;LTPCS has good cycling stability with 94.3% capacity retention after 200 cycles and over 99.2% Coulombic efficiency at 4.3&#x000a0;V cut&#x02010;off voltage; the capacity retention is still maintained at around 80% after 460 cycles. In contrast, the LTPCS showed significant capacity degradation after 40 cycles and only 14.5% capacity retention after 200 cycles. This is related to the large polarisation that occurs within the LTPCS battery system (Figure <xref rid="advs11629-supinfo-0001" ref-type="">S8</xref>, Supporting information). Figure&#x000a0;<xref rid="advs11629-fig-0003" ref-type="fig">3c</xref> shows that the charge/discharge tests of Li||LN&#x02010;LTPCS||NCM523 batteries at different rates of 0.2, 0.5, 1.0, 2.0, and 0.2 C resulted in the specific capacities of 162.99, 155.74, 145.2, and 132.65 mAh g<sup>&#x02212;1</sup>, and back to 0.2 C resulted the capacity of 164.91 mAh g<sup>&#x02212;1</sup>, indicating that the LN&#x02010;LTPCS has good rate performance.</p><fig position="float" fig-type="Figure" id="advs11629-fig-0003"><label>Figure 3</label><caption><p>Cycling performances of a) Li symmetrical battery at 0.5&#x000a0;mA cm<sup>&#x02212;2</sup> with a capacity of 0.5mAh cm<sup>&#x02212;2</sup>. b) Li||NCM523 battery long cycle test at 3&#x0223c;4.3&#x000a0;V. c) Li||NCM523 battery multiplication performance at 4.3&#x000a0;V. d) LSV curves for Li||LTPCS||NCM523 and Li||LN&#x02010;LTPCS||NCM523. e) Long cycle test of Li/NCM523 cell at 3&#x0223c;4.5&#x000a0;V. f) Specific capacity voltage curve for Li||LTPCS||NCM523 at 3&#x0223c;4.5&#x000a0;V. g) Specific capacity voltage curve in the voltage range of 3&#x0223c;4.5&#x000a0;V for Li||LN&#x02010;LTPCS||NCM523. h) Rate performance of Li||NCM523 cell at 4.5&#x000a0;V. i) CV test in the voltage range of 3&#x0223c;4.5&#x000a0;V for different sweep speeds of Li||LN&#x02010;LTPCS||NCM523 cell.</p></caption><graphic xlink:href="ADVS-12-2416656-g002" position="anchor" id="jats-graphic-7"/></fig><p>Linear cyclic voltammetry (LSV) was used to evaluate the oxidation stability of LN&#x02010;LTPCS. Figure&#x000a0;<xref rid="advs11629-fig-0003" ref-type="fig">3d</xref> shows that LN&#x02010;LTPCS can maintain stability at a high voltage of 4.5&#x000a0;V. Therefore, even at a high&#x02010;voltage of 4.5&#x000a0;V, the cycle stability and rate performance of Li||NCM523 with LN&#x02010;LTPCS is still better than that of LTPCS. Specifically, the Li||NCM523 battery system with LN&#x02010;LTPCS possesses an initial specific capacity of 184 mAh g<sup>&#x02212;1</sup> (Figure&#x000a0;<xref rid="advs11629-fig-0003" ref-type="fig">3e</xref>), remains a reversible capacity of 143.01 mAh g<sup>&#x02212;1</sup> after 150 cycles with a capacity retention rate of 85.2% at 1.0 C (Figure <xref rid="advs11629-supinfo-0001" ref-type="">S9</xref>, Supporting information). In contrast, the capacity retention of the LTPCS system is only 1.7% after 150 cycles. The voltage&#x02010;capacity curves of Figure&#x000a0;<xref rid="advs11629-fig-0003" ref-type="fig">3f,g</xref> further confirmed the internal polarisation of the Li||LTPCS||NCM523 cells due to the severe side reaction, which led to the capacity loss. The rate performance of Li||LN&#x02010;LTPCS||NCM523 cell was tested at 0.2, 0.5, 1.0, 2.0, and 3.0 C, and their specific capacities were 199.2, 189.0, 173.8, 156.3, and 142.1 mAh g<sup>&#x02212;1</sup>, respectively (Figure&#x000a0;<xref rid="advs11629-fig-0003" ref-type="fig">3h</xref>), which confirmed they have considerable rate performance at high. The cyclic voltammetry (CV) result of the Li||NCM523 cell shows that the LN&#x02010;LTPCS electrolyte has better reversibility (Figure&#x000a0;<xref rid="advs11629-fig-0003" ref-type="fig">3i</xref>; Figure <xref rid="advs11629-supinfo-0001" ref-type="">S10</xref> and <xref rid="advs11629-supinfo-0001" ref-type="">S11</xref>, Supporting information). Besides, Figure <xref rid="advs11629-supinfo-0001" ref-type="">S12</xref> (Supporting information) shows that LN&#x02010;LTPCS electrolyte has a relatively high diffusion coefficient. The results showed that the presence of LiNO<sub>3</sub> largely stabilized the interfacial layer; furthermore, it was confirmed that the LN&#x02010;LTPCS had fast ion transport, which could be attributed to the formation of a fast ion interfacial by LiNO<sub>3</sub>.<sup>[</sup>
+<xref rid="advs11629-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup>
+</p><p>To further elucidate the effect of the electrolyte system on the interfacial chemistry, SEM and X&#x02010;ray photoelectron spectroscopy (XPS) characterization were performed to characterize the anode and cathode after cycling at 4.5&#x000a0;V. The lithium deposition morphology of Li||NCM523 cell was characterized after 150 cycles. Compared with the loose and porous lithium deposits with more surface cracks in the LTPCS (<bold>Figure</bold>
+<xref rid="advs11629-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>), the lithium deposits in the LN&#x02010;LTPCS are tightly packed with a flat surface (Figure&#x000a0;<xref rid="advs11629-fig-0004" ref-type="fig">4b</xref>). This may be because lithium metal susceptible reacted with SN and PC to form inhomogeneous and thick SEI as well as uncontrollable lithium dendrite growth, which leads to poor cycling performance and Coulombic efficiency of the cells. The separator also reflects the violent side reactions occurring inside the LTPCS&#x02010;based cell (Figure&#x000a0;<xref rid="advs11629-fig-0004" ref-type="fig">4c,d</xref>). XPS was used to further analyze Li surface composition after 20 cycles. As shown in Figure&#x000a0;<xref rid="advs11629-fig-0004" ref-type="fig">4e,f</xref>, the Li surface of the LTPCS&#x02010;based cell shows lower contents of CF<sub>3</sub> in the C1s and F1s spectrum,<sup>[</sup>
+<xref rid="advs11629-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="advs11629-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs11629-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> this may be due to the decomposition of a few anions near the Li surface. In addition, N1s spectra (Figure&#x000a0;<xref rid="advs11629-fig-0004" ref-type="fig">4g</xref>) show the presence of NO<sub>2</sub>
+<sup>&#x02212;</sup> (404.3&#x000a0;eV), and NO<sub>3</sub>
+<sup>&#x02212;</sup> (407.6&#x000a0;eV) on the Li surface with LN&#x02010;LTPCS,<sup>[</sup>
+<xref rid="advs11629-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> which is absent in the LTPCS. It is hypothesized that in LN&#x02010;LTPCS, the preferential adsorption of the LiNO<sub>3</sub> layer on the electrode interface protects the electrode, repelling corrosive SN through the adsorption of PC&#x02010;solvated Li<sup>+</sup> and reducing the decomposition of the solvent.<sup>[</sup>
+<xref rid="advs11629-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs11629-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> This process induces the generation of SEIs containing inorganic LiN<sub>x</sub>O<sub>y</sub> with fast ion transport properties, improving the lithium&#x02010;ion migration rate.<sup>[</sup>
+<xref rid="advs11629-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="advs11629-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="advs11629-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> Therefore, Li||NCM523 cells with LN&#x02010;LTPCS show a low interface impedance (Figure <xref rid="advs11629-supinfo-0001" ref-type="">S13</xref>, Supporting information),<sup>[</sup>
+<xref rid="advs11629-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> and achieve superior durability and higher Coulombic efficiency.</p><fig position="float" fig-type="Figure" id="advs11629-fig-0004"><label>Figure 4</label><caption><p>a) The surface morphology of lithium metal after LTPCS cycling at different magnifications. b) The morphology of lithium metal after LN&#x02010;LTPCS cycling at different magnifications. c, d) Separator state after 150 cycles of LTPCS and LN&#x02010;LTPCS under 4.5&#x000a0;V cut&#x02010;off voltage. e, f, g) are the C1s, N1s, and F1s spectra of the Li anode interface after cycling 20 cycles of Li||LTPCS||NCM523 and Li||LN&#x02010;LTPCS||NCM523 at high&#x02010;voltage 4.5&#x000a0;V.</p></caption><graphic xlink:href="ADVS-12-2416656-g003" position="anchor" id="jats-graphic-9"/></fig><p>The cycling stability of the battery not only depends on the SEI stability but also on the CEI. X&#x02010;ray diffraction (XRD) tests were performed on the cathode after high cut&#x02010;off voltage cycling (Figure <xref rid="advs11629-supinfo-0001" ref-type="">S14</xref>, Supporting information). The results show that the corresponding peaks between the (003) and (101) crystal faces of NCM523 are less displaced after cycling in the LN&#x02010;LTPCS (<bold>Figure</bold>&#x000a0;<xref rid="advs11629-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref>), indicating minimal structural changes during Li<sup>+</sup> intercalation/ deintercalation.<sup>[</sup>
+<xref rid="advs11629-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="advs11629-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> This is because the LiNO<sub>3</sub>&#x02010;formed interface protects the electrode.<sup>[</sup>
+<xref rid="advs11629-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> To further explore the effect of LN&#x02010;LTPCS on the cathode, XPS was performed on NCM523 after 20 cycles. As shown in Figure&#x000a0;<xref rid="advs11629-fig-0005" ref-type="fig">5b,c</xref>, LTPCS shows a lower CF<sub>3</sub> fraction in C1s and F1s spectra (292.4, 692.0&#x000a0;eV) from TFSI<sup>&#x02212;</sup> on the cathodic surface than in LN&#x02010;LTPCS.<sup>[</sup>
+<xref rid="advs11629-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> This is because there is relatively less LiNO<sub>3</sub> adsorbed on the cathode side compared to the anode side, the anion repulsion is relatively weak, and the TFSI<sup>&#x02212;</sup> can decompose on the cathode side to form CEI. The &#x02010;CF<sub>3</sub> content of LTPCS&#x0003e;LN&#x02010;LTPCS on the anode side and the opposite trend on the cathode side provide evidence for the theory that the LiNO<sub>3</sub> layer dynamically regulates the electrode&#x02010;electrolyte interface. Besides, the CEI of LN&#x02010;LTPCS (Figure&#x000a0;<xref rid="advs11629-fig-0005" ref-type="fig">5d</xref>) also has the presence of NO<sub>3</sub>
+<sup>&#x02212;</sup> (408.8&#x000a0;eV), NO<sub>2</sub>
+<sup>&#x02212;</sup> (405.6&#x000a0;eV), and less C&#x02261;N (399.6&#x000a0;eV), suggesting that the preferential decomposition of LiNO<sub>3</sub> and participates in the formation of a fast ion&#x02010;transporting CEI layer. Such a CEI not only inhibits the dissolution of interfacial CEI by the polar solvent,<sup>[</sup>
+<xref rid="advs11629-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="advs11629-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> but also blocks the continuous reaction between the electrolyte. In contrast, there is more decomposition of organic solvents on the CEI of LTPCS, confirming irreversible electrochemical decomposition occurs inside the cell.<sup>[</sup>
+<xref rid="advs11629-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs11629-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> TEM confirmed the optimization of CEI by LiNO<sub>3</sub> additive. Figure&#x000a0;<xref rid="advs11629-fig-0005" ref-type="fig">5e</xref> shows the CEI in LTPCS was more inhomogeneous and with a thickness was about 10.7&#x0223c;17&#x000a0;nm, much thicker than that of LN&#x02010;LTPCS, which was about 8&#x000a0;nm and homogeneous (Figure&#x000a0;<xref rid="advs11629-fig-0005" ref-type="fig">5f</xref>). The results show that the LiNO<sub>3</sub> induces the formation of dense and thin CEI at the cathode interface. It not only prevents the cathode material from directly contacting the electrolyte to reduce the side reaction but is also used as a lithium source. Combined with high&#x02010;voltage resistant SN, synergistically improves the high&#x02010;voltage stability of the battery. Therefore, LN&#x02010;LTPCS both improves the compatibility with the lithium anode and the cathode.</p><fig position="float" fig-type="Figure" id="advs11629-fig-0005"><label>Figure 5</label><caption><p>a) XRD of NCM523 after high voltage cycling. b, c, d) C1s, N1s, and F1s spectra of the NCM523 cathodic interface after 20 cycles of cycling at 4.5&#x000a0;V for Li||LTPCS||NCM523 versus Li||LN&#x02010;LTPCS||NCM523 at high power, respectively. e, f) TEM images of the positive electrode of Li||NCM523 after 60 cycles of cycling at 3&#x0223c;4.5&#x000a0;V, respectively.</p></caption><graphic xlink:href="ADVS-12-2416656-g004" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="advs11629-sec-0050"><label>2.3</label><title>Battery Performance at Extreme Temperature</title><p>
+<bold>Figure</bold>
+<xref rid="advs11629-fig-0006" ref-type="fig">
+<bold>6</bold>a</xref> shows both LTPCS and LN&#x02010;LTPCS had better thermal stability, with decomposition onsets at about 150&#x000a0;&#x000b0;C with about 95% mass lost above 450&#x000a0;&#x000b0;C. The thermal performance of the LN&#x02010;LTPCS with LiNO<sub>3</sub> was slightly higher than that of the LTPCS system, this excellent thermal stability is sufficient for use in LMBs. It was found the Li||LN&#x02010;LTPCS||NCM523 battery exhibits excellent performance at high temperatures. The LN&#x02010;LTPCS system has a high initial specific capacity of 184 mAh g<sup>&#x02212;1</sup> and 90% capacity retention after 100 cycles at high temperatures, whereas the LTPCS system has only 1.3% capacity retention (Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6b</xref>). Moreover, LN&#x02010;LTPCS electrolyte makes Li||NCM523 battery shows good repeatability (Figure <xref rid="advs11629-supinfo-0001" ref-type="">S15</xref>, Supporting information), and better rate performance(Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6c</xref>). Electrolyte depletion is one of the main reasons for the degradation of cell performance, especially under extreme conditions.<sup>[</sup>
+<xref rid="advs11629-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> Compared to the LTPCS system, the Li||NCM523 cells with LN&#x02010;LTPCS have better electrochemical stability at high temperatures, which is due to the formation of a more stable EEI induced by LiNO<sub>3</sub>, reduced internal reaction in the battery (Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6d,e</xref>). SEM showed that compared to the lithium surface morphology of LTPCS, which is rough and porous (Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6f</xref>), the surface of LN&#x02010;LTPCS is smooth and compact (Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6g</xref>). As LiNO<sub>3</sub> particles are adsorbed and deposited on the electrode surface, they not only form a protective layer, but their strong repulsion with SN will drive away SN molecules and inhibit interfacial side reactions. When the internal temperature of the battery reaches 50&#x000a0;&#x000b0;C, LiNO<sub>3</sub> in the electrolyte decomposes and induces the formation of dense SEI, slowing down the consumption of solvent.<sup>[</sup>
+<xref rid="advs11629-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> Moreover, the clean separator after high&#x02010;temperature cycling (Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6h,i</xref>) further reflects the milder internal reaction in the LN&#x02010;LTPCS system.</p><fig position="float" fig-type="Figure" id="advs11629-fig-0006"><label>Figure 6</label><caption><p>a) Thermal decomposition curves of electrolyte components. b) Electrochemical performance of Li||NCM523 full cell at 3&#x0223c;4.3&#x000a0;V at (60&#x000a0;&#x000b0;C). c) Rate performance Li||NCM523 battery at 3&#x0223c;4.3&#x000a0;V at 60&#x000a0;&#x000b0;C. d) Specific capacity voltage curve of Li||LTPCS||NCM523. e) Specific capacity voltage curve of Li||LN&#x02010;LTPCS||NCM52. f) Lithium metal surface morphology after 100 cycles of Li||LTPCS||NCM523 at 60&#x000a0;&#x000b0;C with different magnifications. g) Lithium metal surface morphology after 100 cycles of Li||LN&#x02010;LTPCS||NCM523 at 60&#x000a0;&#x000b0;C at different magnifications. h, i) Separator state of Li||LTPCS||NCM523 and Li||LN&#x02010;LTPCS||NCM523 cells after 100 cycles at 3&#x0223c;4.3&#x000a0;V at 60&#x000a0;&#x000b0;C. j, k) Surface morphology of NCM523 after 100 cycles at 4.3&#x000a0;V voltage for Li||LTPCS||NCM523 and Li||LN&#x02010;LTPCS||NCM523 batteries at 60&#x000a0;&#x000b0;C. l) XRD of the cathode after cycling under different conditions.</p></caption><graphic xlink:href="ADVS-12-2416656-g007" position="anchor" id="jats-graphic-13"/></fig><p>In fact, cathode materials also face interfacial instability challenges,<sup>[</sup>
+<xref rid="advs11629-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> especially in high temperatures. The surface morphology of NCM523 after cycling under high&#x02010;temperature conditions was investigated by SEM. Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6j,k</xref> and Figure <xref rid="advs11629-supinfo-0001" ref-type="">S16</xref> (Supporting information) show that cracks appeared on the anode surface of the LTPCS system after high&#x02010;temperature cycling, while the anode surface of LN&#x02010;LTPCS system was more intact after cycling. Besides, irreversible phase transitions and volume changes induced by mixed cations are the main reasons for the thermal degradation and cycling stability of batteries.<sup>[</sup>
+<xref rid="advs11629-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs11629-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="advs11629-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="advs11629-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="advs11629-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="advs11629-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> High temperatures accelerate this process because due to rapid insertion/desertion of Li<sup>+</sup>and interface reaction.<sup>[</sup>
+<xref rid="advs11629-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> XRD showed (Figure&#x000a0;<xref rid="advs11629-fig-0006" ref-type="fig">6l</xref>) confirms the above idea that the crystalline surface of NCM523 (003) of LTPCS was shifted after high&#x02010;temperature cycling, while LN&#x02010;LTPCS did not undergo any significant change. In conclusion, the preferential adsorption of LiNO<sub>3</sub> particles separates the electrolyte from the electrode, and the LiNO<sub>3</sub>&#x02010;formed layer inhibits the penetration of the electrolyte and the constant side reactions, which reduces the interfacial reaction (Figure <xref rid="advs11629-supinfo-0001" ref-type="">S17</xref>, Supporting information). On the other hand, the LiNO<sub>3</sub> plate will influence the coordination of Li<sup>+</sup> solvation and can cause anions to accumulate at the cathode by repelling them, forming an anion&#x02010;rich CEI, which effectively reduces the continuous consumption of organic solvent. At the same time, LiNO<sub>3</sub> also plays the role of Li&#x02010;ion supplementation, hindering lithium&#x02010;nickel mixing and crack expansion,<sup>[</sup>
+<xref rid="advs11629-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="advs11629-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+<sup>]</sup> The results show that LiNO<sub>3</sub> is effective in inhibiting the phase transition and microcracking of NCM523 during cycling even under high&#x02010;temperature conditions. In addition to keeping stable at high temperatures, Li||NCM523 with LN&#x02010;LTPCS electrolyte remains stable to run for 100 cycles without a significant increase in polarization voltage at &#x02010;10&#x000a0;&#x000b0;C (Figures <xref rid="advs11629-supinfo-0001" ref-type="">S18</xref> and <xref rid="advs11629-supinfo-0001" ref-type="">S19</xref>, Supporting information).</p></sec></sec><sec id="advs11629-sec-0060"><label>3</label><title>Conclusion</title><p>In this work, we propose a suspension electrolyte design to obtain LMBs adapted to extreme environments. A detailed study based on a LiNO<sub>3</sub> suspension electrolyte was carried out. Computational and experimental characterization demonstrates that LiNO<sub>3</sub> particles are in the suspended state, affecting electrolyte solvation structure and interfacial composition by the strong interaction with the electrolyte and the strong adsorption with the interface. On one side, LiNO<sub>3</sub> particles preferentially adsorb on lithium anode to reduce corrosion of anode coming from SN and promote an anion&#x02010;rich cathode interface form via exclusionary effect. At the same time, LiNO<sub>3</sub> undergoes self&#x02010;decomposition and induces the formation of a stable LiN<sub>x</sub>O<sub>y</sub>&#x02010;rich EEI. The stable EEI favors rapid ion transport and effectively inhibits the electrode/electrolyte irreversible side reaction. The designed electrolyte system has excellent electrochemical stability at a high&#x02010;voltage of 4.5&#x000a0;V and makes the Li||NCM523 battery run stably at wide temperatures of &#x02010;10&#x0223c;60&#x000a0;&#x000b0;C, e.g., Li||NCM523 battery run for 100 cycles with high capacity retention of 90.05% at a high temperature of 60&#x000a0;&#x000b0;C. This study demonstrates that rational electrolyte design enables the construction of stable electrode&#x02010;electrolyte interphases, and enhances cycling resilience across wide temperature ranges.</p></sec><sec sec-type="COI-statement" id="advs11629-sec-0080"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="advs11629-sec-0090"><title>Author Contributions</title><p>W.Z. acquired and analyzed most of the experimental data and wrote the manuscript under the guidance of Y.L. Z.Z. and H.Z. acquired and analyzed the simulated data. X.L. offered expertise in the computational simulation. All data were analyzed under the guidance of Y.L. and Z.R., and the results were further cross&#x02010;checked. Y.L. and Z.R. conceived the work and were in charge of overall direction and funding support. All the authors reviewed and edited the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs11629-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="advs11629-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-12-2416656-s001.docx"/></supplementary-material></sec></body><back><ack id="advs11629-sec-0070"><title>Acknowledgements</title><p>This work is supported by the funds for the National Natural Science Foundation of China (52176092, 52311530086), Hebei Natural Science Foundation (E2024202056, B2023202027), S&#x00026;T Program of Hebei (242G4401Z, E2024202293), Science and Technology Project of Hebei Education Department (QN2024080, JZX2024003), the open research fund of Songshan Lake Materials Laboratory (2023SLABFN13).</p></ack><sec sec-type="data-availability" id="advs11629-sec-0110"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs11629-bibl-0001"><ref id="advs11629-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs11629-cite-0001">
+<string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nature</source>
+<year>2008</year>, <volume>451</volume>, <fpage>652</fpage>.<pub-id pub-id-type="pmid">18256660</pub-id>
+</mixed-citation></ref><ref id="advs11629-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs11629-cite-0002">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2018</year>, <volume>12</volume>, <fpage>161</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs11629-cite-0003">
+<string-name>
+<given-names>X.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Chem. Eng. J.</source>
+<year>2024</year>, <volume>491</volume>, <elocation-id>152010</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs11629-cite-0004">
+<string-name>
+<given-names>T.</given-names>
+<surname>Wulandari</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Fawcett</surname>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Majumder</surname>
+</string-name>, <string-name>
+<given-names>G. E.</given-names>
+<surname>Poinern</surname>
+</string-name>, <source>Battery Energy</source>
+<year>2023</year>, <volume>2</volume>, <elocation-id>20230030</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs11629-cite-0005">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>El&#x02010;Hady</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Alshitari</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Al&#x02010;Bogami</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1900161</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs11629-cite-0006">
+<string-name>
+<given-names>M.</given-names>
+<surname>Broussely</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Archdale</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2004</year>, <volume>136</volume>, <fpage>386</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs11629-cite-0007">
+<string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>833</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs11629-cite-0008">
+<string-name>
+<given-names>Z. P.</given-names>
+<surname>Cano</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Banham</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hintennach</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fowler</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>279</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs11629-cite-0009">
+<string-name>
+<given-names>M. D.</given-names>
+<surname>Tikekar</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Choudhury</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16114</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs11629-cite-0010">
+<string-name>
+<given-names>F.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xie</surname>
+</string-name>, <source>Energy Environ. Mater.</source>
+<year>2023</year>, <volume>6</volume>, <elocation-id>e12367</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs11629-cite-0011">
+<string-name>
+<given-names>L. P.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>C. B.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q. B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B. Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>61</volume>, <elocation-id>e202201406</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs11629-cite-0012">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>EScience</source>
+<year>2021</year>, <volume>1</volume>, <fpage>108</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs11629-cite-0013">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L. P.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>B. Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Carbon Energy</source>
+<year>2023</year>, <volume>5</volume>, <elocation-id>e283</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs11629-cite-0014">
+<string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Piao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2021</year>, <volume>6</volume>, <fpage>1413</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs11629-cite-0015">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2021</year>, <volume>89</volume>, <elocation-id>106353</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs11629-cite-0016">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Jie</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jiao</surname>
+</string-name>, <source>Angew. Chem.</source>
+<year>2020</year>, <volume>132</volume>, <fpage>3533</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs11629-cite-0017">
+<string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L. D.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <elocation-id>16732</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs11629-cite-0018">
+<string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <elocation-id>14055</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs11629-cite-0019">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yun</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source>Pure Appl. Chem.</source>
+<year>2014</year>, <volume>86</volume>, <fpage>585</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs11629-cite-0020">
+<string-name>
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jiao</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>1903008</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs11629-cite-0021">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;C.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2024</year>, <volume>17</volume>, <fpage>5993</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs11629-cite-0022">
+<string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2023</year>, <volume>15</volume>, <elocation-id>18323</elocation-id>.<pub-id pub-id-type="pmid">37000020</pub-id>
+</mixed-citation></ref><ref id="advs11629-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs11629-cite-0023">
+<string-name>
+<given-names>B.</given-names>
+<surname>Sexton</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Avery</surname>
+</string-name>, <source>Surf. Sci.</source>
+<year>1983</year>, <volume>129</volume>, <fpage>21</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs11629-cite-0024">
+<string-name>
+<given-names>M.</given-names>
+<surname>Barber</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Connor</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Guest</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Hillier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Stacey</surname>
+</string-name>, <source>J. Chem. Soc., Faraday Trans. 2</source>
+<year>1973</year>, <volume>69</volume>, <fpage>551</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs11629-cite-0025">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Cheng</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2302620</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs11629-cite-0026">
+<string-name>
+<given-names>H.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Roh</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;T.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2024</year>, <volume>9</volume>, <fpage>57</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs11629-cite-0027">
+<string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Acta Phys.&#x02010;Chim. Sin</source>
+<year>2021</year>, <volume>37</volume>, <elocation-id>2009001</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs11629-cite-0028">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <source>Batteries Supercaps</source>
+<year>2024</year>, <volume>7</volume>, <elocation-id>202400034</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs11629-cite-0029">
+<string-name>
+<given-names>S.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>M. N.</given-names>
+<surname>Ate&#x0015f;</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Nano&#x02010;Micro Lett.</source>
+<year>2023</year>, <volume>15</volume>, <fpage>215</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs11629-cite-0030">
+<string-name>
+<given-names>W.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Sci. Bull.</source>
+<year>2024</year>, <volume>69</volume>, <fpage>1689</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs11629-cite-0031">
+<string-name>
+<given-names>R.</given-names>
+<surname>May</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Fritzsching</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Livitz</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Denny</surname>
+</string-name>, <string-name>
+<given-names>L. E.</given-names>
+<surname>Marbella</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2021</year>, <volume>6</volume>, <fpage>1162</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs11629-cite-0032">
+<string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chae</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cho</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2015</year>, <volume>54</volume>, <fpage>4440</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs11629-cite-0033">
+<string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lv</surname>
+</string-name>, <source>Natl. Sci. Rev.</source>
+<year>2024</year>, <volume>11</volume>, <elocation-id>nwae219</elocation-id>.<pub-id pub-id-type="pmid">39131924</pub-id>
+</mixed-citation></ref><ref id="advs11629-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs11629-cite-0034">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xiao</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <elocation-id>2310051</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs11629-cite-0035">
+<string-name>
+<given-names>T.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;J.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2021</year>, <volume>38</volume>, <fpage>599</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs11629-cite-0036">
+<string-name>
+<given-names>B.&#x02010;J.</given-names>
+<surname>Chae</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mun</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yim</surname>
+</string-name>, <source>J. Electrochem. Sci. Technol.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>361</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs11629-cite-0037">
+<string-name>
+<given-names>K.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <source>Electrochim. Acta.</source>
+<year>2018</year>, <volume>281</volume>, <fpage>274</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs11629-cite-0038">
+<string-name>
+<given-names>H.&#x02010;R.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;J.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;S.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ming</surname>
+</string-name>, <source>J. of Electrochem.</source>
+<year>2022</year>, <volume>28</volume>, <fpage>3</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs11629-cite-0039">
+<string-name>
+<given-names>L.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>L. P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S. J. H.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Lev</surname>
+</string-name>, <string-name>
+<given-names>Z. J.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2019</year>, <volume>166</volume>, <elocation-id>A3570</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs11629-cite-0040">
+<string-name>
+<given-names>Z.&#x02010;Z.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>G.&#x02010;Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.&#x02010;L.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tong</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;L.</given-names>
+<surname>Tong</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cheng</surname>
+</string-name>, <source>Rare Met.</source>
+<year>2023</year>, <volume>42</volume>, <fpage>4103</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs11629-cite-0041">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gu</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2018</year>, <volume>49</volume>, <fpage>434</fpage>.</mixed-citation></ref><ref id="advs11629-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs11629-cite-0042">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Rajagopalan</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Chem. Eng. J.</source>
+<year>2020</year>, <volume>382</volume>, <elocation-id>122959</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs11629-cite-0043">
+<string-name>
+<given-names>B. A.</given-names>
+<surname>Jote</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Shitaw</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Weret</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;T.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;N.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Hwang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2022</year>, <volume>532</volume>, <elocation-id>231303</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs11629-cite-0044">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Iqbal</surname>
+</string-name>, <source>Electrochim. Acta.</source>
+<year>2020</year>, <volume>359</volume>, <elocation-id>136963</elocation-id>.</mixed-citation></ref><ref id="advs11629-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs11629-cite-0045">
+<string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Noh</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;G.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;T.</given-names>
+<surname>Myung</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2012</year>, <volume>11</volume>, <fpage>942</fpage>.<pub-id pub-id-type="pmid">23042415</pub-id>
+</mixed-citation></ref></ref-list></back></article>

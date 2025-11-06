@@ -1,0 +1,1856 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs8675" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11321704</article-id><article-id pub-id-type="pmid">38874109</article-id>
+<article-id pub-id-type="doi">10.1002/advs.202404307</article-id><article-id pub-id-type="publisher-id">ADVS8675</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Robust and Adhesive Laminar Solid Electrolyte with Homogenous and Fast Li&#x02010;Ion Conduction for High&#x02010;Performance All&#x02010;Solid&#x02010;State Lithium Metal Battery</article-title></title-group><contrib-group><contrib id="advs8675-cr-0001" contrib-type="author"><name><surname>Guo</surname><given-names>Shiyuan</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0002" contrib-type="author" corresp="yes"><name><surname>Su</surname><given-names>Yuefeng</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>suyuefeng@bit.edu.cn</email></address></contrib><contrib id="advs8675-cr-0003" contrib-type="author"><name><surname>Yan</surname><given-names>Kang</given-names></name><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0004" contrib-type="author"><name><surname>Zhao</surname><given-names>Chenying</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0005" contrib-type="author"><name><surname>Lu</surname><given-names>Yun</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0006" contrib-type="author"><name><surname>Wang</surname><given-names>Haoyu</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs8675-cr-0007" contrib-type="author"><name><surname>Dong</surname><given-names>Jinyang</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0008" contrib-type="author"><name><surname>Li</surname><given-names>Ning</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0009" contrib-type="author"><name><surname>Liu</surname><given-names>Yun</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0010" contrib-type="author"><name><surname>Guan</surname><given-names>Yibiao</given-names></name><xref rid="advs8675-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs8675-cr-0011" contrib-type="author"><name><surname>Wu</surname><given-names>Feng</given-names></name><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs8675-cr-0012" contrib-type="author" corresp="yes"><name><surname>Chen</surname><given-names>Lai</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8226-3140</contrib-id><xref rid="advs8675-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8675-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>chenlai@bit.edu.cn</email></address></contrib></contrib-group><aff id="advs8675-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Materials Science and Engineering</named-content>
+<named-content content-type="organisation-division">Beijing Key Laboratory of Environmental Science and Engineering</named-content>
+<institution>Beijing Institute of Technology</institution>
+<city>Beijing</city>
+<postal-code>100081</postal-code>
+<country country="CN">P. R. China</country>
+</aff><aff id="advs8675-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Chongqing Innovation Center</named-content>
+<institution>Beijing Institute of Technology</institution>
+<city>Chongqing</city>
+<postal-code>401120</postal-code>
+<country country="CN">P. R. China</country>
+</aff><aff id="advs8675-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">National Key Laboratory of Renewable Energy Grid&#x02010;Integration</named-content>
+<institution>China Electric Power Research Institute</institution>
+<city>Beijing</city>
+<postal-code>100192</postal-code>
+<country country="CN">P. R. China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>suyuefeng@bit.edu.cn</email>; <email>chenlai@bit.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>6</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2024</year></pub-date><volume>11</volume><issue seq="900">30</issue><issue-id pub-id-type="doi">10.1002/advs.v11.30</issue-id><elocation-id>2404307</elocation-id><history>
+<date date-type="rev-recd"><day>23</day><month>5</month><year>2024</year></date>
+<date date-type="received"><day>23</day><month>4</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2024 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-11-2404307.pdf"/><abstract><title>Abstract</title><p>Constructing composite solid electrolytes (CSEs) integrating the merits of inorganic and organic components is a promising approach to developing high&#x02010;performance all&#x02010;solid&#x02010;state lithium metal batteries (ASSLMBs). CSEs are now capable of achieving homogeneous and fast Li&#x02010;ion flux, but how to escape the trade&#x02010;off between mechanical modulus and adhesion is still a challenge. Herein, a strategy to address this issue is proposed, that is, intercalating highly conductive, homogeneous, and viscous&#x02010;fluid ionic conductors into robust coordination laminar framework to construct laminar solid electrolyte with homogeneous and fast Li&#x02010;ion conduction (LSE&#x02010;HFC). A 9&#x000a0;&#x000b5;m&#x02010;thick LSH&#x02010;HFC, in which poly(ethylene oxide)/succinonitrile is adsorbed by coordination laminar framework with metal&#x02013;organic framework nanosheets as building blocks, is used here as an example to determine the validity. The Li&#x02010;ion transfer mechanism is verified and works across the entire LSE&#x02010;HFC, which facilitates homogeneous Li&#x02010;ion flux and low migration energy barriers, endowing LSE&#x02010;HFC with high ionic conductivity of 5.62&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>&#x000a0;S&#x000a0;cm<sup>&#x02212;1</sup> and Li&#x02010;ion transference number of 0.78 at 25&#x000a0;&#x000b0;C. Combining the outstanding mechanical strength against punctures and the enhanced adhesion force with electrodes, LSE&#x02010;HFC harvests uniform Li plating/stripping behavior. These enable the realization of high&#x02010;energy&#x02010;density ASSLMBs with excellent cycling stability when being assembled as LiFePO<sub>4</sub>/Li and LiNi<sub>0.6</sub>Mn<sub>0.2</sub>Co<sub>0.2</sub>O<sub>2</sub>/Li cells.</p></abstract><abstract id="advs8675-abs-0001" abstract-type="graphical"><p>A thin laminar solid electrolyte can actualize the homogeneous and fast Li&#x02010;ion flux while also breaking the trade&#x02010;off between mechanical modulus and adhesion. The robust coordination laminar framework allows electrolytes to achieve a high Young's modulus against punctures. Viscous&#x02010;fluid ionic conductor confined in coordination laminar framework provides homogeneous and fast Li&#x02010;ion transport channels and adhesive contact with electrodes.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-11-2404307-g005.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs8675-kwd-0001">adhesion</kwd><kwd id="advs8675-kwd-0002">all&#x02010;solid&#x02010;state lithium metal batteries</kwd><kwd id="advs8675-kwd-0003">homogeneous and fast Li&#x02010;ion flux</kwd><kwd id="advs8675-kwd-0004">mechanical modulus</kwd><kwd id="advs8675-kwd-0005">thin laminar solid electrolytes</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>22179008</award-id><award-id>21875022</award-id><award-id>22209156</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Beijing Nova Program
+</institution><institution-id institution-id-type="doi">10.13039/501100005090</institution-id></institution-wrap></funding-source><award-id>20230484241</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="13"/><word-count count="8549"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 14, 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.6 mode:remove_FC converted:13.08.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs8675-cit-0050">
+<string-name>
+<given-names>S.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <article-title>Robust and Adhesive Laminar Solid Electrolyte with Homogenous and Fast Li&#x02010;Ion Conduction for High&#x02010;Performance All&#x02010;Solid&#x02010;State Lithium Metal Battery</article-title>. <source>Adv. Sci.</source>
+<year>2024</year>, <volume>11</volume>, <elocation-id>2404307</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202404307</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs8675-sec-0010"><label>1</label><title>Introduction</title><p>Switching out liquid electrolytes with solid&#x02010;state electrolytes (SSEs) has been proven that the effective approach to overcome safety concerns of high&#x02010;energy&#x02010;density lithium metal batteries.<sup>[</sup>
+<xref rid="advs8675-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs8675-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs8675-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> To meet the requirement of all&#x02010;solid&#x02010;state lithium metal batteries (ASSLMBs) with satisfactory performance, SSEs should be equipped with the following merits. First, the homogeneous and fast Li&#x02010;ion flux in SSEs is imperative for suppressing the lithium dendrites growth induced by high local Li&#x02010;ion concentration.<sup>[</sup>
+<xref rid="advs8675-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs8675-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> Second, SSEs, acting as a compartment between the electrodes, ought to possess sufficient mechanical strength to prevent the short circuit during charge&#x02013;discharge.<sup>[</sup>
+<xref rid="advs8675-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> Third, it is also indispensable to create the adhesive contact between SSEs and electrodes, which will enhance the Li&#x02010;ion transfer kinetics within the interfaces and further improve the cycling performance of the battery.<sup>[</sup>
+<xref rid="advs8675-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs8675-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Unfortunately, the currently available SSEs, including inorganic solid electrolytes (ISEs), solid polymer electrolytes (SPEs), and composite solid electrolytes (CSEs), still cannot fully meet all the above requirements.</p><p>Specifically, ISEs (e.g., oxides and sulfides) generally exhibit a superior Li&#x02010;ion conductivity of 10<sup>&#x02212;4</sup> to 10<sup>&#x02212;2</sup>&#x000a0;S&#x000a0;cm<sup>&#x02212;1</sup> at room temperature (RT), but the Li&#x02010;ion flux within the ISEs is typically inhomogeneous, due to the significant difference in Li&#x02010;ion transfer impedance at grain boundaries and the grains.<sup>[9&#x02212;11]</sup> In addition, although the high mechanical modulus of ISEs helps inhibit the growth of lithium dendrites, it will also lead to undesirable electrolyte/electrode contact, which incurs the notoriously large interfacial resistance laying a giant gap for their practical application.<sup>[</sup>
+<xref rid="advs8675-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> Relatively, compared with ISEs, the softness of SPEs endows them with ameliorative interfacial contact.<sup>[</sup>
+<xref rid="advs8675-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> Besides, SPEs represented by poly(ethylene oxide) (PEO) electrolytes also feature lightweight, low&#x02010;cost, and superior film processability.<sup>[</sup>
+<xref rid="advs8675-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs8675-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> However, poor ionic conductivity and mechanical strength become stumbling blocks for SPEs in further application.<sup>[</sup>
+<xref rid="advs8675-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> For example, PEO electrolyte has only an ionic conductivity of 10<sup>&#x02212;7</sup> to 10<sup>&#x02212;6</sup>&#x000a0;S&#x000a0;cm<sup>&#x02212;1</sup> at RT arising from the high crystallinity of PEO chains and is also at risk of being punctured by lithium dendrites.<sup>[</sup>
+<xref rid="advs8675-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> In response to the hindrance, constructing CSEs by adding inorganic fillers into a polymer matrix can elevate ionic conductivity and mechanical strength.<sup>[</sup>
+<xref rid="advs8675-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs8675-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="advs8675-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> Nonetheless, the mismatch of inorganic filler size (typically greater than 50&#x000a0;nm) with the distance between neighboring Li&#x02010;ion binding sites in PEO (&#x02248;0.5&#x000a0;nm) would only lead to a limited improvement of ionic conductivity in the specific position, causing the inhomogeneous and inferior Li&#x02010;ion flux.<sup>[</sup>
+<xref rid="advs8675-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> Besides, these CSEs are also unable to escape the trade&#x02010;off between mechanical modulus and adhesion.<sup>[</sup>
+<xref rid="advs8675-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup>
+</p><p>Succinonitrile (SN) features a molecular size similar to the unit Li&#x02010;ion transfer distance in PEO, combined with the excellent salt&#x02010;solvating ability optimizing the chemical environment of Li&#x02010;ion, makes SN an ideal filler to facilitate homogeneous and fast Li&#x02010;ion flux in PEO&#x02010;based CSEs.<sup>[</sup>
+<xref rid="advs8675-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> Meanwhile, the addition of SN will not only increase the viscosity of the electrolyte and create adhesive contact between the electrolyte and electrodes, thus reducing the interfacial resistance but also achieve homogeneous and fast Li&#x02010;ion flux when the SN content is sufficient.<sup>[</sup>
+<xref rid="advs8675-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="advs8675-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Notably, the SN content in reported common PEO/SN electrolytes rarely exceeded 10&#x000a0;wt.% to ensure that the CSE could be free&#x02010;standing.<sup>[</sup>
+<xref rid="advs8675-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> Therefore, the pivotal issue is how to balance the mechanical strength of PEO/SN electrolytes with homogeneous and fast Li&#x02010;ion flux.</p><p>Recently, laminar membranes constructed by the self&#x02010;stacking of 2D nanosheets with high aspect ratios have garnered a lot of attention due to their ultrathin yet robust features.<sup>[</sup>
+<xref rid="advs8675-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs8675-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> Especially, laminar membrane, with metal&#x02013;organic framework (MOF) nanosheets containing coordinatively unsaturated metal sites as building blocks, also exhibits an ability to anchor polar molecules.<sup>[</sup>
+<xref rid="advs8675-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> For instance, Fang et&#x000a0;al. developed a laminar MOF membrane applied in lithium&#x02010;sulfur battery to trap polysulfide through the strong interaction between MOF nanosheets and polysulfide.<sup>[</sup>
+<xref rid="advs8675-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> Wang and coworkers utilized the coordination interaction storing SN in a laminar MOF membrane to prepare an ultra&#x02010;thin electrolyte with remarkable electrochemical performances.<sup>[</sup>
+<xref rid="advs8675-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> These demonstrate the great potential of advanced laminar structure applied to SSEs. Utilizing this superior structure to store viscous&#x02010;fluid PEO/SN electrolytes provides a possibility for the realization of SSEs simultaneously possessing the mentioned merits. Besides, the low density of MOF and ultrathin properties are favorable factors for increasing the energy density of ASSLMBs.<sup>[</sup>
+<xref rid="advs8675-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup>
+</p><p>Thereupon, we propose a strategy for designing thin laminar solid electrolytes that can actualize the homogeneous and fast Li&#x02010;ion flux while also breaking the trade&#x02010;off between mechanical modulus and adhesion by intercalating highly conductive, homogeneous, and viscous&#x02010;fluid ionic conductor into robust coordination laminar framework, as seen in <bold>Scheme</bold>&#x000a0;<xref rid="advs8675-fig-0007" ref-type="fig">
+<bold>1</bold>
+</xref>. This work gives an example of a 9&#x000a0;&#x000b5;m&#x02010;thick laminar solid electrolyte with homogeneous and fast Li&#x02010;ion conduction (LSE&#x02010;HFC) prepared through filtrating viscous&#x02010;fluid PEO/SN/Li salts (molar ratio of SN:EO = 1:4) into robust laminar MOF framework (LMF) formed by self&#x02010;stacking of tetrakis(4&#x02010;carboxy&#x02010;phenyl)porphyrin copper (CuTCPP) nanosheets. We demonstrate that the interaction between coordinatively unsaturated copper sites of CuTCPP and PEO/SN imparts LSE&#x02010;HFC mechanical stability. The competing transfer mechanism of [PEO&#x000b7;&#x000b7;&#x000b7;Li<sup>+</sup>&#x000b7;&#x000b7;&#x000b7;SN] is verified and works across the entire LSE&#x02010;HFC, which facilitates homogeneous Li&#x02010;ion flux and low migration energy barriers, endowing LSE&#x02010;HFC with high ionic conductivity of 5.62&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>&#x000a0;S&#x000a0;cm<sup>&#x02212;1</sup> and Li&#x02010;ion transference number of 0.78 at 25&#x000a0;&#x000b0;C. Meanwhile, LSE&#x02010;HFC also obtains an outstanding Young's modulus against punctures and enhanced adhesion force benefiting Li&#x02010;ion transfer within the electrolyte/electrodes interfaces, consolidating the uniform Li plating/stripping behavior. Thereupon, the assembled LiFePO<sub>4</sub> (LFP)/Li cell delivers excellent stability of 600 and 300 cycles at 55&#x000a0;&#x000b0;C, 0.5C and 25&#x000a0;&#x000b0;C, 0.2C, respectively. The LiNi<sub>0.6</sub>Mn<sub>0.2</sub>Co<sub>0.2</sub>O<sub>2</sub> (NCM622)/Li cell realizes a high energy density of 420.7&#x000a0;Wh&#x000a0;kg<sup>&#x02212;1</sup> and cycles over 150 cycles with capacity retention of 88.7% at 25&#x000a0;&#x000b0;C and 0.2C.</p><fig position="float" fig-type="Scheme" id="advs8675-fig-0007"><label>Scheme 1</label><caption><p>Schematic illustration of thin laminar solid electrolyte with robust and adhesive features as well as homogeneous and fast Li&#x02010;ion flux applied in ASSLMBs.</p></caption><graphic xlink:href="ADVS-11-2404307-g004" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="advs8675-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs8675-sec-0030"><label>2.1</label><title>Preparation and Characterization of LSE&#x02010;HFC</title><p>The CuTCPP nanosheets were obtained by a surfactant&#x02010;assisted synthetic method (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S1</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs8675-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> FTIR spectra in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S2</xref> (Supporting Information) reveal the peaks located at &#x02248;1400 and 1610&#x000a0;cm<sup>&#x02212;1</sup>, which demonstrates the formation of Cu<sub>2</sub>(COO)<sub>4</sub>.<sup>[</sup>
+<xref rid="advs8675-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> The crystal structure of CuTCPP is well confirmed by powder XRD (<bold>Figure</bold>&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>), and the high&#x02010;magnification TEM image in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S3</xref> (Supporting Information) displays that the lattice fringes with <italic toggle="yes">d</italic>&#x02010;spacings of 0.46&#x000a0;nm match with the (004) plane of CuTCPP. AFM images exhibit that CuTCPP nanosheets possess lateral size of 1&#x02212;3&#x000a0;&#x000b5;m and thickness of &#x02248;4.5&#x000a0;nm (Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1b</xref>; Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information), SEM and mapping images demonstrate Cu, C, and N elements are homogeneously dispersed in the nanosheets (Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1c</xref>). Collectively, these results demonstrate the successful preparation of CuTCPP nanosheets. Noteworthily, the micropores size of CuTCPP nanosheets measured by N<sub>2</sub> adsorption experiment is &#x02248;0.59&#x000a0;nm (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information), which is believed to be beneficial for the transport of Li&#x02010;ion but limiter for bigger anions owing to the sieving effect, thus contributing to the upgrade of Li&#x02010;ion transference number.<sup>[</sup>
+<xref rid="advs8675-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs8675-fig-0001"><label>Figure 1</label><caption><p>a) XRD pattern, b) AFM image and the corresponding height profiles, and c) SEM image and the corresponding elemental EDS (Cu, C, and N) mappings of CuTCPP nanosheets. d) Schematic illustration of the preparation of LSE&#x02010;HFC. e) XRD patterns of LMF and LSE&#x02010;HFC. Cross&#x02010;sectional SEM images of f) LMF and g) LSE&#x02010;HFC (inset displays the corresponding elemental EDS (Cu, O, N, and F) mappings).</p></caption><graphic xlink:href="ADVS-11-2404307-g008" position="anchor" id="jats-graphic-5"/></fig><p>The preparation process of LSE&#x02010;HFC is schematically illustrated in Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1d</xref>. To guarantee that the dispersed solution of CuTCPP nanosheets could readily reassemble into a thin, well&#x02010;ordered, and robust film on a nylon substrate, low&#x02010;pressure and constant&#x02010;rate filtration was first adopted. After undergoing the drying step, LMF was obtained, as shown in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S6</xref> (Supporting Information). Here, the well&#x02010;ordered laminar structure is crucial to facilitate the intercalation and further continuity of the objects that are subsequently introduced.<sup>[</sup>
+<xref rid="advs8675-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> XRD pattern displayed in Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1e</xref> shows that LMF exhibits almost one peak corresponding to (004) plane, which means that the nanosheets are highly oriented with stacking along the <italic toggle="yes">c</italic>&#x02010;axis, forming a regular laminar structure.<sup>[</sup>
+<xref rid="advs8675-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> The cross&#x02010;sectional SEM image in Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1f</xref> further confirms the regular orientation of LMF. Following the swelling step, LMF was filled with a low&#x02010;concentration PEO&#x02010;SN&#x02010;LiTFSI&#x02010;LiDFOB&#x02010;acetonitrile solution (molar ratios of EO:Li and EO:SN of 18:1 and 4:1, respectively) by vacuum filtration method, and then dried for 24&#x000a0;h in the argon&#x02010;filled glovebox to obtain LSE&#x02010;HFC. 1&#x000a0;wt.% LiDFOB was added to participate in the construction of CEI and SEI.<sup>[</sup>
+<xref rid="advs8675-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> The mass ratios of LMF and SN in as&#x02010;prepared LSE&#x02010;HFC reach 49.7% and 12.3%, respectively (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S7</xref>, Supporting Information). Noteworthily, the polymer existing in LMF interlayers serves as a deformable buffer, endowing LSE&#x02010;HFC with bendable properties (inset in Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1d</xref>), which will facilitate the assembly of pouch cells.<sup>[</sup>
+<xref rid="advs8675-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> The cross&#x02010;sectional SEM image in Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1g</xref> reveals an engorged and compact laminar morphology with a thickness of &#x02248;9&#x000a0;&#x000b5;m, and corresponding elemental EDS (Cu, O, N, and F) mappings demonstrate the uniform distribution of PEO, SN, and Li salts in LSE&#x02010;HFC. This thin property is a favorable factor for increasing the energy density of ASSLMBs.<sup>[</sup>
+<xref rid="advs8675-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> XRD pattern of LSE&#x02010;HFC in Figure&#x000a0;<xref rid="advs8675-fig-0001" ref-type="fig">1e</xref> also exhibits almost one peak at 19.1&#x000b0;, while the diffraction peaks belonging to PEO, SN, and Li salts are not visibly observed (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S8</xref>, Supporting Information). This phenomenon should be ascribed to the fact that PEO/SN/Li salts system in LSE&#x02010;HFC is nearly amorphous, which will boost Li&#x02010;ion conduction. In addition, compared with LMF, the peak corresponding to (004) plane in LSE&#x02010;HFC shifts slightly, which might be owing to the occupation of the unsaturated coordination around Cu by PEO/SN.<sup>[</sup>
+<xref rid="advs8675-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> The surface morphologies of LMF and LSE&#x02010;HFC are observed in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S9</xref> (Supporting Information), which reveals a much smoother surface of LSE&#x02010;HFC. Meanwhile, the roughness of LSE&#x02010;HFC is significantly reduced compared to PEO/LiTFSI and PEO/SN/LiTFSI (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S10</xref>, Supporting Information), which helps in the close contact of LSE&#x02010;HFC with the electrodes.</p></sec><sec id="advs8675-sec-0040"><label>2.2</label><title>Exploring the Li&#x02010;Ion Chemical Environment in LSE&#x02010;HFC</title><p>The <sup>13</sup>C NMR measurements were carried out to verify the interaction between LMF and PEO/SN (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S11</xref>, Supporting Information). For PSL/LMF (prepared by filtrating PEO/SN/LiTFSI into LMF), the peaks representing &#x02500;CH<sub>2</sub>&#x02500;O&#x02500; in PEO and &#x02500;C&#x02261;N in SN all shift to lower field compared with PEO/SN/LiTFSI, indicating the reduced electron cloud density around &#x02500;CH<sub>2</sub>&#x02500;O&#x02500; and &#x02212;C&#x02261;N and implying that the coordination interaction is more likely to be formed between unsaturated copper sites of LMF and PEO/SN. To further demonstrate this interaction, adsorption energy was calculated using the DFT (<bold>Figure</bold>&#x000a0;<xref rid="advs8675-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>). It is revealed that CuTCPP nanosheets, the building blocks of LMF, have negative adsorption energies of &#x02212;1.67 and &#x02212;1.21&#x000a0;eV with PEO and SN, respectively, which suggests an excellent adhesion capability between the LMF and PEO/SN. The coordination imparts LMF the ability to store viscous&#x02010;fluid PEO/SN electrolyte, which ensures the mechanical stability of LSE&#x02010;HFC. Besides, such coordination may reduce the binding effect of &#x02500;CH<sub>2</sub>&#x02500;O&#x02500; and &#x02212;C&#x02261;N on Li&#x02010;ion, thereby promoting Li&#x02010;ion transport.<sup>[</sup>
+<xref rid="advs8675-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs8675-fig-0002"><label>Figure 2</label><caption><p>a) DFT calculated adsorption energy of PEO and SN on the CuTCPP nanosheets. b) Raman spectra of PEO/SN/LiTFSI and LSE&#x02010;HFC. c) O 1s XPS spectra of PEO/LiTFSI, PEO/SN/LiTFSI, and LSE&#x02010;HFC. d) <sup>13</sup>C NMR spectra of PSL/LMF and LSE&#x02010;HFC. e) <sup>7</sup>Li solid&#x02010;state MAS NMR spectra of SL/LMF, PL/LMF, PSL/LMF, and LSE&#x02010;HFC.</p></caption><graphic xlink:href="ADVS-11-2404307-g001" position="anchor" id="jats-graphic-7"/></fig><p>Raman spectroscopy was employed to study the dissociation ability of Li salts in SSEs, as shown in Figure&#x000a0;<xref rid="advs8675-fig-0002" ref-type="fig">2b</xref>. For LSE&#x02010;HFC, the peak &#x02248;740&#x000a0;cm<sup>&#x02212;1</sup> is assigned to free TFSI<sup>&#x02212;</sup> and DFOB<sup>&#x02212;</sup> anions, and the peak &#x02248;745&#x000a0;cm<sup>&#x02212;1</sup> belongs to coordinated ones. A lower relative content of coordinated anions (7%) can be detected in LSE&#x02010;HFC than in PEO/SN/LiTFSI (35%). This result suggests the enhanced dissociation degree of Li salts and optimized Li&#x02010;ion chemical environment in LSE&#x02010;HFC.<sup>[</sup>
+<xref rid="advs8675-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs8675-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs8675-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> Next, the Li&#x02010;ion chemical environment in SSEs was explored in detail. As the XPS analysis shown in Figure&#x000a0;<xref rid="advs8675-fig-0002" ref-type="fig">2c</xref>, the peak of oxygen in the ethylene oxide repeating unit in PEO/LiTFSI is located at 531.0&#x000a0;eV, while those of PEO/SN/LiTFSI and LSE&#x02010;HFC shift toward lower binding energy at 530.8 and 530.5&#x000a0;eV, respectively, indicating that the higher electron cloud density around oxygen atoms in PEO is obtained with increasing the SN content.<sup>[</sup>
+<xref rid="advs8675-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> A similar phenomenon can be seen in the XPS analysis of N 1s for SSEs (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S12</xref>, Supporting Information). All the binding energies are calibrated with C 1s at 284.8&#x000a0;eV. These results imply that PEO and SN jointly compete for Li&#x02010;ion on the surface of the LSE&#x02010;HFC sample. To verify this competing mechanism at an overall level in LSE&#x02010;HFC, the <sup>13</sup>C NMR spectroscopy was conducted. As shown in Figure&#x000a0;<xref rid="advs8675-fig-0002" ref-type="fig">2d</xref>, compared with PSL/LMF, the peak of &#x02500;CH<sub>2</sub>&#x02500;O&#x02500; in PEO shifts to the higher field (70.26&#x02013;70.03&#x000a0;ppm), and the peak of &#x02212;C&#x02261;N in SN shifts to the lower field (120.01&#x02013;120.12&#x000a0;ppm) in LSE&#x02010;HFC, demonstrating the increased electron cloud density around &#x02500;CH<sub>2</sub>&#x02500;O&#x02500; and reduced electron cloud density around &#x02500;C&#x02261;N.<sup>[</sup>
+<xref rid="advs8675-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> This is consistent with the results of the XPS analysis (Figure&#x000a0;<xref rid="advs8675-fig-0002" ref-type="fig">2c</xref>; Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S12</xref>, Supporting Information), and effectively indicates that the [PEO&#x000b7;&#x000b7;&#x000b7;Li<sup>+</sup>&#x000b7;&#x000b7;&#x000b7;SN] system is generated in LSE&#x02010;HFC. We further studied the homogeneity of the Li&#x02010;ion chemical environment in LSE&#x02010;HFC by <sup>7</sup>Li solid&#x02010;state MAS NMR measurements. In this experiment, the effect of the coordination of LMF on the Li&#x02010;ion chemical environment was considered. SL/LMF and PL/LMF were prepared by filtrating SN/LiTFSI and PEO/LiTFSI into LMF, respectively. Figure&#x000a0;<xref rid="advs8675-fig-0002" ref-type="fig">2e</xref> clearly shows three Li&#x02010;ion local environments in PSL/LMF: SN phase (&#x02212;1.88&#x000a0;ppm), PEO phase (&#x02212;1.17&#x000a0;ppm), and PEO/SN interface (&#x02212;1.45&#x000a0;ppm).<sup>[</sup>
+<xref rid="advs8675-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs8675-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs8675-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> For LSE&#x02010;HFC, the peak is located at &#x02248;&#x02212;1.45&#x000a0;ppm, meaning that Li&#x02010;ion in LSE&#x02010;HFC is mainly present at the PEO/SN interface. This result suggests that competing mechanism [PEO&#x000b7;&#x000b7;&#x000b7;Li<sup>+</sup>&#x000b7;&#x000b7;&#x000b7;SN] works across the entire LSE&#x02010;HFC, which facilitates homogeneous Li&#x02010;ion flux and low migration energy barriers.</p></sec><sec id="advs8675-sec-0050"><label>2.3</label><title>Electrochemical and Mechanical Performances of LSE&#x02010;HFC</title><p>In light of the above results, a schematic illustration of Li&#x02010;ion transfer mechanism in LSE&#x02010;HFC is shown in <bold>Figure</bold>&#x000a0;<xref rid="advs8675-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>. The PEO and SN confined in LMF jointly construct homogeneous and fast Li&#x02010;ion transport channels, contributing to the superior Li&#x02010;ion transfer ability, which can be assessed in terms of ionic conductivity and Li&#x02010;ion transference number (<mml:math id="jats-math-1" display="inline"><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>L</mml:mi><mml:msup><mml:mi>i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math>). LSE&#x02010;HFC obtains a high ionic conductivity of 5.62&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>&#x000a0;S&#x000a0;cm<sup>&#x02212;1</sup> at 25&#x000a0;&#x000b0;C, 6.3 times higher than that of PEO/SN/LiTFSI (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S13</xref>, Supporting Information). This apparent gap is attributed to the fact that the improvement of ionic conductivity in PEO/SN/LiTFSI only occurs in specific positions, while short&#x02010;range, homogeneous, and fast Li&#x02010;ion conduction is implemented across the entire LSE&#x02010;HFC, which agrees well with the <sup>7</sup>Li solid&#x02010;state NMR results (Figure&#x000a0;<xref rid="advs8675-fig-0002" ref-type="fig">2e</xref>). Noteworthily, we investigated the optimal SN/EO molar ratio for ionic conductivity of LSE, and the result is displayed in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S14</xref> (Supporting Information). The LSE obtains the highest ionic conductivity when the SN content of SN:EO = 1:4 is added, meaning the complete construction of homogeneous and fast Li&#x02010;ion transport channels. Continued addition of SN deteriorates the mechanical stability in addition to not helping to increase the ionic conductivity of the electrolyte.<sup>[</sup>
+<xref rid="advs8675-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs8675-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Arrhenius equation was utilized to calculate the activation energy (<italic toggle="yes">E<sub>a</sub>
+</italic>) of SSEs (Figure&#x000a0;<xref rid="advs8675-fig-0003" ref-type="fig">3b</xref>). LSE&#x02010;HFC exhibits a lower <italic toggle="yes">E<sub>a</sub>
+</italic> of 0.25&#x000a0;eV than that of PEO/SN/LiTFSI, implying that transport channels confined in LMF provide a low energy barrier for Li&#x02010;ion conduction. As shown in Figure&#x000a0;<xref rid="advs8675-fig-0003" ref-type="fig">3d</xref> and&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S15</xref>, the <mml:math id="jats-math-2" display="inline"><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>L</mml:mi><mml:msup><mml:mi>i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math> of LSE&#x02010;HFC at 55 and 25&#x000a0;&#x000b0;C are stimulated to be &#x02248;0.81 and 0.78, respectively, superior to those of PEO/SN/LiTFSI, which should be ascribed to the size sieving effect of micropores existed in CuTCPP nanosheets that suppress the transportation of large anions. The high <mml:math id="jats-math-3" display="inline"><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>L</mml:mi><mml:msup><mml:mi>i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math> of LSE&#x02010;HFC means efficient migration of Li&#x02010;ion, which could alleviate the interfacial polarization.<sup>[</sup>
+<xref rid="advs8675-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs8675-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>]</sup> Consequently, due to the high ionic conductivity and <mml:math id="jats-math-4" display="inline"><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math>, LSE&#x02010;HFC exhibits the superior Li&#x02010;ion transfer ability. The melting point (<italic toggle="yes">T</italic>
+<sub>m</sub>) of polymer&#x02010;based SSEs is an important reference for setting the operating temperature of assembled ASSLMBs.<sup>[</sup>
+<xref rid="advs8675-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> In Figure&#x000a0;<xref rid="advs8675-fig-0003" ref-type="fig">3c</xref>, the <italic toggle="yes">T</italic>
+<sub>m</sub> of LSE&#x02010;HFC is as low as 26.8&#x000a0;&#x000b0;C, which means that homogeneous and fast Li&#x02010;ion transport channels in amorphous state can be established at RT, further guaranteeing favorable cycling performance of the battery in a wide temperature range. Moreover, LSE&#x02010;HFC possesses an excellent electrochemical window of 5.1&#x000a0;V (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S16</xref>, Supporting Information), indicating the great application potential in high&#x02010;voltage batteries.</p><fig position="float" fig-type="Figure" id="advs8675-fig-0003"><label>Figure 3</label><caption><p>a) Schematic illustration of Li&#x02010;ion transfer mechanism in LSE&#x02010;HFC. b) The ionic conductivities, c) DSC curves, and d) Li&#x02010;ion transference numbers of PEO/SN/LiTFSI and LSE&#x02010;HFC. e) load&#x02010;displacement curves and (f) adhesion force mapping by AFM of PEO/LiTFSI, PEO/SN/LiTFSI, and LSE&#x02010;HFC. (g) Comparison of Li&#x02010;ion conductivity, Young's modulus, and thickness with other SSEs in literature, and the data are presented in Table&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S1</xref> (Supporting Information).</p></caption><graphic xlink:href="ADVS-11-2404307-g007" position="anchor" id="jats-graphic-9"/></fig><p>The mechanical properties of LSE&#x02010;HFC were also investigated. Young's modulus of SSEs was measured using nanoindentation, which can mimic the punctuation of lithium dendrite.<sup>[</sup>
+<xref rid="advs8675-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> As shown in Figure&#x000a0;<xref rid="advs8675-fig-0003" ref-type="fig">3e</xref>, LSE&#x02010;HFC achieves a high Young's modulus of 1.38&#x000a0;Gpa, which is 13.3 and 15.8 times higher than those of PEO/LiTFSI and PEO/SN/LiTFSI, respectively. The significant improvement should be contributed by the robust LMF formed by self&#x02010;stacking of CuTCPP nanosheets with a high aspect ratio, which would help to inhibit the punctuation of lithium dendrite during battery cycling. AFM mapping with a quantitative nanomechanics mode (Figure&#x000a0;<xref rid="advs8675-fig-0003" ref-type="fig">3f</xref>) was applied to reveal the adhesion force of SSEs.<sup>[</sup>
+<xref rid="advs8675-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> The result clearly demonstrates that, in comparison to PEO/LiTFSI and PEO/SN/LiTFSI, the adhesion force of LSE&#x02010;HFC is substantially higher, which is explained by both the strong electrostatic attraction and Van der Waals interactions at the interface.<sup>[</sup>
+<xref rid="advs8675-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> This enhanced adhesion force actualizes close contact of LSE&#x02010;HFC with the electrodes, which will enhance the Li&#x02010;ion transfer kinetics within the interfaces and further improve the cycling performance of the battery.<sup>[</sup>
+<xref rid="advs8675-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs8675-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> In addition, when compared with other SSEs in literature, LSE&#x02010;HFC exhibits better comprehensive properties in terms of Li&#x02010;ion conductivity, Young's modulus, and thickness (Figure&#x000a0;<xref rid="advs8675-fig-0003" ref-type="fig">3g</xref>; Table&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S1</xref>, Supporting Information). To sum up, all these results verify this thin, robust, and adhesive LSE with homogenous and fast Li&#x02010;ion conduction.</p></sec><sec id="advs8675-sec-0060"><label>2.4</label><title>Cycling Stability of LSE&#x02010;HFC</title><p>The as&#x02010;prepared SSEs were then tested by Li symmetric cells under 55&#x000a0;&#x000b0;C at 0.4&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup> and 0.4&#x000a0;mAh&#x000a0;cm<sup>&#x02212;2</sup> to evaluate the stability of Li&#x02010;ion plating and stripping on electrodes. The excess Li electrodes would remedy the loss Li and prolong cycling life, leading to a deviation in the actual application.<sup>[</sup>
+<xref rid="advs8675-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> Considering that, the thin Li foils (thickness &#x02248;50&#x000a0;&#x000b5;m) were adopted in the symmetric cells (<bold>Figure</bold>&#x000a0;<xref rid="advs8675-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>). PEO/SN/LiTFSI exhibits an overpotential of &#x02248;98&#x000a0;mV and relatively stable cycling performance within the first 150&#x000a0;h. After this, a short circuit occurs in PEO/SN/LiTFSI cell with an abrupt drop in voltage at 182&#x000a0;h, which indicates that the irregularly grown lithium dendrite punctures the electrolyte, reflecting both the inhomogeneous and inferior Li&#x02010;ion conduction and the unsatisfactory mechanical strength of PEO/SN/LiTFSI. The surface SEM image of the cycled Li electrode in PEO/SN/LiTFSI cell is shown in Figure&#x000a0;<xref rid="advs8675-fig-0004" ref-type="fig">4d</xref>, as expected, massive irregular lithium dendrite can be observed. On the contrary, the cell assembled with LSE&#x02010;HFC shows highly enhanced stability during Li plating and stripping process lasting over 700&#x000a0;h with a low overpotential of &#x02248;42&#x000a0;mV, and its cycled Li electrode exhibits a much flatter morphology (Figure&#x000a0;<xref rid="advs8675-fig-0004" ref-type="fig">4c</xref>). Furthermore, the cycling performance of the symmetric cells with stepwise increasing current density (from 0.05 to 1.6&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>) is measured to determine the critical current density. As illustrated in Figure&#x000a0;<xref rid="advs8675-fig-0004" ref-type="fig">4b</xref>, a short circuit occurs in PEO/SN/LiTFSI symmetric cell at a current density of 0.8&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>. For LSE&#x02010;HFC cells, the polarization voltage increases almost linearly with current density, while no short&#x02010;circuit can be observed up to 1.4&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>, which lays a foundation for pairing with high&#x02010;loading cathode.<sup>[</sup>
+<xref rid="advs8675-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="advs8675-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs8675-fig-0004"><label>Figure 4</label><caption><p>a) Long&#x02010;term cycling of Li symmetric cells under 55&#x000a0;&#x000b0;C at 0.4&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup> and 0.4&#x000a0;mAh&#x000a0;cm<sup>&#x02212;2</sup> (inset shows voltage profiles of cells at 50, 100, and 180&#x000a0;h, respectively). b) Rate performance test of Li symmetrical cells to determine the critical current density. Surface SEM images of Li electrode after lithium plating/stripping in c) LSE&#x02010;HFC symmetrical cell and d) PEO/SN/LiTFSI symmetrical cell. The in situ EIS patterns of Li symmetric cells are based on e) LSE&#x02010;HFC and f) PEO/SN/LiTFSI.</p></caption><graphic xlink:href="ADVS-11-2404307-g006" position="anchor" id="jats-graphic-11"/></fig><p>In addition to the superior Li&#x02010;ion conduction and mechanical strength of LSE&#x02010;HFC, the improved plating/stripping behavior is also inseparable from the enhanced Li&#x02010;ion transfer kinetics within the interfaces arising from the adhesive contact and the formation of a compatible SEI layer. Evidence can be seen in the in&#x02010;situ EIS results and XPS analysis. As shown in Figure&#x000a0;<xref rid="advs8675-fig-0004" ref-type="fig">4e,f</xref>, the pristine charge transfer resistance (<italic toggle="yes">R<sub>ct</sub>
+</italic>) of Li|LSE&#x02010;HFC|Li is just 24.5&#x000a0;&#x003a9;&#x000a0;cm<sup>2</sup>, which is 11.6 times lower than that of PEO/SN/LiTFSI cell, meaning more efficient Li&#x02010;ion transport within the interfaces. Besides, the <italic toggle="yes">R<sub>ct</sub>
+</italic> of Li|LSE&#x02010;HFC|Li is almost unchanged after cycling 200, 400, and 600&#x000a0;h, which could stem from the formation of compatible SEI. To better understand the chemical environment of SEI, the surface of the cycled Li electrode was further characterized by XPS. As shown in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S17</xref> (Supporting Information), a considerable amount of Li&#x02013;F (684.8&#x000a0;eV, F 1s) is detected on Li electrode cycled in Li|LSE&#x02010;HFC|Li, which belongs to the decomposition of Li salts.<sup>[</sup>
+<xref rid="advs8675-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+<sup>]</sup> B&#x02013;F (686.1&#x000a0;eV, F 1s; 193.6&#x000a0;eV, B 1s) and B&#x02500;O (191.3&#x000a0;eV, B 1s) are also observed, which originates from the transformation of LiDFOB.<sup>[</sup>
+<xref rid="advs8675-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> The SEI containing these components can realize fast Li&#x02010;ion conduction and suppress the growth of lithium dendrite, thus facilitating the cycling stability of LSE&#x02010;HFC.<sup>[</sup>
+<xref rid="advs8675-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs8675-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> Moreover, at a lower operating temperature of 25&#x000a0;&#x000b0;C, LSE&#x02010;HFC cells with limited Li electrodes also cycle stably for more than 400&#x000a0;h at 0.4 and 0.4&#x000a0;mAh&#x000a0;cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S18</xref>, Supporting Information). These findings highlight the superiority of LSE&#x02010;HFC in terms of mechanical properties and Li&#x02010;ion transfer ability.</p></sec><sec id="advs8675-sec-0070"><label>2.5</label><title>The Performance of LFP ASSLMBs</title><p>To further explore the potential application of LSE&#x02010;HFC, the ASSLMBs with LFP cathode were assembled to first evaluate the cycling performance at 55&#x000a0;&#x000b0;C and 0.5C (1C&#x000a0;=&#x000a0;0.68&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>). As shown in <bold>Figure</bold>&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref>, the discharge capacity of PEO/SN/LiTFSI cell decays dramatically after 100 cycles. This unsatisfactory performance should be mainly attributed to the inhomogeneous and inferior Li&#x02010;ion conduction as well as the poor mechanical properties of PEO/SN/LiTFSI, which leads to exacerbated battery polarization accompanied by a constant decline in capacity. In comparison, LFP|LSE&#x02010;HFC|Li cell shows much better cycling performance, which delivers an initial discharge capacity of 157.8&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> and undergoes charge/discharge over 600 cycles with capacity retention of 85.7%. The Coulombic efficiency approaches 100% during the long&#x02010;term cycling and the energy density reaches 288.4&#x000a0;Wh&#x000a0;kg<sup>&#x02212;1</sup> (for calculation details, see Table&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information). Corresponding voltage profiles can be seen in Figure&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">5b</xref> and Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S19</xref> (Supporting Information). The curves of LFP|LSE&#x02010;HFC|Li perform much more steadily than those of PEO/SN/LiTFSI cells, showing typical LFP plateaus at &#x02248;3.4&#x000a0;V and maintaining very low overpotentials even at 600 cycles. Such a feature suggests the excellent electrochemical stability of LSE&#x02010;HFC cells. Furthermore, the rate performance of these cells was also tested shown in Figure&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">5e</xref>. When cycling at 0.1, 0.2, 0.4, 0.6, 0.8, and 1C, the LFP|LSE&#x02010;HFC|Li cell delivers high discharge capacity of 165.7, 163.6, 160.5, 154.8, 147.2, and 142.6&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>, respectively. As the rate comes back to 0.2C, the discharge capacity recovers to 162.4&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>, demonstrating excellent reversibility. Voltage profiles at different rates in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S20</xref> (Supporting Information) also confirm the superior rate performance of LFP|LSE&#x02010;HFC|Li cell. These results reveal that the homogeneous and fast Li&#x02010;ion conduction combined with the favorable mechanical properties endow LSE&#x02010;HFC with the superior performance of LFP ASSLMBs.</p><fig position="float" fig-type="Figure" id="advs8675-fig-0005"><label>Figure 5</label><caption><p>a) Cycling performances of the cells assembled with different electrolytes and b) voltage profiles of LFP|LSE&#x02010;HFC|Li at 55&#x000a0;&#x000b0;C and 0.5C. c) Cycling performances of the cells assembled with different electrolytes and d) voltage profiles of LFP|LSE&#x02010;HFC|Li at 25&#x000a0;&#x000b0;C and 0.2C. e,f) Rate performances of the cell assembled with different electrolytes at 55 and 25&#x000a0;&#x000b0;C, respectively. g) Voltage profiles of LFP|LSE&#x02010;HFC|Li at different rates under 25&#x000a0;&#x000b0;C. h,i) Simulation of Li&#x02010;ion distribution at current density of 0.24&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup> in LSE&#x02010;HFC and PEO/SN/LiTFSI, respectively. j) Li&#x02010;ion concentration along the <italic toggle="yes">y</italic>&#x02010;axis in the SSEs at different current densities.</p></caption><graphic xlink:href="ADVS-11-2404307-g003" position="anchor" id="jats-graphic-13"/></fig><p>The properties discussed above show obvious advantages of the LSE&#x02010;HFC for application in ASSLMBs at RT. Hence, the cycling performance of LFP/Li cells at 25&#x000a0;&#x000b0;C was evaluated under 0.2C (1C&#x000a0;=&#x000a0;1.20&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>). Figure&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">5c</xref> reveals that the discharge capacity of PEO/SN/LiTFSI cell drops rapidly and closes to zero capacity after 90 cycles, while LFP|LSE&#x02010;HFC|Li cell achieves an average reversible capacity of 147.3&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> as well as high average Coulombic efficiency of 99.9% over the first 300 cycles and exhibits an energy density of 343.8&#x000a0;Wh&#x000a0;kg<sup>&#x02212;1</sup> (Table&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information). This cycling performance is comparable with reported SSEs under similar current density.<sup>[</sup>
+<xref rid="advs8675-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs8675-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs8675-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> The decreased potential polarization (from 187&#x000a0;mV in the 1st cycle to 168&#x000a0;mV in the 300th cycle) in the charge&#x02013;discharge curves, as shown in Figure&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">5d</xref>, indicates the excellent interfacial stability of the LSE&#x02010;HFC toward both LFP cathode and Li anode. We further cycled these LFP/Li cells at various current densities from 0.1 to 1C (Figure&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">5f</xref>). Under the current density of 1C, the discharge capacity of LSE&#x02010;HFC cell can reach 121.2&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>, much higher than that of PEO/SN/LiTFSI cell (24.8&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>). Corresponding voltage profiles at different rates shown in Figure&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">5g</xref> and Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S21</xref> (Supporting Information) also verify the excellent rate performance of LFP|LSE&#x02010;HFC|Li cell at 25&#x000a0;&#x000b0;C and 0.2C. Based on the above results, it can be concluded that: 1) The adhesive contact between the LSE&#x02010;HFC and the electrodes improves the Li&#x02010;ion transfer kinetics within the interfaces. 2) The sufficient mechanical strength of LSE&#x02010;HFC effectively inhibits the growth of lithium dendrite. 3) The superior Li&#x02010;ion transfer ability of LSE&#x02010;HFC leads to homogeneous and fast Li&#x02010;ion flux. These merits permit the excellent electrochemical performance of LFP ASSLMBs assembled with LSE&#x02010;HFC. To visualize this Li&#x02010;ion flux in both LFP/Li cells, the distribution of Li&#x02010;ion at different current densities was simulated by COMSOL Multiphysics (Figure&#x000a0;<xref rid="advs8675-fig-0005" ref-type="fig">5h&#x02212;j</xref>; Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S22</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs8675-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> All the simulation parameters were based on the practical electrochemical parameters of the LFP/Li coin cell at 25&#x000a0;&#x000b0;C. Obviously, the inhomogeneous spatial distribution of Li&#x02010;ion concentration intensifies with the increase of current density, and LSE&#x02010;HFC features a more homogeneous Li&#x02010;ion gradient distribution than PEO/SN/LiTFSI, exhibiting the homogeneous and fast Li&#x02010;ion flux in LSE&#x02010;HFC cell.</p></sec><sec id="advs8675-sec-0080"><label>2.6</label><title>The Performance of NCM ASSLMBs</title><p>In pursuit of the high energy density of ASSLMBs, we further matched SSE to a limited Li anode and a high&#x02010;loading NCM cathode. Although the electrochemical window of LSE&#x02010;HFC satisfies the voltage adaptation requirement, the highly oxidized Ni<sup>4+</sup> (Co<sup>4+</sup> or Mn<sup>4+</sup>) with catalytic effect on the surface of NCM cathode active particles induces the decomposition of PEO electrolyte.<sup>[</sup>
+<xref rid="advs8675-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup> This not only causes the local path failure of Li&#x02010;ion transport in electrolytes but also disrupts the crystal structure of cathode active materials.<sup>[</sup>
+<xref rid="advs8675-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup> To cope with this hindrance for application, the polyacrylonitrile (PAN)&#x02010;based electrolyte with the low highest occupied molecular orbital (HOMO) energy level was selected as a high&#x02010;voltage layer (HVL) to coat on the surface of the LSE&#x02010;HFC against the cathode side, named as LSE&#x02010;HFC@HVL. This strategy has been proven to be effective in improving the electrochemical stability of PEO electrolytes in NCM cells.<sup>[</sup>
+<xref rid="advs8675-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> A cross&#x02010;sectional SEM image of LSE&#x02010;HFC@HVL is shown in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S23</xref> (Supporting Information), the thickness of HVL is &#x02248;1.5&#x000a0;&#x000b5;m. As expected, such a thin and lightweight electrolyte paired with a limited Li anode and a high&#x02010;loading NCM cathode exhibits a high energy density of 420.7&#x000a0;Wh&#x000a0;kg<sup>&#x02212;1</sup> (<bold>Figure</bold>&#x000a0;<xref rid="advs8675-fig-0006" ref-type="fig">
+<bold>6</bold>a</xref>; Table&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information). Besides, LSE&#x02010;HFC@HVL also obtains a high ionic conductivity of 5.28&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>&#x000a0;S&#x000a0;cm<sup>&#x02212;1</sup> at 25&#x000a0;&#x000b0;C (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S24</xref>, Supporting Information). The cycling performance of NCM622|LSE&#x02010;HFC@HVL|Li cell was evaluated at 25&#x000a0;&#x000b0;C and 0.2C (1C&#x000a0;=&#x000a0;1.30&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>). Figure&#x000a0;<xref rid="advs8675-fig-0006" ref-type="fig">6b</xref> reveals that a discharge capacity of 182.8&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> is obtained after activation and a capacity retention of 88.7% is retained after 150 cycles. The smooth charge/discharge profiles show that there is no side reaction when charged up to 4.3&#x000a0;V (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S25</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs8675-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> Furthermore, NCM622|LSE&#x02010;HFC@HVL|Li cell also shows a decent high&#x02010;rate performance in Figure&#x000a0;<xref rid="advs8675-fig-0006" ref-type="fig">6c</xref>. The discharge capacities are 186.7, 182.5, 162.2, 138.8, 117.8, and 106.7&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> at 0.1, 0.2, 0.4, 0.6, 0.8, and 1C, respectively. When the rate restores to 0.2C, the specific capacity quickly returns to 181.6&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>. The cycling performance at 55&#x000a0;&#x000b0;C and 0.5C was also evaluated. NCM622|LSE&#x02010;HFC@HVL|Li cell delivers a discharge capacity of 178.6&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> after 200 cycles with a capacity retention of 96.4% in 2.8&#x02013;4.3&#x000a0;V (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S26</xref>, Supporting Information). These results suggest that homogeneous and fast Li&#x02010;ion flux combined with sufficient mechanical strength and enhanced adhesion force of LSE&#x02010;HFC@HVL contribute to the excellent performances of NCM ASSLMBs. Besides, the interfacial compatibility between the NCM cathode and the electrolyte also plays an important role in acquiring such excellent performances. According to the in situ EIS results in Figure&#x000a0;<xref rid="advs8675-fig-0006" ref-type="fig">6d,e</xref>, the semicircles in the Nyquist plots are related to the <italic toggle="yes">R<sub>ct</sub>
+</italic> from the electrodes/electrolyte interfaces.<sup>[</sup>
+<xref rid="advs8675-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+<sup>]</sup> The <italic toggle="yes">R<sub>ct</sub>
+</italic> undergoes slight variations, first decreasing and then rising with the increase of state of charge (SOC). The observed alteration should be attributed to the change in ionic and electronic conductivity of the cathode in the process of delithiation. During the discharge process, the <italic toggle="yes">R<sub>ct</sub>
+</italic> almost displays reversible variations. The higher impedance for the discharged cell with 0% SOC compared with the fresh cell should be attributed to the diffusion limitation in the NCM particles after discharge. It can be concluded that the <italic toggle="yes">R<sub>ct</sub>
+</italic> of NCM622|LSE&#x02010;HFC@HVL|Li cell is relatively stable at different SOC, and the total area&#x02010;specific resistance is relatively low (&#x0003c;80&#x000a0;&#x003a9;&#x000a0;cm<sup>&#x02212;2</sup>) during the charge/discharge process. Nyquist plots for NCM622 cells cycled at 25&#x000a0;&#x000b0;C and 0.2C were collected at the 0% SOC (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S27</xref>, Supporting Information). It can be observed that the <italic toggle="yes">R<sub>ct</sub>
+</italic> exhibits a negligible resistance increase within ten cycles. These results indicate the efficient Li&#x02010;ion conduction at electrodes/electrolyte interfaces and the formation of compatible CEI. Subsequently, the surface chemistry and morphology of NCM622 particles after ten cycles are observed by XPS and TEM, respectively, as shown in Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S28</xref> (Supporting Information). The Li<sub>x</sub>BO<sub>y</sub>F<sub>z</sub> arising from the decomposition of LiDFOB in LSE&#x02010;HFC@HVL occurs at 191.3&#x000a0;eV, participating in the formation of compatible CEI, which is a homogeneous and thin protection layer with an average thickness of &#x02248;10&#x000a0;nm in favor of improving the interfacial stability.<sup>[</sup>
+<xref rid="advs8675-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> At the anode side, the surface morphology of cycled Li foil is smooth and flat, which again reflects the interfacial stability between the electrolyte and electrodes (Figure&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S29</xref>, Supporting Information). Compared with the battery performances in literature, the LFP/Li cell and NCM622/Li cell assembled with LSE&#x02010;HFC and LSE&#x02010;HFC@HVL, respectively, all exhibit superior comprehensive performances in terms of energy density, power density, and cycling life (Figure&#x000a0;<xref rid="advs8675-fig-0006" ref-type="fig">6h</xref>; Table&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S3</xref>, Supporting Information) Additionally, the scale&#x02010;up potential of LSE&#x02010;HFC@HVL was assessed via a pouch cell constructed by Li anode and NCM622 cathode. The pouch cell exhibits excellent safety performance and has the ability to light up a red LED bulb when suffering from cutting (Figure&#x000a0;<xref rid="advs8675-fig-0006" ref-type="fig">6f</xref>). Figure&#x000a0;<xref rid="advs8675-fig-0006" ref-type="fig">6g</xref> reveals that the pouch cell delivers an initial discharge capacity of 179.2&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> and can run normally over 30 cycles without obvious capacity decay when being folded.</p><fig position="float" fig-type="Figure" id="advs8675-fig-0006"><label>Figure 6</label><caption><p>a) Gravimetric energy density as a function of the thickness of LSE&#x02010;HFC and LSE&#x02010;HFC@HVL employing LFP cathode and NCM622 cathode, respectively (inset displays an idea pouch cell model). b) Cycling performance at 25&#x000a0;&#x000b0;C and 0.2C and c) rate performance at 25&#x000a0;&#x000b0;C of NCM622|LSE&#x02010;HFC@HVL|Li cell. In situ EIS during d) charging process and e) discharging process of NCM622|LSE&#x02010;HFC@HVL|Li cell at 2.8&#x02212;4.3&#x000a0;V. f) A structural NCM622|LSE&#x02010;HFC@HVL|Li pouch cell lighting a LED bulb after cutting test. g) Cycling performance of the assembled pouch cell at 25&#x000a0;&#x000b0;C and 0.2C. h) Comparison of energy density, power density, and cycling life with other batteries in literature, and the data are presented in Table&#x000a0;<xref rid="advs8675-supitem-0001" ref-type="supplementary-material">S3</xref> (Supporting Information).</p></caption><graphic xlink:href="ADVS-11-2404307-g002" position="anchor" id="jats-graphic-15"/></fig></sec></sec><sec id="advs8675-sec-0090"><label>3</label><title>Conclusion</title><p>In this study, the fabrication of 9&#x000a0;&#x000b5;m&#x02010;thick laminar solid electrolyte featuring homogeneous and fast Li&#x02010;ion flux is reported. We confirm that the interaction between coordinatively unsaturated copper sites of CuTCPP and PEO/SN imparts LSE&#x02010;HFC mechanical stability. The robust LMF, formed by the self&#x02010;stacking of CuTCPP nanosheets with a high aspect ratio, allows LSE&#x02010;HFC to achieve a high Young's modulus of 1.38&#x000a0;Gpa. Meanwhile, viscous&#x02010;fluid PEO/SN electrolyte confined in LMF provides homogeneous and fast Li&#x02010;ion transport channels and adhesive contact with electrodes. Specifically, the competing transfer mechanism of [PEO&#x000b7;&#x000b7;&#x000b7;Li<sup>+</sup>&#x000b7;&#x000b7;&#x000b7;SN] is verified and works across the entire LSE&#x02010;HFC to form such Li&#x02010;ion transport channels, endowing LSE&#x02010;HFC with high ionic conductivity of 5.62&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>&#x000a0;S&#x000a0;cm<sup>&#x02212;1</sup> and Li&#x02010;ion transference number of 0.78 at 25&#x000a0;&#x000b0;C. The adhesive contact between LSE&#x02010;HFC and electrodes facilitates efficient Li&#x02010;ion conduction at interfaces, consolidating the uniform Li plating/stripping behavior. Thereupon, the assembled LFP/Li cell delivers excellent stability of 600 and 300 cycles at 55&#x000a0;&#x000b0;C, 0.5C, and 25&#x000a0;&#x000b0;C, 0.2C, respectively. The NCM622/Li cell realizes a high energy density of 420.7&#x000a0;Wh&#x000a0;kg<sup>&#x02212;1</sup> and cycles over 150 cycles with capacity retention of 88.7% at 25&#x000a0;&#x000b0;C and 0.2C. Confining highly conductive, homogeneous, and viscous&#x02010;fluid electrolytes into a robust coordination laminar framework can be considered a universal strategy for fabricating thin SSEs with homogeneous and fast Li&#x02010;ion flux while breaking the trade&#x02010;off between mechanical modulus and adhesion.</p></sec><sec id="advs8675-sec-0100"><label>4</label><title>Experimental Section</title><sec id="advs8675-sec-0130"><title>Materials and Chemicals</title><p>PEO (Mw = 600 000), PAN (Mw = 150 000), SN (99.0%), lithium bis(trifluoromethanesulfonyl)imide (LiTFSI, 99.9%), lithium difluoro(oxalato)borate (LiDFOB, 99.0%), acetonitrile (99.0%), and N, N&#x02010;dimethylformamide (DMF, 99.9%) were purchased from Macklin. Copper nitrate trihydrate (Cu(NO<sub>3</sub>)<sub>2</sub>&#x000b7;3H<sub>2</sub>O, 99.0%), polyvinylpyrrolidone (PVP, Mw = 40 000), trifluoroacetic acid (TFA, 99.5%), tetrakis(4&#x02010;carboxyphenyl)porphyrin (TCPP, 97.0%), and ethanol (99.7%) were supplied by Sigma&#x02010;Aldrich. LFP, NCM622, super&#x02010;P, and aluminum (Al) foil were obtained from Canrd New Energy Technology Co., Ltd. Lithium foil was supplied by China Energy Lithium Co., Ltd. Polyvinylidene fluoride (PVDF, Mw = 1500 000) and N&#x02010;methyl&#x02010;2&#x02010;pyrrolidone (NMP, 99.5%) were purchased from Aladdin Chemical Co., Ltd. Deionized water was utilized throughout the experiment.</p></sec><sec id="advs8675-sec-0140"><title>Synthesis of CuTCPP Nanosheets</title><p>CuTCPP nanosheets were synthesized according to a previous report.<sup>[</sup>
+<xref rid="advs8675-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> Cu(NO<sub>3</sub>)<sub>2</sub>&#x000b7;3H<sub>2</sub>O (30.2&#x000a0;mg) and PVP (80.0&#x000a0;mg) were dissolved in the mixture of DMF (45&#x000a0;mL) and ethanol (15&#x000a0;mL) followed by adding TFA (0.05&#x000a0;mL) under stirring for 15&#x000a0;min. Then, TCPP (33.0&#x000a0;mg) dissolved in the mixture of DMF (45&#x000a0;mL) and ethanol (15&#x000a0;mL) was added under stirring for 20&#x000a0;min. After that, the mixed solution was heated to 80&#x000a0;&#x000b0;C, and the reaction was continued for 3&#x000a0;h. The resultant solution was centrifuged at 8000&#x000a0;rpm for 10&#x000a0;min, followed by washing with ethanol (three times) and deionized water (one time). Through freeze drying for 12&#x000a0;h, the CuTCPP nanosheets were obtained.</p></sec><sec id="advs8675-sec-0150"><title>Preparation of LSE&#x02010;HFC, LSE&#x02010;HFC@HVL PEO/SN/LiTFSI CSE, PEO/LiTFSI SPE, PSL/LMF, PL/LMF, and SL/LMF</title><p>The CuTCPP nanosheets were dispersed in ethanol and subsequently sonicated for 30&#x000a0;min. After the dispersion was rested adequately, filtrating the supernatant on a nylon substrate to form well&#x02010;ordered LMF. Subsequently, LMF was swelled in acetonitrile solution for 1&#x000a0;h, which ensured adequate swelling for a larger interlayer distance. The PEO, SN, LiTFSI, LiDFOB were dissolved in acetonitrile (molar ratios of EO:Li and EO:SN were 18:1 and 4:1, respectively), and the content of LiDFOB added was &#x02248;1&#x000a0;wt.%. The resultant solution was filtrated into LMF, followed by drying for 24&#x000a0;h at 55&#x000a0;&#x000b0;C in an argon&#x02010;filled glovebox to obtain LSE&#x02010;HFC.</p><p>The PAN, SN, and LiDFOB (5:2:1, optimal mass ratio) were dissolved in DMF and stirred at 60&#x000a0;&#x000b0;C to obtain a homogeneous slurry. Then casting the slurry on the surface of LSE&#x02010;HFC as HVL, followed by drying for the first 24&#x000a0;h at 40&#x000a0;&#x000b0;C and for the next 24&#x000a0;h at 80&#x000a0;&#x000b0;C in the argon&#x02010;filled glovebox. The as&#x02010;prepared electrolytes, denoted as LSE&#x02010;HFC@HVL, were applied in NCM622/Li cells testing.</p><p>The PEO/LiTFSI SPE and PEO/SN/LiTFSI CSE were prepared by a solution casting method. The PEO and LiTFSI (EO/Li molar ratio of 18:1) were dissolved in acetonitrile under stirring for 6&#x000a0;h. The resultant mixed solution was cast onto a polytetrafluoroethylene (PTFE) plate and then dried at 40&#x000a0;&#x000b0;C for 12&#x000a0;h under argon atmosphere and kept at 55&#x000a0;&#x000b0;C for 12&#x000a0;h under vacuum to obtain PEO/LiTFSI SPE. The preparation process of PEO/SN/LiTFSI CSE was similar to that of the SPE, and the SN content was &#x02248;10&#x000a0;wt.%. All procedures were carried out in an argon&#x02010;filled glovebox.</p><p>The preparation process of PSL/LMF, PL/LMF, and SL/LMF was to filtrate PEO/SN/LiTFSI, PEO/LiTFSI, and SN/LiTFSI solutions into LMF, respectively, followed by drying for 24&#x000a0;h at 55&#x000a0;&#x000b0;C in the argon&#x02010;filled glovebox. These three electrolytes were utilized for nuclear magnetic resonance (NMR) measurement.</p></sec><sec id="advs8675-sec-0160"><title>Characterization</title><p>Fourier transform infrared (FTIR, Nicolet MAGNA&#x02010;IR560) spectra were used to analyze the chemical information of CuTCPP nanosheets at wave numbers of 400&#x02013;4000&#x000a0;cm<sup>&#x02212;1</sup>. The Brunauer&#x02013;Emmett&#x02013;Teller (BET) surface area and pore size distribution of CuTCPP nanosheets were calculated from the N<sub>2</sub> adsorption isotherms. High&#x02010;resolution transmission electron microscopy (TEM, FEI Talos F200S) operating at 200.0&#x000a0;kV was applied to observe the lattice fringes of CuTCPP nanosheets and the morphology of cycled NCM622 particles. Atomic force microscopy (AFM, Bruker Dimension FastScan) was used to test the thickness and lateral size distribution of CuTCPP nanosheets, the surface roughness, and the adhesive force of SSEs. X&#x02010;ray diffraction (XRD, Bruker D8 Advance ECO) model was used to analyze the crystallization behavior of PEO, SN, LiDFOB, LiTFSI, CuTCPP nanosheets, LMF, and LSE&#x02010;HFC. The microstructure and morphology of CuTCPP nanosheets, LMF, LSE&#x02010;HFC, HVL, and cycled lithium anode were detected by scanning electron microscopy (SEM, JSM&#x02010;7500F) operating at 5.0&#x000a0;kV after the samples (except for lithium anode) were sputtered with gold, and the corresponding elemental analysis was performed by energy dispersive spectroscopy (EDS, X&#x02010;max, Oxford Instruments) operating at 20.0&#x000a0;kV after the samples were sputtered with gold. The thermogravimetric analysis (TGA) of electrolytes was taken using TGA&#x02010;50 SHIMADZU from RT to 800&#x000a0;&#x000b0;C with a heating rate of 10&#x000a0;&#x000b0;C&#x000a0;min<sup>&#x02212;1</sup> under a nitrogen atmosphere. The <sup>7</sup>Li solid&#x02010;state magic angle spinning (MAS) NMR spectra were recorded on Bruker AVANCE III&#x02010;500 with a 2.5&#x000a0;mm Bruker HXY probe at Larmor frequencies of 194.4&#x000a0;MHz. <sup>7</sup>Li chemical shift was calibrated relative to LiCl at 0&#x000a0;ppm. <sup>13</sup>C NMR spectra were performed using Bruker AVANCE III&#x02010;600 of 150.9&#x000a0;MHz, and CDCl<sub>3</sub> was selected as solvent at RT. X&#x02010;ray photoelectron spectroscopy (XPS, Thermo Scientific ESCA Lab 250Xi) was carried out to detect the chemical components and status of SSEs, solid electrolyte interphase (SEI), and cathode electrolyte interphase (CEI). The chemical environments of SSEs were checked by the Raman spectrometer (HR800 Raman spectrometer, Horiba Jobin&#x02010;Yvon Ltd) with an exciting laser of 532&#x000a0;nm. The crystallinity and thermal properties of SSEs were detected through differential scanning calorimetry (DSC, STA 449 F3 Jupiter) with a heating rate of 10&#x000a0;&#x000b0;C&#x000a0;min<sup>&#x02212;1</sup> under a nitrogen atmosphere. Agilent Nano Indenter G200 was used to measure the Young's modulus during nanoindentation experiments. A 200&#x000a0;nm&#x02010;diameter rigid cylinder indenter and 3&#x000a0;mN maximum pressure were applied. The Young's modulus (<italic toggle="yes">E</italic>) can be calculated by the following two equations:
+<disp-formula id="advs8675-disp-0001">
+<label>(1)</label>
+<mml:math id="jats-math-5" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>E</mml:mi><mml:mi mathvariant="normal">r</mml:mi></mml:msub><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mfrac><mml:mrow><mml:mi>S</mml:mi><mml:msqrt><mml:mi>&#x003c0;</mml:mi></mml:msqrt></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msqrt><mml:mi>A</mml:mi></mml:msqrt></mml:mrow></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="advs8675-disp-0002">
+<label>(2)</label>
+<mml:math id="jats-math-6" display="block"><mml:mrow><mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:msub><mml:mi>E</mml:mi><mml:mi mathvariant="normal">r</mml:mi></mml:msub></mml:mfrac><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mspace width="0.33em"/><mml:msup><mml:mi>v</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mi>E</mml:mi></mml:mfrac><mml:mspace width="0.33em"/><mml:mo linebreak="goodbreak">+</mml:mo><mml:mspace width="0.33em"/><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mspace width="0.33em"/><mml:msup><mml:msub><mml:mi>v</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:msub><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:msub><mml:mi>E</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">E</italic>
+<sub>r</sub> is the reduced modulus (GPa), <italic toggle="yes">S</italic> is the initial slope of the unloading curve, <italic toggle="yes">A</italic> is the projected area of the elastic contact at peak displacement (nm<sup>2</sup>), <italic toggle="yes">E</italic>
+<sub>i</sub> and <italic toggle="yes">v</italic>
+<sub>i</sub> are Young's modulus (GPa), and Poisson's ration of the probe, respectively, and <italic toggle="yes">v</italic> is the Poisson's ration of the tested samples.<sup>[</sup>
+<xref rid="advs8675-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs8675-sec-0170"><title>Electrochemical Analysis</title><p>The resistances of SSEs were measured on an electrochemical workstation (CHI660E, Shanghai). Assembling stainless steel (SS)|SSEs|SS cells and then testing by electrochemical impedance spectrum (EIS) with frequency ranging from 105 to 0.1&#x000a0;Hz and temperature ranging from 20 to 80&#x000a0;&#x000b0;C. The ionic conductivities (&#x003c3;) of SSEs were calculated by the following equation:
+<disp-formula id="advs8675-disp-0003">
+<label>(3)</label>
+<mml:math id="jats-math-7" display="block"><mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mfrac><mml:mi>L</mml:mi><mml:mrow><mml:mi>R</mml:mi><mml:mi>A</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">L</italic>, <italic toggle="yes">R</italic>, and <italic toggle="yes">A</italic> represent the thickness (cm), resistance (&#x003a9;), and surface area (cm<sup>2</sup>) of the SSEs, respectively. Activation energy <italic toggle="yes">E<sub>a</sub>
+</italic> for ion transfer in SSEs can be calculated according to the Arrhenius equation:
+<disp-formula id="advs8675-disp-0004">
+<label>(4)</label>
+<mml:math id="jats-math-8" display="block"><mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mi>A</mml:mi><mml:mspace width="0.33em"/><mml:mi>e</mml:mi><mml:mi>x</mml:mi><mml:mi>p</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mfrac><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mspace width="0.33em"/><mml:msub><mml:mi>E</mml:mi><mml:mi mathvariant="normal">a</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfrac></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">A</italic> is pre&#x02010;exponential factor, <italic toggle="yes">R</italic> is the gas constant (J mol<sup>&#x02212;1</sup> K<sup>&#x02212;1</sup>), <italic toggle="yes">T</italic> is the temperature (K). To test the electrochemical stability of the SSEs, the linear sweep voltammetry (LSV) was investigated employing SS|SSEs|Li at a scan rate of 1&#x000a0;mV&#x000a0;s<sup>&#x02212;1</sup> from open circuit voltage to 7&#x000a0;V. The Li&#x02010;ion transference number (<mml:math id="jats-math-9" display="inline"><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math>) was determined by the electrochemical combination method of direct current (DC) polarization/alternating current (AC) impedance employing a symmetric cell of Li|SSEs|Li. The <mml:math id="jats-math-10" display="inline"><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub></mml:mrow></mml:math> was calculated by the following equation:
+<disp-formula id="advs8675-disp-0005">
+<label>(5)</label>
+<mml:math id="jats-math-11" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:msup><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:mrow></mml:msub><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:mfrac><mml:mrow><mml:msub><mml:mi>I</mml:mi><mml:mi mathvariant="normal">s</mml:mi></mml:msub><mml:mspace width="0.33em"/><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mspace width="0.33em"/><mml:msub><mml:mi>I</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msub><mml:mi>R</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:msub><mml:mi>I</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mspace width="0.33em"/><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mspace width="0.33em"/><mml:msub><mml:mi>I</mml:mi><mml:mi mathvariant="normal">s</mml:mi></mml:msub><mml:msub><mml:mi>R</mml:mi><mml:mi mathvariant="normal">s</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where the value of applied voltage (<italic toggle="yes">&#x00394;V</italic>) is 10&#x000a0;mV, <italic toggle="yes">I<sub>o</sub>
+</italic> and <italic toggle="yes">I</italic>
+<sub>s</sub> are the initial current and steady current during the DC polarization process, respectively, and <italic toggle="yes">R<sub>o</sub>
+</italic> and <italic toggle="yes">R</italic>
+<sub>s</sub> are the resistance values of electrolytes before and after DC polarization, respectively. Symmetric Li|SSEs|Li cells were applied to test the stability of Li plating/stripping and critical current density (CCD). The in situ EIS test was carried out on the Li symmetric cells under 0.4&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>, 0.4&#x000a0;mAh&#x000a0;cm<sup>&#x02212;2</sup> at 55&#x000a0;&#x000b0;C, and the data were selected every 25 cycles. All batteries were assembled in the argon&#x02010;filled glovebox.</p></sec><sec id="advs8675-sec-0180"><title>Batteries assembly and Measurement</title><p>The cathode slurry was obtained by adequately stirring LFP/NCM622 powder, super&#x02010;P, and PVDF with a mass ratio of 8:1:1 in NMP solvent. The obtained slurry was coated on Al foil followed by vacuum drying at 80&#x000a0;&#x000b0;C for 24&#x000a0;h. The prepared electrodes were compacted by a roller press to obtain LFP or NCM622 cathodes with a loading of 4&#x000a0;mg&#x000a0;cm<sup>&#x02212;2</sup> applied in cells operated at 55&#x000a0;&#x000b0;C and 7&#x000a0;mg&#x000a0;cm<sup>&#x02212;2</sup> applied in cells operated at 25&#x000a0;&#x000b0;C. The batteries were assembled into CR2032 coin cells. The cycling performances of LFP cells at 0.5 and 0.2C were obtained at 55 and 25&#x000a0;&#x000b0;C with a voltage ranging from 2.5 to 4.0&#x000a0;V, respectively, and the cycling performance of NCM622 cells was tested under 0.2C at 25&#x000a0;&#x000b0;C with a voltage ranging from 2.8 to 4.3&#x000a0;V. The rate performances of such cells were acquired from 0.1 to 1.0C at 55 and 25&#x000a0;&#x000b0;C, respectively. The in&#x02010;situ EIS test was performed on the NCM622 cell, and the data were recorded every 0.1&#x000a0;V. The performance of NCM622 pouch cells with active material loading of 7&#x000a0;mg&#x000a0;cm<sup>&#x02212;2</sup> was also tested.</p></sec><sec id="advs8675-sec-0190"><title>Computational Methods</title><p>The calculations of binding energy between CuTCPP nanosheets and PEO/SN were conducted using density functional theory (DFT) by the projector&#x02010;augmented wave method (PAW) in the Vienna ab initio Simulation Package (VASP). For the electron&#x02010;to&#x02010;electron interaction, the exchange&#x02010;correlation function of the generalized gradient approximation (GGA) with Perdew&#x02013;Burke&#x02013;Ernzerh (PBE) parametrization was employed. The binding energy (<italic toggle="yes">E<sub>b</sub>
+</italic>) was calculated by the following equation:
+<disp-formula id="advs8675-disp-0006">
+<label>(6)</label>
+<mml:math id="jats-math-12" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>E</mml:mi><mml:mi mathvariant="normal">b</mml:mi></mml:msub><mml:mspace width="0.33em"/><mml:mo linebreak="badbreak">=</mml:mo><mml:mspace width="0.33em"/><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mi mathvariant="normal">s</mml:mi><mml:mo>,</mml:mo><mml:mrow><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">a</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mspace width="0.33em"/><mml:mo linebreak="goodbreak">&#x02212;</mml:mo><mml:mspace width="0.33em"/><mml:msub><mml:mi>E</mml:mi><mml:mi mathvariant="normal">s</mml:mi></mml:msub><mml:mspace width="0.33em"/><mml:mo linebreak="goodbreak">&#x02212;</mml:mo><mml:mspace width="0.33em"/><mml:msub><mml:mi>E</mml:mi><mml:mi mathvariant="normal">a</mml:mi></mml:msub></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">E</italic>
+<sub>s,a</sub> is the total energy of CuTCPP nanosheets with absorbed PEO or SN, <italic toggle="yes">E</italic>
+<sub>s</sub> is the energy of free CuTCPP nanosheets, <italic toggle="yes">E<sub>a</sub>
+</italic> is the energy of free PEO or SN.</p><p>Implementing the physical models of Electrostatic and Transport of Diluted Species in COMSOL Multiphysics, the simulation of modeling of current distribution and Li&#x02010;ion redistribution was carried out. The LSE&#x02010;HFC and PEO/SN/LiTFSI CSE were modelled in 2D planes with dimensions of 12&#x000a0;&#x000b5;m&#x000a0;&#x000d7;&#x000a0;9&#x000a0;&#x000b5;m and 135&#x000a0;&#x000b5;m&#x000a0;&#x000d7;&#x000a0;100&#x000a0;&#x000b5;m, respectively. The lower and upper boundaries were the interfaces between the SSEs and electrodes, where the cathode and anode were hidden though. The lithium ions diffusion coefficient was calculated by the Nernst&#x02013;Einstein equation. The initial Li concentration of 2&#x000a0;mol&#x000a0;L<sup>&#x02212;1</sup> in the SSE was used. Current densities of 0.1&#x02013;1C (1C&#x000a0;=&#x000a0;1.2&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>) were applied and the Li&#x02010;ion gradient in the electrolyte reached its steady state at 60&#x000a0;s already.</p></sec></sec><sec sec-type="COI-statement" id="advs8675-sec-0210"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs8675-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-11-2404307-s001.docx"/></supplementary-material></sec></body><back><ack id="advs8675-sec-0200"><title>Acknowledgements</title><p>This work was supported by the National Natural Science Foundation of China (22179008, 21875022, 22209156). L. Chen acknowledges the support from the Beijing Nova Program (20230484241).</p></ack><sec sec-type="data-availability" id="advs8675-sec-0230"><title>Data Availability Statement</title><p>Research data are not shared.</p></sec><ref-list id="advs8675-bibl-0001"><ref id="advs8675-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs8675-cit-0001">
+<string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2020</year>, <volume>7</volume>, <elocation-id>1903088</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs8675-cit-0002">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Stalin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source>Nat. Rev. Mater.</source>
+<year>2020</year>, <volume>5</volume>, <fpage>229</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs8675-cit-0003">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Tavajohi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>2003675</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs8675-cit-0004">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>3781</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs8675-cit-0005">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2021</year>, <volume>36</volume>, <fpage>108</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs8675-cit-0006">
+<string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Gui</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ba</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>133</volume>, <elocation-id>13041</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs8675-cit-0007">
+<string-name>
+<given-names>M.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>34</volume>, <elocation-id>2203640</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs8675-cit-0008">
+<string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2023</year>, <volume>145</volume>, <elocation-id>25632</elocation-id>.<pub-id pub-id-type="pmid">37943571</pub-id>
+</mixed-citation></ref><ref id="advs8675-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs8675-cit-0009">
+<string-name>
+<given-names>A.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Borovilas</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dontigny</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zaghib</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Myers</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chuan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>1905517</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs8675-cit-0010">
+<string-name>
+<given-names>X.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Nan</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2206402</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs8675-cit-0011">
+<string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Nan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2206013</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs8675-cit-0012">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2019</year>, <volume>14</volume>, <fpage>705</fpage>.<pub-id pub-id-type="pmid">31133663</pub-id>
+</mixed-citation></ref><ref id="advs8675-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs8675-cit-0013">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jiao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2023</year>, <volume>14</volume>, <fpage>6296</fpage>.<pub-id pub-id-type="pmid">37813846</pub-id>
+</mixed-citation></ref><ref id="advs8675-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs8675-cit-0014">
+<string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zou</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2303193</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs8675-cit-0015">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <source>Rare Met.</source>
+<year>2022</year>, <volume>41</volume>, <fpage>3762</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs8675-cit-0016">
+<string-name>
+<given-names>F.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2022</year>, <volume>32</volume>, <elocation-id>2201465</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs8675-cit-0017">
+<string-name>
+<given-names>W.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <elocation-id>1900648</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs8675-cit-0018">
+<string-name>
+<given-names>K.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <elocation-id>12116</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs8675-cit-0019">
+<string-name>
+<given-names>P.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Marosz</surname>
+</string-name>, <string-name>
+<given-names>N. T.</given-names>
+<surname>Samuels</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Suib</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Liao</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2101380</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs8675-cit-0020">
+<string-name>
+<given-names>H.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tong</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2021</year>, <volume>43</volume>, <fpage>358</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs8675-cit-0021">
+<string-name>
+<given-names>S.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <elocation-id>2007172</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs8675-cit-0022">
+<string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>36</volume>, <elocation-id>2307599</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs8675-cit-0023">
+<string-name>
+<given-names>G.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Nano Res.</source>
+<year>2022</year>, <volume>15</volume>, <fpage>5153</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs8675-cit-0024">
+<string-name>
+<given-names>D.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2023</year>, <volume>33</volume>, <elocation-id>2213211</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs8675-cit-0025">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huo</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2023</year>, <volume>56</volume>, <fpage>121</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs8675-cit-0026">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>1904562</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs8675-cit-0027">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Kou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Dang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2300156</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs8675-cit-0028">
+<string-name>
+<given-names>M. K.</given-names>
+<surname>Sarango</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yoshida</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kitagawa</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <elocation-id>20173</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs8675-cit-0029">
+<string-name>
+<given-names>M.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kitagawa</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fang</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>21</volume>, <fpage>14</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs8675-cit-0030">
+<string-name>
+<given-names>T.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Kou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2023</year>, <volume>554</volume>, <elocation-id>232349</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs8675-cit-0031">
+<string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ping</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>7372</fpage>.<pub-id pub-id-type="pmid">26468970</pub-id>
+</mixed-citation></ref><ref id="advs8675-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs8675-cit-0032">
+<string-name>
+<given-names>R.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Kou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>61</volume>, <elocation-id>e202114220</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs8675-cit-0033">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>6585</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs8675-cit-0034">
+<string-name>
+<given-names>H.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Hitz</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>2668</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs8675-cit-0035">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Cagin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume>, <fpage>4732</fpage>.<pub-id pub-id-type="pmid">32058715</pub-id>
+</mixed-citation></ref><ref id="advs8675-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs8675-cit-0036">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2023</year>, <volume>62</volume>, <elocation-id>e202306948</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs8675-cit-0037">
+<string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rho</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Batter. Energy</source>
+<year>2022</year>, <volume>1</volume>, <elocation-id>20210013</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs8675-cit-0038">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2204036</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs8675-cit-0039">
+<string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ganapathy</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Haverkate</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tu&#x00142;odziecki</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Unnikrishnan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wagemaker</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>2336</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs8675-cit-0040">
+<string-name>
+<given-names>M.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2023</year>, <volume>33</volume>, <elocation-id>2213702</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs8675-cit-0041">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ou</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Dou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Chem. Soc. Rev.</source>
+<year>2020</year>, <volume>49</volume>, <fpage>8790</fpage>.<pub-id pub-id-type="pmid">33107869</pub-id>
+</mixed-citation></ref><ref id="advs8675-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs8675-cit-0042">
+<string-name>
+<given-names>F.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2021</year>, <volume>33</volume>, <elocation-id>2105329</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs8675-cit-0043">
+<string-name>
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Macromolecules</source>
+<year>2022</year>, <volume>55</volume>, <fpage>7117</fpage>.</mixed-citation></ref><ref id="advs8675-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs8675-cit-0044">
+<string-name>
+<given-names>S.</given-names>
+<surname>Nanda</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2000804</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs8675-cit-0045">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2019</year>, <volume>6</volume>, <elocation-id>1901036</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs8675-cit-0046">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M. N.</given-names>
+<surname>Banis</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2020</year>, <volume>78</volume>, <elocation-id>105107</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs8675-cit-0047">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2022</year>, <volume>32</volume>, <elocation-id>2113068</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs8675-cit-0048">
+<string-name>
+<given-names>B.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Mi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2023</year>, <volume>60</volume>, <elocation-id>102832</elocation-id>.</mixed-citation></ref><ref id="advs8675-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs8675-cit-0049">
+<string-name>
+<given-names>M.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <source>Soft Matter</source>
+<year>2015</year>, <volume>12</volume>, <fpage>106</fpage>.</mixed-citation></ref></ref-list></back></article>

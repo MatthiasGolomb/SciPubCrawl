@@ -1,0 +1,1003 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="iso-abbrev">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-3773</journal-id><journal-id journal-id-type="publisher-id">ANIE</journal-id><journal-title-group><journal-title>Angewandte Chemie (International Ed. in English)</journal-title></journal-title-group><issn pub-type="ppub">1433-7851</issn><issn pub-type="epub">1521-3773</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7986170</article-id><article-id pub-id-type="pmid">33314609</article-id><article-id pub-id-type="doi">10.1002/anie.202015238</article-id><article-id pub-id-type="publisher-id">ANIE202015238</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject><subj-group subj-group-type="heading"><subject>Solid&#x02010;State Batteries | Hot Paper</subject></subj-group></subj-group></article-categories><title-group><article-title>Lithium&#x02010;Metal Anode Instability of the Superionic Halide Solid Electrolytes and the Implications for Solid&#x02010;State Batteries</article-title></title-group><contrib-group><contrib id="anie202015238-cr-0001" contrib-type="author"><name><surname>Riegger</surname><given-names>Luise M.</given-names></name><xref ref-type="aff" rid="anie202015238-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="anie202015238-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="anie202015238-cr-0002" contrib-type="author"><name><surname>Schlem</surname><given-names>Roman</given-names></name><xref ref-type="aff" rid="anie202015238-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="anie202015238-cr-0003" contrib-type="author"><name><surname>Sann</surname><given-names>Joachim</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4663-2671</contrib-id><xref ref-type="aff" rid="anie202015238-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="anie202015238-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="anie202015238-cr-0004" contrib-type="author" corresp="yes"><name><surname>Zeier</surname><given-names>Wolfgang G.</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7749-5089</contrib-id><xref ref-type="aff" rid="anie202015238-aff-0003">
+<sup>3</sup>
+</xref><address><email>wzeier@uni-muenster.de</email></address></contrib><contrib id="anie202015238-cr-0005" contrib-type="author" corresp="yes"><name><surname>Janek</surname><given-names>J&#x000fc;rgen</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9221-4756</contrib-id><xref ref-type="aff" rid="anie202015238-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="anie202015238-aff-0002">
+<sup>2</sup>
+</xref><address><email>juergen.janek@phys.chemie.uni-giessen.de</email></address></contrib></contrib-group><aff id="anie202015238-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Physical Chemistry</named-content>
+<institution>Justus-Liebig-University Gie&#x000df;en</institution>
+<named-content content-type="street">Heinrich-Buff-Ring 17</named-content>
+<postal-code>35392</postal-code>
+<city>Giessen</city>
+<country country="DE">Germany</country>
+</aff><aff id="anie202015238-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Center for Materials Research (LaMa)</named-content>
+<institution>Justus-Liebig-University Gie&#x000df;en</institution>
+<named-content content-type="street">Heinrich-Buff-Ring 17</named-content>
+<postal-code>35392</postal-code>
+<city>Gie&#x000df;en</city>
+<country country="DE">Germany</country>
+</aff><aff id="anie202015238-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Institute for Inorganic and Analytical Chemistry</named-content>
+<institution>University of M&#x000fc;nster</institution>
+<named-content content-type="street">Corrensstr. 30</named-content>
+<postal-code>48149</postal-code>
+<city>M&#x000fc;nster</city>
+<country country="DE">Germany</country>
+</aff><pub-date pub-type="epub"><day>01</day><month>2</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>3</month><year>2021</year></pub-date><volume>60</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/anie.v60.12</issue-id><fpage>6718</fpage><lpage>6723</lpage><history><date date-type="received"><day>15</day><month>11</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Wiley&#x02010;VCH GmbH<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. Angewandte Chemie International Edition published by Wiley-VCH GmbH</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ANIE-60-6718.pdf"/><abstract><title>Abstract</title><p>Owing to high ionic conductivity and good oxidation stability, halide&#x02010;based solid electrolytes regain interest for application in solid&#x02010;state batteries. While stability at the cathode interface seems to be given, the stability against the lithium metal anode has not been explored yet. Herein, the formation of a reaction layer between Li<sub>3</sub>InCl<sub>6</sub> (Li<sub>3</sub>YCl<sub>6</sub>) and lithium is studied by sputter deposition of lithium metal and subsequent in&#x02005;situ X&#x02010;ray photoelectron spectroscopy as well as by impedance spectroscopy. The interface is thermodynamically unstable and results in a continuously growing interphase resistance. Additionally, the interface between Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>6</sub>PS<sub>5</sub>Cl is characterized by impedance spectroscopy to discern whether a combined use as cathode electrolyte and separator electrolyte, respectively, might enable long&#x02010;term stable and low impedance operation. In fact, oxidation stable halide&#x02010;based lithium superionic conductors cannot be used against Li, but may be promising candidates as cathode electrolytes.</p></abstract><abstract abstract-type="graphical"><p>Superionic halide solid electrolytes show excellent cathodic electrolyte properties in solid state batteries, but they are unstable in contact with the lithium metal anode. The forming solid electrolyte interphase is analyzed herein, using X&#x02010;ray photoelectron spectroscopy and impedance spectroscopy. Additionally, the hetero&#x02010;interface between Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>6</sub>PS<sub>5</sub>Cl is analyzed to highlight the concept of hybrid electrolyte cells.<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ANIE-60-6718-g002.jpg" position="anchor" id="jats-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="anie202015238-kwd-0001">electrochemical energy storage</kwd><kwd id="anie202015238-kwd-0002">lithium metal anode</kwd><kwd id="anie202015238-kwd-0003">solid electrolyte interphase</kwd><kwd id="anie202015238-kwd-0004">solid-state batteries</kwd><kwd id="anie202015238-kwd-0005">x-ray photoelectron spectroscopy</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Bundesministerium f&#x000fc;r Bildung und Forschung </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002347</institution-id></institution-wrap></funding-source><award-id>03XP0176D</award-id><award-id>03XP0117A</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><ref-count count="43"/><page-count count="6"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 15, 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.0 mode:remove_FC converted:23.03.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="anie202015238-self">L. M. Riegger, R. Schlem, J. Sann, W. G. Zeier, J. Janek, <italic>Angew. Chem. Int. Ed.</italic>
+<bold>2021</bold>, <italic>60</italic>, 6718.</mixed-citation>
+</p></notes></front><body><sec id="anie202015238-sec-0001"><title>Introduction</title><p>Solid state batteries (SSB) are currently regarded as a possible alternative to conventional lithium ion batteries (LIB) with liquid electrolyte (LE) due to the projected higher energy densities when using a lithium metal anode (LMA).[<xref rid="anie202015238-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="anie202015238-bib-0004" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="anie202015238-bib-0005" ref-type="ref">
+<sup>3</sup>
+</xref>] When solidifying a battery, the solid electrolyte (SE) replaces the LE and hence requires a high ionic conductivity to achieve reasonable power densities. In addition, stability in contact with cathode active materials (CAM) is needed to prevent detrimental side reactions.[<xref rid="anie202015238-bib-0006" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="anie202015238-bib-0010" ref-type="ref">
+<sup>5</sup>
+</xref>] Currently, most inorganic SSBs employ lithium thiophosphates such as Li<sub>6</sub>PS<sub>5</sub>X (X=Cl, Br, I) or Argyrodite&#x02010;type SEs, Li<sub>3</sub>PS<sub>4</sub> and Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>, all of which are good ionic conductors, but which have severe drawbacks at the cathode due to their inherent instability at high potentials.[<xref rid="anie202015238-bib-0004" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="anie202015238-bib-0011" ref-type="ref">
+<sup>6</sup>
+</xref>]</p><p>In order to find SEs that are oxidation stable at high potentials, halides have recently been reconsidered as suitable candidates.<xref rid="anie202015238-bib-0016" ref-type="ref">
+<sup>[7]</sup>
+</xref> In 2018, Asano et&#x02005;al.<xref rid="anie202015238-bib-0017" ref-type="ref">
+<sup>[8]</sup>
+</xref> reevaluated halide SEs with the general composition Li<sub>3</sub>MX<sub>6</sub> (M<sup>3+</sup>, X=Cl, Br, I), of which mostly Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>3</sub>YCl<sub>6</sub> have gained a lot of attention. This group of compounds exhibits a broad range of possible compositions such as for example, Li<sub>3</sub>InCl<sub>6</sub>, Li<sub>3</sub>YCl<sub>6</sub>, Li<sub>3</sub>YBr<sub>6</sub>, Li<sub>3</sub>ErCl<sub>6</sub> and Li<sub>3</sub>ErI<sub>6</sub>,[<xref rid="anie202015238-bib-0017" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="anie202015238-bib-0018" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="anie202015238-bib-0019" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="anie202015238-bib-0020" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="anie202015238-bib-0021" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="anie202015238-bib-0024" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="anie202015238-bib-0025" ref-type="ref">
+<sup>14</sup>
+</xref>] which all show promising ionic conductivities, especially after ball&#x02010;milling synthesis,<xref rid="anie202015238-bib-0024" ref-type="ref">
+<sup>[13]</sup>
+</xref> and high stability against oxidation that is required for the application in high&#x02010;voltage SSBs.<xref rid="anie202015238-bib-0020" ref-type="ref">
+<sup>[11]</sup>
+</xref> First cell studies show good stability of the halide SEs in contact with CAMs such as LiCoO<sub>2</sub> and LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub>, and side reactions with the CAMs were not reported.[<xref rid="anie202015238-bib-0017" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="anie202015238-bib-0018" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="anie202015238-bib-0019" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="anie202015238-bib-0020" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="anie202015238-bib-0026" ref-type="ref">
+<sup>15</sup>
+</xref>] This is in accordance with theoretical predictions that suggest high oxidation stability of the halide anions.[<xref rid="anie202015238-bib-0016" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="anie202015238-bib-0025" ref-type="ref">
+<sup>14</sup>
+</xref>] According to theoretical predictions, the electrochemical stability windows (ESW) of Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>3</sub>YCl<sub>6</sub> are 2.38&#x02013;4.26&#x02005;V and 0.62&#x02013;4.02 vs. Li<sup>+</sup>/Li, respectively,<xref rid="anie202015238-bib-0025" ref-type="ref">
+<sup>[14]</sup>
+</xref> showing that these electrolytes can be used in contact with most CAMs but that the anode interface may be unstable. Due to the expected instability against the LMA, a lithium thiophosphate separator electrolyte is mostly used, and the halide SEs are primarily used as cathode electrolyte.[<xref rid="anie202015238-bib-0017" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="anie202015238-bib-0018" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="anie202015238-bib-0019" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="anie202015238-bib-0020" ref-type="ref">
+<sup>11</sup>
+</xref>] Interestingly, no experimental studies on the interface stability of halide SEs against the LMA have been reported. Figure&#x02005;<xref rid="anie202015238-fig-0001" ref-type="fig">1</xref> shows a schematic SSB setup with the halide SE at the LMA, as well as when it is used as the cathode electrolyte only. In addition to the unexplored reactions at the LMA interface, the interface impedance for lithium ion transfer between a lithium thiophosphate separator electrolyte and a halide&#x02010;based cathode electrolyte has yet not been considered.<xref rid="anie202015238-bib-0030" ref-type="ref">
+<sup>[16]</sup>
+</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="anie202015238-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic SSB cell arrangements using Li<sub>3</sub>InCl<sub>6</sub>, a)&#x02005;as both separator electrolyte and cathode electrolyte with the cathode active material (CAM), b)&#x02005;as cathode electrolyte combined with a lithium thiophosphate separator electrolyte towards the lithium metal anode.</p></caption><graphic id="jats-graphic-3" xlink:href="ANIE-60-6718-g005"/></fig><p>To monitor the stability of the halide SEs Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>3</sub>YCl<sub>6</sub> against lithium metal, we deposited lithium metal on a SE pellet and performed in&#x02005;situ X&#x02010;ray photoelectron spectroscopy to analyze the reaction products in detail. Impedance measurements were performed to assess solid electrolyte interphase (SEI) formation between the halide SEs in contact with the LMA, and to quantify the impedance of the interface between the lithium metal halides and the lithium thiophosphate Li<sub>6</sub>PS<sub>5</sub>Cl.</p><p>In earlier work, our group investigated decomposition reactions and reaction layers that form when various thiophosphate based electrolytes such as Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>, Li<sub>3</sub>PS<sub>4</sub> or Li<sub>6</sub>PS<sub>5</sub>X (X=Cl, Br, I) are exposed to lithium metal, using in&#x02005;situ X&#x02010;ray photoelectron spectroscopy.[<xref rid="anie202015238-bib-0031" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="anie202015238-bib-0032" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="anie202015238-bib-0033" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="anie202015238-bib-0034" ref-type="ref">
+<sup>20</sup>
+</xref>] While all lithium thiophosphates are inherently unstable against lithium metal, the transport properties of the growing interphase decide whether kinetical stability is achieved: (1) If the reaction products form an mixed ion/electron conducting interphase (MCI), then a continuous reaction is expected that will ultimately lead to a short circuit of the SSB over time.[<xref rid="anie202015238-bib-0031" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="anie202015238-bib-0035" ref-type="ref">
+<sup>21</sup>
+</xref>] Mixed conducting interphases are typically observed in SEs that contain metal cations M<sup>4+</sup> (e.g. M=Ge, Ti), which are then reduced to M<sup>0</sup> after contact with lithium forming an electrically conductive reaction layer.[<xref rid="anie202015238-bib-0031" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="anie202015238-bib-0032" ref-type="ref">
+<sup>18</sup>
+</xref>] (2) If the decomposition products are primarily ion&#x02010;conducting and show negligible electronic conductivity, growth of a stable SEI can occur. As long as the SEI growth is self&#x02010;limiting and does not add a too high interphase impedance the SE may still be used, like in the case of Li<sub>3</sub>PS<sub>4</sub> and Li<sub>6</sub>PS<sub>5</sub>Cl.[<xref rid="anie202015238-bib-0005" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="anie202015238-bib-0010" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="anie202015238-bib-0034" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="anie202015238-bib-0036" ref-type="ref">
+<sup>22</sup>
+</xref>]</p></sec><sec id="anie202015238-sec-0002"><title>Results and Discussion</title><p>Figure&#x02005;<xref rid="anie202015238-fig-0002" ref-type="fig">2</xref> shows X&#x02010;ray photoelectron spectra of Li<sub>3</sub>InCl<sub>6</sub> during deposition, with the In&#x02010;3d lines, the In&#x02010;MNN Auger lines as well as the Li&#x02010;1s lines for pristine Li<sub>3</sub>InCl<sub>6</sub> after two different lithium deposition times. A pure indium metal reference was used to obtain the shape of the metal In&#x02010;3d<sub>5/2</sub> line as well as the position of the characteristic In&#x02010;MNN line, see Figure&#x02005;S1. In addition, InCl<sub>3</sub> was measured as reference to obtain the binding energies of an In&#x02010;Cl environment. When monitoring the In&#x02010;3d spectrum, an immediate change in the oxidation state was seen upon lithium deposition. The pristine sample exhibits one line at 446.1&#x02005;eV, which can be assigned to Li<sub>3</sub>InCl<sub>6</sub>. After ten minutes of lithium deposition two more lines caused by In<sub>2</sub>O<sub>3</sub> (444.8&#x02005;eV) and metallic indium (443.7&#x02005;eV) were found in addition to the original Li<sub>3</sub>InCl<sub>6</sub>. As thermodynamics predicts, In<sup>3+</sup> is reduced by lithium to form In<sup>0</sup>. The occurring In<sub>2</sub>O<sub>3</sub> signal is probably caused by an immediate reaction of the indium metal with oxygen either from a decontamination layer at the surface or with residual oxygen within the chamber. However, the In<sub>2</sub>O<sub>3</sub> signal increases after a waiting step in the measurement chamber so the influence of residual oxygen seems to be the stronger influence. After an hour of lithium metal deposition (approx. 15&#x02005;nm), the ongoing decomposition becomes even more apparent. Now the In&#x02010;3d line of Li<sub>3</sub>InCl<sub>6</sub> is significantly decreased indicating an ongoing interphase growth that buries the SE. It must be mentioned that Li<sub>3</sub>InCl<sub>6</sub> and InCl<sub>3</sub> exhibit the same binding energy (see Supporting Information Figure&#x02005;S3) and it is not possible to distinguish how much of Li<sub>3</sub>InCl<sub>6</sub> has potentially reacted to reduced indium chloride species such as InCl<sub>2</sub> and InCl.
+</p><fig fig-type="Figure" xml:lang="en" id="anie202015238-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a)&#x02005;Schematic illustration of lithium metal deposition on SE with an argon sputter gun and subsequent X&#x02010;ray photoelectron spectroscopy. X&#x02010;ray photoelectron In&#x02010;3d and Li&#x02010;1&#x02005;s (b,d) and Auger In&#x02010;MNN (c) spectra during/after lithium deposition on Li<sub>3</sub>InCl<sub>6</sub>. Li<sub>3</sub>InCl<sub>6</sub> decomposes in contact with lithium metal to metallic indium, which readily reacts with any remaining oxygen in the UHV chamber to In<sub>2</sub>O<sub>3</sub>. The intensity of lines representing pristine Li<sub>3</sub>InCl<sub>6</sub> decrease with time indicating coverage of the SE by the growing interphase.</p></caption><graphic id="jats-graphic-5" xlink:href="ANIE-60-6718-g003"/></fig><p>The formation of metallic indium is also seen in the In&#x02010;MNN Auger spectrum. At 1081.7&#x02005;eV a characteristic line is found in Li<sub>3</sub>InCl<sub>6</sub>. Ten minutes of lithium deposition causes a reduction of this Li<sub>3</sub>InCl<sub>6</sub> signal and a second characteristic peak starts to evolve at 1076.0&#x02005;eV that is characteristic of In metal (see Supporting Information Figure&#x02005;S1). The In metal signal is even more distinct after an hour of lithium deposition indicating that a significant fraction of the indium has become metallic.</p><p>Like in the indium spectra, the decomposition of Li<sub>3</sub>InCl<sub>6</sub> is seen in the Li&#x02010;1&#x02005;s spectrum as well. The Li&#x02010;1s spectrum shows Li<sub>3</sub>InCl<sub>6</sub> with a binding energy of 56.7&#x02005;eV and an additional line at 55.2&#x02005;eV, which can be assigned to surface contaminations such Li<sub>2</sub>CO<sub>3</sub> or LiOH. Within ten minutes of lithium deposition, the Li<sub>3</sub>InCl<sub>6</sub> signal (56.8&#x02005;eV) is reduced and superimposed by Li<sub>2</sub>CO<sub>3</sub> and LiOH on the pellet surface. Similar to the In signal, the binding energy of Li<sub>3</sub>InCl<sub>6</sub> and LiCl is the same, and no distinction can be made in the Li&#x02010;1s spectrum (see Figure&#x02005;S3). While carbonates can be detected, after ten minutes of lithium deposition, Li<sub>2</sub>O is detected at a binding energy of 54.3&#x02005;eV (Figure&#x02005;S2). After an hour of deposition, the Li<sub>2</sub>O signal (54.4&#x02005;eV) dominates the Li&#x02010;1s spectrum and the Li<sub>3</sub>InCl<sub>6</sub>/LiCl (56.7&#x02005;eV) and LiOH (55.3&#x02005;eV) signals are significantly decreased. The decrease of LiOH can be rationalized either due to a reaction with lithium metal to form Li<sub>2</sub>O or by superposition of the Li<sub>2</sub>O signal. While lithium metal is constantly deposited on top of the sample, no metallic lithium was detected indicating its quick reaction and ongoing decomposition of the Li<sub>3</sub>InCl<sub>6</sub> and possible further reactions of Li with the interphase (vide infra).</p><p>In addition to Li<sub>3</sub>InCl<sub>6,</sub> the spectra of Li<sub>3</sub>YCl<sub>6</sub> recorded in&#x02005;situ during lithium deposition can be found in the Figures&#x02005;S4 and S5. Similar to Li<sub>3</sub>InCl<sub>6</sub>, yttrium is reduced upon contact between Li<sub>3</sub>YCl<sub>6</sub> and lithium as shown in Figure&#x02005;S4. Y<sup>3+</sup> is reduced to Y<sup>0</sup> within ten minutes of lithium deposition and Y<sup>0</sup> then reacts further with decontaminations of the antechamber or neighboring species forming Y<sub>2</sub>O<sub>3</sub> or Y<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub>, which results in a broadened XPS signal. Similar to Li<sub>3</sub>InCl<sub>6</sub>, signals of the reduced yttrium components become stronger with time indicating an advancing reaction front. The Li&#x02010;1s spectra of the Li<sub>3</sub>YCl<sub>6</sub> show the same behavior as in Li<sub>3</sub>InCl<sub>6</sub> in which the Li<sub>3</sub>YCl<sub>6</sub>/LiCl signals decrease with deposition time and are being superposed by newly formed Li<sub>2</sub>CO<sub>3</sub>, LiOH and Li<sub>2</sub>O.</p><p>Considering the measured spectra during decomposition with Li metal, we propose the following idealized net reaction:<disp-formula id="anie202015238-disp-0001"><label>(1)</label><mml:math id="jats-math-1"><mml:mstyle displaystyle="true"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">l</mml:mi></mml:mrow><mml:mn>6</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>3</mml:mn><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mo>&#x02192;</mml:mo><mml:mn>6</mml:mn><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">M</mml:mi></mml:mrow><mml:mn>0</mml:mn></mml:msup><mml:mspace width="4pt"/><mml:mspace width="1.em"/><mml:mspace width="0.166667em"/><mml:mspace width="0.277778em"/><mml:mrow><mml:mo>(</mml:mo><mml:mi mathvariant="normal">M</mml:mi><mml:mo>=</mml:mo><mml:mi>In</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="normal">Y</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>Of course, intermediate reduced species such as InCl<sub>2</sub> and InCl may form as indicated in the Cl&#x02010;2p spectrum (Supporting Information, Figure&#x02005;S2) by shifting towards the binding energy of InCl<sub>3</sub>. However, these species cannot be distinguished in the measured spectra. From the thermodynamic perspective, the ongoing reaction will ultimately end at a fully reduced metal species. Clearly, the in&#x02005;situ deposition experiments prove that the halide SEs are unstable against lithium metal, showing a continuously growing reaction layer.</p><p>To study SEI growth, time resolved impedance spectroscopy was performed on Li<sub>3</sub>InCl<sub>6</sub> symmetric cells with lithium metal electrodes. Figure&#x02005;<xref rid="anie202015238-fig-0003" ref-type="fig">3&#x02009;a</xref> shows the impedance spectrum of Li<sub>3</sub>InCl<sub>6</sub> with blocking electrodes to obtain the typical capacitance of bulk Li<sub>3</sub>InCl<sub>6</sub>, which was found to be 20&#x02005;pF together with an ionic conductivity of 0.5&#x02005;mS&#x02009;cm<sup>&#x02212;1</sup>. Figure&#x02005;<xref rid="anie202015238-fig-0003" ref-type="fig">3&#x02009;c</xref> then shows the collected impedance spectra (15&#x02005;min intervals at the beginning, then 30&#x02005;min and later 1&#x02005;hour intervals). The collected time&#x02010;resolved spectra were fitted with an equivalent circuit consisting of three parallel <italic>RQ</italic> elements in series (<italic>R</italic>: resistance, <italic>Q</italic>: constant phase element, CPE). Figure&#x02005;<xref rid="anie202015238-fig-0003" ref-type="fig">3&#x02009;b</xref> shows an exemplary fit of one impedance spectrum and the capacitances evaluated for the three processes. Bulk conduction within Li<sub>3</sub>InCl<sub>6</sub> is observed at high frequencies with a capacitance of 84.3&#x02005;pF (pellet thickness is a quarter of the pellet with the blocking electrodes). A low frequency process is visible that we attribute to the Li|SE (or better Li/SEI) interface as a much higher capacitance of 3.1&#x02005;&#x003bc;F is observed due to the planar electrodes. In addition, a third process is visible in the intermediate frequency range (0.7&#x02005;MHz to 4&#x02005;kHz). The capacitance of this process with 8.4&#x02005;nF indicates a grain boundary process, likely indicative of the growing interphase. This process, while described via one constant phase element/resistor element, shows low &#x003b1; values of down to 0.65.<xref rid="anie202015238-bib-0040" ref-type="ref">
+<sup>[23]</sup>
+</xref> It is therefore highly likely that multiple underlying processes with quite close relaxation times are occurring, indicating a rather distributed microstructural and compositional nature of the forming interphase.
+</p><fig fig-type="Figure" xml:lang="en" id="anie202015238-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>a)&#x02005;Impedance spectra of Li<sub>3</sub>InCl<sub>6</sub> using blocking electrodes. b)&#x02005;Representative fit of an impedance spectrum of a symmetric cell Li/Li<sub>3</sub>InCl<sub>6</sub>/Li after 14&#x02005;hours, showing the bulk transport process in Li<sub>3</sub>InCl<sub>6</sub> (shown in purple), the interface Li/SEI (blue) and the growing resistance of the interphase (cyan). c)&#x02005;Temporal evolution of the impedance response of a symmetric Li|Li<sub>3</sub>InCl<sub>6</sub>|Li cell, stacked without rescaling and shifted by 1&#x02005;k&#x003a9; for each spectrum. d)&#x02005;Temporal evolution of the resistances of the different processes.</p></caption><graphic id="jats-graphic-7" xlink:href="ANIE-60-6718-g004"/></fig><p>When extracting the resistances of the different processes (see Figure&#x02005;<xref rid="anie202015238-fig-0003" ref-type="fig">3&#x02009;d</xref>), the bulk contribution does not vary significantly with time. The resistance that is assigned to the interphase (cyan) is continuously growing with time, together with the interface resistance (blue) towards Li, and a high overall interfacial resistance of 854&#x02005;&#x003a9; has already formed after one hour. Based on the classification by Wenzel et&#x02005;al.<xref rid="anie202015238-bib-0041" ref-type="ref">
+<sup>[24]</sup>
+</xref> the ongoing growth of the interphase together with the growing resistance is indicative of an SEI in which the ionic conductivity of the interphase is lower than the conductivity of the bulk electrolyte. If Equation&#x02005;(1) applies, the SEI is formed from a composite of indium metal in LiCl.<xref rid="anie202015238-bib-0042" ref-type="ref">
+<sup>[25]</sup>
+</xref> The volume fraction of indium from the decomposition reaction compared to LiCl is relatively small (1:8), and the SEI resistance may be dominated by LiCl. Interestingly enough, the decomposition behavior leading to a mixed&#x02010;conducting interphase is observed in Li<sub>3</sub>YCl<sub>6</sub> as shown in the Supporting Information, Figure&#x02005;S6. At this point, the discrepancy between the transport behavior of Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>3</sub>YCl<sub>6</sub> may be explained by the fact that indium is prone to alloying with Li already at room temperature.<xref rid="anie202015238-bib-0043" ref-type="ref">
+<sup>[26]</sup>
+</xref> This LiIn alloy formation would form a metal electrode dispersed within LiCl as an electrolyte, which shows the behavior of a SEI development in the impedance measurement.<xref rid="anie202015238-bib-0042" ref-type="ref">
+<sup>[25]</sup>
+</xref> In any case, both Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>3</sub>YCl<sub>6</sub> are clearly exhibiting fast decomposition at the LMA and cannot be used as separator electrolyte materials in SSBs.</p><p>Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>3</sub>YCl<sub>6</sub> have been tested in SSBs as cathode electrolyte components, whereas thiophosphates are often also used as separator electrolyte material.[<xref rid="anie202015238-bib-0017" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="anie202015238-bib-0018" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="anie202015238-bib-0019" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="anie202015238-bib-0020" ref-type="ref">
+<sup>11</sup>
+</xref>] In order to employ halide&#x02010;based SEs as cathode electrolytes in combination with thiophosphate SEs, the transfer resistance at their interface needs to be sufficiently small. In order to study this interfacial resistance a symmetric cell setup was used consisting of a Li<sub>3</sub>InCl<sub>6</sub> pellet sandwiched between a layer of Li<sub>6</sub>PS<sub>5</sub>Cl with Li electrodes on each side. At room temperature, only one process is visible in the impedance spectrum (see Figure&#x02005;<xref rid="anie202015238-fig-0004" ref-type="fig">4&#x02009;a</xref>). To resolve the respective ionic transfer process, the impedance was measured at low temperatures down to 173&#x02005;K. Figure&#x02005;<xref rid="anie202015238-fig-0004" ref-type="fig">4&#x02009;a</xref> shows a representative Nyquist Plot at 193&#x02005;K, as well as a schematic of the cell setup and the used equivalent circuit as insets. At these temperatures, a single semi&#x02010;circle was observed for the bulk contribution, which is indicative for virtually similar fast conduction in both electrolytes and a combined capacitance of 51.8&#x02005;pF, indicative of a bulk process. A second process is found that corresponds to the Li<sub>6</sub>PS<sub>5</sub>Cl|Li<sub>3</sub>InCl<sub>6</sub> interphase with a capacitance of 0.4&#x02005;&#x003bc;F. The high capacitance rules out that these are grain boundary resistances, as these are expected to have capacitances in the nF range. The deconvolution of both processes provides the respective resistances, which are shown in Figure&#x02005;<xref rid="anie202015238-fig-0004" ref-type="fig">4&#x02009;b</xref>. A slightly higher activation barrier for the ion transfer between Li<sub>6</sub>PS<sub>5</sub>Cl and Li<sub>3</sub>InCl<sub>6</sub> is found compared to bulk transport. Overall the Li<sub>6</sub>PS<sub>5</sub>Cl|Li<sub>3</sub>InCl<sub>6</sub> charge transfer resistance is roughly one order of magnitude smaller than the bulk contribution and is 59&#x02005;&#x003a9;&#x02009;cm<sup>2</sup> compared to 589&#x02005;&#x003a9;&#x02009;cm<sup>2</sup> for the bulk process at 193&#x02005;K, thus it is negligible at room temperature. This small resistance for Li ion charge transfer at the hetero&#x02010;contact Li<sub>6</sub>PS<sub>5</sub>Cl|Li<sub>3</sub>InCl<sub>6</sub> supports the general finding that the interface resistance two inorganic SEs is small, once good contact is achieved.<xref rid="anie202015238-bib-0030" ref-type="ref">
+<sup>[16]</sup>
+</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="anie202015238-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>a)&#x02005;Representative impedance of the symmetric Li<sub>6</sub>PS<sub>5</sub>Cl|Li<sub>3</sub>InCl<sub>6</sub>|Li<sub>6</sub>PS<sub>5</sub>Cl sandwich cell at room temperature and 193&#x02005;K. While both processes cannot be deconvoluted at room temperature and are described well with a single bulk process (40&#x02005;pF) at lower temperatures a clear assignment can be made corresponding to a bulk (51.8&#x02005;pF) and an interface contribution (0.4&#x02005;&#x003bc;F). b)&#x02005;Arrhenius behavior of the two processes in the bulk and at the Li<sub>6</sub>PS<sub>5</sub>Cl|Li<sub>3</sub>InCl<sub>6</sub> interface.</p></caption><graphic id="jats-graphic-9" xlink:href="ANIE-60-6718-g001"/></fig></sec><sec id="anie202015238-sec-0003"><title>Conclusion</title><p>In conclusion, this communication reports firstly on the instability of Li<sub>3</sub>InCl<sub>6</sub> and Li<sub>3</sub>YCl<sub>6</sub> at the LMA. Decomposition by reduction is found via in&#x02005;situ X&#x02010;ray spectroscopy that leads to a fast&#x02010;growing interphase, which is detrimental for the overall cell resistance. This rules out the use of lithium metal halides as separator electrolyte materials in SSBs with LMA. Secondly, a relatively low interface impedance is measured at the (unoptimized) Li<sub>6</sub>PS<sub>5</sub>Cl|Li<sub>3</sub>InCl<sub>6</sub> interface. Thus, the combination of stable SEI&#x02010;forming Li<sub>6</sub>PS<sub>5</sub>Cl together with Li<sub>3</sub>InCl<sub>6</sub> as cathode electrolyte, or the use of the halide SE as a stable coating of an CAM, may be a suitable solution in practice.</p></sec><sec sec-type="COI-statement" id="anie202015238-sec-0005"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-60-6718-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="anie202015238-sec-0004"><title>Acknowledgements</title><p>The research was supported by the Federal Ministry of Education and Research (BMBF) within the project FEST&#x02010;BATT under grant numbers 03XP0117A and 03XP0176D. We greatly appreciate helpful discussions with S. Burkhardt. Open access funding enabled and organized by Projekt DEAL.</p></ack><ref-list><ref id="anie202015238-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="anie202015238-cit-0001">&#x000a0;</mixed-citation></ref><ref id="anie202015238-bib-0002"><label>1a</label><mixed-citation publication-type="journal" id="anie202015238-cit-0002">
+<string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>1167</fpage>;</mixed-citation></ref><ref id="anie202015238-bib-0003"><label>1b</label><mixed-citation publication-type="journal" id="anie202015238-cit-0003">
+<string-name>
+<given-names>J.</given-names>
+<surname>Betz</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Bieker</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Meister</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Placke</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Schmuch</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1803170</elocation-id>.</mixed-citation></ref><ref id="anie202015238-bib-0004"><label>2</label><mixed-citation publication-type="journal" id="anie202015238-cit-0004">
+<string-name>
+<given-names>Y.-G.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fujiki</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yashiro</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Omoda</surname>
+</string-name>, <string-name>
+<given-names>D.-S.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Shiratsuchi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sugimoto</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ryu</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">Nat. Energy</source>
+<year>2020</year>, <volume>5</volume>, <fpage>299</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0005"><label>3</label><mixed-citation publication-type="journal" id="anie202015238-cit-0005">
+<string-name>
+<given-names>S.</given-names>
+<surname>Randau</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>K&#x000f6;tz</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Braun</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Ivers-Tiff&#x000e9;e</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Adermann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kulisch</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">Nat. Energy</source>
+<year>2020</year>, <volume>5</volume>, <fpage>259</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0006"><label>4</label><mixed-citation publication-type="miscellaneous" id="anie202015238-cit-0006">&#x000a0;</mixed-citation></ref><ref id="anie202015238-bib-0007"><label>4a</label><mixed-citation publication-type="journal" id="anie202015238-cit-0007">
+<string-name>
+<given-names>S. P.</given-names>
+<surname>Culver</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Krauskopf</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>4179</fpage>;</mixed-citation></ref><ref id="anie202015238-bib-0008"><label>4b</label><mixed-citation publication-type="journal" id="anie202015238-cit-0008">
+<string-name>
+<given-names>S. P.</given-names>
+<surname>Culver</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1900626</elocation-id>;</mixed-citation></ref><ref id="anie202015238-bib-0009"><label>4c</label><mixed-citation publication-type="journal" id="anie202015238-cit-0009">
+<string-name>
+<given-names>W. D.</given-names>
+<surname>Richards</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Miara</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>266</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0010"><label>5</label><mixed-citation publication-type="journal" id="anie202015238-cit-0010">
+<string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Walther</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Ayg&#x000fc;n</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Dietrich</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>22750</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0011"><label>6</label><mixed-citation publication-type="miscellaneous" id="anie202015238-cit-0011">&#x000a0;</mixed-citation></ref><ref id="anie202015238-bib-0012"><label>6a</label><mixed-citation publication-type="journal" id="anie202015238-cit-0012">
+<string-name>
+<given-names>F.</given-names>
+<surname>Walther</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Fuchs</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ohno</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Rohnke</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>3745</fpage>;</mixed-citation></ref><ref id="anie202015238-bib-0013"><label>6b</label><mixed-citation publication-type="journal" id="anie202015238-cit-0013">
+<string-name>
+<given-names>J.</given-names>
+<surname>Auvergniot</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Cassel</surname>
+</string-name>, <string-name>
+<given-names>J.-B.</given-names>
+<surname>Ledeuil</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Viallet</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Seznec</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dedryv&#x000e8;re</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>3883</fpage>;</mixed-citation></ref><ref id="anie202015238-bib-0014"><label>6c</label><mixed-citation publication-type="journal" id="anie202015238-cit-0014">
+<string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Weigand</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Arlt</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Manke</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Schr&#x000f6;der</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name> et&#x02005;al., <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>17835</fpage>;<pub-id pub-id-type="pmid">28481084</pub-id></mixed-citation></ref><ref id="anie202015238-bib-0015"><label>6d</label><mixed-citation publication-type="journal" id="anie202015238-cit-0015">
+<string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Ayg&#x000fc;n</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtwei&#x000df;</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Dietrich</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. O.</given-names>
+<surname>Binder</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>5574</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0016"><label>7</label><mixed-citation publication-type="journal" id="anie202015238-cit-0016">
+<string-name>
+<given-names>S.</given-names>
+<surname>Muy</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Voss</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Schlem</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Koerver</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Sedlmaier</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Maglia</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lamp</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao-Horn</surname>
+</string-name>, <source xml:lang="en">iScience</source>
+<year>2019</year>, <volume>16</volume>, <fpage>270</fpage>.<pub-id pub-id-type="pmid">31203184</pub-id></mixed-citation></ref><ref id="anie202015238-bib-0017"><label>8</label><mixed-citation publication-type="journal" id="anie202015238-cit-0017">
+<string-name>
+<given-names>T.</given-names>
+<surname>Asano</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sakai</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ouchi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sakaida</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Miyazaki</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hasegawa</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1803075</elocation-id>.</mixed-citation></ref><ref id="anie202015238-bib-0018"><label>9</label><mixed-citation publication-type="journal" id="anie202015238-cit-0018">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M. N.</given-names>
+<surname>Banis</surname>
+</string-name>, <string-name>
+<given-names>T.-K.</given-names>
+<surname>Sham</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>16427</fpage>&#x02013;<lpage>16432</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202015238-cit-0019">
+<source xml:lang="en">Angew. Chem.</source>
+<year>2019</year>, <volume>131</volume>, <fpage>16579</fpage>&#x02013;<lpage>16584</lpage>.</mixed-citation></ref><ref id="anie202015238-bib-0019"><label>10</label><mixed-citation publication-type="journal" id="anie202015238-cit-0020">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Norouzi Banis</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2019</year>, <volume>12</volume>, <fpage>2665</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0020"><label>11</label><mixed-citation publication-type="journal" id="anie202015238-cit-0021">
+<string-name>
+<given-names>K.-H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kaup</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Assoud</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">ACS Energy Lett.</source>
+<year>2020</year>, <volume>5</volume>, <fpage>533</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0021"><label>12</label><mixed-citation publication-type="miscellaneous" id="anie202015238-cit-0022">&#x000a0;</mixed-citation></ref><ref id="anie202015238-bib-0022"><label>12a</label><mixed-citation publication-type="journal" id="anie202015238-cit-0023">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2020</year>, <volume>13</volume>, <fpage>1429</fpage>;</mixed-citation></ref><ref id="anie202015238-bib-0023"><label>12b</label><mixed-citation publication-type="journal" id="anie202015238-cit-0024">
+<string-name>
+<given-names>R.</given-names>
+<surname>Schlem</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Bernges</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Kraft</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Minafra</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Energy Mater.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>3684</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0024"><label>13</label><mixed-citation publication-type="journal" id="anie202015238-cit-0025">
+<string-name>
+<given-names>R.</given-names>
+<surname>Schlem</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Muy</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Prinz</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Banik</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao-Horn</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zobel</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>1903719</elocation-id>.</mixed-citation></ref><ref id="anie202015238-bib-0025"><label>14</label><mixed-citation publication-type="journal" id="anie202015238-cit-0026">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Nolan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Mo</surname>
+</string-name>, <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>8039</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie202015238-cit-0027">
+<source xml:lang="en">Angew. Chem.</source>
+<year>2019</year>, <volume>131</volume>, <fpage>8123</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0026"><label>15</label><mixed-citation publication-type="miscellaneous" id="anie202015238-cit-0028">&#x000a0;</mixed-citation></ref><ref id="anie202015238-bib-0027"><label>15a</label><mixed-citation publication-type="journal" id="anie202015238-cit-0029">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume>, <fpage>7012</fpage>;<pub-id pub-id-type="pmid">32212650</pub-id></mixed-citation></ref><ref id="anie202015238-bib-0028"><label>15b</label><mixed-citation publication-type="journal" id="anie202015238-cit-0030">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mukherjee</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">Nano Energy</source>
+<year>2020</year>, <volume>76</volume>, <elocation-id>105015</elocation-id>;</mixed-citation></ref><ref id="anie202015238-bib-0029"><label>15c</label><mixed-citation publication-type="journal" id="anie202015238-cit-0031">
+<string-name>
+<given-names>C.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Adair</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Goubitz</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Willans</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Thijs</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">Nano Energy</source>
+<year>2020</year>, <volume>77</volume>, <elocation-id>105097</elocation-id>.</mixed-citation></ref><ref id="anie202015238-bib-0030"><label>16</label><mixed-citation publication-type="journal" id="anie202015238-cit-0032">
+<string-name>
+<given-names>M.</given-names>
+<surname>Weiss</surname>
+</string-name>, <string-name>
+<given-names>F. J.</given-names>
+<surname>Simon</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Busche</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nakamura</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Schr&#x000f6;der</surname>
+</string-name>, <string-name>
+<given-names>F. H.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Electrochem. Energy Rev.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>221</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0031"><label>17</label><mixed-citation publication-type="journal" id="anie202015238-cit-0033">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kr&#x000fc;ger</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Solid State Ionics</source>
+<year>2015</year>, <volume>278</volume>, <fpage>98</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0032"><label>18</label><mixed-citation publication-type="journal" id="anie202015238-cit-0034">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Randau</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtwei&#x000df;</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2400</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0033"><label>19</label><mixed-citation publication-type="journal" id="anie202015238-cit-0035">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Busche</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Solid State Ionics</source>
+<year>2016</year>, <volume>286</volume>, <fpage>24</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0034"><label>20</label><mixed-citation publication-type="journal" id="anie202015238-cit-0036">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Sedlmaier</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Dietrich</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Solid State Ionics</source>
+<year>2018</year>, <volume>318</volume>, <fpage>102</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0035"><label>21</label><mixed-citation publication-type="journal" id="anie202015238-cit-0037">
+<string-name>
+<given-names>P.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Busche</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Reich</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Adelhelm</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>21064</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0036"><label>22</label><mixed-citation publication-type="miscellaneous" id="anie202015238-cit-0038">&#x000a0;</mixed-citation></ref><ref id="anie202015238-bib-0037"><label>22a</label><mixed-citation publication-type="journal" id="anie202015238-cit-0039">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Endres</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2020</year>, <volume>124</volume>, <fpage>300</fpage>;</mixed-citation></ref><ref id="anie202015238-bib-0038"><label>22b</label><mixed-citation publication-type="journal" id="anie202015238-cit-0040">
+<string-name>
+<given-names>S.</given-names>
+<surname>Boulineau</surname>
+</string-name>, <string-name>
+<given-names>J.-M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <string-name>
+<given-names>J.-B.</given-names>
+<surname>Leriche</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Viallet</surname>
+</string-name>, <source xml:lang="en">Solid State Ionics</source>
+<year>2013</year>, <volume>242</volume>, <fpage>45</fpage>;</mixed-citation></ref><ref id="anie202015238-bib-0039"><label>22c</label><mixed-citation publication-type="journal" id="anie202015238-cit-0041">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.-H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.-W.</given-names>
+<surname>Nan</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>42279</fpage>.<pub-id pub-id-type="pmid">30451491</pub-id></mixed-citation></ref><ref id="anie202015238-bib-0040"><label>23</label><mixed-citation publication-type="journal" id="anie202015238-cit-0042">
+<string-name>
+<given-names>G. J.</given-names>
+<surname>Brug</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>van den Eeden</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sluyters-Rehbach</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Sluyters</surname>
+</string-name>, <source xml:lang="en">J. Electroanal. Chem. Interfacial Electrochem.</source>
+<year>1984</year>, <volume>176</volume>, <fpage>275</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0041"><label>24</label><mixed-citation publication-type="journal" id="anie202015238-cit-0043">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wenzel</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Leichtweiss</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sann</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zeier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>28216</fpage>.<pub-id pub-id-type="pmid">27677413</pub-id></mixed-citation></ref><ref id="anie202015238-bib-0042"><label>25</label><mixed-citation publication-type="journal" id="anie202015238-cit-0044">
+<string-name>
+<given-names>X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>I. R.</given-names>
+<surname>Kochetkov</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Sempere</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2017</year>, <volume>2</volume>, <fpage>17119</fpage>.</mixed-citation></ref><ref id="anie202015238-bib-0043"><label>26</label><mixed-citation publication-type="journal" id="anie202015238-cit-0045">
+<string-name>
+<given-names>A. L.</given-names>
+<surname>Santhosha</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Medenbach</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Buchheim</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Adelhelm</surname>
+</string-name>, <source xml:lang="en">Batteries Supercaps</source>
+<year>2019</year>, <volume>2</volume>, <fpage>524</fpage>.</mixed-citation></ref></ref-list></back></article>

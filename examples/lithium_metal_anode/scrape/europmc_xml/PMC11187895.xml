@@ -1,0 +1,1532 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs8129" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11187895</article-id><article-id pub-id-type="pmid">38639396</article-id>
+<article-id pub-id-type="doi">10.1002/advs.202310136</article-id><article-id pub-id-type="publisher-id">ADVS8129</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Eutectogel Electrolyte Constructs Robust Interfaces for High&#x02010;Voltage Safe Lithium Metal Battery</article-title></title-group><contrib-group><contrib id="advs8129-cr-0001" contrib-type="author"><name><surname>Wu</surname><given-names>Wanbao</given-names></name><xref rid="advs8129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs8129-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs8129-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs8129-cr-0002" contrib-type="author"><name><surname>Li</surname><given-names>Deping</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2116-5184</contrib-id><xref rid="advs8129-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs8129-cr-0003" contrib-type="author"><name><surname>Gao</surname><given-names>Chaochao</given-names></name><xref rid="advs8129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs8129-cr-0004" contrib-type="author"><name><surname>Wu</surname><given-names>Hao</given-names></name><xref rid="advs8129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs8129-cr-0005" contrib-type="author"><name><surname>Bo</surname><given-names>Yiyang</given-names></name><xref rid="advs8129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs8129-cr-0006" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Jichuan</given-names></name><xref rid="advs8129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>zhangjichuan@hit.edu.cn</email></address></contrib><contrib id="advs8129-cr-0007" contrib-type="author" corresp="yes"><name><surname>Ci</surname><given-names>Lijie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1759-105X</contrib-id><xref rid="advs8129-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>cilijie@hit.edu.cn</email></address></contrib><contrib id="advs8129-cr-0008" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Jiaheng</given-names></name><xref rid="advs8129-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>zhangjiaheng@hit.edu.cn</email></address></contrib></contrib-group><aff id="advs8129-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Sauvage Laboratory for Smart Materials</named-content>
+<institution>Harbin Institute of Technology</institution>
+<city>Shenzhen</city>
+<postal-code>518055</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs8129-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">School of Petrochemical Engineering</named-content>
+<institution>Changzhou University</institution>
+<city>Changzhou</city>
+<postal-code>21300</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs8129-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Changzhou Qianmu New Energy Co. Ltd.</institution>
+<city>Changzhou</city>
+<postal-code>21300</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs8129-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Materials Science and Engineering</named-content>
+<institution>Harbin Institute of Technology</institution>
+<city>Shenzhen</city>
+<postal-code>518055</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>cilijie@hit.edu.cn</email>; <email>zhangjichuan@hit.edu.cn</email>; <email>zhangjiaheng@hit.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>4</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2024</year></pub-date><volume>11</volume><issue seq="690">23</issue><issue-id pub-id-type="doi">10.1002/advs.v11.23</issue-id><elocation-id>2310136</elocation-id><history>
+<date date-type="rev-recd"><day>02</day><month>4</month><year>2024</year></date>
+<date date-type="received"><day>23</day><month>12</month><year>2023</year></date>
+</history><permissions><!--&#x000a9; 2024 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Authors. Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-11-2310136.pdf"/><abstract><title>Abstract</title><p>Dramatic growth of lithium dendrite, structural deterioration of LiCoO<sub>2</sub> (LCO) cathode at high voltages, and unstable electrode/electrolyte interfaces pose significant obstacles to the practical application of high&#x02010;energy&#x02010;density LCO||Li batteries. In this work, a novel eutectogel electrolyte is developed by confining the nonflammable eutectic electrolyte in a polymer matrix. The eutectogel electrolyte can construct a robust solid electrolyte interphase (SEI) with inorganic&#x02010;rich LiF and Li<sub>3</sub>N, contributing to a uniform Li deposition. Besides, the severe interface side reactions between LCO cathode and electrolyte can be retarded with an in situ formed protective layer. Correspondingly, Li||Li symmetrical cells achieve highly reversible Li plating/stripping over 1000&#x000a0;h. The LCO||Li full cell can maintain 72.5% capacity after 1500 cycles with a decay rate of only 0.018% per cycle at a high charging voltage of 4.45&#x000a0;V. Moreover, the well&#x02010;designed eutectogel electrolyte can even enable the stable operation of LCO at an extremely high cutoff voltage of 4.6&#x000a0;V. This work introduces a promising avenue for the advancement of eutectogel electrolytes, the nonflammable nature and well&#x02010;regulated interphase significantly push forward the future application of lithium metal batteries and high&#x02010;voltage utilization of LCO cathode.</p></abstract><abstract id="advs8129-abs-0001" abstract-type="graphical"><p>A well&#x02010;designed eutectogel electrolyte constructs a robust solid electrolyte interphase with inorganic&#x02010;rich LiF and Li<sub>3</sub>N, contributing to a uniform Li deposition. The severe interface side reactions between LiCoO<sub>2</sub> cathode and electrolyte can be retarded with an in situ formed protective layer. The well&#x02010;regulated interphases ensure the long cycling performance of high energy density LCO||Li cells at high voltage.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-11-2310136-g005.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs8129-kwd-0001">eutectogel electrolyte</kwd><kwd id="advs8129-kwd-0002">high voltage</kwd><kwd id="advs8129-kwd-0003">LCO cathode</kwd><kwd id="advs8129-kwd-0004">lithium metal batteries</kwd><kwd id="advs8129-kwd-0005">structure/interface stability</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Shenzhen Science and Technology Program</funding-source><award-id>JCYJ20180507183907224</award-id><award-id>JCYJ20210324121411031</award-id><award-id>JSGG202108021253804014</award-id><award-id>RCBS20210706092218040</award-id><award-id>GXWD20221030205923001</award-id><award-id>KQTD20170809110344233</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="11"/><word-count count="5919"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 19, 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.4 mode:remove_FC converted:19.06.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs8129-cit-0044">
+<string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ci</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <article-title>Eutectogel Electrolyte Constructs Robust Interfaces for High&#x02010;Voltage Safe Lithium Metal Battery</article-title>. <source>Adv. Sci.</source>
+<year>2024</year>, <volume>11</volume>, <elocation-id>2310136</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202310136</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs8129-sec-0010"><label>1</label><title>Introduction</title><p>With the rapid advancements in intelligence and information technology, the pursuit of smart, lightweight design, and extended cycle life emerges as a primary focus in the field of portable electronics (e.g., mobile phones, laptops, and digital cameras).<sup>[</sup>
+<xref rid="advs8129-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs8129-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs8129-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> These characteristics demand higher volumetric energy densities for lithium&#x02010;ion batteries. The most promising approaches to achieve this goal are to increase the cathode/anode capacities or to increase the operating voltage.<sup>[</sup>
+<xref rid="advs8129-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs8129-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs8129-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> This is due to the material compacted density, the mass ratio of active material, the thickness of the separators, and the current collectors are already close to their limits and the energy density that can be increased is very limited. In addition, reducing the thickness of the separators and the current collector would increase the safety risks.<sup>[</sup>
+<xref rid="advs8129-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup>
+</p><p>From the perspective of cathode materials, enhancing the energy density of Li&#x02010;ion batteries presents an ongoing challenge. LiCoO<sub>2</sub> (LCO) cathode still has a definite advantage owing to its easy synthesis, high compact density, high initial Coulomb efficiency, high operating voltage, and good cycling stability. Although the theoretical capacity of the LCO cathode is as high as 275&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>, the practical capacity is only 140&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> at a cutoff voltage of 4.2&#x000a0;V. By increasing the cutoff voltage to 4.5&#x000a0;V, the capacity can be increased to 180&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>.<sup>[</sup>
+<xref rid="advs8129-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> However, the practical application of high&#x02010;voltage LCO still faces huge challenges, suffering from structural collapse and detrimental cathode/electrolyte interface reactions when the cutoff voltage exceeds 4.5&#x000a0;V, leading to rapid decay.<sup>[</sup>
+<xref rid="advs8129-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="advs8129-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs8129-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> Therefore, the establishment of a highly stable cathode&#x02013;electrolyte interphase (CEI) is essential to improve the performance of high&#x02010;voltage LCO cathodes. Many substantial efforts have been devoted to stabilizing the surface structure of LCO cathode and cathode/electrolyte interface at high voltage, such as cation doping,<sup>[</sup>
+<xref rid="advs8129-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="advs8129-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs8129-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> surface modification,<sup>[</sup>
+<xref rid="advs8129-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs8129-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs8129-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> separator improvement<sup>[</sup>
+<xref rid="advs8129-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs8129-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="advs8129-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> and electrolyte modification.<sup>[</sup>
+<xref rid="advs8129-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="advs8129-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="advs8129-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> Among these, the in situ formation of stable LiCoO<sub>2</sub>/electrolyte interface films by electrolyte design stands out as a promising and cost&#x02010;effective approach, although it requires further refinement. Conventional carbonate and ether electrolytes are prone to decomposition under high voltage, resulting in inferior cycling performance.<sup>[</sup>
+<xref rid="advs8129-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="advs8129-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> In particular, the high flammability of carbonate electrolytes is still a big challenge. Eutectic electrolyte delivers high safety with high thermal stability and nonflammability. In addition, polymer gel electrolytes have received increasing attention due to good interfacial contact with lithium metal anode, high conductivity, and effective inhibition of lithium dendrite growth. Combining polymer matrix with eutectic electrolyte provides a new strategy for realizing high safety and high energy density lithium metal batteries.<sup>[</sup>
+<xref rid="advs8129-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs8129-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs8129-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> Consequently, the development of a new eutectogel electrolyte to match high&#x02010;voltage LCO cathodes and deliver higher capacity is imperative.</p><p>Herein, we designed a succinonitrile (SN)&#x02010;based eutectic electrolyte containing lithium bis(trifluoromethanesulfonyl)imide (LiTFSI), lithium borate difluorooxalate (LiDFOB), and SN in eutectic ratio and fluoroethylene carbonate as an additive. Due to its high dielectric constant, SN exhibits superior capabilities to dissolve lithium salts and form eutectic solutions.<sup>[</sup>
+<xref rid="advs8129-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="advs8129-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> Notably, we have also developed a eutectogel electrolyte by encapsulating the eutectic electrolyte within a polymer matrix, which enhances the interfacial stability with the Li metal anode and enables long&#x02010;term stable Li stripping and plating. A synergistic stabilization of the lithium metal anodes and LCO cathodes is achieved by a stable interface formed with the eutectogel electrolyte, which prevents excessive electrolyte decomposition and ensures structural stability of the LCO cathode at high voltages. Moreover, comprehensive scanning electron microscopy, transmission electron microscopy, and X&#x02010;ray photoelectron spectroscopy characterizations were introduced to further decipher the microstructure of the CEI. This work provides valuable insights into the feasibility of eutectogel electrolytes to achieve high safety and high energy density LCO||Li batteries.</p></sec><sec id="advs8129-sec-0020"><label>2</label><title>Results and Discussion</title><p>The preparation of the eutectogel electrolyte is visually illustrated in Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S1</xref> (Supporting Information) and consists of two main steps. The first stage involves immobilizing 1&#x02010;ethy&#x02010;3&#x02010;methylimidazolium bis(trifluoromethylsulfonyl)imide&#x000a0;(EMITFSI) within a copolymer gel framework. This is accomplished by casting a mixed acetone solution containing EMITFSI, poly(vinylidene fluoride&#x02010;co&#x02010;hexafluoropropylene) (PVDF&#x02010;HFP), and polyethylene oxide (PEO) to produce a thin and uniform film, &#x02248;35&#x000a0;&#x000b5;m thick, with a macroporous structure measuring hundreds of nanometers on the surface (<bold>Figure</bold>
+<xref rid="advs8129-fig-0001" ref-type="fig">
+<bold>1</bold>a,b</xref>), termed as PP&#x02010;IL. For comparison, PVDF&#x02010;HFP membranes without EMITFSI and PEO (termed as PVDF&#x02010;HFP membranes), and PVDF&#x02010;HFP membranes with EMITFSI but without PEO (termed as P&#x02010;IL) were also prepared. Subsequently, the PP&#x02010;IL film was immersed in a eutectic electrolyte consisting of LiTFSI:LiDFOB:SN with a molar ratio of 0.8:0.2:10 and 10&#x000a0;wt.% FEC was added as a film&#x02010;forming additive to form a eutectogel electrolyte. Notably, the eutectic electrolyte has a high ionic conductivity of 3.62&#x000a0;mS&#x000a0;cm<sup>&#x02212;1</sup>. The average eutectic electrolyte adsorption of the PP&#x02010;IL membrane is 11.2% (Table <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S1</xref>, Supporting Information). The incorporation of EMITFSI and PEO induces a reduction in the crystallinity and an augmentation of the amorphous phase within PVDF&#x02010;HFP,<sup>[</sup>
+<xref rid="advs8129-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> as depicted in Figure&#x000a0;<xref rid="advs8129-fig-0001" ref-type="fig">1c</xref>. Notably, the introduction of EMITFSI enhances the stretching capacity of the polymer membrane from 66.7% to 80.0%, rendering the membrane considerably more flexible (Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs8129-fig-0001"><label>Figure 1</label><caption><p>a) Optical photograph and thickness of eutectogel electrolyte. b) SEM images of eutectogel electrolyte. c) XRD patterns of PVDF&#x02010;HFP, P&#x02010;IL, and PP&#x02010;IL membranes. d) Flammability testing of eutectic electrolyte and commercial electrolyte. e) TGA of commercial electrolyte, eutectic electrolyte, and PP&#x02010;IL membrane. f) Current&#x02013;time curve of Li/eutectogel electrolyte/Li symmetrical cells with a 5&#x000a0;mV DC voltage applied. g) LSV plots of eutectic electrolyte and eutectogel electrolyte.</p></caption><graphic xlink:href="ADVS-11-2310136-g003" position="anchor" id="jats-graphic-3"/></fig><p>For PP&#x02010;IL membranes, the strong ionic dipole interactions between imidazole cations and PVDF&#x02010;HFP and PEO give them a certain self&#x02010;healing ability.<sup>[</sup>
+<xref rid="advs8129-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> As represented in Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S3</xref> (Supporting Information), the PP&#x02010;IL film was scratched with a razor blade and immersed in the eutectic electrolyte. After soaking for 12&#x000a0;h, the scratch on the PP&#x02010;IL membrane almost completely disappeared. Moreover, the peak shifts from IR spectra (Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information) and the short distance of the atoms from DFT structure optimization (Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information) confirm the strong ionic dipolar interaction between EMITFSI and PVDF and PEO.<sup>[</sup>
+<xref rid="advs8129-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> Therefore, EMITFSI not only reduces the crystallinity of the polymer but also cross&#x02010;links with the polymer matrix through a strong ionic dipole interaction, facilitating Li<sup>+</sup> mobility and increasing ionic conductivity (0.63&#x000a0;mS&#x000a0;cm<sup>&#x02212;1</sup> at 25&#x000a0;&#x000b0;C). Notably, the ionic conductivity of eutectogel electrolytes is higher than that of most other gel electrolytes (Table <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information).</p><p>Great significance is attributed to the thermal stability of the electrolyte concerning battery safety, as it plays a pivotal role in averting potential hazards like short&#x02010;circuits or thermal runaway during battery operation. As shown in Figure&#x000a0;<xref rid="advs8129-fig-0001" ref-type="fig">1e</xref>, the commercial electrolyte has a weight loss of 87% at 150&#x000a0;&#x000b0;C, compared to only 17% for the eutectic electrolyte. The weight loss of eutectic electrolytes is mainly attributed to the volatilization of FEC and very few SN. Furthermore, it is noteworthy that the PP&#x02010;IL membrane demonstrates impressive thermal resilience, tolerating temperatures of up to 350&#x000a0;&#x000b0;C. Most importantly, flammability tests revealed the nonflammable nature of eutectic electrolytes, primarily stemming from the intrinsic nonflammability of SN (Figure&#x000a0;<xref rid="advs8129-fig-0001" ref-type="fig">1d</xref>). In stark contrast, commercial electrolytes containing carbonate solvents can easily be ignited, posing a significant safety hazard. Consequently, eutectogel electrolytes offer a commendable level of safety assurance. The eutectogel electrolyte also exhibits a high lithium&#x02010;ion transference number of 0.52 (Figure&#x000a0;<xref rid="advs8129-fig-0001" ref-type="fig">1f</xref>), which can effectively alleviate electrode polarization and allows the battery to operate at elevated current densities. Notably, the eutectic electrolyte has a higher Li<sup>+</sup> transference number of 0.72 (Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S6</xref>, Supporting Information). This difference can be attributed to the introduction of a polymer matrix into the eutectic electrolyte, which serves as a physical barrier to the movement of Li<sup>+</sup>, thereby lowering the Li<sup>+</sup> transference number of the eutectogel electrolyte. Additionally, the eutectogel electrolyte has a wide electrochemical window up to 5.5&#x000a0;V, greater than the 5.2&#x000a0;V of the eutectic electrolyte (Figure&#x000a0;<xref rid="advs8129-fig-0001" ref-type="fig">1g</xref>). This indicates that eutectogel electrolytes can be applied to most high&#x02010;voltage cathode materials, even the 4.6&#x000a0;V LCO cathode.</p><p>The morphology of deposited lithium was observed by scanning electron microscopy (SEM) for various electrolytes. As depicted in <bold>Figure</bold>
+<xref rid="advs8129-fig-0002" ref-type="fig">
+<bold>2</bold>a&#x02013;c</xref>, both the commercial electrolyte and eutectic electrolyte exhibit a porous structure with distinct lithium dendrites, but the eutectic electrolyte demonstrates an increased size. The presence of such microporous structures and lithium dendrites fosters ongoing side reactions between the active lithium metal and the electrolyte, leading to low Coulombic efficiency.<sup>[</sup>
+<xref rid="advs8129-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> Meanwhile, lithium dendrites can penetrate the separator during cell operation, posing a safety hazard. In sharp contrast, the eutectogel electrolyte shows a smooth and dense lithium deposition surface with large Li particles, which can ensure that detrimental side reactions between the lithium and the electrolyte are prevented (Figure&#x000a0;<xref rid="advs8129-fig-0002" ref-type="fig">2c</xref>). The characterization of lithium deposition morphology was further substantiated by the use of cryo&#x02010;transmission electron microscopy (Cryo&#x02010;TEM), as depicted in Figure&#x000a0;<xref rid="advs8129-fig-0002" ref-type="fig">2d,e</xref>. It is noteworthy that the commercial electrolyte displayed the presence of lithium dendrites with an approximate size of several hundred nanometers, signifying the potential risks associated with lithium metal batteries, such as short circuits and capacity fading. On the contrary, in the eutectogel electrolyte, a unique morphology was observed, consisting of a large number of stacked structures without any lithium dendrite, and this denser deposition morphology could reduce the side reactions between the electrolyte and lithium metal and stabilize the cell cycling. This observation not only confirms the SEM results but also suggests a more stable and safer lithium deposition behavior in eutectogel electrolytes.<sup>[</sup>
+<xref rid="advs8129-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs8129-fig-0002"><label>Figure 2</label><caption><p>SEM images of Li metal deposited on Cu foil at 0.5&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup> with a capacity of 1.0&#x000a0;mAh&#x000a0;cm<sup>&#x02212;2</sup> in a) commercial electrolyte, b) eutectic electrolyte, and c) eutectogel electrolyte. Cryo&#x02010;TEM images of lithium deposition in d) commercial electrolyte and e) eutectogel electrolyte. The cycling performance of Li&#x02013;Li symmetrical cells with eutectic electrolyte and eutectogel electrolyte at f) 0.1&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>/0.2&#x000a0;mAh&#x000a0;cm<sup>&#x02212;2</sup> and g) 0.2&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>/0.4&#x000a0;mAh&#x000a0;cm<sup>&#x02212;2</sup>. h) The voltage responses of Li||Li symmetric cells with eutectogel electrolyte under different current densities.</p></caption><graphic xlink:href="ADVS-11-2310136-g004" position="anchor" id="jats-graphic-5"/></fig><p>It is expected that dendrite&#x02010;free morphology will enhance the safety and lifespan of lithium metal batteries. The compatibility between eutectogel electrolyte and Li metal anode was further investigated by symmetric Li||Li cells under different current densities (Figure&#x000a0;<xref rid="advs8129-fig-0002" ref-type="fig">2f,g</xref>). For the cells using eutectic electrolyte, a pronounced voltage drop occurs after 900&#x000a0;h at 0.1&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup> and 500&#x000a0;h at 0.2&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>, indicating an internal short circuit due to the continuous growth of Li dendrites (Figure&#x000a0;<xref rid="advs8129-fig-0002" ref-type="fig">2b</xref>). As expected, the eutectogel electrolyte shows a stable voltage plateau over 1000&#x000a0;h at 0.1&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup> and 600&#x000a0;h at 0.2&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup>. This enhanced cycling stability can be attributed to the dense stacked Li particle deposition, which ensures the reversibility of the lithium stripping/plating and effective suppression of side reactions (Figure&#x000a0;<xref rid="advs8129-fig-0002" ref-type="fig">2c</xref>). Furthermore, the eutectogel electrolyte exhibits an ultimate current density of up to 0.6&#x000a0;mA&#x000a0;cm<sup>&#x02212;2</sup> (Figure&#x000a0;<xref rid="advs8129-fig-0002" ref-type="fig">2h</xref>).</p><p>The CE profile of Li plating/stripping was further conducted in Li||Cu cell. As shown in Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S7</xref> (Supporting Information), the carbonate electrolyte shows an average CE of only 74.02%, in contrast, eutectic electrolyte, and eutectogel electrolyte have higher average CE of 94.91% and 94.65%, respectively. In addition, the Coulombic efficiency of eutectogel electrolytes is higher than that of partial gel electrolytes, but still inferior to that of state&#x02010;of&#x02010;the&#x02010;art lithium metal electrolytes (Table <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information).</p><p>Benefits from the wide electrochemical window of the eutectogel electrolyte and good compatibility with lithium metal. Eutectogel electrolyte is applied to high voltage LCO||Li batteries. Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S8</xref> (Supporting Information) shows the rate performance of three electrolytes at room temperature from 3.0&#x02013;4.45&#x000a0;V. The eutectogel electrolyte demonstrates slightly inferior rate performance compared to eutectic electrolytes and commercial electrolytes, especially at high rates. This performance discrepancy can be attributed to slower reaction kinetics resulting from its lower ionic conductivity. The long&#x02010;term cycling performance of LCO||Li cells was assessed at 0.5C and in the voltage range of 3.0&#x02013;4.45&#x000a0;V (<bold>Figure</bold>
+<xref rid="advs8129-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>). The eutectic electrolyte displays a high initial discharge capacity of 164.7&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup>, but it decays rapidly, retaining 22.6% after 1000 cycles. Additionally, it is evident that the commercial electrolyte experiences rapid capacity fading after only 50 cycles, with a capacity retention of 41.8% after 1000 cycles. In contrast, the eutectogel electrolyte delivers superior long&#x02010;term cycling performance, boasting a capacity retention of 72.5%, an average CE as high as 99.9% after 1500 cycles, and a decay rate of only 0.018% per cycle. The charge&#x02013;discharge profiles of eutectogel electrolytes also demonstrate less pronounced increases in voltage polarization after cycling compared to commercial electrolytes and eutectic electrolytes (Figure&#x000a0;<xref rid="advs8129-fig-0003" ref-type="fig">3b,d</xref>). The reduced polarization voltage is due to the stable electrode/electrolyte interface. It is worth noting that, to the best of our knowledge, the long&#x02010;term cycling performance demonstrated in our work surpasses that of high&#x02010;voltage LCO cathodes within the 3.0&#x02013;4.5&#x000a0;V range when using liquid or gel electrolytes (Table <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs8129-fig-0003"><label>Figure 3</label><caption><p>a) The cycling performance of LCO||Li cells utilizing various electrolytes under 3.0&#x02013;4.45&#x000a0;V and 0.5C. The galvanostatic charge&#x02013;discharge profiles of LCO||Li cells with different electrolytes at selected cycles in b) commercial electrolyte, c) eutectic electrolyte, and d) eutectogel electrolyte. e) The cycling performance of LCO||Li cells utilizing various electrolytes under 3.0&#x02013;4.6&#x000a0;V and 0.5C. The normalized charge&#x02013;discharge profiles at the fifth cycle and 100th cycle in f) commercial electrolye, g) eutectic electrolyte, and h) eutectogel electrolyte.</p></caption><graphic xlink:href="ADVS-11-2310136-g006" position="anchor" id="jats-graphic-7"/></fig><p>To highlight the superiority of eutectogel electrolyte, we subjected the LCO||Li cells to cycling in 3.0&#x02013;4.6&#x000a0;V (Figure&#x000a0;<xref rid="advs8129-fig-0003" ref-type="fig">3e</xref>). In detail, the cell using eutectogel electrolyte displays the initial discharge capacity of 186.4&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> at 0.5C with a remarkable capacity retention of 87.7% after 100 cycles, which is much better than in eutectic electrolyte (67.8%) and commercial electrolyte (31.8%). It is noteworthy that, as confirmed by the voltage spikes in Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S9</xref> (Supporting Information), an internal short circuit occurred after the 165th cycle in the case of the eutectic electrolyte (Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S10</xref>, Supporting Information). This internal short circuit can be attributed to the continuous lithium dendrite growth. The normalized 5th and 100th charge/discharge curves reveal substantial voltage decay for the commercial electrolyte (Figure&#x000a0;<xref rid="advs8129-fig-0003" ref-type="fig">3f</xref>) and eutectic electrolytes (Figure&#x000a0;<xref rid="advs8129-fig-0003" ref-type="fig">3g</xref>), with the high voltage plateau from O3 to H1&#x02010;3 at 4.5&#x000a0;V disappearing after 100 cycles.<sup>[</sup>
+<xref rid="advs8129-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> In contrast, the eutectogel electrolyte exhibits minimal voltage decay after 100 cycles, and the high voltage plateau remains coincident with that observed during the fifth cycle (Figure&#x000a0;<xref rid="advs8129-fig-0003" ref-type="fig">3h</xref>). In addition, the specific capacity from 4.5 to 4.6&#x000a0;V is calculated. The commercial electrolyte showed a decrease from 21&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> in the fifth cycle to 14&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> in the 50th cycle, while the eutectic electrolyte decreased from 27&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> in the fifth cycle to 18&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> in the 50th cycle. Remarkably, the eutectogel electrolyte remained stable after 50 cycles (Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S11</xref>, Supporting Information). Furthermore, the potential for practical application of eutectogel electrolytes was verified by evaluating the performance of high&#x02010;loading LCO cathodes up to 10&#x000a0;mg&#x000a0;cm<sup>&#x02212;2</sup>. As shown in Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S12</xref> (Supporting Information), the capacity of the eutectogel electrolyte is 172.8&#x000a0;mAh&#x000a0;g<sup>&#x02212;1</sup> after 15 cycles with a high&#x02010;loading LCO cathode between 3.0&#x02013;4.45&#x000a0;V. The results demonstrate that eutectogel electrolytes can provide stable electrochemical performance even under high&#x02010;loading conditions.</p><p>The cell performance is strongly correlated with the structural evolution of the LCO cathode. <bold>Figure</bold>
+<xref rid="advs8129-fig-0004" ref-type="fig">
+<bold>4</bold>a,b</xref> shows the CV profiles of the commercial electrolyte and the eutectogel electrolyte at 3.0&#x02013;4.6&#x000a0;V. The oxide peak at 4.55&#x000a0;V corresponds to the phase transition from O3 to H1&#x02010;3, and the peak intensity gradually weakened in commercial electrolytes with cycling, indicating an irreversible phase transition in the LCO cathode.<sup>[</sup>
+<xref rid="advs8129-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> In sharp contrast, eutectogel electrolyte exhibits excellent reversibility and the invariant peak intensity in the initial five cycles, indicating the structural reversibility from O3 to H1&#x02010;3 under 4.5&#x02013;4.6&#x000a0;V. To accurately reflect the structural changes during charging and discharging in situ and ex situ XRD were also conducted. In Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S13</xref> (Supporting Information), the peak at 18.4&#x000b0; is attributed to the (003) crystal, and a new peak appears at 19.3&#x000b0; when the LCO cathode is charged to 4.6&#x000a0;V, corresponding to the phase transition from O3 to H1&#x02010;3. The variation of the 003 peak is associated with the value of c, which responds to the volume change during the charging and discharging of the LCO cathode.<sup>[</sup>
+<xref rid="advs8129-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> As shown in Figure&#x000a0;<xref rid="advs8129-fig-0004" ref-type="fig">4c,d</xref>, the amplitude of the (003) peak change is greater for commercial electrolytes (0.96&#x000b0;) than for eutectogel electrolytes (0.84&#x000b0;). This result illustrates that eutectogel electrolyte has a much smaller degree of volume change, which maintains structural stability and avoids severe structural deterioration. Moreover, the peak at 19.3&#x000b0; remains after 10 and 50 cycles of the eutectogel electrolyte, while it disappears after 10 and 50 cycles of the commercial electrolyte (Figure&#x000a0;<xref rid="advs8129-fig-0004" ref-type="fig">4e</xref>), confirming that the LCO cathode is unable to undergo the H1&#x02010;O3 phase transition after cycling in a commercial electrolyte. During deep lithiation/delithiation, the strength of the TM&#x02500;O bond is closely related to the structural changes of the LCO. Figure&#x000a0;<xref rid="advs8129-fig-0004" ref-type="fig">4f</xref> displays the variation of the two peaks at 485&#x000a0;cm<sup>&#x02212;1</sup> (O&#x02500;Co&#x02500;O, Eg) and 595&#x000a0;cm<sup>&#x02212;1</sup> (Co&#x02500;O, A1g) after ten cycles.<sup>[</sup>
+<xref rid="advs8129-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> The peak intensity of the commercial electrolyte is significantly weaker, while the eutectogel electrolyte exhibits excellent structural reversibility after cycling, which should be ascribed to the smaller volume changes of eutectogel electrolyte during cycling, inhibiting the irreversible breaking of O&#x02500;Co&#x02500;O and Co&#x02500;O. Cobalt dissolution is related to the capacity decay of the LCO cathode at high voltages. The dissolved Co contents in the commercial and eutectogel electrolytes were determined after ten cycles between 3.0&#x02013;4.6&#x000a0;V. The Co content in the eutectogel electrolyte is 5.27&#x000a0;ppm, which is lower than the 28.34&#x000a0;ppm in commercial electrolytes, indicating that the LCO structure maintains stability after cycling (Figure <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S14</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs8129-fig-0004"><label>Figure 4</label><caption><p>The Linear cyclic voltammetry curve for the first five cycles of LCO||Li cells between 3.0 and 4.6&#x000a0;V in a) commercial electrolyte and b) eutectogel electrolyte. In situ XRD curve of the first cycle of the LCO||Li between 3.0 and 4.6&#x000a0;V in c) commercial electrolyte and d) eutectogel electrolyte. e) XRD patterns of LCO cathode in commercial electrolytes and eutectogel electrolytes at different cycles. f) Raman spectra of the LCO cathode after ten cycles of different electrolytes.</p></caption><graphic xlink:href="ADVS-11-2310136-g001" position="anchor" id="jats-graphic-9"/></fig><p>The unsatisfactory cycling performances of commercial and eutectic electrolytes can be attributed to not only the continuous growth of lithium dendrites but also the inability to establish a stable electrode/electrolyte interface, thereby causing continuous side reactions. The main effects induced by different electrolytes at the electrodes can be further explained by electrochemical impedance spectroscopy (EIS). As depicted in Figure&#x000a0;<xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S15</xref> (Supporting Information), there is a distinct variation in the charge transfer resistance (<italic toggle="yes">R<sub>ct</sub>
+</italic>) between the different electrolytes. The <italic toggle="yes">R<sub>ct</sub>
+</italic> of the cell cycled in eutectogel electrolyte is 253&#x000a0;&#x003a9; after 500 cycles under high voltage, which is significantly lower than that of eutectic electrolyte (425&#x000a0;&#x003a9;) and commercial electrolyte (2255&#x000a0;&#x003a9;). This result confirms that the eutectogel electrolyte plays a pivotal role in promoting the formation of a more stable interfacial layer and effectively inhibiting excessive electrolyte decomposition, ultimately improving Li<sup>+</sup> kinetics across the interface.</p><p>To gain a deeper insight into the significantly improved cycling performance achieved with the eutectogel electrolyte, the lithium metal anodes subjected to different cycles were characterized by SEM and atomic force microscopy (AFM) (<bold>Figure</bold>
+<xref rid="advs8129-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>). The lithium metal surface cycled in commercial electrolyte exhibits a loose and porous structure even with Li dendrites after 50 cycles (Figure&#x000a0;<xref rid="advs8129-fig-0005" ref-type="fig">5a</xref>). Moreover, a large number of mossy lithium and lithium dendrites can be clearly observed after 100 cycles (Figure&#x000a0;<xref rid="advs8129-fig-0005" ref-type="fig">5b</xref>). The formation of mossy and dendritic Li during plating leads to continuous corrosion of reactive Li and electrolyte depletion. These can cause sudden increased voltages and impedances, resulting in inferior cycling performance.<sup>[</sup>
+<xref rid="advs8129-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> The spikes of Li dendrites can pierce the separator and raise safety concerns. In eutectic electrolytes, the Li metal surface is very rough with distinct dendritic or mossy Li even only after 50 cycles (Figure&#x000a0;<xref rid="advs8129-fig-0005" ref-type="fig">5d,e</xref>). By contrast, the eutectogel electrolyte displays an extraordinarily smooth, and flat surface without any dendritic or mossy Li. This compact and uniform layer of lithium deposition is indicative of the formation of an extremely robust and stable SEI film in the eutectogel electrolyte, which effectively shields the lithium metal anode (Figures&#x000a0;<xref rid="advs8129-fig-0005" ref-type="fig">5g,h</xref>). TheAFM images in the inset of Figures&#x000a0;<xref rid="advs8129-fig-0005" ref-type="fig">5c,f,i</xref> further highlight the smoother surface of lithium metal cycled in eutectogel electrolytes compared to that cycled in commercial electrolytes and eutectic electrolytes. In addition, the loading and unloading curves on cycled Li metal in commercial electrolytes are almost overlapping, and the peak force and slope are shown in Table <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S6</xref> (Supporting Information). The high slope of the curve demonstrates that the SEI layer formed in commercial electrolytes is stiff and brittle. In stark contrast, the lower peak force and slope can be observed for eutectogel electrolytes, indicating the SEI layer is more elastic and less prone to fracture during the plating/stripping process.<sup>[</sup>
+<xref rid="advs8129-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup>
+</p><fig position="float" fig-type="Figure" id="advs8129-fig-0005"><label>Figure 5</label><caption><p>SEM images of Li metal surface after a&#x02013;c) 50 cycles and d&#x02013;e) 100 cycles in (a, d) commercial electrolyte, b, e) eutectic electrolyte, and c, f) eutectogel electrolyte. AFM image (inset) and indentation curves of Li metal after 100 cycles in g) commercial electrolyte, h) eutectic electrolyte, and i) eutectogel electrolyte. XPS characterization of lithium metal in eutectic and eutectogel electrolytes: j) C 1s, k) F 1s, and l) N 1s.</p></caption><graphic xlink:href="ADVS-11-2310136-g002" position="anchor" id="jats-graphic-11"/></fig><p>We further elucidate the different components of SEI in eutectic electrolytes and eutectogel electrolytes by XPS characterization. As shown in Figure&#x000a0;<xref rid="advs8129-fig-0005" ref-type="fig">5j&#x02013;l</xref>, a clear difference can be observed in the C1s spectra, with the presence of C&#x02500;F and C&#x02550;O peaks in a eutectic electrolyte, but not in eutectogel electrolyte. This C&#x02500;F peak mainly originates from the decomposition of LiTFSI, indicating that the eutectogel electrolyte can effectively inhibit the decomposition of lithium salts.<sup>[</sup>
+<xref rid="advs8129-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> In addition, the eutectogel electrolyte has a higher content of LiF (88%) than the eutectic electrolyte (53%), primarily originating from the reduction of FEC and lithium salts. LiF has excellent electronic insulation and mechanical strength, which reduces the reaction between lithium metal and electrolyte and inhibits dendrite growth.<sup>[</sup>
+<xref rid="advs8129-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> In the N 1s spectra, the Li<sub>3</sub>N peak is observed in both the eutectic electrolyte and the eutectogel electrolyte, which can promote the rapid migration of Li<sup>+</sup> in SEI and induce uniform lithium deposition.<sup>[</sup>
+<xref rid="advs8129-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="advs8129-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>]</sup> It is noteworthy that the additional organic peak Li&#x02500;N&#x02500;C is present in the eutectic electrolyte.<sup>[</sup>
+<xref rid="advs8129-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> These results indicate that the formation of SEI with inorganic&#x02010;rich LiF and Li<sub>3</sub>N in the eutectogel electrolyte effectively reduces electrolyte decomposition and inhibits lithium dendrite growth.</p><p>The morphology evolution of the different electrolytes on the LCO cathode is also essential for cycling performance. As depicted in <bold>Figures</bold>
+<xref rid="advs8129-fig-0006" ref-type="fig">
+<bold>6</bold>a,b</xref> and <xref rid="advs8129-supitem-0001" ref-type="supplementary-material">S17</xref> (Supporting Information), the surface of the fresh LCO cathode is smooth and clean. However, noticeable cracks and rough surfaces appear on the LCO cathode after 100 cycles in commercial electrolyte and eutectic electrolyte. This is primarily due to the structural destruction of the LCO cathodes and the accumulation of by&#x02010;products of electrolyte decomposition. The thick accumulation layer can lead to increased interfacial resistance, hindering Li<sup>+</sup> diffusion kinetics and resulting in increased polarization during cell cycling.<sup>[</sup>
+<xref rid="advs8129-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> In contrast, the eutectogel electrolyte maintains a smooth surface of the LCO cathode without cracks (Figure&#x000a0;<xref rid="advs8129-fig-0006" ref-type="fig">6c</xref>). This result indicates eutectogel electrolytes can effectively protect the LCO cathode and significantly inhibit excessive electrolyte decomposition at high voltages. As expected, the CEI film formed in eutectogel electrolyte (7.9&#x000a0;nm) is relatively thinner and more uniform than that of commercial electrolytes (17.1&#x000a0;nm) and eutectic electrolytes (11.2&#x000a0;nm) (Figure&#x000a0;<xref rid="advs8129-fig-0006" ref-type="fig">6d&#x02013;f</xref>), which is consistent with its superior cycling performance as discussed above.</p><fig position="float" fig-type="Figure" id="advs8129-fig-0006"><label>Figure 6</label><caption><p>SEM and TEM images of LCO cathode after 100 cycles in (a, d, g) commercial electrolyte, (b, e, h) eutectic electrolyte, and c, f, i) eutectogel electrolyte. XPS characterization of LCO cathode after cycling in different electrolytes: (j) C 1s, (k) F 1s, and (l) O 1s. (m) Comparison of battery performance with three electrolyte systems.</p></caption><graphic xlink:href="ADVS-11-2310136-g007" position="anchor" id="jats-graphic-13"/></fig><p>The lattice of the LCO cathode was analyzed by TEM after 50 cycles. As shown in Figure&#x000a0;<xref rid="advs8129-fig-0006" ref-type="fig">6g&#x02013;i</xref>, the eutectogel electrolyte exhibits a clearer lattice and electron diffraction than the commercial electrolyte and eutectic electrolyte, indicating that the LCO cathode still maintains good structural stability after cycling, whereas the commercial electrolyte and eutectic electrolyte may be deteriorated due to the side&#x02010;reaction layer covering the surface of the LCO cathode, which is in agreement with the results of the XRD and Raman analyses.</p><p>XPS spectra were further performed to analyze the chemical composition of the surface layer on cycled LCO cathodes (Figure&#x000a0;<xref rid="advs8129-fig-0006" ref-type="fig">6j,k</xref>). In the F 1s spectra, the signals of LiF (685.3&#x000a0;eV) and C&#x02500;F (688.2&#x000a0;eV) can be clearly detected.<sup>[</sup>
+<xref rid="advs8129-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> The LiF is mainly generated from the oxidation decomposition of LiTFSI or LiDFOB, and notably, its presence is less pronounced in the eutectogel electrolyte compared to the eutectic electrolyte. This result validates the suppression of malignant consumption of lithium salts. In O 1s spectra, the M&#x02500;O signal (529.6&#x000a0;eV) can be clearly observed in commercial electrolyte and eutectic electrolytes, but disappears in eutectogel electrolytes, indicating that the CEI films formed in commercial and eutectic electrolytes are unable to passivate the active cathode surface effectively.<sup>[</sup>
+<xref rid="advs8129-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> As a result, a thin and uniform CEI film can be formed in the eutectogel electrolyte, effectively inhibiting excessive electrolyte decomposition and protecting the LCO cathode. Based on the above results, Figure&#x000a0;<xref rid="advs8129-fig-0006" ref-type="fig">6m</xref> compares the properties of the three electrolytes in six aspects. Except for the unsatisfactory ionic conductivity, the eutectogel electrolyte displays a comprehensive range of attractive features superior to the commercial electrolyte and eutectic electrolyte, including non&#x02010;leakage, nonflammability, wide electrochemical window, high electrode compatibility, and excellent high&#x02010;voltage cycling performance.</p></sec><sec id="advs8129-sec-0030"><label>3</label><title>Conclusion</title><p>In summary, a novel eutectogel electrolyte has been designed and prepared to stabilize the electrode&#x02013;electrolyte interface for high&#x02010;voltage LCO||Li cells. The eutectogel electrolyte enables the outstanding cycling performance of LCO||Li cells with capacity retention of 72.5% and 87.7% after 1500 and 100 cycles at high charging voltages of 4.45 and 4.6&#x000a0;V, respectively. The significantly improved performance of the eutectogel electrolyte is attributed to the stabilization of both the lithium metal anode and the LCO cathode under high voltage. On the one hand, the lithium metal anode forms a stable SEI with inorganic&#x02010;rich LiF and Li<sub>3</sub>N, which inhibits the growth of lithium dendrites. On the other hand, excessive electrolyte decomposition is suppressed and a CEI with strong passivation capability is formed, maintaining the structural stability of the LCO cathode at high voltage. This work provides a pathway to design new electrolytes for high voltage and high energy lithium metal batteries with high safety and long cycle life. Benefiting from the unique interfacial optimization effect of eutectogel electrolytes, we predict that this will boost the applications of all high&#x02010;voltage cathode material (including high&#x02010;nickel and lithium&#x02010;rich cathodes).</p></sec><sec sec-type="COI-statement" id="advs8129-sec-0050"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="advs8129-sec-0060"><title>Author Contributions</title><p>J.Z., J.Z., and L.C. conceived the project. W.W. and D.L. designed the project. W.W. conducted most of the synthetic experiments. D.L. led the electrochemical experiments and analysis. Y.B. and J.Z. conducted the density functional theory computational study. W.W. and D.L. wrote the original draft of the manuscript. C.G. and H.W. reviewed and edited the manuscript. All authors discussed and commented on the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs8129-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-11-2310136-s001.docx"/></supplementary-material></sec></body><back><ack id="advs8129-sec-0040"><title>Acknowledgements</title><p>W.W. and D.L. contributed equally to this work. This work was supported by the Shenzhen Science and Technology Program (JCYJ20180507183907224, JCYJ20210324121411031, JSGG202108021253804014, RCBS20210706092218040, GXWD20221030205923001, and KQTD20170809110344233).</p></ack><sec sec-type="data-availability" id="advs8129-sec-0080"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs8129-bibl-0001"><ref id="advs8129-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs8129-cit-0001">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T. P.</given-names>
+<surname>Pollard</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Nature</source>
+<year>2023</year>, <volume>614</volume>, <fpage>694</fpage>.<pub-id pub-id-type="pmid">36755091</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs8129-cit-0002">
+<string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Chem. Soc. Rev.</source>
+<year>2018</year>, <volume>47</volume>, <fpage>6505</fpage>.<pub-id pub-id-type="pmid">29956705</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs8129-cit-0003">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Lyu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2000982</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs8129-cit-0004">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>P. F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Pu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Nan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv Mater</source>
+<year>2022</year>, <volume>34</volume>, <elocation-id>e2108353</elocation-id>.<pub-id pub-id-type="pmid">34877734</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs8129-cit-0005">
+<string-name>
+<given-names>S.</given-names>
+<surname>Jiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>739</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs8129-cit-0006">
+<string-name>
+<given-names>T.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ci</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2023</year>, <volume>16</volume>, <fpage>1431</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs8129-cit-0007">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2300466</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs8129-cit-0008">
+<string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Cheng</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>61</volume>, <elocation-id>e202207000</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs8129-cit-0009">
+<string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Bian</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Gan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>2101864</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs8129-cit-0010">
+<string-name>
+<given-names>C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z. W.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pan</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>36</volume>, <elocation-id>2307404</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs8129-cit-0011">
+<string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2021</year>, <volume>16</volume>, <fpage>599</fpage>.<pub-id pub-id-type="pmid">33619408</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs8129-cit-0012">
+<string-name>
+<given-names>P.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yun</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Nam</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>T. J.</given-names>
+<surname>Embleton</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Joo</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2202237</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs8129-cit-0013">
+<string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Bae</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>B. G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. H. i.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>ACS Appl Mater Interfaces</source>
+<year>2023</year>, <volume>15</volume>, <fpage>7939</fpage>.<pub-id pub-id-type="pmid">36625754</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs8129-cit-0014">
+<string-name>
+<given-names>M.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Nevar</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Dudko</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>N. V.</given-names>
+<surname>Tarasenko</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Chem. Eng. J.</source>
+<year>2023</year>, <volume>468</volume>, <elocation-id>143585</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs8129-cit-0015">
+<string-name>
+<given-names>T.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>V. K.</given-names>
+<surname>Harika</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Nimkar</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Elias</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sclar</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2022</year>, <volume>9</volume>, <elocation-id>2202627</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs8129-cit-0016">
+<string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Mater. Today</source>
+<year>2021</year>, <volume>46</volume>, <fpage>155</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs8129-cit-0017">
+<string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lyu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>J. Energy Chem.</source>
+<year>2023</year>, <volume>77</volume>, <fpage>553</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs8129-cit-0018">
+<string-name>
+<given-names>H.</given-names>
+<surname>Cavers</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Molaiyan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Abdollahifar</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Lassi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kwade</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2200147</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs8129-cit-0019">
+<string-name>
+<given-names>R.</given-names>
+<surname>Konar</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Maiti</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Shpigel</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2023</year>, <volume>63</volume>, <elocation-id>103001</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs8129-cit-0020">
+<string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ci</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2022</year>, <volume>48</volume>, <fpage>172</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs8129-cit-0021">
+<string-name>
+<given-names>A.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2022</year>, <volume>7</volume>, <fpage>1364</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs8129-cit-0022">
+<string-name>
+<given-names>W.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Waluyo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Kuznetsov</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;K.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hunt</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Harutyunyan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shao&#x02010;Horn</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2021</year>, <volume>14</volume>, <fpage>6030</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs8129-cit-0023">
+<string-name>
+<given-names>D.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Che</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2021</year>, <volume>90</volume>, <elocation-id>106535</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs8129-cit-0024">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Feng</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2021</year>, <volume>13</volume>, <elocation-id>10141</elocation-id>.<pub-id pub-id-type="pmid">33595288</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs8129-cit-0025">
+<string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Chem. Soc. Rev.</source>
+<year>2021</year>, <volume>50</volume>, <elocation-id>10486</elocation-id>.<pub-id pub-id-type="pmid">34341815</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs8129-cit-0026">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2022</year>, <volume>14</volume>, <elocation-id>49700</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs8129-cit-0027">
+<string-name>
+<given-names>X.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>S. J. A. C.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>134</volume>, <elocation-id>e202205075</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs8129-cit-0028">
+<string-name>
+<given-names>A.&#x02010;S.</given-names>
+<surname>Kelchtermans</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Joos</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>De Sloovere</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Paulus</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mercken</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Mylavarapu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Elen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Marchal</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tesfaye</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name>
+<given-names>M. K.</given-names>
+<surname>Van Bael</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hardy</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2023</year>, <volume>8</volume>, <elocation-id>36753</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs8129-cit-0029">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Xian</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <fpage>3405</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs8129-cit-0030">
+<string-name>
+<given-names>C.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yin</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2020</year>, <volume>8</volume>, <fpage>2066</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs8129-cit-0031">
+<string-name>
+<given-names>X.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>134</volume>, <elocation-id>e202205075</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs8129-cit-0032">
+<string-name>
+<given-names>T.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Jin</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2018</year>, <volume>54</volume>, <fpage>17</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs8129-cit-0033">
+<string-name>
+<given-names>C.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2008</year>, <volume>155</volume>, <fpage>A569</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs8129-cit-0034">
+<string-name>
+<given-names>V. A.</given-names>
+<surname>Adiraju</surname>
+</string-name>, <string-name>
+<given-names>O. B.</given-names>
+<surname>Chae</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Lucht</surname>
+</string-name>, <source>ACS Energy Lett.</source>
+<year>2023</year>, <volume>8</volume>, <fpage>2440</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs8129-cit-0035">
+<string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bo</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ci</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2022</year>, <volume>16</volume>, <elocation-id>14558</elocation-id>.<pub-id pub-id-type="pmid">36040142</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs8129-cit-0036">
+<string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2019</year>, <volume>6</volume>, <elocation-id>1900355</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs8129-cit-0037">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>900</fpage>.<pub-id pub-id-type="pmid">30796214</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs8129-cit-0038">
+<string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>6600</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs8129-cit-0039">
+<string-name>
+<given-names>D.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>186</fpage>.<pub-id pub-id-type="pmid">33420036</pub-id>
+</mixed-citation></ref><ref id="advs8129-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs8129-cit-0040">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ci</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>2202493</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs8129-cit-0041">
+<string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bo</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ci</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Nano&#x02010;Micro Lett.</source>
+<year>2022</year>, <volume>14</volume>, <fpage>44</fpage>.</mixed-citation></ref><ref id="advs8129-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs8129-cit-0042">
+<string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <elocation-id>2004664</elocation-id>.</mixed-citation></ref><ref id="advs8129-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs8129-cit-0043">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hu</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2023</year>, <volume>13</volume>, <elocation-id>2202529</elocation-id>.</mixed-citation></ref></ref-list></back></article>

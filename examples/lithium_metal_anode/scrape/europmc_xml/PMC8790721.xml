@@ -1,0 +1,623 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="publisher-id">ae</journal-id><journal-id journal-id-type="coden">aaemcq</journal-id><journal-title-group><journal-title>ACS Applied Energy Materials</journal-title></journal-title-group><issn pub-type="epub">2574-0962</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8790721</article-id><article-id pub-id-type="doi">10.1021/acsaem.1c03157</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Mitigating
+Interfacial Mismatch between Lithium Metal
+and Garnet-Type Solid Electrolyte by Depositing Metal Nitride Lithiophilic
+Interlayer</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7341-0022</contrib-id><name><surname>Baniya</surname><given-names>Abiral</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Gurung</surname><given-names>Ashim</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Pokharel</surname><given-names>Jyotshna</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3511-3112</contrib-id><name><surname>Chen</surname><given-names>Ke</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Pathak</surname><given-names>Rajesh</given-names></name><xref rid="aff4" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Lamsal</surname><given-names>Buddhi Sagar</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4016-2744</contrib-id><name><surname>Ghimire</surname><given-names>Nabin</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Bobba</surname><given-names>Raja Sekhar</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath9"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9809-5102</contrib-id><name><surname>Rahman</surname><given-names>Sheikh Ifatur</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Mabrouk</surname><given-names>Sally</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath11"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1520-0331</contrib-id><name><surname>Smirnova</surname><given-names>Alevtina L.</given-names></name><xref rid="aff3" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath13"><name><surname>Xu</surname><given-names>Kang</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4555-7887</contrib-id><name><surname>Qiao</surname><given-names>Quinn</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Mechanical
+and Aerospace Engineering, <institution>Syracuse University</institution>, Syracuse, New York 13244, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Electrical Engineering and Computer Science, <institution>South Dakota State University</institution>, Brookings, South Dakota 57007, <country>United States</country></aff><aff id="aff4"><label>&#x000a7;</label>Applied
+Materials Division, <institution>Argonne National Laboratory</institution>, Lemont, Illinois 60439, <country>United States</country></aff><aff id="aff3"><label>&#x02225;</label>Department
+of Chemistry and Applied Biological Sciences, <institution>South Dakota School of Mines and Technology</institution>, Rapid City, South Dakota 57701, <country>United States</country></aff><aff id="aff5"><label>&#x022a5;</label> Battery
+Science Branch, Sensor and Electron Devices Directorate, <institution>U.S. Army Research Laboratory</institution>, Adelphi, Maryland 20783, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>quqiao@syr.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>01</month><year>2022</year></pub-date><pub-date pub-type="ppub"><day>24</day><month>01</month><year>2022</year></pub-date><volume>5</volume><issue>1</issue><fpage>648</fpage><lpage>657</lpage><history><date date-type="received"><day>08</day><month>10</month><year>2021</year></date><date date-type="accepted"><day>22</day><month>12</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2022 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_0006" id="ab-d33e286"/></p><p>Solid-state lithium
+batteries are generally considered as the next-generation
+battery technology that benefits from inherent nonflammable solid
+electrolytes and safe harnessing of high-capacity lithium metal. Among
+various solid-electrolyte candidates, cubic garnet-type Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> ceramics hold superiority
+due to their high ionic conductivity (10<sup>&#x02013;3</sup> to 10<sup>&#x02013;4</sup> S cm<sup>&#x02212;1</sup>) and good chemical stability
+against lithium metal. However, practical deployment of solid-state
+batteries based on such garnet-type materials has been constrained
+by poor interfacing between lithium and garnet that displays high
+impedance and uneven current distribution. Herein, we propose a facile
+and effective strategy to significantly reduce this interfacial mismatch
+by modifying the surface of such garnet-type solid electrolyte with
+a thin layer of silicon nitride (Si<sub>3</sub>N<sub>4</sub>). This
+interfacial layer ensures an intimate contact with lithium due to
+its lithiophilic nature and formation of an intermediate lithium&#x02013;metal
+alloy. The interfacial resistance experiences an exponential drop
+from 1197 to 84.5 &#x003a9; cm<sup>2</sup>. Lithium symmetrical cells
+with Si<sub>3</sub>N<sub>4</sub>-modified garnet exhibited low overpotential
+and long-term stable plating/stripping cycles at room temperature
+compared to bare garnet. Furthermore, a hybrid solid-state battery
+with Si<sub>3</sub>N<sub>4</sub>-modified garnet sandwiched between
+lithium metal anode and LiFePO<sub>4</sub> cathode was demonstrated
+to operate with high cycling efficiency, excellent rate capability,
+and good electrochemical stability. This work represents a significant
+advancement toward use of garnet solid electrolytes in lithium metal
+batteries for the next-generation energy storage devices.</p></abstract><kwd-group><kwd>solid-state electrolytes</kwd><kwd>lithium/garnet interface</kwd><kwd>interfacial resistance</kwd><kwd>solid-state batteries</kwd><kwd>silicon nitride</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science Foundation</institution><institution-id institution-id-type="doi">10.13039/100000001</institution-id></institution-wrap></funding-source><award-id>2052611</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ae1c03157</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ae1c03157</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Currently,
+lithium-ion batteries (LIBs) are used worldwide as the
+workhorse for powering applications.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The ceiling
+of energy density allowed by commercial intercalation chemistries
+approaches 300 Wh/kg, while any attempt to push the energy density
+higher must face the risks imposed by highly flammable organic electrolyte
+solvents. Replacing graphite with lithium metal (Li<sup>0</sup>) as
+anode presents an ultimate solution, since lithium combines high specific
+capacity (3860 mAh g<sup>&#x02013;1</sup>) with the lowest reduction
+potential (&#x02212;3.04 V vs Li/Li<sup>+</sup>) among all elements
+in the Periodic Table.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> However, such low
+potential also makes lithium extremely reactive when in contact with
+almost any liquid electrolyte component. Liquid electrolytes also
+impose limitations on performance of high-voltage cathodes, due to
+their lower anodic stability.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Therefore,
+development of high-energy and safe battery technologies relies on
+the replacement of liquid electrolytes with a fast ion conductor that
+does not combust. Solid-state batteries (SSBs) employing solid-state
+electrolytes (SSEs) hold such promises for the next-generation energy
+storage devices as long as they could be stable in the presence of
+both lithium and high-voltage cathode while conducting ions at fast
+rate.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup></p><p>Several solid-electrolyte systems
+have been thoroughly explored,
+which range from sulfides to oxides and oxynitrides such as perovskite,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> antiperovskite,<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> LISICON,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> thio-LISICON,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> NASICON,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> garnet,<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> sulfide
+glass ceramic,<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> etc. Certain sulfide SSEs (e.g., LGPS) are known
+for their ionic conductivity above 1 mS cm<sup>&#x02013;1</sup> at
+room temperature, but their sulfide nature renders them to be thermodynamically
+unstable against Li<sup>0</sup> or high-voltage cathodes,<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref19">19</xref></sup> while electrolytes, such as LIPON<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> and LATP,<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> also tend to react with Li<sup>0</sup> anode (e.g., Ti<sup>4+</sup>/Ti<sup>3+</sup> redox reaction). Only garnet SSEs, represented by
+Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO), provides
+high ionic conductivity close to 1 mS cm<sup>&#x02013;1</sup> at room
+temperature, a wide electrochemical window, and good electrochemical
+stability against Li<sup>0</sup> anode.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup></p><p>However,
+a major hurdle for garnets still exists: its poor contact
+with Li<sup>0</sup>, which arises from the microscopic gaps that are
+prevalent at solid&#x02013;solid interfaces, and always leads to high
+interfacial impedance and poor cycling performance. Diversified strategies<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> such as altering the chemical composition of
+the electrolyte,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> applying external heat
+and pressure,<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> electrolyte surface modification,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> and interface modification<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> have been adopted, among which the introduction of a buffer
+layer between garnet SSEs and Li<sup>0</sup> has been proven efficient
+and promising. Buffer layers in the form of metals (such as Au,<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Al,<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Si,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Ge,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> Mg<sup><xref ref-type="bibr" rid="ref35">35</xref></sup>), metal oxides (such as Al<sub>2</sub>O<sub>3</sub>,<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> ZnO<sup><xref ref-type="bibr" rid="ref37">37</xref></sup>), and carbon material (such as graphite<sup><xref ref-type="bibr" rid="ref38">38</xref></sup>) have significantly reduced impedance and improved cell performances.
+Computational analysis has revealed that material stability against
+Li<sup>0</sup> depends on their cation and anion chemistry.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> Upon contact with Li<sup>0</sup> these oxides,
+sulfides, and fluorides usually become unstable, which leads to the
+formation of an interlayer that consumes active materials and serves
+as a physical barrier to ion transport. Hence, metal nitrides are
+preferred as they are more stable against Li<sup>0</sup> than oxides,
+sulfides, and fluorides.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup></p><p>Here,
+we report a novel nitride interface modifier by coating the
+garnet-type Li<sub>6.25</sub>Al<sub>0.25</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (Al-LLZO) solid electrolyte with a thin layer
+of Si<sub>3</sub>N<sub>4</sub> deposited by radio frequency (RF) sputtering
+technique. This interfacial buffer layer enabled establishment of
+a homogeneous and intimate physical contact between the SSE and Li<sup>0</sup>. Thus, the developed nitride interface, denoted as Si<sub>3</sub>N<sub>4</sub>@Al-LLZO, showed a stable interface during cycling
+of symmetrical cells for a prolonged period of more than 800 h. With
+optimization of the Si<sub>3</sub>N<sub>4</sub>@Al-LLZO interfacial
+layer, Li/Si<sub>3</sub>N<sub>4</sub>@Al-LLZO/LFP full cells showed
+excellent overall cycling and rate performance.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Garnet
+Al-LLZO Solid-Electrolyte Pellets Preparation</title><p>A 0.4 g amount
+of cubic phase aluminum doped lithium lanthanum
+zirconate garnet nanopowder, Li<sub>6.25</sub>Al<sub>0.25</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (Ampcera Inc., 99.9%), was pressed
+into pellet by using 1/2 in. dry pellet pressing die (MTI Corp.) and
+applying 80 MPa pressure using a hydraulic laboratory press (Carver
+Inc.). Thus, obtained pellets were carefully placed on a magnesium
+oxide (MgO) crucible, covered with same mother powder and sintered
+in a furnace (Mellen, Microtherm) at 1280 &#x000b0;C for 1 h. After the
+pellets were left to cool to room temperature, they were dry polished
+from 1000, 1500, and 2000 to 3000 grit sized sandpapers using a rotary
+tool set (Fire Mountain Gems and Beads, USA). The polished pellets
+were stored in an argon glovebox for future use.</p></sec><sec id="sec2.2"><label>2.2</label><title>Si<sub>3</sub>N<sub>4</sub> Interfacial Layer
+Deposition</title><p>Thin films of Si<sub>3</sub>N<sub>4</sub> were
+deposited on polished Al-LLZO pellets using RF sputtering. A 2 in.
+diameter &#x000d7; 0.125 in. thick, 99.9% metals basis, silicon(IV) nitride
+(Si<sub>3</sub>N<sub>4</sub>) sample with MgO binder (Alfa Aesar)
+was used as target. The sputtering process was carried out at a deposition
+rate of 0.1 &#x000c5; s<sup>&#x02013;1</sup> with 50 sccm constant flow
+of argon (Ar) gas. Various thicknesses (20, 30, and 40 nm) of Si<sub>3</sub>N<sub>4</sub> thin films were investigated, and the thickness
+was optimized to 30 nm.</p></sec><sec id="sec2.3"><label>2.3</label><title>Solid-State Lithium Symmetrical
+Cells and
+Hybrid Solid-State Full Cells Assembly</title><p>First, for analyzing
+the ionic conductivity and cycling stability of as-prepared solid
+electrolytes, Li/Si<sub>3</sub>N<sub>4</sub>/Al-LLZO/Si<sub>3</sub>N<sub>4</sub>/Li symmetric cells were prepared by
+attaching the melted Li at 200 &#x000b0;C on both sides of the electrolyte
+pellets. After natural cooling, the Li/Si<sub>3</sub>N<sub>4</sub>/Al-LLZO/Si<sub>3</sub>N<sub>4</sub>/Li sample was assembled into
+coin cells in an argon-filled glovebox. Control symmetric cells without
+interface modification were also assembled for comparison with the
+modified one. Second, for preparation of Li/Si<sub>3</sub>N<sub>4</sub>@Al-LLZO/LFP hybrid solid-state full cells, the as-prepared Li/Si<sub>3</sub>N<sub>4</sub>@Al-LLZO sample was assembled with LiFePO<sub>4</sub> (LFP) as cathode in a coin cell. For this, the cathode slurry
+was prepared by mixing LFP powders with Super-P carbon black and poly(vinylidene
+fluoride) (PVDF) at the weight ratio of 80:10:10, respectively, in <italic>N</italic>-methyl-2-pyrrolidone (NMP) solvent, using mortar and pestle.
+The as-prepared slurry was coated onto an aluminum foil and then dried
+in a vacuum oven at 120 &#x000b0;C overnight for thorough evaporation
+of the solvent. The dried cathode strips were then punched into circular
+disks with the active materials mass loading of &#x0223c;2 mg cm<sup>&#x02013;2</sup>. Lastly, for assembly of hybrid solid-state full
+cell a tiny amount of 10 &#x003bc;L of liquid electrolyte (1.0 mol L<sup>&#x02013;1</sup> LiPF<sub>6</sub> dissolved in ethylene carbonate
+(EC) and diethyl carbonate (DEC) in volume ratio of 1:1) was introduced
+between LFP cathode and solid-electrolyte pellet to enhance the cathode/electrolyte
+interface contact. The other side of the Al-LLZO pellet with no trace
+of liquid electrolyte was modified by Si<sub>3</sub>N<sub>4</sub> deposition,
+and melted lithium was soldered on the top of it. The as-assembled
+full cell was sealed in a 2032 coin cell with nickel foam on the top
+for absorbing the excess pressure during crimping and avoiding damage
+to the solid-electrolyte pellet. The assembly of symmetric cells and
+full cells was done inside an argon-filled glovebox with moisture
+and O<sub>2</sub> levels &#x0003c; 1 ppm.</p></sec><sec id="sec2.4"><label>2.4</label><title>Material
+Characterizations</title><p>The crystal
+structure of the samples was examined by X-ray diffraction (XRD) using
+a Rigaku SmartLab diffractrometer with Cu K&#x003b1; radiation (&#x003bb;
+= 1.54178 &#x000c5;). Surface topography of bare garnet and Si<sub>3</sub>N<sub>4</sub>-modified garnet pellets were measured by an Agilent
+SPM 5500 atomic force microscope that is equipped with a MACIII controller
+and a RTESPA-525 tip with resonance frequency of 75 kHz. To observe
+the morphology of the samples, scanning electron microscopy (SEM)
+characterization was carried out using a Hitachi S-4300N scanning
+electron microscope, which was also equipped with energy-dispersive
+spectroscopy (EDS). Electrochemical impedance spectroscopy (EIS) measurement
+was done using the Ametek VERSASTAT3-200 potentiostat electrochemical
+workstation. The measurement was performed over a working frequency
+range of 1 MHz to 100 mHz with an amplitude of 10 mV. To measure the
+ionic conductivity of an Al-LLZO garnet-type pellet, 20 nm of gold
+(Au) layers were sputtered on both sides of the pellet as blocking
+electrode. Galvanostatic charge/discharge measurements of assembled
+coin cells were performed using aa LAND CT2001A system. The full cells
+were cycled at various current densities (e.g., 1C = 170 mA g<sup>&#x02013;1</sup>) in a voltage range of 4.0 to 2.5 V. The coin cells
+were tested at room temperature.</p></sec></sec><sec id="sec3"><label>3</label><title>Results
+and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Structure, Composition,
+and Kinetics of Prepared
+SSE</title><p>The cubic phase Li<sub>6.25</sub>Al<sub>0.25</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> garnet nanopowder was pressed,
+sintered, and polished into solid-electrolyte pellets (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Supporting Information</ext-link> Figure S1). As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S2c</ext-link>, first, XRD was performed on a polished
+pellet, pressed using as-received Al-LLZO powder and sintered at 1000
+&#x000b0;C. The impurity peaks, marked with an asterisk (*), were identified
+as La<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> (PDF No. 50-0837). Further,
+when the garnet nanopowder was pressed, sintered (&#x0003e;1200 &#x000b0;C),
+and polished, most of the impurity peaks of La<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> disappeared and the one at about 29&#x000b0; was much
+suppressed, marked by a red diamond, which indicated formation of
+a rather pure cubic phase Al-LLZO garnet pellet. Also, XRD patterns
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a) of as-prepared
+solid-electrolyte pellets show the resemblance of diffraction peaks
+when indexed to the standard pattern of cubic garnet phase Li<sub>5</sub>La<sub>3</sub>Nb<sub>2</sub>O<sub>12</sub> (PDF No. 80-0457).
+Further, the surface and cross-section SEM images (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b) show well-densified pellets
+with the majority of grains tightly connected when sintered at 1280
+&#x000b0;C for an hour. These sintered pellets have relative densities
+of &#x0223c;92% (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S2</ext-link>) when measured
+using Archimedes&#x02019; principle and ethanol as immersion medium.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Characterization of as-prepared Al-LLZO garnet electrolyte
+pellet.
+(a) XRD comparison of Al-LLZO garnet pellet that matches with cubic
+structure Li<sub>5</sub>La<sub>3</sub>Nb<sub>2</sub>O<sub>12</sub>. (b) Surface and cross-section SEM images of Al-LLZO pellets. (c)
+EIS spectra of Al-LLZO electrolyte at elevated temperatures ranging
+from 22 to 60 &#x000b0;C. Inset showing spectra from 45 to 60 &#x000b0;C.
+(d) Arrhenius plot of Al-LLZO ionic conductivity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_0001" id="gr1" position="float"/></fig><p>The ionic conductivities of Al-LLZO pellets were evaluated using
+EIS with Au layers as blocking electrodes. The total Li-ion conductivity
+of Al-LLZO pellets using the low-frequency intercept value was calculated
+to be 2.81 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>.
+The Li-ion conductivity of Al-LLZO was also measured at temperatures
+ranging from 22 to 65 &#x000b0;C (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c), where the low-frequency intercept value decreases
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S3c</ext-link>) by following typical Arrhenius
+behavior (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d).
+Activation energy (<italic>E</italic><sub>a</sub>) for Li-ion conduction
+was calculated using <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>:<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_m001" position="anchor"/><label>1</label></disp-formula>where <italic>A</italic> is a pre-exponential
+factor, <italic>E</italic><sub>a</sub> is the activation energy, <italic>k</italic><sub>b</sub> is the Boltzmann constant, and <italic>T</italic> is the absolute temperature. Thus, observed activation energy and
+Li-ion conductivity of 0.34 eV and 2.81 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 22 &#x000b0;C, respectively are in line
+with other reports for garnet SSE.<sup><xref ref-type="bibr" rid="ref41">41</xref>&#x02212;<xref ref-type="bibr" rid="ref43">43</xref></sup></p></sec><sec id="sec3.2"><label>3.2</label><title>Metal
+Nitride Interface Layer Properties</title><p>The improved interfacial
+contact between Li<sup>0</sup> and Al-LLZO
+garnet electrolyte is crucial for enhanced ion transport and even
+current distribution at the interface. However, the contact between
+Li<sup>0</sup> and bare garnet consists of voids and gaps leading
+to uneven current distribution at the interface that accelerates dendrite
+or dead Li<sup>0</sup> growth that could short circuit through the
+solid electrolyte. To address this issue, a thin film of Si<sub>3</sub>N<sub>4</sub> was sputter deposited on top of an Al-LLZO garnet pellet. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a shows the energy-dispersive
+X-ray spectroscopy (EDS) spectrum and mapping of a Si<sub>3</sub>N<sub>4</sub>-deposited Al-LLZO garnet pellet, which reveals the presence
+of La, Zr, and Al in the garnet along with N and Si attributed to
+the deposited Si<sub>3</sub>N<sub>4</sub>. Further, atomic force microscopy
+(AFM) performed on bare (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b) and Si<sub>3</sub>N<sub>4</sub>-modified (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c) garnet samples
+compares their surface roughness using the average surface root-mean-square
+(RMS) values, which reveals the presence of Si<sub>3</sub>N<sub>4</sub> significantly reduces the RMS value from 640.2 nm of bare garnet
+to 394.4 nm. The higher RMS value represents the uneven and rough
+surface of dry polished bare garnet that leads to poor contacts<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> and induces uneven current distribution<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> that eventually leads to preferential deposition of Li<sup>0</sup><sup><xref ref-type="bibr" rid="ref47">47</xref></sup> on certain spots and formation of dendrites.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> The lower RMS value of Si<sub>3</sub>N<sub>4</sub>-modified dry polished garnet should result in much more uniform
+and stable Li plating/stripping that is conducive for longer cycling
+life.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>EDS spectrum and AFM mapping of bare and
+Si3N<sub>4</sub>-modified
+Al-LLZO garnet pellet SSE surface. (a) EDS spectrum shows presence
+of Si and N along with elements from SSE. AFM topography mapping of
+dry polished (b) bare garnet and (c) Si<sub>3</sub>N<sub>4</sub>-modified
+garnet.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_0002" id="gr2" position="float"/></fig><p>After Si<sub>3</sub>N<sub>4</sub> thin film deposition, as shown
+in SEM images of <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e,f, the Li<sup>0</sup> anode has been tightly soldered with an Al-LLZO
+pellet as no gaps and voids are visible in comparison to bare garnet
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c,d). This
+depicts that the Si<sub>3</sub>N<sub>4</sub> thin film at the interface
+enabled the promotion of interfacial contact of Al-LLZO grains with
+lithium metal. To observe the lithiophilicity of the Si<sub>3</sub>N<sub>4</sub> interfacial layer, a molten Li<sup>0</sup> droplet
+was applied to the bare and Si<sub>3</sub>N<sub>4</sub>-coated garnet
+pellets, respectively. As observed from <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a, the molten Li<sup>0</sup> on the top of
+the bare garnet pellet instantly beads up to form a ball, revealing
+its lithiophobicity. In contrast, with the Si<sub>3</sub>N<sub>4</sub>-coated garnet, the molten lithium readily wets the surface and spreads
+out to fully cover it.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Wetting behavior and interfacial contact characterization
+of Li|
+garnet SSE and Li|Si<sub>3</sub>N<sub>4</sub>-coated garnet SSE. (a)
+Digital images of bare Al-LLZO garnet pellet with molten Li on top
+with contact angle (&#x003b8;c &#x0003e; 90&#x000b0;), and Si<sub>3</sub>N<sub>4</sub>-deposited Al-LLZO pellet with molten Li on top with contact
+angle (&#x003b8;<italic>c</italic> &#x0003c; 90&#x000b0;). (b) XRD comparison
+of thus prepared bare garnet and Si<sub>3</sub>N<sub>4</sub>-coated
+garnet. Cross-section SEM images of Li/Al-LLZO interface (c, d) without
+and (e, f) with a Si<sub>3</sub>N<sub>4</sub> interlayer.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_0003" id="gr3" position="float"/></fig><p>To further demonstrate this conversion of lithiophobicity
+to lithiophilicity,
+Li<sup>0</sup> foil was gradually heated on the top of the Si<sub>3</sub>N<sub>4</sub>-coated garnet surface. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S4</ext-link>, when Li<sup>0</sup> starts to melt
+at &#x0223c;190 &#x000b0;C, the Si<sub>3</sub>N<sub>4</sub>-coated area
+in proximity to lithium metal turns black in color,, which suggests
+occurrence of lithiation reaction of as-deposited Si<sub>3</sub>N<sub>4</sub>. This reaction not only occurred at the areas directly under
+lithium metal but also around the entire Si<sub>3</sub>N<sub>4</sub>-coated garnet.</p><p>XRD was performed after Si<sub>3</sub>N<sub>4</sub> deposition
+on an SSE pellet and infusing molten lithium on top of it, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b shows the appearance
+of some new peaks indicated as black-filled diamonds along with the
+common diffraction peaks related to Al-LLZO. These pronounced new
+peaks indicate the formation of tetragonal phase Li<sub>8</sub>SiN<sub>4</sub>, lithium silicon nitride (JCPDS Card No. 40-1449)<sup><xref ref-type="bibr" rid="ref50">50</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup> when lithium reacts with the silicon nitride layer at the interface
+and can also be verified from previous literature.<sup><xref ref-type="bibr" rid="ref52">52</xref>&#x02212;<xref ref-type="bibr" rid="ref59">59</xref></sup> The formation of ternary alloy phase Li<sub>8</sub>SiN<sub>4</sub> is further explained in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b by identifying peaks using Miller indices. These
+peaks match the XRD data that are reported by Yamashita et al. in
+ref (<xref ref-type="bibr" rid="ref60">60</xref>), by Yamane
+et al. in ref (<xref ref-type="bibr" rid="ref52">52</xref>),
+and from JCPDS Card No. 40-1449. These alloys at the interface provide
+open tunnels for Li<sup>+</sup> conduction as all phases of these
+alloys are shown to conduct Li<sup>+</sup> where a phase such as Li<sub>8</sub>SiN<sub>4</sub> can show conductivity reaching as high as
+5 &#x000d7; 10<sup>&#x02013;2</sup> S m<sup>&#x02013;1</sup> at 400 K with
+lowest activation energy (46 kJ/mol).<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> Studies by Yamane et al.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> and Ulvestad
+et al.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> have shown the thermal formation
+of different ternary lithium silicon nitrides from Si<sub>3</sub>N<sub>4</sub> when in contact with Li<sup>0</sup>. Heating was provided
+during infusion of molten Li<sup>0</sup> in Si<sub>3</sub>N<sub>4</sub> layer which further assists in formation of ternary phase alloy.
+These alloys are very ionically conductive, which is self-evident
+by the decrease in interfacial and charge transfer resistance by introduction
+of the Si<sub>3</sub>N<sub>4</sub> interlayer. On the basis of this
+hypothesis, chemical <xref rid="ueq1" ref-type="disp-formula">eq <xref rid="ueq1" ref-type="disp-formula">2</xref></xref> can best describe the initial reduction reaction:<sup><xref ref-type="bibr" rid="ref53">53</xref></sup><disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_m002" position="anchor"/><label>2</label></disp-formula>Thus, the conversion
+reaction of Si<sub>3</sub>N<sub>4</sub> film deposited at the interface
+with Li<sup>0</sup><sup><xref ref-type="bibr" rid="ref38">38</xref></sup> results in formation
+of ternary phase
+alloy, e.g., Li<sub>8</sub>SiN<sub>4</sub>,<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> which enhances the interfacial contact.</p><p>Furthermore, coating
+amorphous silicon (Si) atoms have been known
+to switch the surface of garnet LLZO from &#x0201c;superlithiophobic&#x0201d;
+to &#x0201c;superlithiophilic&#x0201d;.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Similarly, lithium nitride (Li<sub>3</sub>N) in cases of both garnet
+solid<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> and carbonate based liquid electrolyte<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> have been shown to drastically decrease the
+interfacial impedance and passivate the surface of Li anode. On the
+basis of these previous findings, silicon nitride (Si<sub>3</sub>N<sub>4</sub>) is propitious to show both strong wetting interaction with
+molten Li<sup>0</sup> due to the presence of nitride that undergoes
+alloying reaction.</p></sec><sec id="sec3.3"><label>3.3</label><title>Electrochemical Properties
+of Interface Stabilized
+SSE</title><p>Symmetric cells Li/Si<sub>3</sub>N<sub>4</sub>/Al-LLZO/Si<sub>3</sub>N<sub>4</sub>/Li and Li/Al-LLZO/Li were assembled and characterized,
+whose Nyquist plots (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a) show that the introduction of Si<sub>3</sub>N<sub>4</sub> reduces total impedance (combined impedance of Al-LLZO electrolyte
+pellet and Li/Al-LLZO interface) from 2750 &#x003a9; cm<sup>2</sup> for
+the bare garnet to 525 &#x003a9; cm<sup>2</sup> for the modified one
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a). At 22
+&#x000b0;C, the total impedance of the Au/Al-LLZO/Au sample was observed
+to be 356 &#x003a9; cm<sup>2</sup> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c). Judging from the values from <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a for combined impedances,
+the interfacial ASR has been reduced from 1197 to 84.5 &#x003a9; cm<sup>2</sup>. Similarly, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b, the CCD of the Li/Si<sub>3</sub>N<sub>4</sub>/Al-LLZO/Si<sub>3</sub>N<sub>4</sub>/Li symmetric cell was
+tested and confirmed to be 1 mA cm<sup>&#x02013;2</sup>. This significant
+reduction of interfacial ASR can be attributed to (1) the Si<sub>3</sub>N<sub>4</sub> interlayer promoting conformal contact of Li<sup>0</sup> anode on SSE; (2) formation of thermally lithiated Si<sub>3</sub>N<sub>4</sub> when Li<sup>0</sup> is heated in contact with the interlayer;
+and (3) inhibition of impurity layers, such as, Li<sub>2</sub>CO<sub>3</sub> due to coating of Si<sub>3</sub>N<sub>4</sub> on SSE surface.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Electrochemical
+stability of interface-modified SSE. (a) Nyquist
+plots of Li symmetrical cells for Al-LLZO with and without Si<sub>3</sub>N<sub>4</sub> modification. (b) Critical current density (CCD)
+plot for Li/Si<sub>3</sub>N<sub>4</sub>/Al-LLZO/Si<sub>3</sub>N<sub>4</sub>/Li symmetric cell. Galvanostatic cycling performance
+of Li/Al-LLZO/Li symmetrical cells with and without Si<sub>3</sub>N<sub>4</sub> modification at 0.05 mA cm<sup>&#x02013;2</sup> and
+0.05 mAh cm<sup>&#x02013;2</sup>. (c) First few cycles and (d) long-term
+cycling. (e) Galvanostatic cycling performance of Li/Si<sub>3</sub>N<sub>4</sub>/Al-LLZO/Si<sub>3</sub>N<sub>4</sub>/Li
+symmetric cell at constant current density of 0.1 mA cm<sup>&#x02013;2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_0004" id="gr4" position="float"/></fig><p>Galvanostatic Li plating/stripping
+cycling experiments using Li
+symmetrical cells were performed to assess the effectiveness of Li-ion
+transport across the interface and cycling stability. For this, various
+thicknesses of Si<sub>3</sub>N<sub>4</sub> (for example 20, 30, and
+40 nm) interlayer were deposited on top of the garnet surface and
+it was optimized to 30 nm (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S5</ext-link>).
+As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S6</ext-link>, plating/stripping cycles
+of symmetrical cells were performed in both low and high current densities
+of 0.05 and 0.2 mA cm<sup>&#x02013;2</sup>, respectively. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c shows comparison
+of the first few plating/stripping cycles of Li symmetrical cells
+based on bare garnet and Si<sub>3</sub>N<sub>4</sub>-modified garnet
+cycled at current density of 0.05 mA cm<sup>&#x02013;2</sup> and capacity
+of 0.05 mAh cm<sup>&#x02013;2</sup>. It can be observed that the symmetric
+cell with bare garnet is plagued with large overpotential &#x0003e; &#x000b1;100
+mV, while the cell with the Si<sub>3</sub>N<sub>4</sub> interface
+layer facilitated the suppression of this overpotential to &#x000b1;60
+mV. This indicates that the introduction of Si<sub>3</sub>N<sub>4</sub> reduced the energy barrier of the lithium transfer process at the
+interface, thus facilitating the occurrence of efficient plating/stripping
+cycles. Longer plating/stripping cycling of these symmetrical cells
+was carried out as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d. The cell with bare garnet short circuiting after
+only 35 h can be attributed to typical phenomenon of Li infiltration
+into SSE (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S6c</ext-link>).<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> In contrast, the cell with Si<sub>3</sub>N<sub>4</sub>-modified
+garnet shows stable cycling for 1000 h, suggesting a stable interface
+enabled by Si<sub>3</sub>N<sub>4</sub> thin film. Similar stable cycling
+up to 800 h at current density of 0.1 mA cm<sup>&#x02013;2</sup> was
+demonstrated by the Si<sub>3</sub>N<sub>4</sub>-modified garnet with
+voltage stabilized at &#x0223c;80 mV (as further indicated by voltage
+profiles in the inset of <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>e), while the cell with bare garnet could last only
+20 h with large voltage polarization of &#x0223c;250 mV.</p><p>This
+excellent cycling with low-voltage polarization confirms the
+establishment of a stable interface with low interfacial impedance
+by introduction of the Si<sub>3</sub>N<sub>4</sub> interfacial layer.
+Also, longer and stable cycling with almost unchanged polarization
+and overpotential of &#x0223c;100 mV was exhibited at higher current
+density of 0.2 mA cm<sup>&#x02013;2</sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S6a,b</ext-link>). The prompt short circuiting of bare garnet compared
+to garnet with a Si<sub>3</sub>N<sub>4</sub>-modified interface shows
+that superior stability of the interface is attained by Si<sub>3</sub>N<sub>4</sub> deposition. Comparison of the performance of Si<sub>3</sub>N<sub>4</sub> interlayer in this work with other reported
+interlayers is summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Table S1</ext-link>.
+It can be noticed that, for room temperature (22 &#x000b0;C) operation,
+the Si<sub>3</sub>N<sub>4</sub> interlayer shows remarkably low interfacial
+resistance at reduced voltage overpotential. Also, the critical current
+density of 1 mA cm<sup>&#x02013;2</sup> achieved is very much comparable
+considering the electrolyte thickness and deposition procedure employed
+in this work. These observations imply that Si<sub>3</sub>N<sub>4</sub> coating as interlayer can homogenize current distribution at the
+Li/garnet interface by addressing the interface mismatch between Li-anode
+and SSE.</p></sec><sec id="sec3.4"><label>3.4</label><title>Full Cell Demonstration of Interface Stabilized
+SSE</title><p>Further, to demonstrate the potential to enable high-energy
+density Li-metal batteries by the interface stability approach developed
+in this work, Li/Si<sub>3</sub>N<sub>4</sub>@Al-LLZO/LFP hybrid solid-state
+full cells as shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a were assembled and tested. The cathode/garnet interface
+(Si<sub>3</sub>N<sub>4</sub>@Al-LLZO/LFP) was wetted with a tiny amount
+of liquid organic electrolyte to reduce cathode/electrolyte interfacial
+resistance. The Li/Si<sub>3</sub>N<sub>4</sub>@Al-LLZO/LFP cells showed
+low charge transfer resistance (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S7</ext-link>) and stable cycling compared to Li/Al-LLZO/LFP cells (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">Figure S8</ext-link>). <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b shows the galvanostatic charge/discharge
+cycling performance of the full cell with Si<sub>3</sub>N<sub>4</sub>@Al-LLZO garnet electrolyte at current density of 0.2C. The cell
+delivered initial charge and discharge capacities of 146.25 and 145.11
+mAh g<sup>&#x02013;1</sup>, respectively, that correspond to the Coulombic
+efficiency of 99.2%. The discharge capacity after 100 cycles was 130
+mAh g<sup>&#x02013;1</sup> while maintaining the Coulombic efficiency
+close to 100%. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c, the full cell with Si<sub>3</sub>N<sub>4</sub>@Al-LLZO
+garnet electrolyte exhibits well-defined and flat voltage plateaus
+with small polarization of &#x0223c;0.15 V at first, 50th, and 100th
+cycles tested at 0.2C and room temperature. The Si<sub>3</sub>N<sub>4</sub>@Al-LLZO full cells were further cycled at various C-rates
+of 0.1, 0.2, 0.5, and 1C. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d, the cell demonstrated good rate capability
+with discharge capacities of 153.8, 142.1, 121.7, and 109.5 mAh g<sup>&#x02013;1</sup> obtained at 0.1, 0.2, 0.5, and 1C, respectively.
+The cell displayed discharge capacity retention of 153.8 mAh g<sup>&#x02013;1</sup> at 0.1C which accounted for &#x0223c;100% of the initial
+capacity after five cycles each of higher C-rates. These observations
+further validate the efficacy of introducing Si<sub>3</sub>N<sub>4</sub> as Li/garnet interface modifier to obtain stable and high energy
+density solid-state Li-metal batteries.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Full cell demonstration
+of electrochemical cells. (a) Schematic
+of device structure for Li/Si<sub>3</sub>N<sub>4</sub>@Al-LLZO/LFP
+cell. (b) Cycling performance of the cell at 0.2C-rate and room temperature.
+(c) Voltage profiles for selected cycles (first, 50th, and 100th)
+of Li/Si<sub>3</sub>N<sub>4</sub>@Al-LLZO/LFP cell at 0.2C and room
+temperature. (d) Rate performance of cell at different C-rates.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_0005" id="gr5" position="float"/></fig></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>The
+poor interfacing between Li<sup>0</sup> and garnet-type Al-LLZO
+solid-state electrolyte by introducing a sputter-coated thin Si<sub>3</sub>N<sub>4</sub> intermediate layer was addressed. The Si<sub>3</sub>N<sub>4</sub> coating on the Al-LLZO solid-electrolyte pellet
+significantly reduces Li/Al-LLZO interfacial resistance from 1197
+to 84.5 &#x003a9; cm<sup>2</sup>, promotes better wettability of Li<sup>0</sup> with Al-LLZO electrolyte, and facilitates efficient charge
+transfer at the interface. Noticeably, symmetrical cells with much
+lower overpotential and long plating/stripping cycling for &#x0003e;800
+h
+at current density of 0.1 mA cm<sup>&#x02013;2</sup> were demonstrated
+using the Si<sub>3</sub>N<sub>4</sub>-modified Al-LLZO solid electrolyte.
+Along with it, Si<sub>3</sub>N<sub>4</sub>@Al-LLZO solid electrolyte
+paired with Li<sup>0</sup> as anode and LFP as cathode exhibited stable
+cycling performance with excellent Coulombic efficiency compared to
+that for bare garnet. Introduction of Si<sub>3</sub>N<sub>4</sub> facilitated
+formation of lithiophilic interface which in turn contributed to establishment
+of an intimate and conformal physical/chemical contact between garnet-type
+solid electrolyte and lithium. The present work successfully resolves
+the primary challenge of high impedance Li/garnet-type solid-electrolyte
+interface for solid-state batteries. These findings can provide further
+insights into engineered interfaces focused on development of high
+energy density and safe solid-state Li-metal batteries.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsaem.1c03157?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsaem.1c03157</ext-link>.<list id="silist" list-type="simple"><list-item><p>Digital images of as-prepared
+Al-LLZO pellet; surface
+and cross-section SEM of pellets at different sintering temperatures;
+XRD and Raman showing impurity removal; EIS spectra at different temperatures;
+digital image of lithiation reaction; optimization of interlayer thickness;
+plating/stripping at 0.2 mA cm<sup>&#x02013;2</sup>; Nyquist plots
+for full cells; full cell cycling; comparison table (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsaem.1c03157/suppl_file/ae1c03157_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae1c03157_si_001.pdf"><caption><p>ae1c03157_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes-2"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work
+has been financially supported by Syracuse University
+and NSF IUCRC Center for Solid-State Electric Power Storage (CEPS)
+grant (2052611).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Armand</surname><given-names>M.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Building better
+batteries</article-title>. <source>nature</source>
+<year>2008</year>, <volume>451</volume> (<issue>7179</issue>), <fpage>652</fpage><pub-id pub-id-type="doi">10.1038/451652a</pub-id>.<pub-id pub-id-type="pmid">18256660</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Peng</surname><given-names>L.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>D.</given-names></name>; <name><surname>Ruoff</surname><given-names>R. S.</given-names></name>; <name><surname>Yu</surname><given-names>G.</given-names></name>
+<article-title>Two-Dimensional Materials
+for Beyond-Lithium-Ion Batteries</article-title>. <source>Adv. Energy
+Mater.</source>
+<year>2016</year>, <volume>6</volume> (<issue>11</issue>), <fpage>1600025</fpage><pub-id pub-id-type="doi">10.1002/aenm.201600025</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Ding</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Nasybulin</surname><given-names>E.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Lithium metal anodes for rechargeable
+batteries</article-title>. <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume> (<issue>2</issue>), <fpage>513</fpage>&#x02013;<lpage>537</lpage>. <pub-id pub-id-type="doi">10.1039/C3EE40795K</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Kamath</surname><given-names>H.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Electrical
+energy storage for the
+grid: a battery of choices</article-title>. <source>Science</source>
+<year>2011</year>, <volume>334</volume> (<issue>6058</issue>), <fpage>928</fpage>&#x02013;<lpage>935</lpage>. <pub-id pub-id-type="doi">10.1126/science.1212741</pub-id>.<pub-id pub-id-type="pmid">22096188</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Hu</surname><given-names>Y.-S.</given-names></name>
+<article-title>Batteries:
+Getting solid</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume> (<issue>4</issue>), <fpage>16042</fpage><pub-id pub-id-type="doi">10.1038/nenergy.2016.42</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>
+<article-title>A solid future for
+battery development</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume> (<issue>9</issue>), <fpage>16141</fpage><pub-id pub-id-type="doi">10.1038/nenergy.2016.141</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Ma</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>; <name><surname>Nan</surname><given-names>C.-W.</given-names></name>; <name><surname>Ishikawa</surname><given-names>R.</given-names></name>; <name><surname>More</surname><given-names>K.</given-names></name>; <name><surname>Chi</surname><given-names>M.</given-names></name>
+<article-title>Atomic-scale
+origin of the large
+grain-boundary resistance in perovskite Li-ion-conducting solid electrolytes</article-title>. <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume> (<issue>5</issue>), <fpage>1638</fpage>&#x02013;<lpage>1642</lpage>. <pub-id pub-id-type="doi">10.1039/c4ee00382a</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Dondelinger</surname><given-names>M.</given-names></name>; <name><surname>Swanson</surname><given-names>J.</given-names></name>; <name><surname>Nasymov</surname><given-names>G.</given-names></name>; <name><surname>Jahnke</surname><given-names>C.</given-names></name>; <name><surname>Qiao</surname><given-names>Q.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Widener</surname><given-names>C.</given-names></name>; <name><surname>Numan-Al-Mobin</surname><given-names>A. M.</given-names></name>; <name><surname>Smirnova</surname><given-names>A.</given-names></name>
+<article-title>Electrochemical stability
+of lithium halide electrolyte with antiperovskite crystal structure</article-title>. <source>Electrochim. Acta</source>
+<year>2019</year>, <volume>306</volume>, <fpage>498</fpage>&#x02013;<lpage>505</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2019.03.074</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Hong</surname><given-names>H.-P.</given-names></name>
+<article-title>Crystal
+structure and ionic conductivity of Li14Zn (GeO4) 4 and other new
+Li+ superionic conductors</article-title>. <source>Mater. Res. Bull.</source>
+<year>1978</year>, <volume>13</volume> (<issue>2</issue>), <fpage>117</fpage>&#x02013;<lpage>124</lpage>. <pub-id pub-id-type="doi">10.1016/0025-5408(78)90075-2</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Kanno</surname><given-names>R.</given-names></name>; <name><surname>Hata</surname><given-names>T.</given-names></name>; <name><surname>Kawamoto</surname><given-names>Y.</given-names></name>; <name><surname>Irie</surname><given-names>M.</given-names></name>
+<article-title>Synthesis of a new
+lithium ionic conductor, thio-LISICON&#x02013;lithium germanium sulfide
+system</article-title>. <source>Solid State Ionics</source>
+<year>2000</year>, <volume>130</volume> (<issue>1&#x02013;2</issue>), <fpage>97</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1016/S0167-2738(00)00277-0</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Monchak</surname><given-names>M.</given-names></name>; <name><surname>Hupfer</surname><given-names>T.</given-names></name>; <name><surname>Senyshyn</surname><given-names>A.</given-names></name>; <name><surname>Boysen</surname><given-names>H.</given-names></name>; <name><surname>Chernyshov</surname><given-names>D.</given-names></name>; <name><surname>Hansen</surname><given-names>T.</given-names></name>; <name><surname>Schell</surname><given-names>K. G.</given-names></name>; <name><surname>Bucharsky</surname><given-names>E. C.</given-names></name>; <name><surname>Hoffmann</surname><given-names>M. J.</given-names></name>; <name><surname>Ehrenberg</surname><given-names>H.</given-names></name>
+<article-title>Lithium diffusion
+pathway in Li1.
+3Al0. 3Ti1. 7 (PO4) 3 (LATP) superionic conductor</article-title>. <source>Inorganic chemistry</source>
+<year>2016</year>, <volume>55</volume> (<issue>6</issue>), <fpage>2941</fpage>&#x02013;<lpage>2945</lpage>. <pub-id pub-id-type="doi">10.1021/acs.inorgchem.5b02821</pub-id>.<pub-id pub-id-type="pmid">26930220</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Murugan</surname><given-names>R.</given-names></name>; <name><surname>Thangadurai</surname><given-names>V.</given-names></name>; <name><surname>Weppner</surname><given-names>W.</given-names></name>
+<article-title>Fast lithium ion conduction in garnet-type
+Li7La3Zr2O12</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2007</year>, <volume>46</volume> (<issue>41</issue>), <fpage>7778</fpage>&#x02013;<lpage>7781</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200701144</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Bron</surname><given-names>P.</given-names></name>; <name><surname>Johansson</surname><given-names>S.</given-names></name>; <name><surname>Zick</surname><given-names>K.</given-names></name>; <name><surname>Schmedt auf der Gunne</surname><given-names>J.</given-names></name>; <name><surname>Dehnen</surname><given-names>S.</given-names></name>; <name><surname>Roling</surname><given-names>B.</given-names></name>
+<article-title>Li<sub>10</sub>SnP<sub>2</sub>S<sub>12</sub>: An affordable lithium superionic conductor</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume> (<issue>42</issue>), <fpage>15694</fpage>&#x02013;<lpage>15697</lpage>. <pub-id pub-id-type="doi">10.1021/ja407393y</pub-id>.<pub-id pub-id-type="pmid">24079534</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Deiseroth</surname><given-names>H. J.</given-names></name>; <name><surname>Kong</surname><given-names>S. T.</given-names></name>; <name><surname>Eckert</surname><given-names>H.</given-names></name>; <name><surname>Vannahme</surname><given-names>J.</given-names></name>; <name><surname>Reiner</surname><given-names>C.</given-names></name>; <name><surname>Zai&#x000df;</surname><given-names>T.</given-names></name>; <name><surname>Schlosser</surname><given-names>M.</given-names></name>
+<article-title>Li6PS5X: a class of crystalline Li-rich
+solids with an unusually high Li+ mobility</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2008</year>, <volume>47</volume> (<issue>4</issue>), <fpage>755</fpage>&#x02013;<lpage>758</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200703900</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Kamaya</surname><given-names>N.</given-names></name>; <name><surname>Homma</surname><given-names>K.</given-names></name>; <name><surname>Yamakawa</surname><given-names>Y.</given-names></name>; <name><surname>Hirayama</surname><given-names>M.</given-names></name>; <name><surname>Kanno</surname><given-names>R.</given-names></name>; <name><surname>Yonemura</surname><given-names>M.</given-names></name>; <name><surname>Kamiyama</surname><given-names>T.</given-names></name>; <name><surname>Kato</surname><given-names>Y.</given-names></name>; <name><surname>Hama</surname><given-names>S.</given-names></name>; <name><surname>Kawamoto</surname><given-names>K.</given-names></name>; et al. <article-title>A lithium
+superionic conductor</article-title>. <source>Nat. Mater.</source>
+<year>2011</year>, <volume>10</volume> (<issue>9</issue>), <fpage>682</fpage>&#x02013;<lpage>686</lpage>. <pub-id pub-id-type="doi">10.1038/nmat3066</pub-id>.<pub-id pub-id-type="pmid">21804556</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>L&#x000fc;</surname><given-names>X.</given-names></name>; <name><surname>Cui</surname><given-names>Z.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Xue</surname><given-names>L.</given-names></name>; <name><surname>Jia</surname><given-names>Q.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Mastering
+the interface for advanced all-solid-state lithium rechargeable batteries</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2016</year>, <volume>113</volume> (<issue>47</issue>), <fpage>13313</fpage>&#x02013;<lpage>13317</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1615912113</pub-id>.<pub-id pub-id-type="pmid">27821751</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Wenzel</surname><given-names>S.</given-names></name>; <name><surname>Leichtweiss</surname><given-names>T.</given-names></name>; <name><surname>Kr&#x000fc;ger</surname><given-names>D.</given-names></name>; <name><surname>Sann</surname><given-names>J.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Interphase
+formation on lithium solid electrolytes&#x02014;An in situ approach
+to study interfacial reactions by photoelectron spectroscopy</article-title>. <source>Solid State Ionics</source>
+<year>2015</year>, <volume>278</volume>, <fpage>98</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2015.06.001</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>
+<article-title>Origin of outstanding stability in
+the lithium solid
+electrolyte materials: insights from thermodynamic analyses based
+on first-principles calculations</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume> (<issue>42</issue>), <fpage>23685</fpage>&#x02013;<lpage>23693</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b07517</pub-id>.<pub-id pub-id-type="pmid">26440586</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>
+<article-title>First principles
+study on electrochemical and chemical
+stability of solid electrolyte&#x02013;electrode interfaces in all-solid-state
+Li-ion batteries</article-title>. <source>Journal of Materials Chemistry
+A</source>
+<year>2016</year>, <volume>4</volume> (<issue>9</issue>), <fpage>3253</fpage>&#x02013;<lpage>3266</lpage>. <pub-id pub-id-type="doi">10.1039/C5TA08574H</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Bates</surname><given-names>J. B.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>; <name><surname>Gruzalski</surname><given-names>G. R.</given-names></name>; <name><surname>Zuhr</surname><given-names>R. A.</given-names></name>; <name><surname>Choudhury</surname><given-names>A.</given-names></name>; <name><surname>Luck</surname><given-names>C. F.</given-names></name>; <name><surname>Robertson</surname><given-names>J. D.</given-names></name>
+<article-title>Electrical properties of amorphous
+lithium electrolyte thin films</article-title>. <source>Solid State
+Ionics</source>
+<year>1992</year>, <volume>53-56</volume>, <fpage>647</fpage>&#x02013;<lpage>654</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(92)90442-R</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Bates</surname><given-names>J.B.</given-names></name>; <name><surname>Dudney</surname><given-names>N.J.</given-names></name>; <name><surname>Lubben</surname><given-names>D.C.</given-names></name>; <name><surname>Gruzalski</surname><given-names>G.R.</given-names></name>; <name><surname>Kwak</surname><given-names>B.S.</given-names></name>; <name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Zuhr</surname><given-names>R.A.</given-names></name>
+<article-title>Thin-film rechargeable
+lithium batteries</article-title>. <source>J. Power Sour.</source>
+<year>1995</year>, <volume>54</volume> (<issue>1</issue>), <fpage>58</fpage>&#x02013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1016/0378-7753(94)02040-A</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Aono</surname><given-names>H.</given-names></name>; <name><surname>Sugimoto</surname><given-names>E.</given-names></name>; <name><surname>Sadaoka</surname><given-names>Y.</given-names></name>; <name><surname>Imanaka</surname><given-names>N.</given-names></name>; <name><surname>Adachi</surname><given-names>G.y.</given-names></name>
+<article-title>Ionic conductivity
+of solid electrolytes based on lithium titanium phosphate</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1990</year>, <volume>137</volume> (<issue>4</issue>), <fpage>1023</fpage>&#x02013;<lpage>1027</lpage>. <pub-id pub-id-type="doi">10.1149/1.2086597</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Ding</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>An</surname><given-names>C.</given-names></name>
+<article-title>Interfaces: Key issue to be solved
+for all solid-state lithium battery technologies</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2020</year>, <volume>167</volume> (<issue>7</issue>), <fpage>070541</fpage><pub-id pub-id-type="doi">10.1149/1945-7111/ab7f84</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Geng</surname><given-names>Z.</given-names></name>; <name><surname>Han</surname><given-names>C.</given-names></name>; <name><surname>Fu</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>He</surname><given-names>Y.-b.</given-names></name>; <name><surname>Kang</surname><given-names>F.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>
+<article-title>Challenges and perspectives
+of garnet solid electrolytes for all solid-state lithium batteries</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>389</volume>, <fpage>120</fpage>&#x02013;<lpage>134</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.04.019</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Nan</surname><given-names>C.-W.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>
+<article-title>Synergistic coupling
+between Li6. 75La3Zr1. 75Ta0. 25O12 and poly (vinylidene fluoride)
+induces high ionic conductivity, mechanical strength, and thermal
+stability of solid composite electrolytes</article-title>. <source>J.
+Am. Chem. Soc.</source>
+<year>2017</year>, <volume>139</volume> (<issue>39</issue>), <fpage>13779</fpage>&#x02013;<lpage>13785</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.7b06364</pub-id>.<pub-id pub-id-type="pmid">28898065</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Gurung</surname><given-names>A.</given-names></name>; <name><surname>Pokharel</surname><given-names>J.</given-names></name>; <name><surname>Baniya</surname><given-names>A.</given-names></name>; <name><surname>Pathak</surname><given-names>R.</given-names></name>; <name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Lamsal</surname><given-names>B. S.</given-names></name>; <name><surname>Ghimire</surname><given-names>N.</given-names></name>; <name><surname>Zhang</surname><given-names>W.-H.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Qiao</surname><given-names>Q.</given-names></name>
+<article-title>A review on strategies
+addressing interface incompatibilities in
+inorganic all-solid-state lithium batteries</article-title>. <source>Sustainable Energy &#x00026; Fuels</source>
+<year>2019</year>, <volume>3</volume> (<issue>12</issue>), <fpage>3279</fpage>&#x02013;<lpage>3309</lpage>. <pub-id pub-id-type="doi">10.1039/C9SE00549H</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Duan</surname><given-names>H.</given-names></name>; <name><surname>L&#x000fc;</surname><given-names>X.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Xue</surname><given-names>L.</given-names></name>; <name><surname>Fu</surname><given-names>G.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>; et al. <article-title>Hybrid polymer/garnet
+electrolyte with a small interfacial resistance
+for lithium-ion batteries</article-title>. <source>Angew. Chem., Int.
+Ed.</source>
+<year>2017</year>, <volume>56</volume> (<issue>3</issue>), <fpage>753</fpage>&#x02013;<lpage>756</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201608924</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Cheng</surname><given-names>L.</given-names></name>; <name><surname>Crumlin</surname><given-names>E. J.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>; <name><surname>Qiao</surname><given-names>R.</given-names></name>; <name><surname>Hou</surname><given-names>H.</given-names></name>; <name><surname>Lux</surname><given-names>S. F.</given-names></name>; <name><surname>Zorba</surname><given-names>V.</given-names></name>; <name><surname>Russo</surname><given-names>R.</given-names></name>; <name><surname>Kostecki</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; et al. <article-title>The origin of high electrolyte&#x02013;electrode interfacial
+resistances in lithium cells containing garnet type solid electrolytes</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2014</year>, <volume>16</volume> (<issue>34</issue>), <fpage>18294</fpage>&#x02013;<lpage>18300</lpage>. <pub-id pub-id-type="doi">10.1039/C4CP02921F</pub-id>.<pub-id pub-id-type="pmid">25057850</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Sharafi</surname><given-names>A.</given-names></name>; <name><surname>Kazyak</surname><given-names>E.</given-names></name>; <name><surname>Davis</surname><given-names>A. L.</given-names></name>; <name><surname>Yu</surname><given-names>S.</given-names></name>; <name><surname>Thompson</surname><given-names>T.</given-names></name>; <name><surname>Siegel</surname><given-names>D. J.</given-names></name>; <name><surname>Dasgupta</surname><given-names>N. P.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>Surface chemistry
+mechanism
+of ultra-low interfacial resistance in the solid-state electrolyte
+Li7La3Zr2O12</article-title>. <source>Chem. Mater.</source>
+<year>2017</year>, <volume>29</volume> (<issue>18</issue>), <fpage>7961</fpage>&#x02013;<lpage>7968</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.7b03002</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Tsai</surname><given-names>C.-L.</given-names></name>; <name><surname>Roddatis</surname><given-names>V.</given-names></name>; <name><surname>Chandran</surname><given-names>C. V.</given-names></name>; <name><surname>Ma</surname><given-names>Q.</given-names></name>; <name><surname>Uhlenbruck</surname><given-names>S.</given-names></name>; <name><surname>Bram</surname><given-names>M.</given-names></name>; <name><surname>Heitjans</surname><given-names>P.</given-names></name>; <name><surname>Guillon</surname><given-names>O.</given-names></name>
+<article-title>Li7La3Zr2O12
+interface
+modification for Li dendrite prevention</article-title>. <source>ACS
+Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume> (<issue>16</issue>), <fpage>10617</fpage>&#x02013;<lpage>10626</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b00831</pub-id>.<pub-id pub-id-type="pmid">27029789</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Wakasugi</surname><given-names>J.</given-names></name>; <name><surname>Munakata</surname><given-names>H.</given-names></name>; <name><surname>Kanamura</surname><given-names>K.</given-names></name>
+<article-title>Effect of
+gold layer on interface
+resistance between lithium metal anode and Li6. 25Al0. 25La3Zr2O12
+solid electrolyte</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume> (<issue>6</issue>), <fpage>A1022</fpage><pub-id pub-id-type="doi">10.1149/2.0471706jes</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Fu</surname><given-names>K. K.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>S.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Luo</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Lacey</surname><given-names>S. D.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; et al. <article-title>Toward garnet electrolyte-based
+Li metal batteries: An ultrathin,
+highly effective, artificial solid-state electrolyte/metallic Li interface</article-title>. <source>Sci. Adv.</source>
+<year>2017</year>, <volume>3</volume> (<issue>4</issue>), <fpage>e1601659</fpage><pub-id pub-id-type="doi">10.1126/sciadv.1601659</pub-id>.<pub-id pub-id-type="pmid">28435874</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Luo</surname><given-names>W.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Fu</surname><given-names>K. K.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; <name><surname>Lacey</surname><given-names>S. D.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>; et al. <article-title>Transition from superlithiophobicity to superlithiophilicity
+of garnet solid-state electrolyte</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2016</year>, <volume>138</volume> (<issue>37</issue>), <fpage>12258</fpage>&#x02013;<lpage>12262</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.6b06777</pub-id>.<pub-id pub-id-type="pmid">27570205</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Luo</surname><given-names>W.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Fu</surname><given-names>K.</given-names></name>; <name><surname>Pastel</surname><given-names>G.</given-names></name>; <name><surname>Lin</surname><given-names>C. F.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>; et al. <article-title>Reducing interfacial resistance between garnet-structured
+solid-state electrolyte and Li-metal anode by a germanium layer</article-title>. <source>Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume> (<issue>22</issue>), <fpage>1606042</fpage><pub-id pub-id-type="doi">10.1002/adma.201606042</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Fu</surname><given-names>K.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Fu</surname><given-names>Z.</given-names></name>; <name><surname>Xie</surname><given-names>H.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Carter</surname><given-names>M.</given-names></name>; <name><surname>Wachsman</surname><given-names>E.</given-names></name>; <name><surname>Hu</surname><given-names>L.</given-names></name>
+<article-title>Transient behavior
+of the metal interface in lithium metal&#x02013;garnet batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2017</year>, <volume>56</volume> (<issue>47</issue>), <fpage>14942</fpage>&#x02013;<lpage>14947</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201708637</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Fu</surname><given-names>K. K.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Hitz</surname><given-names>G. T.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; <name><surname>Pearse</surname><given-names>A.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Rubloff</surname><given-names>G.</given-names></name>; et al. <article-title>Negating interfacial
+impedance in garnet-based solid-state Li metal
+batteries</article-title>. <source>Nat. Mater.</source>
+<year>2017</year>, <volume>16</volume> (<issue>5</issue>), <fpage>572</fpage>&#x02013;<lpage>579</lpage>. <pub-id pub-id-type="doi">10.1038/nmat4821</pub-id>.<pub-id pub-id-type="pmid">27992420</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Fu</surname><given-names>K.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Hitz</surname><given-names>E.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>S.</given-names></name>; <name><surname>Luo</surname><given-names>W.</given-names></name>; et al. <article-title>Conformal, nanoscale ZnO surface modification
+of garnet-based
+solid-state electrolyte for lithium metal anodes</article-title>. <source>Nano Lett.</source>
+<year>2017</year>, <volume>17</volume> (<issue>1</issue>), <fpage>565</fpage>&#x02013;<lpage>571</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.6b04695</pub-id>.<pub-id pub-id-type="pmid">27936780</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Shao</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Gong</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Zheng</surname><given-names>B.</given-names></name>; <name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>Y.-S.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; et al. <article-title>Drawing a soft interface: An effective interfacial
+modification strategy
+for garnet-type solid-state Li batteries</article-title>. <source>ACS
+Energy Lett.</source>
+<year>2018</year>, <volume>3</volume> (<issue>6</issue>), <fpage>1212</fpage>&#x02013;<lpage>1218</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.8b00453</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>
+<article-title>Strategies based on nitride materials
+chemistry to
+stabilize Li metal anode</article-title>. <source>Advanced Science</source>
+<year>2017</year>, <volume>4</volume> (<issue>8</issue>), <fpage>1600517</fpage><pub-id pub-id-type="doi">10.1002/advs.201600517</pub-id>.<pub-id pub-id-type="pmid">28852614</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Xue</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Cheng</surname><given-names>R.</given-names></name>
+<article-title>The effect of sintering
+process on
+lithium ionic conductivity of Li 6.4 Al 0.2 La 3 Zr 2 O 12 garnet
+produced by solid-state synthesis</article-title>. <source>RSC Adv.</source>
+<year>2018</year>, <volume>8</volume> (<issue>24</issue>), <fpage>13083</fpage>&#x02013;<lpage>13088</lpage>. <pub-id pub-id-type="doi">10.1039/C8RA01329B</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Allen</surname><given-names>J. L.</given-names></name>; <name><surname>Wolfenstine</surname><given-names>J.</given-names></name>; <name><surname>Rangasamy</surname><given-names>E.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>Effect of substitution
+(Ta, Al, Ga) on the conductivity of Li7La3Zr2O12</article-title>. <source>J. Power Sources</source>
+<year>2012</year>, <volume>206</volume>, <fpage>315</fpage>&#x02013;<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.01.131</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Rangasamy</surname><given-names>E.</given-names></name>; <name><surname>Wolfenstine</surname><given-names>J.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>The role of Al and Li concentration
+on the formation of cubic garnet solid electrolyte of nominal composition
+Li7La3Zr2O12</article-title>. <source>Solid State Ionics</source>
+<year>2012</year>, <volume>206</volume>, <fpage>28</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2011.10.022</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Shimonishi</surname><given-names>Y.</given-names></name>; <name><surname>Toda</surname><given-names>A.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Hirano</surname><given-names>A.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Takeda</surname><given-names>Y.</given-names></name>
+<article-title>Synthesis
+of garnet-type Li7&#x02013;
+xLa3Zr2O12&#x02013; 1/2x and its stability in aqueous solutions</article-title>. <source>Solid State Ionics</source>
+<year>2011</year>, <volume>183</volume> (<issue>1</issue>), <fpage>48</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2010.12.010</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Yang</surname><given-names>H.-C.</given-names></name>; <name><surname>Hou</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>V.</given-names></name>; <name><surname>Xu</surname><given-names>Z.-K.</given-names></name>
+<article-title>Surface and interface engineering
+for organic&#x02013;inorganic composite membranes</article-title>. <source>Journal of Materials Chemistry A</source>
+<year>2016</year>, <volume>4</volume> (<issue>25</issue>), <fpage>9716</fpage>&#x02013;<lpage>9729</lpage>. <pub-id pub-id-type="doi">10.1039/C6TA02844F</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Hou</surname><given-names>T. Z.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Peng</surname><given-names>H. J.</given-names></name>; <name><surname>Zhao</surname><given-names>C. Z.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Dendrite-free
+lithium deposition
+induced by uniformly distributed lithium ions for efficient lithium
+metal batteries</article-title>. <source>Advanced materials</source>
+<year>2016</year>, <volume>28</volume> (<issue>15</issue>), <fpage>2888</fpage>&#x02013;<lpage>2895</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201506124</pub-id>.<pub-id pub-id-type="pmid">26900679</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Xiang</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>L.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Cheng</surname><given-names>Z.</given-names></name>; <name><surname>Yuan</surname><given-names>K.</given-names></name>; <name><surname>Guo</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>
+<article-title>Improved Rechargeability
+of Lithium Metal Anode via Controlling Lithium-Ion Flux</article-title>. <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume> (<issue>36</issue>), <fpage>1802352</fpage><pub-id pub-id-type="doi">10.1002/aenm.201802352</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Guo</surname><given-names>Y.</given-names></name>; <name><surname>Ouyang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Wei</surname><given-names>Y.</given-names></name>; <name><surname>Zhai</surname><given-names>T.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>
+<article-title>PMMA-assisted Li deposition towards 3D continuous dendrite-free lithium
+anode</article-title>. <source>Energy Storage Materials</source>
+<year>2019</year>, <volume>16</volume>, <fpage>203</fpage>&#x02013;<lpage>211</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2018.05.012</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Guan</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>A.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>; <name><surname>Liang</surname><given-names>F.</given-names></name>; <name><surname>Yang</surname><given-names>Y. W.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>
+<article-title>Controlling
+nucleation
+in lithium metal anodes</article-title>. <source>Small</source>
+<year>2018</year>, <volume>14</volume> (<issue>37</issue>), <fpage>1801423</fpage><pub-id pub-id-type="doi">10.1002/smll.201801423</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Yuen</surname><given-names>P. Y.</given-names></name>; <name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Dauskardt</surname><given-names>R. H.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>An artificial solid
+electrolyte interphase with high Li-ion conductivity,
+mechanical strength, and flexibility for stable lithium metal anodes</article-title>. <source>Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume> (<issue>10</issue>), <fpage>1605531</fpage><pub-id pub-id-type="doi">10.1002/adma.201605531</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Kersey-Bronec</surname><given-names>F. E.</given-names></name>; <name><surname>Ke</surname><given-names>J.</given-names></name>; <name><surname>Cloud</surname><given-names>J. E.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Ngo</surname><given-names>C.</given-names></name>; <name><surname>Pylypenko</surname><given-names>S.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>
+<article-title>Study of lithium silicide nanoparticles
+as anode materials for advanced lithium ion batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume> (<issue>19</issue>), <fpage>16071</fpage>&#x02013;<lpage>16080</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b16773</pub-id>.<pub-id pub-id-type="pmid">28453258</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Lang</surname><given-names>J.</given-names></name>; <name><surname>Charlot</surname><given-names>J.</given-names></name>
+<article-title>Li3N&#x02013;Si3N4 system</article-title>. <source>Rev.
+Chim. Miner.</source>
+<year>1970</year>, <volume>7</volume> (<issue>1</issue>), <fpage>121</fpage>&#x02013;<lpage>131</lpage>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Yamane</surname><given-names>H.</given-names></name>; <name><surname>Kikkawa</surname><given-names>S.</given-names></name>; <name><surname>Koizumi</surname><given-names>M.</given-names></name>
+<article-title>Preparation of lithium silicon nitrides
+and their lithium ion conductivity</article-title>. <source>Solid State
+Ionics</source>
+<year>1987</year>, <volume>25</volume> (<issue>2&#x02013;3</issue>), <fpage>183</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(87)90119-6</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Ulvestad</surname><given-names>A.</given-names></name>; <name><surname>M&#x000e6;hlen</surname><given-names>J. P.</given-names></name>; <name><surname>Kirkengen</surname><given-names>M.</given-names></name>
+<article-title>Silicon nitride
+as anode material
+for Li-ion batteries: Understanding the SiNx conversion reaction</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>399</volume>, <fpage>414</fpage>&#x02013;<lpage>421</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.07.109</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Hirosaki</surname><given-names>N.</given-names></name>; <name><surname>Xie</surname><given-names>R.</given-names></name>; <name><surname>Takeka</surname><given-names>T.</given-names></name>; <name><surname>Mitomo</surname><given-names>M.</given-names></name>
+<article-title>Crystal, electronic
+structures and photoluminescence properties of rare-earth doped LiSi2N3</article-title>. <source>J. Solid State Chem.</source>
+<year>2009</year>, <volume>182</volume> (<issue>2</issue>), <fpage>301</fpage>&#x02013;<lpage>311</lpage>. <pub-id pub-id-type="doi">10.1016/j.jssc.2008.10.031</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Houmes</surname><given-names>J. D.</given-names></name>; <name><surname>zur Loye</surname><given-names>H.-C.</given-names></name>
+<article-title>Microwave synthesis
+of ternary nitride materials</article-title>. <source>J. Solid State
+Chem.</source>
+<year>1997</year>, <volume>130</volume> (<issue>2</issue>), <fpage>266</fpage>&#x02013;<lpage>271</lpage>. <pub-id pub-id-type="doi">10.1006/jssc.1997.7303</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Wen</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>K.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>
+<article-title>A new ternary composite
+lithium silicon nitride as anode material for lithium ion batteries</article-title>. <source>Electrochemistry communications</source>
+<year>2006</year>, <volume>8</volume> (<issue>8</issue>), <fpage>1349</fpage>&#x02013;<lpage>1352</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2006.06.022</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Hashim</surname><given-names>U.</given-names></name>; <name><surname>Chong</surname><given-names>S.W.</given-names></name>; <name><surname>Liu</surname><given-names>W.-W.</given-names></name>
+<article-title>Fabrication
+of silicon nitride ion
+sensitive field-effect transistor for pH measurement and DNA immobilization/hybridization</article-title>. <source>J. Nanomater.</source>
+<year>2013</year>, <volume>2013</volume>, <elocation-id>542737</elocation-id><pub-id pub-id-type="doi">10.1155/2013/542737</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Zeuner</surname><given-names>M.</given-names></name>; <name><surname>Pagano</surname><given-names>S.</given-names></name>; <name><surname>Schnick</surname><given-names>W.</given-names></name>
+<article-title>Nitridosilicates and oxonitridosilicates:
+from ceramic materials to structural and functional diversity</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2011</year>, <volume>50</volume> (<issue>34</issue>), <fpage>7754</fpage>&#x02013;<lpage>7775</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201005755</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="thesis" id="cit59"><person-group person-group-type="allauthors"><name><surname>Raghavan</surname><given-names>R.</given-names></name></person-group><article-title>Synthesis and
+electrochemical characterization of Silicon clathrates as anode materials
+for Lithium ion batteries</article-title>. M.S. Thesis, <publisher-name>Arizona State University</publisher-name>, <year>2013</year>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Yamashita</surname><given-names>T.</given-names></name>; <name><surname>Kuwano</surname><given-names>S.</given-names></name>; <name><surname>Kuriyama</surname><given-names>K.</given-names></name>; <name><surname>Kushida</surname><given-names>K.</given-names></name>
+<article-title>Optical band
+gap of
+Li8SiN4 with disordered structure as a cathode material of lithium
+secondary batteries</article-title>. <source>physica status solidi (c)</source>
+<year>2015</year>, <volume>12</volume> (<issue>6</issue>), <fpage>845</fpage>&#x02013;<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1002/pssc.201400214</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>A.</given-names></name>; <name><surname>Wu</surname><given-names>N.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Li3N-Modified garnet electrolyte for all-solid-state
+lithium metal batteries operated at 40&#x000b0; C</article-title>. <source>Nano Lett.</source>
+<year>2018</year>, <volume>18</volume> (<issue>11</issue>), <fpage>7414</fpage>&#x02013;<lpage>7418</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.8b03902</pub-id>.<pub-id pub-id-type="pmid">30352159</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Chen</surname><given-names>K.</given-names></name>; <name><surname>Pathak</surname><given-names>R.</given-names></name>; <name><surname>Gurung</surname><given-names>A.</given-names></name>; <name><surname>Adhamash</surname><given-names>E. A.</given-names></name>; <name><surname>Bahrami</surname><given-names>B.</given-names></name>; <name><surname>He</surname><given-names>Q.</given-names></name>; <name><surname>Qiao</surname><given-names>H.</given-names></name>; <name><surname>Smirnova</surname><given-names>A. L.</given-names></name>; <name><surname>Wu</surname><given-names>J. J.</given-names></name>; <name><surname>Qiao</surname><given-names>Q.</given-names></name>; et al. <article-title>Flower-shaped lithium
+nitride as a protective layer via facile plasma
+activation for stable lithium metal anodes</article-title>. <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>389</fpage>&#x02013;<lpage>396</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.02.006</pub-id>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Takeda</surname><given-names>Y.</given-names></name>; <name><surname>Yamamoto</surname><given-names>O.</given-names></name>; <name><surname>Imanishi</surname><given-names>N.</given-names></name>
+<article-title>Lithium dendrite formation
+on a lithium
+metal anode from liquid, polymer and solid electrolytes</article-title>. <source>Electrochemistry</source>
+<year>2016</year>, <volume>84</volume> (<issue>4</issue>), <fpage>210</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.5796/electrochemistry.84.210</pub-id>.</mixed-citation></ref></ref-list></back></article>
