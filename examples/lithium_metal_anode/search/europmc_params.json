@@ -1,0 +1,23 @@
+{
+  "query": [
+    "lithium metal battery",
+    "lithium metal anode"
+  ],
+  "page_size": 200,
+  "result_type": "core",
+  "sleep": 0.5,
+  "start_year": 2010,
+  "end_year": 2025,
+  "require_full_text": true,
+  "regex": {
+    "scope": "field",
+    "groups": {
+      "anode": [
+        "\\blithium metal anode\\b",
+        "\\blithium anode\\b",
+        "\\blithium metal battery\\b"
+      ],
+      "solvent": ["\\belectrolyte\\b|\\bsolvent\\b"]
+    }
+  }
+}

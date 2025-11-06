@@ -1,0 +1,32 @@
+{
+  "query": [
+    "Lithium metal battery",
+    "Lithium metal anode"
+  ],
+  "filters": {
+    "type": "journal-article"
+  },
+  
+  "start_year": 2010,
+  "end_year": 2025,
+  "rows": 1000,
+  "select": "DOI,publisher,title,license,abstract",
+  "mailto": "m.golomb@surrey.ac.uk",
+  "app_name": "High-throughput design of lithium metal electrolytes",
+  "app_version": "0.1",
+  "app_url": "None",
+  "restart_threshold": 100000,
+  "base_url": "https://api.crossref.org/works",
+  "output_dir": "search/crossref_dumps",
+  "regex": {
+    "scope": "field",
+    "groups": {
+      "anode": [
+        "\\blithium metal anode\\b",
+        "\\blithium anode\\b",
+        "\\blithium metal battery\\b"
+      ],
+      "solvent": ["\\belectrolyte\\b|\\bsolvent\\b"]
+    }
+  }
+}

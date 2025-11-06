@@ -1,0 +1,11 @@
+{
+  "start_date": "2018-01-01",
+  "end_date": null,
+  "dump_dir": "chemrxiv_dumps",
+  "result_dir": "chemrxiv_results",
+  "sleep_seconds": 5.0,
+  "query": [
+    ["lithium anode", "lithium metal anode", "lithium metal"],
+    ["electrolyte", "solvent", "liquid electrolyte"]
+  ]
+}
