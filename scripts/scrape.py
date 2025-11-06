@@ -7,7 +7,7 @@ Usage examples:
   --dump search/results.jsonl \
   --out scrape \
   --key doi \
-  --api-keys refactor_skeleton/examples/lithium_metal_anode/scrape/api_keys.txt
+  --api-keys examples/lithium_metal_anode/scrape/api_keys.txt
 
   # Crossref dump (Wiley/Elsevier only)
   python scripts/scrape.py crossref \
@@ -15,7 +15,7 @@ Usage examples:
   --out scrape \
   --key doi \
   --publishers wiley elsevier \
-  --api-keys refactor_skeleton/examples/lithium_metal_anode/scrape/api_keys.txt
+  --api-keys examples/lithium_metal_anode/scrape/api_keys.txt
 
   # Europe PMC results → full-text XML (by PMCID)
   python scripts/scrape.py europmc \
@@ -29,10 +29,11 @@ from pathlib import Path
 
 
 def _load_module() -> object:
+  """Load scraping helpers from src/."""
   this_dir = Path(__file__).resolve().parent
   src_root = this_dir.parent / "src"
-  module_file = src_root / "alchemy_refactor" / "scrape.py"
-  spec = importlib.util.spec_from_file_location("alchemy_refactor.scrape", str(module_file))
+  module_file = src_root / "scrape.py"
+  spec = importlib.util.spec_from_file_location("scrape", str(module_file))
   assert spec and spec.loader, f"Cannot load module from {module_file}"
   mod = importlib.util.module_from_spec(spec)
   sys.modules[spec.name] = mod  # register before exec

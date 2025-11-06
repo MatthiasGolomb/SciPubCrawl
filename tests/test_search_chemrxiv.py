@@ -20,8 +20,8 @@ def test_params_load_and_defaults(tmp_path: Path):
     # Act: import and load
     # Load module by file location to avoid package install requirements
     repo_root = Path(__file__).resolve().parents[2]
-    module_path = repo_root / "refactor_skeleton" / "src" / "alchemy_refactor" / "search_chemrxiv.py"
-    spec = importlib.util.spec_from_file_location("alchemy_refactor.search_chemrxiv", str(module_path))
+    module_path = repo_root / "src" / "search_chemrxiv.py"
+    spec = importlib.util.spec_from_file_location("search_chemrxiv", str(module_path))
     assert spec and spec.loader
     mod = importlib.util.module_from_spec(spec)
     sys.modules[spec.name] = mod

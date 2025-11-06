@@ -7,7 +7,7 @@ Flows supported:
   and Unpaywall for other publishers. This avoids paperscraper's Crossref path.
 
 API keys: prefer env variables; optionally load from a KEY=VALUE file
-for convenience (e.g., `refactor_skeleton/examples/lithium_metal_anode/scrape/api_keys.txt`).
+for convenience (e.g., `examples/lithium_metal_anode/scrape/api_keys.txt`).
 Supported keys (env or file KEY=VALUE lines):
 - WILEY_TDM_API_TOKEN
 - ELSEVIER_TDM_API_KEY

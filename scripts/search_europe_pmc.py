@@ -31,10 +31,11 @@ from pathlib import Path
 
 
 def _load_module() -> object:
+    """Load Europe PMC search utilities from src/"""
     this_dir = Path(__file__).resolve().parent
     src_root = this_dir.parent / "src"
-    module_file = src_root / "alchemy_refactor" / "search_europe_pmc.py"
-    spec = importlib.util.spec_from_file_location("alchemy_refactor.search_europe_pmc", str(module_file))
+    module_file = src_root / "search_europe_pmc.py"
+    spec = importlib.util.spec_from_file_location("search_europe_pmc", str(module_file))
     assert spec and spec.loader, f"Cannot load module from {module_file}"
     mod = importlib.util.module_from_spec(spec)
     sys.modules[spec.name] = mod
