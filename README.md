@@ -12,15 +12,15 @@ SciPubCrawl is a script-first pipeline to search literature, download full texts
 ```mermaid
 %%{init: { 'theme': 'neutral', 'themeVariables': { 'primaryColor': '#1e293b', 'primaryBorderColor':'#334155', 'primaryTextColor':'#f1f5f9', 'fontFamily': 'Inter, system-ui, sans-serif' } } }%%
 flowchart LR
-  A[🔎 Search] --> B[⬇️ Scrape]
+  A[🔎 Search] --> |Chemrxiv, Crossref| B[⬇️ Scrape]
 
   %% Split artifacts produced by scraping
-  B -->|PDF| P[📄 PDF]
-  B -->|XML| X[🧩 XML]
+  B --> P[📄 PDF]
+  B --> X[🧩 XML]
 
   %% Only PDF goes to Convert
   P --> C[📝 Convert]
-  C -->|Markdown| M[🧾 Markdown]
+  C -->|Marker| M[🧾 Markdown]
 
   %% Both XML and PDF feed into Extract (Markdown from Convert; PDFs can be used directly when suitable)
   M --> D[🧠 Extract]
@@ -28,7 +28,7 @@ flowchart LR
   P --> D
 
   %% Final destination
-  D --> DB[(🗄️ Database)]
+  D --> |LLM| DB[(🗄️ Database)]
 
   %% Info side node
   B -. unavailable .-> B2[(not_api_available.jsonl)]
