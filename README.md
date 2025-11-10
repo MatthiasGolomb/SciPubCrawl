@@ -2,8 +2,6 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![Status](https://img.shields.io/badge/Status-Research%20Tool-6b7280) ![License](https://img.shields.io/badge/License-Unspecified-orange)
 
-Search → Scrape → Convert → Extract
-
 SciPubCrawl is a script-first pipeline to search literature, download full texts, convert PDFs to Markdown, and extract structured data with an LLM-backed schema.
 
 • Primary path: 🔎 Search → ⬇️ Scrape → 📝 Convert (Marker) → 🧠 Extract (LLM)
@@ -72,25 +70,7 @@ flowchart LR
 
 </details>
 
-
-## Requirements
-- Core: see `requirements.txt` (requests, bs4, lxml, pandas, numpy, click, crossrefapi, pytest)
-- Optional by stage:
-  - Convert: `marker-pdf` (Marker) if using the Python API; you may also use the Marker CLI
-  - Extract (LLM): `pydantic>=2`, `litellm`, `instructor`, plus your model provider key (e.g., `OPENAI_API_KEY`)
-  - Schema viz (optional): `erdantic`, `graphviz`
-  - ChemRxiv scraping/query: `paperscraper`
-
-## API keys and politeness
-- Set via environment variables or a simple KEY=VALUE file and pass with `--api-keys`:
-  - `WILEY_TDM_API_TOKEN`, `ELSEVIER_TDM_API_KEY`, `UNPAYWALL_EMAIL` (scraping)
-  - `OPENAI_API_KEY` (LLM extraction via litellm)
-- Crossref requests include a polite User-Agent (Etiquette). Provide `--mailto` and app info where relevant.
-
-> Security note
-> Do not commit secrets to git. Use environment variables or a local file (e.g., `api_keys.txt`) that is ignored by git. This repository includes a `.gitignore` entry to exclude `api_keys.txt` and `.env*` files.
-
-## Quickstart (full pipeline with examples)
+## Quickstart  
 1) Search (Crossref, yearly dump → filter)
 <details><summary>Commands</summary>
 
@@ -184,7 +164,7 @@ python scripts/search_crossref.py filter \
 
 </details>
 
-### Europe PMC
+Europe PMC
 <details><summary>Commands</summary>
 
 ```bash
@@ -204,7 +184,7 @@ python scripts/search_europe_pmc.py filter \
 
 </details>
 
-### ChemRxiv
+ChemRxiv
 <details><summary>Commands</summary>
 
 ```bash
@@ -267,13 +247,12 @@ Notes
 
 
 ## 📝 Convert (Marker)
-<details><summary>Install & convert</summary>
+<details><summary>Convert</summary>
 
 ```bash
 python scripts/convert_to_md.py \
   --pdf-dir examples/lithium_metal_anode/scrape/crossref_pdf \
-  --out examples/lithium_metal_anode/convert/crossref_md \
-  --overwrite
+  --out examples/lithium_metal_anode/convert/crossref_md 
 ```
 
 </details>
@@ -338,6 +317,22 @@ LLM extract params (`examples/lithium_metal_anode/extract/extract_params.json`)
 Precedence
 - CLI flags > params file > built-in defaults.
 
+## Requirements
+- Core: see `requirements.txt` (requests, bs4, lxml, pandas, numpy, click, crossrefapi, pytest)
+- Optional by stage:
+  - Convert: `marker-pdf` (Marker) if using the Python API; you may also use the Marker CLI
+  - Extract (LLM): `pydantic>=2`, `litellm`, `instructor`, plus your model provider key (e.g., `OPENAI_API_KEY`)
+  - Schema viz (optional): `erdantic`, `graphviz`
+  - ChemRxiv scraping/query: `paperscraper`
+
+## API keys and politeness
+- Set via environment variables or a simple KEY=VALUE file and pass with `--api-keys`:
+  - `WILEY_TDM_API_TOKEN`, `ELSEVIER_TDM_API_KEY`, `UNPAYWALL_EMAIL` (scraping)
+  - `OPENAI_API_KEY` (LLM extraction via litellm)
+- Crossref requests include a polite User-Agent (Etiquette). Provide `--mailto` and app info where relevant.
+
+> Security note
+> Do not commit secrets to git. Use environment variables or a local file (e.g., `api_keys.txt`) that is ignored by git. This repository includes a `.gitignore` entry to exclude `api_keys.txt` and `.env*` files.
 
 ## Testing
 - Run unit tests:
