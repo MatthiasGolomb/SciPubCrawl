@@ -1,8 +1,10 @@
 # SciPubCrawl — Literature Mining Pipeline
 
-![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![Status](https://img.shields.io/badge/Status-Research%20Tool-6b7280) ![License](https://img.shields.io/badge/License-Unspecified-orange)
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![Status](https://img.shields.io/badge/Status-Research%20Tool-6b7280) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-SciPubCrawl is a script-first pipeline to search literature, download full texts, convert PDFs to Markdown, and extract structured data with an LLM-backed schema.
+SciPubCrawl is a pipeline tool to search literature, download full texts, convert PDFs to Markdown, and extract structured data with an LLM-backed schema. It is intended to aid the aumation of database creation and digitization of 'old' knowledge in your scientific field.
+
+DISCLAIMER: Large language models are not exact tools, and thus there is no guarantee in the outcome of this analysis to be 100% correct. It is adviseable to investigate the resulting data (e.g. statistical/outlier analysis), iterate on your prompts and schemas, and make sure the conclusions you draw are not products of hallucination!
 
 • Primary path: 🔎 Search → ⬇️ Scrape → 📝 Convert (Marker) → 🧠 Extract (LLM)
 
@@ -330,9 +332,6 @@ Precedence
   - `WILEY_TDM_API_TOKEN`, `ELSEVIER_TDM_API_KEY`, `UNPAYWALL_EMAIL` (scraping)
   - `OPENAI_API_KEY` (LLM extraction via litellm)
 - Crossref requests include a polite User-Agent (Etiquette). Provide `--mailto` and app info where relevant.
-
-> Security note
-> Do not commit secrets to git. Use environment variables or a local file (e.g., `api_keys.txt`) that is ignored by git. This repository includes a `.gitignore` entry to exclude `api_keys.txt` and `.env*` files.
 
 ## Testing
 - Run unit tests:
