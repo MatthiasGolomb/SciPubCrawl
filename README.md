@@ -49,7 +49,6 @@ flowchart LR
 - Configuration files (examples)
 - Requirements
 - API keys and politeness
-- Testing
 - Troubleshooting
 
 <details>
@@ -60,7 +59,6 @@ flowchart LR
   - `scrape.py`: PDF/XML downloaders (Wiley/Elsevier/Unpaywall; Europe PMC full-text XML)
   - `convert_to_md.py`: Marker-based PDF → Markdown conversion
   - `extract_marker.py`: Config-driven LLM extraction with schema validation and prompt config
-  - (internal test helper) `extract_markers.py`: heuristic extractor retained solely for test coverage
 - `scripts/` (thin CLIs over the above modules)
   - `search_crossref.py`, `search_europe_pmc.py`, `search_chemrxiv.py`
   - `scrape.py`, `convert_to_md.py`, `extract_marker.py`
@@ -124,17 +122,6 @@ python scripts/extract_marker.py \
 
 python scripts/extract_marker.py \
   --params-file examples/lithium_metal_anode/extract/extract_params.json
-```
-
-</details>
-
-5) (Optional) Testing-only heuristic check
-<details><summary>Command</summary>
-
-```bash
-python scripts/extract_markers.py \
-  --md-root examples/lithium_metal_anode/convert/crossref_md \
-  --out examples/lithium_metal_anode/extract/crossref_md_output
 ```
 
 </details>
@@ -298,9 +285,6 @@ Outputs
 - On errors with `on_parse_error=save_raw`, a `.error.txt` is written with details.
 
 
-<!-- Heuristic extractor section intentionally removed; kept only for internal tests. -->
-
-
 ## Configuration files (examples)
 
 Crossref params (`examples/lithium_metal_anode/search/crossref_params.json`)
@@ -332,12 +316,6 @@ Precedence
   - `WILEY_TDM_API_TOKEN`, `ELSEVIER_TDM_API_KEY`, `UNPAYWALL_EMAIL` (scraping)
   - `OPENAI_API_KEY` (LLM extraction via litellm)
 - Crossref requests include a polite User-Agent (Etiquette). Provide `--mailto` and app info where relevant.
-
-## Testing
-- Run unit tests:
-  pytest -q
-- Current tests cover ChemRxiv params loading and a minimal heuristic extraction pathway (via `extract_markers.py`, which is not part of standard usage).
-
 
 ## Troubleshooting
 - HTTP 429 / rate limiting: the tools back off and retry. Increase `--sleep` for large jobs.
