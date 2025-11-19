@@ -19,3 +19,13 @@ api_keys.txt
 # Outputs and scratch
 *.log
 .DS_Store
+
+# Example data artifacts (do not commit)
+# All PDFs and XMLs under examples' scrape outputs
+examples/**/scrape/**/*.pdf
+examples/**/scrape/**/*.PDF
+examples/**/scrape/**/*.xml
+examples/**/scrape/**/*.XML
+
+# Extract outputs (text results)
+examples/**/extract/**/crossref_md_output/**/*.txt
