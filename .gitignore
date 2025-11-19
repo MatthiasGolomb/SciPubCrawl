@@ -29,3 +29,6 @@ examples/**/scrape/**/*.XML
 
 # Extract outputs (text results)
 examples/**/extract/**/crossref_md_output/**/*.txt
+
+# Converted markdown outputs (keep only directory skeleton)
+examples/**/convert/crossref_md/**/*.md
