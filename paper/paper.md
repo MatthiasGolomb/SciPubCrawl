@@ -36,7 +36,7 @@ SciPubCrawl fills this gap with a deliberately staged workflow. First, the searc
 
 The following extraction stage uses a schema-constrained LLM pipeline powered by LiteLLM, Instructor, and Pydantic. Figure \autoref{fig:example} shows the schema diagram generated for the lithium metal anode case study, highlighting the nested entities captured during extraction and the guarantees provided by schema validation.
 
-![Schema for lithium metal anode extraction.\label{fig:example}](../examples/lithium_metal_anode/extract/diagram.svg){ width=80% }
+![Schema for lithium metal anode extraction.\label{fig:example}](../examples/lithium_metal_anode/extract/diagram.svg)
 
 This step is crucial for the useability of LLM output in database creation in order to guarantee standardized output across model calls. It does however not necessary result in a standardization of output per category, particularly regarding units (e.g. Fahrenheit or Celsius for temperature). The user can choose to either address this in the model prompt by providing examples showcasing which conversion the model should expect, or standardizing units in a post-process step. Control of the extraction step is provided via parameter files, the creation of pydantic schemas and zero-, one- or fewshot prompting.
 
