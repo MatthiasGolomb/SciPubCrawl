@@ -9,12 +9,10 @@ tags:
 authors:
   - name: Matthias J. Golomb
     orcid: 0000-0001-6749-0129
-    equal-contrib: true
     corresponding: true
     affiliation: 1
   - name: Neubi Xavier
     orcid: 0000-0002-2133-0557
-    euqal-contrib: true
     affiliation: 1
   - name: Qiong Cai
     orcid: 0000-0002-1677-0515
@@ -31,11 +29,11 @@ Current developments in machine learning and artificial intelligence are motivat
 SciPubCrawl is an end-to-end Python pipeline for building domain-specific corpora from scientific literature. It automates four tightly coupled stages: search, scrape, convert, and extract. Its search covers popular scholarly sources (Crossref, Europe PMC, ChemRxiv). The project emphasizes provenance (directory-per-stage outputs), fault tolerance (retry/backoff, skip lists), and structured downstream analysis via large language models (LLMs) with Pydantic schemas. Researchers can replicate literature studies, mix multiple providers, and obtain validated JSON suitable for databases or downstream modeling.
 
 # Statement of Need
-Scientific discovery workflows often require assembling ad-hoc corpora around evolving topics (e.g., electrolyte additives, battery materials). Existing tooling typically covers either search APIs (e.g. paperscraper[@born2021trends]) or PDF parsing (e.g. marker[@Marker], nougat[@blecher2023nougat]), but does not offer a cohesive pipeline with consistent configuration and standardized output ready for conversion to a database. 
+Scientific discovery workflows often require assembling ad-hoc corpora around evolving topics such as electrolyte additives or battery materials. Existing tooling typically covers either search APIs (e.g. paperscraper [@born2021trends]) or PDF parsing (e.g. marker [@Marker], nougat [@blecher2023nougat]), but does not offer a cohesive pipeline with consistent configuration and standardized output ready for conversion to a database. 
 
-SciPubCrawl fills this gap with a staged workflow. First, the search layer harmonizes heterogeneous metadata from Crossref[@CrossrefAPI], Europe PMC[@EuropePMC2015], and ChemRxiv[@ChemRxivAPI] regardless of their native schemas into JSONL files that expose consistent keys for DOI, title, abstract, and provider metadata. This process can be controlled via the command line for quick tests, or via parameter files that can be saved and stored for reproducibility. In addition to high-level search parameters such as article type and year range, the user can specify regex keywords to refine the search based on the article's title and/or abstract. Next, every download, conversion, and extraction artifact is written into deterministic folder structures so that any run can be reproduced, audited, or resumed later. The code respects API etiquette and has multiple built-in fallbacks: the scraping of full text pdfs directly via publisher API is preferred, followed by publisher xml files and full text retrieval via Unpaywall[@Unpaywall]. We recommend the execution of this process via an IP address connected to an educational site. While pdf files are useful for human readability, programmatic analysis requires a transformation into a text-based format. This is achieved using marker which results in markdown files for the extracted text plus cached assets such as figures.
+SciPubCrawl fills this gap with a staged workflow. First, the search layer harmonizes heterogeneous metadata from Crossref  [@CrossrefAPI], Europe PMC [@EuropePMC2015], and ChemRxiv [@ChemRxivAPI] regardless of their native schemas into JSONL files that expose consistent keys for DOI, title, abstract, and provider metadata. This process can be controlled via the command line for quick tests, or via parameter files that can be saved and stored for reproducibility. In addition to high-level search parameters such as article type and year range, the user can specify regex keywords to refine the search based on the article's title and/or abstract. Next, every download, conversion, and extraction artifact is written into deterministic folder structures so that any run can be reproduced, audited, or resumed later. The code respects API etiquette and has multiple built-in fallbacks: the scraping of full text pdfs directly via publisher API is preferred, followed by publisher xml files and full text retrieval via Unpaywall [@Unpaywall]. We recommend the execution of this process via an IP address connected to an educational site. While pdf files are useful for human readability, programmatic analysis requires a transformation into a text-based format. This is achieved using marker which results in markdown files for the extracted text plus cached assets such as figures.
 
-The following extraction stage uses a schema-constrained LLM pipeline powered by LiteLLM[@LiteLLM], Instructor[@liu2024instructor], and Pydantic[@pydanticValidation2025]. Figure \autoref{fig:example} shows the schema diagram generated for the lithium metal anode case study, highlighting the nested entities captured during extraction and the guarantees provided by schema validation.
+The following extraction stage uses a schema-constrained LLM pipeline powered by LiteLLM [@LiteLLM], Instructor [@liu2024instructor], and Pydantic [@pydanticValidation2025]. \autoref{fig:example} shows the schema diagram generated for the lithium metal anode case study, highlighting the nested entities captured during extraction and the guarantees provided by schema validation.
 
 ![Schema for lithium metal anode extraction.\label{fig:example}](../examples/lithium_metal_anode/extract/diagram.svg)
 
