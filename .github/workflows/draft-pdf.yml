@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - JOSS
     paths:
       - paper/**
       - .github/workflows/draft-pdf.yml
