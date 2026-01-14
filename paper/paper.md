@@ -11,7 +11,7 @@ authors:
     orcid: 0000-0001-6749-0129
     corresponding: true
     affiliation: 1
-  - name: Neubi Xavier
+  - name: Neubi F. Xavier
     orcid: 0000-0002-2133-0557
     affiliation: 1
   - name: Qiong Cai
@@ -35,7 +35,7 @@ SciPubCrawl fills this gap with a staged workflow. First, the search layer harmo
 
 The following extraction stage uses a schema-constrained LLM pipeline powered by LiteLLM [@LiteLLM], Instructor [@liu2024instructor], and Pydantic [@pydanticValidation2025]. \autoref{fig:example} shows the schema diagram generated for the lithium metal anode case study, highlighting the nested entities captured during extraction and the guarantees provided by schema validation.
 
-![Schema for lithium metal anode extraction.\label{fig:example}](../examples/lithium_metal_anode/extract/diagram.svg)
+![Simplified example of a schema for lithium metal anode extraction.\label{fig:example}](diagram_simplified.jpg)
 
 This step is crucial for the useability of LLM output in database creation in order to guarantee standardized output across model calls. It does however not necessary result in a standardization of output per category, particularly regarding units (e.g. Fahrenheit or Celsius for temperature). The user can choose to either address this in the model prompt by providing examples showcasing which conversion the model should expect, or standardizing units in a post-process step. Control of the extraction step is provided via parameter files, the creation of pydantic schemas and zero-, one- or fewshot prompting.
 
