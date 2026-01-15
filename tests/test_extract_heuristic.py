@@ -2,8 +2,9 @@ from pathlib import Path
 import importlib.util
 import sys
 
-MODULE_FILE = Path(__file__).resolve().parents[1] / "src" / "extract_markers.py"
-spec = importlib.util.spec_from_file_location("extract_markers", str(MODULE_FILE))
+
+MODULE_FILE = Path(__file__).resolve().parents[1] / "src" / "extract_heuristic.py"
+spec = importlib.util.spec_from_file_location("extract_heuristic", str(MODULE_FILE))
 assert spec is not None and spec.loader is not None, f"Cannot load module from {MODULE_FILE}"
 mod = importlib.util.module_from_spec(spec)
 sys.modules[spec.name] = mod  # register before exec for dataclasses

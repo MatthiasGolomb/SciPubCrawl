@@ -70,7 +70,7 @@ def extract_entities_from_md(md_text: str) -> Dict[str, List[str]]:
     }
 
 
-def extract_markers(md_root: Path, results_out: Path) -> None:
+def extract_heuristic(md_root: Path, results_out: Path) -> None:
     results_out.mkdir(parents=True, exist_ok=True)
     for md in find_markdown_files(md_root):
         doi = md.parent.name  # assuming per-doi subfolders
